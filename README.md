@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <p align="center"></p>
-<img src="quantized_rel![quantized_relief](https://user-images.githubusercontent.com/79673051/137407740-14d2e0e9-917c-43d6-9c99-11f5baa7d00c.jpeg)
+<img src="[quantized_relief](https://user-images.githubusercontent.com/79673051/137407740-14d2e0e9-917c-43d6-9c99-11f5baa7d00c.jpeg)
 ief.jpeg" width="350" title="hover text">
 
