@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <img src="quantized_relief.jpeg" width="350" title="hover text">
+<p align="center" style="background-image: quantized_relief.jpeg>
+<!--   <img src="quantized_relief.jpeg" width="350" title="hover text"> -->
 </p>
