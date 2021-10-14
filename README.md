@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center" style="background-image: quantized_relief.jpeg></p>
-<!--   <img src="quantized_relief.jpeg" width="350" title="hover text"> -->
+<!--   <img src="quantized_relief.jpeg" width="350" title="hover text">
 
