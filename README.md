@@ -1,6 +1,3 @@
-# Hello
-
-
 ![background image](quantized_relief.jpeg)
 
 <!--
