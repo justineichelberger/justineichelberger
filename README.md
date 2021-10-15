@@ -1,8 +1,8 @@
 # Hello
 
-<img src="quantized_relief.jpeg" alt="drawing" height="200px" width="1000px"/>
+<img src="quantized_relief_adjusted.jpeg" alt="drawing" height="200px" width="1000px"/>
 
-![background image](quantized_relief.jpeg)
+![background image](quantized_relief_adjusted.jpeg)
 
 <!--
 **justineichelberger/justineichelberger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
