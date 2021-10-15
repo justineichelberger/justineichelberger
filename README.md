@@ -1,4 +1,4 @@
-![background image](quantized_relief.jpeg)
+![background image](quantized_relief_adjusted.jpeg)
 
 <!--
 
