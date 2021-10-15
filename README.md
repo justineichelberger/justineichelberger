@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div style="background-image: ![quantized_relief](https://user-images.githubusercontent.com/79673051/137513004-aa7fd7c2-9126-4c55-b9b2-e6b3a59c24f0.jpeg)"></div>
 
-<p align="center"></p>
-<img src="[quantized_relief](https://user-images.githubusercontent.com/79673051/137407740-14d2e0e9-917c-43d6-9c99-11f5baa7d00c.jpeg)
-ief.jpeg" width="350" title="hover text">
 
