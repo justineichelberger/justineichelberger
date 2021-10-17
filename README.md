@@ -1,8 +1,7 @@
 [![background image](quantized_relief_adjusted.jpeg)](https://wallpaperaccess.com/black-digital)
 
-![python-16](https://user-images.githubusercontent.com/79673051/137612668-3dfe2644-f1cd-459a-a49d-9b7d00b42ed2.png)
+![python-16](python-16.png)
 
-<img src=quantized_relief_adjusted.jpeg/>
 
 <!--
 
