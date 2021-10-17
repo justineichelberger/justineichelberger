@@ -1,9 +1,12 @@
-[![background image](quantized_relief_adjusted.jpeg)](https://wallpaperaccess.com/black-digital)
+![quantized_relief_adjusted](https://user-images.githubusercontent.com/79673051/137613740-cd01eab9-9089-4d1f-8035-761e675e4e50.jpeg)
+
 
 ![python-16](python-16.png)
 
 
 <!--
+
+[![background image](quantized_relief_adjusted.jpeg)](https://wallpaperaccess.com/black-digital)
 
 [![name](link to image on GH)](link to your URL)
 
