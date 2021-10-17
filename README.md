@@ -1,6 +1,8 @@
-![background image](quantized_relief_adjusted.jpeg)
+[![background image](quantized_relief_adjusted.jpeg)](https://wallpaperaccess.com/black-digital)
 
 <!--
+
+[![name](link to image on GH)](link to your URL)
 
 <img src="quantized_relief.jpeg" alt="drawing" height="200px" width="1000px"/>
 
