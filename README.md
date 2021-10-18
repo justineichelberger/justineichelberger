@@ -1,6 +1,6 @@
 [![background image](quantized_relief_adjusted.jpeg)](https://wallpaperaccess.com/black-digital)
 
-![python-16](python-16.png)
+&nbsp;![python-16](python-16.png)
 
 
 <!--
