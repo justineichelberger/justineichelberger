@@ -1,5 +1,5 @@
-[![background image](quantized_relief_adjusted.jpeg)](https://wallpaperaccess.com/black-digital)
 &nbsp;![python-16](python-16.png)&nbsp;![js-16](js-16.png)&nbsp;![css-16](css-16.png)&nbsp;![html-16](html-16.png)&nbsp;![tableau-logo](tableau-logo.png)&nbsp;![database-5-16](database-5-16.png)&nbsp;![mongodb-logo](mongodb-logo.png)&nbsp;![r-programming-language](r-programming-language.png)
+[![background image](quantized_relief_adjusted.jpeg)](https://wallpaperaccess.com/black-digital)
 
 <!--
 
