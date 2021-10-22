@@ -1,19 +1,19 @@
 
 
-<table align="right" border="0" cellspacing="0" cellpadding="0">
-<tr>
-  <td><img src="python-16.png"/></td>
-  <td><img src="js-16.png"/></td>
-  <td><img src="css-16.png"/></td>
-  <td><img src="html-16.png"/></td>
-  <td><img src="tableau-logo.png"/></td>
-  <td><img src="excel-3-16.png"/></td>
-  <td><img src="database-5-16.png"/></td>
-  <td><img src="mongodb-logo.png"/></td>
-  <td><img src="r-programming-language.png"/></td>
-</tr>
+<table align="center" border="0" cellspacing="0" cellpadding="0">
 <tr>
   <td colspan="9" border="0" cellspacing="0" cellpadding="0"><img src="quantized_relief_adjusted.jpeg"/></td>
+</tr>
+<tr>
+  <td align="center"><img src="python-16.png"/></td>
+  <td align="center"><img src="js-16.png"/></td>
+  <td align="center"><img src="css-16.png"/></td>
+  <td align="center"><img src="html-16.png"/></td>
+  <td align="center"><img src="tableau-logo.png"/></td>
+  <td align="center"><img src="excel-3-16.png"/></td>
+  <td align="center"><img src="database-5-16.png"/></td>
+  <td align="center"><img src="mongodb-logo.png"/></td>
+  <td align="center"><img src="r-programming-language.png"/></td>
 </tr>
 </table>
 
