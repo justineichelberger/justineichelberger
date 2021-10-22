@@ -1,6 +1,6 @@
 <table align="center" border="0" cellspacing="0" cellpadding="0">
 <tr>
-  <td colspan="10" border="0" cellspacing="0" cellpadding="0" href="https://wallpaperaccess.com/black-digital"><img src="quantized_relief_adjusted_with_sfmono.png"/></td>
+  <td colspan="10" border="0" cellspacing="0" cellpadding="0" ><img href="https://wallpaperaccess.com/black-digital" src="quantized_relief_adjusted_with_sfmono.png"/></td>
 </tr>
 <tr>
   <td align="center"><img src="python-16.png"/></td>
