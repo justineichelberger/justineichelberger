@@ -4,7 +4,7 @@
 </tr>
 <tr>
   <td align="center"><a href="https://www.python.org/"><img src="python-16.png"/></a></td>
-  <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><<img src="js-16.png"/></a><</td>
+  <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="js-16.png"/></a></td>
   <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="css-16.png"/></a></td>
   <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="html-16.png"/></a></td>
   <td align="center"><a href="https://www.tableau.com/"><img src="tableau-logo.png"/></a></td>
