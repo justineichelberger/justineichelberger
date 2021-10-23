@@ -16,11 +16,6 @@
 </tr>
 </table>
 
- <tr><td colspan="10"><img src="quantized_relief_adjusted_with_sfmono.png"/></td></tr>
- | test | test | test | test | test | test | test | test | test | test |
- |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-
-
 <!--
 
 &nbsp;![python-16](python-16.png)
