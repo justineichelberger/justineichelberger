@@ -34,10 +34,6 @@
 
 ![neural-network-icon-16](neural-network-icon-16.png "this this this this this this this this this")
 
-
-
-
-
 <sub>[·](a "· this text")</sub>
 
 <sub>[·](a "· this text")</sub>
