@@ -16,13 +16,13 @@
 </tr>
 </table>
 
-<sub>[·](a "· this text")</sub>
+<sub>![neural-network-icon-20](neural-network-icon-dark-20.png "· this")</sub>
+
+![neural-network-icon-20](neural-network-icon-dark-20.png "this this")
 
 <sub>[·](a "· this text")</sub>
 
-<sub>![neural-network-icon-20](neural-network-icon-20.png "· this")</sub>
-
-![neural-network-icon-20](neural-network-icon-20.png "this this")
+<sub>[·](a "· this text")</sub>
 
 <!--
 
