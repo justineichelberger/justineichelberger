@@ -16,6 +16,12 @@
 </tr>
 </table>
 
+<sub>[·](a "· this text")</sub>
+
+<sub>[·](a "· this text")</sub>
+
+<sub>[·](a "· this text")</sub>
+
 <!--
 
 [![name](link to image on GH)](link to your URL)
@@ -33,4 +39,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
+-->
