@@ -30,7 +30,7 @@
 
 ![neural-network-icon-16](neural-network-icon-16.png "this this this this this this this")
 
-![neural-network-icon-20](neural-network-icon-26.png "this this this this this this this this")
+![neural-network-icon-20](neural-network-icon-27.png "this this this this this this this this")
 
 ![neural-network-icon-16](neural-network-icon-16.png "this this this this this this this this this")
 
