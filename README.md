@@ -20,9 +20,13 @@
 
 <sub>[·](a "· this text")</sub>
 
-<sub>[·](a "· this text")</sub>
+<sub>![neural-network-icon-20](neural-network-icon-20.png "· this")</sub>
+
+![neural-network-icon-20](neural-network-icon-20.png "this this")
 
 <!--
+
+
 
 [![name](link to image on GH)](link to your URL)
 
