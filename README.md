@@ -16,9 +16,27 @@
 </tr>
 </table>
 
-<sub>![neural-network-icon-20](neural-network-icon-dark-20.png "· this")</sub>
+![neural-network-icon-16](neural-network-icon-16.png "this")
 
-![neural-network-icon-20](neural-network-icon-light-20.png "this this")
+![neural-network-icon-16](neural-network-icon-16.png "this this")
+
+![neural-network-icon-16](neural-network-icon-16.png "this this this")
+
+![neural-network-icon-16](neural-network-icon-16.png "this this this this")
+
+<sub>![neural-network-icon-20](neural-network-icon-dark-20.png "this this this this this")</sub>
+
+![neural-network-icon-16](neural-network-icon-16.png "this this this this this this")
+
+![neural-network-icon-16](neural-network-icon-16.png "this this this this this this this")
+
+![neural-network-icon-20](neural-network-icon-light-20.png "this this this this this this this this")
+
+![neural-network-icon-16](neural-network-icon-16.png "this this this this this this this this this")
+
+
+
+
 
 <sub>[·](a "· this text")</sub>
 
