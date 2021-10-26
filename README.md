@@ -18,7 +18,9 @@
 
 ![neural-network-icon-16](neural_network_slice_01.png "this")<br>
 ![neural-network-icon-16](neural_network_slice_02.png "this this")<br>
-![neural-network-icon-16](neural_network_slice_03.png "this this this")
+![neural-network-icon-16](neural_network_slice_03.png "this this this")<br>
+![neural-network-icon-16](neural_network_slice_04.png "this this this")<br>
+
 
 ![neural-network-icon-16](neural-network-icon-16.png "this this this this")
 
