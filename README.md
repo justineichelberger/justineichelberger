@@ -1,4 +1,4 @@
-<table align="center" border="0" cellspacing="0" cellpadding="0">
+<table align="center" border="0" cellspacing="0" cellpadding="0"><sub><sub>best viewed in 'dark' theme</sub></sub>
 <tr>
   <td colspan="10" border="0" cellspacing="0" cellpadding="0" ><a href="https://wallpaperaccess.com/black-digital"><img src="quantized_relief_adjusted_with_sfmono.png" href="https://wallpaperaccess.com/black-digital"/></a></td>
 </tr>
@@ -16,9 +16,8 @@
 </tr>
 </table>
 
-![neural-network-icon-16](neural-network-icon-16.png "this")
-
-![neural-network-icon-16](neural-network-icon-16.png "this this")
+![neural-network-icon-16](neural_network_slice_01.png "this")<br>
+![neural-network-icon-16](neural_network_slice_02.png "this this")
 
 <sub>![neural-network-icon-20](neural-network-icon-dark-20.png "this this this")</sub>
 
