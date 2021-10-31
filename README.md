@@ -20,7 +20,7 @@
 </table>
 
 ![neural-network-icon-12](neural_network_slice_01.png "this")  **! UNDER CONSTRUCTION !**<br>
-![neural-network-icon-12](neural_network_slice_07.png "this this") best in 'Default dark' <br>
+![neural-network-icon-12](neural_network_slice_07.png "this this") best viewed in 'Default dark' mode<br>
 ![neural-network-icon-12](neural_network_slice_08.png "this this this")<br>
 ![neural-network-icon-12](neural_network_slice_06.png "this this this")<br>
 ![neural-network-icon-12](neural_network_slice_02.png "this this this this")<br>
