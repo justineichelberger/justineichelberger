@@ -1,4 +1,7 @@
-<table align="center" border="0" cellspacing="0" cellpadding="0"><sub><sub>best viewed in 'dark' theme</sub></sub>
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+
+<!-- <sub><sub>best viewed in 'dark' theme</sub></sub> -->
+
 <tr>
   <td colspan="10" border="0" cellspacing="0" cellpadding="0" ><a href="https://wallpaperaccess.com/black-digital"><img src="quantized_relief_adjusted_with_sfmono.png" href="https://wallpaperaccess.com/black-digital"/></a></td>
 </tr>
@@ -16,14 +19,15 @@
 </tr>
 </table>
 
-![neural-network-icon-12](neural_network_slice_01.png "this")<br>
-![neural-network-icon-12](neural_network_slice_07.png "this this")<br>
+![neural-network-icon-12](neural_network_slice_01.png "this")  **! UNDER CONSTRUCTION !**<br>
+![neural-network-icon-12](neural_network_slice_07.png "this this") best in 'Default dark' <br>
 ![neural-network-icon-12](neural_network_slice_08.png "this this this")<br>
 ![neural-network-icon-12](neural_network_slice_06.png "this this this")<br>
 ![neural-network-icon-12](neural_network_slice_02.png "this this this this")<br>
 ![neural-network-icon-12](neural_network_slice_03.png "this this this this this")<br>
 ![neural-network-icon-12](neural_network_slice_05.png "this this this this this this")<br>
 ![neural-network-icon-12](neural_network_slice_04.png "this this this this this this this")<br>
+
 <!--
 
 ![neural-network-icon-16](neural-network-icon-16.png "this this this this")
