@@ -19,8 +19,8 @@
 </tr>
 </table>
 
-![neural-network-icon-12](neural_network_original_greyscale_02.png "this") <sub>UNDER CONSTRUCTION</sub><br>
-![neural-network-icon-12](neural_network_original_greyscale_10.png "this this") <sub>best viewed in 'Default dark' mode</sub><br>
+![neural-network-icon-12](neural_network_original_greyscale_02.png "this")<br>
+![neural-network-icon-12](neural_network_original_greyscale_10.png "this this")<br>
 ![neural-network-icon-12](neural_network_original_greyscale_04.png "this this this")<br>
 ![neural-network-icon-12](neural_network_original_greyscale_11.png "this this this this")<br>
 ![neural-network-icon-12](neural_network_original_greyscale_06.png "this this this this this")<br>
@@ -29,6 +29,10 @@
 ![neural-network-icon-12](neural_network_original_greyscale_08.png "this this this this this this this this")<br>
 
 <!--
+
+<tr><td align="center">&nbsp;<sub>UNDER CONSTRUCTION</sub></td><tr><br>
+
+<sub>best viewed in 'Default dark' mode</sub><br>
 
 ![neural-network-icon-16](neural-network-icon-16.png "this this this this")
 
