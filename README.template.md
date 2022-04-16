@@ -60,30 +60,45 @@
   </tr>
 </table>
 
-![neural-network-icon-16](./images/neural_network_original_greyscale_02.png "this")<br>
-![neural-network-icon-16](./images/neural_network_original_greyscale_10.png "this this")<br>
-![neural-network-icon-16](./images/neural_network_original_greyscale_04.png "this this this")<br>
-![neural-network-icon-16](./images/neural_network_original_greyscale_11.png "this this this this")<br>
-![neural-network-icon-16](./images/neural_network_original_greyscale_06.png "this this this this this")<br>
-![neural-network-icon-16](./images/neural_network_original_greyscale_07.png "this this this this this this")<br>
-![neural-network-icon-16](./images/neural_network_original_greyscale_09.png "this this this this this this this")<br>
-![neural-network-icon-16](./images/neural_network_original_greyscale_17.png "this this this this this this this this")<br>
-![neural-network-icon-16](./images/neural_network_original_greyscale_15.png "this this this this this this this this this")<br>
-![neural-network-icon-16](./images/neural_network_original_greyscale_12.png "this this this this this this this this this this")<br>
-![neural-network-icon-16](./images/neural_network_original_greyscale_21.png "this this this this this this this this this this this")<br>
-![neural-network-icon-16](./images/neural_network_original_greyscale_22.png "this this this this this this this this this this this this")<br>
-![neural-network-icon-16](./images/neural_network_original_greyscale_13.png "this this this this this this this this this this this this this")<br>
-![neural-network-icon-16](./images/neural_network_original_greyscale_25.png "this this this this this this this this this this this this this this")<br>
-![neural-network-icon-16](./images/neural_network_original_greyscale_24.png "this this this this this this this this this this this this this this this")<br>
-![neural-network-icon-16](./images/neural_network_original_greyscale_26.png "this this this this this this this this this this this this this this this this")<br>
-![neural-network-icon-16](./images/neural_network_original_greyscale_26.png "this this this this this this this this this this this this this this this this this")<br>
-![neural-network-icon-16](./images/neural_network_original_greyscale_26.png "this this this this this this this this this this this this this this this this this this")<br>
-![neural-network-icon-16](./images/neural_network_original_greyscale_26.png "this this this this this this this this this this this this this this this this this this this")<br>
-![neural-network-icon-16](./images/neural_network_original_greyscale_26.png "this this this this this this this this this this this this this this this this this this this this")<br>
-![neural-network-icon-16](./images/neural_network_original_greyscale_26.png "this this this this this this this this this this this this this this this this this this this this this")<br>
-![neural-network-icon-16](./images/hud_cursor_01.gif "this this this this this this this this this this this this this this this this this this this this this this this this this this this")<br>
+<!-- ### pinned repositories -->
+
+<h3><details>
+<summary>pinned repositories</summary>
+<br>
 
 <table>
+  <tr>
+    <td>
+      <a href="https://github.com/justineichelberger/nuforc-sightings-database-api">
+        <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=justineichelberger&repo=nuforc-sightings-database-api&title_color=C0C0C0&text_color=C0C0C0&icon_color=C0C0C0&bg_color=0D1117" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/justineichelberger/BureauOfLaborStatistics-InteractiveChoroplethMap">
+        <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=justineichelberger&repo=bureau-of-labor-statistics--interactive-choropleth-map&title_color=C0C0C0&text_color=C0C0C0&icon_color=C0C0C0&bg_color=0D1117" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/justineichelberger/USGSEarthquakesThisWeek">
+        <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=justineichelberger&repo=usgs-earthquakes-this-week&title_color=C0C0C0&text_color=C0C0C0&icon_color=C0C0C0&bg_color=0D1117" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/justineichelberger/vacationOptimizer">
+        <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=justineichelberger&repo=vacation-optimizer&title_color=C0C0C0&text_color=C0C0C0&icon_color=C0C0C0&bg_color=0D1117" />
+      </a>
+    </td>
+  </tr>
+</table>
+</details></h3>
+
+<h3><details>
+<summary>statistics</summary>
+<br>
+
+<!-- ### statistics -->
+
+<table style="width: 50%">
   <tr>
     <td>
       <a href="https://github.com/justineichelberger">
@@ -92,8 +107,31 @@
     </td>
     <td>
       <a href="https://github.com/justineichelberger">
-        <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justineichelberger&hide=html, css,Jupyter Notebook&title_color=C0C0C0&text_color=C0C0C0&icon_color=C0C0C0&bg_color=0D1117" />
+        <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justineichelberger&hide=html,css,Jupyter Notebook,procfile&title_color=C0C0C0&text_color=C0C0C0&icon_color=C0C0C0&bg_color=0D1117" />
       </a>
     </td>
   </tr>
 </table>
+</details></h3>
+
+![neural-network-icon-16](./images/neural_network_original_greyscale_02.png "primary motivation") &nbsp; builder of things   
+![neural-network-icon-16](./images/neural_network_original_greyscale_10.png "this this") &nbsp; values optimization and automation   
+![neural-network-icon-16](./images/neural_network_original_greyscale_04.png "this this this") &nbsp;test   
+![neural-network-icon-16](./images/neural_network_original_greyscale_11.png "this this this this") &nbsp;test   
+![neural-network-icon-16](./images/neural_network_original_greyscale_06.png "this this this this this") &nbsp;test   
+![neural-network-icon-16](./images/neural_network_original_greyscale_07.png "this this this this this this") &nbsp;test   
+![neural-network-icon-16](./images/neural_network_original_greyscale_09.png "this this this this this this this") &nbsp;test   
+![neural-network-icon-16](./images/neural_network_original_greyscale_17.png "this this this this this this this this")   
+![neural-network-icon-16](./images/neural_network_original_greyscale_15.png "this this this this this this this this this")   
+![neural-network-icon-16](./images/neural_network_original_greyscale_12.png "this this this this this this this this this this")   
+![neural-network-icon-16](./images/neural_network_original_greyscale_22.png "this this this this this this this this this this this this")   
+![neural-network-icon-16](./images/neural_network_original_greyscale_13.png "this this this this this this this this this this this this this")   
+![neural-network-icon-16](./images/neural_network_original_greyscale_25.png "this this this this this this this this this this this this this this")   
+![neural-network-icon-16](./images/neural_network_original_greyscale_24.png "this this this this this this this this this this this this this this this")   
+![neural-network-icon-16](./images/neural_network_original_greyscale_26.png "this this this this this this this this this this this this this this this this")   
+![neural-network-icon-16](./images/neural_network_original_greyscale_26.png "this this this this this this this this this this this this this this this this this")   
+![neural-network-icon-16](./images/neural_network_original_greyscale_26.png "this this this this this this this this this this this this this this this this this this")   
+![neural-network-icon-16](./images/neural_network_original_greyscale_26.png "this this this this this this this this this this this this this this this this this this this")   
+![neural-network-icon-16](./images/neural_network_original_greyscale_26.png "this this this this this this this this this this this this this this this this this this this this")   
+![neural-network-icon-16](./images/neural_network_original_greyscale_26.png "this this this this this this this this this this this this this this this this this this this this this")   
+![neural-network-icon-16](./images/hud_cursor_01.gif "this this this this this this this this this this this this this this this this this this this this this this this this this this this") {random_sighting}
