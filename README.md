@@ -65,9 +65,7 @@
 <!-- ### statistics -->
 
 <h3><details open>
-<summary>statistics</summary><br>
-  
-[![Visits Badge](https://badges.pufler.dev/visits/justineichelberger/justineichelberger)](https://badges.pufler.dev) 
+  <summary>statistics</summary><br>
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
@@ -87,7 +85,10 @@
   </tr>
 </table>
 
-</details></h3>
+</details>
+</h3>
+  
+[![Visits Badge](https://badges.pufler.dev/visits/justineichelberger/justineichelberger)](https://badges.pufler.dev) [![Updated Badge](https://badges.pufler.dev/updated/justineichelberger/justineichelberger)](https://badges.pufler.dev) 
 
 <!-- ### pinned repositories -->
 
@@ -124,10 +125,10 @@
 <!-- ### profile -->
 
 <h3><details open>
-<summary>profile</summary><br>
-  
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/justineichelberger/)  
+<summary>profile</summary> 
 </details></h3>
+  
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/justineichelberger/) 
 
 ![neural-network-icon-16](./images/neural_network_original_greyscale_02.png "primary identifier")<img src="./images/neural_network_original_greyscale_26.png"/>&nbsp;<b><strong>builder</strong></b>&nbsp;&nbsp;<img src="./images/neural_network_original_greyscale_26.png"/>   
 ![neural-network-icon-16](./images/neural_network_original_greyscale_10.png "secondary identifiers")<img src="./images/neural_network_original_greyscale_26.png"/><sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>data scientist&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>analyst&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>music theorist&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>composer&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>   
@@ -211,21 +212,16 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
-  
+
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Wilmington (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Triangular gold foil rolling across the skyMy wife and 2 children and I were traveling from Charlotte NC to Topsail Island NC this past Tuesday evening.  We got to where the Battleship is just outside of Wilmington at around 10 pm.  I was driving and  my wife was in the passenger seat and both of my kids were in the backseat.  My son was on the passenger side in the back seat.  Within a couple of minutes after passing  the battleship I noticed a strange light over the  water  approximately 1000 feet up and it is hard to guess because it was dark and what I saw was either gigantic and closer than 1000 feet or very large and 500 feet away.   At first I thought it was some sort of fireworks but quickly knew that they weren’t.  The only way to describe what I saw is huge triangular pieces of shining gold aluminum foil or some sort of fabric but it was illuminated from within itself because there were no lights around that could have been shining on them.  First it appeared for about 3 seconds and then di! sappeared for 2 seconds and then reappeared next to the spot where it had previously been.   When I saw this happening I immediately said "Look a UFO,"  my wife was sleeping but my son who is 13 years old saw it as well.  After it appeared and disappeared 4 times which looked like it was "rolling" through the air it disappeared for about 10 seconds and then reappeared a few hundred feet away from where we saw it first.  It stayed illuminated for longer this time, maybe 5 seconds and was just hovering but this time when it went away it didn’t come back.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80975.html](http://www.nuforc.org/webreports/reports/080/S80975.html)</i></sub></sub></sub><br> </sub><br>
+
 [![Updated Badge](https://badges.pufler.dev/updated/justineichelberger/nuforc-sightings-database-api)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/justineichelberger/nuforc-sightings-database-api)](https://badges.pufler.dev)<br>
-
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Vankleek Hill (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Sitting in the hottub to look up at 20+ star-like objects (first assumption satellite) flying EQUAL distance behind one another up until last 5 unknown objects.  Every single one would also light up spot light style when passive a certain point in the sky *assumption of entry of atmosphere*</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155545.html](http://www.nuforc.org/webreports/reports/155/S155545.html)</i></sub></sub></sub><br> </sub>
-
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162750.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162798.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162785.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163115.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163125.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
