@@ -88,8 +88,8 @@
 </details>
 </h3>
   
-[![Visits Badge](https://badges.pufler.dev/visits/justineichelberger/justineichelberger)](https://badges.pufler.dev) [![Updated Badge](https://badges.pufler.dev/updated/justineichelberger/justineichelberger)](https://badges.pufler.dev) 
-
+[![Visits Badge](https://badges.pufler.dev/visits/justineichelberger/justineichelberger)](https://badges.pufler.dev) [![Updated Badge](https://badges.pufler.dev/updated/justineichelberger/justineichelberger)](https://badges.pufler.dev)
+  
 <!-- ### pinned repositories -->
 
 <h3><details open>
@@ -158,8 +158,8 @@
 ![python-16](./images/languages_icons/python-16.png "language[libraries]")&nbsp;&nbsp;<sup>python</sup></summary>
 
 <a><sup>[</sup>&nbsp;&nbsp;&nbsp;&nbsp;
-<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup><sub>beautifulsoup</sub></sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup><sub>flask</sub></sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup><sub>jinja</sub></sup>&nbsp;&nbsp;&nbsp;&nbsp;
-<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup><sub>keras</sub></sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup><sub>matplotlib</sub></sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup><sub>numpy</sub></sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup><sub>pandas</sub></sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup><sub>requests</sub></sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup><sub>tensorflow</sub></sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup>]</sup></a></details></sup>
+<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup>beautifulsoup</sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup>flask</sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup>jinja</sup>&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup>keras</sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup>matplotlib</sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup>numpy</sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup>pandas</sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup>requests</sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup>tensorflow</sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup>]</sup></a></details></sup>
 
 <!-- js, html(xml), css -->
 
@@ -204,8 +204,8 @@
 
 <sup>![neural-network-icon-16](./images/neural_network_original_greyscale_26.png "application")</sup>&nbsp;&nbsp;<sub>tableau</sub><br>
 <sup>![neural-network-icon-16](./images/neural_network_original_greyscale_26.png "cloud platform")</sup>&nbsp;&nbsp;<sub>heroku</sub><br>
-<sup>![neural-network-icon-16](./images/neural_network_original_greyscale_26.png "interface")</sup>&nbsp;&nbsp;<sub>git</sub><br>
-<sup>![neural-network-icon-16](./images/neural_network_original_greyscale_26.png "version control")</sup>&nbsp;&nbsp;<sub>shell</sub>&nbsp;&nbsp;&nbsp;&nbsp;<sub><sub><sub><sub><img src="./images/neural_network_original_greyscale_26.png"/></sub></sub></sub></sub>
+<sup>![neural-network-icon-16](./images/neural_network_original_greyscale_26.png "version control")</sup>&nbsp;&nbsp;<sub>git</sub><br>
+<sup>![neural-network-icon-16](./images/neural_network_original_greyscale_26.png "interface")</sup>&nbsp;&nbsp;<sub>shell</sub>&nbsp;&nbsp;&nbsp;&nbsp;<sub><sub><sub><sub><img src="./images/neural_network_original_greyscale_26.png"/></sub></sub></sub></sub>
 
 <!-- ### auto-refreshed anecdotes -->
 
@@ -213,7 +213,7 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Wilmington (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Triangular gold foil rolling across the skyMy wife and 2 children and I were traveling from Charlotte NC to Topsail Island NC this past Tuesday evening.  We got to where the Battleship is just outside of Wilmington at around 10 pm.  I was driving and  my wife was in the passenger seat and both of my kids were in the backseat.  My son was on the passenger side in the back seat.  Within a couple of minutes after passing  the battleship I noticed a strange light over the  water  approximately 1000 feet up and it is hard to guess because it was dark and what I saw was either gigantic and closer than 1000 feet or very large and 500 feet away.   At first I thought it was some sort of fireworks but quickly knew that they weren’t.  The only way to describe what I saw is huge triangular pieces of shining gold aluminum foil or some sort of fabric but it was illuminated from within itself because there were no lights around that could have been shining on them.  First it appeared for about 3 seconds and then di! sappeared for 2 seconds and then reappeared next to the spot where it had previously been.   When I saw this happening I immediately said "Look a UFO,"  my wife was sleeping but my son who is 13 years old saw it as well.  After it appeared and disappeared 4 times which looked like it was "rolling" through the air it disappeared for about 10 seconds and then reappeared a few hundred feet away from where we saw it first.  It stayed illuminated for longer this time, maybe 5 seconds and was just hovering but this time when it went away it didn’t come back.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80975.html](http://www.nuforc.org/webreports/reports/080/S80975.html)</i></sub></sub></sub><br> </sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Kochi (India) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Cigar like thing observed in western Sky over KochiOn 19th April 2020 at about 6.40 PM, we had seen a strange moving object in sky (towards west) it was definitely not an aircraft since it is lock down in India due to corona virus.It cannot be a rocket as it is moving from left horizon to right (South to North); not upwards. The total length almost seems like more than 2 meter including what i believe is a tail, and the length remained constant all the way till it disappeared in cloud. It seemed like a missile but we were not expecting any thing like that since there is no report of an experiment and we are in middle of a pandemic crisis.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155565.html](http://www.nuforc.org/webreports/reports/155/S155565.html)</i></sub></sub></sub><br> </sub><br>
 
 [![Updated Badge](https://badges.pufler.dev/updated/justineichelberger/nuforc-sightings-database-api)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/justineichelberger/nuforc-sightings-database-api)](https://badges.pufler.dev)<br>
 <h5><details open>
@@ -221,11 +221,7 @@
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162750.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162798.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162785.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163115.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163125.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
