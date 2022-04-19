@@ -205,7 +205,7 @@
 <sup>![neural-network-icon-16](./images/neural_network_original_greyscale_26.png "application")</sup>&nbsp;&nbsp;<sub>tableau</sub><br>
 <sup>![neural-network-icon-16](./images/neural_network_original_greyscale_26.png "cloud platform")</sup>&nbsp;&nbsp;<sub>heroku</sub><br>
 <sup>![neural-network-icon-16](./images/neural_network_original_greyscale_26.png "version control")</sup>&nbsp;&nbsp;<sub>git</sub><br>
-<sup>![neural-network-icon-16](./images/neural_network_original_greyscale_26.png "interface")</sup>&nbsp;&nbsp;<sub>shell</sub>&nbsp;&nbsp;&nbsp;&nbsp;<sub><sub><sub><sub><img src="./images/neural_network_original_greyscale_26.png"/></sub></sub></sub></sub>
+<sup>![neural-network-icon-16](./images/neural_network_original_greyscale_26.png "interface")</sup>&nbsp;&nbsp;<sub>shell</sub>
 
 <!-- ### auto-refreshed anecdotes -->
 
