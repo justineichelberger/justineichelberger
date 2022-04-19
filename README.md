@@ -61,7 +61,7 @@
     </td>
   </tr>
 </table>
-
+  
 <!-- ### statistics -->
 
 <h3><details open>
@@ -124,6 +124,8 @@
 
 <h3><details open>
 <summary>profile</summary>
+  
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/justineichelberger/)  
 </details></h3>
 
 ![neural-network-icon-16](./images/neural_network_original_greyscale_02.png "primary identifier")<img src="./images/neural_network_original_greyscale_26.png"/>&nbsp;<b><strong>builder</strong></b>&nbsp;&nbsp;<img src="./images/neural_network_original_greyscale_26.png"/>   
@@ -204,24 +206,23 @@
 
 <!-- ### auto-refreshed anecdotes -->
 
+[![Updated Badge](https://badges.pufler.dev/updated/puf17640/git-badges)](https://badges.pufler.dev)  
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Yacolt (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Watched what I thought was a airplane.  But had No flashing light.  Super bright.  I saw a airplane coming in a different direction and I thought.....Wow they are going to be close.  And the bright light stopped and went in reverse for a bit, and then just stopped and bounced around like a balloon.  I saw another flash of light that looked like a stry one and a small light come off that looked like a small white ball.  I Went in and other my daughter...actually woke her up.  She watched it bounce another.  And then my other daughter came up because she wasn't feeling good and told her to come out and see.  She also saw the light and movement. It then proceed to move slowly south.  I told much husband tonight and he said, "Well, if it's a start, it will there tonight."  And it's not.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118543.html](http://www.nuforc.org/webreports/reports/118/S118543.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Richmond (KY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>We saw a triangular craft with white lights in the sky traveling from Lexington, Kentucky home to Barbourville, Kentucky.On Saturday my sister her husband and my niece and nephew and I where taking a short trip from Barbourville, Kentucky to Lexington, Kentucky to check out the malls.  On the way back home going through Richmond I saw a white light in the sky in front of the car that went from bright to dull to bright again.  Then as the highway made a turn I could see it out of the back passenger side window.  That was when I got a closer look at the thing.  It looked like it was closer to the car by then and I could clearly see a dark triangular craft with white lights on each of the three corners.  The thing was low enough that if it was an airplane it would make noise but I didn't hear a sound from it.  I watched it out the window for about ten seconds then all the sudden it disappears.  Absolutely no trace of the thing.  For about a minute I kept my eyes glued to the window trying to find it but nothing.  My sister's husband saw it too.  I am baffled, airplanes have blue and red blinking lights I know I love airplanes very much.  This was no airplane that I have ever seen in my life.  The first thing I thought to do after our sighting was to report it to you Mr. Davenport.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108810.html](http://www.nuforc.org/webreports/reports/108/S108810.html)</i></sub></sub></sub><br> </sub>
 
 <h5><details open>
-<summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
+<summary>&nbsp;&nbsp;&nbsp;aftermost</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162750.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162798.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162785.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163115.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163125.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
 <sub><sub><i>source: <a href=https://nuforc-sightings-database-api.herokuapp.com/sightings/today/rss.xml>https://nuforc-sightings-database-api.herokuapp.com/sightings/today/rss.xml</a></i></sub></sub>
 </details><h5></details>
+  
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)  
