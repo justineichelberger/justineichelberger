@@ -153,7 +153,7 @@
 <!-- python -->
 
 <sup><details><summary style="font-size: 12px;">&nbsp;&nbsp;&nbsp;&nbsp;
-![python-16](./images/languages_icons/python-16.png "language[libraries]")&nbsp;&nbsp;python</summary>
+![python-16](./images/languages_icons/python-16.png "language[libraries]")&nbsp;&nbsp;<sup>python</sup></summary>
 
 <a><sup>[</sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup><sub>beautifulsoup</sub></sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup><sub>flask</sub></sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup><sub>jinja</sub></sup>&nbsp;&nbsp;&nbsp;&nbsp;
 <sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup><sub>keras</sub></sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup><sub>matplotlib</sub></sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup><sub>numpy</sub></sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup><sub>pandas</sub></sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup><sub>requests</sub></sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup><sub>tensorflow</sub></sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup>]</sup></a></details></sup>
