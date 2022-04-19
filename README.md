@@ -65,8 +65,9 @@
 <!-- ### statistics -->
 
 <h3><details open>
-<summary>statistics</summary>
-<br>
+<summary>statistics</summary><br>
+  
+[![Visits Badge](https://badges.pufler.dev/visits/justineichelberger/justineichelberger)](https://badges.pufler.dev) 
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
@@ -208,28 +209,21 @@
 <!-- ### auto-refreshed anecdotes -->
 
 <h4><details open>
-<summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
-
-<sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br>
+<summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
+<sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
   
 [![Updated Badge](https://badges.pufler.dev/updated/justineichelberger/nuforc-sightings-database-api)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/justineichelberger/nuforc-sightings-database-api)](https://badges.pufler.dev)<br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Eau Claire (WI) reported seeing craft that fit the description of some 'Oval' over a period of approximately every night to current - every night to current minutes.</sub><blockquote><sub>Prism-colored spinning lightsIt was early Sunday morning, 4/19/20. It was about 3:30 AM when I suddenly woke up to a prism-like-colorful, oval-type object in the sky above our field.  Scared, but also curious, I grabbed a pair of binoculars and looked at the object that was still pulsating its colors. I then went to grab my phone to try to possibly take a picture and right before I was going to leave the window to do that, a bright spotlight came out from it and lit up our front field. (This happened one other time, but I didn't report it.) I was so excited, that I anticipated it the next night (Sunday evening - less than 24-hours later) and have watched it each night since (Today is Wednesday, 4/23/20). Last night I sent a Facebook Message to a neighbor who has regularly witnessed crafts and lights over our house to see if she could see anything.  She said, "Yes! It's right out my window." And then told me her husband had also witnessed it over the past few days (without me s! haring my previous evening experiences). I also want to share that randomly, a military plane (in the dusk, Tuesday evening), showed up and flew in the direction of where I had witnessed the craft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155635.html](http://www.nuforc.org/webreports/reports/155/S155635.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Sacramento (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Three white dots each in a triangle formation and then faded away.I just finished cutting my back lawn and was out of breath a little and turned off the mower and laid on the sidewalk between the garage and my plum tree.  As I looked up I saw 6 to 9 triangle lights kind of in formation right between the tree and the garage.  As I watched them they moved forward and the back a little and then forward and back again.  I raised my glasses because they can foul me up and when I did I saw just white dots.  But they were still there.  I put my glasses back on and there were three white dots for each one as the move up and back.  This went on for about 35-45 seconds and then the just disappeared.  The sky was blue or as blue as it gets in downtown Sacramento.I have seen pictures of ufo’s that look like what I saw.  Three large round white lights on the bottom in a triangle shape.  There were more than six and maybe as many as nine sets of three lights in a triangle formation but not fixed to each other.  Never seen anything like it, ever.  The way they just faded out was interesting too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88546.html](http://www.nuforc.org/webreports/reports/088/S88546.html)</i></sub></sub></sub><br> </sub>
 
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162750.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162798.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162785.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163115.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163125.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
 <sub><sub><i>source: <a href=https://nuforc-sightings-database-api.herokuapp.com/sightings/today/rss.xml>https://nuforc-sightings-database-api.herokuapp.com/sightings/today/rss.xml</a></i></sub></sub>
-</details><h5></details>
-  
-[![Visits Badge](https://badges.pufler.dev/visits/justineichelberger/justineichelberger)](https://badges.pufler.dev)  
+</details><h5></details> 
