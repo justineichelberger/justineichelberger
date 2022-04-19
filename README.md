@@ -208,20 +208,17 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Wadsworth (IL) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 2:00 in the morning - 2:00 in the morning minutes.</sub><blockquote><sub>ME AND MY FRIEND COULDN'T FALL ASLEEP SO WE WENT OUTSIDE HIS HOUSE JUST TO GET SOME AIR. I WAS TALKING TO HIM AND MY BACK WAS FACED TO HIS HOUSE WE WERE JUST LOOKIN AT THE SKY AND THERE WAS WHAT LOOKED LIKE AN ABNORMALLY ENLARGED STAR. bEFORE WE KNEW IT IT STARTED TO MOVE. INSTEAD OF MOVING ACROSS THE SKY LIK A SHOOTING STAR WOULD IT MOVED STRAIGHT TOWARDS ME AND MY FRIEND. IT SEEMED TO MOVE FROM THE SIZE OF STAR TO SIZE OF A HOUSE IN LIKE 1 SECOND, THATS HOW FAST IT FLEW. IT ALL OF A SUDDEN STOPPED AND HOVERED THERE FOR ABOUT 5 SECONDS. It was so close to us you could see almoST COMPLETE DETAIL. THERE WAS A LOT OF LIGHTS CHANGING LIKE INTERTWING IN BETWEEN ONE ANOTHER. THE AIRCRAFT LOOK LIKE A SPHERE. AFTER ABOUT 10 SECONDS IT FLEW AWAY INTO  THE SIZE OF A STAR AGAIN. I KNOW IT DEFINETLY WAS NOT A PLANE OR A SATELTE OF ANY SORT BECAUSE OF THE WAY IT MOVED. IHAVE NEVER SEEN ANYTHING MOVE SO QIUCK IN MY LIFE.((NUFORC Note:  Source of report elects to remain totally anonymous.  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32264.html](http://www.nuforc.org/webreports/reports/032/S32264.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Durban (South Africa) () reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Fast moving lights on ocean horizonWhile appraising the african sky, my family and I noticed two bright lights on the horizon. There were a few ships out to sea but they were anchored as their night lights were not moving at all.  The two bright lights were positioned one either side of a large ship but then moved towards eachother slowly and then suddenly flew apart at a great speed to stop in prev position.  The lights then flashed alternately and continued in this fashion for a few more minutes. At first we thought the lights to be pilot boats but when we saw their speed and manouvering we knew this to be impossible as no boat or helicoptor on earth can move in such a manner and speed.  Even planes do not stop dead in mid air. Unfortunately, we in S.A. do not have a UFO centre to contact or to check for similiar sightings. (We were approx. 40 mtrs above sea level and the objects appeared to be on the horizen)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13122.html](http://www.nuforc.org/webreports/reports/013/S13122.html)</i></sub></sub></sub><br> </sub>
 
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost</summary>
+</details>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162750.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162798.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162785.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163115.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163125.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub>
 
-</details>
 <sub><sub><i>source: <a href=https://nuforc-sightings-database-api.herokuapp.com/sightings/today/rss.xml>https://nuforc-sightings-database-api.herokuapp.com/sightings/today/rss.xml</a></i></sub></sub>
+</details>
