@@ -208,20 +208,16 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Melbourne Beach (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>disk circled by point, explosionAt sunset, object seen at nearly 90 degrees, (straight up)  bright bluish object sphere, with bright pinpoint object oorbiting it, about 5 second period.  At 20:11 it exploded, shower of lights, like fireworks, except very high in sky.  Binoculars & telescope used to see the orbiting point, main object looked like a bright star or planet. Could see explosion through binoculars, falling debris glowing, then nothing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22586.html](http://www.nuforc.org/webreports/reports/022/S22586.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Yacolt (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Watched what I thought was a airplane.  But had No flashing light.  Super bright.  I saw a airplane coming in a different direction and I thought.....Wow they are going to be close.  And the bright light stopped and went in reverse for a bit, and then just stopped and bounced around like a balloon.  I saw another flash of light that looked like a stry one and a small light come off that looked like a small white ball.  I Went in and other my daughter...actually woke her up.  She watched it bounce another.  And then my other daughter came up because she wasn't feeling good and told her to come out and see.  She also saw the light and movement. It then proceed to move slowly south.  I told much husband tonight and he said, "Well, if it's a start, it will there tonight."  And it's not.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118543.html](http://www.nuforc.org/webreports/reports/118/S118543.html)</i></sub></sub></sub><br> </sub>
 
-<h4><details open>
-<summary>&nbsp;&nbsp;&nbsp;aftermost</summary>
+<h5><details open>
+<summary>&nbsp;&nbsp;&nbsp;aftermost</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162750.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162798.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162785.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163115.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163125.html)
+
 <!-- BLOG-POST-LIST:END -->
-  </sub><br>
+  </sub><br><br>
 
 <sub><sub><i>source: <a href=https://nuforc-sightings-database-api.herokuapp.com/sightings/today/rss.xml>https://nuforc-sightings-database-api.herokuapp.com/sightings/today/rss.xml</a></i></sub></sub>
-</details></details>
+</details><h5></details>
