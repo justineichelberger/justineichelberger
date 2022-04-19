@@ -208,21 +208,16 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Durban (South Africa) () reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Fast moving lights on ocean horizonWhile appraising the african sky, my family and I noticed two bright lights on the horizon. There were a few ships out to sea but they were anchored as their night lights were not moving at all.  The two bright lights were positioned one either side of a large ship but then moved towards eachother slowly and then suddenly flew apart at a great speed to stop in prev position.  The lights then flashed alternately and continued in this fashion for a few more minutes. At first we thought the lights to be pilot boats but when we saw their speed and manouvering we knew this to be impossible as no boat or helicoptor on earth can move in such a manner and speed.  Even planes do not stop dead in mid air. Unfortunately, we in S.A. do not have a UFO centre to contact or to check for similiar sightings. (We were approx. 40 mtrs above sea level and the objects appeared to be on the horizen)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13122.html](http://www.nuforc.org/webreports/reports/013/S13122.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Melbourne Beach (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>disk circled by point, explosionAt sunset, object seen at nearly 90 degrees, (straight up)  bright bluish object sphere, with bright pinpoint object oorbiting it, about 5 second period.  At 20:11 it exploded, shower of lights, like fireworks, except very high in sky.  Binoculars & telescope used to see the orbiting point, main object looked like a bright star or planet. Could see explosion through binoculars, falling debris glowing, then nothing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22586.html](http://www.nuforc.org/webreports/reports/022/S22586.html)</i></sub></sub></sub><br> </sub>
 
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost</summary>
-</details>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162750.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162798.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162785.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163115.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163125.html)
+
 <!-- BLOG-POST-LIST:END -->
-</sub>
+  </sub><br>
 
 <sub><sub><i>source: <a href=https://nuforc-sightings-database-api.herokuapp.com/sightings/today/rss.xml>https://nuforc-sightings-database-api.herokuapp.com/sightings/today/rss.xml</a></i></sub></sub>
-</details>
+</details></details>
