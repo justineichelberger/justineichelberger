@@ -89,8 +89,9 @@
 </h3>
   
 [![Updated Badge](https://badges.pufler.dev/updated/justineichelberger/justineichelberger)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/justineichelberger/justineichelberger)](https://badges.pufler.dev) 
+  
 <!-- ### pinned repositories -->
-
+  
 <h3><details open>
 <summary>pinned repositories</summary>
 <br>
