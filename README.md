@@ -213,17 +213,13 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Surfside Beach (SC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Single orb over ocean, moved north, 5 orbs formed behind, followed then disappeared; sixth orb formed slightly south, then disappeared.Single orb over ocean, near Surfside Beach pier.  Orb moved north, and 5 orbs formed behind it all moving north for a few seconds, then disappeared.  Sixth orb formed approximately 100 feet south, flared bright then disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133713.html](http://www.nuforc.org/webreports/reports/133/S133713.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Humboldt (Canada) (SK) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Large triangle stopped abruptly in the air and hovered.I'm from Regina, I'm a (deleted by HBCC UFO) year old female.  My grandfather was celebrating his (deleted by HBCC UFO) so we decided to get the whole family (mostly from Ontario) to come visit and have a little party.  We rented a hall and booked a near-by hotel in the small town.  The party began at 2 in the afternoon and we had a nice day.  It was getting later, it was around 6 or 7 at night on April 19, 2003 and the sun was starting to set.  I had thrown my hip out of joint the day before and it was starting to hurt so I thought I would go back to the hotel room and lay down for a while.  I was walking down a back alley toward the setting sun when I saw something zooming across the sky at an unbelievable pace.  (I remember squinting my eyes to try and get a better look).  As it continued it's path out of the sunlight, I could see that it was a very large triangle (at first I thought it may be a stealth plane) but that's when it stopped abruptly in the air and hovered for what seemed like a very long time.  I don't think stealth planes can do that, can they?  Anyway, it zigged and zagged up into the sky (again at a jaw-dropping speed) never to be seen again.  Now I know a stealth plane can't do that! I went back to the hotel and pondered if I had really seen what I had just seen.  Things got very weird after that. (Personal information deleted by HBCC UFO Research)  Thank you to the witness for filing their report. Brian Vike, Director HBCC UFO Research Canadian Toll Free UFO Hotline 1 866 262 1989 - Free call.Editor: Canadian Communicator - Paranormal Magazine email: hbccufo@telus.net Website: http://www3.telus.net/public/wilbur8/hbcc_ufo_research.htm((NUFORC Note:  We express our gratitude to Brian Vike for the report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29829.html](http://www.nuforc.org/webreports/reports/029/S29829.html)</i></sub></sub></sub><br> </sub>
 <h5><details open>
-<summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary>
+<summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162750.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162798.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162785.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163115.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163125.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
