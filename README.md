@@ -65,9 +65,7 @@
 <!-- ### statistics -->
 
 <h3><details open>
-<summary>statistics</summary><br>
-  
-[![Visits Badge](https://badges.pufler.dev/visits/justineichelberger/justineichelberger)](https://badges.pufler.dev) 
+<summary>statistics</summary>[![Visits Badge](https://badges.pufler.dev/visits/justineichelberger/justineichelberger)](https://badges.pufler.dev)<br> 
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
