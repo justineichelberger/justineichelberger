@@ -152,16 +152,17 @@
 
 <!-- python -->
 
-<sup><details><summary style="font-size: 12px;">&nbsp;&nbsp;&nbsp;&nbsp;
+<sup><details><summary style="font-size: 12px;">&nbsp;&nbsp;
 ![python-16](./images/languages_icons/python-16.png "language[libraries]")&nbsp;&nbsp;<sup>python</sup></summary>
 
-<a><sup>[</sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup><sub>beautifulsoup</sub></sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup><sub>flask</sub></sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup><sub>jinja</sub></sup>&nbsp;&nbsp;&nbsp;&nbsp;
+<a><sup>[</sup>&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup><sub>beautifulsoup</sub></sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup><sub>flask</sub></sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup><sub>jinja</sub></sup>&nbsp;&nbsp;&nbsp;&nbsp;
 <sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup><sub>keras</sub></sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup><sub>matplotlib</sub></sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup><sub>numpy</sub></sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup><sub>pandas</sub></sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup><sub>requests</sub></sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup><sub>tensorflow</sub></sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup>]</sup></a></details></sup>
 
 <!-- js, html(xml), css -->
 
-<sup><details><summary style="font-size: 12px;">&nbsp;&nbsp;&nbsp;&nbsp;
-![js-16](./images/languages_icons/js-16.png "language[libraries]")&nbsp;&nbsp;javascript&nbsp;&nbsp;![html-16](./images/languages_icons/html-16.png "language[language/[other markup languages]]")&nbsp;&nbsp;html&nbsp;&nbsp;![css-16](./images/languages_icons/css-16.png "language[libraries]")&nbsp;&nbsp;css</summary>
+<sup><details><summary style="font-size: 12px;">&nbsp;&nbsp;
+![js-16](./images/languages_icons/js-16.png "language[libraries]")&nbsp;&nbsp;<sup>javascript</sup>&nbsp;&nbsp;![html-16](./images/languages_icons/html-16.png "language[language/[other markup languages]]")&nbsp;&nbsp;<sup>html</sup>&nbsp;&nbsp;![css-16](./images/languages_icons/css-16.png "language[libraries]")&nbsp;&nbsp;<sup>css</sup></summary>
 
 <a><sup>[</sup>&nbsp;&nbsp;&nbsp;&nbsp;
 <sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup>d3</sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup>leaflet</sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup>plotly</sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup>]</sup><sup>[</sup>&nbsp;&nbsp;
@@ -173,8 +174,8 @@
 
 <!-- databases -->
 
-<sup><details><summary style="font-size: 12px;">&nbsp;&nbsp;&nbsp;&nbsp;
-![database-5-16](./images/languages_icons/database-5-16.png "language[dialects/apis]")&nbsp;&nbsp;sql&nbsp;&nbsp;![mongodb-logo](./images/languages_icons/mongodb-logo.png "language[apis]")&nbsp;&nbsp;mongodb</summary>
+<sup><details><summary style="font-size: 12px;">&nbsp;&nbsp;
+![database-5-16](./images/languages_icons/database-5-16.png "language[dialects/apis]")&nbsp;&nbsp;<sup>sql</sup>&nbsp;&nbsp;![mongodb-logo](./images/languages_icons/mongodb-logo.png "language[apis]")&nbsp;&nbsp;<sup>mongodb</sup></summary>
 
 <a><sup>[</sup>&nbsp;&nbsp;&nbsp;&nbsp;
 <sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup>postgres</sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup>psycopg</sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup>sqlalchemy</sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup>sqlite</sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup>]</sup><sup>[</sup>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -182,16 +183,16 @@
 
 <!-- visual basic for applications -->
 
-<sup><details><summary style="font-size: 12px;">&nbsp;&nbsp;&nbsp;&nbsp;
-![vba-logo](./images/languages_icons/vba-logo.png "language[application]")&nbsp;&nbsp;vba</summary>
+<sup><details><summary style="font-size: 12px;">&nbsp;&nbsp;
+  ![vba-logo](./images/languages_icons/vba-logo.png "language[application]")&nbsp;&nbsp;<sup>vba</sup></summary>
 
 <a><sup>[</sup>&nbsp;&nbsp;&nbsp;&nbsp;
 <sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup>excel</sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup>]</sup></a></details></sup>
 
 <!-- r -->
 
-<sup><details><summary style="font-size: 12px;">&nbsp;&nbsp;&nbsp;&nbsp;
-![r-programming-language](./images/languages_icons/r-programming-language.png "language[language]")&nbsp;&nbsp;r</summary></details></sup>
+<sup><details><summary style="font-size: 12px;">&nbsp;&nbsp;
+![r-programming-language](./images/languages_icons/r-programming-language.png "language[language]")&nbsp;&nbsp;<sup>r</sup></summary></details></sup>
 
 <!-- ### tools -->
 
@@ -208,27 +209,22 @@
 
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
+[![Updated Badge](https://badges.pufler.dev/updated/justineichelberger/nuforc-sightings-database-api)](https://badges.pufler.dev)  
+<sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br>
+[![Visits Badge](https://badges.pufler.dev/visits/justineichelberger/nuforc-sightings-database-api)](https://badges.pufler.dev)
 
-[![Updated Badge](https://badges.pufler.dev/updated/puf17640/git-badges)](https://badges.pufler.dev)  
-
-<sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
-
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Sea Cliff (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Sleeping when the bright light woke us up.my boyfriend and myself were alseep around 3am on 4/19/2011 all of a sudden a bright light shoots in through all the windows in our apartment making it seem as it were 12o clock in the afternoon.  The light was so bright it woke my boyfriend and myself out of our sleep.   He got up to check on what it was as we automatically assumed it was a car. The minute he opened the curtain the light swiftly faded with no indication of a car or anyone outside for that matter.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80973.html](http://www.nuforc.org/webreports/reports/080/S80973.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Las Heras (Argentina) () reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>hello im ((name deleted)) from Argentina a country in the south of america, i no speak english so i read mi see in spanish, please you traduct.el dia 19 de abril a las 20:10 me encontraba hablando por celular y mirando por la ventana de la pieza hacia el sur oeste del cielo, y en cuanto n momento empeze a notar que muy lejos algo se empezaba a mover y fije la mirada al ver cuatro luces color como naranja y muy claras u lejanas que subian y estaban en linea las cuatro de izquierda a derecha y cuando subian se desalineaban y quedaban dos por un lado y dos por el otro, y cuando subian se movian para la derecha hacia donde yo veia la constelacion de orion, y se formaron en linea las cuatro luces y desaparecieron alli entre las estrellas. sin animo de qur me crean o no aca en mi ciudad llamada Las Heras en la provincia de Santa Cruz ya es muy habitual los avistamientos pero el de hoy me dejo que pensar, duro entre 20 y 30 segundos, no llegue ni por tiempo ni por la distancia a la que se encontraban las luces a filmar o fotografiar.espero alguna vez alguien hable de lo que pasa aca, por que hay bases escondidas en la cordillera los andes y se ven todos los dias avistamientos que nadie le importa ya, y en años de ver cosas y leer y demas es la primera vez que escribo a algina pagina o relato lo que vi. si ustedes supiesen de algun avistamiento parecido por favor comuníquese conmigo para saber si alguien mas lo vio como yo, por que se veia muy lejoa en verdad no era de verlo a simple vista.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118544.html](http://www.nuforc.org/webreports/reports/118/S118544.html)</i></sub></sub></sub><br> </sub>
 
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162750.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162798.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162785.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163115.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163125.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
 <sub><sub><i>source: <a href=https://nuforc-sightings-database-api.herokuapp.com/sightings/today/rss.xml>https://nuforc-sightings-database-api.herokuapp.com/sightings/today/rss.xml</a></i></sub></sub>
 </details><h5></details>
   
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)  
+[![Visits Badge](https://badges.pufler.dev/visits/justineichelberger/justineichelberger)](https://badges.pufler.dev)  
