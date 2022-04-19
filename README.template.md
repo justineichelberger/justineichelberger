@@ -175,7 +175,7 @@
 ![database-5-16](./images/languages_icons/database-5-16.png "language[dialects/apis]")&nbsp;&nbsp;sql&nbsp;&nbsp;![mongodb-logo](./images/languages_icons/mongodb-logo.png "language[apis]")&nbsp;&nbsp;mongodb</summary>
 
 <a><sup>[</sup>&nbsp;&nbsp;&nbsp;&nbsp;
-<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup>postgres</sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup>psycopg</sup>&nbsp;&nbsp;&nbsp;&nbsp;;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup>sqlalchemy</sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup>sqlite</sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup>]</sup><sup>[</sup>&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup>postgres</sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup>psycopg</sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup>sqlalchemy</sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup>sqlite</sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup>]</sup><sup>[</sup>&nbsp;&nbsp;&nbsp;&nbsp;
 <sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup>pymongo</sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup>]</sup></a></details></sup>
 
 <!-- visual basic for applications -->
@@ -203,10 +203,8 @@
 <sup>![neural-network-icon-16](./images/neural_network_original_greyscale_26.png "version control")</sup>&nbsp;&nbsp;<sub>shell</sub>&nbsp;&nbsp;&nbsp;&nbsp;<sub><sub><sub><sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;&nbsp;&nbsp;</sub></sub></sub>
 
 <h4><details open>
-<summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><sub><sub><br>
+<summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
+<sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-<details open>
-<summary><i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub></summary><br>
-
-<sup>![neural-network-icon-16](./images/hud_cursor_01.gif "feature") {random_sighting} </sup>
-</details></details></h4>  
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") {random_sighting} </sub>
+</details>
