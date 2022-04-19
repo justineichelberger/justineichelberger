@@ -208,14 +208,10 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two white object by MCO moving faster than commercial airline, no sound.Flying objects spotted on 528 by MCO moving east towards space coast at rapid speed.  Thought it was a plane, but commercial aircraft moves that fast.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126930.html](http://www.nuforc.org/webreports/reports/126/S126930.html)</i></sub></sub></sub><br> </sub><br><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Clinton (WI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Loud roaring noise heard over all southern Wisconsin yet military and radar stations deny contacts.Very Loud noise coming from the sky.  It sounded like several 8 engine B-52 bombers mixed with a train/tornado.  Skies were heavily overcast and it had rained earlier.  I  messaged someone 20 miles to my east when it was over and her whole family heard it too.  The next day one newspaper reported on the noise.  It  took over 5 minutes to move on from over my location.  Blog entries below the story state that people had heard the noise from  the west border of Wisconsin to the east and from the southern border north to almost Madison, Wisconsin.This was unlike anything I had ever heard before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118703.html](http://www.nuforc.org/webreports/reports/118/S118703.html)</i></sub></sub></sub><br> </sub><br><br>
 
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162750.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162798.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162785.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163115.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163125.html)
+
 <!-- BLOG-POST-LIST:END -->
 
 </details>
