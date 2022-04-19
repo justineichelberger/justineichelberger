@@ -210,8 +210,11 @@
 
 ![neural-network-icon-16](./images/hud_cursor_01.gif "feature") {random_sighting} </sub><br><br>
 
+aftermost
+
+<sub>
 <!-- BLOG-POST-LIST:START -->
 
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END --></sub>
 
 </details>
