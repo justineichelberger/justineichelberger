@@ -208,7 +208,7 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") {random_sighting} </sub><br><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") {random_sighting} </sub>
 
 aftermost
 
@@ -218,3 +218,4 @@ aftermost
 <!-- BLOG-POST-LIST:END --></sub>
 
 </details>
+<sub><sub><i>source: [nuforc-sightings-database-api](https://nuforc-sightings-database-api.herokuapp.com/sightings/today/rss.xml)</i></sub></sub>
