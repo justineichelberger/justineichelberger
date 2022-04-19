@@ -212,13 +212,12 @@
 
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost</summary>
-</details>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
-</sub>
+  </sub><br>
 
 <sub><sub><i>source: <a href=https://nuforc-sightings-database-api.herokuapp.com/sightings/today/rss.xml>https://nuforc-sightings-database-api.herokuapp.com/sightings/today/rss.xml</a></i></sub></sub>
-</details>
+</details></details>
