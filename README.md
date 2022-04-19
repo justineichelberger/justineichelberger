@@ -80,7 +80,7 @@
       </a>
     </td>
     <td  align="right" style="color: lightgray; display: inline-block; justify-content: right; padding-top: 90px;"> 
-      <img src="https://metrics.lecoq.io/justineichelberger?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=America%2FDenver"/>
+      <img src="https://metrics.lecoq.io/justineichelberger?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=America%2FDenver" />
     </td>
   </tr>
 </table>
@@ -91,7 +91,7 @@
 [![Updated Badge](https://badges.pufler.dev/updated/justineichelberger/justineichelberger)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/justineichelberger/justineichelberger)](https://badges.pufler.dev) 
   
 <!-- ### pinned repositories -->
-
+  
 <h3><details open>
 <summary>pinned repositories</summary>
 <br>
@@ -213,17 +213,13 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Altamonte Springs (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Orange, fiery lights moving single file in the same direction but, not all moving the same speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118531.html](http://www.nuforc.org/webreports/reports/118/S118531.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Bend (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Bright light traveling in circles around Venus.The light was changing colors from white to green and blue and red and pink, it was moving in a semi ciurcular motion.my girlfriend and another friend were looking at it with me.The light look round and brighter than Venus, also the light was moving or traveling in circle in the sector of the sky where Venus was at the time of our sighting.Eventuallty the light just blinked out and it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108835.html](http://www.nuforc.org/webreports/reports/108/S108835.html)</i></sub></sub></sub><br> </sub>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162750.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162798.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162785.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163115.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163125.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
