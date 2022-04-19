@@ -203,9 +203,10 @@
 <sup>![neural-network-icon-16](./images/neural_network_original_greyscale_26.png "version control")</sup>&nbsp;&nbsp;<sub>shell</sub>&nbsp;&nbsp;&nbsp;&nbsp;<sub><sub><sub><sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;&nbsp;&nbsp;</sub></sub></sub>
 
 <h4><details open>
-<summary>&nbsp;&nbsp;&nbsp;anecdote</summary><sub><sub>&nbsp;&nbsp;
+<summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><sub><sub><br>
 
-&nbsp;![neural-network-icon-16](./images/neural_network_original_greyscale_26.png "application")&nbsp;&nbsp;<i>randomly generated daily @ <a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub>
-</details></h4><br>   
+<details open>
+<summary><i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub></summary><br>
 
 <sup>![neural-network-icon-16](./images/hud_cursor_01.gif "feature") {random_sighting} </sup>
+</details></details></h4>  
