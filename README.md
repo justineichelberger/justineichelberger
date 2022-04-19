@@ -209,24 +209,19 @@
 
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
-  
-[![Updated Badge](https://badges.pufler.dev/updated/justineichelberger/nuforc-sightings-database-api)](https://badges.pufler.dev)  
+
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br>
   
-[![Visits Badge](https://badges.pufler.dev/visits/justineichelberger/nuforc-sightings-database-api)](https://badges.pufler.dev)<br>
+[![Updated Badge](https://badges.pufler.dev/updated/justineichelberger/nuforc-sightings-database-api)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/justineichelberger/nuforc-sightings-database-api)](https://badges.pufler.dev)<br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Palmetto (GA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Palmetto, GA.  Diamond a couple of seconds  a glowing diamond shaped object  picture taken 19 April 2005 at 1950 ESTI was comparing two different megapixel cameras to see the difference in sharpness.  The Sony Cybershot DSC-P52 3.2mp camera was used to compare it against a Canon 330D 6.3mp camera.  When I framed the picture of the sky with clouds and an aircraft in it I noticed a twinkling object through the view finder as I pushed the shutter button.  The resultant picture shows a diamond shaped object in front of some clouds.  I was aiming the camera at about 35 degrees above the horizon (to avoid my roof line) and was facing almost due East.  I have noticed another object in the picture in the clouds on the right side of the picture.((NUFORC Note:  Photo indicated a light-colored, diamond-shaped object.  We do not know what the object is.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86742.html](http://www.nuforc.org/webreports/reports/086/S86742.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Eau Claire (WI) reported seeing craft that fit the description of some 'Oval' over a period of approximately every night to current - every night to current minutes.</sub><blockquote><sub>Prism-colored spinning lightsIt was early Sunday morning, 4/19/20. It was about 3:30 AM when I suddenly woke up to a prism-like-colorful, oval-type object in the sky above our field.  Scared, but also curious, I grabbed a pair of binoculars and looked at the object that was still pulsating its colors. I then went to grab my phone to try to possibly take a picture and right before I was going to leave the window to do that, a bright spotlight came out from it and lit up our front field. (This happened one other time, but I didn't report it.) I was so excited, that I anticipated it the next night (Sunday evening - less than 24-hours later) and have watched it each night since (Today is Wednesday, 4/23/20). Last night I sent a Facebook Message to a neighbor who has regularly witnessed crafts and lights over our house to see if she could see anything.  She said, "Yes! It's right out my window." And then told me her husband had also witnessed it over the past few days (without me s! haring my previous evening experiences). I also want to share that randomly, a military plane (in the dusk, Tuesday evening), showed up and flew in the direction of where I had witnessed the craft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155635.html](http://www.nuforc.org/webreports/reports/155/S155635.html)</i></sub></sub></sub><br> </sub>
 
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162750.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162798.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162785.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163115.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163125.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
