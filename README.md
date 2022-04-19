@@ -211,7 +211,7 @@
 ![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Yacolt (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Watched what I thought was a airplane.  But had No flashing light.  Super bright.  I saw a airplane coming in a different direction and I thought.....Wow they are going to be close.  And the bright light stopped and went in reverse for a bit, and then just stopped and bounced around like a balloon.  I saw another flash of light that looked like a stry one and a small light come off that looked like a small white ball.  I Went in and other my daughter...actually woke her up.  She watched it bounce another.  And then my other daughter came up because she wasn't feeling good and told her to come out and see.  She also saw the light and movement. It then proceed to move slowly south.  I told much husband tonight and he said, "Well, if it's a start, it will there tonight."  And it's not.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118543.html](http://www.nuforc.org/webreports/reports/118/S118543.html)</i></sub></sub></sub><br> </sub>
 
 <h5><details open>
-<summary>&nbsp;&nbsp;&nbsp;aftermost</summary><br>
+<summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
