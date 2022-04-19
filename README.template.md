@@ -80,7 +80,7 @@
       </a>
     </td>
     <td  align="right" style="color: lightgray; display: inline-block; justify-content: right; padding-top: 90px;"> 
-      <img src="https://metrics.lecoq.io/justineichelberger?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=America%2FDenver"/>
+      <img src="https://metrics.lecoq.io/justineichelberger?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=America%2FDenver" />
     </td>
   </tr>
 </table>
@@ -89,7 +89,6 @@
 </h3>
   
 [![Updated Badge](https://badges.pufler.dev/updated/justineichelberger/justineichelberger)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/justineichelberger/justineichelberger)](https://badges.pufler.dev) 
-  
 <!-- ### pinned repositories -->
 
 <h3><details open>
