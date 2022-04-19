@@ -153,6 +153,7 @@
 <!-- python -->
 
 <sup><details><summary style="font-size: 12px;">&nbsp;&nbsp;&nbsp;&nbsp;
+
 ![python-16](./images/languages_icons/python-16.png "language[libraries]")&nbsp;&nbsp;python</summary>
 
 <a><sup>[</sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup><sub>beautifulsoup</sub></sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup><sub>flask</sub></sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup><sub>jinja</sub></sup>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -161,6 +162,7 @@
 <!-- js, html(xml), css -->
 
 <sup><details><summary style="font-size: 12px;">&nbsp;&nbsp;&nbsp;&nbsp;
+
 ![js-16](./images/languages_icons/js-16.png "language[libraries]")&nbsp;&nbsp;javascript&nbsp;&nbsp;![html-16](./images/languages_icons/html-16.png "language[language/[other markup languages]]")&nbsp;&nbsp;html&nbsp;&nbsp;![css-16](./images/languages_icons/css-16.png "language[libraries]")&nbsp;&nbsp;css</summary>
 
 <a><sup>[</sup>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -174,6 +176,7 @@
 <!-- databases -->
 
 <sup><details><summary style="font-size: 12px;">&nbsp;&nbsp;&nbsp;&nbsp;
+
 ![database-5-16](./images/languages_icons/database-5-16.png "language[dialects/apis]")&nbsp;&nbsp;sql&nbsp;&nbsp;![mongodb-logo](./images/languages_icons/mongodb-logo.png "language[apis]")&nbsp;&nbsp;mongodb</summary>
 
 <a><sup>[</sup>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -183,6 +186,7 @@
 <!-- visual basic for applications -->
 
 <sup><details><summary style="font-size: 12px;">&nbsp;&nbsp;&nbsp;&nbsp;
+
 ![vba-logo](./images/languages_icons/vba-logo.png "language[application]")&nbsp;&nbsp;vba</summary>
 
 <a><sup>[</sup>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -191,6 +195,7 @@
 <!-- r -->
 
 <sup><details><summary style="font-size: 12px;">&nbsp;&nbsp;&nbsp;&nbsp;
+
 ![r-programming-language](./images/languages_icons/r-programming-language.png "language[language]")&nbsp;&nbsp;r</summary></details></sup>
 
 <!-- ### tools -->
@@ -213,18 +218,14 @@
 
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Elyria (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately ongoing - ongoing minutes.</sub><blockquote><sub>Strange, stationary, bright lights in Elyria, Ohio.This particular night I was driving home and saw “strange lights” in the sky.  No particular formation but they were different than the “weird lights” that have been spotted recently.  They were a dim orange color looking to be at varying altitudes.  They appeared to not be moving or moving very slowly.When I got home I looked up and all they were the “typical” weird lights we’ve had on and off for a while now.  Usually they are stationary; they look very low, and very bright.  Sometimes they are flashing, sometimes not.  But they typically show up around nightfall and I’ve done my best for quite a while to ignore them and chalk it up to a planet or something.  There have been off times that one would shoot across the sky then stop suddenly and remain still.  I have never stayed out to watch them for longer than a few minutes here and there because I find the whole thing very uncomfortable.  I don't believe in "aliens" but I do find this occurance very strange and I just want to contribute if I can because the strange formation I saw while driving was very unsettling.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88515.html](http://www.nuforc.org/webreports/reports/088/S88515.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Porterville (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5166666666666666 - 0.5166666666666666 minutes.</sub><blockquote><sub>9;25pm I looked  SE and there it was BIG ...OBject  U.F.O.It looked like a half moon,with along ship on top.  it was orange,yellow,green.  It was nite and dark.  I saw the recording on my 32in T.V.   It looks like 2 big Objects or U.F.O.   I what to know what it was and why above Porterville CA. sky    You could see lights and towers on ships((NUFORC Note:  Possible hoax, we suspect.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82897.html](http://www.nuforc.org/webreports/reports/082/S82897.html)</i></sub></sub></sub><br> </sub>
 
 <h5><details open>
-<summary>&nbsp;&nbsp;&nbsp;aftermost</summary><br>
+<summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162750.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162798.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162785.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163115.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163125.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
