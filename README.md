@@ -213,17 +213,13 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in Westland (MI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Approx 50-75 feet above us, 30-40 ft diameter, metal, saucer shaped UFO, colored lights all around, 2 bright white lights.Approx 50-75 feet above us, 30-40 ft diameter, metal, saucer shaped UFO, colored lights all around, 2 bright white beams of light, one pointing on the ground, the other straight ahead. Slowly flew over the middle of street in front of our house going from west to east during a blizzard. As it got to the end of the street, the "down" light came up to face straight ahead like a pair of headlights. My son was outside shoveling the driveway and saw it first. He cannot remember how long he stood outside watching the UFO before I came out. A series of musical notes that I heard drew me to the window and ultimately out to the porch. There was no radio or TV on in the house to produce the notes I heard. We then watched it for a couple of minutes in complete silence until it disappeared in the poor visibility of the falling snow.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38637.html](http://www.nuforc.org/webreports/reports/038/S38637.html)</i></sub></sub></sub><br> </sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in rte 9 (ME) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Hovering jet liner like object in daylightLooked like jet liner unlike any I have seen.  It was very dark grey.  Very angular as far as  wings and tail extremely off set with very large engines.  It looked very low (500-1000ft) and very large and appeared to be hovering.I was driving at the time, so I could be mistaken but, I can't imagine it was traveling at a speed to keep an aircraft of that size aloft.  It may have been an experimental aircraft.  It did not look like an ordinary jet and it was either hovering or going extremely slow..((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97306.html](http://www.nuforc.org/webreports/reports/097/S97306.html)</i></sub></sub></sub><br> </sub><br>
 <h5><details open>
-<summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
+<summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162750.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162798.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162785.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163115.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163125.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
