@@ -213,17 +213,13 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Page (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>15-20 lights appearing 1-3 minutes apart and moving in same direction as the one before. (not together like starlink)Husband, mother-in-law and I observed lights that seemed to "appear" just below Venus or M1 then traverse SW to NE and disappear. Unlike Starlink formation, these lights moved separately and were widely spaced out, with 1-3 minutes between lights continuing for appx. 1 hour. They all appeared to follow the same path at same speed. There was one instance of two lights appearing a the same time and moving at the same speed in the same direction.  We have video.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155535.html](http://www.nuforc.org/webreports/reports/155/S155535.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Beamsville (Canada) (ON) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Multiple lights moving quick in different directions</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155529.html](http://www.nuforc.org/webreports/reports/155/S155529.html)</i></sub></sub></sub><br> </sub>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162750.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162798.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162785.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163115.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163125.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
