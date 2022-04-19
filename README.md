@@ -213,22 +213,17 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in River Falls (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately fast - fast minutes.</sub><blockquote><sub>lights in V formation, orbiting directly overhead 2 times within 45 minutes, on the second pass around the crafts broke formationMy Friend and I were out gazing, hoping to catch the spacex satellite train.. (we were not able to see the train this night for whatever reason.) However, at aproximately 9:30 P.M., coming from the south. We saw what looked to be a V formation of 7-8 separate bright objects 6-7 objects making up the “V” and 1 object following directly beside the V formation.  They made no sound and moved at a very high rate of speed so we amused they were a cluster of satellites moving in very low earth orbit.Didn’t think too much of it till we saw the same V formation of lights coming from the south again @ 10:13P.M. If they were the same craft as 40-45 minutes before, (and I believe they were.) This implies they orbited the planet in half the time it should take to orbit!(usually around 90 min)  They presumedly were traveling at about 34000miles per hour.As if that wasn’t amazing enough, as the lights passed over the second time and reached about midway in the sky, the formation began to MOVE and SHIFT OUT OF the V formation, and each “craft” sort of crisscrossed went independently of one another.  Then they went out of sight again!   I don’t know what to make of this… this is not tech that I've ever heard of.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155530.html](http://www.nuforc.org/webreports/reports/155/S155530.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in Westland (MI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Approx 50-75 feet above us, 30-40 ft diameter, metal, saucer shaped UFO, colored lights all around, 2 bright white lights.Approx 50-75 feet above us, 30-40 ft diameter, metal, saucer shaped UFO, colored lights all around, 2 bright white beams of light, one pointing on the ground, the other straight ahead. Slowly flew over the middle of street in front of our house going from west to east during a blizzard. As it got to the end of the street, the "down" light came up to face straight ahead like a pair of headlights. My son was outside shoveling the driveway and saw it first. He cannot remember how long he stood outside watching the UFO before I came out. A series of musical notes that I heard drew me to the window and ultimately out to the porch. There was no radio or TV on in the house to produce the notes I heard. We then watched it for a couple of minutes in complete silence until it disappeared in the poor visibility of the falling snow.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38637.html](http://www.nuforc.org/webreports/reports/038/S38637.html)</i></sub></sub></sub><br> </sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162750.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162798.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162785.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163115.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163125.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
 <sub><sub><i>source: <a href=https://nuforc-sightings-database-api.herokuapp.com/sightings/today/rss.xml>https://nuforc-sightings-database-api.herokuapp.com/sightings/today/rss.xml</a></i></sub></sub>
-</details><h5>
+</details><h5></details> 
 
 [![Updated Badge](https://badges.pufler.dev/updated/justineichelberger/nuforc-sightings-database-api)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/justineichelberger/nuforc-sightings-database-api)](https://badges.pufler.dev)
-</details> 
