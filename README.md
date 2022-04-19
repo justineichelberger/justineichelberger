@@ -213,17 +213,13 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Emmett (ID) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Two lights following in succession, one blue, one white.My cousin and I were outside talking and I was looking up at the sky, like I usually do at night, and I saw two lights.  I pointed them out to her, and we watched as they flew in a south by south easterly direction.  The lights were traveling at the same speed and stayed in a line and were an equal distance apart.  The leading light was a very bright white, like a LED flashlight white, and the following light was dimmer and a cobalt blue.  I believe they were on the same craft, but it is possible that they were two separate crafts.  There was no distortion of the stars that it passed or an identifiable silhouette of the craft, which leads me to believe that it could have been two separate crafts.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108777.html](http://www.nuforc.org/webreports/reports/108/S108777.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Single file about an inch apart looking with naked eye from ground, andWay higher than an airplane can go, as well as Too many to be satellite.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155549.html](http://www.nuforc.org/webreports/reports/155/S155549.html)</i></sub></sub></sub><br> </sub>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162750.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162798.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162785.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163115.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163125.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
