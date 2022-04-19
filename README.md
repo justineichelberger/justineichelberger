@@ -88,7 +88,7 @@
 </details>
 </h3>
   
-[![Visits Badge](https://badges.pufler.dev/visits/justineichelberger/justineichelberger)](https://badges.pufler.dev) [![Updated Badge](https://badges.pufler.dev/updated/justineichelberger/justineichelberger)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/justineichelberger/justineichelberger)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/justineichelberger/justineichelberger)](https://badges.pufler.dev) 
   
 <!-- ### pinned repositories -->
 
@@ -213,21 +213,17 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Kochi (India) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Cigar like thing observed in western Sky over KochiOn 19th April 2020 at about 6.40 PM, we had seen a strange moving object in sky (towards west) it was definitely not an aircraft since it is lock down in India due to corona virus.It cannot be a rocket as it is moving from left horizon to right (South to North); not upwards. The total length almost seems like more than 2 meter including what i believe is a tail, and the length remained constant all the way till it disappeared in cloud. It seemed like a missile but we were not expecting any thing like that since there is no report of an experiment and we are in middle of a pandemic crisis.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155565.html](http://www.nuforc.org/webreports/reports/155/S155565.html)</i></sub></sub></sub><br> </sub><br>
-
-[![Updated Badge](https://badges.pufler.dev/updated/justineichelberger/nuforc-sightings-database-api)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/justineichelberger/nuforc-sightings-database-api)](https://badges.pufler.dev)<br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in River Falls (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately fast - fast minutes.</sub><blockquote><sub>lights in V formation, orbiting directly overhead 2 times within 45 minutes, on the second pass around the crafts broke formationMy Friend and I were out gazing, hoping to catch the spacex satellite train.. (we were not able to see the train this night for whatever reason.) However, at aproximately 9:30 P.M., coming from the south. We saw what looked to be a V formation of 7-8 separate bright objects 6-7 objects making up the “V” and 1 object following directly beside the V formation.  They made no sound and moved at a very high rate of speed so we amused they were a cluster of satellites moving in very low earth orbit.Didn’t think too much of it till we saw the same V formation of lights coming from the south again @ 10:13P.M. If they were the same craft as 40-45 minutes before, (and I believe they were.) This implies they orbited the planet in half the time it should take to orbit!(usually around 90 min)  They presumedly were traveling at about 34000miles per hour.As if that wasn’t amazing enough, as the lights passed over the second time and reached about midway in the sky, the formation began to MOVE and SHIFT OUT OF the V formation, and each “craft” sort of crisscrossed went independently of one another.  Then they went out of sight again!   I don’t know what to make of this… this is not tech that I've ever heard of.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155530.html](http://www.nuforc.org/webreports/reports/155/S155530.html)</i></sub></sub></sub><br> </sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162750.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162798.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162785.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163115.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163125.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
 <sub><sub><i>source: <a href=https://nuforc-sightings-database-api.herokuapp.com/sightings/today/rss.xml>https://nuforc-sightings-database-api.herokuapp.com/sightings/today/rss.xml</a></i></sub></sub>
 </details><h5></details> 
+
+[![Updated Badge](https://badges.pufler.dev/updated/justineichelberger/nuforc-sightings-database-api)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/justineichelberger/nuforc-sightings-database-api)](https://badges.pufler.dev)
