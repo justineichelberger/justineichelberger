@@ -210,14 +210,14 @@
 
 ![neural-network-icon-16](./images/hud_cursor_01.gif "feature") {random_sighting} </sub>
 
-<h4><details open>
-<summary>&nbsp;&nbsp;&nbsp;aftermost</summary>
+<h5><details open>
+<summary>&nbsp;&nbsp;&nbsp;aftermost</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
-  </sub><br>
+  </sub><br><br>
 
 <sub><sub><i>source: <a href=https://nuforc-sightings-database-api.herokuapp.com/sightings/today/rss.xml>https://nuforc-sightings-database-api.herokuapp.com/sightings/today/rss.xml</a></i></sub></sub>
-</details></details>
+</details><h5></details>
