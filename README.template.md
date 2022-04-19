@@ -123,7 +123,7 @@
 <!-- ### profile -->
 
 <h3><details open>
-<summary>profile</summary>
+<summary>profile</summary><br>
   
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/justineichelberger/)  
 </details></h3>
@@ -206,9 +206,11 @@
 
 <!-- ### auto-refreshed anecdotes -->
 
-[![Updated Badge](https://badges.pufler.dev/updated/puf17640/git-badges)](https://badges.pufler.dev)  
 <h4><details open>
-<summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
+<summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
+
+[![Updated Badge](https://badges.pufler.dev/updated/puf17640/git-badges)](https://badges.pufler.dev)  
+
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
 ![neural-network-icon-16](./images/hud_cursor_01.gif "feature") {random_sighting} </sub>
