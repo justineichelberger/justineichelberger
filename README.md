@@ -213,17 +213,13 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Richmond (VA) reported seeing craft that fit the description of some '' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Family & 12 athletes witness huge, black disc w/ dome in center.  Very close. Returns on second occasion.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00611.html](http://www.nuforc.org/webreports/reports/000/S00611.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Charlotte (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>string of 22+ lights flying no noise towards north eastWe just saw at least 22+ lights not flashing strung out flying from west towards north north east. No sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155527.html](http://www.nuforc.org/webreports/reports/155/S155527.html)</i></sub></sub></sub><br> </sub>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162750.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162798.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162785.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163115.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163125.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
