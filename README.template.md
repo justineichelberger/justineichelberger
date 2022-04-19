@@ -61,8 +61,6 @@
     </td>
   </tr>
 </table>
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/justineichelberger/)  
   
 <!-- ### statistics -->
 
@@ -126,6 +124,8 @@
 
 <h3><details open>
 <summary>profile</summary>
+  
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/justineichelberger/)  
 </details></h3>
 
 ![neural-network-icon-16](./images/neural_network_original_greyscale_02.png "primary identifier")<img src="./images/neural_network_original_greyscale_26.png"/>&nbsp;<b><strong>builder</strong></b>&nbsp;&nbsp;<img src="./images/neural_network_original_greyscale_26.png"/>   
