@@ -205,7 +205,7 @@
 <sup>![neural-network-icon-16](./images/neural_network_original_greyscale_26.png "application")</sup>&nbsp;&nbsp;<sub>tableau</sub><br>
 <sup>![neural-network-icon-16](./images/neural_network_original_greyscale_26.png "cloud platform")</sup>&nbsp;&nbsp;<sub>heroku</sub><br>
 <sup>![neural-network-icon-16](./images/neural_network_original_greyscale_26.png "version control")</sup>&nbsp;&nbsp;<sub>git</sub><br>
-<sup>![neural-network-icon-16](./images/neural_network_original_greyscale_26.png "interface")</sup>&nbsp;&nbsp;<sub>shell</sub>&nbsp;&nbsp;&nbsp;&nbsp;<sub><sub><sub><sub><img src="./images/neural_network_original_greyscale_26.png"/></sub></sub></sub></sub>
+<sup>![neural-network-icon-16](./images/neural_network_original_greyscale_26.png "interface")</sup>&nbsp;&nbsp;<sub>shell</sub>
 
 <!-- ### auto-refreshed anecdotes -->
 
@@ -213,17 +213,13 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Lunenburg (MA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Strange light in sky, appears as fireball and last 4 min remaining stationary.On the above date, at approximately 2140, I was outside of my pace of work facing west. And approximately 1 mile away, and approximately 100 feet above the tree line I noticed what at first I believed was a white flare. After observing the object for a little while I noticed that the object was stationary, ruling out a flare(I served in the military). The object after about two minutes increased in brightness. The object remained at the current brightness for about two more minutes, and then just disappeared. It did not fizzle out like a flare would. And during the whole event the object remained stationary.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62793.html](http://www.nuforc.org/webreports/reports/062/S62793.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Altamonte Springs (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Orange, fiery lights moving single file in the same direction but, not all moving the same speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118531.html](http://www.nuforc.org/webreports/reports/118/S118531.html)</i></sub></sub></sub><br> </sub>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162750.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162798.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162785.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163115.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163125.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
