@@ -213,17 +213,13 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in rte 9 (ME) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Hovering jet liner like object in daylightLooked like jet liner unlike any I have seen.  It was very dark grey.  Very angular as far as  wings and tail extremely off set with very large engines.  It looked very low (500-1000ft) and very large and appeared to be hovering.I was driving at the time, so I could be mistaken but, I can't imagine it was traveling at a speed to keep an aircraft of that size aloft.  It may have been an experimental aircraft.  It did not look like an ordinary jet and it was either hovering or going extremely slow..((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97306.html](http://www.nuforc.org/webreports/reports/097/S97306.html)</i></sub></sub></sub><br> </sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Surfside Beach (SC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Single orb over ocean, moved north, 5 orbs formed behind, followed then disappeared; sixth orb formed slightly south, then disappeared.Single orb over ocean, near Surfside Beach pier.  Orb moved north, and 5 orbs formed behind it all moving north for a few seconds, then disappeared.  Sixth orb formed approximately 100 feet south, flared bright then disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133713.html](http://www.nuforc.org/webreports/reports/133/S133713.html)</i></sub></sub></sub><br> </sub>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162750.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162798.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162785.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163115.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163125.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
