@@ -213,17 +213,13 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Midland (TX) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>cigar shape rotation of brights length of 2 busesTo whom it may concern on April the 19th I pulled into my driveway and turned off my PT Crusier, and was talking to Cindy on my cell phone. Since around 10:00 p.m.. I mentioned something about the moon when all of the sudden. My car lit up, with all these bright colors everywhere, red, yellow, and pale yellow. And I told my friend "oh my God Cindy you ought see  this"! ! I jumped out of the car I could hear Cindy shouting "Susan Susan" and the bell of the door going ding ding. Then what I saw was AWESOME!!!!!!!! There was a humming sound and the colors where everywhere. The lights were the length of two buses side by side above my trees. And the lights were in rotation. In between the lights I felt like I was being watched. I held my cell phone in my left hand and in my right hand I raised up the symbol of hook em horns, and I smiled. Then they took off to the west. This lasted 25 to 30 seconds. To me I'll always cherish this for the rest of my life.On 4/20/08 I contacted Midland International Airport at 10:45 a.m. spoke with Clay airport opperations.Who wouldn't let me inquire about the sighting on the 19th. And thats when I couldn't talk to the tower.He gave me Petersphone number.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62667.html](http://www.nuforc.org/webreports/reports/062/S62667.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Page (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>15-20 lights appearing 1-3 minutes apart and moving in same direction as the one before. (not together like starlink)Husband, mother-in-law and I observed lights that seemed to "appear" just below Venus or M1 then traverse SW to NE and disappear. Unlike Starlink formation, these lights moved separately and were widely spaced out, with 1-3 minutes between lights continuing for appx. 1 hour. They all appeared to follow the same path at same speed. There was one instance of two lights appearing a the same time and moving at the same speed in the same direction.  We have video.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155535.html](http://www.nuforc.org/webreports/reports/155/S155535.html)</i></sub></sub></sub><br> </sub>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162750.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162798.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162785.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163115.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163125.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
