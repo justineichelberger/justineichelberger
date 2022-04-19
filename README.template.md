@@ -65,8 +65,9 @@
 <!-- ### statistics -->
 
 <h3><details open>
-<summary>statistics</summary>
-<br>
+<summary>statistics</summary><br>
+  
+[![Visits Badge](https://badges.pufler.dev/visits/justineichelberger/justineichelberger)](https://badges.pufler.dev) 
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
@@ -208,9 +209,8 @@
 <!-- ### auto-refreshed anecdotes -->
 
 <h4><details open>
-<summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
-
-<sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br>
+<summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
+<sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
   
 [![Updated Badge](https://badges.pufler.dev/updated/justineichelberger/nuforc-sightings-database-api)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/justineichelberger/nuforc-sightings-database-api)](https://badges.pufler.dev)<br>
 
@@ -226,6 +226,4 @@
   </sub><br><br>
 
 <sub><sub><i>source: <a href=https://nuforc-sightings-database-api.herokuapp.com/sightings/today/rss.xml>https://nuforc-sightings-database-api.herokuapp.com/sightings/today/rss.xml</a></i></sub></sub>
-</details><h5></details>
-  
-[![Visits Badge](https://badges.pufler.dev/visits/justineichelberger/justineichelberger)](https://badges.pufler.dev)  
+</details><h5></details> 
