@@ -153,7 +153,6 @@
 <!-- python -->
 
 <sup><details><summary style="font-size: 12px;">&nbsp;&nbsp;&nbsp;&nbsp;
-
 ![python-16](./images/languages_icons/python-16.png "language[libraries]")&nbsp;&nbsp;python</summary>
 
 <a><sup>[</sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup><sub>beautifulsoup</sub></sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup><sub>flask</sub></sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup><sub>jinja</sub></sup>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -162,7 +161,6 @@
 <!-- js, html(xml), css -->
 
 <sup><details><summary style="font-size: 12px;">&nbsp;&nbsp;&nbsp;&nbsp;
-
 ![js-16](./images/languages_icons/js-16.png "language[libraries]")&nbsp;&nbsp;javascript&nbsp;&nbsp;![html-16](./images/languages_icons/html-16.png "language[language/[other markup languages]]")&nbsp;&nbsp;html&nbsp;&nbsp;![css-16](./images/languages_icons/css-16.png "language[libraries]")&nbsp;&nbsp;css</summary>
 
 <a><sup>[</sup>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -176,7 +174,6 @@
 <!-- databases -->
 
 <sup><details><summary style="font-size: 12px;">&nbsp;&nbsp;&nbsp;&nbsp;
-
 ![database-5-16](./images/languages_icons/database-5-16.png "language[dialects/apis]")&nbsp;&nbsp;sql&nbsp;&nbsp;![mongodb-logo](./images/languages_icons/mongodb-logo.png "language[apis]")&nbsp;&nbsp;mongodb</summary>
 
 <a><sup>[</sup>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -186,7 +183,6 @@
 <!-- visual basic for applications -->
 
 <sup><details><summary style="font-size: 12px;">&nbsp;&nbsp;&nbsp;&nbsp;
-
 ![vba-logo](./images/languages_icons/vba-logo.png "language[application]")&nbsp;&nbsp;vba</summary>
 
 <a><sup>[</sup>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -195,7 +191,6 @@
 <!-- r -->
 
 <sup><details><summary style="font-size: 12px;">&nbsp;&nbsp;&nbsp;&nbsp;
-
 ![r-programming-language](./images/languages_icons/r-programming-language.png "language[language]")&nbsp;&nbsp;r</summary></details></sup>
 
 <!-- ### tools -->
