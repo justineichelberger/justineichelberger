@@ -152,16 +152,17 @@
 
 <!-- python -->
 
-<sup><details><summary style="font-size: 12px;">&nbsp;&nbsp;&nbsp;&nbsp;
+<sup><details><summary style="font-size: 12px;">&nbsp;&nbsp;
 ![python-16](./images/languages_icons/python-16.png "language[libraries]")&nbsp;&nbsp;<sup>python</sup></summary>
 
-<a><sup>[</sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup><sub>beautifulsoup</sub></sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup><sub>flask</sub></sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup><sub>jinja</sub></sup>&nbsp;&nbsp;&nbsp;&nbsp;
+<a><sup>[</sup>&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup><sub>beautifulsoup</sub></sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup><sub>flask</sub></sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup><sub>jinja</sub></sup>&nbsp;&nbsp;&nbsp;&nbsp;
 <sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup><sub>keras</sub></sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup><sub>matplotlib</sub></sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup><sub>numpy</sub></sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup><sub>pandas</sub></sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup><sub>requests</sub></sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup><sub>tensorflow</sub></sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup>]</sup></a></details></sup>
 
 <!-- js, html(xml), css -->
 
-<sup><details><summary style="font-size: 12px;">&nbsp;&nbsp;&nbsp;&nbsp;
-![js-16](./images/languages_icons/js-16.png "language[libraries]")&nbsp;&nbsp;javascript&nbsp;&nbsp;![html-16](./images/languages_icons/html-16.png "language[language/[other markup languages]]")&nbsp;&nbsp;html&nbsp;&nbsp;![css-16](./images/languages_icons/css-16.png "language[libraries]")&nbsp;&nbsp;css</summary>
+<sup><details><summary style="font-size: 12px;">&nbsp;&nbsp;
+![js-16](./images/languages_icons/js-16.png "language[libraries]")&nbsp;&nbsp;<sup>javascript</sup>&nbsp;&nbsp;![html-16](./images/languages_icons/html-16.png "language[language/[other markup languages]]")&nbsp;&nbsp;<sup>html</sup>&nbsp;&nbsp;![css-16](./images/languages_icons/css-16.png "language[libraries]")&nbsp;&nbsp;<sup>css</sup></summary>
 
 <a><sup>[</sup>&nbsp;&nbsp;&nbsp;&nbsp;
 <sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup>d3</sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup>leaflet</sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup>plotly</sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup>]</sup><sup>[</sup>&nbsp;&nbsp;
@@ -173,8 +174,8 @@
 
 <!-- databases -->
 
-<sup><details><summary style="font-size: 12px;">&nbsp;&nbsp;&nbsp;&nbsp;
-![database-5-16](./images/languages_icons/database-5-16.png "language[dialects/apis]")&nbsp;&nbsp;sql&nbsp;&nbsp;![mongodb-logo](./images/languages_icons/mongodb-logo.png "language[apis]")&nbsp;&nbsp;mongodb</summary>
+<sup><details><summary style="font-size: 12px;">&nbsp;&nbsp;
+![database-5-16](./images/languages_icons/database-5-16.png "language[dialects/apis]")&nbsp;&nbsp;<sup>sql</sup>&nbsp;&nbsp;![mongodb-logo](./images/languages_icons/mongodb-logo.png "language[apis]")&nbsp;&nbsp;<sup>mongodb</sup></summary>
 
 <a><sup>[</sup>&nbsp;&nbsp;&nbsp;&nbsp;
 <sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup>postgres</sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup>psycopg</sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup>sqlalchemy</sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup>sqlite</sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup>]</sup><sup>[</sup>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -182,16 +183,16 @@
 
 <!-- visual basic for applications -->
 
-<sup><details><summary style="font-size: 12px;">&nbsp;&nbsp;&nbsp;&nbsp;
-![vba-logo](./images/languages_icons/vba-logo.png "language[application]")&nbsp;&nbsp;vba</summary>
+<sup><details><summary style="font-size: 12px;">&nbsp;&nbsp;
+  ![vba-logo](./images/languages_icons/vba-logo.png "language[application]")&nbsp;&nbsp;<sup>vba</sup></summary>
 
 <a><sup>[</sup>&nbsp;&nbsp;&nbsp;&nbsp;
 <sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup>excel</sup>&nbsp;&nbsp;&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>&nbsp;&nbsp;<sup>]</sup></a></details></sup>
 
 <!-- r -->
 
-<sup><details><summary style="font-size: 12px;">&nbsp;&nbsp;&nbsp;&nbsp;
-![r-programming-language](./images/languages_icons/r-programming-language.png "language[language]")&nbsp;&nbsp;r</summary></details></sup>
+<sup><details><summary style="font-size: 12px;">&nbsp;&nbsp;
+![r-programming-language](./images/languages_icons/r-programming-language.png "language[language]")&nbsp;&nbsp;<sup>r</sup></summary></details></sup>
 
 <!-- ### tools -->
 
@@ -208,10 +209,9 @@
 
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
-
-[![Updated Badge](https://badges.pufler.dev/updated/puf17640/git-badges)](https://badges.pufler.dev)  
-
-<sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
+[![Updated Badge](https://badges.pufler.dev/updated/justineichelberger/nuforc-sightings-database-api)](https://badges.pufler.dev)  
+<sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br>
+[![Visits Badge](https://badges.pufler.dev/visits/justineichelberger/nuforc-sightings-database-api)](https://badges.pufler.dev)
 
 ![neural-network-icon-16](./images/hud_cursor_01.gif "feature") {random_sighting} </sub>
 
@@ -227,4 +227,4 @@
 <sub><sub><i>source: <a href=https://nuforc-sightings-database-api.herokuapp.com/sightings/today/rss.xml>https://nuforc-sightings-database-api.herokuapp.com/sightings/today/rss.xml</a></i></sub></sub>
 </details><h5></details>
   
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)  
+[![Visits Badge](https://badges.pufler.dev/visits/justineichelberger/justineichelberger)](https://badges.pufler.dev)  
