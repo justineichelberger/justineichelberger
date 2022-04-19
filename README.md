@@ -208,5 +208,10 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in North Seattle (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Green and red flying something over shoreline WA looked like 4 balls in pivots.Driving home tonight all of a sudden there was this green and red thing in the sky. Was moving way to fast to be a plane or chopper.  Made a sharp turn too. I was on HWY 99 at 132nd and this thing came from east To west.  Looking like 4 balls joined together.  2 green and two red.  I wanted to pull over In the middle of the road but by the time I did it was gone.  :-(</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118526.html](http://www.nuforc.org/webreports/reports/118/S118526.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Ottawa (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>green lights circling from cloud to cloudMy son and I went for a walk and upon coming back noticed a green light circling in the clouds.  We started walking faster and upon coming to a clearing in the sky, noticed no lights.  We slowed down and all of a sudden above us in the cloud was the green circling light.  We were so afraid that we almost ran home about 6 blocks.  The circling green light appeared to jump from cloud to cloud.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50190.html](http://www.nuforc.org/webreports/reports/050/S50190.html)</i></sub></sub></sub><br> </sub><br><br>
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
 </details>
