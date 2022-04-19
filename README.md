@@ -218,18 +218,14 @@
 
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Porterville (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5166666666666666 - 0.5166666666666666 minutes.</sub><blockquote><sub>9;25pm I looked  SE and there it was BIG ...OBject  U.F.O.It looked like a half moon,with along ship on top.  it was orange,yellow,green.  It was nite and dark.  I saw the recording on my 32in T.V.   It looks like 2 big Objects or U.F.O.   I what to know what it was and why above Porterville CA. sky    You could see lights and towers on ships((NUFORC Note:  Possible hoax, we suspect.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82897.html](http://www.nuforc.org/webreports/reports/082/S82897.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Ironwood (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Orange lights in a lineI was sitting at my computer talking to a friend he told me their were some strange lights in the sky  I then ran outside and saw the lights.  They were orange in color moving east to west in a straight line.their were approx. 8-10 in the line.  As the lights moved they dissapered from east to west.  They appeared to be sphears.  I could not tell distance from my viewpoint.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88521.html](http://www.nuforc.org/webreports/reports/088/S88521.html)</i></sub></sub></sub><br> </sub>
 
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162750.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162798.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162785.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163115.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163125.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
