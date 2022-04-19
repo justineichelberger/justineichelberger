@@ -215,7 +215,7 @@
 
 ![neural-network-icon-16](./images/hud_cursor_01.gif "feature") {random_sighting} </sub>
 <h5><details open>
-<summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary>
+<summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
