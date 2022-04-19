@@ -213,17 +213,13 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Beamsville (Canada) (ON) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Multiple lights moving quick in different directions</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155529.html](http://www.nuforc.org/webreports/reports/155/S155529.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in New Durham (NH) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Extremely large circular craft with white lights on each side, rotating slowly, silent, appx 1500 ft in the airStanding outside talking with a friend (former police & government officer) at 6:30pm just after dusk at a hillside home on Old Bay Road in New Durham, NH USA(43°26'42.91" N  71°11'40.59" W ).   If memory serves it was April 2013.Toward the west I saw 2 white lights coming over ridge or small mountain about 2 miles away.  One light was to the left (south) and the other to the right (north) I thought they were airplanes that were too close to each other at first, and said to my friend that the FAA shouldn’t allow planes to fly that closely together.    Then the light to the left got even closer to the light on the right and I gasped thinking there would be a midair collision of the 2 planes.  As the lights got closer to our location we both realized that it wasn’t 2 airplanes but 1 extremely large craft that was very slowly rotating so it simply appeared that the lights were getting closer together.As it got closer other smaller red colored lights could be seen between in the white lights on the sides of the craft.  The craft made no noise at all.  It was difficult to make out the shape because it was dark, but it was relatively flat and was either triangular or circular.  Looked approximately 500-1000’ from side to side.  Shockingly large.  WAY bigger than an airplane or even 2 airplanes.  It took about 60 seconds to travel the 2 miles.The craft traveled from over the ridge and was descending as it traveled to the northeast.  Estimate it was approximately 2000 ft up and to the north of us.  We lost sight of it as it descended below the treeline.   I started to wonder if it might land on Merrymeeting Lake or Ossipee Lake.A lot of people around here have experienced UFO sightings, but being New Englanders, nobody bothers to report them.   However if you consult with people who live in Ossipee, NH, UFO sightings are extremely common and have been for over 75 years.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100032.html](http://www.nuforc.org/webreports/reports/100/S100032.html)</i></sub></sub></sub><br> </sub>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162750.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162798.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162785.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163115.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163125.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
