@@ -209,22 +209,20 @@
 
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
+  
 [![Updated Badge](https://badges.pufler.dev/updated/justineichelberger/nuforc-sightings-database-api)](https://badges.pufler.dev)  
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br>
-[![Visits Badge](https://badges.pufler.dev/visits/justineichelberger/nuforc-sightings-database-api)](https://badges.pufler.dev)
+  
+[![Visits Badge](https://badges.pufler.dev/visits/justineichelberger/nuforc-sightings-database-api)](https://badges.pufler.dev)<br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Las Heras (Argentina) () reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>hello im ((name deleted)) from Argentina a country in the south of america, i no speak english so i read mi see in spanish, please you traduct.el dia 19 de abril a las 20:10 me encontraba hablando por celular y mirando por la ventana de la pieza hacia el sur oeste del cielo, y en cuanto n momento empeze a notar que muy lejos algo se empezaba a mover y fije la mirada al ver cuatro luces color como naranja y muy claras u lejanas que subian y estaban en linea las cuatro de izquierda a derecha y cuando subian se desalineaban y quedaban dos por un lado y dos por el otro, y cuando subian se movian para la derecha hacia donde yo veia la constelacion de orion, y se formaron en linea las cuatro luces y desaparecieron alli entre las estrellas. sin animo de qur me crean o no aca en mi ciudad llamada Las Heras en la provincia de Santa Cruz ya es muy habitual los avistamientos pero el de hoy me dejo que pensar, duro entre 20 y 30 segundos, no llegue ni por tiempo ni por la distancia a la que se encontraban las luces a filmar o fotografiar.espero alguna vez alguien hable de lo que pasa aca, por que hay bases escondidas en la cordillera los andes y se ven todos los dias avistamientos que nadie le importa ya, y en años de ver cosas y leer y demas es la primera vez que escribo a algina pagina o relato lo que vi. si ustedes supiesen de algun avistamiento parecido por favor comuníquese conmigo para saber si alguien mas lo vio como yo, por que se veia muy lejoa en verdad no era de verlo a simple vista.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118544.html](http://www.nuforc.org/webreports/reports/118/S118544.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Palmetto (GA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Palmetto, GA.  Diamond a couple of seconds  a glowing diamond shaped object  picture taken 19 April 2005 at 1950 ESTI was comparing two different megapixel cameras to see the difference in sharpness.  The Sony Cybershot DSC-P52 3.2mp camera was used to compare it against a Canon 330D 6.3mp camera.  When I framed the picture of the sky with clouds and an aircraft in it I noticed a twinkling object through the view finder as I pushed the shutter button.  The resultant picture shows a diamond shaped object in front of some clouds.  I was aiming the camera at about 35 degrees above the horizon (to avoid my roof line) and was facing almost due East.  I have noticed another object in the picture in the clouds on the right side of the picture.((NUFORC Note:  Photo indicated a light-colored, diamond-shaped object.  We do not know what the object is.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86742.html](http://www.nuforc.org/webreports/reports/086/S86742.html)</i></sub></sub></sub><br> </sub>
 
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162750.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162798.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162785.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163115.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163125.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
