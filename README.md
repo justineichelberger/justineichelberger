@@ -213,17 +213,13 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in West Chester (PA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Crazy cigar shaped glowing object in suburban PA.  It glowed and hovered for at least 10 minutes, my dog was very disturbed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162785.html](http://www.nuforc.org/webreports/reports/162/S162785.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Salamanca (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright orange object flying silently through the skyWe just returned home and we were walking to the house, my two year old asks, "What’s that?"  We look up and in the sky there is a bright orange object flying west through the sky.  It wasn’t moving very fast.  We watched its glow as it traveled horizontally through the sky until we couldn’t see it any longer.  It was silent.  The next day a family that lives the next street over saw the same thing, except they said it was the second time they’ve seen it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69730.html](http://www.nuforc.org/webreports/reports/069/S69730.html)</i></sub></sub></sub><br> </sub>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162750.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162798.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162785.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163115.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163125.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
