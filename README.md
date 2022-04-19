@@ -65,7 +65,9 @@
 <!-- ### statistics -->
 
 <h3><details open>
-<summary>statistics</summary>[![Visits Badge](https://badges.pufler.dev/visits/justineichelberger/justineichelberger)](https://badges.pufler.dev)<br> 
+<summary>statistics</summary><br>
+  
+[![Visits Badge](https://badges.pufler.dev/visits/justineichelberger/justineichelberger)](https://badges.pufler.dev) 
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
@@ -212,18 +214,14 @@
   
 [![Updated Badge](https://badges.pufler.dev/updated/justineichelberger/nuforc-sightings-database-api)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/justineichelberger/nuforc-sightings-database-api)](https://badges.pufler.dev)<br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Sacramento (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Three white dots each in a triangle formation and then faded away.I just finished cutting my back lawn and was out of breath a little and turned off the mower and laid on the sidewalk between the garage and my plum tree.  As I looked up I saw 6 to 9 triangle lights kind of in formation right between the tree and the garage.  As I watched them they moved forward and the back a little and then forward and back again.  I raised my glasses because they can foul me up and when I did I saw just white dots.  But they were still there.  I put my glasses back on and there were three white dots for each one as the move up and back.  This went on for about 35-45 seconds and then the just disappeared.  The sky was blue or as blue as it gets in downtown Sacramento.I have seen pictures of ufo’s that look like what I saw.  Three large round white lights on the bottom in a triangle shape.  There were more than six and maybe as many as nine sets of three lights in a triangle formation but not fixed to each other.  Never seen anything like it, ever.  The way they just faded out was interesting too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88546.html](http://www.nuforc.org/webreports/reports/088/S88546.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Vankleek Hill (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Sitting in the hottub to look up at 20+ star-like objects (first assumption satellite) flying EQUAL distance behind one another up until last 5 unknown objects.  Every single one would also light up spot light style when passive a certain point in the sky *assumption of entry of atmosphere*</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155545.html](http://www.nuforc.org/webreports/reports/155/S155545.html)</i></sub></sub></sub><br> </sub>
 
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162750.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162798.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162785.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163115.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163125.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
