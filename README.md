@@ -213,17 +213,13 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Reidsville (NC) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Reidsville Prom SightingIt was the night of the local high school's prom.  As we were driving home from the prom breakfast, we encountered a silver cigar shaped object with blinking red and white lights, whizzing back and forth with great speed.  Were were driving in two cars, and we pulled over to watch the object. As we pulled over and got out, the object slowed down and lowered toward us.  It hovered over us, remarkable making no noise, and shined a spotlight in our face.  We were so scared we were in a trance.  We could not move.  It seemed like we stood there for hours, but when it left, it had only been three minutes.((NUFORC Note:  Witness identifies self as adult.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17466.html](http://www.nuforc.org/webreports/reports/017/S17466.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in St. Louis (MO) reported seeing craft that fit the description of some 'Changing' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>I was standing on my porch, smoking a doobie, when, all of a sudden, I saw 3 weird shapes in the sky.  My buddies Cheech and Chong also saw it.  The craft appeared to be pencils, but after several seconds, they morphed into pens.  They landed in my front yard, and took me aboard their starship, where we headed for they sky.  Then they stuck some stuff up my butt, and put me back in bed.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80956.html](http://www.nuforc.org/webreports/reports/080/S80956.html)</i></sub></sub></sub><br> </sub>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/162/S162816.html)
-- [365](http://www.nuforc.org/webreports/reports/162/S162799.html)
-- [364](http://www.nuforc.org/webreports/reports/162/S162793.html)
-- [363](http://www.nuforc.org/webreports/reports/162/S162796.html)
-- [362](http://www.nuforc.org/webreports/reports/163/S163582.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
