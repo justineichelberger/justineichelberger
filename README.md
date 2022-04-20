@@ -213,17 +213,13 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>"just before" sun-up; snow whit fire ball streaked west to east above and across city skyline. Looked like just the picture of an old Mercury capsule reentry.Object spherical with long tail after. Brilliant white. Almost effervescent. Made no sound. Maybe greyhound bus size appearance</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/006/S06381.html](http://www.nuforc.org/webreports/reports/006/S06381.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Toronto (Canada) (ON) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>At approx. 20:36 on my way home from work.  I was driving through this stretch of farm field area.  I was distracted by a very white light coming from my right side.  It is a secluded area and at that time I did not notice any other cars on the road.  The light was so bright that I tried to speed up to go right past it, as I went past the light, I looked back to the right towards the field and I saw a fairly large sized disk shaped UFO.  Size wise I would say it was about the size of a fighter plane, but disk shaped.  I slowed down to a stop about 50 feet past UFO.  I turned around and looked back, it seemed to be floating in the air, I wasnt able to make out a color but I could definetly see the shape in the dark.  It floated for about a minute, then it sort of swung like a pendulum side to side before blasting to its left up towards the sky.  It took about 10-15 seconds for the UFO to vanish into the sky.  Confused, and shocked I drove home.  This morning on my way back to work I passed through the same fields, and decided to stop around the same area I saw the UFO.  I glanced onto the field where I thought the UFO was last night but I was not able to make anything out of it since the whole field was escavated.  And then, I went back to my car, and grabbed a bottle of glue.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36456.html](http://www.nuforc.org/webreports/reports/036/S36456.html)</i></sub></sub></sub><br> </sub>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/162/S162816.html)
-- [365](http://www.nuforc.org/webreports/reports/162/S162799.html)
-- [364](http://www.nuforc.org/webreports/reports/162/S162793.html)
-- [363](http://www.nuforc.org/webreports/reports/162/S162796.html)
-- [362](http://www.nuforc.org/webreports/reports/163/S163582.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
