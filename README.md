@@ -213,17 +213,13 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Fort Walton Beach (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Flashing light SW of Fort Walton BeachAbout 250 degrees SSW of Fort Walton Beach, FL, about 25 degree above horizon there were flashing light Blue, Green, White, Red rapidly flashing for about 15 minutes.  Lights flashed but never moved.  Turned to talk to ex-cop and it was gone.  I did get some poor quality pictures to far away.I was staying at a beach condo</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108813.html](http://www.nuforc.org/webreports/reports/108/S108813.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Kolkata (India) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A moving star is seen in stop and run movement. As per mobile compass current location is North 100digree approx..  ((ADDENDUM FROM WITNESS))Hi, I m not sure what was that. I don't have telescope, what i see in open eye that a star is moving haphazardly, as per mobile compass its approx around 120degree of north. You may check it. Its far away and i have taken snaps using my camera but its nothing but a light spot.  Thats all.  I'm observing it more than 20 minutes, its stop sometimes again its start moving another direction. ((name deleted))((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126951.html](http://www.nuforc.org/webreports/reports/126/S126951.html)</i></sub></sub></sub><br> </sub>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/162/S162816.html)
-- [365](http://www.nuforc.org/webreports/reports/162/S162799.html)
-- [364](http://www.nuforc.org/webreports/reports/162/S162793.html)
-- [363](http://www.nuforc.org/webreports/reports/162/S162796.html)
-- [362](http://www.nuforc.org/webreports/reports/163/S163582.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
