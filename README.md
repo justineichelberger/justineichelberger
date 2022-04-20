@@ -213,17 +213,13 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Norwich (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>On 04/20/07 at 03:42est observed 2 airborne triangular objects flying overhead in formation at n42/33/99 w75/31/45 on a heading of approximately 350 magnetic at an estimated altitude of approximately 10,000 feet traveling in excess of several hundered knots.  Weather conditions were clear,31 degrees f, altimeter 30.10, visability in excess of 10 miles. Objects were silent and illuminated on all points of the triangle.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56305.html](http://www.nuforc.org/webreports/reports/056/S56305.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in La Crosse (WI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Five of us were on the top of a building downtown near dusk flying a kite.  I looked up and saw the triangular shape above us with round yellowish lights in a v shape.  I found it amazing that we were all looking and seeing it.  Then, there was a strange uncomfortable feeling for a second and no one said anything and then moved to different parts of the roof as if we hadn't seen it, I looked up to see it moving north west.  then it was gone.  I was confused and asked the others why they were acting strangely...they asked what I thought I had seen.  I didn't answer, but asked what they saw, three people said they saw ducks---one heard them and said they were brown, another said they were white and another greyish.  I asked, weren't they moving awfully slow for ducks???  They didn't know what to say.  The fourth person said he saw ducks, but then he saw something else for a moment, a triangular shaped craft.  I clearly saw a craft the whole time and never saw any ducks.  Actually, I asked my companions what they saw as the ship was above us.  And that was when I asked them aren't they moving very slow for ducks.  Then, after the strange moment where everyone froze and then moved away (two started to pull in the kite) that is when I asked for details of the ducks.  And I actually had an argument with one of my friends who was angry that I had seen something different than him and he was convinced of what he saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11801.html](http://www.nuforc.org/webreports/reports/011/S11801.html)</i></sub></sub></sub><br> </sub>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/162/S162816.html)
-- [365](http://www.nuforc.org/webreports/reports/162/S162799.html)
-- [364](http://www.nuforc.org/webreports/reports/162/S162793.html)
-- [363](http://www.nuforc.org/webreports/reports/162/S162796.html)
-- [362](http://www.nuforc.org/webreports/reports/163/S163582.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
