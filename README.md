@@ -213,17 +213,13 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Spokane (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Huge LED looking light hovering at tree line disappeared instantly after 4 minutes of watching.  No traceSaw a literal perfect sphere that was at my tree line of our house.  Watched for at least 4 minutes, don't know how long it was there was just getting home.  Took 3 pictures, doesn't capture the brightness or the size well but it does show the perfect sphere.  It instantly disappeared.  No trace, no light trail, nothing it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133738.html](http://www.nuforc.org/webreports/reports/133/S133738.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Norwich (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>On 04/20/07 at 03:42est observed 2 airborne triangular objects flying overhead in formation at n42/33/99 w75/31/45 on a heading of approximately 350 magnetic at an estimated altitude of approximately 10,000 feet traveling in excess of several hundered knots.  Weather conditions were clear,31 degrees f, altimeter 30.10, visability in excess of 10 miles. Objects were silent and illuminated on all points of the triangle.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56305.html](http://www.nuforc.org/webreports/reports/056/S56305.html)</i></sub></sub></sub><br> </sub>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/162/S162816.html)
-- [365](http://www.nuforc.org/webreports/reports/162/S162799.html)
-- [364](http://www.nuforc.org/webreports/reports/162/S162793.html)
-- [363](http://www.nuforc.org/webreports/reports/162/S162796.html)
-- [362](http://www.nuforc.org/webreports/reports/163/S163582.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
