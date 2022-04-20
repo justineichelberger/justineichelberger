@@ -213,17 +213,13 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Cape Coral (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>A small gray saucer on golf course,  they where pulling at me they wanted me to go with them I got very sick from attack  I was lead to the area where they wanted to abducted me.  It was like I did not have a choice I felt under there control.  I live on a golf course and the area which they lead me to was a distance away form my house. It was on the 5th hole of the golf course when I got there, I did not know what was about to happen. It made a load beeping sound, I looked up and there was a small gray saucer no more then 30 to 40 yards up.  They could communicate with me in my head, but I did not see them just the space craft even when they left I could still here them talk to me.  They wanted me to go with them to there planet, I was scared and did not think that was a good idea.  They were pulling at me, it felt like hundred of hand grabbing at me. I knew I had  to get out of there; I made my way to the road which was open, and I knew it would be hard for them to land.  As I was walking, it followed me step for step if I stopped, it stopped if I moved fast, it moved fast if I moved slow, it moved! slow. When it stated to move, it was at a horizontal position as it moved it  moved at a 45 degree angle. When I got to the road, it ascend very slowly till I lost it in the sky. After the attack, I got very sick; I was bed rid for 3 days I did not eat, I did not drink, I did not use the bathroom, I was barely conscious I thought I was going to die! I could not even speak I was so weak. The reason  I am coming forward now is because one I did not think any one would belive me and two I am still having problems from the attack. I have had over 10,000 in medical testing done on me and all my tests have come back normal and none of the doctors still do not know what's wrong with me. I'm at the point where I don't know what to do can you help.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93670.html](http://www.nuforc.org/webreports/reports/093/S93670.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Surfside Beach (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Orange orbs spotted.2 orange orb type lights quickly appeared (silently) off the coast over the ocean and within 5 seconds changed into 5 lights, lingered 10-15 seconds, then quickly disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133756.html](http://www.nuforc.org/webreports/reports/133/S133756.html)</i></sub></sub></sub><br> </sub>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/162/S162816.html)
-- [365](http://www.nuforc.org/webreports/reports/162/S162799.html)
-- [364](http://www.nuforc.org/webreports/reports/162/S162793.html)
-- [363](http://www.nuforc.org/webreports/reports/162/S162796.html)
-- [362](http://www.nuforc.org/webreports/reports/163/S163582.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
