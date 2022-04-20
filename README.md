@@ -213,17 +213,13 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Palmdale (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Two Fast Moving Synchronous Green Lights over Palmdale, CA.Conditions:  Clear sky, no clouds, maybe a little hazy, full moon. Event:  Looking east from my back porch I saw two green lights moving west to east in approximately the same path as the airline traffic coming east to west flying over Palmdale as they approach, I believe, Burbank, CA, Airport.  The green lights looked as if they were attached to two separate vehicles one following the other in trail by what looked like, compared to the airliners, about one half mile.  Which is about half of what the airliners typically are spaced.  They appeared to be moving much faster than and above the airliners.Each light was a single light that in size was about the same or a little larger visual angle as the forward facing lights of the airliners.  The weird thing was that the lights were blinking in perfect unison.  This lasted for about 30 seconds or so as they continued to move east. Then, as they were pretty far off but still visible, the lights started blinking completely but perfectly opposite to each other.  This lasted another 10 – 20 seconds until they disappeared as they became too small to see.Corroboration:  My 25 year old daughter was on the porch and saw them also.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126953.html](http://www.nuforc.org/webreports/reports/126/S126953.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Santa Cruz (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately  -  minutes.</sub><blockquote><sub>We experienced multi-colored lights from the sky which appeared to be illuminating from four objects shaped like softballs.			It was approaching early morning, and myself and two friends were waking up from a nap in the Crown-Merril meadow.  Upon opening my eyes I saw a very bright light which was a mixture of yellow, orange, and red.  At first I thought it was the cops shining their flashlights, but then I realized they were coming from the sky.  They appeared to be coming from the north, and heading south out into the Monterey Bay.  They loomed above the field for approximately 4:20, according to my swatch watch.  Before they sped away they flashed what appeared to be signals with the lights on their spaceship.  However, we are unsure what their signaling patterns meant.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07883.html](http://www.nuforc.org/webreports/reports/007/S07883.html)</i></sub></sub></sub><br> </sub>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/162/S162816.html)
-- [365](http://www.nuforc.org/webreports/reports/162/S162799.html)
-- [364](http://www.nuforc.org/webreports/reports/162/S162793.html)
-- [363](http://www.nuforc.org/webreports/reports/162/S162796.html)
-- [362](http://www.nuforc.org/webreports/reports/163/S163582.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
