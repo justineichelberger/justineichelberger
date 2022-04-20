@@ -213,17 +213,13 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Surfside Beach (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Orange orbs spotted.2 orange orb type lights quickly appeared (silently) off the coast over the ocean and within 5 seconds changed into 5 lights, lingered 10-15 seconds, then quickly disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133756.html](http://www.nuforc.org/webreports/reports/133/S133756.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Spokane (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Huge LED looking light hovering at tree line disappeared instantly after 4 minutes of watching.  No traceSaw a literal perfect sphere that was at my tree line of our house.  Watched for at least 4 minutes, don't know how long it was there was just getting home.  Took 3 pictures, doesn't capture the brightness or the size well but it does show the perfect sphere.  It instantly disappeared.  No trace, no light trail, nothing it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133738.html](http://www.nuforc.org/webreports/reports/133/S133738.html)</i></sub></sub></sub><br> </sub>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/162/S162816.html)
-- [365](http://www.nuforc.org/webreports/reports/162/S162799.html)
-- [364](http://www.nuforc.org/webreports/reports/162/S162793.html)
-- [363](http://www.nuforc.org/webreports/reports/162/S162796.html)
-- [362](http://www.nuforc.org/webreports/reports/163/S163582.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
