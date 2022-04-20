@@ -213,17 +213,13 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in St. Peters (MO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>green, red, and yellowish- whitelights on craft flying low moving north to south.my girl friend and I were driving west on williot road. in between spencer and kimberly. we had two frieds in the back seat. one of the friends started shouting. myself and the other friend loooked. and saw something flying kinda high at first then moving very low once it cross willot road. rather large, it came from the north and moved south. it moved slowed over willot road then proceeded south. it had green and red lights at first the yelowish white lights turned on. it gave off enough light to very dimly cast light on the road below the object. to fast at time to be helicopter but to slow at times to be a plane. possible mititary drone of some kind but it looked as if it were covered in lights and making all kinds of patterns. this makes me doubt it was mititary. it shocked and even kinda scared the three of us. my girfriend did not see it because she was driving and had her eyes on the road.passed almost directly over us but just a little behind the car! . but i posted about it on facebook. and two other friends said they also saw it and had no idea what it could have been. im not one for beliveing in aliens and such things... but there was just no explination for what we saw. it was roundish but hard to tell exact shape at night and with lights. almost looked like it could have changed shape it diffrent points. there was a low noise but to low and soft to have been a plain or helicopter. I know what a plane and a helicopter are... even at night. this was something else.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88781.html](http://www.nuforc.org/webreports/reports/088/S88781.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Whitehall (MT) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Out with dogs one really big bright light and 1 small light 2 min observation.  The disappeared quickly.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108780.html](http://www.nuforc.org/webreports/reports/108/S108780.html)</i></sub></sub></sub><br> </sub>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/162/S162816.html)
-- [365](http://www.nuforc.org/webreports/reports/162/S162799.html)
-- [364](http://www.nuforc.org/webreports/reports/162/S162793.html)
-- [363](http://www.nuforc.org/webreports/reports/162/S162796.html)
-- [362](http://www.nuforc.org/webreports/reports/163/S163582.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
