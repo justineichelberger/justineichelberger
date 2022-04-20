@@ -213,17 +213,13 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Tullahoma (TN) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>UFO hovering over lake.I was driving home from work when I saw what I thought was a bright star in the sky. I looked at it, and noticed a red flash come from it. I stopped in the middle of the road, and watched the light but it wasn't moving. I was about to just start driving again when the red light started flashing again. I thought the only normal thing that it could be was a helicopter above the lake, so I kicked it to the lake to see if it was a helicopter. Helicopters have been known to land down at the lake to life flight a wreck victim from the bridge, so I knew how loud a helicopter would be so I lowered my window to see if I could hear something, but there was no sound. I crossed the bridge,(Neil's Bridge) and stared at what looked like a skinny long object with two long blue lights in the middle and a red light at one end and a white light a the other. I stopped on the side of the road when I was across the bridge, and watched the lights just sit about a hundred feet above the lake. I climbed out the widow to look over the roof of the car, and it flew off over the trees in the direction I had come from.Tullahoma! I then drove back towards town, but I could only see lights off in the distance. There were about four sets of red and white lights going across the sky, so I have no idea what I saw. I can only assume it was something from the air base that is about thirty miles from my house. I don't believe in aliens, so I believe it was something man made. Probably an experimental aircraft. Strangely enough, we had an earthquake while I was typing this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63288.html](http://www.nuforc.org/webreports/reports/063/S63288.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Reidsville (NC) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Reidsville Prom SightingIt was the night of the local high school's prom.  As we were driving home from the prom breakfast, we encountered a silver cigar shaped object with blinking red and white lights, whizzing back and forth with great speed.  Were were driving in two cars, and we pulled over to watch the object. As we pulled over and got out, the object slowed down and lowered toward us.  It hovered over us, remarkable making no noise, and shined a spotlight in our face.  We were so scared we were in a trance.  We could not move.  It seemed like we stood there for hours, but when it left, it had only been three minutes.((NUFORC Note:  Witness identifies self as adult.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17466.html](http://www.nuforc.org/webreports/reports/017/S17466.html)</i></sub></sub></sub><br> </sub>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/162/S162816.html)
-- [365](http://www.nuforc.org/webreports/reports/162/S162799.html)
-- [364](http://www.nuforc.org/webreports/reports/162/S162793.html)
-- [363](http://www.nuforc.org/webreports/reports/162/S162796.html)
-- [362](http://www.nuforc.org/webreports/reports/163/S163582.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
