@@ -213,17 +213,13 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Whitehall (MT) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Out with dogs one really big bright light and 1 small light 2 min observation.  The disappeared quickly.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108780.html](http://www.nuforc.org/webreports/reports/108/S108780.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Westport (County Mayo) (Republic of Ireland) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>A disc or saucer about the size of a Boeing 767 jets tailplane seen at 35,000 feet over Westport Co.Mayo ,Ireland.I was standing in the car park of Croagh Patrick a mountain overlooking Clew Bay on the west coast of Ireland just after noon on April 20,2001.The sky was clear and the sun high.Clew Bay is a major confluence point for air traffic between Europe and North America and I was watching a a jet flying west at around 35,000 ft through 10x50 bincoulars.Suddenly as I watched the jet-probably a Boeing 767 or Airbus-I saw a white saucer or disc in the sky just off the jetstream and about 800 metres behind the plane.As I watched it seemed to wobble and change shape getting smaller.It was shing brightly in the sunshine but did not move in any direction.I was put its size as about that of the tailplane of the aircraft but it was difficult to be any way accurate at the height it was at.At this stage I lowered the glasses to tell my wife what was happening and when I looked up again the disc was gone.The jet was now well out over the bay but no matter where I looked there was no sign of the object.Minutes later I used my mobile phone to inform Air Traffic Control at Shannon Airport but they told me a week later pilots in the area had made no reports of unsual sightings.After the encounter I felt a distinct feeling of loss for some hours as if I had not made the most of an opportunity of a lifetime.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17470.html](http://www.nuforc.org/webreports/reports/017/S17470.html)</i></sub></sub></sub><br> </sub>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/162/S162816.html)
-- [365](http://www.nuforc.org/webreports/reports/162/S162799.html)
-- [364](http://www.nuforc.org/webreports/reports/162/S162793.html)
-- [363](http://www.nuforc.org/webreports/reports/162/S162796.html)
-- [362](http://www.nuforc.org/webreports/reports/163/S163582.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
