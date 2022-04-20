@@ -213,17 +213,13 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Clinton (WI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Loud roaring noise heard over all southern Wisconsin yet military and radar stations deny contacts.Very Loud noise coming from the sky.  It sounded like several 8 engine B-52 bombers mixed with a train/tornado.  Skies were heavily overcast and it had rained earlier.  I  messaged someone 20 miles to my east when it was over and her whole family heard it too.  The next day one newspaper reported on the noise.  It  took over 5 minutes to move on from over my location.  Blog entries below the story state that people had heard the noise from  the west border of Wisconsin to the east and from the southern border north to almost Madison, Wisconsin.This was unlike anything I had ever heard before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118703.html](http://www.nuforc.org/webreports/reports/118/S118703.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>"just before" sun-up; snow whit fire ball streaked west to east above and across city skyline. Looked like just the picture of an old Mercury capsule reentry.Object spherical with long tail after. Brilliant white. Almost effervescent. Made no sound. Maybe greyhound bus size appearance</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/006/S06381.html](http://www.nuforc.org/webreports/reports/006/S06381.html)</i></sub></sub></sub><br> </sub>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162750.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162798.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162785.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163115.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163125.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
