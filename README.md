@@ -213,17 +213,13 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Santa Cruz (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately  -  minutes.</sub><blockquote><sub>We experienced multi-colored lights from the sky which appeared to be illuminating from four objects shaped like softballs.			It was approaching early morning, and myself and two friends were waking up from a nap in the Crown-Merril meadow.  Upon opening my eyes I saw a very bright light which was a mixture of yellow, orange, and red.  At first I thought it was the cops shining their flashlights, but then I realized they were coming from the sky.  They appeared to be coming from the north, and heading south out into the Monterey Bay.  They loomed above the field for approximately 4:20, according to my swatch watch.  Before they sped away they flashed what appeared to be signals with the lights on their spaceship.  However, we are unsure what their signaling patterns meant.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07883.html](http://www.nuforc.org/webreports/reports/007/S07883.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Santa Claus (IN) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 114MADAR Node114</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141565.html](http://www.nuforc.org/webreports/reports/141/S141565.html)</i></sub></sub></sub><br> </sub>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/162/S162816.html)
-- [365](http://www.nuforc.org/webreports/reports/162/S162799.html)
-- [364](http://www.nuforc.org/webreports/reports/162/S162793.html)
-- [363](http://www.nuforc.org/webreports/reports/162/S162796.html)
-- [362](http://www.nuforc.org/webreports/reports/163/S163582.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
