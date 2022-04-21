@@ -213,17 +213,13 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Wilmington (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>I was on our patio, facing East-South East and they came in the same direction over the treeline.  I was on the phone with my father at the time and being that he grew up in the area, he's used to military aircraft passing through on a daily basis.  What I saw this evening was an additional light of red.  One linear object with green, blue, and red light.  It appears to be fairly close to the ground and not within normal airspace.  It moves in a similar fashion to that of a kite.  For awhile we discussed as to whether or not some college kids had figured out how to add neon onto a kite, but there was little to no wind to support our kite theory.  The way it hovers and moves slowly and then can swoop around in an erratic fashion, it looks just like a kite on a good day at the beach.  This is the second time I've seen these lights.  Each time we feel we have been close to it yet there's no sound whatsoever.  The previous sighting was 2-4 weeks ago  in the south east por! tion of the sky on our drive home.  The road was tree lined and I noticed a neon green and neon blue light through the trees to the east.  I didn't say anything because I thought I was tired but the other cars in front of me started slowing down and it appeared that they had seen it as well.  When I finally said something to my fiance a neon green light came over the road ahead of us and went down below our line of sight on the opposite side.  The lights did not appear to be orbital in shape but linear.  They did not appear to leave a light trail and were moving in a downward swooping motion.((NUFORC Note:  Time and date not indicated by the source of the report.  We have assigned an assumed date above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88557.html](http://www.nuforc.org/webreports/reports/088/S88557.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Buchanan (GA) reported seeing craft that fit the description of some 'Changing' over a period of approximately Hour - Hour minutes.</sub><blockquote><sub>Multiple lights seemingly interacting.At 5:30, I went outside to smoke a cig.  It was a clear and silent morning.  I love to look at the constellations and noticed 2 lights in the distance.  I figured planes or choppers but they were stationary then lost altitude, and gained it they moved back and forth. The bright blue white one was a constant color and shape.  The other however changed color and vanished.  After seeing this I woke up my in laws.  They pointed out others.  They looked Like planes all headed the same way.  Whenever they passed in the bright one's vicinity, they slowed down and dipped.This went on for an hour.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108829.html](http://www.nuforc.org/webreports/reports/108/S108829.html)</i></sub></sub></sub><br> </sub>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162802.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162801.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162813.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163134.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163120.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
