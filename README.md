@@ -213,17 +213,13 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Kirkland (WA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>I saw a very long object, with three white lights spaced evenly apart. It was far too long to be an airplane, it made no noise whatsoever, and it moved quite a bit faster than a plane. Because it was dark at this time, I couldn't make out a shape, but believe it is best described as a long line or rectangle, at least the part of it that I could see.  From the time I first saw it directly above me, while standing outside on my balcony, I watched it for about 15 seconds until it disappeared. I was facing the south, and the object was flying from the west to the east.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75143.html](http://www.nuforc.org/webreports/reports/075/S75143.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some '' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Caller witnessed a "star-like" object move across the sky north to south, then begin to zigzag, and suddenly disappeared from view. He was looking in the direction of Orion when he observed it.  The object was the size of "several stars."</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02007.html](http://www.nuforc.org/webreports/reports/002/S02007.html)</i></sub></sub></sub><br> </sub>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162802.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162801.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162813.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163134.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163120.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
