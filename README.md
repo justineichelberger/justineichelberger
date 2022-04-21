@@ -213,17 +213,13 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1989, an anonymous witness in Walnut Cove (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Triangle three white lights one red in the middle moving slowly.I saw three white lights with one red in the center back in 1989 in walnut cove.  It was moving about ten mph and was about 20ft wide x 20ft tall.  It crossed HWY 311 and hovered over Ingles grocery store. I turned into Ingles where at that time was a caution light and stopped. I got out of the car to see if it was a helicopter because it moved really slow.  No other traffic around in this small town.  My wife at the time and oldest child which is 24 now was in the car.  The sky was black that night no stars or moon to be seen.  My wife yelled for me to get in the car so i did.  There was no sound so I cranked my car and turned on my headlights and the UFO took off north down the railroad tree line behind Ingles.  I raced across the parking lot ( this was around 1 am after my wife had gotten off work).  I crossed the tracks and looked down the track where it went and all I saw was the tops of the trees moving back and forth where it went so fast across them.Two other people I knew at the time saw the same thing that night near Hanging Rock State Park on Moore Springs Rd.  It went over their car down the road in front of them then turned sharp and went up over the mountain.  I never told many people about this because most think you are crazy without proof but my proof is all in the minds of those who also saw this when I did.I am one that believes in UFO's and know we cant be alone in this universe.  Ever since I saw this I’ve kept a camera with me but I’ve never seen anything since.  I did however see what was shown on  TV in 2006 about the UFO sighting in Belgium 1990.  They saw and photographed the same thing I saw.  I believe it so much I had it tattooed on my arm (the lights in an alien head).((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96641.html](http://www.nuforc.org/webreports/reports/096/S96641.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Henderson (NV) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I saw a silvery white objects approximately 8 of them flying above the Walmart in Henderson Nevada near Sunset and Marks Street</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156621.html](http://www.nuforc.org/webreports/reports/156/S156621.html)</i></sub></sub></sub><br> </sub>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162802.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162801.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162813.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163134.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163120.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
