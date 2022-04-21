@@ -213,17 +213,13 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Indio (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>A unidentified triangular object with three white lights in each corner, flying West to East in a fast pace.I was at the Coachella Valley Music and Arts Festival when my spotting occurred.  I had just got back to my camping spot right after the concert had ended, around 1:00am, which means I was away from the festival lights.  A friend pointed out an unidentified object flying overhead.  It was flying fairly high at a fast pace, from West to East.  The object was a dark gray, triangular shaped, with a white light in each of it’s corners, and about as large as a jet. It did not seem to be like a jet, nor did it make any sound. I watched as it disappeared into the night sky.  There were several planes flying that night, including advertising planes for the concert.  I do recall seeing the object after a plane flying by. In addition, I saw a fast moving white light that resembled a moving star, which I concluded as a satellite.I read on a Coachella message board that other had seen unidentified objects as well, however not similar to mine.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88647.html](http://www.nuforc.org/webreports/reports/088/S88647.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1969, an anonymous witness in Little Rock (AR) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>Non moving, soundless , tri-cylinder, object that appears and just fades back into skyThree gray looking cylinder tubes each tube about 400 feet long connected by a cross beam type structure. There was no noise, lights, smoke or any sounds of any type of engines. The craft appeared slowly as if it was coming out of a fog bank, yet the sky was clear and blue sky was seen thru the cross beams of craft. Craft was not moving in any direction and was stationary over a football field at Henderson Jr. High. I was running track practice at the football field when I seen the object.I ran home to get my daddy to bring his 8mm movie camera but when we returned the object was not seen. I never heard of anyone else in the area every seeing this object I seen. Is there many people who have seen such a shaped object with no sounds and no movement and seemed to slowly appear in our sky and then just disappear slowly as if fading into clear sky? Thanks for any replys.((name and e-address deleted))((NUFORC Note:  Date may be approximate. Witness occupies a job of considerable responsibility; the report probably is quite credible, we suspect.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25974.html](http://www.nuforc.org/webreports/reports/025/S25974.html)</i></sub></sub></sub><br> </sub>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162802.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162801.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162813.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163134.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163120.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
