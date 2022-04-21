@@ -213,17 +213,13 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Interlaken (NJ) reported seeing craft that fit the description of some 'Changing' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>It would zig zag and fo up and down not the first tome I’ve seenVery bright and when I filmed it it was gray with a circle in it and what looked like a center. Kept moving out of my Lense  changed to a triangle briefly and back to the circle.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155621.html](http://www.nuforc.org/webreports/reports/155/S155621.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Franklin (KY) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 54</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163126.html](http://www.nuforc.org/webreports/reports/163/S163126.html)</i></sub></sub></sub><br> </sub>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162802.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162801.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162813.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163134.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163120.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
