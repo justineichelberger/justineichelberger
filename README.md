@@ -213,17 +213,13 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Fort Mill (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>I saw a red light with a little white flying across the sky which made no sound like a plane or helicopter. It was going at a fast speed then it really started going fast and then slowed down to its original speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80966.html](http://www.nuforc.org/webreports/reports/080/S80966.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Strathroy (Canada) (ON) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>I was enjoying the night sky with my spouse, when I thought I'd try to look for shooting stars, i stared straight up, when a dark, nearly translucent triangular shaped object cruised towards the north east direction.  It was like a ufo on stealth mode.  It was too slow to be a shooting star (no plasma, fuel trail of any sort)  and too fast to be of ANY sort of flying vehicle that I've ever seen or heard of..  my spouse claims not to have seen it.  Shortly after I SWEAR I heard our door open and a cough (we have young children in bed at this time), so my spouse runs towards our backdoor with his cell light on.  There was nothing there..I felt a very eerie feeling so we had went back in the house.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145776.html](http://www.nuforc.org/webreports/reports/145/S145776.html)</i></sub></sub></sub><br> </sub>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162802.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162801.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162813.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163134.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163120.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
