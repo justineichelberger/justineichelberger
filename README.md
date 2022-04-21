@@ -213,17 +213,13 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Buchanan (GA) reported seeing craft that fit the description of some 'Changing' over a period of approximately Hour - Hour minutes.</sub><blockquote><sub>Multiple lights seemingly interacting.At 5:30, I went outside to smoke a cig.  It was a clear and silent morning.  I love to look at the constellations and noticed 2 lights in the distance.  I figured planes or choppers but they were stationary then lost altitude, and gained it they moved back and forth. The bright blue white one was a constant color and shape.  The other however changed color and vanished.  After seeing this I woke up my in laws.  They pointed out others.  They looked Like planes all headed the same way.  Whenever they passed in the bright one's vicinity, they slowed down and dipped.This went on for an hour.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108829.html](http://www.nuforc.org/webreports/reports/108/S108829.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Squaw Valley (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately every week - every week minutes.</sub><blockquote><sub>Strange light has ocasional shape and departs at high speeds.Object appears between the hours of 10:00 PM and 4:00 AM for a specific duration of 1:38:00.  From my point of view level being 0° objects settles at roughly 25°.  Object may appear up to three nights a week and has no movement other than when you stare at it a optical illusion makes it seem to move.  However when viewed through a telescope it appears to have shape and remains solid in position.  Object does change colors but I can’t determine if it’s actual color change or just atmospheric light distortion.  The only reason the object caught my attention is the abrupt entry and exit speeds of the object.  I have clearly seen aircraft around the object by the indicator lights on the aircraft, but the aircraft’s were not pursuing the object.  Unfortunately I’ve tried both camera and video camera to capture the object but all I capture is a big blurry ball.  I’ve tried to take a picture through the telescope but this also was a failure.  I cannot determine the entry and exit speeds however it does leave a trail of light through the sky which only lasts briefly.  It’s entry and exit patterns very day by day.  Too dark to get a genuine shape however occasionally I will get a glimpse of a reflective surface on moonlit nights.  There is no noise that I can hear from this distance and other people have seen it but think it’s an optical illusion and I believe it could be an optical illusion myself however it might be worth checking out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75137.html](http://www.nuforc.org/webreports/reports/075/S75137.html)</i></sub></sub></sub><br> </sub>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162802.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162801.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162813.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163134.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163120.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
