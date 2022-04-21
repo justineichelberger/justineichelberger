@@ -213,17 +213,13 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Versailles (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>On this day my BF and I saw a light in the sky.  Greenish.  It was swimming like a sperm in the sky.  A meteorite flashed by.  We saw another bright object that stayed stationery.  My phone would not record any film, it was too dark.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139536.html](http://www.nuforc.org/webreports/reports/139/S139536.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Westport (CT) reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>White dot motionless in sky begins to move- sheds into two white dotsThe sky was blue and practically clear- except some stratus clouds.  A white dot is stationed motionless in the sky.  Two planes pass right under it, showing that this dot lies somewhere higher in the stratosphere.  These "stratus" clouds pass over it, which dims the object, so it's obviously higher then these clouds. As the sky clears and the sun shines you can see this white dot much clearer.  After about 20 minutes it, the white dot starts to move across the sky at a steady pace, as it moves a fair distance it appears to shed another white dot.  So now there are 2 white dots traveling across the sky, and they end up traveling out of my range of vision.  This is the third time I have seen these shapes.  All three in different parts of the country.  Can never explain nor figure out what type of UFO this could be.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56325.html](http://www.nuforc.org/webreports/reports/056/S56325.html)</i></sub></sub></sub><br> </sub>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162802.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162801.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162813.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163134.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163120.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
