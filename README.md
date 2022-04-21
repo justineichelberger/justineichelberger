@@ -213,17 +213,13 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Westport (CT) reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>White dot motionless in sky begins to move- sheds into two white dotsThe sky was blue and practically clear- except some stratus clouds.  A white dot is stationed motionless in the sky.  Two planes pass right under it, showing that this dot lies somewhere higher in the stratosphere.  These "stratus" clouds pass over it, which dims the object, so it's obviously higher then these clouds. As the sky clears and the sun shines you can see this white dot much clearer.  After about 20 minutes it, the white dot starts to move across the sky at a steady pace, as it moves a fair distance it appears to shed another white dot.  So now there are 2 white dots traveling across the sky, and they end up traveling out of my range of vision.  This is the third time I have seen these shapes.  All three in different parts of the country.  Can never explain nor figure out what type of UFO this could be.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56325.html](http://www.nuforc.org/webreports/reports/056/S56325.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Alfreton (UK/England) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>4 fireballs in total, 1st 3 formed triangle...then gradually disappeared...4th hovered in same area before also disappearing.I was stood at the back door smoking a cigarette, when I noticed a bright ball of fire double the size of an aircraft from a similar angle.  I thought at first it was an aeroplane on fire.  Within a few seconds another "fireball" appeared following the first one. The 2 fireballs travelled across the sky, then hovered in the same spot for a while.  Then a 3rd fireball appeared, and travelled to the area where the first 2 were still hovering, where all 3 formed a triangle.  As the 3rd one appeared I called to my partner who had gone to the toilet upstairs.  She came down and also witnessed the 3rd one travelling towards the still remaining 2 fireballs.  The first 2 were now getting smaller, whilst the 3rd one hovered for a while...probably 30 seconds before starting to get smaller.  As the 3rd was getting smaller a 4th appeared.  This 4th one travelled the same way as the previous 3, and again hovered for a while before getting smaller until it had also disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56324.html](http://www.nuforc.org/webreports/reports/056/S56324.html)</i></sub></sub></sub><br> </sub>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162802.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162801.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162813.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163134.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163120.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
