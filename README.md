@@ -213,17 +213,13 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Auburn (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>bright, circular in shape object, moving from a 3 o'clock position in the sky to the 12 o'clock position before dissapearingI was looking up into the sky noticing how clear it was.  I was looking out towards the west, which would be toward the Seattle airport from where I live.  Because of this I am often aware of aircraft in the distance.  Normally I watch very carefully for any sign that would let me know that it is an airplane, flashing lights, in line for landing, etc.  I noticed that either the planet Venus or Jupiter was noticeable and very bright.  Looking down and to the left of the bright planet, there was another very bright light, which I initially took as a star.  Confused by this because it was so bright and I was unfamiliar with any other planet being that close to another one at this time, I looked at it for a few minutes.  In that time of watching it, it began to move slowly up from a three o’clock position up to what I would call the 12 o’clock position.  It moved very slow and precise across the sky.  I continued watching it because I was thinking that it had to! be an airplane.  Because it never flashed any red lights or changed from its original bright state, I started thinking it had to be a UFO.   As it stayed at the 12 o’clock position above my head for a few second it was if someone turned off a light switch and I know longer saw any light from it again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88593.html](http://www.nuforc.org/webreports/reports/088/S88593.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Fort Mill (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>I saw a red light with a little white flying across the sky which made no sound like a plane or helicopter. It was going at a fast speed then it really started going fast and then slowed down to its original speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80966.html](http://www.nuforc.org/webreports/reports/080/S80966.html)</i></sub></sub></sub><br> </sub>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162802.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162801.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162813.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163134.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163120.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
