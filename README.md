@@ -213,17 +213,13 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Henderson (NV) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I saw a silvery white objects approximately 8 of them flying above the Walmart in Henderson Nevada near Sunset and Marks Street</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156621.html](http://www.nuforc.org/webreports/reports/156/S156621.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Lewes (DE) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Metal colored sphere with light panel on bottom and lights flashed on and off in a pattern!Looking out my front window, and saw what looked like a metal, sphere shaped aircraft in the sky with a large panel of small lights on the bottom that flashed on and off in a pattern.  Lights were white.  Moved slowly and made no noise I could hear from ground.  Aircraft was somewhat low to the ground.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126956.html](http://www.nuforc.org/webreports/reports/126/S126956.html)</i></sub></sub></sub><br> </sub>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162802.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162801.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162813.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163134.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163120.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
