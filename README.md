@@ -213,17 +213,13 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Newport (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Zig zag light in the skyAt 3:30 AM, April 22, my husband and I were watching the Lyrid meteor shower at our home in Newport, WA.  Great place for stargazing with dark and clear skies.  One of the “meteors” stopped dead, then took off in another direction, turned again, and again, then shot off out of sight.  It was a bit like the pattern of a heartbeat on a monitor.  We were pointing out the meteors to each other and then the conversation went like thi,s “Hey there’s another one... Wait... That’s not a meteor....”</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155601.html](http://www.nuforc.org/webreports/reports/155/S155601.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Reno (NV) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>We were driving down the road late at night when we saw a neon green light shoot across the sky and then it stopped on a dime.  It hovered for about 30 seconds then shot off again. It did that several times across the sky then seemed to disapear in to the mountainsWe were driving down the highway at about 60 miles per hour when we saw a green ball of light.  It was a round shape and it held it's shape the whole time.  It was very quick to move through the sky then it stopped on a dime.  It hovered as it seemed to look like it was going to fall but it didn't.  Instead it shot across the sky again.  It looked like it was observing people on the highway. It hovered over the highway for about 30 seconds then left the sky. We looked again and again for it but it did not come back to show its face. During the time that it hovered our car had went crazy.  The windshield wipers went of and the radio went dead.  The lights started to flash and it was very eerie.  When it left the car went back to normal and we did not see the craft again.  There is a airport nearby about 3 miles away but there were no planes going that late at night.  It's a private airfield and there were no planes taking off that late at night.((NUFORC Note:  We believe the witness intended a time of 23:25 hrs., and we have amended the time above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04178.html](http://www.nuforc.org/webreports/reports/004/S04178.html)</i></sub></sub></sub><br> </sub>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162818.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162804.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162829.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162817.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163196.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
