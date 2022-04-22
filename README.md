@@ -213,17 +213,13 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Downingtown (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>buring ball, over chester county paAll the sudden i heard a wwwwwoowowwwwwww. and i thought it was the turnpike because it sounded kinda like a truck, but it made me look up which made me assume the sound was coming from above.  There it was. I saw a burning ball fly across the sky over my house into the clouds towards the southwest.  It lasted about 3-4 seconds..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69770.html](http://www.nuforc.org/webreports/reports/069/S69770.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Fitzgerald (GA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>We both saw a very bright light that drew our attention from what we were doing.   The light startled us both.On April 22, 2008 around 11Pm, my friend and I were outside enjoying the crispness of the night.  At the same time we both noticed a bright light in the sky to the south.  The light appeared out of nowhere and glowed brightly in the same exact spot for several seconds.  Then there was another light right beside the first that did the same thing.  It could have been as much as several miles away. We both looked at it as we both said , “Man what in the world is that?”  The light got brighter for a moment then disappeared in thin air.  We both walked towards the light for about a hundred yards when we noticed that there were several planes/jets in the night sky in the area.  As we watched the jets circled the area above and around where the light had came from. For at least 20 minutes we watched as two then three jets seemed to be monitoring the area.  The jets were flying cross patterns and large circles in and around the same area.  Then out of nowhere there was 7 bright bursts of light in a trailing pattern.  The light was very bright at first and within a second or two would get brighter then go away. Within a few minutes after this the jets left the area and the night became still. Prior to seeing the first bright lights, we had seen a very low flying jet moving across the sky on two separate occasions.  This may have been some sort of military training, but at ages 36 and 38 we both have never seen anything like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62655.html](http://www.nuforc.org/webreports/reports/062/S62655.html)</i></sub></sub></sub><br> </sub>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162818.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162804.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162829.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162817.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163196.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
