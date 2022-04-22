@@ -213,17 +213,13 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Portland (southeast) (OR) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>I work graveyard and was just pulling into the parking lot, when I saw a bright green glowing ball in the sky over my work place.  It was there and suddenly gone.I was just arriving at my workplace at approx. 9:20 pm.  I had just come over a little hill going west towards Portland and there in the sky was a large, very bright glowing green ball.  It lasted for only a few seconds and I could not tell which direction it was going.  It just disapeared so quickly I was stunned.  Fortunatly, my co-worker pulled into the parking lot at the same time.  We both got out of our cars and both remarked, "What was that?"   I said that I think we just saw our first UFO!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03523.html](http://www.nuforc.org/webreports/reports/003/S03523.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Naples (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>This craft is currently visible in the night sky of Naples, Florida, directly over the Rookery on Collier Blvd State Hwy 41 over the Gulf waters.  It was first spotted on Tuesday the 17th to the north of the bright moon slice.  The craft is as bright as the moon.  Two smaller crafts shot out from below.  The craft is huge looks like it could be a planet until you look with binoculars.  It is shaped llke a donut with the center, glowing super bright, goldish yellow bright lights shine out of the center upward and downward.  The sides are huge windows shining as bright as the sun with solid portions in between the bright windows. The windows surround the center of the craft.  The windows are huge from floor to ceiling and glow the same bright goldish yellow light that shines out of the center of the craft.  There are no other colors on the craft, no red or green lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139570.html](http://www.nuforc.org/webreports/reports/139/S139570.html)</i></sub></sub></sub><br> </sub>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162818.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162804.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162829.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162817.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163196.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
