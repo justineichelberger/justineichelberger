@@ -213,17 +213,13 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lihue (HI) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>falling fading lightsNoiseless steady lights, red, slowly appearing to drop down sky in a slow, random fashion until they were no longer visible (yet still well above horizon at that time).  It appeared to fade in the last few seconds but was not fast moving like meteor would be.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97316.html](http://www.nuforc.org/webreports/reports/097/S97316.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Newport (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Zig zag light in the skyAt 3:30 AM, April 22, my husband and I were watching the Lyrid meteor shower at our home in Newport, WA.  Great place for stargazing with dark and clear skies.  One of the “meteors” stopped dead, then took off in another direction, turned again, and again, then shot off out of sight.  It was a bit like the pattern of a heartbeat on a monitor.  We were pointing out the meteors to each other and then the conversation went like thi,s “Hey there’s another one... Wait... That’s not a meteor....”</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155601.html](http://www.nuforc.org/webreports/reports/155/S155601.html)</i></sub></sub></sub><br> </sub>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162818.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162804.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162829.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162817.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163196.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
