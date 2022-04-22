@@ -213,17 +213,13 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Kelseyville (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.15 - 0.15 minutes.</sub><blockquote><sub>Large commercial aircraft seen making giant turn before the craft.The aircraft made a second turn leaving com trails again before Coming close to the craft.  I used 10x50 binoculars to view the craft and viewed a round type disk white and reflective. The craft also had a large hole in the middle that was darker than the blue sky. 'The craft didn't move at all and just disappeared. I took a picture with my iPhone 4 Wich I have uploaded to you.  ((sic.  YouTube??))((NUFORC Note:  We have looked at the photo provided by the witness, and the one object we see appears to us to be a short contrail behind a high-altitude aircraft.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118591.html](http://www.nuforc.org/webreports/reports/118/S118591.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Cordova (TN) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Silent grey triangular shaped craft sighted moving slowly above a quiet neighborhoodAt about  10:30pm on April 22, 2011, in Cordova  TN, my mother, brother and I were driving in the car around our neighborhood and we saw a slow moving object just above our heads, about 300-400 feet approximately.  We stopped the car to try to see what the object was, it appeared as a dark grey or black triangular shaped object which was about 100 feet across in all directions and on each corner was a white light, and in the center of the craft was a yellow light in the shape of a circle.  The object was very slow moving and when we tried to listen to hear the engine, the craft was silent.  On the front of the craft was a small red light and appeared to have a dome on top of the craft, but because it was viewed from the bottom, we are unable to determine what was on the top.  The object was moving west very slowly and when the craft flew behind a tree and we lost sight for a moment, but coming from the south east was a big airplane following it in the same direc! tion, as if it was perusing the unknown craft.  When we regained our sight of the craft, it had gained speed and altitude and began heading eastward as if it was trying to evade the pursuing airplane</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80979.html](http://www.nuforc.org/webreports/reports/080/S80979.html)</i></sub></sub></sub><br> </sub>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162818.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162804.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162829.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162817.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163196.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
