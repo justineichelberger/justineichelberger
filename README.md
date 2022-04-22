@@ -213,17 +213,13 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Fallbrook (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>4 fireballs in the sky, hooveringThere was a glow out my daughters window, at first I thought I was seeing a reflection from an object in her room as the lights were steady.  There were 4 glowing objects, large orange glowing balls that were visable over the field in front of my home.  The dogs were barking outside.  I ran to wake my husband but by the time he responded they were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108863.html](http://www.nuforc.org/webreports/reports/108/S108863.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Modesto (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Triangle shaped aircraft with three lights flying high and quiet.My husband and I were out stargazing during the meteor shower.  We saw a triangular craft flying south to north.  It had three lights that were dim.  One on each point in a triangle shape, or it was three aircraft flying at the exact same rate of speed in a triangular formation.  It was flying much faster than the average airplane and it made no noise.  It was very dark against the night sky.  My husband suspects it was some kind of military aircraft.  It was so dark that it was hard to notice at all.  It almost looked like a shadow going across the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155725.html](http://www.nuforc.org/webreports/reports/155/S155725.html)</i></sub></sub></sub><br> </sub>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162818.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162804.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162829.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162817.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163196.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
