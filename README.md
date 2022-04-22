@@ -213,17 +213,13 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1981, an anonymous witness in Citrus Heights (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Used tire floating up into clouds.Mid-afternoon as I sat in front of my sister-in-law's home, I witnessed a 'used tire' rise from the backyard of the house across the street.The 'used tire' very slowly rotated end-over-end as it very slowly traveled away from me.It took at least eight minutes to slowly rise and slowly travel up-and-away until it was too indistinct to see against the distant clouds.There was no wind nor other cause for the 'used tire' to rise and travel.I heard no sound,  I saw no lights from the 'used tire'.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110550.html](http://www.nuforc.org/webreports/reports/110/S110550.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Fallbrook (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>4 fireballs in the sky, hooveringThere was a glow out my daughters window, at first I thought I was seeing a reflection from an object in her room as the lights were steady.  There were 4 glowing objects, large orange glowing balls that were visable over the field in front of my home.  The dogs were barking outside.  I ran to wake my husband but by the time he responded they were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108863.html](http://www.nuforc.org/webreports/reports/108/S108863.html)</i></sub></sub></sub><br> </sub>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162818.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162804.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162829.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162817.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163196.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
