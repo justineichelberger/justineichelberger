@@ -213,21 +213,17 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Modesto (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Triangle shaped aircraft with three lights flying high and quiet.My husband and I were out stargazing during the meteor shower.  We saw a triangular craft flying south to north.  It had three lights that were dim.  One on each point in a triangle shape, or it was three aircraft flying at the exact same rate of speed in a triangular formation.  It was flying much faster than the average airplane and it made no noise.  It was very dark against the night sky.  My husband suspects it was some kind of military aircraft.  It was so dark that it was hard to notice at all.  It almost looked like a shadow going across the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155725.html](http://www.nuforc.org/webreports/reports/155/S155725.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Kingman (AZ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Small silver/white disk shaped object traveling in excess of 2-300 mph south of Kingman AZSmall silver/white disk shaped object size of a normal car flying at excessive speed well over 2-300 mph with no sound heading north. Flying at low altitude approximately 1/2 mile.  I was recording a large approaching storm while driving southbound on I -93 near Mcgarrys wash. Only upon review of the video did I capture a 7 second clip of the ufo darting north.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163196.html](http://www.nuforc.org/webreports/reports/163/S163196.html)</i></sub></sub></sub><br> </sub>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162818.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162804.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162829.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162817.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163196.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
 <sub><sub><i>source: <a href=https://nuforc-sightings-database-api.herokuapp.com/sightings/today/rss.xml>https://nuforc-sightings-database-api.herokuapp.com/sightings/today/rss.xml</a></i></sub></sub>
 </details><h5></details> 
 
-[![Updated Badge](https://badges.pufler.dev/updated/justineichelberger/nuforc-sightings-database-api)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/justineichelberger/nuforc-sightings-database-api)](https://badges.pufler.dev)
+{timestamp_for_last_update} [![Visits Badge](https://badges.pufler.dev/visits/justineichelberger/nuforc-sightings-database-api)](https://badges.pufler.dev)
