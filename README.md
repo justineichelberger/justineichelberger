@@ -213,17 +213,13 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Cordova (TN) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Silent grey triangular shaped craft sighted moving slowly above a quiet neighborhoodAt about  10:30pm on April 22, 2011, in Cordova  TN, my mother, brother and I were driving in the car around our neighborhood and we saw a slow moving object just above our heads, about 300-400 feet approximately.  We stopped the car to try to see what the object was, it appeared as a dark grey or black triangular shaped object which was about 100 feet across in all directions and on each corner was a white light, and in the center of the craft was a yellow light in the shape of a circle.  The object was very slow moving and when we tried to listen to hear the engine, the craft was silent.  On the front of the craft was a small red light and appeared to have a dome on top of the craft, but because it was viewed from the bottom, we are unable to determine what was on the top.  The object was moving west very slowly and when the craft flew behind a tree and we lost sight for a moment, but coming from the south east was a big airplane following it in the same direc! tion, as if it was perusing the unknown craft.  When we regained our sight of the craft, it had gained speed and altitude and began heading eastward as if it was trying to evade the pursuing airplane</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80979.html](http://www.nuforc.org/webreports/reports/080/S80979.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Melbourne (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Today is April 22nd me my wife and my son saw 3 separate craft of Unknown Origin that resemble fireballs they traveled as separate entities about 2 minutes apart they came from the ocean the east and we're traveling west and somewhat of a slow pace then begin to climb on a slope continuously picking up speed until they pretty much vanished to look like stars all three craft did this In almost the same course these were not planes nor helicopters because there was no sound and the lights that these objects admitted changed from gold silver 2 Fireball red all three craft looked the same I am an electrician my wife used to work for CVS my son is 3 what I have seen this evening I have never seen before I have seen all manner of military aircraft these objects we're not of military design and could not have been because of the rate of speed and which they climbed and vanished thank you</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127003.html](http://www.nuforc.org/webreports/reports/127/S127003.html)</i></sub></sub></sub><br> </sub>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162818.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162804.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162829.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162817.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163196.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
