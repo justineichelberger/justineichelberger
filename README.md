@@ -213,17 +213,13 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Woman in hammock witnesses brightly lighted "red ball" descend from sky, fly into garage!  Ascends, flies to 2nd obj. in sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00451.html](http://www.nuforc.org/webreports/reports/000/S00451.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in ForestPark (IL) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.2833333333333333 - 0.2833333333333333 minutes.</sub><blockquote><sub>UFO, no trail.  Just diamond shape moving across sky.Sky was extremely clear, no overcast.  I had just noticed the luminocity of a few stars towards the southern hemisphere.  I went inside to grab my telescope.  When I came back out I noticed an object flying at an altitude of a jet.  At first I thought jet, but it was moving way to fast and graceful.  After about 7 seconds the diamond shape object was slightly overhead.  The object was a faint white but as clear as day against the night sky.  The object moved at the same velocity from start to finish.  The object vanished when it was about 7/10 through my possible view.  It seemed as if it was moving straight but not realative to gravity.  Like it flew straight out of our atmosphere.  The bottom of the object may have been chrome, or mirror.  Due to the object vanishing before a well reasonable vanishing point of sight, I beleive the object could of been reflecting more of the ground than the sky.  The object had no lights.  I have seen many documenteries, and live near an airport.  When a jet moves you can see its left over trajection in the atmosphere.  It seems to be a ridgid but straight line.  Seeing this object move through the sky was a great gift.  Not because of the possibilities of alien life.  The way the object moved through the sky was so graceful.  It moved so straight, at such a constant.  It was as if the object had a desination straight ahead.  Like the object belonged in every spot it was in at every milisecond.  It appeared as if nothing was realitive to the object but it's self.  It was not effected by turbulance in anyway.  This description may seem mentally disturbing, but you would half to see it to understand. Backround: Architecture</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56338.html](http://www.nuforc.org/webreports/reports/056/S56338.html)</i></sub></sub></sub><br> </sub>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162818.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162804.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162829.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162817.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163196.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
