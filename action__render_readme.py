@@ -12,7 +12,8 @@ print(markdown_text_for_template)
 
 timestamp_for_last_update = f'Last Updated: {datetime.datetime.now()}'
 
-new_markdown_text = markdown_text.replace("{random_sighting}", markdown_text_for_template).replace("{timestamp_for_last_update}", markdown_text_for_template)
+new_markdown_text = markdown_text.replace("{random_sighting}", markdown_text_for_template)
+new_markdown_text = new_markdown_text.replace("{timestamp_for_last_update}", new_markdown_text)
 
 new_readme = open("README.md", "w")
 new_readme.write(new_markdown_text)
