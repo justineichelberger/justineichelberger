@@ -213,21 +213,17 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Salem (OR) reported seeing craft that fit the description of some 'Cigar' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>Greenish blue object  with white tail  sighted in salem,  oregon.I was flying a kite with my daughter, one cigar shaped object flew behind it at a fast rate of speed and an angle of  10-15 degrees off horizontal.  The object was greenish blue with a white tail.  No sound at all.It lasted only about 2 seconds and then it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97310.html](http://www.nuforc.org/webreports/reports/097/S97310.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") {random_sighting} </sub>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162818.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162804.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162829.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162817.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163196.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
 <sub><sub><i>source: <a href=https://nuforc-sightings-database-api.herokuapp.com/sightings/today/rss.xml>https://nuforc-sightings-database-api.herokuapp.com/sightings/today/rss.xml</a></i></sub></sub>
 </details><h5></details> 
 
-{timestamp_for_last_update} [![Visits Badge](https://badges.pufler.dev/visits/justineichelberger/nuforc-sightings-database-api)](https://badges.pufler.dev)
+<sub>On this day in 2010, an anonymous witness in Poland () reported seeing craft that fit the description of some 'Other' over a period of approximately 0.0125 - 0.0125 minutes.</sub><blockquote><sub>Ufo sighting at 1:45 AM while flying to Poland at 30.000 ft.10 seconds durationI am a 62 years old man and while flying from Rome to Krakow I saw what I am sure was an ufo. It was about 1:45 AM, our plane was at 30.000 ft and I didn't ask anyone if they sow the ufo but closed my eyes and prayed, our plane started to shake, I was sure it was going to crash into us  I searched the internet to find the a similar shape but none matched what i sow,it was a rhomboidal shape with blue and red lights and it flew in a way that was amazing to say the least,effortless and almost like floating. It couldn't have been more than a tenth of a mile from our plane</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75305.html](http://www.nuforc.org/webreports/reports/075/S75305.html)</i></sub></sub></sub><br> [![Visits Badge](https://badges.pufler.dev/visits/justineichelberger/nuforc-sightings-database-api)](https://badges.pufler.dev)
