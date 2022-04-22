@@ -213,17 +213,13 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Rochester (MN) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>strip of lights seen above neighborhoodMy brother and I were looking at the stars in my friend's backyard. I noticed a slow moving silent strip of lights(6 horizintal dim lights), about 300 to 400 feet above us moving west. It was in the sky for about 30 seconds before moving out of view. Two minutes after discussing what it may have been (birds, plane, blimp) the object reapeared from the original direction where we had seen it before and followed the same path.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56527.html](http://www.nuforc.org/webreports/reports/056/S56527.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Machias (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Intergalactic FishermanMy whole crew and I witnessed two lights approximately five hundred feet away.  They seemed to change direction in an instant.  One would fly straight up then stop, and the other would follow, they then dove into the water where their lights would go away. About 10 seconds later they would emerge from the water and do the same thing over again.  The crew and I watched for about 15 to 20 minutes when they took off to the south probably 50 feet above the ocean, there was no noise, but we have yet to catch anything in that region since?((NUFORC Note:  We will try to obtain corroborative reports from other members of the crew.  Date may be approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24170.html](http://www.nuforc.org/webreports/reports/024/S24170.html)</i></sub></sub></sub><br> </sub>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162818.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162804.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162829.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162817.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163196.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
