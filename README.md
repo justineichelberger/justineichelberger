@@ -213,17 +213,13 @@
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
 <sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>close circle of bright lights that changed into one bright light as it turned and changed into a red light as it hovered (only one)The object started out looking like a star, but then began growing until it was clearly visible.  It began as the size of other stars, just brighter, but then it looked like a ring of lights.	The object was not spherical because the ring of lights would combine into one bright light, implying that it was disc-shaped.  A red light also flashed when the ring of lights became one extremely bright light.  The ring of lights and the bright light were the same color as the stars, and even brighter.	The object hovered back and forth, growing as it approached us.  It zoomed out and in away from us, and when we walked close to the area under where it was hovering, it became larger and chased us, as the red light appeared.	As we got closer, we could hear the buzzing noise.  It wasn’t a constant buzzing, but had crescendos and diminuendos.  It then hovered, tilting dropping one side then the other, until it landed about 200 yards from where we were standing.  I took a video of it on my cell phone, but when I went back to look at it, the video wasn’t there.  I also took a picture, which also was not on my cell phone when I went back to check.	I believe it landed in the park behind Dockweiler beach down a street called Argonaut.  There is a lake in the park and it is a possibility that it landed in the lake, but it did land for sure.	I have never seen a UFO before, and never believed in the sightings, but this was for real.  Within an hour of the sighting, I also saw 4 shooting stars.  I have never seen shooting stars before this night as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62913.html](http://www.nuforc.org/webreports/reports/062/S62913.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Kelseyville (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.15 - 0.15 minutes.</sub><blockquote><sub>Large commercial aircraft seen making giant turn before the craft.The aircraft made a second turn leaving com trails again before Coming close to the craft.  I used 10x50 binoculars to view the craft and viewed a round type disk white and reflective. The craft also had a large hole in the middle that was darker than the blue sky. 'The craft didn't move at all and just disappeared. I took a picture with my iPhone 4 Wich I have uploaded to you.  ((sic.  YouTube??))((NUFORC Note:  We have looked at the photo provided by the witness, and the one object we see appears to us to be a short contrail behind a high-altitude aircraft.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118591.html](http://www.nuforc.org/webreports/reports/118/S118591.html)</i></sub></sub></sub><br> </sub>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162818.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162804.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162829.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162817.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163196.html)
+
 <!-- BLOG-POST-LIST:END -->
   </sub><br><br>
 
