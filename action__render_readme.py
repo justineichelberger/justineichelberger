@@ -20,6 +20,6 @@ timestamp_text = f'Last Updated: {datetime.datetime.now()}'
 timestamp_for_last_update_markdown_text = markdown_text.replace("{timestamp_for_last_update}", markdown_text_for_template)
 
 new_readme = open("README.md", "w")
-new_readme.write(new_markdown_text)
+new_readme.write(timestamp_for_last_update_markdown_text)
 
 print(datetime.datetime.now())
