@@ -1,3 +1,4 @@
+import datetime
 import requests
 
 response = requests.get("https://nuforc-sightings-database-api.herokuapp.com/sightings/today/random")
@@ -10,6 +11,13 @@ markdown_text_for_template += f"<sub>On this day in {response.json()[0][8]}, an 
 print(markdown_text_for_template)
 
 new_markdown_text = markdown_text.replace("{random_sighting}", markdown_text_for_template)
+
+new_readme = open("README.md", "w")
+new_readme.write(new_markdown_text)
+
+timestamp_text = f'Last Updated: {datetime.now()}'
+
+timestamp_for_last_update_markdown_text = markdown_text.replace("{timestamp_for_last_update}", markdown_text_for_template)
 
 new_readme = open("README.md", "w")
 new_readme.write(new_markdown_text)
