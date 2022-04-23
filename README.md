@@ -76,7 +76,7 @@
     </td>
     <td align="center">&nbsp;
       <a href="https://github.com/justineichelberger" style="padding-left: 10%;">
-        <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justineichelberger&hide=css, procfile&title_color=C0C0C0&text_color=C0C0C0&icon_color=C0C0C0&bg_color=0D1117" />
+        <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justineichelberger&hide=css, Jupyter Notebook, procfile&title_color=C0C0C0&text_color=C0C0C0&icon_color=C0C0C0&bg_color=0D1117" />
       </a>
     </td>
     <td  align="right" style="color: lightgray; display: inline-block; justify-content: right; padding-top: 90px;"> 
@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:03:54 on April 23, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:06:10 on April 23, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Virginia Beach (VA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Up up and awayHello I live in military housing in oceana, I woke up to use the bathroom and I notice how bright the moon was, I laid down began praying and staring at the stars.  I thought to myself how beautiful they are.   As I laid back in my bed trying to fall asleep I noticed a small object with red lights go straight up it began blinking white I thought I was tripping almost falling out the bed to stare.  I then woke up all the way up and began staring at the sky and saw three more they were acting as stars and just went straight up I could see what looked like smoke as they went straight up and disappeared   I know how this story sounds but it's true and scary because now I know there's something that comes in our universe and leaves.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127008.html](http://www.nuforc.org/webreports/reports/127/S127008.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Newtown (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange/White Object with Fire Trail seen crashing from the sky in Northeast Pa.My brother called me just a bit ago from a little league baseball game in Newtown PA to tell me he and everybody at the game stopped to watch an Orange Fireball that looked like it was crashing out of the sky. He said it first looked like something was out of control with an erratic trail but then described the trail as going straight and was very far away to the North of his location moving away from them. I asked if he could compare it to anything and he said it kind of looked like when the space shuttle crashed but it was just one object. He told me the Color was Orange and for a second the object got white like it got white-hot or something like that. He tried to take a cell phone photo but it was to far away.We are hoping someone else got photos of it as it seemed that many people saw this object.I told him I thought this was very interesting as there were two reports last week of objects falling from the sky as well in Indiana and North Carolina, There has to be something to these events. If anyone else saw this please report it.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62668.html](http://www.nuforc.org/webreports/reports/062/S62668.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162832.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162837.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162841.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162833.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
