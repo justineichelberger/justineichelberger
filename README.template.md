@@ -214,9 +214,7 @@
 <sub>
   
 ![neural-network-icon-16](./images/neural_network_original_greyscale_26.png "'fact'")
-</sub>
-
-<sub>last updated at {timestamp_for_last_update} and will update on approximately the every hour with randomly selected data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br><br>
+</sub><sub>last updated at {timestamp_for_last_update} and will update on approximately the every hour with randomly selected data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br><br>
 
 ![neural-network-icon-16](./images/hud_cursor_01.gif "feature") {random_sighting} </sub>
 <h5><details open>
@@ -225,9 +223,7 @@
 <sub>
 
 ![neural-network-icon-16](./images/neural_network_original_greyscale_26.png "'facts'")
-</sub>
-  
-<sub>five of the most recent historical records from this day in history</sub><br>
+</sub><sub>five of the most recent historical records from this day in history</sub><br>
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
