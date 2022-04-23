@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:41 on April 23, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:48 on April 23, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Buckeye (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Air Force jet's pursue 2 triangle shaped craft over White Tank Mountain Range.Just after 8pm tonight, April 23rd, me and my two son's witnessed multiple air force fighter jet's flying at a high rate of speed pursuing what appeared to us as 2 triangle shaped or V-shaped craft that were hovering over the White Tank Mountain Range here in Buckeye, AZ. We witnessed the 2 craft above the mountain range while driving back from the store on Yuma Rd.  I pointed out to my sons the craft and we pulled into our driveway and were able to then see and hear multiple air force jets fly toward's these 2 triangle shape craft and the 2 craft appeared to just blink off their lights.  The craft both each had 3 glowing white/blueish light's in the form of a triangle and one of the craft appeared to have an haze or foggy cloud in or around it.  The fighter jet's circled the mountain range for a few minutes and then flew northwest.  I am currently still watching this mountain range and if any new development's I will report them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118600.html](http://www.nuforc.org/webreports/reports/118/S118600.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in La Mesa (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Me and my son saw this huge white light come out of the sky to ground or pacific ocean very strange this was no meteor!Driving westbound back from 7-11 store.  Seen very large circle shape white light coming down from direct above space toward ground at a very high rate of speed.  The circle was larger then any jet aircraft and had no tail or trail of light.  Estimate headed out in pacific ocean.  Called in to police to report. both of us saw this and we went to top of hill to see if we could see impact but did not see anything else.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108860.html](http://www.nuforc.org/webreports/reports/108/S108860.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162832.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162837.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162841.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162833.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
