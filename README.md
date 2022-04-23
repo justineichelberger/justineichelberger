@@ -212,7 +212,7 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:38:31 on April 23, 2022 and will update approximately every hour with randomly selected data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:38:31 on April 23, 2022 updates approximately every hour with randomly selected data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
 ![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in St. Petersburg (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Star size object traveling north tosouthStar size light traveling from north to south way up high.Saw airliner trailing object at lower altitude. The object seemed to have slight wobble as it was passing over our heads.The strange thing was that the object seemed to stop, waited for the airliner to pass undermeath it then slowly continued on its course. Saw the same object about 3 weeks ago but this time it was coming from the west heading east about the sametime as this mornigs sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17364.html](http://www.nuforc.org/webreports/reports/017/S17364.html)</i></sub></sub></sub><br> </sub>
 <h5><details open>
