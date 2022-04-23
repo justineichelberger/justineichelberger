@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:41 on April 23, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:47 on April 23, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Port Rowan (Canada) (ON) reported seeing craft that fit the description of some 'Triangle' over a period of approximately All night - All night minutes.</sub><blockquote><sub>Everything from black triangles to Multi coloured objects near our home each night.I already submitted a report around two years ago regarding the many different types of craft we are seeing in my area right on Lake Erie in Ontario, Canada.  This is a follow up report.We are still seeing the objects on a nightly basis.  Many more people are noticing them now.I have ready several reports of people seeing objects show up at dusk and remain all night long until the sun comes up in the morning.  That is the exact same thing we are dealing with in our area.Even before it is fully dark we are seeing these objects show up.  Some a solid white or orange while most flash Multi coloured lights of blue, green, red, and white.  Most stay in one one spot for the duration if the night while others fly around in circles surrounding the hovering ones. It almost as if they are supervising these Multi coloured ones.We see some wobble around and bob around and the best way I can describe their movement is to tell you that they bob like a spider dangling on a web.   It's very strange.Some will come down and weave in and out of the trees in the forest and if we shine a light in the tress to try and see these objects they will shut of their lights.  When they shut their lights off it looks like a kerosene heater going out.  My dogs act strange when they are around and lunge at the forest barking most nights.We are after having huge black triangles fly within 200 feet above our heads which are perfectly silent and if they went any slower they would fall out of the sky.  This has happened to my daughter and I twice while out driving around on our four wheeler.  Several neighbours have approached me and told me that they are seeing these things as well but said they won't tell anyone else because they don't want them to think they are crazy.  There are just so many and they come here every night.  This is a great place for investigators to come.  There is always something out there for them to see.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108884.html](http://www.nuforc.org/webreports/reports/108/S108884.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Ogden (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>White dot of light  that changed directions a few time .Setting on my front porch at or about 5:30 AM looking at the morning sky,when I seen a flash of light that came from the Big Dipper that was in the N.W. sky . It looked to be a white light that was about the size of a small pin hole . It was moving S.E.at a fast speed and then turned S.W. for a few seconds and then it turned to the N.W. I followed it until it was out of sight . I then looked back at the Big Dipper and spotted another little light that was going in a broken circle and then disappeared in about the same spot the first light was seen at .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50248.html](http://www.nuforc.org/webreports/reports/050/S50248.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162832.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162837.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162841.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162833.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
