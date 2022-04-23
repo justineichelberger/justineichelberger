@@ -221,7 +221,11 @@ and the five most recent historical records from this day in history<br>
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-
+- [306](http://www.nuforc.org/webreports/reports/162/S162832.html)
+- [305](http://www.nuforc.org/webreports/reports/162/S162837.html)
+- [304](http://www.nuforc.org/webreports/reports/162/S162841.html)
+- [303](http://www.nuforc.org/webreports/reports/162/S162833.html)
+- [302](http://www.nuforc.org/webreports/reports/162/S162815.html)
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
