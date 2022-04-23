@@ -211,13 +211,9 @@
 
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
-<sub>
+<sub>![neural-network-icon-16](./images/neural_network_original_greyscale_26.png "interface") last updated at 04:19:01 on April 23, 2022 and will update on approximately the every hour with randomly selected data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br><br>
 
-![neural-network-icon-16](./images/neural_network_original_greyscale_26.png "interface")
-
-last updated at 04:16:31 on April 23, 2022 and will update on approximately the every hour with randomly selected data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br><br>
-
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Maywood (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Flying vessel over the time of incident people apparently talking to themselves.  flying object stayed still for more than one hour.  No civilian casualties.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126987.html](http://www.nuforc.org/webreports/reports/126/S126987.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Arivaca (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>riders on the stormI was watching a very powerful electrical storm comein. In the lower areas of the largest, pulsing, towered cloud,  I watched a craft in the southern sky for approximately 2 minutes.  Whatever it was, it glowed and looked like 2 roundish globes separated from each other by a line, one globe sort of soft purple color and the other, a soft yellow but the light from it didn't seem to shine.  It was approximately 2 miles away.  It slid through the air sometimes fast and sometimes very slow, occasionally begoming fixed.  It seemed to blink away a few times; as though it were peeking out from something.  It disappeared into the mass of the storm and I went inside, disturbed because I don't really believe in this ((deleted))... but I saw something and it was different.  A little later I went back out and watched the electrical storm flash, but there was little to the thunder, sometimes no report seemed to follow the flashes.  I saw in the north sky, again at the bottom of the massive cloud the orb thing.  Like the other, it went into and was obscured by the storm.  There were also at least 4 enormous, deep turquoise flashes that lit the sky up green for extended periods of time coming from the center of the darkest area of the storm.  Very little rain fell.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13554.html](http://www.nuforc.org/webreports/reports/013/S13554.html)</i></sub></sub></sub><br> </sub>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -225,11 +221,7 @@ five most recent historical records found in the <i><a href="https://nuforc-sigh
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162832.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162837.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162841.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162833.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
