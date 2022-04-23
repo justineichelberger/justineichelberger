@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:39 on April 23, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:44 on April 23, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Martinsburg (WV) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>This was no ultralight or helicopter! It was something totally different . it defied the laws of  nature!The craft was between 150 To 200 feet in the air moving maybe 25 to 30 mph.  It was going so slow it should have dropped out of the sky.It made no noise.  It had 4 lights. No lights were blinking. It had a charcoal black color to it sorte like the color of a stealth fighter jet.  It may have been 30 to 40 feet wide in all directions.  It was diamond shape but it was more a Square shape.  It flew almost parallel with the road I was on .It came right over top my car! I got out of my car and watched it make a banking turn while it almost came to a stop. this was rt 9 (edwin miller blvd) rd in Martinsburg WV.  It flew right over top of arbys . Then it flew southeast for a while till it went out of view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69783.html](http://www.nuforc.org/webreports/reports/069/S69783.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Newtown (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange/White Object with Fire Trail seen crashing from the sky in Northeast Pa.My brother called me just a bit ago from a little league baseball game in Newtown PA to tell me he and everybody at the game stopped to watch an Orange Fireball that looked like it was crashing out of the sky. He said it first looked like something was out of control with an erratic trail but then described the trail as going straight and was very far away to the North of his location moving away from them. I asked if he could compare it to anything and he said it kind of looked like when the space shuttle crashed but it was just one object. He told me the Color was Orange and for a second the object got white like it got white-hot or something like that. He tried to take a cell phone photo but it was to far away.We are hoping someone else got photos of it as it seemed that many people saw this object.I told him I thought this was very interesting as there were two reports last week of objects falling from the sky as well in Indiana and North Carolina, There has to be something to these events. If anyone else saw this please report it.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62668.html](http://www.nuforc.org/webreports/reports/062/S62668.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162832.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162837.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162841.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162833.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
