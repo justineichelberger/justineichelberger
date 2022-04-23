@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:48 on April 23, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:19 on April 23, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Greer (SC) reported seeing craft that fit the description of some 'Flash' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>2 Flashing red lights fly slow and silent over my home. i have videoI left my brothers house and was walking down the drt road to my hose.  Facing due south i saw two flashing red lights. They were heading straight for me flying close and low. I ran in my house got a couple friends to come out and my nephew pulled up in his car.  I told them to look.  The crafts flew right over my house. Slowly and silently.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88949.html](http://www.nuforc.org/webreports/reports/088/S88949.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>A flame floating through the sky moved slowly and closely above us before departing into space as a small red light.A flame that was moving from west to east was coming toward our position, directly overhead.  It was moving slowly, and seemed to be approaching us.  At one point, we asked each other if it was falling from directly above us, down toward us.  It was very large (looked like the fire that comes out of a hot air balloon but bigger) and slowly floated above us, in the same west-east direction.  It looked like it could have been only 100 meters above ground at the closest point.  It then gradually moved away from us, getting smaller and smaller, as if it was moving further from the Earth as it moved eastward.  This continued until it turned into a small red light and disappeared.  The red light at the very end looked like a small red star.  By the end we were not looking as easterly as we were looking up at the sky.  From our vantage point it seemed to move very slowly while it approached us (like a hot air balloon) and very quickly as it moved away from us (like a jet or rocket).  Nothing we could imagine could seem to be so close, and in just a matter of seconds be so far away.  The entire episode lasted 3-4 minutes, most of which was time it spent approaching and floating above us, always moving in the west-east direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50259.html](http://www.nuforc.org/webreports/reports/050/S50259.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162832.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162837.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162841.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162833.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
