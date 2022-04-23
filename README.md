@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:41 on April 23, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:41 on April 23, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Pembroke (VA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.3833333333333333 - 0.3833333333333333 minutes.</sub><blockquote><sub>An oval hover craft was above one of the buildings in Pembroke.  It has lights going around in a circle.  It went in a circle one more time and it stopped, it sat there and hovered for about 3 seconds, and it zoomed away, it just dissapeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80989.html](http://www.nuforc.org/webreports/reports/080/S80989.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Port Rowan (Canada) (ON) reported seeing craft that fit the description of some 'Triangle' over a period of approximately All night - All night minutes.</sub><blockquote><sub>Everything from black triangles to Multi coloured objects near our home each night.I already submitted a report around two years ago regarding the many different types of craft we are seeing in my area right on Lake Erie in Ontario, Canada.  This is a follow up report.We are still seeing the objects on a nightly basis.  Many more people are noticing them now.I have ready several reports of people seeing objects show up at dusk and remain all night long until the sun comes up in the morning.  That is the exact same thing we are dealing with in our area.Even before it is fully dark we are seeing these objects show up.  Some a solid white or orange while most flash Multi coloured lights of blue, green, red, and white.  Most stay in one one spot for the duration if the night while others fly around in circles surrounding the hovering ones. It almost as if they are supervising these Multi coloured ones.We see some wobble around and bob around and the best way I can describe their movement is to tell you that they bob like a spider dangling on a web.   It's very strange.Some will come down and weave in and out of the trees in the forest and if we shine a light in the tress to try and see these objects they will shut of their lights.  When they shut their lights off it looks like a kerosene heater going out.  My dogs act strange when they are around and lunge at the forest barking most nights.We are after having huge black triangles fly within 200 feet above our heads which are perfectly silent and if they went any slower they would fall out of the sky.  This has happened to my daughter and I twice while out driving around on our four wheeler.  Several neighbours have approached me and told me that they are seeing these things as well but said they won't tell anyone else because they don't want them to think they are crazy.  There are just so many and they come here every night.  This is a great place for investigators to come.  There is always something out there for them to see.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108884.html](http://www.nuforc.org/webreports/reports/108/S108884.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162832.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162837.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162841.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162833.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
