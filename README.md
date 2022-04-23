@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:47 on April 23, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:32 on April 23, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Ogden (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>White dot of light  that changed directions a few time .Setting on my front porch at or about 5:30 AM looking at the morning sky,when I seen a flash of light that came from the Big Dipper that was in the N.W. sky . It looked to be a white light that was about the size of a small pin hole . It was moving S.E.at a fast speed and then turned S.W. for a few seconds and then it turned to the N.W. I followed it until it was out of sight . I then looked back at the Big Dipper and spotted another little light that was going in a broken circle and then disappeared in about the same spot the first light was seen at .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50248.html](http://www.nuforc.org/webreports/reports/050/S50248.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Midland (TX) reported seeing craft that fit the description of some 'Changing' over a period of approximately Sky watching - Sky watching minutes.</sub><blockquote><sub>Shape changing orb with bright light in the middle that seems to take pictures.I'm always star gazing but I know stars arent supposed to move. These objects keep changing shape and direction. They always seem to keep coming back every two days.I know other people in this area sees the same thing because I see camera flashes like someone else is taking pictures. I was always skeptical about this kind of thing but what Im seeing is without reason. It has bright white lights and a stream of flashing lights around it. They seem to hover around houses late at night like they are observing studying.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50284.html](http://www.nuforc.org/webreports/reports/050/S50284.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162832.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162837.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162841.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162833.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
