@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:48 on April 23, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:36 on April 23, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in La Mesa (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Me and my son saw this huge white light come out of the sky to ground or pacific ocean very strange this was no meteor!Driving westbound back from 7-11 store.  Seen very large circle shape white light coming down from direct above space toward ground at a very high rate of speed.  The circle was larger then any jet aircraft and had no tail or trail of light.  Estimate headed out in pacific ocean.  Called in to police to report. both of us saw this and we went to top of hill to see if we could see impact but did not see anything else.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108860.html](http://www.nuforc.org/webreports/reports/108/S108860.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Basalt (CO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>fast moving, zagging; bright lights and hovering at times.It was really strange.  I was out with my dog at about 9 pm mst 04/23/08.  The sky was really clear.  I looked over toward the SW because something caught my eye.It was very bright and quite a long distance away.  I could make out red, green and white lights with my bare eyes.  It was moving very fast from side to side.  I ran in the house to get out my binoculars.Then, I could really see it.  I saw one row of horizontal very bright lights.  I went back into the house to tell tell my wife and got another set of glasses for her.  Now it had moved to mid height in the SW sky about mid height in the West.  I could not take my eyes off of it.  I was really excited and my wife was like no big deal but glad to have seen one.  You knew it was not a plane because a plane could not hover like that and make the very radical moves.I watched for about a half hour.  Toward the end a second UFO joined the first one, but quite a distance from the first one.Then, this morning on Channel 7 news they mentioned that UFO's were spotted over Phoenix.  So, someone else saw some too.  The FAA said they had nothing to report.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62907.html](http://www.nuforc.org/webreports/reports/062/S62907.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162832.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162837.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162841.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162833.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
