@@ -76,7 +76,7 @@
     </td>
     <td align="center">&nbsp;
       <a href="https://github.com/justineichelberger" style="padding-left: 10%;">
-        <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justineichelberger&hide=html,css,Jupyter Notebook,procfile&title_color=C0C0C0&text_color=C0C0C0&icon_color=C0C0C0&bg_color=0D1117" />
+        <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justineichelberger&hide=css, procfile&title_color=C0C0C0&text_color=C0C0C0&icon_color=C0C0C0&bg_color=0D1117" />
       </a>
     </td>
     <td  align="right" style="color: lightgray; display: inline-block; justify-content: right; padding-top: 90px;"> 
@@ -214,7 +214,7 @@
 
 <sub>last updated at {timestamp_for_last_update} (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") {random_sighting} </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") {random_sighting}
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
