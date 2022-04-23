@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:32 on April 23, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:03:01 on April 23, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Hickory Corners (MI) reported seeing craft that fit the description of some '' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Woman hears strange, loud humming overhead, which ceases, then starts again.  Looks up, sees multiple strange lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00452.html](http://www.nuforc.org/webreports/reports/000/S00452.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Peachtree City (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>This object was not a star, plane, or helicopter!I always look at the stars on clear nights when I can, and that's just what I was doing the other night.  I noticed an object which was slightly brighter than the rest of the stars which I thought might have been a planet.  Most of the time it was white but it would at times seem to have blue and red in it.  It was very far up in the sky I'd say at least 40,000 feet.  But it moved unlike a star would or a plane for that matter.  It would move in very small movements from left to right and up and down.  So slight I could hardly tell it was moving but it was because I would stand still and after a minute or two it would move behind a tree branch out of site.  The object also would dim to NOTHING!  Then light up again.  Like nothing I've ever seen.  It gave me a weird feeling as I was watching it. ((NUFORC Note:  We suspect a possible sighting of Sirius, but that is a guess.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43614.html](http://www.nuforc.org/webreports/reports/043/S43614.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162832.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162837.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162841.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162833.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
