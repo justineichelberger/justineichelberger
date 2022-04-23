@@ -211,21 +211,17 @@
 
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
-<sub><sub>last updated at 04:11:25 on April 23, 2022 and will update on approximately the every hour with randomly selected data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
+<sub>last updated at 04:13:13 on April 23, 2022 and will update on approximately the every hour with randomly selected data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Candler (NC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Watched 3 separate ufos lift up and take off3 of us watched 3 separate ufos lift up above the tree line and shoot off into the sky.  They left 5 minutes between each other and we had a perfect view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162837.html](http://www.nuforc.org/webreports/reports/162/S162837.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Seattle (North) (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>I was laying in my bed with the ability to look out the window while watching television. I live on the 4th floor in an apartment bldg. The window faces west. I saw a green ball of light traveling in a northwest direction. It was not falling from the sky, but treversing very fast accross the sky. The object was unviewable after about 15 seconds. The object never chaned direction, and had a very destinct tail light of an bright orange color.The size of the object was about 4 to 5 times the size of a star. I have lived in seattle for over 9 years. I personally have not seen any green objects such as this until this past year. This is the third time I have seen the green light. I might also say that I was working graveyard shifts the past two times, and was traveling on I-5 heading south. The object had a trail, it did not leave a trail.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/006/S06838.html](http://www.nuforc.org/webreports/reports/006/S06838.html)</i></sub></sub></sub><br> </sub>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
-<sub><sub>five most recent historical records found in the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i> from this day in history</sub></sub>   
+<sub>five most recent historical records found in the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i> from this day in history</sub>   
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162832.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162837.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162841.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162833.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
