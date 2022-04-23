@@ -88,7 +88,7 @@
 </details>
 </h3>
   
-[![Updated Badge](https://badges.pufler.dev/updated/justineichelberger/justineichelberger)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/justineichelberger/justineichelberger)](https://badges.pufler.dev) 
+[![Visits Badge](https://badges.pufler.dev/visits/justineichelberger/justineichelberger)](https://badges.pufler.dev)   
   
 <!-- ### pinned repositories -->
   
@@ -128,7 +128,7 @@
 <summary>profile</summary> 
 </details></h3>
   
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/justineichelberger/) 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/justineichelberger/)   
 
 ![neural-network-icon-16](./images/neural_network_original_greyscale_02.png "primary identifier")<img src="./images/neural_network_original_greyscale_26.png"/>&nbsp;<b><strong>builder</strong></b>&nbsp;&nbsp;<img src="./images/neural_network_original_greyscale_26.png"/>   
 ![neural-network-icon-16](./images/neural_network_original_greyscale_10.png "secondary identifiers")<img src="./images/neural_network_original_greyscale_26.png"/><sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>data scientist&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>analyst&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>music theorist&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>composer&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>   
@@ -211,23 +211,21 @@
 
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
-<sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
+<sub><sub>last updated at 21:58:27 on April 22, 2022 and will update on approximately the every hour with randomly selected data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Oshawa (Canada) (ON) reported seeing craft that fit the description of some '' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>High Slow Flashing White Light ObjectOn Sunday, April 23, 2017, while outside on my deck in Oshawa, Ontario I was admiring clearer skies and looking about for anything unusual.  After about one hour coming back outside Noticed about a quarter mile away directly to the west A very high -slow bright white flashing object  The intensity of brightness was high and low  Without the flashing you would not see it being so high  After about 20 to 30 seconds started to film it at 10:35 am I took two short video clips revealing the object with a poor quality  It was so high to zoom in full I almost called my neighbor to come see it as I could hear him outside Just continued to film it Also captured it on 5 pictures out of 23 taken Being so high hard to photograph The object took until four minutes to be above my position coming towards the east on a straight flight path above That's when I lost sight of it  directly over my roof-  Where did it go?  Will send you the still shots and clips after sending this report</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134040.html](http://www.nuforc.org/webreports/reports/134/S134040.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Orland (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Yellow-white light hovers before speeding off into the night skyI look at the sky every evening, and in this way, I'm more familiar with what should be in the sky and where.  I went outside after supper and noticed a yellowish-white light at 37 degrees NE and just above the tree-line in the night sky.  I stared at it for a long moment because I knew that the light had not been in the sky on previous nights.  Then I realized that the light was moving ever so slowly towards the NE.  I only took my eyes off of it long enough to look back behind me and call one of my sons to come out.  When I turned my head back, I saw the light speed away towards the east faster than anything I've ever seen before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81128.html](http://www.nuforc.org/webreports/reports/081/S81128.html)</i></sub></sub></sub><br> </sub>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
+<sub><sub>five most recent historical records found in the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i> from this day in history</sub></sub>
+
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162832.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162837.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162841.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162833.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162815.html)
+
 <!-- BLOG-POST-LIST:END -->
-  </sub><br><br>
+</sub>
 
 <sub><sub><i>source: <a href=https://nuforc-sightings-database-api.herokuapp.com/sightings/today/rss.xml>https://nuforc-sightings-database-api.herokuapp.com/sightings/today/rss.xml</a></i></sub></sub>
-</details><h5></details> 
+</details><h5></details>
 
-[![Updated Badge](https://badges.pufler.dev/updated/justineichelberger/nuforc-sightings-database-api)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/justineichelberger/nuforc-sightings-database-api)](https://badges.pufler.dev)
+<!-- [![Updated Badge](https://badges.pufler.dev/updated/justineichelberger/nuforc-sightings-database-api)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/justineichelberger/nuforc-sightings-database-api)](https://badges.pufler.dev) -->

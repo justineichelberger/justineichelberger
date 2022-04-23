@@ -88,7 +88,7 @@
 </details>
 </h3>
   
-[![Updated Badge](https://badges.pufler.dev/updated/justineichelberger/justineichelberger)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/justineichelberger/justineichelberger)](https://badges.pufler.dev) 
+[![Visits Badge](https://badges.pufler.dev/visits/justineichelberger/justineichelberger)](https://badges.pufler.dev)   
   
 <!-- ### pinned repositories -->
   
@@ -128,7 +128,7 @@
 <summary>profile</summary> 
 </details></h3>
   
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/justineichelberger/) 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/justineichelberger/)   
 
 ![neural-network-icon-16](./images/neural_network_original_greyscale_02.png "primary identifier")<img src="./images/neural_network_original_greyscale_26.png"/>&nbsp;<b><strong>builder</strong></b>&nbsp;&nbsp;<img src="./images/neural_network_original_greyscale_26.png"/>   
 ![neural-network-icon-16](./images/neural_network_original_greyscale_10.png "secondary identifiers")<img src="./images/neural_network_original_greyscale_26.png"/><sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>data scientist&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>analyst&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>music theorist&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>composer&nbsp;&nbsp;<sub><img src="./images/neural_network_original_greyscale_26.png"/></sub>   
@@ -211,19 +211,21 @@
 
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
-<sub><sub><i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
+<sub><sub>last updated at {timestamp_for_last_update} and will update on approximately the every hour with randomly selected data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
 ![neural-network-icon-16](./images/hud_cursor_01.gif "feature") {random_sighting} </sub>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
+<sub><sub>five most recent historical records found in the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i> from this day in history</sub></sub>
+
 <sub>
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
-  </sub><br><br>
+</sub>
 
 <sub><sub><i>source: <a href=https://nuforc-sightings-database-api.herokuapp.com/sightings/today/rss.xml>https://nuforc-sightings-database-api.herokuapp.com/sightings/today/rss.xml</a></i></sub></sub>
-</details><h5></details> 
+</details><h5></details>
 
-[![Updated Badge](https://badges.pufler.dev/updated/justineichelberger/nuforc-sightings-database-api)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/justineichelberger/nuforc-sightings-database-api)](https://badges.pufler.dev)
+<!-- [![Updated Badge](https://badges.pufler.dev/updated/justineichelberger/nuforc-sightings-database-api)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/justineichelberger/nuforc-sightings-database-api)](https://badges.pufler.dev) -->
