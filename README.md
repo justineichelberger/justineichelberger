@@ -211,27 +211,19 @@
 
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
-<sub><sub>last updated at 04:09:25 on April 23, 2022 and will update on approximately the every hour with randomly selected data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
+<sub><sub>last updated at 04:11:25 on April 23, 2022 and will update on approximately the every hour with randomly selected data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub></sub><br><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Coquitlam (Canada) (BC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Object circling the MoonUFO Report  I only saw the news, and I just wondered if you guys even know about these reports, so I am sending it in.It is an Unidentified Object flying around the Moon. Maybe that doesn't qualify, but I don't see why not.This is also unique because it was shown on a Canadian national TV network station in Vancouver [CBC].Here is the link to the video > http://www.youtube.com/watch?v=J3PeuamY56s Watch at 1 minute and at 2 minutes. There is a flag to help you see it.((NUFORC Note:  Date is wrong.  Possible hoax.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75202.html](http://www.nuforc.org/webreports/reports/075/S75202.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Candler (NC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Watched 3 separate ufos lift up and take off3 of us watched 3 separate ufos lift up above the tree line and shoot off into the sky.  They left 5 minutes between each other and we had a perfect view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162837.html](http://www.nuforc.org/webreports/reports/162/S162837.html)</i></sub></sub></sub><br> </sub>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
-<sub><sub>five most recent historical records found in the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i> from this day in history</sub></sub>
-
-<br>
+<sub><sub>five most recent historical records found in the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i> from this day in history</sub></sub>   
 
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162832.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162837.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162841.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162833.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162815.html)
-<!-- BLOG-POST-LIST:END -->
-</sub>
 
-<br>
+<!-- BLOG-POST-LIST:END -->
+</sub><br><br>
 
 <sub><sub><i>source: <a href=https://nuforc-sightings-database-api.herokuapp.com/sightings/today/rss.xml>https://nuforc-sightings-database-api.herokuapp.com/sightings/today/rss.xml</a></i></sub></sub>
 </details><h5></details>
