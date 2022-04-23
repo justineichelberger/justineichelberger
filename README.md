@@ -76,7 +76,7 @@
     </td>
     <td align="center">&nbsp;
       <a href="https://github.com/justineichelberger" style="padding-left: 10%;">
-        <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justineichelberger&hide=html,css,Jupyter Notebook,procfile&title_color=C0C0C0&text_color=C0C0C0&icon_color=C0C0C0&bg_color=0D1117" />
+        <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justineichelberger&hide=css, procfile&title_color=C0C0C0&text_color=C0C0C0&icon_color=C0C0C0&bg_color=0D1117" />
       </a>
     </td>
     <td  align="right" style="color: lightgray; display: inline-block; justify-content: right; padding-top: 90px;"> 
@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:05 on April 23, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:03:54 on April 23, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Des Moines (IA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Hazed lights traveling dew north in a clockwise position.Two very light white shaped halos spining in clockwise direction but moving north. They looked like a fog light coming through a dense fog. No sound audible. The object itself was not visable to me it was only the lights traveling in a silent fast movement 2 steps forward 1 step back always backtracking. The two lights were never far from each other.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63369.html](http://www.nuforc.org/webreports/reports/063/S63369.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Virginia Beach (VA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Up up and awayHello I live in military housing in oceana, I woke up to use the bathroom and I notice how bright the moon was, I laid down began praying and staring at the stars.  I thought to myself how beautiful they are.   As I laid back in my bed trying to fall asleep I noticed a small object with red lights go straight up it began blinking white I thought I was tripping almost falling out the bed to stare.  I then woke up all the way up and began staring at the sky and saw three more they were acting as stars and just went straight up I could see what looked like smoke as they went straight up and disappeared   I know how this story sounds but it's true and scary because now I know there's something that comes in our universe and leaves.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127008.html](http://www.nuforc.org/webreports/reports/127/S127008.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162832.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162837.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162841.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162833.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
