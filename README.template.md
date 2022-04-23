@@ -217,8 +217,8 @@
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
-five most recent historical records found in the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i> from this day in history   
-
+and the five most recent historical records from this day in history<br>
+  
 <sub>
 <!-- BLOG-POST-LIST:START -->
 
