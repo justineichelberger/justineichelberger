@@ -212,21 +212,17 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:35:47 on April 23, 2022 and will update approximately every hour with randomly selected data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br><br>
+<sub>last updated at 04:38:31 on April 23, 2022 and will update approximately every hour with randomly selected data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Augusta (ME) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>I saw a UFO  Me and my friends were walking up one of our streets. My friend turned to me and said "that cloud looks like a teardrop." I said Whatever because it really did look like a teardrop, but we noticed that it kept getting closer, and then my other friend noticed small little lights on the sides of it. So suddenly it starts defusing from it's melecular cloud structure into a solid teardrop-shaped object with these blinking lights and shit started dissapearing, like leaves and even trees and rocks. So suddenly their's this giant flash, and then I just remember lying in my house naked with my two other friends. So we got up and I was all freaked out because I thought I had had a fucked up dream, and I was also naked now.So when i told my friends they had had the same dream, so We looked up UFO and Alien shit on the internet and found that you guys had a subcategory for teardrop shaped spacecrafts so I was wondering if their had been similar sightings before. Thanks,  ((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63311.html](http://www.nuforc.org/webreports/reports/063/S63311.html)</i></sub></sub></sub><br> </sub>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in St. Petersburg (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Star size object traveling north tosouthStar size light traveling from north to south way up high.Saw airliner trailing object at lower altitude. The object seemed to have slight wobble as it was passing over our heads.The strange thing was that the object seemed to stop, waited for the airliner to pass undermeath it then slowly continued on its course. Saw the same object about 3 weeks ago but this time it was coming from the west heading east about the sametime as this mornigs sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17364.html](http://www.nuforc.org/webreports/reports/017/S17364.html)</i></sub></sub></sub><br> </sub>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
-<sub>five most recent records from this day in history</sub><br>
+<sub>five most recent sightings from this day in history</sub><br>
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162832.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162837.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162841.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162833.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
