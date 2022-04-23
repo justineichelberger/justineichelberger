@@ -210,7 +210,7 @@
 <!-- ### auto-refreshed anecdotes -->
 
 <h4><details open>
-<summary>&nbsp;&nbsp;&nbsp;anecdotes</summary>
+<summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
 <sub>last updated at {timestamp_for_last_update} and will update on approximately the every hour with randomly selected data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br><br>
 
