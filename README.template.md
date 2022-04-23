@@ -212,13 +212,13 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at {timestamp_for_last_update} and will update on approximately the every hour with randomly selected data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br><br>
+<sub>last updated at {timestamp_for_last_update} and will update approximately every hour with randomly selected data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br><br>
 
 ![neural-network-icon-16](./images/hud_cursor_01.gif "feature") {random_sighting} </sub>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
-<sub>five of the most recent historical records from this day in history</sub><br>
+<sub>five most recent records from this day in history</sub><br>
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
