@@ -3,7 +3,7 @@ on:
   # run workflow automatically
   schedule: 
     # This will make it run every hour
-    # - cron: "0 * * * *"
+    - cron: "0 * * * *"
     # run workflow manually (without waiting for the cron to be called), through the github actions workflow page directly
   workflow_dispatch:
 jobs:
