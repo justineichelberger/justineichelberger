@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:06:10 on April 23, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:48 on April 23, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Newtown (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange/White Object with Fire Trail seen crashing from the sky in Northeast Pa.My brother called me just a bit ago from a little league baseball game in Newtown PA to tell me he and everybody at the game stopped to watch an Orange Fireball that looked like it was crashing out of the sky. He said it first looked like something was out of control with an erratic trail but then described the trail as going straight and was very far away to the North of his location moving away from them. I asked if he could compare it to anything and he said it kind of looked like when the space shuttle crashed but it was just one object. He told me the Color was Orange and for a second the object got white like it got white-hot or something like that. He tried to take a cell phone photo but it was to far away.We are hoping someone else got photos of it as it seemed that many people saw this object.I told him I thought this was very interesting as there were two reports last week of objects falling from the sky as well in Indiana and North Carolina, There has to be something to these events. If anyone else saw this please report it.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62668.html](http://www.nuforc.org/webreports/reports/062/S62668.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Greer (SC) reported seeing craft that fit the description of some 'Flash' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>2 Flashing red lights fly slow and silent over my home. i have videoI left my brothers house and was walking down the drt road to my hose.  Facing due south i saw two flashing red lights. They were heading straight for me flying close and low. I ran in my house got a couple friends to come out and my nephew pulled up in his car.  I told them to look.  The crafts flew right over my house. Slowly and silently.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88949.html](http://www.nuforc.org/webreports/reports/088/S88949.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162832.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162837.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162841.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162833.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
