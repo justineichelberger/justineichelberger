@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:36 on April 23, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:46 on April 23, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Basalt (CO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>fast moving, zagging; bright lights and hovering at times.It was really strange.  I was out with my dog at about 9 pm mst 04/23/08.  The sky was really clear.  I looked over toward the SW because something caught my eye.It was very bright and quite a long distance away.  I could make out red, green and white lights with my bare eyes.  It was moving very fast from side to side.  I ran in the house to get out my binoculars.Then, I could really see it.  I saw one row of horizontal very bright lights.  I went back into the house to tell tell my wife and got another set of glasses for her.  Now it had moved to mid height in the SW sky about mid height in the West.  I could not take my eyes off of it.  I was really excited and my wife was like no big deal but glad to have seen one.  You knew it was not a plane because a plane could not hover like that and make the very radical moves.I watched for about a half hour.  Toward the end a second UFO joined the first one, but quite a distance from the first one.Then, this morning on Channel 7 news they mentioned that UFO's were spotted over Phoenix.  So, someone else saw some too.  The FAA said they had nothing to report.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62907.html](http://www.nuforc.org/webreports/reports/062/S62907.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Shepherdsville (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Lights Over Shepherdsville KentuckyOn 4/23/09 around 9:30pm that evening, myself and my family pulled into the driveway and was getting out of the vehicle and my girlfriend looked out to the right of her in the sky standing by the passenger door of the vehicle and asked me, look at those two lights in the sky.  The lights was very bright and not moving at all. After a minute, or so standing there looking at the lights, a third light appeared and formed a triangle with the three lights.  At this time the lights still was not moving and no sounds was heard from these lights to indicate an aircraft. About 30 seconds later, one light disappeared, then the second one, then the third one.  We stood there for a moment then one light reappeared and was not moving.  Suddenly another light emerged out of the right side of the light and moved to the right away from it then started slowly dropping down to the earth behind some trees down the road and set there for about two minutes.  As we was watching the light behind the trees, we looked up and seen the light in the sky disappear.  After another minute, or so the light behind the trees also disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69780.html](http://www.nuforc.org/webreports/reports/069/S69780.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162832.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162837.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162841.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162833.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
