@@ -220,9 +220,11 @@
 <sub><sub>five most recent historical records found in the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i> from this day in history</sub></sub>
 
 <sub>
+
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
+
 </sub>
 
 <sub><sub><i>source: <a href=https://nuforc-sightings-database-api.herokuapp.com/sightings/today/rss.xml>https://nuforc-sightings-database-api.herokuapp.com/sightings/today/rss.xml</a></i></sub></sub>
