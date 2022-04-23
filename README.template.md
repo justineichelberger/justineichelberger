@@ -223,9 +223,9 @@
 
 <sub>
 
-![neural-network-icon-16](./images/neural_network_original_greyscale_26.png "'fact'")
+![neural-network-icon-16](./images/neural_network_original_greyscale_26.png "'facts'")
 </sub>
-<sub>five of the most recent historical records from this day in history</sub><br>
+five of the most recent historical records from this day in history<br>
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
