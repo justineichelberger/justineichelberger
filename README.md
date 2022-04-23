@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:32 on April 23, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:41 on April 23, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Midland (TX) reported seeing craft that fit the description of some 'Changing' over a period of approximately Sky watching - Sky watching minutes.</sub><blockquote><sub>Shape changing orb with bright light in the middle that seems to take pictures.I'm always star gazing but I know stars arent supposed to move. These objects keep changing shape and direction. They always seem to keep coming back every two days.I know other people in this area sees the same thing because I see camera flashes like someone else is taking pictures. I was always skeptical about this kind of thing but what Im seeing is without reason. It has bright white lights and a stream of flashing lights around it. They seem to hover around houses late at night like they are observing studying.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50284.html](http://www.nuforc.org/webreports/reports/050/S50284.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Buckeye (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Air Force jet's pursue 2 triangle shaped craft over White Tank Mountain Range.Just after 8pm tonight, April 23rd, me and my two son's witnessed multiple air force fighter jet's flying at a high rate of speed pursuing what appeared to us as 2 triangle shaped or V-shaped craft that were hovering over the White Tank Mountain Range here in Buckeye, AZ. We witnessed the 2 craft above the mountain range while driving back from the store on Yuma Rd.  I pointed out to my sons the craft and we pulled into our driveway and were able to then see and hear multiple air force jets fly toward's these 2 triangle shape craft and the 2 craft appeared to just blink off their lights.  The craft both each had 3 glowing white/blueish light's in the form of a triangle and one of the craft appeared to have an haze or foggy cloud in or around it.  The fighter jet's circled the mountain range for a few minutes and then flew northwest.  I am currently still watching this mountain range and if any new development's I will report them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118600.html](http://www.nuforc.org/webreports/reports/118/S118600.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162832.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162837.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162841.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162833.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
