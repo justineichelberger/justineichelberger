@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:03:01 on April 24, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:35 on April 24, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Macungie (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Unknown object in the sky.Saw 3 figures of unknown shape with a bright red/orange glow hovering in the sky.  One disappeared after about a minute, then the second one hovered steadily while the third moved around erratically.  After another minute the second one disappeared and 2 minutes later the third one did the same. The objects were not situated that high in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97352.html](http://www.nuforc.org/webreports/reports/097/S97352.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Merrillville (IN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>SEEN WEIRD LIGHTS IN THE SKY.  MOVING IN ODD DIRECTIONS AND WERE MULTI-COLORED.  ACCOMPANIED BY WEIRD NOISES.  ONE UFO WAS LIT UP LIKE A CHRISTMAS TREE COMPLETE WITH BLINKING LIGHTS.  MOVING FASTER THAN ANY PLANE WOULD.LOOKED UP IN THE SKY AND SAY 5 WEIRD LIGHTS. THEY WERE MOVING IN ODD DIRECTIONS AND MAKING WEIRD NOISES.  AFTER ABOUT AN HOUR THERE WAS A UFO THAT WAS LIT UP LIKE A CHRISTMAS TREE COMPLETE WITH BLINKING LIGHTS.  IT WAS VERY STRANGE.  THERE WERE 4 OF US WHO SAY THIS HAPPEN.  WE SAT ON THE ROOF AND WATCHED DIFFERENT LIGHTS BLINKING OFF AND ON.  SOME HOVERED AROUND AND MOVED IN ODD DIRECTIONS.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12706.html](http://www.nuforc.org/webreports/reports/012/S12706.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162844.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164434.html)
-- [283](http://www.nuforc.org/webreports/reports/155/S155776.html)
-- [282](http://www.nuforc.org/webreports/reports/155/S155673.html)
-- [281](http://www.nuforc.org/webreports/reports/155/S155690.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
