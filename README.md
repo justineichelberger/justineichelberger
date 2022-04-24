@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:39 on April 24, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:35 on April 24, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Lake Charles (LA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>long narrow silver rod seenThis was seen just briefly one afternoon while driving home from work.  I was driving due south on a local street about 5 pm local time with perfectly clear blue sky.  I noticed a little to my right just a few degrees west of due south, just above the horizon, a shiny object.  This was no ordinary object.  It was long, very narrow, and silver, and standing up-right, and seemed to be somewhat pointed on each end, but it was hard to tell exactly because of the second or two that the sighting lasted. I thought it might have been a reflection, but I could also tell it was far away as I could compare it against other objects such as power lines, and telephone poles, and commercial buildings.  This has to be one of the oddest things I’ve seen, I don’t see too many of these reports shown on the web sites.((NUFORC Note:  Source of report indicates that date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62993.html](http://www.nuforc.org/webreports/reports/062/S62993.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Fitchburg (MA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>AS we drove headed back towards fitchburg state college on john Fitch Highway, we noticed a light that drifted through the clouds north towards ashburnhamThe craft we saw was reflecting light off the sun and drifting higher and more north of fitchburg... As we drove closer it moved faster and higher.. the Weather that day was full of High clouds, so the object was at least 40,000 ft in the air... A commerical jet we saw fly by was at about the average 35,000 and it seemed miles away from it.. the object slowly drifted into the horizon noth towards New hampshire..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07691.html](http://www.nuforc.org/webreports/reports/007/S07691.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162844.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164434.html)
-- [283](http://www.nuforc.org/webreports/reports/155/S155776.html)
-- [282](http://www.nuforc.org/webreports/reports/155/S155673.html)
-- [281](http://www.nuforc.org/webreports/reports/155/S155690.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
