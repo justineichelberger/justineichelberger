@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:42 on April 23, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:47 on April 24, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Marysville (OH) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.2 - 0.2 minutes.</sub><blockquote><sub>Cigar shaped UFO spotted on the horizon in Marysville, OhioLooking west from Marysville, OH, I saw a stationery craft in the sky with a light which moved from left to right and then back to the left.  It looked flat in shape, like a pancake.  Suddenly, the craft moved straight up in the sky, and then tilted toward the South and quickly shot across the horizon.  When it tilted I could tell it was wider at the top and narrower toward the bottom.  There was no noise.  The craft was about 5 to 10 miles away.  It traveled a distance of about 10 miles in about 5 seconds before I lost sight of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133775.html](http://www.nuforc.org/webreports/reports/133/S133775.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Elk County (KS) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>ball of very bright light hoveringheading to work very bright light caught my attention hovered in place not much any direction and then just vanished</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97333.html](http://www.nuforc.org/webreports/reports/097/S97333.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162832.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162837.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162841.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162833.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
