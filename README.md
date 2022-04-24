@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:35 on April 24, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:39 on April 24, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Merrillville (IN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>SEEN WEIRD LIGHTS IN THE SKY.  MOVING IN ODD DIRECTIONS AND WERE MULTI-COLORED.  ACCOMPANIED BY WEIRD NOISES.  ONE UFO WAS LIT UP LIKE A CHRISTMAS TREE COMPLETE WITH BLINKING LIGHTS.  MOVING FASTER THAN ANY PLANE WOULD.LOOKED UP IN THE SKY AND SAY 5 WEIRD LIGHTS. THEY WERE MOVING IN ODD DIRECTIONS AND MAKING WEIRD NOISES.  AFTER ABOUT AN HOUR THERE WAS A UFO THAT WAS LIT UP LIKE A CHRISTMAS TREE COMPLETE WITH BLINKING LIGHTS.  IT WAS VERY STRANGE.  THERE WERE 4 OF US WHO SAY THIS HAPPEN.  WE SAT ON THE ROOF AND WATCHED DIFFERENT LIGHTS BLINKING OFF AND ON.  SOME HOVERED AROUND AND MOVED IN ODD DIRECTIONS.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12706.html](http://www.nuforc.org/webreports/reports/012/S12706.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Robert Moses Causway North landfall (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Ufo's near Robert Moses causway 24th April 2001Travelling north on the Robert Moses causway just after lanfall at  about 7:20 PM on April 24th 2001 I saw 4 small objects upclose and about 11 in the distance. They appeared to be jade green in color and shaped as if you took four cushions and put them together,  with a hole in the middle. The ones I saw upclose appeared to be catching up to the loose group up ahead. They were undulating in a manner similar to that of a flying carpet or wave like motion. The driver saw at least 3 one upclose that appeared to him to be a black one  shaped like a flat 4 leaf clover with out the stem, and one slightly further away and  was what looked like a purple triangle. All undulating and deffinately unidentifiable!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17394.html](http://www.nuforc.org/webreports/reports/017/S17394.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162844.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164434.html)
-- [283](http://www.nuforc.org/webreports/reports/155/S155776.html)
-- [282](http://www.nuforc.org/webreports/reports/155/S155673.html)
-- [281](http://www.nuforc.org/webreports/reports/155/S155690.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
