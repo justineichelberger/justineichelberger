@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:37 on April 24, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:35 on April 24, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Marysville (MI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A line of lights was observed moving slowly at a low elevation.At approx. 10:05 pm on 4/24/2020 a line of lights was observed by three witnesses. The lights were observed in the north and moved slowly to the east for about two minutes. The lights were observed at a low elevation and moved upward as they headed east. The line had over 50 lights. The lights appeared close together at first but then moved apart as they disappeared in the east.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155685.html](http://www.nuforc.org/webreports/reports/155/S155685.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Janesville (WI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>8 orange spheres in a random dispersion with an additional one a distance away catching up with the others.Nine ornage orbs located East, North - East of Janesville, Wisconsin.  Eight appeared to be in a random figure with one quite a distance in the South that was moving faster to catch up with the group.  They appeared to be about 60 degrees off the horizon.  They eventually moved in a group North and after 10 minutes disappeared into the night.  They were as orange as the fruit and moved in synch with each other.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145863.html](http://www.nuforc.org/webreports/reports/145/S145863.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162844.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164434.html)
-- [283](http://www.nuforc.org/webreports/reports/155/S155776.html)
-- [282](http://www.nuforc.org/webreports/reports/155/S155673.html)
-- [281](http://www.nuforc.org/webreports/reports/155/S155690.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
