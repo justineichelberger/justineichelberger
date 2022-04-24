@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:37 on April 24, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:42 on April 24, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Coos Bay (OR) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A young mother was standing outside, looking at the stars to the east.  Her attention was drawn to an object to the east that was moving from south to north.  She looked at it with binoculars, and the object appeared to be round, and it was tan and very bright, and it "was moving fast." (??)  In her words, it looked like a "flaming object."  The object passed out of sight over the mountains to the north.  ((Note:  There were discrepancies in the report.  At first, the observer reported that the object was large, then she said it was visible when she looked at it with binoculars.))Ten minutes later, she witnessed the same object moving from north to south.  During the second sighting, the object appeared larger and closer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02012.html](http://www.nuforc.org/webreports/reports/002/S02012.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in L'Anse (MI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>so low to the house I could of hit it with a rock.object flewover my home, I could have thrown a rock and hit it.  It made no sound until directly above me and it made a very loud whirring sound, it was shaped almost like a blimp it had two red lights in front and two square white extremly bright lights and four or five other bright lights on the side I could see.  It was slow moving over house then moved out of eyesight, two red lights visable then disappeared.  Tried to call local airports with no retuen calls.  Came in and asked if anyone else heard or saw it, one person thought they felt the house move or vibration.((NUFORC Note:  We spoke via telephone with this witness, and she sounded to us to be quite credible.  We have corrected the date above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81001.html](http://www.nuforc.org/webreports/reports/081/S81001.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162844.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164434.html)
-- [283](http://www.nuforc.org/webreports/reports/155/S155776.html)
-- [282](http://www.nuforc.org/webreports/reports/155/S155673.html)
-- [281](http://www.nuforc.org/webreports/reports/155/S155690.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
