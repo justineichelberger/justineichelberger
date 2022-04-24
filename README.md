@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:42 on April 24, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:51 on April 24, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in L'Anse (MI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>so low to the house I could of hit it with a rock.object flewover my home, I could have thrown a rock and hit it.  It made no sound until directly above me and it made a very loud whirring sound, it was shaped almost like a blimp it had two red lights in front and two square white extremly bright lights and four or five other bright lights on the side I could see.  It was slow moving over house then moved out of eyesight, two red lights visable then disappeared.  Tried to call local airports with no retuen calls.  Came in and asked if anyone else heard or saw it, one person thought they felt the house move or vibration.((NUFORC Note:  We spoke via telephone with this witness, and she sounded to us to be quite credible.  We have corrected the date above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81001.html](http://www.nuforc.org/webreports/reports/081/S81001.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Portland (ME) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Simple truth as seen. (aircraft in vicinty whcih allowed me reference, but none chasing)Watched ufo moving over my house, lower than crafts with airplanes with blinking lights.  resembled a star... but too slow to be meteor, sattelite, or shooting star.  Uniform speed, but relatively fast... fast as a jet liner at comperable height but entirely different. again no blinking lights, just bright like a star (airplanes flew higher and I could see their beacon lights!!!) just happened at 4:48 AM EST.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69790.html](http://www.nuforc.org/webreports/reports/069/S69790.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162844.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164434.html)
-- [283](http://www.nuforc.org/webreports/reports/155/S155776.html)
-- [282](http://www.nuforc.org/webreports/reports/155/S155673.html)
-- [281](http://www.nuforc.org/webreports/reports/155/S155690.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
