@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:54 on April 24, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:37 on April 24, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Fredonia (NY) reported seeing craft that fit the description of some 'Flash' over a period of approximately 360.0 - 360.0 minutes.</sub><blockquote><sub>blacked out for 6 hours woke up in different positions and couldn't recall any events that had happened, we all awoke feeling drugged.((NUFORC Note:  We will post this report, only because we are rather liberal in our policy regarding reports of dubious authenticity, but we suspect that this may be a hoax.  PD))I was at a friends house climbing under his bed to get a ball that had rolled under it at about 10 pm.  Then I blink my eyes and im laying down staring at the ceiling on his couch in his room with a blanket on top of me, that was originally in the washing machine down stairs.  I look at the clock it was 3 am about 6 hours later.  I then looked over at my 3rd friend who was staring at the wall i yelled to him he didnt respond, i found that i was unable to move my body and i felt very "out of it" almost like i was drugged. My 2nd friend who was laying down into his bed then said dude what the fuck happened, i blinked and i woke up here in my bed last i remember i was at my computer desk typing a paper. his paper was still open on the computer screen.  I dont remember any of this and he said this it what happens when you get visited, and i said what do you mean visited? and he said by aliens like we were probably taken and then put back, we then turn our! heads to the 3rd friend who is still standing staring at the wall we both yell to him he dosent move. He keeps standing and staring at the wall, we kept yelling, i finally gett up, it was like my body had been freed of what ever was keeping me from moving. still standing the third friend turns around and his eyes are completely white.  He then shakes his head looks down and grabs his long board and leaves the hose, he had no memory of the incident, he said he didnt even remember walking home, we then get up and go visit my 4th friend in the other bedroom, he said the lights got turned on at about 12 am my girl friend and i could see bright lights under the door , we just thought you guys were smoking, but none of us had gotten up to smoke more.  my 2nd friend and i remember hearing a humming sound and mumbling of voices.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119275.html](http://www.nuforc.org/webreports/reports/119/S119275.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Coos Bay (OR) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A young mother was standing outside, looking at the stars to the east.  Her attention was drawn to an object to the east that was moving from south to north.  She looked at it with binoculars, and the object appeared to be round, and it was tan and very bright, and it "was moving fast." (??)  In her words, it looked like a "flaming object."  The object passed out of sight over the mountains to the north.  ((Note:  There were discrepancies in the report.  At first, the observer reported that the object was large, then she said it was visible when she looked at it with binoculars.))Ten minutes later, she witnessed the same object moving from north to south.  During the second sighting, the object appeared larger and closer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02012.html](http://www.nuforc.org/webreports/reports/002/S02012.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162844.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164434.html)
-- [283](http://www.nuforc.org/webreports/reports/155/S155776.html)
-- [282](http://www.nuforc.org/webreports/reports/155/S155673.html)
-- [281](http://www.nuforc.org/webreports/reports/155/S155690.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
