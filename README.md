@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:30 on April 24, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:43 on April 24, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Palm Bay (FL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately continuing - continuing minutes.</sub><blockquote><sub>Cigar shaped object and numerous small globe objectsA large object in the eastern sky is hovering and swaying back and forth in the night sky.  Meanwhile numerous very bright white globes are flying up to it or near it and then they fall back.  It's like a cat and mouse game.  I am going to go back outside ... 15 minutes later, this activity is continuing.  Back here writing it is now 12:50 AM and it is still going on.   All this time I have been watching this battle or interaction with these lights.  For awhile there were two large cigar shaped objects in the sky with all this dogfight action from tiny white globe objects or ships.  Sometimes the white globes seem to emanate out and spiral from the cigar shaped objects.  This sighting may last for hours.  I am reporting this here but I am not reporting this to local police or anyone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69786.html](http://www.nuforc.org/webreports/reports/069/S69786.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Tallinn (Estonia) () reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5333333333333333 - 0.5333333333333333 minutes.</sub><blockquote><sub>Just appeared in the sky,stars in the shape of wings started moving fast forwards.It seemed like wings,with a disguise,that it blended in with the sky and stars.seemed like a pack of stars were moving together as wings in the sky very quickly.((NUFORC Note:  Witness does not indicate date of incident.  We have assigned an artificial date above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50261.html](http://www.nuforc.org/webreports/reports/050/S50261.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162844.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164434.html)
-- [283](http://www.nuforc.org/webreports/reports/155/S155776.html)
-- [282](http://www.nuforc.org/webreports/reports/155/S155673.html)
-- [281](http://www.nuforc.org/webreports/reports/155/S155690.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
