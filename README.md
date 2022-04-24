@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:42 on April 24, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:39 on April 24, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Mechanicsville/Aylett (VA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately A few moments - A few moments minutes.</sub><blockquote><sub>Missle shaped craft (est. 3 car lengths long) spotted flying towards mechanicsville down 360Going towards Aylett, VA down 360 (Mechanicsville Turnpike), Witnessed a Cigar/Missile shaped craft, estimated 3 car lengths long. Craft had cone nose which was dark in color, body was plain silver/metal. No noticeable features along body (No windows, etc). the "cylinder" section of the body is estimated to have a diameter similar to an H2 (Hummer) from side to side (Door to Door). Tail had 3 lights, 2 red, 1 white, blinking, not in sync. No wings visible. Lights seemed mounted to propulsion mechanism (ie, not tail fins) but the view was distorted by the lights. The craft moved with traffic towards mechanicsville, estimated 60 miles an hour, hovering just above tree level (est 30-40 ft). The craft was spotted near the Hayne's Boat company (which has lots of lighting) making the body of the craft quite visible. The craft emitted no sound. Once the craft had supposedly moved in rear-view, it was not visible in rear or side view mirrors.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43620.html](http://www.nuforc.org/webreports/reports/043/S43620.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Lake Charles (LA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>long narrow silver rod seenThis was seen just briefly one afternoon while driving home from work.  I was driving due south on a local street about 5 pm local time with perfectly clear blue sky.  I noticed a little to my right just a few degrees west of due south, just above the horizon, a shiny object.  This was no ordinary object.  It was long, very narrow, and silver, and standing up-right, and seemed to be somewhat pointed on each end, but it was hard to tell exactly because of the second or two that the sighting lasted. I thought it might have been a reflection, but I could also tell it was far away as I could compare it against other objects such as power lines, and telephone poles, and commercial buildings.  This has to be one of the oddest things I’ve seen, I don’t see too many of these reports shown on the web sites.((NUFORC Note:  Source of report indicates that date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62993.html](http://www.nuforc.org/webreports/reports/062/S62993.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162844.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164434.html)
-- [283](http://www.nuforc.org/webreports/reports/155/S155776.html)
-- [282](http://www.nuforc.org/webreports/reports/155/S155673.html)
-- [281](http://www.nuforc.org/webreports/reports/155/S155690.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
