@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:35 on April 24, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:03:01 on April 24, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Fitchburg (MA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>AS we drove headed back towards fitchburg state college on john Fitch Highway, we noticed a light that drifted through the clouds north towards ashburnhamThe craft we saw was reflecting light off the sun and drifting higher and more north of fitchburg... As we drove closer it moved faster and higher.. the Weather that day was full of High clouds, so the object was at least 40,000 ft in the air... A commerical jet we saw fly by was at about the average 35,000 and it seemed miles away from it.. the object slowly drifted into the horizon noth towards New hampshire..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07691.html](http://www.nuforc.org/webreports/reports/007/S07691.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Macungie (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Unknown object in the sky.Saw 3 figures of unknown shape with a bright red/orange glow hovering in the sky.  One disappeared after about a minute, then the second one hovered steadily while the third moved around erratically.  After another minute the second one disappeared and 2 minutes later the third one did the same. The objects were not situated that high in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97352.html](http://www.nuforc.org/webreports/reports/097/S97352.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162844.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164434.html)
-- [283](http://www.nuforc.org/webreports/reports/155/S155776.html)
-- [282](http://www.nuforc.org/webreports/reports/155/S155673.html)
-- [281](http://www.nuforc.org/webreports/reports/155/S155690.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
