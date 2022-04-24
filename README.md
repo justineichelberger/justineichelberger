@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:40 on April 24, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:35 on April 24, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Lafayette (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>floating, dancing, jagger moving light in sky above east bay area for 1h((NUFORC Note:  Possible planet??  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145844.html](http://www.nuforc.org/webreports/reports/145/S145844.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Melbourne (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Pre dawn with clear moon lite sky, three bright lights appeared quickly and vanished just as quick, but all were of the same appearancI am 58 years old. I am a retired US Army Sergeant First Class (E-7). I have been working with the Air Force Security Forces for ten years, as a civil service employee.My wife and I have lived in Florida for the past eleven years.I have three years of college. My signal corps background in the Army required me to maintain the highest level of secret clearances. I recruited for the Army in Colorado.I am a stable person in society. I spotted three brillently lite lights, seperately but within seconds of each other, in the early morning hours of 24 April, 2008. I was sitting out front having my morning coffee prior to leaving for work.Around 0610, I caught a glimpse of a bright light up around the nearly full moon and the star to its western side. This light lasted only a matter of one or two seconds and was traveling at a super rate of speed from south to north direction. It's altitude seemed to be either out in space or very near the earths upper most atmosphere. The light/flash was so intense that I had to contemplate what it might be.It was definately not a commercial aircraft, it moved across the sky far to fast. I know what Navy and Air Force fighter aircraft look like in flight and these lights moved far faster than any aircraft in the fleet. There was no noise prior to or after the sightings. There were no contrails, and the moon lite sky was for the most part clear. I know what meteorites and space junk look like when they enter our atmosphere and burn up on entry. These did not burn up, they simply appeared out of nowhere and just as quickly disappeared. These objects were brighter than any star that is visiable with the naked eye.They did not appear to be traveling a set path as would a satellite crossing over. I considered the space station crossing over and getting the reflections from the sun rising. No way. It would be a single siting and be over with. I witnessed these three lights on three seperate occations, only seconds apart.The first as mentioned above. The second followed up in the same path as the first, south to north, same exact location between the moon and a star just west of the moon. The third appeared suddenly and traveled east of the moon on a westerly to easterly direction. It too, dissapeared quickly. You could count one thousand one, one thousand two and in this time period it covered a large area of space and sky prior to disappearing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63065.html](http://www.nuforc.org/webreports/reports/063/S63065.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162844.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164434.html)
-- [283](http://www.nuforc.org/webreports/reports/155/S155776.html)
-- [282](http://www.nuforc.org/webreports/reports/155/S155673.html)
-- [281](http://www.nuforc.org/webreports/reports/155/S155690.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
