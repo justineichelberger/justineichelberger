@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:25 on April 24, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:40 on April 24, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Marshville (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Three strange crafts circling over headI am an ex Army soldier very familiar with military and commercial aircraft. This was NOT anything I have ever seen or heard in my 33 years of life. My husband is also ex Army he did not recognize these things. At approximately 9pm est.  I heard over my TV set a loud sound causing my house to  vibrate. I turned down television and stepped outside. There were 3 low flying craft making tight circles over head.  The seemed to be circular in shape had 4 large glowing red lights on the underside, the lights did alternate but not in any pattern. At times all lights would stay on. The lights were very large.There also was a pale orange glow emanating from the bottom of the crafts The sound was unlike anything I have ever heard, it was low and all encompassing these crafts would circle over head and then make wide circles covering the area of my small town. They did this for approximately 20 minutes. My 13 yr old son, my self and husband, and toddler began experienci! ng severe headaches and nausea during and after these craft appeared. It was terrifying. I people down the street heard and witness this event as well as I could here them down the road taking. Eventually these craft took off out into the distance and appeared to disappear into space. We are familiar with the normal commercial aircraft patterns and these flew boldly against these patterns and at times hovering in the air over head.  My husband attempted to video using his phone but nothing appeared on the video. I have been watching strange  objects appear  in this area for the last 5 years. This was unlike any Ive ever seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88695.html](http://www.nuforc.org/webreports/reports/088/S88695.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Lafayette (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>floating, dancing, jagger moving light in sky above east bay area for 1h((NUFORC Note:  Possible planet??  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145844.html](http://www.nuforc.org/webreports/reports/145/S145844.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162844.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164434.html)
-- [283](http://www.nuforc.org/webreports/reports/155/S155776.html)
-- [282](http://www.nuforc.org/webreports/reports/155/S155673.html)
-- [281](http://www.nuforc.org/webreports/reports/155/S155690.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
