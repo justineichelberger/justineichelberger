@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:44 on 25 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:45 on 25 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Anniston (AL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>My friends and I were standing outside on the west side of Anniston, Al.  As soon as I walked out I noticed a very bright light in the NW part of the sky.  Couldn't be Venus.  I've been looking at these stars for 38 years, from the time it's warm enough to sit outside until it it's too cold.  So, it's fair to say, I can quickly spot what's not supposed to be there.  The light would dim and completely disappear.  Then, it would brighten back up.  I timed the intervals, they were odd..  This lasted for over an hour , until it disappeared Ava never appeared again.  This is the third time I've witnessed something as such.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155755.html](http://www.nuforc.org/webreports/reports/155/S155755.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Cambridge Township (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I was on my back porch and saw a bright white light when I looked west to the top of the trees.  It was 4 to 5 times the size of the larger stars in the sky.  I thought it might be a plane, but then it moved sideways quickly.  It seemed to "buzz" around (like an insect) and moved toward the west, then east again. I went inside to grab my phone to video tape it, and it was still moving around.  My neighbors looked from their vantage point (after I texted them to see if they had a drone or something out, which they didn't), but couldn't see it through the thicker trees.  I went upstairs and could still see it, although it had moved further west.  It was still there and "flitting about" 35 minutes after first sighting it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155752.html](http://www.nuforc.org/webreports/reports/155/S155752.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162848.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163302.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162846.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163307.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162845.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
