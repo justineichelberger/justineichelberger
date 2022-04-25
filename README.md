@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:10:58 on 25 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:48 on 25 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Bar Harbor (ME) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Long trail of slow-moving lights through the night sky.My friend and I were outside her house near the ocean tonight, watching the sky and talking about UFOs.  Oddly enough, as we’re on this topic, we see a long trail of lights moving slowly through the night sky toward the ocean (northeast).  There must have been about 100 of them.  They were in perfect single file, some spaced further apart than others, and had the appearance of very bright stars.  They were moving horizontally.  It was strange how in sync they were, moving at the exact same pace.  They also moved much more slowly than you would expect.  We were completely blown away.  Of course we took out our cameras, but they couldn’t quite pick it up in the dark.  I managed to take a screenshot of the video I took and adjusted the brightness so you can see one frame of them (I will be emailing in the photo).  There were many, many more than what I captured with my camera, but it gives you the idea.  Eventually they disappeared at this one point in the sky, one by one! , until they were all gone. I’ve never seen anything like it before in my life, and I have no idea what it could have possibly been.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155757.html](http://www.nuforc.org/webreports/reports/155/S155757.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Ann Arbor (MI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Early evening - sky not yet dark, planets just beginning to appear.  I was outside on the deck looking in the southeast sky trying to find Mars.  I saw 3 "planets or stars" in a stationary triangle formation; however, after looking at them for approx. 5 seconds, they began to move in formation to the north and gradually faded.It was early evening - the sky not yet dark, and some stars and planets were just beginning to appear. There were no clouds. I was outside on the deck on the east side of the house looking in the southeast sky trying to find Mars so I could look at it through my telescope.  Looking in the ESE sky at about 30-40 degrees I noticed what appeared to be a stationary group of 3 stars or planets, arranged in a triangular formation. They were white to yellowish in color and about the same size as Saturn or Jupiter, and spaced about 2 finger-widths apart (if held at arm's length). I didn't see any other structure around them.  The sky still was light (pale blue). I looked at them for approx. 5 seconds, and then saw that they began to move as a group to the north.  The kept the same distance from each other and maintained the same formation. Their speed was not incredibly fast, probably similar to an airplane.  They did not blink or change color or size.  They continued to move along the horizon to the north and then they gradually faded. What puzzled me was that these lights were standing still and looked like stars when I first saw them and then they began to move.  I don't think they were planes. I told my husband about them and he said they were probably satellites.  I've seen satellites fly over, usually at night and directly overhead.  These were different.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12491.html](http://www.nuforc.org/webreports/reports/012/S12491.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162848.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163302.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162846.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163307.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162845.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
