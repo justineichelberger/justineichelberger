@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:24:05 on 25 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:04:34 on 25 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Maple Valley (WA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Cylindrical Object with Flashing White Light is Stationary and then Quickly Disappears.On April 25th, 2020, I was on my porch facing west admiring the sunset at 8:27pm.  I noticed approximately 45 degrees above the Olympics and perhaps about 1 mile or so away (from my vantage point) a flashing light.  The light was white and flashed every second with a 2 flash burst approximately every 5 seconds or so.At first I just assumed it was a civilian aircraft headed in my direction but it was stationary.  I then assumed it was a helicopter.  But the light didn't seem to match any civilian navigation lighting pattern I was familiar with.  So I went inside and grabbed my binoculars.  With the binoculars I could just vaguely make out a cylindrical black object.  No tail or wing structure that I could discern.After a couple of minutes a civilian airplane came into view and when it did, this object started moving in a fairly quick pace to the North, and then switched course and started moving to the south.  It was still plainly in view this entire time.  At around 8:33pm this object suddenly moved very rapidly downward or at least out of my view and below the tree line where I lost all visual contact.  The flashing white light was no longer there, simply a small red light as it made its way out of view.I am a huge aviation buff and can recognize numerous commercial and civil aircraft.  This was none of those.  This was a true UFO.  It was Unidentified, Flying and some sort of physical Object.  It's possible (I cannot rule it out) it was a drone but I don't get that feeling.  It seemed to be larger than a drone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155754.html](http://www.nuforc.org/webreports/reports/155/S155754.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Tallinn (Estonia) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>A orange,red triangle was flying fast forwards.aIt appeared in the sky,started flying forwards fast.It was orange and  a little red,it had the shape of a triangle.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50281.html](http://www.nuforc.org/webreports/reports/050/S50281.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162848.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163302.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162846.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163307.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162845.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
