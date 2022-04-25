@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:04:52 on 25 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:27 on 25 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Port Orange (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Multiple fireball sightings over oceanSitting out on the deck, enjoying thee evening, when a bright orange light appeared over the ocean  then another and another then a few minutes later, a double one showed up.  They showed up very bright and then a very quick fade out.  This is the second night in a row we have seen these fireballs.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145873.html](http://www.nuforc.org/webreports/reports/145/S145873.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Roseau (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>It looked like dissapearing satellitesI was on the deck letting my dog out for one last time this evening. To the south east at the point of a bright star, there was one very bright object moving south to north. I thought it was a satellite, but it disappeared after a 5 inch movement across the ski and on a clear evening. A few seconds later the same or another burst came on the same path and disapeared.((NUFORC Note:  The description is not inconsistent, we observe, with a tumbling satellite, or rocket booster, but it should have continued to be visible as it moved to the north, I.e. "toward" the sun, which would have been shining over the north-northwest horizon at this time of night.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17395.html](http://www.nuforc.org/webreports/reports/017/S17395.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162848.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163302.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162846.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163307.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162845.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
