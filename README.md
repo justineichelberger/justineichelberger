@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:58 on 25 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:34 on 25 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Carpinteria (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Disc in skyWas outside and notice a disc shape/saucer up in the sky at night.  It was a silver color and was spinning around and then it disappeared then a couple of seconds later it came back then disappeared again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81002.html](http://www.nuforc.org/webreports/reports/081/S81002.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Kaufman (TX) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was looking west at the night sky looking for meteorites.  I saw what i thought was a great one come in very fast almost straight overhead.  But just as it burned out a bright red light came on.  The the red light morphed into a white lithe and for a very short time blue. then red pulse with a very short white. the light continually change its color spectrum from red to whit with only one source.  I never heard any sound at all. the light moved away from me gradually picking up speed to approx that of a jet airplane. It moved away from me in a northwester direction.  It started its move away from a point in the sky about 40 degrees above the horizon maybe less.  As it moved northwest it got closer to the horizon taking about 5 min before I could no longer see the red light.  It seemed to turn somewhat north as it moved away but slowly.I think it must have  been the new mini space plane. did anyone else in my area make a report.      Thanks</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75189.html](http://www.nuforc.org/webreports/reports/075/S75189.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162848.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163302.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162846.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163307.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162845.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
