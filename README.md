@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:17:48 on 25 April 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:21:47 on 25 April 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Galveston (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Large Hot Pink/Red very low and slow orbs over West end of West Bay.  7 seen in total.Saturday night looking to the West from beach house located at Terramar Beach I with two friends witnessed 3 large slow moving hot pink/red orbs in a following formation over West Bay.  The orbs had an intense color of hot pink/red and appeared a little smaller than a BB held at arms length.  Orbs were three fingers above the horizon, quite low when first seen with the middle orb higher than the front and following orb.  Orbs moved from west to east along the bay then turned over the bay toward the mainland.  Leading orb did not appear after it's view was blocked by a house.  Higher orbs continued across West Bay and faded out. 5 min in view.  10 minutes a second formation appeared just like the first but now 4 orbs were in a right to left very low trailing formation.  The lower orbs were blocked by a house others turned and faded out.  Viewed thru 10x23 mm binoculars, orbs were ALL LIGHT and SOLID in tight focus.  3 photo's taken.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118641.html](http://www.nuforc.org/webreports/reports/118/S118641.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Rigby (ID) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Saw two lights flying one in front of the other, thought they were satellites until the bigger of the two slowed, and the smaller light seemed to converge with the big one before turning and heading a different direction at a much faster speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133853.html](http://www.nuforc.org/webreports/reports/133/S133853.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162848.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163302.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162846.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163307.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162845.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
