@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:48 on 25 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:40 on 25 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Ann Arbor (MI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Early evening - sky not yet dark, planets just beginning to appear.  I was outside on the deck looking in the southeast sky trying to find Mars.  I saw 3 "planets or stars" in a stationary triangle formation; however, after looking at them for approx. 5 seconds, they began to move in formation to the north and gradually faded.It was early evening - the sky not yet dark, and some stars and planets were just beginning to appear. There were no clouds. I was outside on the deck on the east side of the house looking in the southeast sky trying to find Mars so I could look at it through my telescope.  Looking in the ESE sky at about 30-40 degrees I noticed what appeared to be a stationary group of 3 stars or planets, arranged in a triangular formation. They were white to yellowish in color and about the same size as Saturn or Jupiter, and spaced about 2 finger-widths apart (if held at arm's length). I didn't see any other structure around them.  The sky still was light (pale blue). I looked at them for approx. 5 seconds, and then saw that they began to move as a group to the north.  The kept the same distance from each other and maintained the same formation. Their speed was not incredibly fast, probably similar to an airplane.  They did not blink or change color or size.  They continued to move along the horizon to the north and then they gradually faded. What puzzled me was that these lights were standing still and looked like stars when I first saw them and then they began to move.  I don't think they were planes. I told my husband about them and he said they were probably satellites.  I've seen satellites fly over, usually at night and directly overhead.  These were different.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12491.html](http://www.nuforc.org/webreports/reports/012/S12491.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in New Britain (CT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0:00 - 0:00 minutes.</sub><blockquote><sub>Falling blue light.Blue flame like comet traveling in a downard direction [ex:  (like hands on clock set at 4:50)].  Very silent and looked as if it was a blue w/ neon/skyblue flame/glow.  Then vanished as if it was a firework.  Light too big and fast to be one and it came out of nowhere.  Any1 else see this?((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118626.html](http://www.nuforc.org/webreports/reports/118/S118626.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162848.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163302.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162846.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163307.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162845.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
