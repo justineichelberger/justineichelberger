@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:34 on 25 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:42 on 25 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Th Veymandoo (Maldives) () reported seeing craft that fit the description of some 'Light' over a period of approximately 1.5 mts - 1.5 mts minutes.</sub><blockquote><sub>Fast moving object bright as star to a small red light before its dissapearence.My attention to the object started around 19:15 hrs,at first it looked like bright star of magnitude about -6 as it was moving from azimuth of 195 degrees and altitude of about 65 degrees and moving towords north east direction.As it moved its speed seems to increase very fast and dissapeared at about 15 degrees azimuth and 75 degrees altitude,just before its dissapearance it changed its appearence from bright as star to red small light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75185.html](http://www.nuforc.org/webreports/reports/075/S75185.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1981, an anonymous witness in Bridgewater (MA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>I'm sorry I am so late in reporting this.  My husband and I rarely talked about it to each other after the incident, which was short in duration but very baffling just the same.  We were walking casually on a street parallel to the center of town and something caught my attention up above the houses.  It was darker than the night sky and shaped like a tri-cornered hat.  It was massive in size, about the size of a soccer field  There was a bright white light on each corner.  It was traveling very slowly, almost like it was 'coasting.'  My husband and I stood and watched it drift over the rooftops, but oddly, it was silent.  The craft drifted out of our line of vision, and the trees inhibited further viewing, so we didn't see which direction it went, but it had to have traveled over the center of town as it was too large to avoid it.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33306.html](http://www.nuforc.org/webreports/reports/033/S33306.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162848.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163302.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162846.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163307.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162845.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
