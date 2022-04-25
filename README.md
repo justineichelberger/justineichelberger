@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:27 on 25 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:51 on 25 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Roseau (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>It looked like dissapearing satellitesI was on the deck letting my dog out for one last time this evening. To the south east at the point of a bright star, there was one very bright object moving south to north. I thought it was a satellite, but it disappeared after a 5 inch movement across the ski and on a clear evening. A few seconds later the same or another burst came on the same path and disapeared.((NUFORC Note:  The description is not inconsistent, we observe, with a tumbling satellite, or rocket booster, but it should have continued to be visible as it moved to the north, I.e. "toward" the sun, which would have been shining over the north-northwest horizon at this time of night.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17395.html](http://www.nuforc.org/webreports/reports/017/S17395.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in San Felipe (Mexico) () reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0:2:00 - 0:2:00 minutes.</sub><blockquote><sub>Bright light following cylindrical nose, near ground, moving linearly southward without noise or trail.((name deleted)), a (( XX))-year-old, semi-retired building contractor residing in Yuma, Arizona was vacationing at his summer home about 35 miles south of San Felipe on the east coast of Baja California.  This area is about 150 miles south of the U.S. - Mexico border.  While there in early evening of 25 April 2001, he saw a bright object moving steadily south over the Sea of Cortez, about 30 degrees above the eastern horizon.  It was his impression that it was reflecting the sun, which had just set.  He grabbed the binoculars he keeps handy for watching animal life and saw in front of the bright reflection what appeared to be a cylindrical nose.  When asked if he could see any other structural detail, he said: "Although the object appeared to be reflecting the sun, the sky was too dark to see any other detail.  If it had had wings, I doubt I could have seen them."  He was quite certain the object was no more than 500 - 1000 feet up, much lower than the aircraft which fly over that area.  He will not estimate his distance from the object.  But at 30 degrees elevation, trigonometry gives distance to the object as twice its height above eye level, or 1000 - 2000 feet.  He heard no sound whatsoever and saw no trail.  Sighting duration from first appearance as the object came out of shadows until it reentered them again on its southward linear path was about two minutes.  Weather was clear, calm, beautiful, and about 70 Fahrenheit. Mr. ((deleted)) was not a UFO believer previously but is unable to relate this object to any previously-seen aerial objects and concludes it was some kind of UFO.  Because of the low altitude, he rejects an earth-satellite explanation.  Moreover, the object would have been moving in an unusual, polar orbit.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17630.html](http://www.nuforc.org/webreports/reports/017/S17630.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162848.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163302.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162846.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163307.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162845.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
