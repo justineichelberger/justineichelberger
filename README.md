@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:25 on 25 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:36 on 25 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Jamesport (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Oval, star like object moving qucikly over Eastern Long IslandGot up early this morning to let the dog out and saw an oval like object as bright as a star moving across the northern sky, approximately 30 degress above the horizon. Ran inside to get the binoculars but the object had disappeared when I returned. Checked the Heavens Above website database to see if it was the ISS but nothing scheduled to pass over this way in the morning.((NUFORC Note:  We congratulate the witness on having the presence of mind to check <www.Heavens-Above.com> website, in order to rule out the possibility that he might have seen the ISS.  That is a rare witness!  We do not know what it was he observed.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56406.html](http://www.nuforc.org/webreports/reports/056/S56406.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Paia (HI) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>cylinder shaped red glowing craft moving very fast from the north to the westgoing into the house I looked up and saw a cylinder shaped craft moving fast from the north heading west I called my son and his friend and they ran to the top of the road to watch it longer and saw it moving very fast to Iao Valley and out of sight. I have seen many "moving" stars and a glowing blue light landing as well as a fleet of lights fly over a party and dissapear one 4th of July years past (most of the island saw that) but never a totally red glowing craft before and never the cylinder shape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/006/S06983.html](http://www.nuforc.org/webreports/reports/006/S06983.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162848.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163302.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162846.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163307.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162845.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
