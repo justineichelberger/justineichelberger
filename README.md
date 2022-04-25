@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:43 on 25 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:40 on 25 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Mukilteo (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Departing KPAE Paine, Everett at approx 09:30 on 777, we notice 3 gray whales off the southern tip of wibley island.  While turning to the south west about .5 miles north of the whales two disk shaped objects appeared.  The second one was trailing to the right about 150 feet.  Using the whales as a reference, I would say the objects were about 30 feet across, and traveling at 1500 foot above the water.  The objects then just disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  Witness does not provide a date or time for the alleged sighting, perhaps to help preserve his/her anonymity.  We have assigned an arbitrary time and date above, assuming that the sighting may have occurred on the date of the report.  We do not know whether this is intended as a serious report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50286.html](http://www.nuforc.org/webreports/reports/050/S50286.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>I was facing to the Eastern sky at angle of 35 degrees rise from horizon.  The little dipper is to my left.  I am watching a jet high in the sky when I see a bright light come on out to the right of the jet.  The light was bright but I could see that it was behind the jet. Then the light came straight at me so fast it seemed to "ride" the light and approached me so fast and stopped suddenly in its tracks.  Then in a split second the light turned off and it looked rectangular and I could make it out by the reflection of the bright full moon.  It only seemed about a 1000 yards away.  Then in the next split second it appeared to "slingshot" itself back and to the left where it came from.  I could see the shape get smaller and smaller til it was gone!  I got the impression it was "stalking" the westbound jet I was initially watching.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97370.html](http://www.nuforc.org/webreports/reports/097/S97370.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162848.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163302.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162846.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163307.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162845.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
