@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:35:36 on April 25, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:17:48 on 25 April 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Quartzsite (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>TRIANGLE flies over I 10 IN AZ.I was driving my big truck on my way to L.A.from Phoenix Az. headed west on 10 not too far east of Quartzsite Az.when i looked to the north to see this triangular shaped huge craft with 3 lights-one at each point.  I watched it go across 10 headed south,when it got to the mountains just to the south of I 10 it shined what looked like a headlight because it lite up the whole mountains,this craft appeared to be about 1200 ft in the air. It was not very far above the mountains when it went over them. I did get on the CB and ask other drivers if they saw what i saw and about 10 guys responded and said they did see the same thing.   So if im the only report of this event i will be very suprised but i just wanted to finally report it!!!((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78165.html](http://www.nuforc.org/webreports/reports/078/S78165.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Galveston (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Large Hot Pink/Red very low and slow orbs over West end of West Bay.  7 seen in total.Saturday night looking to the West from beach house located at Terramar Beach I with two friends witnessed 3 large slow moving hot pink/red orbs in a following formation over West Bay.  The orbs had an intense color of hot pink/red and appeared a little smaller than a BB held at arms length.  Orbs were three fingers above the horizon, quite low when first seen with the middle orb higher than the front and following orb.  Orbs moved from west to east along the bay then turned over the bay toward the mainland.  Leading orb did not appear after it's view was blocked by a house.  Higher orbs continued across West Bay and faded out. 5 min in view.  10 minutes a second formation appeared just like the first but now 4 orbs were in a right to left very low trailing formation.  The lower orbs were blocked by a house others turned and faded out.  Viewed thru 10x23 mm binoculars, orbs were ALL LIGHT and SOLID in tight focus.  3 photo's taken.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118641.html](http://www.nuforc.org/webreports/reports/118/S118641.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162848.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163302.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162846.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163307.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162845.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
