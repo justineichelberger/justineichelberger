@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:45 on 25 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:10:58 on 25 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Cambridge Township (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I was on my back porch and saw a bright white light when I looked west to the top of the trees.  It was 4 to 5 times the size of the larger stars in the sky.  I thought it might be a plane, but then it moved sideways quickly.  It seemed to "buzz" around (like an insect) and moved toward the west, then east again. I went inside to grab my phone to video tape it, and it was still moving around.  My neighbors looked from their vantage point (after I texted them to see if they had a drone or something out, which they didn't), but couldn't see it through the thicker trees.  I went upstairs and could still see it, although it had moved further west.  It was still there and "flitting about" 35 minutes after first sighting it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155752.html](http://www.nuforc.org/webreports/reports/155/S155752.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Bar Harbor (ME) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Long trail of slow-moving lights through the night sky.My friend and I were outside her house near the ocean tonight, watching the sky and talking about UFOs.  Oddly enough, as we’re on this topic, we see a long trail of lights moving slowly through the night sky toward the ocean (northeast).  There must have been about 100 of them.  They were in perfect single file, some spaced further apart than others, and had the appearance of very bright stars.  They were moving horizontally.  It was strange how in sync they were, moving at the exact same pace.  They also moved much more slowly than you would expect.  We were completely blown away.  Of course we took out our cameras, but they couldn’t quite pick it up in the dark.  I managed to take a screenshot of the video I took and adjusted the brightness so you can see one frame of them (I will be emailing in the photo).  There were many, many more than what I captured with my camera, but it gives you the idea.  Eventually they disappeared at this one point in the sky, one by one! , until they were all gone. I’ve never seen anything like it before in my life, and I have no idea what it could have possibly been.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155757.html](http://www.nuforc.org/webreports/reports/155/S155757.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162848.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163302.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162846.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163307.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162845.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
