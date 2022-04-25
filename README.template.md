@@ -199,7 +199,7 @@
 <!-- ### tools -->
 
 <h4><details open>
-<summary>&nbsp;&nbsp;&nbsp;adjuncts</summary>
+<summary>&nbsp;&nbsp;&nbsp;accoutrements</summary>
 </details></h4>
 
 <sup>![neural-network-icon-16](./images/neural_network_original_greyscale_26.png "application")</sup>&nbsp;&nbsp;<sub>tableau</sub><br>
@@ -212,7 +212,7 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at {timestamp_for_last_update} (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at {timestamp_for_last_update} (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
 ![neural-network-icon-16](./images/hud_cursor_01.gif "feature") {random_sighting}
 <h5><details open>
