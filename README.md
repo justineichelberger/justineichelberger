@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:46 on April 25, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:35:36 on April 25, 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Cannon Beach (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2 orange orbs and 3 white disks objects was seen by 2 witnesses.We were out on the front porch and saw 2 orange orbs.  First one appeared then got brighter and flew south down the coast line.  As it disappeared another one appeared in the same exact spot and flew the same direction here in Cannon Beach by Haystack Rock.    Then a couple minutes later 3 white disks came across the sky heading north at virtually light speed the opposite direction the orange orbs flew.  Was definitely not aircrafts.  Was dark and clear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108915.html](http://www.nuforc.org/webreports/reports/108/S108915.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Quartzsite (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>TRIANGLE flies over I 10 IN AZ.I was driving my big truck on my way to L.A.from Phoenix Az. headed west on 10 not too far east of Quartzsite Az.when i looked to the north to see this triangular shaped huge craft with 3 lights-one at each point.  I watched it go across 10 headed south,when it got to the mountains just to the south of I 10 it shined what looked like a headlight because it lite up the whole mountains,this craft appeared to be about 1200 ft in the air. It was not very far above the mountains when it went over them. I did get on the CB and ask other drivers if they saw what i saw and about 10 guys responded and said they did see the same thing.   So if im the only report of this event i will be very suprised but i just wanted to finally report it!!!((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78165.html](http://www.nuforc.org/webreports/reports/078/S78165.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162848.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163302.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162846.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163307.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162845.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
