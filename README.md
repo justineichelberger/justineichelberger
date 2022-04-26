@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:05:20 on 26 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:21 on 26 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Geneva (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>A triangular shaped UFO lined with red lights that went on and off at 3 second intervals.I was driving East on Hwy 46, just entering into the town of Geneva, Florida heading towards Interstate 95 at approximately 9:35 pm.  I was traveling about 60 MPH and I looked up to the left in the sky and saw a huge triangular shaped object that appeared to be ascending upward.  I saw the underside of it and it had vertical lines (rows) of red lights aligned in straight rows.  The lights were fading on and off, not quickly but maybe 3 seconds on, and 3 seconds off.  It was traveling West and since I was traveling East at 60 MPH, I only saw it for a brief time.  I tried to pull my car to the side of the road so I could turn around and watch more, but by the time I did, there was nothing more to see.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88683.html](http://www.nuforc.org/webreports/reports/088/S88683.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Tallahassee (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Tallahassee SightingI went out to smoke a cigarette when I saw 2 lights moving in the sky to the southeast of Tallahassee. I paid more attention when I saw them fly horizontally and go vertical, one chasing the other.  They were moving so fast I thought they were spot lights or my imagination. I went back in my work and came back out 15 min later for another smoke and to leave when I looked over and the 2 lights were still chasing each other but where a lot closer.  I stood there and I saw 2 bright spheres flying at really high speeds all over the sky.  This continued for another 15 min when they started to slow down.  I wasn’t going to report this until I saw 5 more spheres appear, like they where there the whole time but didn’t have lights on.  Six formed a V formation and one was to the north of the V but behind the leader of the V.  They flew off at extremely high speeds to the northeast until I couldn’t see them anymore.  The date and time of the sighting was 04/26/10 at 23:45 to 04/27/10 at 0:15.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75204.html](http://www.nuforc.org/webreports/reports/075/S75204.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/162/S162863.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162877.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162869.html)
-- [323](http://www.nuforc.org/webreports/reports/163/S163567.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162916.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
