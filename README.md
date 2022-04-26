@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:28:16 on 26 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:33:12 on 26 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Boise (ID) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>This was he third UFO I have seen over Boise in the past eight months.  Last night I saw the classic triangle UFO traveling north over Chinden and Cloverdale area.  It was approximately eight whitish lights in a triangle formation appearing at first to be a single triangle shaped craft but then the lights shifted making it look more like the lights were independent traveling in a triangular formation, I'm not sure which.  It went over my head dead silent at an altitude of about 500 feet I would estimate.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97408.html](http://www.nuforc.org/webreports/reports/097/S97408.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Whittier (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Orange, glowing fireball flying north; was fast as an airplane but not an airplane; after my bday party; no one else saw it?It was a glowing orange fireball that flew from south to north.  Me and my aunt's husband saw it for a couple minutes.  Quiet Saturday night after my birthday party.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108995.html](http://www.nuforc.org/webreports/reports/108/S108995.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
