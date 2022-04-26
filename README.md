@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:37 on 26 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:47 on 26 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Quincy (MA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Two unidentified triangular objects circling 02169At approximately 3am a "UFO" began to circle around our house. We live on the Logan Airport's landing route but have never seen a flying object like this.  White and red lights on this object were flashing sporadically. No sound of engines.  At 4 am a second "UFO" began to circle.  First object circled about 20 times.  Once the second one appeared, the 2 circled together for about 5 times until the 1st disappeared.  The second UFO had lights much brighter than the first and is moving at a much faster speed. Both objects appeared to be in a triangle shape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97373.html](http://www.nuforc.org/webreports/reports/097/S97373.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Walton (KY) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>At least 12 obj objects in a formation. Straight line unequal distances apart. Flying from horizon up. Just north and east of Venus, flying at about a 15 degree angle. As event went on, lights stated to disappear from the same spot as each reached just a few degrees north and east of Venus.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155797.html](http://www.nuforc.org/webreports/reports/155/S155797.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/162/S162863.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162877.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162869.html)
-- [323](http://www.nuforc.org/webreports/reports/163/S163567.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162916.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
