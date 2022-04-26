@@ -100,7 +100,7 @@
   <tr>
     <td>
       <a href="https://github.com/justineichelberger/justineichelberger">
-        <img align="center" style="margin:1.0rem 0.5rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=justineichelberger&repo=nuforc-sightings-database-api&title_color=C0C0C0&text_color=C0C0C0&icon_color=C0C0C0&bg_color=0D1117" />
+        <img align="center" style="margin:1.0rem 0.5rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=justineichelberger&repo=justineichelberger&title_color=C0C0C0&text_color=C0C0C0&icon_color=C0C0C0&bg_color=0D1117" />
       </a>
     </td>
     <td>
@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:38:59 on 26 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:40:59 on 26 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Pella (IA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.2 - 0.2 minutes.</sub><blockquote><sub>Ultra-sonic diskMetallic Disk hovering 300 feet about the ground near east side of Pella.  The sun was reflecting off the object making it easy to see its shape and size.  It had to be at least 30 feet wide and 8 feet in height.  For nearly 11 seconds it hovered and just after that it instantly launched Northwestern across the town of Pella.  With a slight incline of perhaps 5 - 10 degrees in a perfect straight line for 1 mile before blasting at a complete verticle line through the clouds.  Estimating that the clouds were perhaps 10,000+ feet in altitude.  This craft was easily travely 3+ miles per second without any sonic boom.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88681.html](http://www.nuforc.org/webreports/reports/088/S88681.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Fremont (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>2 figures and craft seen on ground near San Francisco Bay.I was riding my bike on Thursday (4/26/07) morning around 6:45am on the Alameda Creek trail in Fremont, CA. As I came to the end od the trial about 300 yards to where it meets the San Francisco bay, I saw 2 figures and a large object out of the corner of my eye to my right about 200 yards away. Occasionally I am looking down at the gravel road as I am riding and as I began to look up I saw the figures. This startled me, causing me to veer into thick gravel and look away from the figures as I tried to regain control. I quickly came to a stop and looked to my right just as the figures which appeared to be looking at me turned away and began walking away as they suddenly became translucent and faded away. Immediately afterwards the large object that was about 50 feet in length which I had not focused on also became translucent and faded away.  All of this occurred in 5 seconds or less. I do wear prescription glasses, I am near sighted, I did not have them on and I am not required to wear them while driving. I tried to focus to see if I could still see them again but I did not. I then began to look around me as I sensed a presence near me. This spooked me and I quickly got back on my bike and began to peddle away towards the bay. I stopped about half way and began looking around again, but saw and sensed nothing. I then went to the end of the trail and waited there probably 15 minutes and was spooked again by what sounded like foots steps on the gravel. I then got back on my bike and I took the longer more difficult route along the dikes towards the Dumbarton Bridge instead of going back in the same direction that I had originally came. I believe I had seen 3 UFOs in my life, 1 of which occurred on the Menlo Park side of the Dumbarton Bridge around the time and before the lights sighted by many in Phoenix Arizona in 1997. These lights were very similar, were south west of Menlo Park/Palo Alto. There where 5 lights all in a row and they did not move. A passenger plane also passed behind them. I did not stay long maybe a couple of minutes as I called my brother on my cell phone and left him a message telling him what I was seeing. I was very excited when I saw the original news footage covering the "Phoenix Lights" as it was very much what I had witnessed just a short while before.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56484.html](http://www.nuforc.org/webreports/reports/056/S56484.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/162/S162863.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162877.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162869.html)
-- [323](http://www.nuforc.org/webreports/reports/163/S163567.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162916.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
