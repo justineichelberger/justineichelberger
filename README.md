@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:34 on 25 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:28 on 26 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Kaufman (TX) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was looking west at the night sky looking for meteorites.  I saw what i thought was a great one come in very fast almost straight overhead.  But just as it burned out a bright red light came on.  The the red light morphed into a white lithe and for a very short time blue. then red pulse with a very short white. the light continually change its color spectrum from red to whit with only one source.  I never heard any sound at all. the light moved away from me gradually picking up speed to approx that of a jet airplane. It moved away from me in a northwester direction.  It started its move away from a point in the sky about 40 degrees above the horizon maybe less.  As it moved northwest it got closer to the horizon taking about 5 min before I could no longer see the red light.  It seemed to turn somewhat north as it moved away but slowly.I think it must have  been the new mini space plane. did anyone else in my area make a report.      Thanks</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75189.html](http://www.nuforc.org/webreports/reports/075/S75189.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>White light falling from the sky.I was outside on my patio and I just looked up for a second and a huge white light fell out of the sky.  It was about the size of a baseball and moving very quickly.  I followed it for a few seconds then it fell behind the apartment building in front of me.  I stopped for a second because I was waiting to hear a crashing noise, but I heard nothing.  I talked to a friend right afterwards and she told me that her dad had seen the same exact thing 2 nights before.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36544.html](http://www.nuforc.org/webreports/reports/036/S36544.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162848.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163302.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162846.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163307.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162845.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
