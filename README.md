@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:42 on 26 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:24 on 26 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Burlington (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange glowing large circular object with about 8 blinking lights, I yelled, "I see you,, and waved.  It dimmed the lights and floatOrange glowing large circular object with about 8 blinking lights, I yelled 'I see you" and waved. It dimmed the lights and floated to the right side of the woods.  Seen on Rancocas Rd., Burlington, NJ.  I thought it was the moon in the woods until it began moving closer to me then i saw all the blinking lights in what appeared to be a square surface on the front of the large object.  It made an intermittent humming sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139622.html](http://www.nuforc.org/webreports/reports/139/S139622.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Menomonee Falls (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Line of lights in the skyOn a very clear night, a line of around 20+ starlike lights appeared over the west, right on top of the moon, moving in a straight line following each other until they all disappeared one by one towards the east.  The starlike lights were not equidistant of each other, there was no visible grouping other than all being in a straight line.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155790.html](http://www.nuforc.org/webreports/reports/155/S155790.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/162/S162863.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162877.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162869.html)
-- [323](http://www.nuforc.org/webreports/reports/163/S163567.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162916.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
