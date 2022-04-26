@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:44 on 26 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:35 on 26 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Billings (MT) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Went out side with dog before bed. Looked up into the sky and seen a trail of 15 -20 lights in a string all travelling SW at a rapid speed watched for couple minutes tried to get a photo. Lights had disappeared by the time camera on phone was enabled.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155737.html](http://www.nuforc.org/webreports/reports/155/S155737.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Large sparkle: seen MULTIPLE nights in a rowLarge golden sparkle at night. It has been appearing almost every night since the 26th. It is impossible to properly discern the true shape of the object because of how "sparkly" it looks, but if I were to wager my best guess, it would possibly be cigar-shaped. It also appears to pulse if you look closely at it, but it does not blink. It never appears as any other color but gold.  When visible, the object will either sit in one place or slowly drift around. It was observed moving quickly only once; it disappeared behind some trees and then suddenly reappeared in its original position.  The times it appears, the directions it moves in, the speed it moves at, and its altitude have not followed any discernible patterns. However, it consistently appears in the same general place on the skyline.  It will stay visible anywhere from 2-30 minutes in the sky. It has appeared, left within 15 minutes, and reappeared some number of hours later on one occasion.  I've never submitted one of these reports before.  This is the first time I have observed such an object.  Two other people have witnessed this object with me. None of us has a background in science or the military.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156060.html](http://www.nuforc.org/webreports/reports/156/S156060.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/162/S162863.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162877.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162869.html)
-- [323](http://www.nuforc.org/webreports/reports/163/S163567.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162916.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
