@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:21 on 26 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:22 on 26 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Tallahassee (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Tallahassee SightingI went out to smoke a cigarette when I saw 2 lights moving in the sky to the southeast of Tallahassee. I paid more attention when I saw them fly horizontally and go vertical, one chasing the other.  They were moving so fast I thought they were spot lights or my imagination. I went back in my work and came back out 15 min later for another smoke and to leave when I looked over and the 2 lights were still chasing each other but where a lot closer.  I stood there and I saw 2 bright spheres flying at really high speeds all over the sky.  This continued for another 15 min when they started to slow down.  I wasn’t going to report this until I saw 5 more spheres appear, like they where there the whole time but didn’t have lights on.  Six formed a V formation and one was to the north of the V but behind the leader of the V.  They flew off at extremely high speeds to the northeast until I couldn’t see them anymore.  The date and time of the sighting was 04/26/10 at 23:45 to 04/27/10 at 0:15.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75204.html](http://www.nuforc.org/webreports/reports/075/S75204.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Mineola (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Slow moving, low flying 3 light object, not a helicopter, with a dual humming sound.While indoors and windows open I heard a medium pitched humming sound that was constant and increased in volume. Then another humming sound was heard and it was a much lower pitch and dominent. I usually dismiss sounds but this persisted and increased.  As I looked out I saw a yellowish white light with a silver blue light above it and a red one below.  They moved as if all one object but the two smaller lights (blue and red) were some distance above and below. I think I saw connecting arms from each small light to the middle light but cannot be sure.  It traveled from W to E and took about an hour or more to disappear in the E.  I thought it might be some sort of mapping satelite as it seemed very low and crept slowly overhead.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50326.html](http://www.nuforc.org/webreports/reports/050/S50326.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/162/S162863.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162877.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162869.html)
-- [323](http://www.nuforc.org/webreports/reports/163/S163567.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162916.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
