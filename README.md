@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:03 on 26 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:40:48 on 26 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Tallahassee (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Tallahassee SightingI went out to smoke a cigarette when I saw 2 lights moving in the sky to the southeast of Tallahassee. I paid more attention when I saw them fly horizontally and go vertical, one chasing the other.  They were moving so fast I thought they were spot lights or my imagination. I went back in my work and came back out 15 min later for another smoke and to leave when I looked over and the 2 lights were still chasing each other but where a lot closer.  I stood there and I saw 2 bright spheres flying at really high speeds all over the sky.  This continued for another 15 min when they started to slow down.  I wasn’t going to report this until I saw 5 more spheres appear, like they where there the whole time but didn’t have lights on.  Six formed a V formation and one was to the north of the V but behind the leader of the V.  They flew off at extremely high speeds to the northeast until I couldn’t see them anymore.  The date and time of the sighting was 04/26/10 at 23:45 to 04/27/10 at 0:15.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75204.html](http://www.nuforc.org/webreports/reports/075/S75204.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Matamoras (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Two solid red lights moving in formation with no sound over Matamoras, PA for 2 minutes before suddenly disappearing.While watching the large moon rising in the East-Southeast through layers of mist, my husband & I saw two large solid red lights suddenly appear somewhat low in the sky - approaching from the ENE from the direction of Greenville, NY.  They looked like they had just turned in our direction.  At first it looked like a small plane with lights on each wing pointing forward – one light was higher than the other as you would see if a plane made a sharp turn.  But there was no sound.   We thought they might be lights on 2 helicopters traveling together (they looked about the height we would sometimes see helicopters traveling in our area) - but the red lights were solid - not blinking.  They moved in pretty close formation, then began to move apart from each other.  One appeared to turn away toward the east, and the two moved further apart from each other.   The light that turned away disappeared (as though the light had been extinguished).  The other light continue! d moving toward us for about another 20 seconds - then that light began to shrink and it also disappeared.  Throughout the 2-1/2 to 3 minute event, there was no sound from the lights (or whatever the lights were on).  We continued to watch for another 4-5 minutes to see if they would reappear, but they did not.  We saw one red light travel in the same direction yesterday (4-25-13) at about the same time & disappear in the same manner - also with no noise. We will go outside tomorrow night at the same time to see if it appears again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97383.html](http://www.nuforc.org/webreports/reports/097/S97383.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/162/S162863.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162877.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162869.html)
-- [323](http://www.nuforc.org/webreports/reports/163/S163567.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162916.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
