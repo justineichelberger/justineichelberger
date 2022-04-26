@@ -100,7 +100,7 @@
   <tr>
     <td>
       <a href="https://github.com/justineichelberger/justineichelberger">
-        <img align="center" style="margin:1.0rem 0.5rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=justineichelberger&repo=nuforc-sightings-database-api&title_color=C0C0C0&text_color=C0C0C0&icon_color=C0C0C0&bg_color=0D1117" />
+        <img align="center" style="margin:1.0rem 0.5rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=justineichelberger&repo=justineichelberger&title_color=C0C0C0&text_color=C0C0C0&icon_color=C0C0C0&bg_color=0D1117" />
       </a>
     </td>
     <td>
