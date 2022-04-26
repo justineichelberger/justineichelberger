@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:46:40 on 26 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:24 on 26 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Rio de Janeiro (Brazil) () reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Seis ovnis como se fossem estrelas navegaram em linha reta mantendo uma distância semelhante uma das outras e simplesmente desapareceram com um flash rumo a escuridão em meio as estrelas...uma após a outra num intervalo de uns 30 segundos. Céu estrelado e atmosfera límpida.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155836.html](http://www.nuforc.org/webreports/reports/155/S155836.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Norwich (there was officer's on the port side) (UK/England) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Dome shaped UFO in Norfolk, EnglandIt was a silver dome with a flat base but changed shape. It glided slowly over changing shape into a teardrop the speedened as leaving. It was quite low and close but there were no details on its surface.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17406.html](http://www.nuforc.org/webreports/reports/017/S17406.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/162/S162863.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162877.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162869.html)
-- [323](http://www.nuforc.org/webreports/reports/163/S163567.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162916.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
