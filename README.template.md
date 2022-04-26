@@ -142,7 +142,7 @@
 ![neural-network-icon-16](./images/neural_network_original_greyscale_12.png "space") &nbsp;   
 ![neural-network-icon-16](./images/neural_network_original_greyscale_22.png "pgAdmin[tools[query tool]]") &nbsp;<sup><code>Query Editor</code></sup>   
 ![neural-network-icon-16](./images/neural_network_original_greyscale_13.png) &nbsp;   
-![neural-network-icon-16](./images/neural_network_original_greyscale_25.png "SQL query to find one of Frank Black's 'Ten [Percenters]' from his eponymous album 'Frank Black' released some time in between unixtimestamp(731574000) and unixtimestamp(731660399)") &nbsp;<sup><code>SELECT aptitudes, adjuncts FROM people WHERE mind LIKE ocean AND activity = 'hanging' AND location = 'harbor' AND name = '&#9001; me &#x3009;'</code></sup>   
+![neural-network-icon-16](./images/neural_network_original_greyscale_25.png "SQL query to find one of Frank Black's 'Ten [Percenters]' from his eponymous album 'Frank Black' released some time in between unixtimestamp(731574000) and unixtimestamp(731660399)") &nbsp;<sup><code>SELECT aptitudes, accoutrements FROM people WHERE mind LIKE ocean AND activity = 'hanging' AND location = 'harbor' AND name = '&#9001; me &#x3009;'</code></sup>   
 ![neural-network-icon-16](./images/neural_network_original_greyscale_24.png)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub><code>Data Output</code></sub>   
 
