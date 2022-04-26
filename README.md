@@ -199,7 +199,7 @@
 <!-- ### tools -->
 
 <h4><details open>
-<summary>&nbsp;&nbsp;&nbsp;adjuncts</summary>
+<summary>&nbsp;&nbsp;&nbsp;accoutrements</summary>
 </details></h4>
 
 <sup>![neural-network-icon-16](./images/neural_network_original_greyscale_26.png "application")</sup>&nbsp;&nbsp;<sub>tableau</sub><br>
@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:21:47 on 25 April 2022 (UTC) and approximately an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:25:58 on 26 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Rigby (ID) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Saw two lights flying one in front of the other, thought they were satellites until the bigger of the two slowed, and the smaller light seemed to converge with the big one before turning and heading a different direction at a much faster speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133853.html](http://www.nuforc.org/webreports/reports/133/S133853.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Otis AFB (MA) reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Small drone like craft over otis afb MaOn april 26, 2011, myself and three other people were outside smoking when we heard a strange sounding aircraft approaching.  We had all spent a good deal of time on this base over the past 10 years, so we are used to military and coast guard aircraft, but this sounded very different.  As the aircraft got closer we could see that it appeared to be an unmanned drone of some sort, but not like any we had seen before. It was white, and very short, with 2 small wings on top of the front and longer ones lower and toward the back.   It appeared to have a single prop engine in the rear.  The aircraft was flying very low, and did a number of loops around the area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88678.html](http://www.nuforc.org/webreports/reports/088/S88678.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,11 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162848.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163302.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162846.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163307.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162845.html)
+- [326](http://www.nuforc.org/webreports/reports/162/S162863.html)
+- [325](http://www.nuforc.org/webreports/reports/162/S162877.html)
+- [324](http://www.nuforc.org/webreports/reports/162/S162869.html)
+- [323](http://www.nuforc.org/webreports/reports/163/S163567.html)
+- [322](http://www.nuforc.org/webreports/reports/162/S162916.html)
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
