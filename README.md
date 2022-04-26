@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:46 on 26 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:05:20 on 26 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Tempe (AZ) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Egg-shaped, and also white, but it wasn't solid white, it looked like a ball of bright, white illuminated cloud light.I saw this white, egg shaped craft just cruise over Tempe Town Lake.  I was in one of the high buildings and saw it go passed, while I was looking out of the window.  It staying at a consistent speed and did not move up or down, just kept heading straight.  It was egg shaped and also white like an egg, but it wasn't solid white, it looked like a ball of bright, white illuminated cloud light.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145910.html](http://www.nuforc.org/webreports/reports/145/S145910.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Geneva (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>A triangular shaped UFO lined with red lights that went on and off at 3 second intervals.I was driving East on Hwy 46, just entering into the town of Geneva, Florida heading towards Interstate 95 at approximately 9:35 pm.  I was traveling about 60 MPH and I looked up to the left in the sky and saw a huge triangular shaped object that appeared to be ascending upward.  I saw the underside of it and it had vertical lines (rows) of red lights aligned in straight rows.  The lights were fading on and off, not quickly but maybe 3 seconds on, and 3 seconds off.  It was traveling West and since I was traveling East at 60 MPH, I only saw it for a brief time.  I tried to pull my car to the side of the road so I could turn around and watch more, but by the time I did, there was nothing more to see.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88683.html](http://www.nuforc.org/webreports/reports/088/S88683.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/162/S162863.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162877.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162869.html)
-- [323](http://www.nuforc.org/webreports/reports/163/S163567.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162916.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
