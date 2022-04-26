@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:35 on 26 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:44 on 26 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Large sparkle: seen MULTIPLE nights in a rowLarge golden sparkle at night. It has been appearing almost every night since the 26th. It is impossible to properly discern the true shape of the object because of how "sparkly" it looks, but if I were to wager my best guess, it would possibly be cigar-shaped. It also appears to pulse if you look closely at it, but it does not blink. It never appears as any other color but gold.  When visible, the object will either sit in one place or slowly drift around. It was observed moving quickly only once; it disappeared behind some trees and then suddenly reappeared in its original position.  The times it appears, the directions it moves in, the speed it moves at, and its altitude have not followed any discernible patterns. However, it consistently appears in the same general place on the skyline.  It will stay visible anywhere from 2-30 minutes in the sky. It has appeared, left within 15 minutes, and reappeared some number of hours later on one occasion.  I've never submitted one of these reports before.  This is the first time I have observed such an object.  Two other people have witnessed this object with me. None of us has a background in science or the military.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156060.html](http://www.nuforc.org/webreports/reports/156/S156060.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Orland (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>White, star-like light holds position in sky before moving slowly and then disappearing altogether.It was Thursday night, around 9:30 p.m., and my fiancé and I went out to look at the night sky while I smoked a cigarette before going to bed.  I looked up to see if I could identify some constellations I have become familiar with, and I thought I spotted the three white stars of Orion’s Belt just slightly west of directly above me.  I debated whether it was Orion’s Belt or not, because I was pretty sure I had been seeing the Belt in another location in the sky on previous nights.  While I wondered about it, my eyes drifted to another spot in the sky.  Suddenly, out of the corner of my eye, I could see that the middle of the three stars now appeared to be moving.  I asked my fiancé if he was seeing what I was seeing, and he said he was.  While we watched, the unblinking white light continued traveling west very slowly.  I don’t believe it was an airplane because of the slow rate of speed which commenced from a stop and there were no standard flashing lights.  I don’t believe it was a meteor, as I have never seen one move so slowly and only be visible in such a small area of the sky.  As soon as both of our attention was focused back on the light, it traveled just a second or two longer, grew just a little brighter and then just disappeared.  It ceased to be seen in the sky any longer.  I don’t know what it was, but after debating over whether or not to report what we had seen, I finally decided to do so.  I am Personal Assistant and Marketing Lead for my fiancé’s martial arts schools.  He is, of course, owner/operator of the schools as well as a Department Manager for a North State Grocery company.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56627.html](http://www.nuforc.org/webreports/reports/056/S56627.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/162/S162863.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162877.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162869.html)
-- [323](http://www.nuforc.org/webreports/reports/163/S163567.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162916.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
