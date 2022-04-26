@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:37 on 26 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:13:44 on 26 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Litchfield (CT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was leaving work and heading home, on Route 118 , there are woods on both sides, of the road, a bronze color, U.F.O. came from the right side of the woods and almost clipped my vehicle. I stopped my vehicle and the thing realized it was going to hit me, and it was going vertical, then horizontal, because it was also trying to avoid the trees. And then it stopped, and it was just above the ground. And I could not believe it, and just left! Because, I was in shock, in what just happened! And there were no lights!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160876.html](http://www.nuforc.org/webreports/reports/160/S160876.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Symsonia (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Silent , extremely bright , blueish hue and trail . No shapeI was on my back deck smoking and looked up and saw a very bright blueish white object moving in a straight line , about the speed of a plane.  No noise . I yelled for my 10 yr old son to come see , it took him about 5 seconds to get to me and look and it immediately  and very slowly dimmed, then a couple seconds later , totally vanished.  It had a blueish hue and left a blue trail behind it .  It was moving way to slow to be a meteor , and had no flashing FCC lights or shape .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88682.html](http://www.nuforc.org/webreports/reports/088/S88682.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/162/S162863.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162877.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162869.html)
-- [323](http://www.nuforc.org/webreports/reports/163/S163567.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162916.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
