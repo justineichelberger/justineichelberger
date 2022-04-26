@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:24 on 26 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:46 on 26 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Menomonee Falls (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Line of lights in the skyOn a very clear night, a line of around 20+ starlike lights appeared over the west, right on top of the moon, moving in a straight line following each other until they all disappeared one by one towards the east.  The starlike lights were not equidistant of each other, there was no visible grouping other than all being in a straight line.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155790.html](http://www.nuforc.org/webreports/reports/155/S155790.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Tempe (AZ) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Egg-shaped, and also white, but it wasn't solid white, it looked like a ball of bright, white illuminated cloud light.I saw this white, egg shaped craft just cruise over Tempe Town Lake.  I was in one of the high buildings and saw it go passed, while I was looking out of the window.  It staying at a consistent speed and did not move up or down, just kept heading straight.  It was egg shaped and also white like an egg, but it wasn't solid white, it looked like a ball of bright, white illuminated cloud light.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145910.html](http://www.nuforc.org/webreports/reports/145/S145910.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/162/S162863.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162877.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162869.html)
-- [323](http://www.nuforc.org/webreports/reports/163/S163567.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162916.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
