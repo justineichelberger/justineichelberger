@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:36 on 26 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:24 on 26 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Niles (MI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>15-20 lights in the sky15-20 lights the size of the planet that is very visible in the western sky, moving southeast in an extremely straight line but all lights were not evenly spaced between each other. The speed of each object was the same and they travelled at the same speed as a fast moving airplane. The one that led the line faded away as if going into a cloud but it was a perfectly clear night with zero clouds. After the lead light faded away the next one in line then faded away. Every light seemed foggy despite it being clear outside. I ran into the house to get my phone when there were 15 left, when I was ready to take a picture there were 7 left.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155856.html](http://www.nuforc.org/webreports/reports/155/S155856.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>There is an object floating in the sky, moving up and down and side to side.  Then stays put for a good amount of time.  This object is blinking colors that are very bright and vibrant. Like LED's and multiple colors. Its odd because protruding from the object is what appears to be a long strip.  That strip has blinking LED lights on it that are green red and blue.  They keep flashing and i have absolutly no idea what this could possibly be.  I have never seen anything like it in my entire life..((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97381.html](http://www.nuforc.org/webreports/reports/097/S97381.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/162/S162863.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162877.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162869.html)
-- [323](http://www.nuforc.org/webreports/reports/163/S163567.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162916.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
