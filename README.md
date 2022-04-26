@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:22 on 26 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:43 on 26 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Mineola (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Slow moving, low flying 3 light object, not a helicopter, with a dual humming sound.While indoors and windows open I heard a medium pitched humming sound that was constant and increased in volume. Then another humming sound was heard and it was a much lower pitch and dominent. I usually dismiss sounds but this persisted and increased.  As I looked out I saw a yellowish white light with a silver blue light above it and a red one below.  They moved as if all one object but the two smaller lights (blue and red) were some distance above and below. I think I saw connecting arms from each small light to the middle light but cannot be sure.  It traveled from W to E and took about an hour or more to disappear in the E.  I thought it might be some sort of mapping satelite as it seemed very low and crept slowly overhead.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50326.html](http://www.nuforc.org/webreports/reports/050/S50326.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in San Marcos (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>Turned off the lights outside to look at the stars and my boyfriend and I saw a strange boomerang shaped craft with what can only be described as a triangle that was barely reflecting from the moon.  It was absolutely silent coming from the SW and it had no lights.  The whole thing was cloaked in what looked like a white hue where it was bending light.  At first I thought it was a fast moving cloud but I quickly realized it was something else.  It wasn't an aircraft I've ever seen and with no lights and no sound we were completely stumped.  It went in a straight movement but then it came back into our sight part and it did an interesting pattern like a falling leaf doing a loop d loop</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156299.html](http://www.nuforc.org/webreports/reports/156/S156299.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/162/S162863.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162877.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162869.html)
-- [323](http://www.nuforc.org/webreports/reports/163/S163567.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162916.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
