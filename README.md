@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:24 on 26 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:37 on 26 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>There is an object floating in the sky, moving up and down and side to side.  Then stays put for a good amount of time.  This object is blinking colors that are very bright and vibrant. Like LED's and multiple colors. Its odd because protruding from the object is what appears to be a long strip.  That strip has blinking LED lights on it that are green red and blue.  They keep flashing and i have absolutly no idea what this could possibly be.  I have never seen anything like it in my entire life..((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97381.html](http://www.nuforc.org/webreports/reports/097/S97381.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Quincy (MA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Two unidentified triangular objects circling 02169At approximately 3am a "UFO" began to circle around our house. We live on the Logan Airport's landing route but have never seen a flying object like this.  White and red lights on this object were flashing sporadically. No sound of engines.  At 4 am a second "UFO" began to circle.  First object circled about 20 times.  Once the second one appeared, the 2 circled together for about 5 times until the 1st disappeared.  The second UFO had lights much brighter than the first and is moving at a much faster speed. Both objects appeared to be in a triangle shape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97373.html](http://www.nuforc.org/webreports/reports/097/S97373.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/162/S162863.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162877.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162869.html)
-- [323](http://www.nuforc.org/webreports/reports/163/S163567.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162916.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
