@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:40:48 on 26 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:25:58 on 26 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Matamoras (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Two solid red lights moving in formation with no sound over Matamoras, PA for 2 minutes before suddenly disappearing.While watching the large moon rising in the East-Southeast through layers of mist, my husband & I saw two large solid red lights suddenly appear somewhat low in the sky - approaching from the ENE from the direction of Greenville, NY.  They looked like they had just turned in our direction.  At first it looked like a small plane with lights on each wing pointing forward – one light was higher than the other as you would see if a plane made a sharp turn.  But there was no sound.   We thought they might be lights on 2 helicopters traveling together (they looked about the height we would sometimes see helicopters traveling in our area) - but the red lights were solid - not blinking.  They moved in pretty close formation, then began to move apart from each other.  One appeared to turn away toward the east, and the two moved further apart from each other.   The light that turned away disappeared (as though the light had been extinguished).  The other light continue! d moving toward us for about another 20 seconds - then that light began to shrink and it also disappeared.  Throughout the 2-1/2 to 3 minute event, there was no sound from the lights (or whatever the lights were on).  We continued to watch for another 4-5 minutes to see if they would reappear, but they did not.  We saw one red light travel in the same direction yesterday (4-25-13) at about the same time & disappear in the same manner - also with no noise. We will go outside tomorrow night at the same time to see if it appears again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97383.html](http://www.nuforc.org/webreports/reports/097/S97383.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Otis AFB (MA) reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Small drone like craft over otis afb MaOn april 26, 2011, myself and three other people were outside smoking when we heard a strange sounding aircraft approaching.  We had all spent a good deal of time on this base over the past 10 years, so we are used to military and coast guard aircraft, but this sounded very different.  As the aircraft got closer we could see that it appeared to be an unmanned drone of some sort, but not like any we had seen before. It was white, and very short, with 2 small wings on top of the front and longer ones lower and toward the back.   It appeared to have a single prop engine in the rear.  The aircraft was flying very low, and did a number of loops around the area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88678.html](http://www.nuforc.org/webreports/reports/088/S88678.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/162/S162863.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162877.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162869.html)
-- [323](http://www.nuforc.org/webreports/reports/163/S163567.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162916.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
