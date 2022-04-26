@@ -99,6 +99,11 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
+      <a href="https://github.com/justineichelberger/justineichelberger">
+        <img align="center" style="margin:1.0rem 0.5rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=justineichelberger&repo=nuforc-sightings-database-api&title_color=C0C0C0&text_color=C0C0C0&icon_color=C0C0C0&bg_color=0D1117" />
+      </a>
+    </td>
+    <td>
       <a href="https://github.com/justineichelberger/nuforc-sightings-database-api">
         <img align="center" style="margin:1.0rem 0.5rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=justineichelberger&repo=nuforc-sightings-database-api&title_color=C0C0C0&text_color=C0C0C0&icon_color=C0C0C0&bg_color=0D1117" />
       </a>
@@ -111,11 +116,6 @@
     <td>
       <a href="https://github.com/justineichelberger/USGSEarthquakesThisWeek">
         <img align="center" style="margin:1rem 0.5rem; padding-left:18%;" src="https://github-readme-stats.vercel.app/api/pin/?username=justineichelberger&repo=usgs-earthquakes-this-week&title_color=C0C0C0&text_color=C0C0C0&icon_color=C0C0C0&bg_color=0D1117" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/justineichelberger/vacationOptimizer">
-        <img align="center" style="margin:1rem 0.5rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=justineichelberger&repo=vacation-optimizer&title_color=C0C0C0&text_color=C0C0C0&icon_color=C0C0C0&bg_color=0D1117" />
       </a>
     </td>
   </tr>
@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:33:12 on 26 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:38:59 on 26 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Whittier (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Orange, glowing fireball flying north; was fast as an airplane but not an airplane; after my bday party; no one else saw it?It was a glowing orange fireball that flew from south to north.  Me and my aunt's husband saw it for a couple minutes.  Quiet Saturday night after my birthday party.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108995.html](http://www.nuforc.org/webreports/reports/108/S108995.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Pella (IA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.2 - 0.2 minutes.</sub><blockquote><sub>Ultra-sonic diskMetallic Disk hovering 300 feet about the ground near east side of Pella.  The sun was reflecting off the object making it easy to see its shape and size.  It had to be at least 30 feet wide and 8 feet in height.  For nearly 11 seconds it hovered and just after that it instantly launched Northwestern across the town of Pella.  With a slight incline of perhaps 5 - 10 degrees in a perfect straight line for 1 mile before blasting at a complete verticle line through the clouds.  Estimating that the clouds were perhaps 10,000+ feet in altitude.  This craft was easily travely 3+ miles per second without any sonic boom.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88681.html](http://www.nuforc.org/webreports/reports/088/S88681.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/162/S162863.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162877.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162869.html)
-- [323](http://www.nuforc.org/webreports/reports/163/S163567.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162916.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
