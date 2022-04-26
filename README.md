@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:28 on 26 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:36 on 26 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Flashing an Streaking object near the moonWhile doing a video of the blood moon on April 26th, after I reviewed the video I noted the following in the video. To the far left of the moon a Bright Flash To the left (close to the moon) Bright Flash Above the moon a Streaking object Object disappeared With the direction it was going I don't believe it was a meteor.  I have extracted the frames with the flash and the streaking and preserved the video</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162916.html](http://www.nuforc.org/webreports/reports/162/S162916.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Niles (MI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>15-20 lights in the sky15-20 lights the size of the planet that is very visible in the western sky, moving southeast in an extremely straight line but all lights were not evenly spaced between each other. The speed of each object was the same and they travelled at the same speed as a fast moving airplane. The one that led the line faded away as if going into a cloud but it was a perfectly clear night with zero clouds. After the lead light faded away the next one in line then faded away. Every light seemed foggy despite it being clear outside. I ran into the house to get my phone when there were 15 left, when I was ready to take a picture there were 7 left.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155856.html](http://www.nuforc.org/webreports/reports/155/S155856.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/162/S162863.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162877.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162869.html)
-- [323](http://www.nuforc.org/webreports/reports/163/S163567.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162916.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
