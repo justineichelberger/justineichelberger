@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:43 on 26 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:44 on 26 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in San Marcos (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>Turned off the lights outside to look at the stars and my boyfriend and I saw a strange boomerang shaped craft with what can only be described as a triangle that was barely reflecting from the moon.  It was absolutely silent coming from the SW and it had no lights.  The whole thing was cloaked in what looked like a white hue where it was bending light.  At first I thought it was a fast moving cloud but I quickly realized it was something else.  It wasn't an aircraft I've ever seen and with no lights and no sound we were completely stumped.  It went in a straight movement but then it came back into our sight part and it did an interesting pattern like a falling leaf doing a loop d loop</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156299.html](http://www.nuforc.org/webreports/reports/156/S156299.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Billings (MT) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Went out side with dog before bed. Looked up into the sky and seen a trail of 15 -20 lights in a string all travelling SW at a rapid speed watched for couple minutes tried to get a photo. Lights had disappeared by the time camera on phone was enabled.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155737.html](http://www.nuforc.org/webreports/reports/155/S155737.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/162/S162863.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162877.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162869.html)
-- [323](http://www.nuforc.org/webreports/reports/163/S163567.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162916.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
