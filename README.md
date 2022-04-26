@@ -142,7 +142,7 @@
 ![neural-network-icon-16](./images/neural_network_original_greyscale_12.png "space") &nbsp;   
 ![neural-network-icon-16](./images/neural_network_original_greyscale_22.png "pgAdmin[tools[query tool]]") &nbsp;<sup><code>Query Editor</code></sup>   
 ![neural-network-icon-16](./images/neural_network_original_greyscale_13.png) &nbsp;   
-![neural-network-icon-16](./images/neural_network_original_greyscale_25.png "SQL query to find one of Frank Black's 'Ten [Percenters]' from his eponymous album 'Frank Black' released some time in between unixtimestamp(731574000) and unixtimestamp(731660399)") &nbsp;<sup><code>SELECT aptitudes, adjuncts FROM people WHERE mind LIKE ocean AND activity = 'hanging' AND location = 'harbor' AND name = '&#9001; me &#x3009;'</code></sup>   
+![neural-network-icon-16](./images/neural_network_original_greyscale_25.png "SQL query to find one of Frank Black's 'Ten [Percenters]' from his eponymous album 'Frank Black' released some time in between unixtimestamp(731574000) and unixtimestamp(731660399)") &nbsp;<sup><code>SELECT aptitudes, accoutrements FROM people WHERE mind LIKE ocean AND activity = 'hanging' AND location = 'harbor' AND name = '&#9001; me &#x3009;'</code></sup>   
 ![neural-network-icon-16](./images/neural_network_original_greyscale_24.png)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub><code>Data Output</code></sub>   
 
@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:25:58 on 26 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:23:00 on 26 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Otis AFB (MA) reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Small drone like craft over otis afb MaOn april 26, 2011, myself and three other people were outside smoking when we heard a strange sounding aircraft approaching.  We had all spent a good deal of time on this base over the past 10 years, so we are used to military and coast guard aircraft, but this sounded very different.  As the aircraft got closer we could see that it appeared to be an unmanned drone of some sort, but not like any we had seen before. It was white, and very short, with 2 small wings on top of the front and longer ones lower and toward the back.   It appeared to have a single prop engine in the rear.  The aircraft was flying very low, and did a number of loops around the area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88678.html](http://www.nuforc.org/webreports/reports/088/S88678.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Ramadi (Iraq) () reported seeing craft that fit the description of some 'Chevron' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>UFO hypnosisWhile on post awaiting relief, I witnessed a boomarang shaped formation fly from the north to southeast. This was a very peculiar sighting because Coalition fighters were in the area, flying sorties, and seemed to scatter away as the object approached Ramadi. It flew low (10,000-15,000ft), made no sound at all, and sped up and slowed down frequently. At first I decided it was a fighter formation. So I waited for the sound. It never came.My relief, walking up, saw me looking up and asked what I was looking at, he looked up and said "oh... One of ours?", I said,"I dunno? It isn't making any noise". Then I lost sight of it over a building.I briefed my relief of what took place on my shift, what to expect that night, and special orders from our CO. I started walking back to my rack when I noticed the object had stopped shortly after it left our sight. I hovered in the distance. As I watched, I noticed one of the 3 lights on the right move in and out of the formation repeatedly. I stood there scratching my head.I got angry for not being able to figure out what it was and said, "what the F%$k is that?" My relief, now on guard, walked over, looked up and said, "huh, thats so friggin wierd". As he said that it started moving east fast. Then it slowed almost to a stop, and shot off.I realized that both me and my buddy were staring at a black sky with our mouths open. I shook myself out of whatever trance I was in, looked at my buddy, who was still staring, and tapped his shoulder. He jumped a little and looked back at me. We said nothing except a mutual,"huh", and parted.I can't explain what it was. I have been out here on 2 occassions, and never witnessed anything remotely like it. After it disappeared, I just walked away without a word or second thought till later. My buddy vaugely remembers what happened. I find that very disturbing…((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36623.html](http://www.nuforc.org/webreports/reports/036/S36623.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/162/S162863.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162877.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162869.html)
-- [323](http://www.nuforc.org/webreports/reports/163/S163567.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162916.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
