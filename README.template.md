@@ -99,6 +99,11 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
+      <a href="https://github.com/justineichelberger/justineichelberger">
+        <img align="center" style="margin:1.0rem 0.5rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=justineichelberger&repo=nuforc-sightings-database-api&title_color=C0C0C0&text_color=C0C0C0&icon_color=C0C0C0&bg_color=0D1117" />
+      </a>
+    </td>
+    <td>
       <a href="https://github.com/justineichelberger/nuforc-sightings-database-api">
         <img align="center" style="margin:1.0rem 0.5rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=justineichelberger&repo=nuforc-sightings-database-api&title_color=C0C0C0&text_color=C0C0C0&icon_color=C0C0C0&bg_color=0D1117" />
       </a>
@@ -111,11 +116,6 @@
     <td>
       <a href="https://github.com/justineichelberger/USGSEarthquakesThisWeek">
         <img align="center" style="margin:1rem 0.5rem; padding-left:18%;" src="https://github-readme-stats.vercel.app/api/pin/?username=justineichelberger&repo=usgs-earthquakes-this-week&title_color=C0C0C0&text_color=C0C0C0&icon_color=C0C0C0&bg_color=0D1117" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/justineichelberger/vacationOptimizer">
-        <img align="center" style="margin:1rem 0.5rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=justineichelberger&repo=vacation-optimizer&title_color=C0C0C0&text_color=C0C0C0&icon_color=C0C0C0&bg_color=0D1117" />
       </a>
     </td>
   </tr>
