@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:47 on 27 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:10 on 27 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Santa Maria (CA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Large rectangular object with red blinking lights that formed an arch, irratic movements, low flying, suddenly disappeared.My boyfriend and I were driving home when we saw blinking lights in the sky.  The only reason why we gave it any consideration was because it was nowhere near the airport and very low flying (about 50 meters).  The craft was flying low over a residential area.  It was large, about the size of a jet.  There were many red blinking lights on the front side of the rectangle that formed an arch, and one red light on the back.  It made irratic movements from side to side, descended, then moved in a circle.  It then suddenly disappeared.  There were no other lights on the craft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50313.html](http://www.nuforc.org/webreports/reports/050/S50313.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Captain Cook (HI) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Lights seen by many, including DJ who announces location in sky.I am the on-site manager of a local low-power FM station. I received a phone call from a friend to look in the north sky. I went outside and at first couldn't see anything. I asked the friend more details where to look. There were some trees in my view that covered the portion of sky I needed to look in. I walked down to a lower house on the property for a better view and contacted the occupant. After explaining what we were looking for, I notice the first of several lights. They were yellowish and slowly accending upward. There were many of them. At that point I realized that these were not anything one would normally see in the sky. I ran back up to the broadcast booth and announced what I saw. I asked listeners to look, and we recieved many eyewitness phone reports. The lights flew in a 'question mark' formation according to some callers. Another caller described a 'backwards letter C.' From my perspective, these lights were spaced further apart. They slowly floated upward. A couple callers said they saw them float up toward space, but I stopped watching in order to announce this event quickly to the public. They were very bright, and callers closer to the area described them as being consolidated...that is, multiple lights made up each distinct object. I would say I was about 4 miles from the area the lights were flying over. Knowing the elevation of this property and the area in general, what I saw must have been flying at about 2000 ft in altitude. In the event that these were flairs, I called 911, who called the Coast Guard. I don't think at all these were flairs, but better safe than sorry. One caller suggested that they might be flairs. All the other callers after that said that they were sure they were not flairs.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62706.html](http://www.nuforc.org/webreports/reports/062/S62706.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162885.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162858.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162872.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162875.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
