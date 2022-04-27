@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:44:27 on 27 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:30:08 on 27 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Severn (MD) reported seeing craft that fit the description of some 'Circle' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>25-30 White Lights Flying Over Severn.I came outside into the back yard. Very clear night. I glanced up in the sky and immediately noticed a string of round white lights slowly flying over. One behind the other. No sound. They looked like stars. Uniform in size. There were 25-30.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155886.html](http://www.nuforc.org/webreports/reports/155/S155886.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Sonora (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub>Object noticed on film, Scoop Marks on BrotherBrian,  Oh, my GOD! Brian I was out on my back porch facing ENE and I was taking pictures of the clouds. I didn't see this until I downloaded it to my computer. I AM FREAKING OUT! They are watching us even when we can't see them? I can't figure out how I didn't see it when I was taking pictures! This is in Sonora, CA two days ago, April 27, 2004 around 8 or 8:30. The sun just started to set. The picture is attached along with the ones of the scoop mark (better quality) on my brother's back. I'm shaking now. I went back through the pictures I was taking and here's another one. This is looking over the roof. Same time as the other picture but to the North and up. If you look above the contrail, you will see what looks like a black dot. I am sending you the original digital photo. When I magnified it on my desktop, I see a UFO waaaayy up and, magnified, I see what may be windows or something. I also didn't realize the pictures I sent of my brother's scoop mark were that very night that I took these photos. Why is this happening to my family? I can't help feeling helpless. I feel frightened as well. Thank you to the people for the information. Brian Vike, Director HBCC UFO Research Home - Phone 250 845 2189 email: hbccufo@telus.net Website: http://www.hbccufo.com Redirect: http://www.brianvike.com Redirect: http://www.hbccuforesearch.com</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36632.html](http://www.nuforc.org/webreports/reports/036/S36632.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162885.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162858.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162872.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162875.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
