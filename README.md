@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:24 on 27 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:46 on 27 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Schaumburg (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright red pulsating object in sky.i walked outside to walk the dog and looked up in the sky and saw a large bright red pulsating object in the sky. per my iphone compass the object was located at 251 degrees west traveling southwest. i ran in called my kids to see the object and grab a camera and the object started to immediately get smaller and less bright, until it disap eared completely. it was not a metorite since it was not breaking up on its path. was not a plane, no flashing lights, not a planet in the sky since it was moving with no sound.  didnt get image on my flip video  it disappeared before i got it to record footage, i called schaumburg illinois police department to report object and they hadnt got any other reports at the time i had called it in. at around 10:35pm.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88702.html](http://www.nuforc.org/webreports/reports/088/S88702.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Santa Maria (CA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Large rectangular object with red blinking lights that formed an arch, irratic movements, low flying, suddenly disappeared.My boyfriend and I were driving home when we saw blinking lights in the sky.  The only reason why we gave it any consideration was because it was nowhere near the airport and very low flying (about 50 meters).  The craft was flying low over a residential area.  It was large, about the size of a jet.  There were many red blinking lights on the front side of the rectangle that formed an arch, and one red light on the back.  It made irratic movements from side to side, descended, then moved in a circle.  It then suddenly disappeared.  There were no other lights on the craft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50313.html](http://www.nuforc.org/webreports/reports/050/S50313.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162885.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162858.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162872.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162875.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
