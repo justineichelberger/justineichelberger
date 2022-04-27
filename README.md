@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:40 on 27 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:06:36 on 27 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Creve Coeur (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Red-green light viewed over central Illinois.There was a single object. The object seen was almost orb-like in shape.  It was pulsating red and green and falling at a rapid pace before it disappeared close to the horizon. The sky was clear otherwise with only stars in view.  The object stood out considerably, and was much larger.  The pulsating color was completely different than any aircraft I've seen in the area.  The other strange thing was the blurred almost tail-like effect that was caused while it fell. I was the only observer, that I know of, of the object.  I've been a believer in paranormal and UFO phenomenon for quite sometime.  This even struck me by suprise, since I have never experience such an even before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63346.html](http://www.nuforc.org/webreports/reports/063/S63346.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Cranbury/East Windsor (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 75.0 - 75.0 minutes.</sub><blockquote><sub>I just wanted to comment on someones post here regarding a 75 minute event that took place in Cranbury NJ. I walk the dogs at night out on the court yard lawn to my apartment complex on the border of Cranbury/East Windsor I have no obstruction to the night sky and not to mention my apartment resides on the second floor which faces west but I can see from the direction of north,west,a little east, and south. Anyway long story short the so called UFO this person was seeing is exactly as the police dept mentioned. It was spotlight for event gathering in plainsboro neighboring town. I cannot believe someone would stare at the same light rotating for 75 minutes and come to a conclusion that it is a ufo. On the other hand I have purchased a HDD camcorder with 80gig drive (HDD HARD DISK DRIVE) SOny I leave it running at night aimed out at the night sky and run it all night then during the day scan through in fast motion hoping to find some oddity. If I ever capture something I will post it here because evidence is what people want and its more credible. Occurred : 3/30/2007 23:12 (Entered as : 03/30/2007 23:12) Reported: 3/31/2007 10:36:33 PM 22:36 Posted: 4/27/2007 Location: East Windsor (Cranbury), NJ Shape: Light Duration:Around 75 Minutes((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58820.html](http://www.nuforc.org/webreports/reports/058/S58820.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162885.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162858.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162872.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162875.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
