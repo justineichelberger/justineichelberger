@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:06:36 on 27 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:29 on 27 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Cranbury/East Windsor (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 75.0 - 75.0 minutes.</sub><blockquote><sub>I just wanted to comment on someones post here regarding a 75 minute event that took place in Cranbury NJ. I walk the dogs at night out on the court yard lawn to my apartment complex on the border of Cranbury/East Windsor I have no obstruction to the night sky and not to mention my apartment resides on the second floor which faces west but I can see from the direction of north,west,a little east, and south. Anyway long story short the so called UFO this person was seeing is exactly as the police dept mentioned. It was spotlight for event gathering in plainsboro neighboring town. I cannot believe someone would stare at the same light rotating for 75 minutes and come to a conclusion that it is a ufo. On the other hand I have purchased a HDD camcorder with 80gig drive (HDD HARD DISK DRIVE) SOny I leave it running at night aimed out at the night sky and run it all night then during the day scan through in fast motion hoping to find some oddity. If I ever capture something I will post it here because evidence is what people want and its more credible. Occurred : 3/30/2007 23:12 (Entered as : 03/30/2007 23:12) Reported: 3/31/2007 10:36:33 PM 22:36 Posted: 4/27/2007 Location: East Windsor (Cranbury), NJ Shape: Light Duration:Around 75 Minutes((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58820.html](http://www.nuforc.org/webreports/reports/058/S58820.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Brookhaven (PA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Glowing hovering multi colored sphere hovering above main st school brookhaven.I was taking my dog for a late night routine walk when I seen this glowing ball of light hovering behind the main st elementary school woods.  I was a block away when I heard this strange oddly pitched humming.  Then when I looked up there was this huge ball of light which glowed beyond the woods horizon.  It glowed a firey red, then to orange, yellow, green, blue.  After watching it for about five minutes floating there, it descended beyond the tree line and my vision. I know it was no flare and it defied gravity/was giving out a strange noise.  My dog was also whinning and pulling on the leash to leave the area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108949.html](http://www.nuforc.org/webreports/reports/108/S108949.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162885.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162858.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162872.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162875.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
