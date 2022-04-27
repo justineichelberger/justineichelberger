@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:02:04 on 27 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:11:28 on 27 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Rubikiai (Lithuania) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Light lands , brightens , shoots up and disappearsSo my grandmother in Lithuania in a village called Rubikiai near the city Anyksciai was looking through the window while she was on the phone with my mum and I was next to her me and my mum were in the uk while we were talking to her on the phone. Suddenly my grandmother said on the phone nearly crying that there was a light landing till the ground then it brightened but it had another little light with it and shooted right up and disappeared. Then today on the 28th she I called her to tell me the story and she said she couldn't sleep all night after what she saw which was on the 27th.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97441.html](http://www.nuforc.org/webreports/reports/097/S97441.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in South Portland (ME) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>My husband saw a sparkle in the sky and thought it was a balloon.  I thought it was too high up and big to be a balloon so I grabbed my camera with a super zoom on it and was able to get 2 photos (camera is auto focus so it was really difficult to focus on the object) It's an s shaped object easily as high up as a plane and possibly as large, unfortunately there's no real scale or perspective.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162875.html](http://www.nuforc.org/webreports/reports/162/S162875.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162885.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162858.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162872.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162875.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
