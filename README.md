@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:37 on 27 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:40 on 27 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Lansdale (PA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>UFO'S playing in the sky.I have several video's.  Two cigar like objects that would seperate and unite. A lso they could bend.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155972.html](http://www.nuforc.org/webreports/reports/155/S155972.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Alto (NM) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.8333333333333334 - 0.8333333333333334 minutes.</sub><blockquote><sub>A triangle craft in the night sky being followed by a cluster of white lights.I was drawn outside by the sound of military jets flying high and fast above my neighborhood.  I stepped out to a second floor deck and spotted the triangle in the west.  The triangle had evenly spaced round white lights on all three edges, a red light was visible in the center.  It was being followed by a cluster of blinking and brilliant pinpoint white lights, it was all really quite beautiful.  As the lights were blinking it was difficult to count the number, but it seemed to be between five and seven.  All of these lights and the triangle in the lead were headed southeast, as well as the sound of the jets that seemed to be following.  If I held my arm straight and placed a quarter between my thumb and forefinger that would approximate the size of the triangle in the night sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127084.html](http://www.nuforc.org/webreports/reports/127/S127084.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162885.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162858.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162872.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162875.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
