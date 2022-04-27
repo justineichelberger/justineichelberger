@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:37 on 27 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:37 on 27 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1983, an anonymous witness in Blythe (AZ) reported seeing craft that fit the description of some 'Changing' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Ball of fire that split into two, moved in and out at light speed, formed as one again and landed on the ground.I was traveling with two other people in a semi coming back from San Francisco.  We had just crossed over into Arizona when I saw what I thought was a meteor heading towards the earth.  It started to get so close to the ground that we pulled the truck over to observe.  Other vehicles on I-10 also pulled over and watched this most amazing sight.  In a split second the object stopped dead in its tracks and hovered there making a whomm whomm whomm sound.  Then it split into two balls of like fire and started moving in and out of each other.  It looked like the sign for atomic energy!  After I have no idea how long, it formed toghether as one and landed on the ground.  I have no idea how much time passed before everyone that had stopped just got back into their vehicles and drove away.  This experience has had a profound impact on my life and opened my mind to other forms of intelligence.  It is something that I will never forget!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56862.html](http://www.nuforc.org/webreports/reports/056/S56862.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Chateauguay (Canada) (QC) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Cigar shaped , bright flashing red/white lights, no sound.I was woken up by my mom at 12am to see what she said was a "UFO" in the window in front of our house.  I didn't really believe her and thought she was joking but i got out of bed and went to see what she was talking about and what i saw was 4 flashing lights with bright white/red colors (sort of like the ones you have on planes) and it was big like 3 or 4 houses that we live here in chateauguay side by side in length.  It was just hovering at low altitude at very slow speed over a distance of maybe 2-3 blocks from our home.  I obviously doubted my self if what i was seeing was a "UFO" or something else but the thing made zero sound.  Even small remote controlled drones (which is what i thought it might be even though it was 12am on a sunday) make alot of noise.  So i told my mom to move away from the window, and went back to my room.  Two minutes later my dog (a german shepherd) starts barking while looking out of our window, so i got up to see! what she was barking at, and i looked around my street for people or maybe someone was next to my car, my neighbors cars trying to steal it or something, but there was absolutely nothing and all the neighbors houses lights were off and there were no passing cars either. All of a sudden, while i'm looking straight at my neighbor's house front window, i see red flashing lights reflect out of nowhere and i looked around to see where it could be coming from but there still were no cars or people passing in my street, and thats when i realised it was probably hovering right over the roof of my house.  I then told my dog to stop barking and go away, and went to bed myself.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118664.html](http://www.nuforc.org/webreports/reports/118/S118664.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162885.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162858.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162872.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162875.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
