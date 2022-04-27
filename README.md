@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:37 on 27 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:19 on 27 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Chateauguay (Canada) (QC) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Cigar shaped , bright flashing red/white lights, no sound.I was woken up by my mom at 12am to see what she said was a "UFO" in the window in front of our house.  I didn't really believe her and thought she was joking but i got out of bed and went to see what she was talking about and what i saw was 4 flashing lights with bright white/red colors (sort of like the ones you have on planes) and it was big like 3 or 4 houses that we live here in chateauguay side by side in length.  It was just hovering at low altitude at very slow speed over a distance of maybe 2-3 blocks from our home.  I obviously doubted my self if what i was seeing was a "UFO" or something else but the thing made zero sound.  Even small remote controlled drones (which is what i thought it might be even though it was 12am on a sunday) make alot of noise.  So i told my mom to move away from the window, and went back to my room.  Two minutes later my dog (a german shepherd) starts barking while looking out of our window, so i got up to see! what she was barking at, and i looked around my street for people or maybe someone was next to my car, my neighbors cars trying to steal it or something, but there was absolutely nothing and all the neighbors houses lights were off and there were no passing cars either. All of a sudden, while i'm looking straight at my neighbor's house front window, i see red flashing lights reflect out of nowhere and i looked around to see where it could be coming from but there still were no cars or people passing in my street, and thats when i realised it was probably hovering right over the roof of my house.  I then told my dog to stop barking and go away, and went to bed myself.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118664.html](http://www.nuforc.org/webreports/reports/118/S118664.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Chesapeake (VA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Five lights (looked like stars) moving south one behind the other and disappeared in succession.Was out on back porch and looked up toward the east.  The sky was clear and I saw about five lights, they looked exactly like stars, moving in a perfect line southbound.  The lights were perfectly distanced apart (about 20 feet) and appeared extremely high.  The lights were moving a bit faster than an airliner would fly at cruising altitude.  After about 10 seconds, the first light disappeared and the remaining lights all disappeared in succession at the same spot the first light disappeared. The area where I live is near Fentress Airfield which is a landing practice field for the USN. I have been around military aircraft most of my life and know these lights were not known aircraft (civilian or military). There was no sound at the time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155955.html](http://www.nuforc.org/webreports/reports/155/S155955.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162885.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162858.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162872.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162875.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
