@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:36 on 27 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:40 on 27 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Durham (UK/England) () reported seeing craft that fit the description of some '' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Red static light tri light pass moving slowly south.  10 miles south of Durham.  Then two more hovering lower close to ground in heavy fog 5 mile south of Durham.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108943.html](http://www.nuforc.org/webreports/reports/108/S108943.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Creve Coeur (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Red-green light viewed over central Illinois.There was a single object. The object seen was almost orb-like in shape.  It was pulsating red and green and falling at a rapid pace before it disappeared close to the horizon. The sky was clear otherwise with only stars in view.  The object stood out considerably, and was much larger.  The pulsating color was completely different than any aircraft I've seen in the area.  The other strange thing was the blurred almost tail-like effect that was caused while it fell. I was the only observer, that I know of, of the object.  I've been a believer in paranormal and UFO phenomenon for quite sometime.  This even struck me by suprise, since I have never experience such an even before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63346.html](http://www.nuforc.org/webreports/reports/063/S63346.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162885.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162858.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162872.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162875.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
