@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:11:28 on 27 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:06:57 on 27 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in South Portland (ME) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>My husband saw a sparkle in the sky and thought it was a balloon.  I thought it was too high up and big to be a balloon so I grabbed my camera with a super zoom on it and was able to get 2 photos (camera is auto focus so it was really difficult to focus on the object) It's an s shaped object easily as high up as a plane and possibly as large, unfortunately there's no real scale or perspective.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162875.html](http://www.nuforc.org/webreports/reports/162/S162875.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Anderson (SC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Round, black basketball-like, silent flying object.I observed for about a minute a black basketball-like object as it traveled north with no sound or lights.  I first thought it might be a drone, but it was jet black, perfectly round, and drones are required to have aviation lights, and this object had no lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145900.html](http://www.nuforc.org/webreports/reports/145/S145900.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162885.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162858.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162872.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162875.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
