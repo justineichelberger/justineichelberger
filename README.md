@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:50:18 on 28 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:27:02 on 28 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Stamford (CT) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Two craft over pond with pilot and electronic equipment to make contact with lighted hollograms observed through digital camera.Two lights over pond in woods, one bright and the other larger and wider of orange color which appear after 7:30 PM.  Camera observation reveals two rectangular craft one under the other. Both craft on right side have a face that changes its expression. Left side of craft (person’s view) is bright and portioned by wavy panel. A life form to the right of the panel appears to be piloting craft, is aware of our observation, and has been observed to wave and beam out lighted hologram faces. The top craft on its top left side has an electronic type of projection that appears as a face hologram. At its neck level, computer like instrument panel has small light that has flickered like robot talking. Observation conforms to Vallee’s Type – I (b) (c) classification description. When brighter light is observed, it grows in intensity and size.((NUFORC Note:  Source of report indicates that date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62944.html](http://www.nuforc.org/webreports/reports/062/S62944.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Olympia (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Two straight lines of light in the starless night sky, about 5 lights each.  First red, others white.  Stationary. No stars out.Over Sylvester Park. Cloud cover, no stars out.  Straight line of lights, First on left reddish other lights white. Two similar, about as high as most large planes.  Not moving. About as long as my straight index finger in size when I held my finger up to measure.Watched on and off for half an hour.  Told someone else I know who also saw the one on left I pointed out to her.  She wasn't all that interested, commented, "They must be looking at us, observing all here in the Park".  A large event in Olympia."  Procession of the Species" the evening light event.  This wasn't something projected into the night sky, I stopped watching on and off to watch the parade and left.  Don't know how long the two straight lines of light lasted. Very bizarre.  Like Orions belt but closer together.  I was tempted to ask others what they thought of the objects, but only asked someone I knew to look at it.I didn't think to try and photograph the two objects.  I've lived in the medical field all my life.  Only saw UFO objects back in the mid fifties as a teen with a boyfriend.  A fleet of craft came into view, flew across the sky, and vanished, as if into a slot.  Both of us saw the same objects.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133875.html](http://www.nuforc.org/webreports/reports/133/S133875.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [295](http://www.nuforc.org/webreports/reports/162/S162879.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162884.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162893.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163606.html)
-- [291](http://www.nuforc.org/webreports/reports/163/S163312.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
