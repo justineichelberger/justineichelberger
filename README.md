@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:27:02 on 28 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:17:43 on 28 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Olympia (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Two straight lines of light in the starless night sky, about 5 lights each.  First red, others white.  Stationary. No stars out.Over Sylvester Park. Cloud cover, no stars out.  Straight line of lights, First on left reddish other lights white. Two similar, about as high as most large planes.  Not moving. About as long as my straight index finger in size when I held my finger up to measure.Watched on and off for half an hour.  Told someone else I know who also saw the one on left I pointed out to her.  She wasn't all that interested, commented, "They must be looking at us, observing all here in the Park".  A large event in Olympia."  Procession of the Species" the evening light event.  This wasn't something projected into the night sky, I stopped watching on and off to watch the parade and left.  Don't know how long the two straight lines of light lasted. Very bizarre.  Like Orions belt but closer together.  I was tempted to ask others what they thought of the objects, but only asked someone I knew to look at it.I didn't think to try and photograph the two objects.  I've lived in the medical field all my life.  Only saw UFO objects back in the mid fifties as a teen with a boyfriend.  A fleet of craft came into view, flew across the sky, and vanished, as if into a slot.  Both of us saw the same objects.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133875.html](http://www.nuforc.org/webreports/reports/133/S133875.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Idaho Falls (ID) reported seeing craft that fit the description of some '' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Sheriff's deputy sees EXTREMELY bright blue-green ball of light--"1/2 diameter of moon"--streak down, disappear. Lit 1/4 of NW sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01445.html](http://www.nuforc.org/webreports/reports/001/S01445.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [295](http://www.nuforc.org/webreports/reports/162/S162879.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162884.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162893.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163606.html)
-- [291](http://www.nuforc.org/webreports/reports/163/S163312.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
