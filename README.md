@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:43 on 27 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:37 on 28 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Williamsburg (VA) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>three aligned lights: white, red, whiteDriving home, on a very clear night, around 9:30 p.m., I noticed 3 very bright lights up in the sky. They were aligned, with little or no space in between. The two peripheral lights were extremely bright and white, and the center light was red. They were not flickering. The white lights were much larger than the center. This object was stationary the entire time, was very big, and extremely vivid. After three or four minutes, I  briefly (for a couple seconds)  looked down at the road and when I looked up again, it was gone. The sky was open and I tried to look for it again, but I couldn't find it. I have no idea where it went.  After arriving home five minutes later, I received a phone call and the service was interrrupted. No dial tone. Using my cell phone, I called the telephone company. They normally can tell you if your service needs repair from inside the house or out. They could not with mine. I then tried calling our security gate (we live in a secured development) and their phones were also out of order.  I called our phone company again and they said that our security gate uses a different telephone provider and that it was a "coincidence" that their phones were out, too. I then drove up to our gate. Their phones were indeed out, as well as other residents' in our neighborhood who had reported. The security also told me that their communication radios in their vehicles were not functioning.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50315.html](http://www.nuforc.org/webreports/reports/050/S50315.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>ship was very large, dark in color it just floated very little movment for 5 min. or so and then pulled away very slowley and disappeared.theres a jet in the background with a contrail.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75334.html](http://www.nuforc.org/webreports/reports/075/S75334.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162885.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162858.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162872.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162875.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
