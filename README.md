@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:17:43 on 28 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:01:15 on 28 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Idaho Falls (ID) reported seeing craft that fit the description of some '' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Sheriff's deputy sees EXTREMELY bright blue-green ball of light--"1/2 diameter of moon"--streak down, disappear. Lit 1/4 of NW sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01445.html](http://www.nuforc.org/webreports/reports/001/S01445.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Cheboygan (MI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>we were looking for satellites when we saw three objects flying in a triangular formation in spaceMy fishing buddy and I are both 38 years old, and of sound mind. I am a successful, professional meteorite hunter as a part time occupation, carpet installer the other part.My friend is a lifetime carpenter in high demand, because his fine work and integrity.Neither one of us has ever seen a UFO before, we arn't UFO nuts or anything like that, in fact we have always been very skeptical of all that 'nonsense'.While up in northern Michigan, doing some trout fishing, we had a strange occurance that we can't figure out. We were sitting around a small campfire looking up at the stars, looking for satellites when we spotted three lights in a triangle pattern that looked as high as the stars. They were not colored, nor were they blinking, they looked like stars. At first the movement across the sky was barely perceptible, you had to watch them close, then it was apparent they were indeed moving, from west or southwest to east or north east, not exact on that, I would have to go back with a compass to know for sure. We were thinking you know, that satellites don't fly in formation do they? They seemed to be going too slow, it took a full 5 minutes for them to traverse the piece of sky we were looking at, which was limited due to surrounding trees. If you held your hand out at arms length and measured the distance between the three objects with your fingers, it was  about an inch between each of the three lights making a triangle. That would translate into a great distance relatively speaking. There were definately 3, I could see between them as they passed stars.Just before they got to the trees and left our sight, a real satellite shot from the north and crossed their path and proved beyond a doubt that the three objects were way out in space, because the satelite was between us and them, and infact was rediculously close to us in comparison to the  UFO's. The satellite whizzed past, and the UFO's were still there, just cruising, until they were gone.That's my story, strange but true.((NUFORC Note:  We believe that the U. S. Navy "NOSS" satellites, which appear in a triplet,  would be the first possibility that would have to be ruled out.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29005.html](http://www.nuforc.org/webreports/reports/029/S29005.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [295](http://www.nuforc.org/webreports/reports/162/S162879.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162884.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162893.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163606.html)
-- [291](http://www.nuforc.org/webreports/reports/163/S163312.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
