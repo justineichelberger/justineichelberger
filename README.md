@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:51 on 28 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:43 on 28 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Sarasota (FL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>white cigar shaped ufo not flying then dissappeareddriving northbound on 41, hovering beyond the airport view, which was on my right...  was a cigar shaped object.  it was white, then color faded until it dissappeared, it did NOT travel or move. it was stationery.After you blow the pictures up, we noticed 3 dots high above and in the other picture something above the airplane. it was very bright and distint to the human eye, my phone camera does not do justice.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88708.html](http://www.nuforc.org/webreports/reports/088/S88708.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Albuera (Philippines) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately unkown - unkown minutes.</sub><blockquote><sub>It looked like a metiorite but was rainbow colloredI was watching a basketball game at our small town when suddenly a rainbow collored meteorite or something quickly passed above me and disappeared, and i also saw it 2-3 times i can't remember, this happened in gungab, albuera, leyte, philippines.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97508.html](http://www.nuforc.org/webreports/reports/097/S97508.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [295](http://www.nuforc.org/webreports/reports/162/S162879.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162884.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162893.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163606.html)
-- [291](http://www.nuforc.org/webreports/reports/163/S163312.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
