@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:12:53 on 28 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:35 on 28 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Santa Cruz (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>One large white orange to gold roundish, Looked like incoming meteor at first then slowed and did a slow complete circle up and around and down again!! Stoped and waffled alittle and was joined by 6 or so smaller orbs of light..on every 1/2 sec or so just above each other in a sequence..blinked slowly on and off then moved slow in formation one after another to tthe right and changed shape and then faded slowly .I was walking my daughter home in the early evening....as we approched the long drive in to her mothers apartment complex we saw what looked like a meteor..very large and beautiful if a bit slow. I thought .. a comet?? But it was goldish and throwing a long orangish trail of sparks...then it did a slow upward swirl and I just about lost it...We had to move 30 ft or so with our view blocked by trees untill we reached the driveway where we saw it again and this confimed that it was quite distant and not a kite or somethig close by. Two other people shouted...Can you see it?? What the heck is it??? We hurred up to join them looking about 15 degrees about the SE horizon into 98% darkend sky. The object was waffleing to and fro fading in and out geting larger and then smaller. It is hard to say how large but I would estimate at least fifty feet or so in diameter.. maybe much larger. It was whitish to gold..mostly gold or amber. after about 30 sec or so just above the first object a smaller by 1/5 or so light appeared just for a sec followed by another just above it and then another and another...about 6 in all additional smaller lights. It was compleatly in sinc one after another in a stack above the large object. They then twinkled a little and moved one at a time of to the right each one further than the previous changing shape near the end of travel into a kind of oblong fluidlike blob and slowly fading out. This was I guess 2min or so and they twinkeled and swirlled around and took off...fading as they went. We saw the strobes of approaching aircraft(conventional) moving in from the west...and that was it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07073.html](http://www.nuforc.org/webreports/reports/007/S07073.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Suffolk (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately Still ongoing - Still ongoing minutes.</sub><blockquote><sub>Two hovering ufos in my neighborhood skyline.The shapes are just bovering in the sky!  They are far to bright to be planes or helocopters;  and even so,  both would be moveing (a helicopter-- acumpanyed by ysound at least-- for that is common of our helocoptors,  we always hear them).  However, I did see a plane flying in the sky not too far from it, but I don't think it noticed, but just seeing them side by side I knew they were not anywhere near the same aircraft.  They have flickering lights.  One is hovering in the sky in my front yard,  the other in the back yards skyline doing the same.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139651.html](http://www.nuforc.org/webreports/reports/139/S139651.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [295](http://www.nuforc.org/webreports/reports/162/S162879.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162884.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162893.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163606.html)
-- [291](http://www.nuforc.org/webreports/reports/163/S163312.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
