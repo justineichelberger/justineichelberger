@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:01:01 on 28 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:44 on 28 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Kandahar (Afghanistan) () reported seeing craft that fit the description of some 'Disk' over a period of approximately unk - unk minutes.</sub><blockquote><sub>Disk shape captured in photo of project site in Kandahar Afghanistan.I work for the U.S. Government in Kandahar Afghanistan.  I was taking photos of an area for a new project site and later noticed an object captured in the photo.  I did not see the object when taking the photo.  It is not dust, debris, or known military aircraft.  I have worked for the government all my adult life, mostly in aviation, and heve never seen anything like this.  Naturally, the photo is blury, but when zooming in on the object it is obvious it is disk shaped and must have been flying at a higr rate of speed for me not to have seen it.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64409.html](http://www.nuforc.org/webreports/reports/064/S64409.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Hackettstown (NJ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>two bright spheres moving very fast and erraticat approx 9:30pm I was standing outside looking at the sky. The sky was clear and windy and cold. The moon was almost full. The wind kicked up quite a bit and I saw a patch of clouds pas by the moon. Just then to my left, I observed 2 bright spheres traveling across the sky. The one sphere was steady and the other was moving around it. The one sphere was on top and then it would move around to the front of it and below, very eradictly. I observed these spheres for about 15-20 seconds. they moved faster than any airplane i have ever seen and they were above the clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60324.html](http://www.nuforc.org/webreports/reports/060/S60324.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [295](http://www.nuforc.org/webreports/reports/162/S162879.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162884.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162893.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163606.html)
-- [291](http://www.nuforc.org/webreports/reports/163/S163312.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
