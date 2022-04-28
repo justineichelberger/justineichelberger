@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:40 on 28 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:37 on 28 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Farmington Hills (MI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Blinking lights ,spkere shapedIt was about 7:10 p.m. tonight, I was at work checking on some mechanical equipment, when I saw a jet leaving a large contrail.  I immediately noticed 3 objects blinking on and off going in multiple directions.  They would be on for a second or two then go off and reappear again in a different area.  They appeared directly overhead and I would estimate to be very high up like tens of thousands of feet.  I was trying to get pictures but when my phone camera was turned on I looked up and they were gone.  Very weird I thought!  I am an avid skywatcher and have never seen something like this before...especially in daylight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145911.html](http://www.nuforc.org/webreports/reports/145/S145911.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Orange lights looking like they are playing leap frog.Orange fading lights over the Atlantic Ocean following by a group of the same lights, looking like a big runway.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127087.html](http://www.nuforc.org/webreports/reports/127/S127087.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [295](http://www.nuforc.org/webreports/reports/162/S162879.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162884.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162893.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163606.html)
-- [291](http://www.nuforc.org/webreports/reports/163/S163312.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
