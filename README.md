@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:42 on 28 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:42 on 28 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Cottonwood (AZ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>flew from East to West in straight line, flat circular object with dim white lights around edges.  Seem to become brighter and then vanished.  Appeared larger than commercial jet. Had no sound.  Very fast,visible for only 5 seconds.  Had no trail.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155905.html](http://www.nuforc.org/webreports/reports/155/S155905.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Algoma (WI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>4 brightly lit crafts traveling at different speeds, low elavation, with no sound present.Spotted 1 object heading east to west but turned south to follow the shore line. It appeared to be at a elevation a report helicopter would be at. The light is what attracted my attention very bright red similar to the intensity of a rescue flare. I have never seen a light like that on any flying aircraft. Shortly after the 1st 3 more appeared from the same eastern point but continued due west directly over me. Same elevation following roughly the same path the 3rd craft did close the gap of the 2nd so they were traveling at different speeds. A very few low clouds were present at the time and i witnessed them change elevation as the lights flickered as they passed through the clouds. No to light winds were present at time of sighting.  The strangest thing i witnessed during the event which was the deciding factor for me to submit this report.  With no wind and 4 low flying object traveling at a reasonable speed as any average plane would fly, I heard absolutel! y no sound, not one hint of an engine was present during the entire event and even after they disappeared from sight. I am a 47 yr old university educated male who travels for a living. I have never seen or reported anything like this in my entire life. The second witness was sitting on a street bench talking on his cell phone when i pointed out the last 3 crafts that appeared directly overhead. He confessed to me he too had never seen anything like this before. With the intensity of the lights i would be very certain others have witnessed the same objects.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88726.html](http://www.nuforc.org/webreports/reports/088/S88726.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [295](http://www.nuforc.org/webreports/reports/162/S162879.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162884.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162893.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163606.html)
-- [291](http://www.nuforc.org/webreports/reports/163/S163312.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
