@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:43 on 28 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:54:45 on 28 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Lancashire (UK/England) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>4 spheres apeared from nowhere and left at high speed.four bright obgects moving at high speeds and comming to a sudden stop. appeared to be following a lead craft which appeared pulsating blue. circling over a housing estate in Bury lancashire. over the dickybird estate.Then eccselerated to the north at a unbelivable high speed about 5 mins later, hellicopters appered with search lights but they had gone.((NUFORC Note:  Source of report is anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17451.html](http://www.nuforc.org/webreports/reports/017/S17451.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Bristol/Canandaigua (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>an object that was bigger than the light it projected , which through binoculars you could see some of the outline that was not litI seen an almond shaped disk type object hovering over the hills where my property overlooks . There were two other ones similiar but they would change shape as they moved back and forth , up and down . I have been trained to know the difference between planes, satellites and stars ...and these were none of those . They moved within milliseconds of any activity in the sky that I have ever seen . This is not the first time for me in witnessing ufo activity , but this was the first time they got this close where it felt like they were right on top of me, watching me as I watched them.  If you stared into binoculars , you could see almost every turn they made and as they did , it changed from almond shape , to disk shape to something that seemed perfectly round , as though it hovered right over my house . There was a design ion the bottom of this one craft , almost looked like that of a phoenix or some type of fancy geometrical design . The one that came the closest was mostly grey that would shift into a bright blue , white and then it would flash something red once in a while . It had an aura around it and it would move towards the other two in the sky (which were farther away then the one I was observing), when that happened then the other two would seem to move rapidly and disappear at random moments and then reappear . As I watched this one come closer , I could feel a "pull" that is hard to explain unless someone knows or has experienced what I am talking about . I was outside when this happened and these objects were appearing in the eastern skies . I stood there studying them for about 3 hours . I lost track of time and then became too tired to continue . I remember before walking into the house around 3 am , there was a huge thing that swept right under it (the object)on my final glance and I am sure how to explain that one . Out of all the "suspected" ufos I have seen , this one concerned me most .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36602.html](http://www.nuforc.org/webreports/reports/036/S36602.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [295](http://www.nuforc.org/webreports/reports/162/S162879.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162884.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162893.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163606.html)
-- [291](http://www.nuforc.org/webreports/reports/163/S163312.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
