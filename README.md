@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:35 on 28 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:40 on 28 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Suffolk (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately Still ongoing - Still ongoing minutes.</sub><blockquote><sub>Two hovering ufos in my neighborhood skyline.The shapes are just bovering in the sky!  They are far to bright to be planes or helocopters;  and even so,  both would be moveing (a helicopter-- acumpanyed by ysound at least-- for that is common of our helocoptors,  we always hear them).  However, I did see a plane flying in the sky not too far from it, but I don't think it noticed, but just seeing them side by side I knew they were not anywhere near the same aircraft.  They have flickering lights.  One is hovering in the sky in my front yard,  the other in the back yards skyline doing the same.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139651.html](http://www.nuforc.org/webreports/reports/139/S139651.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Farmington Hills (MI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Blinking lights ,spkere shapedIt was about 7:10 p.m. tonight, I was at work checking on some mechanical equipment, when I saw a jet leaving a large contrail.  I immediately noticed 3 objects blinking on and off going in multiple directions.  They would be on for a second or two then go off and reappear again in a different area.  They appeared directly overhead and I would estimate to be very high up like tens of thousands of feet.  I was trying to get pictures but when my phone camera was turned on I looked up and they were gone.  Very weird I thought!  I am an avid skywatcher and have never seen something like this before...especially in daylight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145911.html](http://www.nuforc.org/webreports/reports/145/S145911.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [295](http://www.nuforc.org/webreports/reports/162/S162879.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162884.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162893.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163606.html)
-- [291](http://www.nuforc.org/webreports/reports/163/S163312.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
