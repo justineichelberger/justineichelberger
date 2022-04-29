@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:24 on 29 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:41:47 on 29 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Bright light ball seen over Ballard extraordinary  speed.I was in my room looking out of the window northwards when I saw a very bright (yellowish gold) round object (bigger than a star but about an eighth the size of the moon) traveling in front of the clouds shoot from the west at an upwards angle towards the east and disappear (not behind the clouds from what I saw).It was too fast for any commercial aircraft and was certainly not Venus.  It is possible that it was a meteor, but it’s angle and trajectory were wrong.  Also it had no tail.This took place around 8:45 to 9:00 pm.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69887.html](http://www.nuforc.org/webreports/reports/069/S69887.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Moorehead (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two lights to become three, a rescue mission?We first saw two red lights moving from northwest to southeast at varying speeds.  The lights seemed to be racing eachother, but in a hurry to get to a destination.  We watched them move quickly then pause then quickly again and then they disappeared.  Approximately 5 minutes later, we saw three lights holding formation of a triangle, but clearly they were three seperate lights moving with the same speed and manuverability as the two we saw beforehand.  We aren't sure that there were only three, but they seemed to be the same so we assume there was one light (vessel) the other two needed to get...PURELY SPECULATION... but that is what we saw...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17463.html](http://www.nuforc.org/webreports/reports/017/S17463.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162891.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162878.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163219.html)
-- [303](http://www.nuforc.org/webreports/reports/164/S164013.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162895.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
