@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:04:35 on 29 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:45 on 29 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Covington (KY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>2 spheres about a foot apart colliding together and back apart.There were 2 flying spheres flying above my apartment building.  The objects were closer than a plane would be.  The 2 spheres flew about a foot apart and would collide together and back out.  As it flew over the lights flickered.  I watched it until It flew too far into the distance.  Soon after a plane flew by and it looked nothing like the object seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155919.html](http://www.nuforc.org/webreports/reports/155/S155919.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Plant City (FL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two objects that at first appeared to just be stars were moving in two different formations in the night sky.I had just arrived at my home in Plant City, Florida after visiting a friend of mine in Tampa earlier that evening. I had travelled with the t-tops of my Pontiac TransAm off and was admiring the night sky as I parked the vehicle in my back yard.As I looked toward the constellation Gemini, I did a double take. Two stars appeared to be moving. They were moving slowly from west to east. One was following directly behind the other and and was to the mind's eye a distance of between two fingers making a "victory" sign. In order to rationalize what I was seeing, I wondered if these were two satellites in a linear orbit. I have seen single satellites in orbit both at night and near dusk, but I have never seen one follow the other. As I continued to watch, the second light moved southward and caught up with the front light. The two lights then continued to proceed eastward directly in formation (seperated by now the distance between the index and little finger) just above Ursa Major and literally faded from view. A northbound commercial airliner at approximately 25,000-35,000 feet agl on a nortwesterly heading was visible in the lower eastern sky. By comparison, these two objects appeared to be much, much higher than the commercial aircraft. What was the most fascinating thing about this sighting was the almost scary ability of the two craft to blend in with the stars. Unless you spotted them and followed their movement, you wouldn't even think that anything out of the ordinary was occuring in the night sky. I can still not rationalize what these two objects were, nor how to explain their movements. Did any satelite or space station activity occur over central Florida at that time?  Thanks((NUFORC Note:  We assume that the witness describes above the launch of a Titan IV missile out of Cape Canaveral, which occurred at 20:55 hrs. (Eastern) on this date.  The missile apparently was launched to the northeast, so it was visible along the eastern shoreline of the U. S..  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43721.html](http://www.nuforc.org/webreports/reports/043/S43721.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162891.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162878.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163219.html)
-- [303](http://www.nuforc.org/webreports/reports/164/S164013.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162895.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
