@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:38 on 29 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:47 on 29 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>orange lights over Portland ORA group of 5 objects orange in color circled over the city and where fallowed by a group of 2. I was wondering if any other then the people we were with saw this??((NUFORC Note:  One of several sighting reports from residents of Portland.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50361.html](http://www.nuforc.org/webreports/reports/050/S50361.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Lysander (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Bright orange light.The color was a bright orange, from a distance.  This was spotted twice already.  And I'm looking to see it again, tonight.  The first time we spotted this, it was late a night.  Then this morning, I stared at this thing, saying to myself:  What the Hell is that?  This light is seen from Floridaville Rd.  So I'm wondering, are there any helicopters?  Because before the 5 am spotting, around 10 pm last night, there were a lot of planes in the sky, and the light.  A plane, flys above this thing, which by the way hovers near the ground, so it's not a plane.  But as the plane flys over it, this thing moves suddenly.  So, wasn't sure if it was a helicopter, then again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109032.html](http://www.nuforc.org/webreports/reports/109/S109032.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162891.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162878.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163219.html)
-- [303](http://www.nuforc.org/webreports/reports/164/S164013.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162895.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
