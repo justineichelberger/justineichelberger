@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:12:19 on 29 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:33 on 29 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Corydon (IN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Sighting: Date: 	April 29, 2021 Location: Corydon, Indiana Time: Approx. 10:45PM Weather: Partly cloudy with rain Visual observers: 2 Description: 3 rows of football shaped white lights heading in a northerly direction.Rows seemed to appear to be in a formation flight.Each row contained 6 lights that appeared to be in an alternating diagonal line.Behind the 3 rows there were at least 4 separate lights that were not in a formation and appeared to be trying to catch up with the other rows.The lights seemed to be using the storm front for their movement.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163219.html](http://www.nuforc.org/webreports/reports/163/S163219.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Elmsford (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>3 bright orange orbssaw one bright orange light move slowly across the sky followed by two more coming behind the first one</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88720.html](http://www.nuforc.org/webreports/reports/088/S88720.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162891.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162878.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163219.html)
-- [303](http://www.nuforc.org/webreports/reports/164/S164013.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162895.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
