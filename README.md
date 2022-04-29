@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:45 on 29 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:43 on 29 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>saw lite in sky at midnite on 29 april</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50426.html](http://www.nuforc.org/webreports/reports/050/S50426.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in West Palm Beach (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>What seemed like a meteor or fire ball moves very slowly towards earth serface then stops, hovers and splits into three  fast moving .Seemed like a fire ball entering the earths atmosphere but it was moving too slow. On the way down it looked as though it was one fire ball. Craft then stopped and turned up which is when it seemed like a triangle with one light or fire ball on top and two at the bottom as they would appear on a plane. The craft then hovered for a moment then the bottom two lights shot out to the left and right very quickly and dissapeared in the clouds. The top light just shot very quickly straight up and dissapeared. I was driving north on Flagler road in west palm beach and there were at least ten vehicles pulled over and stopped to watch.((NUFORC Note:  Missile launch at 2055 hrs (EDT).  We wonder whether the witness recorded the time correctly.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43810.html](http://www.nuforc.org/webreports/reports/043/S43810.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162891.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162878.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163219.html)
-- [303](http://www.nuforc.org/webreports/reports/164/S164013.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162895.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
