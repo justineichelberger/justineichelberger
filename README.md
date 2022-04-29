@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:37 on 29 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:33 on 29 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>UFO orb seen over san jose ca.My neighbor came by to say hi but said what the hell is that?  It was around 8:40ish while I was watching the SJ Sharks Hockey game in my garage.  I looked over my roof line and towards Morgan Hill area were about 8 glowing orageish balls.  This was 8:40ish pm and at first I thought they were flares but they were moving erratically.  At first staying still then moving rapidly.  This was Cambrian area facing Morgan Hill. I saw them for several minutes. I googled the sighting and it looked very similar to other sightings shown; multiple round objects moving unnaturally. I am not saying they are not from this world but it was highly unnatural.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81095.html](http://www.nuforc.org/webreports/reports/081/S81095.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Hartford (CT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Driving down 84 West towards Flatbush Ave exit.  I spotted 3 floating orbs in almost a triangular formation.  They were too high to be drones.  They had an orangeish glow similar like that of a planet.  I ruled out planets because the sky was cloudy.  The orb at the highest point was moving slow, but erratic, while they other 2 seemed to hover in place.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139696.html](http://www.nuforc.org/webreports/reports/139/S139696.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162891.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162878.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163219.html)
-- [303](http://www.nuforc.org/webreports/reports/164/S164013.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162895.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
