@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:08:07 on 29 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:03:38 on 29 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Sunnyvale (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>A large bright round object moving at supersonic speed is sighted in the Sunnyvale, CA, skies.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97478.html](http://www.nuforc.org/webreports/reports/097/S97478.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Irvine (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Around 3:00 am on 04/29/13, I was abruptly awakened by an incredibly loud shrieking noise. It was continuous and never changed tones or pitches.  It was so loud that the instant I was awakened, I covered my ears.  I had a hard time even moving because it was so loud.  I did not open my eyes.  This loud noise continued for about 1-2 minutes straight.  I feel like I saw a flash of bright light, maybe white or yellow in color right as the noise began; however I cannot confirm the color as I did not open my eyes.  Then it sounded like whatever was creating the noise drove/flew/etc away but still making the continuous shrieking sound but it got fainter and fainter as it went further and further away.  My bedroom is on the 3rd floor of my condo and my bed is positioned exactly the same height as the window.  My head is right in front of the window.  I always keep my window opened.  The sound that I heard felt like it was literally right outside of my window.  I have a house ! and fire alarm; however this sound was not either of those.  It was a sound I have never heard before and still have not heard since then.  I don’t remember anything past this point but woke up the next morning with a very strange almost nauseating feeling.  The next morning, I asked my sisters if they heard that loud shrieking noise and they both said “no”. I don’t know what it was but it was the most unusual and strange feeling and sound I have ever experienced.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100356.html](http://www.nuforc.org/webreports/reports/100/S100356.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162891.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162878.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163219.html)
-- [303](http://www.nuforc.org/webreports/reports/164/S164013.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162895.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
