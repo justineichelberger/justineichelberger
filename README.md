@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:24 on 29 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:46 on 29 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Los Lunas (NM) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Chevron shaped craft with dim lights on the botton looked like 3 on each wing. Super quiet.I Was in my backyard playing with a laser pointer with my dog from my hottub and he was chasing it around.  Once in a while I would shine my laser up to the heavens and the moon wondering if anyone out there might be able to see it. I had turned it off and laid back in the water when I sensed something I was already looking up at the stars and a couple of planes that were in the area. They were kind of crisscrossing across the sky, anyway what I sensed or heard was a kind of  a whispering sound like the sound of a small fan or something like that kind of quiet but fright above me then I saw it, it was a craft and it went right over me from south to north it was v shaped kind of like the stealth with three dim lights under each side of the chevron it disappeared from my view right away and I know those planes couldn't see it. I think they were looking for the sourse of my laser pointer it was weird and I believe they are out there but I never saw anything like this. It was black or real dark grey and very stealth. I was by myself but I swear on my Parents grave I saw it. I'm kind of wondering if I shouldn't point my laser up the the sky at night anymore.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69879.html](http://www.nuforc.org/webreports/reports/069/S69879.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Middletown (CT) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Pill/cigar shaped, silver or white. No visable wings. Nothing audible to me. Discharged white trail about 2 seconds after it came into view.  Disappeared seconds after it stopped trail.  Disappeared into clouds.  This is a very overcast sky.  Seemed to move faster than a plane.  i don't know how to estimate elevation, but it didn't appear to be any higher than a twin engine would fly.  No lights that I could see.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145920.html](http://www.nuforc.org/webreports/reports/145/S145920.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162891.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162878.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163219.html)
-- [303](http://www.nuforc.org/webreports/reports/164/S164013.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162895.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
