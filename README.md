@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:40 on 29 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:38 on 29 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Sacramento (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Driving on 99 south through Sacramento around 9:30 pm seen 2 orange round objects dancing/flying together.  Other cars slowed down to look, too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133883.html](http://www.nuforc.org/webreports/reports/133/S133883.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Gainesville (FL) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Went out to the porch of my 3rd floor condo to smoke a cigarette and the first thing that I saw far away in the distance (hard to judge how far since it was night-time) was the greatest falling object I have ever seen in my life.   The strange thing is that the object was rectangular.  Coming down from a NW toward the NE direction at a very shallow angle +/-140degs.   The rectangular shape was not thinnest in the direction of travel, but perpendicular to it.  The object was engulfed in white flames while yellow flames just streaked off from behind.  You could tell that small fragments were braking off from it.  I immediately waited for a big bang, but it never happened.  I take this to mean that the object was very far away even though it seemed close because of its large size.  Probably fell in the Atlantic close to Jacksonville???  I logged-in a 911 call in Alachua County, Fl.  If it was a meteor, it was very strange, slow and large????</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81048.html](http://www.nuforc.org/webreports/reports/081/S81048.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162891.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162878.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163219.html)
-- [303](http://www.nuforc.org/webreports/reports/164/S164013.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162895.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
