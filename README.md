@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:01:02 on 29 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:24 on 29 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Viola (KS) reported seeing craft that fit the description of some 'Cross' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Gold, yellowish light, extremely loud, visually NOT an airplane.I arrived home and pulled in the drive around 10:00 like I do every night, I parked in the driveway facing west.  When I looked to my left (south) I seen and unfamiliar light that isn’t normally there, it took me a second to figure out what it might be.  The first thing that came to mind was a plane, but it didn’t feel right because I didn’t see the red and green lights, no strobe at the time, and the “headlights” were an odd gold, orange, yellowish color, I pulled my phone out of my pocket to record what I believed to be an UFO sighting.In the video, (viewer discretion advised), I tried to explain what I was seeing but it was the most unexplainable thing I’ve ever seen.  When it came closer it moved in a direct straight path, maybe a mile or two over my head.  As it came across the sky it turns a white strobe light on and it seemed like it was trying to mimic a plane and it looked very similar to an F-86 Fighter Jet (Google).  It had curved wings and colorful, yet unexplainable lights that squared across the inside of the wing-span, the object was extremely loud and there were no other planes or helicopters around.  As it flew away it started to look more and more like a plane but the headlights were red.Later the same night after the incident I witnessed I looked up to the sky to see if I could see anything else, being in awe.  I had seen a white flickering light that appeared to be a star, until my uncle and I see it make some circular motions and seen red flickers (3-5) around the “star”.  Then I had seen another gold, orange, yellowish light without a strobe coming from the south heading north, the lights kind of shifted and it flew away heading east.What I had seen on 4-29-13 was unexplainable beyond belief, what my story tells may not be believable to some. Seeing is believing, I believe in what I saw.I have the video upon request.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97476.html](http://www.nuforc.org/webreports/reports/097/S97476.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Bright light ball seen over Ballard extraordinary  speed.I was in my room looking out of the window northwards when I saw a very bright (yellowish gold) round object (bigger than a star but about an eighth the size of the moon) traveling in front of the clouds shoot from the west at an upwards angle towards the east and disappear (not behind the clouds from what I saw).It was too fast for any commercial aircraft and was certainly not Venus.  It is possible that it was a meteor, but it’s angle and trajectory were wrong.  Also it had no tail.This took place around 8:45 to 9:00 pm.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69887.html](http://www.nuforc.org/webreports/reports/069/S69887.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162891.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162878.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163219.html)
-- [303](http://www.nuforc.org/webreports/reports/164/S164013.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162895.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
