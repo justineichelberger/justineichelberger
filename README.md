@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:44 on 29 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:39 on 29 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Webster (NH) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>from skeptic to convinced in 30 secondsI began in my living room facing the sky, i began to focus in on a very bright dot.  I presumed this dot was nothing more than a planet my first guess was mars for its orange/red color.  I began to become more curious as to why it was so prominent and bright in comparison to any of the other stars or planets that i had seen in the past. is stepped outside and really started to pay attention to it and within 5 seconds the dot expanded to be atleast 10x its original size if not more. it sat idle for a split second being a non circular shape glowing red and orange above the horizon. it then shot down below horizon seemingly going away from me rather than down, it moved faster than anything i had ever seen.  I had been a skeptic my whole life but now i'm left wondering......</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88739.html](http://www.nuforc.org/webreports/reports/088/S88739.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Kelowna (Canada) (BC) reported seeing craft that fit the description of some 'Light' over a period of approximately Few minutes - Few minutes minutes.</sub><blockquote><sub>This was reported by our local news outlet called Castanet.  There is also a short video on their news site.A bird, a plane, it's..Wayne Moore--Apr 29, 2017, @ 5:00 am.Story: 195712   Just what were those bright, dancing lights spotted in the skies over Kelowna Thursday evening?  A spokesman for Nav Canada at Kelowna International Airport says he was not made aware of anything being picked up on radar, likely ruling out a plane of any sort.Whatever the object, it caught the attention of Trevor Shipalesky and his daughter.They were driving in West Kelowna near Gorman Bros. mill about 7:30 last evening, when he says his daughter noticed the lights."I looked up and saw at least five or six of these balls. They were bouncing up and down, and doing all kinds of weird stuff," he said."They were flashing too. I couldn't believe my eyes.  Were they flares, planes, fighter jets? But, I quickly realized they weren't any of those."   Shipalesky says he grabbed his phone, but in his excitement, forgot to push record.Before he realized he was not filming, Shipalesky said the objects appeared to be below the cloud line, and possible below the mountains."They were not making any noise. These things were dead silent."  When he did finally begin to record, Shipalesky said you can see five or six moving in a Vee formation. And, above those, there were three or four more.To date, no one has been able to provide an explanation as to what the lights may have been.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134153.html](http://www.nuforc.org/webreports/reports/134/S134153.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162891.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162878.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163219.html)
-- [303](http://www.nuforc.org/webreports/reports/164/S164013.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162895.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
