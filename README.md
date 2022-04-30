@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:29 on 30 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:41 on 30 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Truth or Consequences (NM) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Was visible to the north.  Two large circular red lights.  Moved from east to west.  Both lights appeared and then they moved west one over the other replacing each other.  And then both light appeared again.  Then dissapeared.  Not a slow disappearance.  It was immediately gone.  After staring at the sky all my life, this was my first legitimate ufo sighting ever.  The red colored lights were not typical, more of a neon red.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156070.html](http://www.nuforc.org/webreports/reports/156/S156070.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Yakima (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Just after midnight, I noticed a bright light heading due north over Yakima.  After a few minutes it seemed to jiggle a bit, but still heading north as it began to dim out at approximately 30 degrees above the horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81156.html](http://www.nuforc.org/webreports/reports/081/S81156.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163103.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162943.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162917.html)
-- [285](http://www.nuforc.org/webreports/reports/162/S162927.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164142.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
