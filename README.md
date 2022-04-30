@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:38 on 30 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:43 on 30 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Roseville (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>UFO over sacramento, V formation or a single objectTonight I saw a formation of 5 craft in a V formation or a single craft.  It was really moving...mach 20 minimum.  Just flew over very quickly.  I've been watching the sky for 30 years to see something like this.  It was awesome, no sound, perfect formation, simply unreal.  I hope someone else in the Sacamento area saw this as I want some verification.  I'm so stoked right now.  UFOs do exist, whether they're ours or from another world!!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50370.html](http://www.nuforc.org/webreports/reports/050/S50370.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Everett (WA) reported seeing craft that fit the description of some 'Cone' over a period of approximately 0.2 - 0.2 minutes.</sub><blockquote><sub>Very bright cone-shaped luminous objectHad awoke and gotton up for juice. Returning to bedroom looked out window in livingroom...facing South...saw clouds had cleared. Saw bright white object moving very fast towards the East. Too low to not make noise, and too fast to be airplane with such luminous brightness.Watched it till tree obscured, rushed outside...was almost at front door...looked back towards the East, but had disappeared. I Know what planes sound and look like, and helicopters...this was neither. Was so startled came back in and turned on computer and put in query line..."how to report ufo?"...first site was a canadian one, was so excited didn't realize till finished writing! Then, found this one....and am submitting information. Thank you ~</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62722.html](http://www.nuforc.org/webreports/reports/062/S62722.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163103.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162943.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162917.html)
-- [285](http://www.nuforc.org/webreports/reports/162/S162927.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164142.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
