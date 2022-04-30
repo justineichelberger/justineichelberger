@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:32 on 30 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:32 on 30 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1983, an anonymous witness in Lehi (UT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>"Clear , Jellyfish" type objectI was riding in the back of a car with my mother and aunt. I observed something in the sky going very fast and flying very low(about 100 feet). The strange thing about this object was the way it looked. The best way I can describe it is as a "jellyfish" type thing. It was probably moving at about 70-90 MPH. We didn't get a very good look at it. All I know is it was not something I had ever seen or something I have seen since. I would estimate the size as about 100 feet long and 60-70 feet wide. It could have been a ship of some kind. It was either clear or it was distorting the air around it. I use the term jellyfish loosly because it didn't look like one, that is just a good way to describe the exterior. My mother and aunt looked at each other and asked "did you see that?, what was that? and also turned to me to see if I had seen it. Very strange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36411.html](http://www.nuforc.org/webreports/reports/036/S36411.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Bloomington (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Spotted an indigo light to the east of the city. encounter lasted roughtly 15 minutes.We spotted an indigo light shining through the clouds to the east of the city, the brightness increased significantly twice before dimming to a faint hue and eventually disappearing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155975.html](http://www.nuforc.org/webreports/reports/155/S155975.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163103.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162943.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162917.html)
-- [285](http://www.nuforc.org/webreports/reports/162/S162927.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164142.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
