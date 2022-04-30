@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:03:22 on 30 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:01:07 on 30 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Saw 3 pale orange lights, 2 closer together, for a few seconds, were very steady, faded out, over west Tucson.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62726.html](http://www.nuforc.org/webreports/reports/062/S62726.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Vancouver (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Saw 'white orb swarm' of 10-20 during the day, near Columbia River in Vancouver,  WA on 4/30/20.Was walking along Columbia River Drive, along the Columbia River, in Vancouver,  WA. (Portland, OR is across the river)  Headed east, around 5:30pm today on 4/30/20.Noticed 4 hawks circling, also many planes from nearby PDX.  While looking at the hawks, I noticed 10-20 white, golf-ball like orbs zooming around each other in a swarm.  They looked small, but were about plane elevation, so they must be much bigger in actuality.  It was a mostly clear day, with only a few clouds.I asked my daughter to confirm what I saw, & she saw them as well.  It really freaked her out.  I tried to video, but they were too small to pick up on her phone.They were white, but very bright, possibly metallic. They did seem to shift from white to metallic. Like they were half & half? After a few minutes of watching, they all vanished a few at a time, or became invisible, until they were all gone. It lasted about 5 minutes all together. They seemed much too agile to be drones. Watched the skies for a long time afterwards, but they didn't reappear.I have seen what looks very similar captured on video after looking into this, but no definitive identification for them that I'm aware of.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156063.html](http://www.nuforc.org/webreports/reports/156/S156063.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163103.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162943.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162917.html)
-- [285](http://www.nuforc.org/webreports/reports/162/S162927.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164142.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
