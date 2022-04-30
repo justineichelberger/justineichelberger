@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:58 on 30 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:38:33 on 30 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Katonah (CT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Rounded triangle shaped UFO hovered and moved 10 feet above trees on I-684We were on I-684 headed east bound near exit 3-s, which I believe is right near Katonah.  My boyfriend was driving the car and I looked and saw some bright lights off to our left (on this part of the highway, we are secluded and the other half of the highway is below behind trees).  At first I thought it was a plane, I kept telling him to look because they seemed like they were getting closer.  Finally, the lights were right behind the tops of the trees and I told him he had to look now.  When we both looked, it was suddenly about 10 feet above the trees.  It had 3 bright white lights on the front with red accent lights.  It was hovering above the trees for about 2 seconds and started to move over the highway. When it started to move, I could tell it was a rounded triangle shape.  The bottom seemed to have grooves, almost like several small triangles. I could tell because the red lights were highlighting some parts and not others.  We couldn't stop on the highway, b! ut when I looked behind us, it was on the other side.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75246.html](http://www.nuforc.org/webreports/reports/075/S75246.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Sparks/Reno (NV) reported seeing craft that fit the description of some 'Flash' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Red light flashing in a pattern while flying around the perimeter of Reno and Sparks.On my way to work at approximately 2100, I was on I80 from Sparks heading to Reno. I make this trip 5 nights a week and have never seen this before. I saw a red light that was blinking and moving around the “bowl” of Reno. It was blinking or flashing in a pattern and the pattern changed between 3 different patterns. The first pattern (only because this is the first pattern when I noticed it) was like a heartbeat, flashing two beats with a pause. I didn’t count how many times this went on before the next pattern, which was just a repeated single flash. The next was a series of three flashes with a very small pause.  I lost sight of it when I turned onto 395 and started heading in the opposite direction.One other thing I should mention, I thought I saw this earlier while having a smoke on my balcony. I live on top of a hill that overlooks the whole valley or bowl of Reno/Sparks. I was having my smoke and looking out over the valley and saw this red light moving against the far hills, flashing. At this time it was moving fast and I lost sight of it when it went behind a hill. It didn’t come out the other side and I didn’t see anything else from my balcony so I just convinced myself it was a helicopter, though I knew even a helicopter has more than just one red light and it doesn’t move that fast…  We have an airport that is in the center of the city and I see planes and helicopters flying around all the time, but this was something different. There were regular planes and jets taking off and landing at the same time that this thing was flying around...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75260.html](http://www.nuforc.org/webreports/reports/075/S75260.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163103.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162943.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162917.html)
-- [285](http://www.nuforc.org/webreports/reports/162/S162927.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164142.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
