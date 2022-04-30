@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:33 on 30 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:32 on 30 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Woodinville (WA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Silent boomerang shaped craft without lightsMy 2 other roommates and I were outside on our back porch/deck, sitting down on our patio furniture looking up at the stars in the sky, when suddenly one of my roommates interjected, "Hey, look at that!!!"  The boomerang-shaped object had no visible lights but was clearly distinguishable from the night sky, as if it was metallic/reflective/or light-colored.  It silently sailed in a straight line in a SSE (south south easterly) direction for no more than what could have been 5 seconds.  If my attention had not been drawn to the object I would had never noticed it!  The sky was mostly clear, but there were a few clouds.  The object disappeared from view into a cloud, so I'm going under the assumption the object had to have been up several thousand feet.  The relative size of the object I believe was large (i.e. larger than your commercial jet plane), relative to the size or a quarter or a tad bit smaller in perspective and appeared to have been traveling at a constant, high rate of speed (15-degrees of the sky in a manner of those fleeting seconds.)  Also, it is important to note that the "V" of the boomerang was the front of the craft as it was moving.  The wing tips were rounded and it really did have an overall pronounced boomerang shape, not as sharp as a 90-degree angle, I would have to say it had a 120-degree angle to it.I do not believe this was a stealth bomber; I have seen pictures of the stealth and this did not have the wider midsection of a stealth bomber with the notches.  The craft my roomates and I saw almost had the appearance of a glider, it had no larger/wider area where a cockpit would be in the "V".  By all recollections the craft had no distinguishing marks on it, except for one of my roommates, she professes that she could make out a thin, black band that laterally ran across it (the band running along the front side of the craft, the side of the boomerang moving forward).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22741.html](http://www.nuforc.org/webreports/reports/022/S22741.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1983, an anonymous witness in Lehi (UT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>"Clear , Jellyfish" type objectI was riding in the back of a car with my mother and aunt. I observed something in the sky going very fast and flying very low(about 100 feet). The strange thing about this object was the way it looked. The best way I can describe it is as a "jellyfish" type thing. It was probably moving at about 70-90 MPH. We didn't get a very good look at it. All I know is it was not something I had ever seen or something I have seen since. I would estimate the size as about 100 feet long and 60-70 feet wide. It could have been a ship of some kind. It was either clear or it was distorting the air around it. I use the term jellyfish loosly because it didn't look like one, that is just a good way to describe the exterior. My mother and aunt looked at each other and asked "did you see that?, what was that? and also turned to me to see if I had seen it. Very strange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36411.html](http://www.nuforc.org/webreports/reports/036/S36411.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163103.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162943.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162917.html)
-- [285](http://www.nuforc.org/webreports/reports/162/S162927.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164142.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
