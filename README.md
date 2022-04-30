@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:43 on 30 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:56 on 30 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Everett (WA) reported seeing craft that fit the description of some 'Cone' over a period of approximately 0.2 - 0.2 minutes.</sub><blockquote><sub>Very bright cone-shaped luminous objectHad awoke and gotton up for juice. Returning to bedroom looked out window in livingroom...facing South...saw clouds had cleared. Saw bright white object moving very fast towards the East. Too low to not make noise, and too fast to be airplane with such luminous brightness.Watched it till tree obscured, rushed outside...was almost at front door...looked back towards the East, but had disappeared. I Know what planes sound and look like, and helicopters...this was neither. Was so startled came back in and turned on computer and put in query line..."how to report ufo?"...first site was a canadian one, was so excited didn't realize till finished writing! Then, found this one....and am submitting information. Thank you ~</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62722.html](http://www.nuforc.org/webreports/reports/062/S62722.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Edenvale (Johannesburg)  (South Africa) () reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>this was not a meteor . I hope others saw it too.saw a low-flying glowing orange/flame colored ball. Flying very slowly over the horizon , it appeared to die down (like a meteor) but then changed direction and continued glowing until it was over the horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75245.html](http://www.nuforc.org/webreports/reports/075/S75245.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163103.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162943.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162917.html)
-- [285](http://www.nuforc.org/webreports/reports/162/S162927.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164142.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
