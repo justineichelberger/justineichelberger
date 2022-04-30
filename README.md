@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:41 on 30 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:59 on 30 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Yakima (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Just after midnight, I noticed a bright light heading due north over Yakima.  After a few minutes it seemed to jiggle a bit, but still heading north as it began to dim out at approximately 30 degrees above the horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81156.html](http://www.nuforc.org/webreports/reports/081/S81156.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Carteret (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Large triangle object with rotating colored lights, motionless.Tonight at 22:28 I stepped outside for a moment and immediately observed an interesting ‘star?’ Stood out from the rest of the stars, and had the most unusual multi color twinkle.  I knew it was not a star as the clear color rotation, of blue pink & white, were sequenced, not random. First thought, hm.. maybe the ISS,  which I have seen before, does not have pink lights.  I immediately went inside to obtain a pair of binoculars, and began to view this object.  This ‘object’ remained motionless – not moving – for at least 20 minutes. The colors rotated pink, blue, white (repeated) constantly every second.  Again not random sparkle, but mechanical repetitive.  I view aircraft in the sky often, being so close to Newark Int’l air.  The craft colors were definitely not standard.This ‘object’ was about 40,000 miles high and did not move.  It was in the Northern Sky.  Below, and nearby, is Newark Int’l airport.  I counted at least 3 planes taking off , ascending and heading in a Southwest direction.  This ‘star’ was above it and easy to hedge a height as the plane passed underneath.  I also thought, if I can see on the ground, the pilots would be able to see also as it was in their view during ascension.Through the binoculars, I watched for a good ten minutes.  While hard to see, the lights detailed a triangle craft.  Again the three color lights pulsated (one full cycle per second) were at each point.  It never moved.  By 22:50 I decided to return in side and compose this report.  My thoughts – no question a ‘vessel’, not a star.  Man/alien made, due to lights, not a star.  Not the ISS, as have seen before.   Did not move, no average craft can sustain position at great height.  Large.  Wondered what it was waiting for?  Did not feel threatened, as it was very far away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97484.html](http://www.nuforc.org/webreports/reports/097/S97484.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163103.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162943.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162917.html)
-- [285](http://www.nuforc.org/webreports/reports/162/S162927.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164142.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
