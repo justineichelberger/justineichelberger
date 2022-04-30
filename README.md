@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:42 on 30 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:41 on 30 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Reno (30 miles due east of, in California) (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5833333333333334 - 0.5833333333333334 minutes.</sub><blockquote><sub>Object appeared to look like a star moving SE overhead. Object stopped then continued. Picked up speed and turned a perfect 90 degrees to the NE and made a flash as it disappeared.During the last weekend of April 1997, {it was a Saturday night/Sunday morning}I was camping with my father and several of his friends. We were camped near Stampede Lake which is about 20 miles NE of Truckee, CA and 30 mi. due West of Reno, NV as the crow flies.  I got up to relieve myself at around {maybe one a.m. or so}and was looking up to enjoy the unfiltered view of the stars. Sometimes you can catch a satellite moving overhead. I then spotted what at first to be just that coming from the north, but noticed that it was just a little brighter than the average satellite. It looked kind of like a star in the sky would. Anyway, I observed the object for about 20 seconds and it continued to travel in a straight line to the SE. But the object stopped overhead and blended in like a star in the sky for several moments then began moving again. The object then picked up speed [it was quite phenomenal] and then made an abrupt 90 degree turn to the NE and continued to pick up speed. It then looked as if a flash occurred and the object just disappeared. I am still not quite sure what I saw, but it has kind of stayed with me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05160.html](http://www.nuforc.org/webreports/reports/005/S05160.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Fairfield (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Green flash, streak, fireball.Saw a green streak, fireball coming in a downward direction about 12 o'clock high in the night sky, northern sky, towards dayton ohio from my location in fairfield at about 12:45. Am. The object was greener towards the front fading to white at the tail. Lasted maybe a second, two at the most. Watched for other objects in the sky for another 10 min. Saw nothing else, maybe a meteor? not sure was very fast. Iv seen meteors fall before, never green, unusual.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162890.html](http://www.nuforc.org/webreports/reports/162/S162890.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163103.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162943.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162917.html)
-- [285](http://www.nuforc.org/webreports/reports/162/S162927.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164142.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
