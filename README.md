@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:44 on 30 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:58 on 30 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in The Dalles (OR) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Formation of 5 ufos sighted over The Dalles, Oregon.We were outside on the patio when my daughter alerted me to a formation of stationary lights to the southeast.  They were in a zigzag pattern all equally distant from each other.   The one at the bottom of the formation was much larger with a flashing red light in the center and flashing white lights on each side.  The smaller ones had red flashing lights only.  At first they were flashing in a pattern to each other then the large one began to move to a higher altitude and toward the Northwest.  The smaller lights lined up and seemed to escort the larger one.  One sped up to the front, one went to the side with the last two tightly following.  They moved very fast, staying in the same formation until they were out of our sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109058.html](http://www.nuforc.org/webreports/reports/109/S109058.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Katonah (CT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Rounded triangle shaped UFO hovered and moved 10 feet above trees on I-684We were on I-684 headed east bound near exit 3-s, which I believe is right near Katonah.  My boyfriend was driving the car and I looked and saw some bright lights off to our left (on this part of the highway, we are secluded and the other half of the highway is below behind trees).  At first I thought it was a plane, I kept telling him to look because they seemed like they were getting closer.  Finally, the lights were right behind the tops of the trees and I told him he had to look now.  When we both looked, it was suddenly about 10 feet above the trees.  It had 3 bright white lights on the front with red accent lights.  It was hovering above the trees for about 2 seconds and started to move over the highway. When it started to move, I could tell it was a rounded triangle shape.  The bottom seemed to have grooves, almost like several small triangles. I could tell because the red lights were highlighting some parts and not others.  We couldn't stop on the highway, b! ut when I looked behind us, it was on the other side.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75246.html](http://www.nuforc.org/webreports/reports/075/S75246.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163103.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162943.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162917.html)
-- [285](http://www.nuforc.org/webreports/reports/162/S162927.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164142.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
