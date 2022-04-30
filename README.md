@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:01:04 on 30 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:30 on 30 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Fresno (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Red triangle with four green circles seen by one person above Fresno, California.I was standing in my neighbor’s driveway talking to him and his neighbor from across the street. It was about 21:00 on April 30, 2012.  I was looking north when I saw a red triangle with four green circles (one in each corner, and one larger one in the center of the triangle) moving in an arc from my right to the left.  This object was a perfect geometric shape and was semi-transparent.  Before I could alert the other two people in our group, the object quickly and completely faded.  Also, the points of the triangle were beveled.  I have not seen this object again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98051.html](http://www.nuforc.org/webreports/reports/098/S98051.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Las Vegan (NV) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>30 OR MORE STAR LIKE OBJECT FLYING IN MOVING FORMATIONHEADING WEST ON HARMON FROM HARD ROCK CASINO SAW WHAT LOOKED LIKE SMALL METAL OBJECTS WHICH WOULD SLOWLY ILLUMINATE TO STAR LIKE BUT IN THE DAY TIME.  OBJECTS WERE HEADING SOUTH IT SEEMS WITH THE 15 FREEWAY.  THERE WERE APPROXIMATLY 30 OR MORE MOVING ABOUT 75 MPH.  THEY DID NOT FLY STRAIGHT BUT IN PATERNS WHICH COULD NOT BE WIND FOR IT WAS BLOWING 15 MPH IN THE OPPOSITE DIRECTION.  I MADE IT TO MY HOTEL IN TIME AND WAS ABLE TO TAKE 4 PICTURE IN WHICH I HAVE IN MY POSSESION WHICH CLEARLY SHOWS THE STAR LIKE OBJECTS LASTED APPROXIMATLY 5 MINUETS TILL THE OBJECTS DISIPEARED IN THE DISTANCE.  IT WAS APPROXIMATLY 9 OR 10 IN THE MORNING THERE WAS A SIGHT SEEING HELICPTER WHICH CIRCLED THE FORMATION.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62972.html](http://www.nuforc.org/webreports/reports/062/S62972.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163103.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162943.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162917.html)
-- [285](http://www.nuforc.org/webreports/reports/162/S162927.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164142.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
