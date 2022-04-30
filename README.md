@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:38:33 on 30 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:22:18 on 30 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Sparks/Reno (NV) reported seeing craft that fit the description of some 'Flash' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Red light flashing in a pattern while flying around the perimeter of Reno and Sparks.On my way to work at approximately 2100, I was on I80 from Sparks heading to Reno. I make this trip 5 nights a week and have never seen this before. I saw a red light that was blinking and moving around the “bowl” of Reno. It was blinking or flashing in a pattern and the pattern changed between 3 different patterns. The first pattern (only because this is the first pattern when I noticed it) was like a heartbeat, flashing two beats with a pause. I didn’t count how many times this went on before the next pattern, which was just a repeated single flash. The next was a series of three flashes with a very small pause.  I lost sight of it when I turned onto 395 and started heading in the opposite direction.One other thing I should mention, I thought I saw this earlier while having a smoke on my balcony. I live on top of a hill that overlooks the whole valley or bowl of Reno/Sparks. I was having my smoke and looking out over the valley and saw this red light moving against the far hills, flashing. At this time it was moving fast and I lost sight of it when it went behind a hill. It didn’t come out the other side and I didn’t see anything else from my balcony so I just convinced myself it was a helicopter, though I knew even a helicopter has more than just one red light and it doesn’t move that fast…  We have an airport that is in the center of the city and I see planes and helicopters flying around all the time, but this was something different. There were regular planes and jets taking off and landing at the same time that this thing was flying around...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75260.html](http://www.nuforc.org/webreports/reports/075/S75260.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Clermont (FL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was taking the trash out and turned around towards my house and saw 20+ bright lights cross the sky to the West below the moon.  Most were in a straight line one behind the other.  However several were beside one another.  They were moving very fast and once they were to my left they were suddenly gone.  I could tell they were not planes of any sort because they didn't flash and were too close together.  I tried to take a video with my cell phone but onlt got a picture of on of the lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156027.html](http://www.nuforc.org/webreports/reports/156/S156027.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163103.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162943.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162917.html)
-- [285](http://www.nuforc.org/webreports/reports/162/S162927.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164142.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
