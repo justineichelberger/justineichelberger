@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:03:01 on 30 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:29 on 30 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Redmond (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>long string of moving lightsLast night (April 30) my wife and I observed a peculiar occurrence in the sky.  We live a few miles east of Redmond WA.  We decided to spend some time in our hot tub, and about 9:20 PM my wife went in first.  When I joined her about 5 minutes later, she said she was seeing something strange in the sky, namely a series of moving lights.  These were points of light about the brightness of a 3- or 4-magnitude star, moving one after another in a straight line from northwest to southeast, evenly spaced, moving at the same speed, and apparently quite high up.  From our position the line or track initially led directly toward the star Arcturus, but slowly shifted westward a few degrees.  From our deck we could see the track for about a quarter of the sky,  from the eave of our house directly overhead to some trees on the edge of our property.  An individual light took 30 or 40 seconds to traverse this interval, and a new one would appear before the previous one had disappeared.  My wife said she had already seen perhaps a dozen when I came out, and together we witnessed maybe 20 or 30 more.  After about 15 minutes, clouds moved in, lit by the quarter moon high in the west, and obscured our vision.  We frequently see aircraft while in the hot tub, most commonly flying east to west, at no great height, and showing some typical combination of white, red and green lights.  But the lights we saw last night were nothing like this. (In fact, we only saw one other aircraft during this interval, flying up from the south at moderate altitude and passing to the southeast.  Even it was a bit atypical, having only two bright yellowish-white lights like car headlights.) My first thought was that we were seeing some military transport, but the sheer number of lights seemingly makes this explanation unlikely. In summary, I have been watching the sky my whole life, and have never witnessed anything like this event. My wife was a bit unnerved. Any insight you can ! provide would be most appreciated.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156046.html](http://www.nuforc.org/webreports/reports/156/S156046.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Truth or Consequences (NM) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Was visible to the north.  Two large circular red lights.  Moved from east to west.  Both lights appeared and then they moved west one over the other replacing each other.  And then both light appeared again.  Then dissapeared.  Not a slow disappearance.  It was immediately gone.  After staring at the sky all my life, this was my first legitimate ufo sighting ever.  The red colored lights were not typical, more of a neon red.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156070.html](http://www.nuforc.org/webreports/reports/156/S156070.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163103.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162943.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162917.html)
-- [285](http://www.nuforc.org/webreports/reports/162/S162927.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164142.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
