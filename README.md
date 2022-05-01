@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:32 on 30 April 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:34 on 1 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Bloomington (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Spotted an indigo light to the east of the city. encounter lasted roughtly 15 minutes.We spotted an indigo light shining through the clouds to the east of the city, the brightness increased significantly twice before dimming to a faint hue and eventually disappearing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155975.html](http://www.nuforc.org/webreports/reports/155/S155975.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1980, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>It was very shiny silver and 2 Army helicopters followed it.I was waiting for the bus on a Monday.  There were about 6 people with me, but they saw nothing.  I was at 92nd and Greenwood.  As I waited, I looked up at the sky.  I thought I saw a silver bird (seagull).  It was quite far away.  As it came closer, I realized it couldn't be a bird because it was too big.  It was shiny silver and flew slowly towards me.  Then 2 or more (can't remember) Army helicopters (had camophlage paint on them)came behind it.  The craft suddenly dived into some trees and the helicopters followed it.  The people with me were frozen (they didn't talk or move).  Suddenly I said, "Did you see that?"  One of them said what.  I said I think I just saw a UFO.  He said, "Why didn't you tell us when it was here?".((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37932.html](http://www.nuforc.org/webreports/reports/037/S37932.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163103.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162943.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162917.html)
-- [285](http://www.nuforc.org/webreports/reports/162/S162927.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164142.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
