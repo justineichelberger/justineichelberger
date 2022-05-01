@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:49 on 1 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:41 on 1 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in New Oxford (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Circular craft over new oxford.The object was a circle and about 500 feet in the air. The object lowered above us and flew away at high speed. The UFO had three lights on the bottom and multiple colord lights around it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69913.html](http://www.nuforc.org/webreports/reports/069/S69913.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1969, an anonymous witness in San Diego  (U. S. Naval Base) (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>were on lunch break from navy school. saw a small white cloud and then a object caom out of it. then another came out. then flew straight up.2 objects came out of cloud . they looked just like mirrors reflecting. they stayed fixed in the sky for about 10 min. then they started to move up and down opposite each other in direction.  then they moved away from cloud slowly and went straight up till at of sight. we were eating lunch .we were in shipfitter school at us naval base.there were about 50 of us watching this happen. i just got a computer and really thought about contacting anybody in all these years, till i saw www.sightings on tv. excuse my tying, its new to me.i wonder if there were any other reports about this. it could have been in june. july, or august. its been so long ago. thanks for looking at my letter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10190.html](http://www.nuforc.org/webreports/reports/010/S10190.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [542](http://www.nuforc.org/webreports/reports/162/S162925.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164365.html)
-- [540](http://www.nuforc.org/webreports/reports/162/S162920.html)
-- [539](http://www.nuforc.org/webreports/reports/162/S162923.html)
-- [538](http://www.nuforc.org/webreports/reports/162/S162902.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
