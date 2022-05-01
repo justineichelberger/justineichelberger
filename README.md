@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:12:59 on 1 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:05:11 on 1 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Palm Springs (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>Bright white light growing larger as it moved towards me.  It frightened me as it grew larger and then it disappeared in the mountains west of Palm Springs, California.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99988.html](http://www.nuforc.org/webreports/reports/099/S99988.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1988, an anonymous witness in Ray Center (MI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I would be the most famous person in the world if I had only had a camera!There was a huge disc shaped, very well lit with many colors hovering over the road.  We pulled directly under it and stared in awe as it hovered over us in virtual silence.It was very close and was undoubtedly from out of this world.  I would like to be hypnotized or take a lie detector test to prove my experience.  We were so frightened that we sped away without seeing the ship take-off.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14578.html](http://www.nuforc.org/webreports/reports/014/S14578.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [542](http://www.nuforc.org/webreports/reports/162/S162925.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164365.html)
-- [540](http://www.nuforc.org/webreports/reports/162/S162920.html)
-- [539](http://www.nuforc.org/webreports/reports/162/S162923.html)
-- [538](http://www.nuforc.org/webreports/reports/162/S162902.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
