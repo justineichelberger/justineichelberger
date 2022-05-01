@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:42 on 1 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:36 on 1 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in UK/England () reported seeing craft that fit the description of some 'Cigar' over a period of approximately 9.0 - 9.0 minutes.</sub><blockquote><sub>((NUFORC Note:  This looks to be an article from a newspaper, although the witness does not indicate the source.  We express our gratitude to the newspaper for the article, and to the individual who submitted it.  PD))'Mile-wide UFO' spotted by British airline pilot Last updated at 16:44pm on 22nd June 2007 One of the largest UFOs ever seen has been observed by the crew and passengers of an airliner over the Channel Islands.An official air-miss report on the incident several weeks ago appears in Pilot magazine.Aurigny Airlines captain Ray Bowyer, 50, flying close to Alderney first spotted the object, described as "a cigar-shaped brilliant white light".As the plane got closer the captain viewed it through binoculars and said: "It was a very sharp, thin yellow object with a green area."It was 2,000ft up and stationary. I thought it was about 10 miles away, although I later realised it was approximately 40 miles from us. At first, I thought it was the size of a [Boeing] 737."But it must have been much bigger because of how far away it was. It could have been as much as a mile wide." Continuing his approach to Guernsey, Bowyer then spied a "second identical object further to the west".He said: "It was exactly the same but looked smaller because it was further away. It was closer to Guernsey. I can't explain it. This was clearly visual for about nine minutes."I'm certainly not saying that it was something of another world. All I'm saying is that I have never seen anything like it before in all my years of flying." The sightings were confirmed by passengers Kate and John Russell. John, 74, said: "I saw an orange light. It was like an elongated oval." The sightings were also confirmed by an unnamed pilot with the Blue Islands airline.The Civil Aviation Authority safety notice states that a Tri-Lander aircraft flying close to Alderney spotted the object."Certain parts of the report have not been published. I cannot say why," said a senior CAA source.Earlier this year, however, the MOD declared its intentions to open its UFO files to the public.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60238.html](http://www.nuforc.org/webreports/reports/060/S60238.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Tewksbury (MA) reported seeing craft that fit the description of some '' over a period of approximately Home - Home minutes.</sub><blockquote><sub>Visited by an Alian.We saw an alían in our house for a couple seconds than it vanished.  We where both in the living room watching a movie, and suddenly the TV pixelated and and frozed and right next to the TV we saw what appeared to be an Alían in the room, it was dark but we both saw it.  It was very tall and had very long fingers and with a pointy tip, and the skin was like a reptilian skin.  (They have always been among us wachting us and are closer to us than what we think) they make them selves invisible when they want.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134583.html](http://www.nuforc.org/webreports/reports/134/S134583.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [542](http://www.nuforc.org/webreports/reports/162/S162925.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164365.html)
-- [540](http://www.nuforc.org/webreports/reports/162/S162920.html)
-- [539](http://www.nuforc.org/webreports/reports/162/S162923.html)
-- [538](http://www.nuforc.org/webreports/reports/162/S162902.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
