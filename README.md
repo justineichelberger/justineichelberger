@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:30:11 on 1 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:47:41 on 1 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Boston (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Myself and a friend have been terrorized and tortured by alien entities since October 2011I was around the Mass General Hospital around may 2016 when I noticed unusual light in the sky the light did not come from a plane or searchlights on the ground a month later I witnessed the same light in the sky over Nahant in Essex County</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147082.html](http://www.nuforc.org/webreports/reports/147/S147082.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1977, an anonymous witness in none (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Fireball and siver object viewed from  U.S. Navy aircraft carrierWhile a crewman onboard U.S.S. John F. Kennedy [CV-67] during the late spring, early summer of '77 while on the flight deck checking on our aircraft I saw what I initially thought was a meteor coming down at approximately a 45 degree angle.  The sky was clear with no moon and no clouds, there was no glow from the coastline of Florida and the ship was operating with red lights only above deck. I called my crew away from the aircraft to look at this thing, which continued down on it's initial trajectory off of our starboard quarter.  The object was very high, about the size of a cigarette ember held at arm's length.As it got lower, we could plainly see that the front was white, the middle orange, and the tail a flickering red.  Then a contrail became visible, which we took to indicate it was in the atmosphere.After 5 or so minutes a fog bank formed in that part of the sky with this object behind it, resembling a streetlight as seen through a heavy fog.  At this point, a laser-thin beam of light blue suddenly appeared, aiming back up the way this object came from. After 2 more minutes, everything started fading away, the glow diminished, the beam of light faded and the fog dissipated to where stars could be seen again in that portion of the sky. Then, at an angle approximately 30 degrees above the horizon, a dull silver colored object about 3 times the size of the largest star dropped down out of the bottom of the fog bank, shot forward paralleling our course on the starboard side of the ship then angled back upwards and was gone in literally the blink of an eye. Looking about the deck, I noticed between 50-75 personnel standing and watching this display. Years later I encountered one of my former crewmembers who was there that night and who asked me to please tell his wife that we saw what we saw because she thought he was nuts.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))((NUFORC Note:  We would like to speak with this anonymous source.  Most of all, we would like to have him contact other shipmates and have them submit written reports about the event.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56486.html](http://www.nuforc.org/webreports/reports/056/S56486.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [542](http://www.nuforc.org/webreports/reports/162/S162925.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164365.html)
-- [540](http://www.nuforc.org/webreports/reports/162/S162920.html)
-- [539](http://www.nuforc.org/webreports/reports/162/S162923.html)
-- [538](http://www.nuforc.org/webreports/reports/162/S162902.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
