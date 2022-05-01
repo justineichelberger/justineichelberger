@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:41 on 1 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:03:27 on 1 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1969, an anonymous witness in San Diego  (U. S. Naval Base) (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>were on lunch break from navy school. saw a small white cloud and then a object caom out of it. then another came out. then flew straight up.2 objects came out of cloud . they looked just like mirrors reflecting. they stayed fixed in the sky for about 10 min. then they started to move up and down opposite each other in direction.  then they moved away from cloud slowly and went straight up till at of sight. we were eating lunch .we were in shipfitter school at us naval base.there were about 50 of us watching this happen. i just got a computer and really thought about contacting anybody in all these years, till i saw www.sightings on tv. excuse my tying, its new to me.i wonder if there were any other reports about this. it could have been in june. july, or august. its been so long ago. thanks for looking at my letter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10190.html](http://www.nuforc.org/webreports/reports/010/S10190.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in New York City (Manhattan) (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Strangely moving craft, zigzagging in the distance that turned out to be a huge triangle with lots of lights when it flew overhead..I'm an outreach worker with the homeless in NYC and me and partner were headed to our dinner break in the van when we saw an object flying erratically in the area of lower manhattan. We were in midtown, around 54th Street and traffic was very heavy so we were basically crawling along. I was driving. So we spot this 'plane' flying east to west and then appearing to hover and just acting in a way we'd never seen a plane act before. My partner was in the military service and he's familiar with planes but he was just as dumbfounded as i was at the way it was acting. So as we were driving south on 9th Avenue, we are keeping our eyes on this 'plane' and suddenly it started to fly straight in our direction. We said 'Great, now we can see what kind of plane this is'...it must have moved really fast because suddenly it just seemed to glide right over us and that was when we saw it wasn't a plane but this HUGE triangle thing with many, many round lights underneath. The lights were arranged in triangular rows and there were three rows of them in the shape of the craft if you can picture that. They were very bright but did not give off any glare. This was just before sunset. We hung out the window as we were stopped at the light. Next to us was a woman in a jeep and she looked to see what we were staring at wide mouthed and she got a little hysterical, pretty much as dumbfounded as we were. The thing made no sound at all.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34516.html](http://www.nuforc.org/webreports/reports/034/S34516.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [542](http://www.nuforc.org/webreports/reports/162/S162925.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164365.html)
-- [540](http://www.nuforc.org/webreports/reports/162/S162920.html)
-- [539](http://www.nuforc.org/webreports/reports/162/S162923.html)
-- [538](http://www.nuforc.org/webreports/reports/162/S162902.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
