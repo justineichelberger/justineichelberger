@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:34 on 1 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:49 on 1 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Cordele (GA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>riding down the road saw a diamond shaped metel looking object, so we followed it, and this is what happenedme and my cousin were driving down a road by my house and we saw this metal object, kinda like an up side down diamond. anyway when we saw it we decided to follow it. as we got further down the road, it stopped or sat still. the closer we got to it, now this sounds crazy but, its like it interferred with both of our vision at the same time. it was like these white static looking things like on a tv but instead of snow like static, it was shape more like a broom handle but not that big and they were on everything. well i looked at my cousin and told him i saw some white static stuff covering everything he looked at me and said oh my god i see it to, so thats how i know i wasn't just seeing things. it freak us out, and the closer we drove to it the worse the static got. it was wierd. after that we turned the car around and went the other way and the further we got from that spot the more the static stuff faded away. i don't tell many people about this because it sounds crazy but it was witnessed by 2 people at the exact same time. i was wondering if anybody else has experience anything like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12279.html](http://www.nuforc.org/webreports/reports/012/S12279.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in New Oxford (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Circular craft over new oxford.The object was a circle and about 500 feet in the air. The object lowered above us and flew away at high speed. The UFO had three lights on the bottom and multiple colord lights around it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69913.html](http://www.nuforc.org/webreports/reports/069/S69913.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [542](http://www.nuforc.org/webreports/reports/162/S162925.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164365.html)
-- [540](http://www.nuforc.org/webreports/reports/162/S162920.html)
-- [539](http://www.nuforc.org/webreports/reports/162/S162923.html)
-- [538](http://www.nuforc.org/webreports/reports/162/S162902.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
