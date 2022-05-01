@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:38 on 1 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:42 on 1 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Inver Grove (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>First saw 3 lights star looking in formation then breaking of in random directions then saw multiple lights flying over head. Some moving in a straight line some wavering and some changing direction in mid flight and one slightly hovering over us. All were moving South to north very fast</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156127.html](http://www.nuforc.org/webreports/reports/156/S156127.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Frisco (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Several balls of light in erratic flight pattern followed by second craft at great speed.Two friends taking a night walk down the road heard high pitched chittering noises.  Similar in sound and intensity to a flock of sparrows but in a much higher pitch and no birds were able to be seen.  The chittering noise originated easterly and moved westerly without any visual of origin.  Sky was clear with exception of a single wispy cloud.A few seconds after the noise stopped, a cluster of lights appeared in the direction that the chittering appeared to travel.  There were approximately eight of them.  They were moving only slightly west, with a speed similar to a low flying jet, but in erratic patterns.  Crossing over one another in what looked to be a random squiggly pattern.  In about 2 seconds, they blinked out.They were about as bright as a large shooting star, but no trails following their movement.  White balls, steady light, no flickering or auras.  Two passed through a wispy cloud and seemed to cut through the cloud.  No noise was heard at the time of their sighting.  They didn’t fade, but just stopped existing.Less than 2 minutes later, something was seen shooting across the sky above the tree-line.  If the ground was zero and zenith is 90 degrees, craft was approximately 45 degrees above zero.  It moved east to west and was on the ocean side of Frisco.  Either a very dim light, light colored craft, or light reflecting off craft was the only reason it was noticeable.  Moved with the speed of a falling star, yet moved horizontally above the tree-line.  No sound at all.Military training is known to be done on this end of the island, but friends in the military claim no maneuvers were scheduled and none that would replicate what was seen.One observer claimed to have seen them with their family on several occasions in their 3 years residing on the island.  This was the first experience for the other observer in the 6 years of their residing on the island.  No intoxication of any level for either party member.  Both are logical individuals with college education and skeptical of unexplained events.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109105.html](http://www.nuforc.org/webreports/reports/109/S109105.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [542](http://www.nuforc.org/webreports/reports/162/S162925.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164365.html)
-- [540](http://www.nuforc.org/webreports/reports/162/S162920.html)
-- [539](http://www.nuforc.org/webreports/reports/162/S162923.html)
-- [538](http://www.nuforc.org/webreports/reports/162/S162902.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
