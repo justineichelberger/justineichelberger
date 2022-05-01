@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:36 on 1 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:36 on 1 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Tewksbury (MA) reported seeing craft that fit the description of some '' over a period of approximately Home - Home minutes.</sub><blockquote><sub>Visited by an Alian.We saw an alían in our house for a couple seconds than it vanished.  We where both in the living room watching a movie, and suddenly the TV pixelated and and frozed and right next to the TV we saw what appeared to be an Alían in the room, it was dark but we both saw it.  It was very tall and had very long fingers and with a pointy tip, and the skin was like a reptilian skin.  (They have always been among us wachting us and are closer to us than what we think) they make them selves invisible when they want.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134583.html](http://www.nuforc.org/webreports/reports/134/S134583.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Rossford (OH) reported seeing craft that fit the description of some 'Disk' over a period of approximately ? - ? minutes.</sub><blockquote><sub>Pie shaped object of light seen in north sky with picture of light and negative that shows a possible pulsating light beneath.On or about May 1, 2002 on a clear night just when the stars come out a bright light in the sky caught my eye.  I went out my front door and stood on the porch.  I thought it may be a satellite or a planet but the light seemed to bright for that.   I then went into my house to get my camera, I had figured since my eyes wern't so good I could get a better look with my zoom lens.  It was still there and looked as if  it was trying to hide amoung the stars. I only took one picture not thinking it was a UFO and all it looked like was just a bright light in the sky.  I then dismissed the whole incident until I recieved the picture and negative back. I couldn't believe my eyes, the picture is just a saucer of light, not much definition but the negative showed what it was for sure in my eyes. It was saucer shaped, tilting slightly, enough that I could see a brighter light in the center, possibly pulsating to the edges and a shape more pie shaped.  This all happened in the northern sky and my beliefs are now confirmed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23171.html](http://www.nuforc.org/webreports/reports/023/S23171.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [542](http://www.nuforc.org/webreports/reports/162/S162925.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164365.html)
-- [540](http://www.nuforc.org/webreports/reports/162/S162920.html)
-- [539](http://www.nuforc.org/webreports/reports/162/S162923.html)
-- [538](http://www.nuforc.org/webreports/reports/162/S162902.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
