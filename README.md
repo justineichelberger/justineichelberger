@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:39 on 1 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:39 on 1 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Washington (VT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Blue light streaking across sky seen by 1 person in Washington, VermontI was watching TV and I happened to look outside of my living room window.  When I did a bright coral blue light streaked across the sky, but it was solid in the middle, and emitting light that reflected off of the clouds.  It lasted only a few seconds and I almost didn't believe it happened because it was so quick.  There was a cloud cover so it had so be relatively close to earth to be able to break the clouds.  And right before it broke the clouds, I could see the light through them.  The object almost looked like a square, and it had no trail.  I live in a rural area, so it disappeared behind a hill before I could take a picture.  I live in Vermont USA, Orange County.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118729.html](http://www.nuforc.org/webreports/reports/118/S118729.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Prague (Czech Republic) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two orange balls in the sky flying in trail2 aircraft flying in trail about 4 kilometers separation.  There was a light emitting from them unlike smack lights on regular aircraft.  They were orange balls which shined in different hues depending on the angle, but it was strange and unlike anything I’ve seen.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88752.html](http://www.nuforc.org/webreports/reports/088/S88752.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [542](http://www.nuforc.org/webreports/reports/162/S162925.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164365.html)
-- [540](http://www.nuforc.org/webreports/reports/162/S162920.html)
-- [539](http://www.nuforc.org/webreports/reports/162/S162923.html)
-- [538](http://www.nuforc.org/webreports/reports/162/S162902.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
