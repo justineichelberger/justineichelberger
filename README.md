@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:36 on 1 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:39 on 1 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Rossford (OH) reported seeing craft that fit the description of some 'Disk' over a period of approximately ? - ? minutes.</sub><blockquote><sub>Pie shaped object of light seen in north sky with picture of light and negative that shows a possible pulsating light beneath.On or about May 1, 2002 on a clear night just when the stars come out a bright light in the sky caught my eye.  I went out my front door and stood on the porch.  I thought it may be a satellite or a planet but the light seemed to bright for that.   I then went into my house to get my camera, I had figured since my eyes wern't so good I could get a better look with my zoom lens.  It was still there and looked as if  it was trying to hide amoung the stars. I only took one picture not thinking it was a UFO and all it looked like was just a bright light in the sky.  I then dismissed the whole incident until I recieved the picture and negative back. I couldn't believe my eyes, the picture is just a saucer of light, not much definition but the negative showed what it was for sure in my eyes. It was saucer shaped, tilting slightly, enough that I could see a brighter light in the center, possibly pulsating to the edges and a shape more pie shaped.  This all happened in the northern sky and my beliefs are now confirmed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23171.html](http://www.nuforc.org/webreports/reports/023/S23171.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Washington (VT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Blue light streaking across sky seen by 1 person in Washington, VermontI was watching TV and I happened to look outside of my living room window.  When I did a bright coral blue light streaked across the sky, but it was solid in the middle, and emitting light that reflected off of the clouds.  It lasted only a few seconds and I almost didn't believe it happened because it was so quick.  There was a cloud cover so it had so be relatively close to earth to be able to break the clouds.  And right before it broke the clouds, I could see the light through them.  The object almost looked like a square, and it had no trail.  I live in a rural area, so it disappeared behind a hill before I could take a picture.  I live in Vermont USA, Orange County.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118729.html](http://www.nuforc.org/webreports/reports/118/S118729.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [542](http://www.nuforc.org/webreports/reports/162/S162925.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164365.html)
-- [540](http://www.nuforc.org/webreports/reports/162/S162920.html)
-- [539](http://www.nuforc.org/webreports/reports/162/S162923.html)
-- [538](http://www.nuforc.org/webreports/reports/162/S162902.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
