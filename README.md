@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:29:56 on 1 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:12:59 on 1 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1970, an anonymous witness in La Grange (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Saucer sightingUFO Report  I don't know the exact date this happened.  I know it was in the springtime and I think it was in 1970 or 1971.  I was in the fourth or fifth grade, that much I do know.  It happened in La Grange, Il., a western suburb of Chicago.  Because of the uncertainty of the date this event happened on, I am hesitant to report this, but I heard a plea to report any sightings to see if they could be correlated and so decided to go ahead and report it recalling any detail I could remember.It was after school, so in the mid afternoon around 3:30 pm, probably DST. I recall it was a pleasant temperature. The sky was mostly sunny, but there were large fluffy clouds in maybe twenty to thirty percent of the sky. I was cutting through an empty field at the corner of Elm and La Grange road which I always did when I was that age. Now there's a public park at that corner. I liked to look up at the sky. I remember that the sky seemed so blue back then. It seems to me that the sky was bluer back then, but who knows?  Anyway, I looked up and I saw what I would describe as a classic saucer shaped metallic object hovering over my head at about the two o'clock position. It was shiny and obviously metallic. I would estimate that it was maybe 1500 to 2000 feet up, though I wouldn't have known that back then so it is my adult knowledge making that guess. It looked like it was spinning on the outside. I just looked at it for a few seconds, kind of amazed I was looking at this thing and wondering if it saw me. It was between clouds, not even close to an edge. I remember the clouds were moving slowly in the sky but this thing remained perfectly still for at least 10 to 20 seconds. I just stood there and stared for that amount of time, then suddenly in a streak that shot off to the southwest it was gone. It just kind of disappeared in that direction in what I would guess was less than a second. I then focused my attention to my front and went home. I don't remember experiencing any lost time.I never told anyone about this experience. It is the only time I can recall seeing a UFO in the daytime. I don't think it was anything that could be explained as a natural phenomenon, but it could have been a manmade thing. Anyway, that's my report. I apologize that it's not very detailed, but it happened so long ago. I didn't want to tell anyone back then because I knew it wouldn't be believed, but it is something that has stuck with me all this time. Thanks for the opportunity to tell someone and I hope this helps someohow.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97197.html](http://www.nuforc.org/webreports/reports/097/S97197.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Palm Springs (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>Bright white light growing larger as it moved towards me.  It frightened me as it grew larger and then it disappeared in the mountains west of Palm Springs, California.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99988.html](http://www.nuforc.org/webreports/reports/099/S99988.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [542](http://www.nuforc.org/webreports/reports/162/S162925.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164365.html)
-- [540](http://www.nuforc.org/webreports/reports/162/S162920.html)
-- [539](http://www.nuforc.org/webreports/reports/162/S162923.html)
-- [538](http://www.nuforc.org/webreports/reports/162/S162902.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
