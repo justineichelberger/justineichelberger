@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:39 on 2 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:41 on 2 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Tianjin (China) () reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Craft seen emitting various light patterns over Tianjin, China, May 2nd, 2012May 2nd, 2012, at about 10 pm Beijing time, my youngest son came out of his bedroom and asked about a "weird light in the sky that was changing colors".  Without getting up, I dismissed him back to bed by telling him it was likely a planet. I wish I had listened to him sooner.  A few minutes later I retrieved a pair of binoculars, then my 40x Sony Handycam camcorder.  As you can see from my Youtube posts, the lights go through a long pattern of transition rotating through about seven different lighting sequences.  The object moved very slowly to the Northwest, toward Beijing.  Our home is about 100 kilometers from Beijing.  I have no idea what this flying object was.  Two airliners flew over which we could hear and see their outline.  This object had no sound and no silhouette.  With the naked eye, the bottom light looked like it was quickly changing colors from red, to green to blue, back to red, but the video doesn’t really pick up on this.  I am guessing ! it was 3,000-5,000 feet up in the air.  Both my sons, ages 12 and 18, along with my wife observed this craft.  http://www.youtube.com/watch?v=GgsLcR9AM0M&feature=youtu.be</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88762.html](http://www.nuforc.org/webreports/reports/088/S88762.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Ocala (FL) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 135</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146022.html](http://www.nuforc.org/webreports/reports/146/S146022.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162929.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163107.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163431.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162910.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162915.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
