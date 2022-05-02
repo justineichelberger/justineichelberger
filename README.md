@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:47 on 2 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:47 on 2 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Santa Monica (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1 fly over - 1 fly over minutes.</sub><blockquote><sub>looked like stealth bomberNight time looked to be the shape of a stealth bomber.  Had dim lights on underbelly outlining shape, approximately 10 to 12 very dim lights.  These where the only lights on vehicle.  Gliding in the night overhead with no sound whatsoever.  I have seen a lot of planes, my whole family has worked in the airline industry.  I have never seen anything like this.  There was an airliner in another part of the sky and the lights where very bright and blinking.  Weird</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81093.html](http://www.nuforc.org/webreports/reports/081/S81093.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Conifer (CO) reported seeing craft that fit the description of some 'Formation' over a period of approximately still going - still going minutes.</sub><blockquote><sub>Many lights on a hill moving around a bit.There were about 6 lights moving around on the hill, one of the witnesses cameras has all of the lights shown in an attached picture but my camera would only pic up one of the moving lights as seen in my attached video.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62964.html](http://www.nuforc.org/webreports/reports/062/S62964.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162929.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163107.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163431.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162910.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162915.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
