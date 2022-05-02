@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:36 on 2 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:30:06 on 2 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Bettendorf (IA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Fats moving, pulsating lightsWednesday 05/02/07 3:10am Bettendorf Iowa  Observed object moving north at a high rate of speed. Object had pulsating red and white lights.The lights were directly in line, one on top of the other, white on top, red on bottom. The lights had an almost strobe effect.Object appeared to almost be following the path of I-74. Object made a sharp 90 degree right turn and headed east, seeming to now follow the path of I-80. It continued east until it was out of sight.Conditions were clear with stars and current visible planets clearly visible.There were no aircraft sounds or sound of any kind whatsoever.Both witnesses are out at this time of night 5 - 6 nights a week (lunch break at work) and see planes and satellites frequently. This was neither. It appeared to be much higher and moved much quicker then normal air traffic.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56513.html](http://www.nuforc.org/webreports/reports/056/S56513.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in Midway/Marion (KY) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>My friend and I seen this square ufo at my fluorspar mine, it was about 40+40+40ft. it did not have any lights on it, my lights reflected on it, we pulled up to get a better look, we were about 150 ft. from it, we talked about it and were amazed at it, we thought the farmer had built a building from 9:30 that morning to then. it is on a fault of fluorspar, zinc and lead, my contract did not let me mine under a structer or water impoundment, I was mad to think the farmer would do this to me, I tied my friend that in the morning I would go to talk to him and make him move it before it got any further and at that moment we saw a light come around the building and go out of sight on the other corner, than I told my friend I would go talk to the farmer and at that time it just went away no noise streaks no nothing just gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28334.html](http://www.nuforc.org/webreports/reports/028/S28334.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162929.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163107.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163431.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162910.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162915.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
