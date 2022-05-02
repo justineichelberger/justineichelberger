@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:44 on 2 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:54 on 2 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Pinellas Park (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>yellow/ gold dsah of light following a rounded objectOn May 2, 2020 around 22:15 I was standing outside and while looking up I saw what appeared to be a dash of yellow/gold light with a rounded shape in front of it, the visual lasted maybe 3 seconds, but I definitely saw it and it threw me off.  After seeing it my eyes became watery and it freaked me out.  About 10- 15 minutes later I was driving on the road I saw the light and I saw something white float from the ground up.  After viewing this my eyes again became watery and all other lights started messing with my eyes, especially a certain star.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156180.html](http://www.nuforc.org/webreports/reports/156/S156180.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Colorado Springs (CO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Multiple Color UFO craft Happening Now.Hovering over fort carson Now. look. Multicolered lights blinking fast. green, red, blue, yellow pink, orange. looks like a flashing sphere of multi colored light.  Helicopters flying around now.  Go look.  towards Cheyanne Mt.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127146.html](http://www.nuforc.org/webreports/reports/127/S127146.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162929.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163107.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163431.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162910.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162915.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
