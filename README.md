@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:40 on 2 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:12:42 on 2 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Orcutt (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>12 to 14 white orbs traveling in linear formation over Central Coast, CA, SW to NW @ approximately 21:30 PDT 5/2/2020.We witnessed a procession of 12-14 bright white orbs traveling from South to North in the Western sky.Each orb followed the last at the same distance, speed, and trajectory until disappearing from sight.The objects had no blinking lights and made no audible sound, moving in a linear path across the sky.Female witness background: law Male witness background: Journeyman electrician Location: backyard,15 miles inland from Pacific Ocean, looking West. Orbs moved from South to North.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156153.html](http://www.nuforc.org/webreports/reports/156/S156153.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Eagle Grove (IA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Small light  traversing entire night sky in seconds from South to North to NortheastAt approximately 22:50 on May 2, 2020, a small whiteish blue object similar in appearance to a shooting star appeared high in the South sky (seemingly from nowhere). After appearing, the object immediately accelerated to the North with remarkable speed, and changed course to the Northeast.  Once the object changed it’s direction of travel, it continued Northeast for less than one second, then disappeared. Upon seeing this object, I assumed it was indeed a shooting star. However, the slight side to side swaying motion of the object as it flew north was like nothing I have ever witnessed before. The object traversed the entire night sky above me in 5 seconds or less, emitted no sound, and maneuvered much quicker than any aircraft I’ve seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156163.html](http://www.nuforc.org/webreports/reports/156/S156163.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162929.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163107.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163431.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162910.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162915.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
