@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:30:06 on 2 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:45:16 on 2 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in Midway/Marion (KY) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>My friend and I seen this square ufo at my fluorspar mine, it was about 40+40+40ft. it did not have any lights on it, my lights reflected on it, we pulled up to get a better look, we were about 150 ft. from it, we talked about it and were amazed at it, we thought the farmer had built a building from 9:30 that morning to then. it is on a fault of fluorspar, zinc and lead, my contract did not let me mine under a structer or water impoundment, I was mad to think the farmer would do this to me, I tied my friend that in the morning I would go to talk to him and make him move it before it got any further and at that moment we saw a light come around the building and go out of sight on the other corner, than I told my friend I would go talk to the farmer and at that time it just went away no noise streaks no nothing just gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28334.html](http://www.nuforc.org/webreports/reports/028/S28334.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Amarillo (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately school - school minutes.</sub><blockquote><sub>It was littleit was a slow ball. the ball was metal.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49907.html](http://www.nuforc.org/webreports/reports/049/S49907.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162929.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163107.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163431.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162910.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162915.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
