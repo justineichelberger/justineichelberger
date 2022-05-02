@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:48 on 2 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:39 on 2 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Sunnyvale (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Blinking, moving object that traveled with an erratic but repeated pattern in the daytime sky above the silicon valley.Object appeared above trees coming from 280 degees true (approx WNW) traveling with a heading of 100 degrees true at an altitude too high to determine a shape, and traveled slowly to a point nearly directly overhead. While moving, the object was blinking with distinct regularity (1 second bright blink followed by 2 seconds dim blink). Object slowed almost to a stop overhead and quit blinking. Object appeared to be a brownish/gray color. Stayed motioness for approx. two minutes. With an immediate change in direction the object started slowly on a heading of  320 degree true and accelerated very rapidly to a speed faster than that of any airborn object previously seen by this observer. Object began a zigzag pattern cotinuing at a high rate of speed and disappeared from view behind trees.Twenty to thirty minutes later (11:15) the object appeared at the same location as originally sighted and began to moving in the same direction (100 degrees true) as before with a different frequency of blinking (1 sec bright followed by 1 sec dim). Object slowed to nearly a complete stop when it reached a point overhead, quit blinking and disappeared from view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36678.html](http://www.nuforc.org/webreports/reports/036/S36678.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Tianjin (China) () reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Craft seen emitting various light patterns over Tianjin, China, May 2nd, 2012May 2nd, 2012, at about 10 pm Beijing time, my youngest son came out of his bedroom and asked about a "weird light in the sky that was changing colors".  Without getting up, I dismissed him back to bed by telling him it was likely a planet. I wish I had listened to him sooner.  A few minutes later I retrieved a pair of binoculars, then my 40x Sony Handycam camcorder.  As you can see from my Youtube posts, the lights go through a long pattern of transition rotating through about seven different lighting sequences.  The object moved very slowly to the Northwest, toward Beijing.  Our home is about 100 kilometers from Beijing.  I have no idea what this flying object was.  Two airliners flew over which we could hear and see their outline.  This object had no sound and no silhouette.  With the naked eye, the bottom light looked like it was quickly changing colors from red, to green to blue, back to red, but the video doesn’t really pick up on this.  I am guessing ! it was 3,000-5,000 feet up in the air.  Both my sons, ages 12 and 18, along with my wife observed this craft.  http://www.youtube.com/watch?v=GgsLcR9AM0M&feature=youtu.be</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88762.html](http://www.nuforc.org/webreports/reports/088/S88762.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162929.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163107.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163431.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162910.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162915.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
