@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:40 on 2 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:47 on 2 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Queen Creek (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Single red/orange light moving east to west at the speed of a satellite lasting thirty secondsWhile listening to NUFORC report on c2c in my back yard I looked up and thought I was seeing a satellite moving from east to west.  The object was about the same size and brightness as a small star, only it was orange/red in color and was not blinking. I first picked it up inthe area of  the star Alphekka and watch as it moved to the star Procyon.  The speed was about the same as most satellites that I observe and the intensty about equal.  I have never seen a satellite or reflection from a craft this color.  There were several aircraft below this object with normal blinking running lights to compair to, so I would have to say that it was not a regular aircraft, although I have never seen a drone at night and I don't know what type of lighting they would display, plus the speed makes me thing it was a "Red" satellite.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109119.html](http://www.nuforc.org/webreports/reports/109/S109119.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Santa Monica (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1 fly over - 1 fly over minutes.</sub><blockquote><sub>looked like stealth bomberNight time looked to be the shape of a stealth bomber.  Had dim lights on underbelly outlining shape, approximately 10 to 12 very dim lights.  These where the only lights on vehicle.  Gliding in the night overhead with no sound whatsoever.  I have seen a lot of planes, my whole family has worked in the airline industry.  I have never seen anything like this.  There was an airliner in another part of the sky and the lights where very bright and blinking.  Weird</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81093.html](http://www.nuforc.org/webreports/reports/081/S81093.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162929.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163107.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163431.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162910.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162915.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
