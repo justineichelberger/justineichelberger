@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:31 on 2 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:39 on 2 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Richmond (VA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Looked up to see this almost yellow light up in the sky that shot from one side of the sky to the other.It was traveling from the south, south west and was headed across the sky then all of the sudden it shot from one side of the sky to the other. Just after shooting from one side of the sky to the other it disapeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56507.html](http://www.nuforc.org/webreports/reports/056/S56507.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Sunnyvale (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Blinking, moving object that traveled with an erratic but repeated pattern in the daytime sky above the silicon valley.Object appeared above trees coming from 280 degees true (approx WNW) traveling with a heading of 100 degrees true at an altitude too high to determine a shape, and traveled slowly to a point nearly directly overhead. While moving, the object was blinking with distinct regularity (1 second bright blink followed by 2 seconds dim blink). Object slowed almost to a stop overhead and quit blinking. Object appeared to be a brownish/gray color. Stayed motioness for approx. two minutes. With an immediate change in direction the object started slowly on a heading of  320 degree true and accelerated very rapidly to a speed faster than that of any airborn object previously seen by this observer. Object began a zigzag pattern cotinuing at a high rate of speed and disappeared from view behind trees.Twenty to thirty minutes later (11:15) the object appeared at the same location as originally sighted and began to moving in the same direction (100 degrees true) as before with a different frequency of blinking (1 sec bright followed by 1 sec dim). Object slowed to nearly a complete stop when it reached a point overhead, quit blinking and disappeared from view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36678.html](http://www.nuforc.org/webreports/reports/036/S36678.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162929.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163107.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163431.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162910.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162915.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
