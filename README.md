@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:44 on 2 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:36 on 2 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Ellwood City (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Three triangle shaped objects stationary in sky.I was standing  on my patio talking to my Mother on the phone, looking up at the stars. I noticed three separate sets of light in the sky and I thought how strange, they looked as if they were converging to what seemed to be the same point in the sky. I just assumed it was airplanes on their flight path to the local airport. I looked away for a few moments paying attention to my Mothers conversation. When I looked back up to the sky I was dumbfounded. The three objects had formed a triangle in the sky and  it was then I noticed that they themselves where triangle shaped. It was then also that I noticed that the lights were red and white. Only a few at the top of the object, but along the bottom of the object it was well lit. I immediately called for my husband to come join me. He looked up at the sky and said, WOW! We watched them standing stable in the sky for a good five minutes. I was telling my Mother what we were seeing . So in a way she was a witness to it also. My husband works in the airline industry  and we were discussing how no aircraft he knew of could do this. Then two of the objects broke off, became perfectly aligned with one another and starting moving off to the west.. The third one hovered for a few more moments and starting moving over to the left of our house. It came back to the same spot it had left and while my husband and I were watching it just disappeared. We just looked at one another and said again, WOW.  I finished my conversation with my Mother. AND I have been looking in the skies ever since!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56596.html](http://www.nuforc.org/webreports/reports/056/S56596.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Independence (MO) reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>silver, going fast,lights coming out of the bottom, bridge going around the middle</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17616.html](http://www.nuforc.org/webreports/reports/017/S17616.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162929.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163107.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163431.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162910.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162915.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
