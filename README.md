@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:07:40 on 3 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:44 on 3 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Provo (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Numerous (23) Lights in the night sky spotted traveling along same patch at high altitude and speed with equal spacing.We were oUt for a walk and noticed several bright lights in the upper atmosphere traveling from the SouthWest to the NorthEast at very high speed.  Lights brightness stayed constant indicating self illuminating as sunlight hitting a surface would cause it ot dim once your vantage point changed as they passed overhead, they made NO noise or course changes. Lights traveled in the same direction on the same course separated by 5-10 miles best guess.  A search of Flight tracker at the time showed NO aircraft in the area on that course or altitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156251.html](http://www.nuforc.org/webreports/reports/156/S156251.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Downer (MN) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>A seemingly low hovering cigar shaped light appeared in the sky, moved south for 3 seconds, then disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145983.html](http://www.nuforc.org/webreports/reports/145/S145983.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163020.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162932.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162980.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163006.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163432.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
