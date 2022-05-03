@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:49 on 3 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:35 on 3 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Sebastopol (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>High-altitude, or sub-orbital, UFO, followed by 3 high altitude military jets in tight formation.This entire event was observed with a gen 1+ or gen 2 type Russian surplus night vision scope.On three separate occasions, I have witnessed what appear to be "satellites" crossing the early evening sky, but demonstrating maneuvers that would be impossible for a traditional orbiting craft.What these appear to be are orbital or perhaps sub-orbital craft, stopping, changing flight paths, sudden alternative movements, etc.However, this latest event, on the evening of May 3, is unique, in that shortly after the mystery "satellite" object was spotted almost directly overhead, heading due north, then stopping and reversing flight path heading due south . . . three military type jets at very high altitude followed behind in tight formation.This may have been coincidence, or perhaps directly related, I have no way of knowing, but included (via email) is a diagram of the actual event, exactly as witnessed.Though the three military type jets were at high altitude, they could clearly be seen with the naked eye.  The "satellite" or sub orbital object however, could be clearly seen in the night vision scope, but was barely visible to the naked eye, and soon faded from view as it passed overhead toward the horizon, due south.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139736.html](http://www.nuforc.org/webreports/reports/139/S139736.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Colored spheres fly over Houston Texas!On this night i saw two seperate objects. The first one caught my eye as it flew directly over me at an unknown altitude. I live about eight miles from IAH airport. I watch the planes as they take off and land on a nightly bases. If i had to estimate the the speed and altitude, I would say they were about the same altitude as the planes as they fly over, but moving at a higher speed about double the speed of the planes as they take off.Moving from south to north this object flew directly over me and was straight above me when i noticed it. It was a pinkish orange in color, appeared to be spherical in shape although it also seemed to have more of a globular shape. The color was strange because Ive never seen a object this color. Almost as if it was a thick translucent color. Completly silent as it moved at a steady speed until it vanished into the horizon.As i stood there trying to figure out what that was. A few minutes later another one came into view moving at about the same altitude and speed as the first one. This second one was a little darker in color more of an orangish red. Moving this time from east to west.Now a person could say that since i live close to the airport that they were planes. These were not planes! They were completly silent, They were of a solid color by that i mean they were not flashing or strobing like the planes do. And these were not just lights either. You could actually see a a shape, almost as if they were lit from the interior with no exterior lighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50633.html](http://www.nuforc.org/webreports/reports/050/S50633.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163020.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162932.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162980.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163006.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163432.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
