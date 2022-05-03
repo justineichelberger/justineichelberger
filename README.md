@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:40 on 3 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:41 on 3 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Honolulu (HI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>blueish greenish ball of lightIt was a blueish greenish ball with a light yellowish tail.  It was falling from the sky and then disappeared.  I was in my mom's apartment on Alexander St. in Honolulu looking out the sliding glass door towards Kaimuki and it suddenly appeared.  No one else saw it because it was too quick when I told my son to look it disappeared.  She lives right next to the freeway and I'm wondering if anyone else saw it.  It was awesome!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69935.html](http://www.nuforc.org/webreports/reports/069/S69935.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Pittsville (near) (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately sw - sw minutes.</sub><blockquote><sub>I was driving back to Iowa from Jefferson City when (near Pittsville) I saw a group of white circle lightsWhile I was on my way home to Iowa I saw some White lights just to the south of Highway 50. There was 5 or 6 and they formed a circle with one in the middle. they Made a down-ward motion to the Highway, and back up again. I saw them for a time span of about 15-25 min.  When they left they just vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12841.html](http://www.nuforc.org/webreports/reports/012/S12841.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163020.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162932.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162980.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163006.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163432.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
