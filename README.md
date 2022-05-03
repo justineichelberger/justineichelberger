@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:13:25 on 3 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:01:00 on 3 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Kirkwood (MO) reported seeing craft that fit the description of some '' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>When saw started counting lights evenly spaced going east as the count got to twelve,  two less lighted objects going north crossed sky</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156213.html](http://www.nuforc.org/webreports/reports/156/S156213.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Louisville (KY) reported seeing craft that fit the description of some 'Changing' over a period of approximately 22:00 - 22:00 minutes.</sub><blockquote><sub>Bright objects and flashes over Louisville,Kentucky.At aproximately 9:30 pm Est I went out on the porch to smoke a cigarette when I noticed a really extremely bright light in the sky. It was unusual in its shape and size.The light was very very bright and seemed to be unstable as if beams were shooting out from all over it.A I watched this object, just to the left of it what at first I thought was a plane flew right into it.  I looked to the right thinking it was going fly past it and it did not. That is when I jumped up and told my son something is not right with that object I think it is a UFO.As we watched it within 3-4 minutes two white bullet  shapes objects came out of it,one on the left and one on the right.I ran in and grabbed my video camera and started filming it. We watched as its movements were irratic at times and at one time before it completely disappeared it came closer and then backed away and then disappeared.Within about 5 minutes it reappeared in the same area and to the right of it a red object appeared in the sky.The red object moved faster than any jet we had ever seen. It was if it was encircling the the white object. Then all of a sudden they disappear and we see flashes of white light as if someone was taking a picture and the flash was so bright.By now our neighbors were outside watching the activity and we noticed all the planes coming into our airport were circling away and we noticed jets taking off in the direction of the ufos. All of a sudden we hear a sonic boom and we look at the traces in the sky from the jets heading in that direction.I tried to video tape the red object and the happenings afterwards but for some odd reason I could not get it to film, all I got was static across my screen as I tried to film it.Witnesses: 1. I am self employed and a paranormal investigator.2.Truck Driver 3.Caregiver 4.Student 5.Cook</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75289.html](http://www.nuforc.org/webreports/reports/075/S75289.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163020.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162932.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162980.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163006.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163432.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
