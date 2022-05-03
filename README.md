@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:41 on 3 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:07:40 on 3 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Pittsville (near) (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately sw - sw minutes.</sub><blockquote><sub>I was driving back to Iowa from Jefferson City when (near Pittsville) I saw a group of white circle lightsWhile I was on my way home to Iowa I saw some White lights just to the south of Highway 50. There was 5 or 6 and they formed a circle with one in the middle. they Made a down-ward motion to the Highway, and back up again. I saw them for a time span of about 15-25 min.  When they left they just vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12841.html](http://www.nuforc.org/webreports/reports/012/S12841.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Provo (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Numerous (23) Lights in the night sky spotted traveling along same patch at high altitude and speed with equal spacing.We were oUt for a walk and noticed several bright lights in the upper atmosphere traveling from the SouthWest to the NorthEast at very high speed.  Lights brightness stayed constant indicating self illuminating as sunlight hitting a surface would cause it ot dim once your vantage point changed as they passed overhead, they made NO noise or course changes. Lights traveled in the same direction on the same course separated by 5-10 miles best guess.  A search of Flight tracker at the time showed NO aircraft in the area on that course or altitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156251.html](http://www.nuforc.org/webreports/reports/156/S156251.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163020.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162932.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162980.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163006.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163432.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
