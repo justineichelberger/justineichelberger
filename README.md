@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:03:42 on 3 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:49 on 3 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Santa Monica (CA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Black triangle at 3000 feet going west to east.  Single small red lights, one in each corner. Not a sound....was going about 350 mph.  Then accelerated and just disappeared....vanished. it just looked effortless… I am ex-military and come from a strong aviation family.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139719.html](http://www.nuforc.org/webreports/reports/139/S139719.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Sebastopol (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>High-altitude, or sub-orbital, UFO, followed by 3 high altitude military jets in tight formation.This entire event was observed with a gen 1+ or gen 2 type Russian surplus night vision scope.On three separate occasions, I have witnessed what appear to be "satellites" crossing the early evening sky, but demonstrating maneuvers that would be impossible for a traditional orbiting craft.What these appear to be are orbital or perhaps sub-orbital craft, stopping, changing flight paths, sudden alternative movements, etc.However, this latest event, on the evening of May 3, is unique, in that shortly after the mystery "satellite" object was spotted almost directly overhead, heading due north, then stopping and reversing flight path heading due south . . . three military type jets at very high altitude followed behind in tight formation.This may have been coincidence, or perhaps directly related, I have no way of knowing, but included (via email) is a diagram of the actual event, exactly as witnessed.Though the three military type jets were at high altitude, they could clearly be seen with the naked eye.  The "satellite" or sub orbital object however, could be clearly seen in the night vision scope, but was barely visible to the naked eye, and soon faded from view as it passed overhead toward the horizon, due south.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139736.html](http://www.nuforc.org/webreports/reports/139/S139736.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163020.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162932.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162980.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163006.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163432.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
