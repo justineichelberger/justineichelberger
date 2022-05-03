@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:42 on 3 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:44 on 3 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Tooele (UT) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>This was a huge rocket a mile long maybe longer taking off ffk.  The north east and going south was and up and out through the atmosphere you could hear it for five mins after it left</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127382.html](http://www.nuforc.org/webreports/reports/127/S127382.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Pittsville (near) (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately sw - sw minutes.</sub><blockquote><sub>I was driving back to Iowa from Jefferson City when (near Pittsville) I saw a group of white circle lightsWhile I was on my way home to Iowa I saw some White lights just to the south of Highway 50. There was 5 or 6 and they formed a circle with one in the middle. they Made a down-ward motion to the Highway, and back up again. I saw them for a time span of about 15-25 min.  When they left they just vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12841.html](http://www.nuforc.org/webreports/reports/012/S12841.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163020.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162932.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162980.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163006.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163432.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
