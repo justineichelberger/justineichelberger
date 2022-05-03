@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:22 on 3 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:39 on 3 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Toronto (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Fleet of UFO’sCame from the west heading east, and then disappeared upward.  Multiple crafts coming from the same location, going in the same direction.  Thought maybe it was a satellite until I saw a 2nd, and then a 3rd, and so on.  Wish I kept track.  After the last one appeared, a jet flashing red and blue lights followed the same path behind them.  Very high altitude..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156245.html](http://www.nuforc.org/webreports/reports/156/S156245.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Albemarle (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>It wasa white fuzzy blip of light that suddenly appeared in the sky with the moon and it cast a reflection on lakeI was photographing the  moonrise over Lake Tillery, NC.  A blip suddenly streaked up by the moon and then past it.  I noted it and discussed it in a video I then took of the moon.   Did not give it too much thought until I found out I had gotten it captured on still photo I had taken.  I took a series of still and videos of the moon last night, May 3, 2015,  I have posted my pics and vid on several places on FB on my page and on some friends' pages.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118783.html](http://www.nuforc.org/webreports/reports/118/S118783.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163020.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162932.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162980.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163006.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163432.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
