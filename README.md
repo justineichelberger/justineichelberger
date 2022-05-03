@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:36 on 3 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:36 on 3 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Markham (IL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>White object travels through morning sky.There was only one white spot in the sky.  From the distance from earth that it was at it was no larger then a pencil eraser.  I figure there is no way that it could be a plane cause first it was to high and a plane would have left an exhaust trail that high in the air.  It was a small cigar shaped object that from where I was it was moving south in the early morning.  It was a clear sky with a few clouds and it moved slowly as it passed overhead.  Then it was to far to make out anymore.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28657.html](http://www.nuforc.org/webreports/reports/028/S28657.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Spokane (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>The object was seen flying from a westerly direction to the southeast.  A very bright strobe light came on then off for short burst three times in a row, this was seen through my skylight.  I jumped out of bed to my deck which directly off the bedroom, within three seconds nothing could be seen or heard. clear to very high thin clouds at time of the event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156147.html](http://www.nuforc.org/webreports/reports/156/S156147.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163020.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162932.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162980.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163006.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163432.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
