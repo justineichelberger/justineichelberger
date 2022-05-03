@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:35 on 3 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:46 on 3 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Colored spheres fly over Houston Texas!On this night i saw two seperate objects. The first one caught my eye as it flew directly over me at an unknown altitude. I live about eight miles from IAH airport. I watch the planes as they take off and land on a nightly bases. If i had to estimate the the speed and altitude, I would say they were about the same altitude as the planes as they fly over, but moving at a higher speed about double the speed of the planes as they take off.Moving from south to north this object flew directly over me and was straight above me when i noticed it. It was a pinkish orange in color, appeared to be spherical in shape although it also seemed to have more of a globular shape. The color was strange because Ive never seen a object this color. Almost as if it was a thick translucent color. Completly silent as it moved at a steady speed until it vanished into the horizon.As i stood there trying to figure out what that was. A few minutes later another one came into view moving at about the same altitude and speed as the first one. This second one was a little darker in color more of an orangish red. Moving this time from east to west.Now a person could say that since i live close to the airport that they were planes. These were not planes! They were completly silent, They were of a solid color by that i mean they were not flashing or strobing like the planes do. And these were not just lights either. You could actually see a a shape, almost as if they were lit from the interior with no exterior lighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50633.html](http://www.nuforc.org/webreports/reports/050/S50633.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Plymouth (UK/England) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 60s - 60s minutes.</sub><blockquote><sub>An unusual bright orange moving light in the sky over Plymouth UK.The night is cloudless. I looked out of the window to see a large orange light like a fireball in the sky, moving at what appeared to be the speed of a plane, over my house from west to east. The light was 2 or 3 times the size that the largest planet appears to be when it is close to the earth ie much bigger than a star and completely the wrong colour. It is  difficult to estimate how high the object was, but it was possibly slightly over helicopter height, but there was absolutely no sound. I called my husband and together we watched the light move steadily across the sky. It appeared to get smaller and then possibly burn out. No other objects were seen in the sky, apart from a few stars, and neither of us have ever seen a light like that in the sky before. We are professionals in our 50s(a teacher and IT professional)and are not UFO watchers.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69923.html](http://www.nuforc.org/webreports/reports/069/S69923.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163020.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162932.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162980.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163006.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163432.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
