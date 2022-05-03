@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:40 on 3 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:42 on 3 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Spring (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>20+ glowing orbs seen over 30 minute period in eastern horizonAt about 8:54 p.m. my wife saw orange red orbs about 4 miles east of our house moving from the south and heading north.  Initially there were 3 then more followed the same path, some higher and some lower.  We got Binoculars out and could only see glowing ball of red and orange, no demarcation lights or anything that would indicate a plane might be what we were seeing.  We called some friends and told them to look because they lived near where we were seeing the objects.  They immediately saw them and said they made no noise and changed direction slightly and merged together some times but they could see them go all the way north into the horizon, a good 10 miles.  In over thirty minutes there must have been over 20 of them. We saw these same balls over our house back in October at a distance of 150-200 ft making absolutely no noise at all.  I have a aeronautical background working for Lockheed for a many years and privately fly sailplanes and Hang Gliders.  These were not drones or planes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109154.html](http://www.nuforc.org/webreports/reports/109/S109154.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Tooele (UT) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>This was a huge rocket a mile long maybe longer taking off ffk.  The north east and going south was and up and out through the atmosphere you could hear it for five mins after it left</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127382.html](http://www.nuforc.org/webreports/reports/127/S127382.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163020.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162932.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162980.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163006.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163432.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
