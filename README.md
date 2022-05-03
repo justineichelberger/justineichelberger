@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:46 on 3 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:39 on 3 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Plymouth (UK/England) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 60s - 60s minutes.</sub><blockquote><sub>An unusual bright orange moving light in the sky over Plymouth UK.The night is cloudless. I looked out of the window to see a large orange light like a fireball in the sky, moving at what appeared to be the speed of a plane, over my house from west to east. The light was 2 or 3 times the size that the largest planet appears to be when it is close to the earth ie much bigger than a star and completely the wrong colour. It is  difficult to estimate how high the object was, but it was possibly slightly over helicopter height, but there was absolutely no sound. I called my husband and together we watched the light move steadily across the sky. It appeared to get smaller and then possibly burn out. No other objects were seen in the sky, apart from a few stars, and neither of us have ever seen a light like that in the sky before. We are professionals in our 50s(a teacher and IT professional)and are not UFO watchers.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69923.html](http://www.nuforc.org/webreports/reports/069/S69923.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in North Canton (OH) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>North Canton, OH.  15-20 orange oval shaped objects, observed 5-10 minutes, clear, night sky  23:30 hoursOn Sunday, May 3, 2015, at approximately 23:30 hours, the reportee states he observed 15-20 orange, oval shaped objects in the western sky travelling east.  The was no specific formation to them.  The objects travelled east for a short time, and then changed direction, travelling north, until they were out of sight.  The speeds of the objects were steady, smooth, and did not appear to be moving rapidly.  The reportee stated he and a family member witnessd this event together.  He decided to report it to his local law enforcement agency on Monday, May 4, 2015, at 13:15 hours.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118784.html](http://www.nuforc.org/webreports/reports/118/S118784.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163020.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162932.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162980.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163006.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163432.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
