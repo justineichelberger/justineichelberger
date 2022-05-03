@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:27:30 on 3 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:08:19 on 3 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Hialeah (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>My wife stepped outside to get some laundry and she noticed a bright orange light hovering in the sky and called me to come out and see it, what I saw was something I've never seen before,  it continued to hover for about 2 mins and then it simply vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109161.html](http://www.nuforc.org/webreports/reports/109/S109161.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Westland (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>UFO Sighting: Westland, Mi. At 22:02 I stepped outside to my back patio for some fresh air. At 22:03 I noticed what appeared to be the ISS moving from the west to a east northeast path. A few seconds later, I noticed another light from the same direction following the first light. So now I know it is not the ISS. I make a phone call to a friend at 10:04pm, no answer. I yell inside the house for my family to come and witness what I am seeing. More keep coming, in a single line path. My two sons come out on to the patio and they help me spot each one as they fly from the west. At 22:13 I called another friend, he lives 3 miles south of me. He did see the last 4 objects. We counted 25 of these lights. They looked like the ISS flying over, orange light, similar speed as the ISS, and no sound. I'm just not sure if these objects were inside the atmosphere or not. It looked like they were entering the atmosphere from the west and leaving it in the east northeast sky. For the record, the ISS, or no other satellites, were scheduled to fly over at this time. I tried recoding a video. The objects would not show up on my phone. There was a very bright white 3/4 moon just a few degrees south of the line if direction these objects were moving.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156204.html](http://www.nuforc.org/webreports/reports/156/S156204.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163020.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162932.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162980.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163006.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163432.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
