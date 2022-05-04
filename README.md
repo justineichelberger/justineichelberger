@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:22 on 4 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:25 on 4 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Meridian (ID) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Multiple triangle shaped objects floating in formation.Roughly 35 triangle shaped objects seen in sky over Meridian Idaho on May 4th, 2017, 6:36pm, while at sports event at 43.615085, -116.337603.  From this location, the objects where in seen above in sky toward the southern direction.Objects were seen by multiple people at the event, including children and adults., which appeared to be slowly gliding across sky and fading from sight, after about 7 minutes.  In the picture (phone camera) they are white spots, but they were each visibly shaped like triangles.  The objects remained fixed in position between each other, but there were no connections visible to the eye.The sky was totally blue (cloudless) and objects could be seen quite well while lower in sky.  The picture was taken a couple minutes after first sighting, as they were higher in sky, and smaller in appearance.((NUFORC Note:  Witness elects to remail anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135170.html](http://www.nuforc.org/webreports/reports/135/S135170.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Westminster (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Twin orange balls seen over Westminster CaUnidentified object in night sky  Thursday, May 4 , 2006 @2240 hrs   I was standing at the N/E corner of Westminster Ave and Golden West St (33‘ 45“ 35.14* N and 118‘ 00“ 24,65* W).  I had just bought a cup of coffee and a do-nut.  I saw a object in the sky about 45 degrees above the horizon in a N/W direction from where I was standing. It was off in the distance and I would estimate it at about five thousand feet.   It appeared to be two orange balls that were close together and  were blending together.  It appeared to be hovering. There was no noise.  I watched it for about thirty seconds then saw  a green object fall from the bottom of it and move off in a S/W direction (relative to the orange balls) into the cloud cover and disappear.  After about another ten seconds another  green object (like the first but not as bright) dropped out of it and moved off in a N/E direction (relative to the orange balls) and again disappeared into the cloud cover. After about another ten seconds the orange balls slowly faded out and disappeared.   At the time there were two search lights (like the ones you would see at a grand opening of a store) scanning the sky about ten degrees to the left of what I saw (east of my location).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50785.html](http://www.nuforc.org/webreports/reports/050/S50785.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162999.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163018.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163004.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162990.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162954.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
