@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:07:13 on 4 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:28 on 4 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in San Angelo (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>3 unknown objects in the skies of west TexasWe sighted 2 objects with 3 red lights across that appeared on the horizon for approx. 30 seconds the disappeared and reappeared for 15 more seconds,  I work on military aircraft and these where not any aircraft I have ever seen, Also there are no radio or cell towers that would have anti-collision lights in the area. also there was an abject slightly above the 2 objects that has been flashing red then white with a blue hue for around 15 minutes or so.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75298.html](http://www.nuforc.org/webreports/reports/075/S75298.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Milford (between cities) (IN) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>It was the 4th of July and my parents and I were coming home from some fireworks. Occasionally, we would see small towns set off fireworks, along the way. I saw a flash of light, assumed it was a firework, and waited for the noise. There wasn't a noise. By the time I had realized that it wasn't a firework I saw whatever it was, flash again. This time it was much closer(Yes we were moving in a car but it moved too much of a distance in that time to be stationary). The next flash was directly beside our car. The flash occured about the same heighth as the top of a telephone pole(except the telephone poles were on the other side of the road). There still wasn't any sound. I looked behind the car antcipating the next flash which occured quite a distance from our car.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45329.html](http://www.nuforc.org/webreports/reports/045/S45329.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162999.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163018.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163004.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162990.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162954.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
