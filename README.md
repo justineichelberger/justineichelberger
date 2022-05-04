@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:27:30 on 4 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:07:54 on 4 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Dallas (TX) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>I walked out on my porch to look through my new telescope. As I was putting it together I looked up to see where the moon was so I could adjust my telescope accordingly. As I stared in the sky I witnessed a solid moving object that made no sound. I move from West to East at what appeared to be 5-10 mph. It had no visible lights which threw me because I always invisioned an UFO having quiet a few lights. I watched as it slowly went overhead for about a minute. It never changed speed or made a sound. Because it was dark, I could only make out that it was what appeared to be a diamond shape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62996.html](http://www.nuforc.org/webreports/reports/062/S62996.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Westminster (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Twin orange balls seen over Westminster CaUnidentified object in night sky  Thursday, May 4 , 2006 @2240 hrs   I was standing at the N/E corner of Westminster Ave and Golden West St (33‘ 45“ 35.14* N and 118‘ 00“ 24,65* W).  I had just bought a cup of coffee and a do-nut.  I saw a object in the sky about 45 degrees above the horizon in a N/W direction from where I was standing. It was off in the distance and I would estimate it at about five thousand feet.   It appeared to be two orange balls that were close together and  were blending together.  It appeared to be hovering. There was no noise.  I watched it for about thirty seconds then saw  a green object fall from the bottom of it and move off in a S/W direction (relative to the orange balls) into the cloud cover and disappear.  After about another ten seconds another  green object (like the first but not as bright) dropped out of it and moved off in a N/E direction (relative to the orange balls) and again disappeared into the cloud cover. After about another ten seconds the orange balls slowly faded out and disappeared.   At the time there were two search lights (like the ones you would see at a grand opening of a store) scanning the sky about ten degrees to the left of what I saw (east of my location).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50785.html](http://www.nuforc.org/webreports/reports/050/S50785.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162999.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163018.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163004.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162990.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162954.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
