@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:41 on 4 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:34 on 4 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Zamora (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>EMS sees line of UFOs traveling two by two.We just saw strange lights in the sky while responding to a 911 call. They traveled in a straight line and two by two. They were exactly the same length a part. It was nothing I had ever seen before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162942.html](http://www.nuforc.org/webreports/reports/162/S162942.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Wyoming (MI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2 objects, 2 minutes apartTime: 10:15 pm eastern standard time  Location: Wyoming, Mi near the intersection of Spartan Industrial & 44th street.Weather condition:  NOT A CLOUD IN THE SKY! Duration of the first incident: about 5 minutes.Duration of the second incident: about 1-2 seconds.I saw two objects about 2 minutes apart.  Both were distinctly different.I was looking up at the sky as I walked and chatted with my girlfriend, on the phone.  That's when I noticed the first one.It was a bright, red light moving north to south, in the western sky, as it flew erratically.  It zig-zagged from east to west.I'm unsure of its distance or altitude.  Even this objects speed was unimpressive.It was its course correction that made me stand in amazement.  It moved from east to west without slowing down.  It didn't circle like a normal aircraft.  It just changed course without even coming to a stop.At one point it seemed to come to a dead stop.  Then it continued south as its light faded away.I didn't lose sight of it.  I continued to maintain a clear look of the object and the sky.  It just faded away, like it simply disappeared.2nd incident.As I continued to watch the sky, as I chatted on the phone, about 2 minutes later a second light/object appeared.I wasn't expecting it and only saw it for a second or two.It moved from east to west and it was VERY FAST AND VERY BRIGHT!  The light was white. It was low in the sky, probably a mile or just over and it didn't make any noise.  Neither did it leave a trail of any kind.It wasn't quite as fast as a shooting star but MUCH faster than ANY aircraft I've ever seen.  Nothing we have could have caught up to it.Just before It disappeared behind the buildings the light simply went out.I've never witnessed anything like it.  They were just incredible. Absolutely amazing.Let me close by saying I've never gone out at night hoping to witness a sighting.  While I find the subject interesting I'm highly critical of reports, video and images.  I'm simply a star gazer.What I saw was incredible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109969.html](http://www.nuforc.org/webreports/reports/109/S109969.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162999.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163018.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163004.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162990.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162954.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
