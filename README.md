@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:40 on 4 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:37 on 4 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Olive Hill (KY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright, slow moving orange craft over Olive Hill Kentucky.It caught my eye as I pulled into my driveway.  The craft was an extremely bright orange at the center, with a strobe light on both the right and left sides.  It moved along at a slow pace as it crossed the sky from one side of the horizon, to directly over me, then onto the hill.  As the craft was moving from left to right in the sky slowly and passed, I saw a commercial airliner going from right to left, which explains the dull hum of the airplane engine I heard (sorry about not knowing the cardinal directions from my location).  The aircraft was so bright that it was almost hard to look at, but the orange glow didn't appear to be fluctuating, but a solid orange mass.  The sky was extremely clear, so the objects were very visible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81150.html](http://www.nuforc.org/webreports/reports/081/S81150.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Cheney (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>My husband and I were outside, I looked up and pointed out some satellite looking objects moving in one direction.  We then noticed that there was way more than just one, we observed approximately 20-30 of these lights traveling in a perfectly spaced distance from each other and going northeast.  This lasted for 3-4 minutes.  It ended by the last light traveling across and disappearing like the rest.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156235.html](http://www.nuforc.org/webreports/reports/156/S156235.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162999.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163018.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163004.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162990.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162954.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
