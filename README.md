@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:44 on 4 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:46 on 4 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Clovis (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Fireballs in the night skyI am a police dispatcher and on my night off I observed several objects rising in the sky. The first appeared as one then split into two, followed by a third. They moved quickly in a southeast direction. Around 5 minutes later, 3 more rose and went into a southeast direction as well. 4 more came up and went in a southeast direction. That occurred all within about 10 minutes of each other. At 22:14, 5 more came up and went in a southeast direction as well. They appeared to have a flickering light almost appearing as though it was a flame or fireball. They were round, disc shaped in a white or light silver color but it was reflective as you could see their flickering lights reflecting on them. There were several witnesses to this as well as people running in the street to record and see as well as several vehicles driving in the area to see if we could find where they were coming from. They all disappeared in the southeast sky. There was absolutely no sound to! these discs but could be seen very clearly that they weren't drones or planes etc. Several pictures and videos were taken but certainly do not show the detail that could be seen in person.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163004.html](http://www.nuforc.org/webreports/reports/163/S163004.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Richmond (VA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Two craft flew slowly parallel for two minutes, then one stayed the course,the other veered off, sunlight gleaming off it`s side. Seemed to be 3-4 miles away, and flew slower than the planes around them. I felt compelled to look at the sky, and then I saw them and watched as they glided away. The objects were metallic, similar in size and rate of speed, and made no noise. This is my 3rd UFO sighting in my 30 years in VA.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07059.html](http://www.nuforc.org/webreports/reports/007/S07059.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162999.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163018.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163004.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162990.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162954.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
