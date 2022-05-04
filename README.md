@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:41:13 on 4 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:27:30 on 4 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Kansas City (MO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 50.0 - 50.0 minutes.</sub><blockquote><sub>On May 4th, 2000 at 9:10 pm in Kansas City, Missouri,  8 witnesses observed a bright, color-changing pulsating orb in the night sky.It was 9:10 pm CST, here in Kansas City, Missouri. My daughter called me out to the front yard to look at something in the sky. I was on the PC, and a little slow to come out until my wife said "Oh my God, come out and look at this. I don't believe it." I went outside and walked into the front yard. There, West SW from my house, about 40 degrees above the horizon, was what looked like a fat pulsating star. It was changing brilliant colors. Magenta, Aqua, Turquoise, Green, Gold, unlike primary colors. It changed color rapidly, but pulsed at a slower frequency. It was quite obvious even with the naked eye that it was pulsating and changing colors. You could see the diameter of it. It reminded me of what Jupiter might look like at times. At arms length, about 1/8 inch diameter. Round and pulsating. It appeared to be much too fat for a star, but otherwise you could not tell size, distance was uncertain. It did not appear to be in space, it was in the sky. It was very weird to be able to watch it for so long. It appeared to remain in the same part of the sky, until we lost it in the glare of the highway lights while chasing towards it in a car. A friend who was visiting happened to have a nice SONY Handycam with Night Shot infrared and 72x digital zoom. We got some great footage of it, first without the infrared. It is not like anything I am aware of that is normal in the sky. We got a good 10 or 20 minutes of it. Then we chased it in the car, but it was obviously a few miles away at least. But the best part was when we switched it to Night Shot Infrared. The object was too far away too be painted by the camera. What we shot was the infrared signature of the object, mixed with monochrome, and it really is spectacular. It looks like a pulsing fog, with a bright triangular nucleus that is spinning rapidly. Like a cell made of light with a spinning triangle for a nucleus. I will get the video uploaded to the internet and post it. Stills are up now at http://www((URL deleted)).html/ I made sure to get perspective shots of the trees and streetlights in the foreground. I am excited to have the video evidence, and curious as to what others might think it is after seeing it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12926.html](http://www.nuforc.org/webreports/reports/012/S12926.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Dallas (TX) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>I walked out on my porch to look through my new telescope. As I was putting it together I looked up to see where the moon was so I could adjust my telescope accordingly. As I stared in the sky I witnessed a solid moving object that made no sound. I move from West to East at what appeared to be 5-10 mph. It had no visible lights which threw me because I always invisioned an UFO having quiet a few lights. I watched as it slowly went overhead for about a minute. It never changed speed or made a sound. Because it was dark, I could only make out that it was what appeared to be a diamond shape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62996.html](http://www.nuforc.org/webreports/reports/062/S62996.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162999.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163018.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163004.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162990.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162954.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
