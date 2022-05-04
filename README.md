@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:35 on 4 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:47 on 4 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 11:00 - 11:00 minutes.</sub><blockquote><sub>red and blue strobe lights circling the ufoWe were sitting at my patio using binoculars to look at the stars close up. and saw out of nowhere a disk shape object floating diaganaly towards the ground. it had red and blue swirling lights around sides but wasnt on fire. couldnt tell exact color of the ship.((NUFORC Note:  Date is approximate.  Duration of the event is unknown.  We do not know if the witness means seconds, minutes, or what.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39098.html](http://www.nuforc.org/webreports/reports/039/S39098.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Seymour (CT) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>8 or more circles of 8 or so lights hovering in unchanged spots viewable from my back deck and remaining 1.5 hours and counting.At about 20:50 pm EST in Seymour, CT, US I stepped out onto our deck facing roughly NW and saw a circle of lights.  Looking closely there appeared to be about 8 lights of multi colors.  At quick glance the lights appear to be white almost like a diamond bracelet.As I looked with greater attention I discovered at least 8 of them just sitting there in the air. Very unusual, in my sixties I have never seen anything like it.  None appeared to be clearly moving although atmosphere may have created that affect.  Looking at them at time I could see several colored light emissions.  Some were brighter and closer others smaller and faded due to distance and clouds perhaps.I looked at the 2 clearest ones through a pair of Sears wide angle 40x binoculars and they appear white, initially like an enlarged snowflake, but as I studied it, trying to hold the binoculars steady, the spheres seemed to have horizontal channels across them from top to bottom and appear to be shifting which again may be atmospheric affects.I have taken numerous photos using my 16 megapixel Samsung Galaxy 5 smartphone and its burst shots.  In the photos and binocular views there appeared to be a haze surrounding the sphere.  I have also captured it via video but none of the shots show much more than white.  When enlarged there appears to be rectangular structures in the center but that may be to do with the optics of the camera I suppose.It is now 22:20 and the all are still in place.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118778.html](http://www.nuforc.org/webreports/reports/118/S118778.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162999.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163018.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163004.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162990.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162954.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
