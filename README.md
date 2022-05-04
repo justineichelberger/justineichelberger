@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:53 on 4 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:51 on 4 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in North Plains (OR) reported seeing craft that fit the description of some '' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub></sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162936.html](http://www.nuforc.org/webreports/reports/162/S162936.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Brunswick (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>9 orange orbs in formations over 9 minutes. May 4, 2013 OH.Came in formations staying same distance apart.First came two in single file moving about half the speed of airplanes.  They continued across the sky moving east to west for at least 3 minutes.  They gradually as moving ascended out of site.Soon as they disappeared three more came following the exact same route.  One lead orange glowing orb with two flanked behind to left and right of lead forming a triangle pattern.  For about 3 min. all disappearing the same way.  Then four more in single formation all same distance apart for 3 minutes disappearing the same way as others. Orange in color with it glowing.  All same size.  You can see flight route of airplanes to or through Cleveland to north of us.  The route of these objects much slower than the planes. I did manage to get a couple seconds at the end on video.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97571.html](http://www.nuforc.org/webreports/reports/097/S97571.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162999.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163018.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163004.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162990.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162954.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
