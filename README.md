@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:40 on 4 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:13:17 on 4 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Reno (NV) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>consumed the surrounding light like a vampire.   distant benevolence?...... none.At approx 03:00am on May 04 2013 while walking around the backside of our property (top of Wedekind rd. & McCarran blvd in Reno, Nevada), a slight (yet rather noticeable) motion within my periphery had grabbed my attention.  I turned to look up toward the south end of town.At about 20*deg above average horizon there was an object moving upward at a slight arc from the east.  The object traveled at a speed of approx 2+*deg per/second across the sky towards the west/s.west direction.  This is quite a bit faster than any satellite I would usually see at this hour.The size of the object if compared to a satellite (without assuming any equal distance in orbit, but merely by observable perspective) would be like comparing the sharpened tip of a pencil (satellite) with the eraser of a pencil (object) held at arms length.  The shape was of an oval, but lacked a solidly defined edge entirely.The object could have been dismissed entirely as a massive satellite ( perhaps the I.S.S. on re-entry?) or even a commercial airliner below 20,000ft.  Instead of completing an arc across the sky, it abruptly changed it's course ¾ the way and dropped downward, as if it just suddenly fell from the sky (in a very fast & controlled manner).The whole time this was being witnessed I had this very strange feeling that this object had become very aware that it was being watched, I felt this most intensely just before it fell towards the earth, as if offended by my staring at it.  However, the disturbing part had to be the way it was illuminated (or lack of illumination).  It was a VERY dark orange/pink color. It seemed as if it absorbed it's light from its surroundings, almost like some kind of parasitic negative image, or maybe like a black-hole.It glowed.... yet, it didn't.  It's surface was like a soft dark rubberized orange/pink haze... it glowed like it it was lit by some distant black-light tube.  But I swear it consumed the surrounding light like a vampire.This is not my first time seeing this phenomena in our town.  This solo one just confirmed the strange cluster formation that left myself and a friend shocked and questioning our existence this last year.  I don't believe there visiting has any distant benevolence...... none.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97566.html](http://www.nuforc.org/webreports/reports/097/S97566.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Willits (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>11 orange glowing discs spotted just east of 101 in Willits, near east valley road, hovering low and slowly moved a bit west before completely disappearing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127172.html](http://www.nuforc.org/webreports/reports/127/S127172.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162999.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163018.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163004.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162990.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162954.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
