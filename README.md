@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:13:17 on 4 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:35 on 4 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Willits (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>11 orange glowing discs spotted just east of 101 in Willits, near east valley road, hovering low and slowly moved a bit west before completely disappearing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127172.html](http://www.nuforc.org/webreports/reports/127/S127172.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 11:00 - 11:00 minutes.</sub><blockquote><sub>red and blue strobe lights circling the ufoWe were sitting at my patio using binoculars to look at the stars close up. and saw out of nowhere a disk shape object floating diaganaly towards the ground. it had red and blue swirling lights around sides but wasnt on fire. couldnt tell exact color of the ship.((NUFORC Note:  Date is approximate.  Duration of the event is unknown.  We do not know if the witness means seconds, minutes, or what.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39098.html](http://www.nuforc.org/webreports/reports/039/S39098.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162999.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163018.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163004.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162990.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162954.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
