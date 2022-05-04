@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:03:20 on 4 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:40 on 4 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Colorado Springs (CO) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>bullet shaped craft over the skies of coloradoOk so mountains are to my west, I was faced south and watched a craft that was bullet shaped heading north, lasted only 20 seconds but at the end it accelerated fast enough to cause a streak behind it in a bright blue color then it was gone just plum vanished.looked like a bright blue bullet. this happend at 1:33 am</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81108.html](http://www.nuforc.org/webreports/reports/081/S81108.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Olive Hill (KY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright, slow moving orange craft over Olive Hill Kentucky.It caught my eye as I pulled into my driveway.  The craft was an extremely bright orange at the center, with a strobe light on both the right and left sides.  It moved along at a slow pace as it crossed the sky from one side of the horizon, to directly over me, then onto the hill.  As the craft was moving from left to right in the sky slowly and passed, I saw a commercial airliner going from right to left, which explains the dull hum of the airplane engine I heard (sorry about not knowing the cardinal directions from my location).  The aircraft was so bright that it was almost hard to look at, but the orange glow didn't appear to be fluctuating, but a solid orange mass.  The sky was extremely clear, so the objects were very visible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81150.html](http://www.nuforc.org/webreports/reports/081/S81150.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162999.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163018.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163004.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162990.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162954.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
