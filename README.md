@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:24 on 5 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:50 on 5 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Boca Raton (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately Hours - Hours minutes.</sub><blockquote><sub>3 objects sighted in Boca Raton.3 separate objects sighted in Boca Raton.  Each object had 3 lights with 2 on the top and one below in the center.  Remained stationary as planes were seen at the same time, but they were flying and proceeding normally.  First observed at approximately 8:20 pm, and are still present (8:46 pm).((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109199.html](http://www.nuforc.org/webreports/reports/109/S109199.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in State College (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>lights in the skyI've been watching these lights in the sky for the past 5-6 years now. The first time i noticed them I was just watching the night sky when I noticed this light moving across the sky it looked like a star. They get bright and they fade, they appear to go around stars, Some times they appear to wobble. Anyways the first one i was watching kept going back and forth from one mountain ridge to the other till all of a sudden another one came and met up with the one i'd been watching and they flew off together side by side.   I've also seen them going across the sky and stop and go straight up and dissapear. I've seen one go across the sky and had fire or some kind of bright flash then dissapear. I can't get them in veiw with a telescope they're to fast i've tried binocculars they're just brighter lights. I've tried to get somebody to come out to see these lights from the university here but no one seemed interested. When I came acrossed this website I could'nt believe how many others are seeing the same thing or what appears to be the same thing. I am really interested in finding out what they are.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22773.html](http://www.nuforc.org/webreports/reports/022/S22773.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/162/S162981.html)
-- [376](http://www.nuforc.org/webreports/reports/162/S162982.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163038.html)
-- [374](http://www.nuforc.org/webreports/reports/162/S162973.html)
-- [373](http://www.nuforc.org/webreports/reports/162/S162978.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
