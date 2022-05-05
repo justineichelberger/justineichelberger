@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:34 on 5 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:50 on 5 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Winter Garden (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>triangular shape and extremely fastMy little brother was looking at the sky and suddenly he starts telling me he saw a triangular object in the air hover that went east.  Later he said the craft returned in the air and disappeared north.  He told me it went "super fast".  I would infer that meant it was faster than any conventional aircraft I know of. I'm assuming it was about 9,000 ft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81163.html](http://www.nuforc.org/webreports/reports/081/S81163.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Blytheville (S of; southbound I-55) (AR) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>It was approximately 7 pm, clear, and still too light to see stars. A bright pinpoint of light appeared in the West-Southwest sky.I was driving back to Gulfport, MS in my car, after a weekend visit to my hometown of St. Louis. The sun had just set, but the sky was clear and still too bright to see any stars yet. As I drove on southbound I-55 through the short stretch of Arkansas before Memphis, a bright pinpoint of light caught my attention in my peripheral vision. It was in the West Southwest sky, at roughly 2 o'clock on a clockface, as I faced South. It was bright white, looked at first like a plane with the sun glinting off it. I then assumed it was a very bright star. I continued to watch the object, and noticed it did not move. There was no contrail. Suddenly, the object began to fade and lose brightness, and appeared to almost "implode" upon itself, until it disappeared completely. It was like watching a star burn out.  Fascinated, I continued to watch that space in the sky. Sure enough, about 2 minutes later, the bright object faded back "ON", until it was at its former brightness.  It didn't stay bright as long as the previous time, but again, faded out slowly til it was not visible any more.  I tried to notice if any other southbound drivers or truckers had seen the strange light.  I only wish I had had a cb at that moment; I could have asked the truckers to look up, or ask them if they had also seen it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09673.html](http://www.nuforc.org/webreports/reports/009/S09673.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/162/S162981.html)
-- [376](http://www.nuforc.org/webreports/reports/162/S162982.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163038.html)
-- [374](http://www.nuforc.org/webreports/reports/162/S162973.html)
-- [373](http://www.nuforc.org/webreports/reports/162/S162978.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
