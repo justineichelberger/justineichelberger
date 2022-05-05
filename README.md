@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:55 on 5 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:40 on 5 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1980, an anonymous witness in Livermore (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 people clearly see large saucer shaped object 1/2 mile awayWe were traveling South on N. Livermore Ave heading towards Portola Avenue.  I was in the passengers seat and spotted a saucer shaped object, about 1/2 mile away and 1/2 mile up in the sky.It was stationary.   It was unobstructed.  Clear as could be.  Silver in color with many lights circling around the middle.  It made no noise. We pulled over, got out of the car and stared at it. I would say it was roughly 50 yards long and 20 yards high. The colors seemed to be unfamiliar.After just sitting in one place for 4 minutes it moved, at an angle, about 1 mile away, in 1/2 a second.  Still no noise.  It moved about 3 more times, faster than anything I have ever seen, even to this day.  Finally it sped away and was out of sight in 1 second.After it left someone said to not say a word, that we should drive back home and each write down what we saw. SO, we did.  And without communicating a word regarding what we saw, we each wrote down the exact same thing.We were never scared and it didn't appear to notice us. It was clearly something from somewhere else.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81301.html](http://www.nuforc.org/webreports/reports/081/S81301.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Cloverdale (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>One white light in the north and 10 minutes later an orange teardrop shaped light that was followed by two jets patroling the night skyI was out taking a walk with my boyfriend just enjoying the beautiful night and I happened to see what I thought was a satellite in the sky, so I was trying to show my boyfriend what I was talking about when all of a sudden (left of where we were looking) there was a bright white light that was brighter than anything else around in the sky.  We could tell the light was moving and that it was moving away and fast.   Almost just as soon as we had seen this bright white light it dimmed to nothing in the distant horizon.  As if that wasn’t weird enough, about 10-15 minutes later I was by myself and I saw an orange teardrop shaped light in the sky (south of the white light.)  I stood there and looked at it for about 1 minute or so and then it just went out as if it hadn’t moved or went away, but it just dimmed out.  5 seconds (or less) passed and there were 2 fast planes/jets that cruised the sky kind of close to one another side by side which made me wonder if they were U.S. military.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69949.html](http://www.nuforc.org/webreports/reports/069/S69949.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/162/S162981.html)
-- [376](http://www.nuforc.org/webreports/reports/162/S162982.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163038.html)
-- [374](http://www.nuforc.org/webreports/reports/162/S162973.html)
-- [373](http://www.nuforc.org/webreports/reports/162/S162978.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
