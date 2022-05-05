@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:43 on 5 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:55 on 5 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Burnsville (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Light orb in daylightWe were parked at the top of a state park in a parking area on Mount Mitchell in North Carolina.  My sister and I were sitting in a parked car, while our mother was finishing her hike.  We could see across a valley onto the next mountain.  We could see the trail that people were walking up.  We could see the people as they were hiking up that trail.  A light orb hovered up the mountain in a fashion unlike the people.  It went to a ledge and hovered for around 10-15 seconds.  After that it went to the top peak of the mountain and shot off at an extremely fast speed.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117345.html](http://www.nuforc.org/webreports/reports/117/S117345.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1980, an anonymous witness in Livermore (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 people clearly see large saucer shaped object 1/2 mile awayWe were traveling South on N. Livermore Ave heading towards Portola Avenue.  I was in the passengers seat and spotted a saucer shaped object, about 1/2 mile away and 1/2 mile up in the sky.It was stationary.   It was unobstructed.  Clear as could be.  Silver in color with many lights circling around the middle.  It made no noise. We pulled over, got out of the car and stared at it. I would say it was roughly 50 yards long and 20 yards high. The colors seemed to be unfamiliar.After just sitting in one place for 4 minutes it moved, at an angle, about 1 mile away, in 1/2 a second.  Still no noise.  It moved about 3 more times, faster than anything I have ever seen, even to this day.  Finally it sped away and was out of sight in 1 second.After it left someone said to not say a word, that we should drive back home and each write down what we saw. SO, we did.  And without communicating a word regarding what we saw, we each wrote down the exact same thing.We were never scared and it didn't appear to notice us. It was clearly something from somewhere else.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81301.html](http://www.nuforc.org/webreports/reports/081/S81301.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/162/S162981.html)
-- [376](http://www.nuforc.org/webreports/reports/162/S162982.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163038.html)
-- [374](http://www.nuforc.org/webreports/reports/162/S162973.html)
-- [373](http://www.nuforc.org/webreports/reports/162/S162978.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
