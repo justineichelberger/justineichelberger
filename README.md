@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:42 on 5 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:35 on 5 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Summary : Several lights appeared in the Northwestern sky.My husband & I were doing some gardening when I noticed these lights in the sky.I told my husband to look, and we stood there for a good 20-30 seconds watching these things.There were about six or seven bright lights in a row.The top light was the brightest. It continued to grow brighter and appeared to be on fireor an explosion of some sort. No smoke was visable. The top light appeared to fall.Then the others seemed to fade away. There were never any unusual sounds. There were no vapor trailsor visable signs of debris.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02289.html](http://www.nuforc.org/webreports/reports/002/S02289.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Gilbert (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Fuzzy dim cloud moveing South to East, it passed in front of moon then could see a physical triangle shapeOn the night of 5, May 2012 about 20:50 hours MST, I and two other people saw a “UFO” from our location in Gilbert, Arizona.We first noticed a dim white fuzzy looking cloud overhead and slightly to the East of me traveling South then Southeast into the path of the moon.  As it crossed the face of the moon the object we could see that it's that there was a shape to the object, it turned into a black delta, (arrow head) shape object.  After it passed the moon it returned to the feature that we first saw and continued on an eastward path until it was out of sight.During the entirety of this “UFO” fly-by no sound was heard, no visible aircraft lights were seen, and the craft seemed very high and fast as it flew a curved path from South to East in a matter of about 5 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88819.html](http://www.nuforc.org/webreports/reports/088/S88819.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/162/S162981.html)
-- [376](http://www.nuforc.org/webreports/reports/162/S162982.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163038.html)
-- [374](http://www.nuforc.org/webreports/reports/162/S162973.html)
-- [373](http://www.nuforc.org/webreports/reports/162/S162978.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
