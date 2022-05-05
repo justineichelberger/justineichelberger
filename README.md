@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:06:20 on 5 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:29 on 5 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Oakville (Canada) (ON) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I live on the top floor of my building.  I turned all the lights out and went to bed.  At approximately 2 a.m., I quietly went to my balcony to have a cigarette.  I was sitting in complete darkness.  As I sat there, I see a bright object coming out from the darkness coming from around the corner of my balcony.  As the object floats over to the middle of my balcony, I see that it is a 2 foot in diameter teardrop shape that looked like it was full of dense fluid that was brightly lit dark blue with sparkles at the top.  It floated right in front of me about 4 feet away.  My first thought was I just caught a Hersey Kiss drone spying on apartments.  I didnt feel afraid although I felt as though I had caught the glowing teardrop spying on me.  When the object realized I was there in the dark it diminished itself.  The sparkles on the top/tail consumed the blue dense light and disappeared.  At that moment I knew it wasn't a drone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146039.html](http://www.nuforc.org/webreports/reports/146/S146039.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in Gardner (MA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>At the time I was six years old.  It was light outside and I looked out our bay window and almost at eye level, I noticed what at first I thought was a plane.  It was moving very slow I picked up a camera but did not know how to use it.  I watched the aircraft move in at straight line and make a sharp turn in a direction away from me.  If it was a plane I would have saw it bank right.  I am in the USAF and to this day I beleive I saw something other than a normal aircrat((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32099.html](http://www.nuforc.org/webreports/reports/032/S32099.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/162/S162981.html)
-- [376](http://www.nuforc.org/webreports/reports/162/S162982.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163038.html)
-- [374](http://www.nuforc.org/webreports/reports/162/S162973.html)
-- [373](http://www.nuforc.org/webreports/reports/162/S162978.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
