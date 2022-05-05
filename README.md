@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:10:08 on 5 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:05:22 on 5 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Geneva (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>White sphere follows driverMy grandmother was on her way to work following her routine route, and as she pulled out onto a road, she saw a bright white sphere about 1,000 feet in the sky. As she drove down the road she grew uneasy, and didn't know what to think. She felt compelled to stop the car and look at it further. As she drove, she noticed the white sphere was following her, and came about only 100 feet from her car. Every time she looked into her rear view mirror, she noticed the sphere was getting closer. She made it to work on time, and as she left her car to walk into the building where she worked, the sphere was still there. She noticed the sphere had a haze around it. She reported no Missing Time situation, and she heard no sound from the sphere.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30666.html](http://www.nuforc.org/webreports/reports/030/S30666.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>This is the third time I have experienced this phenomenon within the past year or so………today is May 5, 2011…… time from 11:20-11:50 p.m…..10-12 different lights……no sound…… In the northwestern sky……orange glowing lights come on and go off…..only on for a second or two……..looks like an incandescent light coming on and off…….random positions…..some equidistant……..once  there were two lights in a horizontal line..only on for a second or two.  No pattern or path to follow…..cannot explain!!!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81145.html](http://www.nuforc.org/webreports/reports/081/S81145.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/162/S162981.html)
-- [376](http://www.nuforc.org/webreports/reports/162/S162982.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163038.html)
-- [374](http://www.nuforc.org/webreports/reports/162/S162973.html)
-- [373](http://www.nuforc.org/webreports/reports/162/S162978.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
