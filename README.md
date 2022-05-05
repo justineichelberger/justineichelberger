@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:46 on 4 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:54 on 5 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Richmond (VA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Two craft flew slowly parallel for two minutes, then one stayed the course,the other veered off, sunlight gleaming off it`s side. Seemed to be 3-4 miles away, and flew slower than the planes around them. I felt compelled to look at the sky, and then I saw them and watched as they glided away. The objects were metallic, similar in size and rate of speed, and made no noise. This is my 3rd UFO sighting in my 30 years in VA.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07059.html](http://www.nuforc.org/webreports/reports/007/S07059.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in China (YT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>The photo clearly shows a disc shaped object hovering above the ground emitting a red line from each of its quadrants.Have picture of circular object. Taken from observation deck of ship passing thru 3 gorges Negative part of strip taken on Kodachrome film.  ;saucer “ has a red line decending from each of its four quadrants towards ground. Impossible to photoshop strip.  There was a light rain and cool temp, I was the only one on deck. No, I am not a nut, retired pharmacy owner, and consultant pharmacist.  Many observers have seen photo;  all have come to the same conclusion;  either their nutty, or it’s a flying saucer. No organization has expressed interest over the years.  Perhaps this is the time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163613.html](http://www.nuforc.org/webreports/reports/163/S163613.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162999.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163018.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163004.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162990.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162954.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
