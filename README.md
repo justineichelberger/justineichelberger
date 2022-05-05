@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:54 on 5 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:36 on 5 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in China (YT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>The photo clearly shows a disc shaped object hovering above the ground emitting a red line from each of its quadrants.Have picture of circular object. Taken from observation deck of ship passing thru 3 gorges Negative part of strip taken on Kodachrome film.  ;saucer “ has a red line decending from each of its four quadrants towards ground. Impossible to photoshop strip.  There was a light rain and cool temp, I was the only one on deck. No, I am not a nut, retired pharmacy owner, and consultant pharmacist.  Many observers have seen photo;  all have come to the same conclusion;  either their nutty, or it’s a flying saucer. No organization has expressed interest over the years.  Perhaps this is the time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163613.html](http://www.nuforc.org/webreports/reports/163/S163613.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Sutter Creek (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Approximately 60 aircraft lined up like a train flying  south to north.I saw a line of approximately 60 aircraft flying south to north in a very straight line. It was very similar to watching a freight train from a distance.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162966.html](http://www.nuforc.org/webreports/reports/162/S162966.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/162/S162981.html)
-- [376](http://www.nuforc.org/webreports/reports/162/S162982.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163038.html)
-- [374](http://www.nuforc.org/webreports/reports/162/S162973.html)
-- [373](http://www.nuforc.org/webreports/reports/162/S162978.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
