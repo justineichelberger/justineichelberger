@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:46 on 5 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:42 on 5 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 50.0 - 50.0 minutes.</sub><blockquote><sub>Brilliant lighted Triangular Ufo over MiamiRight after sunset a UFO was sighted in about the ten o’clock position in the SW western sky of Miami Fl.  The ufo changed form from an orb to a triangle and back to an orb with brilliant lights of red, white, orange.  It descended from where it was originally observed to about a four O’clock position.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69945.html](http://www.nuforc.org/webreports/reports/069/S69945.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Summary : Several lights appeared in the Northwestern sky.My husband & I were doing some gardening when I noticed these lights in the sky.I told my husband to look, and we stood there for a good 20-30 seconds watching these things.There were about six or seven bright lights in a row.The top light was the brightest. It continued to grow brighter and appeared to be on fireor an explosion of some sort. No smoke was visable. The top light appeared to fall.Then the others seemed to fade away. There were never any unusual sounds. There were no vapor trailsor visable signs of debris.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02289.html](http://www.nuforc.org/webreports/reports/002/S02289.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/162/S162981.html)
-- [376](http://www.nuforc.org/webreports/reports/162/S162982.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163038.html)
-- [374](http://www.nuforc.org/webreports/reports/162/S162973.html)
-- [373](http://www.nuforc.org/webreports/reports/162/S162978.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
