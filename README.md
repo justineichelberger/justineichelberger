@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:24 on 5 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:34 on 5 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Malibu (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Light or Fireball fell out of the sky and as it was going to hit the ocean, it disapeared.My friend and I were on the beach near Coral Canyon in MAlibu CA and we say a sort of Light/ fire ball falling out of the sky. It was going at an incredible speed and it was less than a mile away. It looked like it hit the ocean but it was night so I can't really confirm if it did or not. Once the object made its way to the ocean's surface, it disapeared, so my guess is that it went underwater.The date I gave above was approximate. I could have been a couple years before or after.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12980.html](http://www.nuforc.org/webreports/reports/012/S12980.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Winter Garden (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>triangular shape and extremely fastMy little brother was looking at the sky and suddenly he starts telling me he saw a triangular object in the air hover that went east.  Later he said the craft returned in the air and disappeared north.  He told me it went "super fast".  I would infer that meant it was faster than any conventional aircraft I know of. I'm assuming it was about 9,000 ft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81163.html](http://www.nuforc.org/webreports/reports/081/S81163.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/162/S162981.html)
-- [376](http://www.nuforc.org/webreports/reports/162/S162982.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163038.html)
-- [374](http://www.nuforc.org/webreports/reports/162/S162973.html)
-- [373](http://www.nuforc.org/webreports/reports/162/S162978.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
