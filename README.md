@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:06:01 on 6 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:40 on 6 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Newcastle (NSW)(Australia) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately overnight - overnight minutes.</sub><blockquote><sub>I have had contact with an unknown party that can move matter around like star trek.  I was possibly abducted.Firstly I did not see a UFO I contacted one.  I was lying in bed thinking about the transporter system on the fictional starship Enterprise and after comparing it to other technology  I thought that perhaps they can do it and if they can they must have starships.  It was at this point that I spoke out loud and said, captain kirk, if your really up there,and you can really move matter around, can I at least have my front tooth back.I went to sleep and when I went into the bathroom in the morning.  I looked in the mirror and seen that my front tooth was restored and I remembered what I had asked the night before and to this day I still feel overwhelmed by what happened.I have given the incident much thought over the last 2-3 years and I think that it is a possibility that they heard me  because I was on a harbour at the time and said (captain), and the place where I was staying was an old hotel called ( the Anchor) and the organization running the old hotel as a hostel was the salvation army and among their ranks they have  a (captain).So what I am saying is that there must be some kind of surveillance systems that links up information that has similar content and passes that information on to related people.And yes after this happened to me I believe that captain kirk is a real person, and perhaps he always was and the secret about him and the starship got out and the powers that be made up star trek to cover the truth.  What I now know for sure is that  all sound  especially words are being monitored by persons unknown and they definitely have the power to move matter around.When I asked out loud for captain kirks help someone answered and gave me back my front tooth.  But the question now is do you believe me and what do you think.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120558.html](http://www.nuforc.org/webreports/reports/120/S120558.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Metropolis (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>The lights were not flashing and moving at the same speed.I was taking the trash out and I look up and saw a line, literally a straight line of lights not flashing and all moving at the same speed.• •••  ••• •      This is what I saw moving across the sky</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163052.html](http://www.nuforc.org/webreports/reports/163/S163052.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [297](http://www.nuforc.org/webreports/reports/163/S163043.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163028.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163171.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163428.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163049.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
