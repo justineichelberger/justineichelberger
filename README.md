@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:39 on 6 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:35 on 6 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Collierville (TN) reported seeing craft that fit the description of some 'Formation' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>At approximately 8:35pm I stepped outside to let my dog out. I always look up to the stars while I wait for him to go potty.  As I look up, there was a really bright star and I see something move from it.  I am watching, then I see another.  At the fourth one I call for my oldest son to come outside.  I asked him to look up. As he is watching he says oh my gosh mom what is that?  We watched what looked like dimmer stars move in formation north to south, bank left and head toward the moon.  After 20 to 30 we of course intrigued looked toward the moon and see several doing their own thing.  Almost playing?  Darting close.  There was no sound.  Then it was over about 2 hours later.  For the ones that broke from formation.  The ones that headed towards the moon seemed to vanish?  I can't explain it other than what looked like tiny dimmer stars.  I do not believe this to be part of Space X. Not after seeing them break from a formation.  And to come from a star? Something brigh! ter than a normal star?  I tried to video and the lights were just to dim and it was dark.  I am sorry.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156311.html](http://www.nuforc.org/webreports/reports/156/S156311.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Waldorf (MD) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Hovering cigar shaped object.I was driving to work on Sunday 5/6/07 at 12:30 PM.  I was on the back road between Prince Frederick and Waldorf Maryland.  As I entered a new road (Cederville) I saw what appeared to be an airplane coming in for a landing just above the tree tops. (This is what my mind first said it was.)  As I drove towards it I noticed that it was not moving in any way, not forward or backward or even away or closer to me.  At this point I pull off of the road and shut off my trucks engine.  My windows were open and I could hear no sound of engines at all.  I sat there looking at this UFO and could not make sense of what I was seeing.I reached for the phone and called my friend and was talking to his wife about it.  As I looked at the object closely I could not see any wings and it looked like a cigar shaped sliver metal fuselage.  I could even see some detail on the surface.  I could see the sun sunning on the surface of the silver metal.  It had a darker area at one end that was a little larger then the rest of the lines of the craft.The object was about 1 ½ inches long if the ruler was held at arms length.  As I was talking to my friend wife the object started to move off to the North very slowly and started to come lower and lower.  It went below the tree level but I still could see it on and off as it passed throw the trees.  This is one gage as to how far away the object was.  I would say that it was not very far into the tree line because of this.After I drove around to the other side of the tree line and found nothing.  There are fields on ether side of this tree stand.  I drove next to a church that is in sight of the fields and asked if there is any airfield close to there.  I was told there was none.  I was traveling northwest and the object was seen south of Washington DC. in the Maryland county of Charales.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56632.html](http://www.nuforc.org/webreports/reports/056/S56632.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [297](http://www.nuforc.org/webreports/reports/163/S163043.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163028.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163171.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163428.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163049.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
