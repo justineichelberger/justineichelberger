@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:44 on 6 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:44 on 6 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Gadsden (AL) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Strange cylinder shaped object appeared huge in size and illuminating white lights over hwy 278 in Gadsden; disappeared in thin air.While taking my trash to the dumpster, I looked up because a light was in my peripheral vision and when I looked in that direction I noticed a cylinder shaped object with white light illuminating from it in 10+ sections.  It was stationary over hwy 278 and soon afterwards, it disappeared without a trace.  It must have been low to the Earth because it was huge.  It gave me the creeps, I ran in the house once it disappeared to call my mother about this strange phenomenon.((NUFORC Note:  For some reason, source of report indicates that the date of the alleged sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109233.html](http://www.nuforc.org/webreports/reports/109/S109233.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Twin Falls (ID) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>After taking a picture of the sunset using the zoom feature on smart phone camera, I discovered a bright green oval object in image.I am an educated female of 57 years old who often takes in the happenings of the sky and on 5/8/19 around 8:45pm; I endeavored to take a few shots of what was an aurora-like sunset (towards the Snake River Canyon in Twin Falls, ID, Latitude 42.562786,  Longitude 114.460503) and after returning to the shop where I work to take a better look at the pictures I noticed a bright green oval-like object in the upper center top part of the image.  I went back out to the same POV and zoomed in on same subject of clouds and tree framed in the earlier shot and was unable to see the same green object.((NUFORC Note:  We haven't seen the photo, but we suspect that the green thing may be a lens flare, caused by pointing a camera at a bright source of light.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146226.html](http://www.nuforc.org/webreports/reports/146/S146226.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [297](http://www.nuforc.org/webreports/reports/163/S163043.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163028.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163171.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163428.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163049.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
