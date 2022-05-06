@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:40 on 5 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:42 on 6 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Cloverdale (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>One white light in the north and 10 minutes later an orange teardrop shaped light that was followed by two jets patroling the night skyI was out taking a walk with my boyfriend just enjoying the beautiful night and I happened to see what I thought was a satellite in the sky, so I was trying to show my boyfriend what I was talking about when all of a sudden (left of where we were looking) there was a bright white light that was brighter than anything else around in the sky.  We could tell the light was moving and that it was moving away and fast.   Almost just as soon as we had seen this bright white light it dimmed to nothing in the distant horizon.  As if that wasn’t weird enough, about 10-15 minutes later I was by myself and I saw an orange teardrop shaped light in the sky (south of the white light.)  I stood there and looked at it for about 1 minute or so and then it just went out as if it hadn’t moved or went away, but it just dimmed out.  5 seconds (or less) passed and there were 2 fast planes/jets that cruised the sky kind of close to one another side by side which made me wonder if they were U.S. military.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69949.html](http://www.nuforc.org/webreports/reports/069/S69949.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in St. Louis (Kirkwood) (MO) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A saucer that glowed like the moon and was the size of the moon cruised over town at about 25 miles per hour from East to West.I was driving North on Kirkwood Road.  There was chaos on the road.  Two cars were pulled over by the police with flashing lights, could be an accident.  Also, there was an ambulance and Fire Truck going to another scene around the same time.As I was driving, instead of looking at the chaos, I looked up into the sky and saw a saucer the color of the moon.  It was about the size of the moon, however, it was moving and I was sitting still.  It was cruising from East to West...maybe 25 miles per hour from where I saw it.  It went behind a building and I was not able to follow it.  An airplane flew by in a NW direction and the sun shone on it and there was a silvery reflection.  But this saucer had no silvery reflection, it was glowing like the moon would glow.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22747.html](http://www.nuforc.org/webreports/reports/022/S22747.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/162/S162981.html)
-- [376](http://www.nuforc.org/webreports/reports/162/S162982.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163038.html)
-- [374](http://www.nuforc.org/webreports/reports/162/S162973.html)
-- [373](http://www.nuforc.org/webreports/reports/162/S162978.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
