@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:17:21 on 6 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:46 on 6 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Anderson (MO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Possible UFO's hover over Anderson, MO Almost nightlyI was in my field burning trash waiting on my children to bring the water hose,so I could put the fire out. Dark was falling as I was waiting I looked up to the sky and just looked around. To my west I seen this bright light that appeared to be a star until i realizedit was strobing red lights too.There were a total of 3 large lights that spanned the western sky. All three strobbing red light and bright star appearances.My children 1 and 2 got back and i suggested they watch the sky whwile i put the fire out. Darkness had set in.Child 1 said she sees red lights blinking and soon points out 2 more.And then sees several more much smaller ones.Child 2 sees the same thing. We all 3 run up to the house and it appears they are following us,because they are all getting closer to our house.1 can only be seen from our kitchen window.So we get our old telescope out,but have 0 luck locating it.By this point i am shaking and scared for some reason. My 3rd child comes in ! facinated by what is going on.We get out the video camera and start recording.2 times our screen goes blank and i have to restart  that video. I zoom in and see an amazing light show.kind of like fireworks but only it is pulsating.We did capture it on video. We also seen helicopters and planes flying and surrounding the object. by this point i call my husband via phone,because i am scared...My child 2 comes in and says there is a white streak of light coming from the object. I didnt look. I was to scared. a few minutes later  child 3 comes in to tell me the object is GONE! I said whatever. I thought he was joking,so i got up to check and SURE enough it was!!! I scanned the sky and soon found it again FAR west of us.It is still there right now. I dont know what it is,but it terrifies me,befcause i realized that it was in the same location nearly everynight for the last 5 years. I have joked with my husband about it being aliens,because the first time i seen it was on the eas! t side of our house,but it moved a couple years ago to the wes! t. NO it isnt there everynight. I is there for a bit and disappears. this is just the first time we have seen it in person like this.I would love for someone to investigate my videos to try to explain what this might have been!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75329.html](http://www.nuforc.org/webreports/reports/075/S75329.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Flippin (AR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>30 bright objects moving in a wave motion and 1 by 1 disappearing up into the sky.on the way home at 9:30 pm CST me and a friend observed 30 or so bright balls in the sky all moving in a wave pattern and slowly disappearing 1 by 1 up into the sky no noise at all  i am reporting this for a good friend who doesn't know how to use computers</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163029.html](http://www.nuforc.org/webreports/reports/163/S163029.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [297](http://www.nuforc.org/webreports/reports/163/S163043.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163028.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163171.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163428.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163049.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
