@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:42 on 6 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:29 on 6 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in St. Louis (Kirkwood) (MO) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A saucer that glowed like the moon and was the size of the moon cruised over town at about 25 miles per hour from East to West.I was driving North on Kirkwood Road.  There was chaos on the road.  Two cars were pulled over by the police with flashing lights, could be an accident.  Also, there was an ambulance and Fire Truck going to another scene around the same time.As I was driving, instead of looking at the chaos, I looked up into the sky and saw a saucer the color of the moon.  It was about the size of the moon, however, it was moving and I was sitting still.  It was cruising from East to West...maybe 25 miles per hour from where I saw it.  It went behind a building and I was not able to follow it.  An airplane flew by in a NW direction and the sun shone on it and there was a silvery reflection.  But this saucer had no silvery reflection, it was glowing like the moon would glow.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22747.html](http://www.nuforc.org/webreports/reports/022/S22747.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Cacak (Serbia/Montenegro) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately no - no minutes.</sub><blockquote><sub>It was lot of them in cacak.It was 3 crafts,they are just flew away.My English is bad.Sory.They are comming often in Cacak.Lot of them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29114.html](http://www.nuforc.org/webreports/reports/029/S29114.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [297](http://www.nuforc.org/webreports/reports/163/S163043.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163028.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163171.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163428.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163049.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
