@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:11:59 on 6 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:39 on 6 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Plano (TX) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Strange hovering object with strobing light and air force jet on pusuiteI do not have a word processor so i will do my best to have acurate spelling. It was about 10:30 at night and me and my mother were on our way home from a close relatives house. We neared our house when we noticed a strange rectangular object floating in place. It had an extremely brigght strobing light and it appeared to be silver against the night sky. The strange thing i noticed was that the object had no sound. We stopped for a moment when i noyiced what appeared to be an airforce jet below it. The jet was obviously examining the object. As we pulled into the driveway, I ran to the front of the house just in time to see the object shoot up into the clouds with a streak of red and green light as if in a sci-fi movie and the airforce jet attempt to follow it. The total time the object was in the sky is 5 minutes.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56563.html](http://www.nuforc.org/webreports/reports/056/S56563.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Collierville (TN) reported seeing craft that fit the description of some 'Formation' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>At approximately 8:35pm I stepped outside to let my dog out. I always look up to the stars while I wait for him to go potty.  As I look up, there was a really bright star and I see something move from it.  I am watching, then I see another.  At the fourth one I call for my oldest son to come outside.  I asked him to look up. As he is watching he says oh my gosh mom what is that?  We watched what looked like dimmer stars move in formation north to south, bank left and head toward the moon.  After 20 to 30 we of course intrigued looked toward the moon and see several doing their own thing.  Almost playing?  Darting close.  There was no sound.  Then it was over about 2 hours later.  For the ones that broke from formation.  The ones that headed towards the moon seemed to vanish?  I can't explain it other than what looked like tiny dimmer stars.  I do not believe this to be part of Space X. Not after seeing them break from a formation.  And to come from a star? Something brigh! ter than a normal star?  I tried to video and the lights were just to dim and it was dark.  I am sorry.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156311.html](http://www.nuforc.org/webreports/reports/156/S156311.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [297](http://www.nuforc.org/webreports/reports/163/S163043.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163028.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163171.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163428.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163049.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
