@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:46 on 6 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:01:06 on 6 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Flippin (AR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>30 bright objects moving in a wave motion and 1 by 1 disappearing up into the sky.on the way home at 9:30 pm CST me and a friend observed 30 or so bright balls in the sky all moving in a wave pattern and slowly disappearing 1 by 1 up into the sky no noise at all  i am reporting this for a good friend who doesn't know how to use computers</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163029.html](http://www.nuforc.org/webreports/reports/163/S163029.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>16 lights moving in the southeast direction and then went upI was sitting outside with my wife after dinner as we almost always do and out of the northwest we saw tiny lights that looked like stars moving pretty quickly in the southeast direction.  We saw them move in the southeast direction but then they would go straight up after a few seconds of moving and disappear.  One by one they did the same trajectory with maybe 5 or 6 seconds in between each one.  After about the 10th object I called out my children and mother in law and they saw the final 5.  In total we counted 16 lights. The lights were white and really faint like stars . I'm always looking up to the sky and believe we are not alone.  My wife and I shot some video on our phones but you can hardly see them. My children are minors and my mother in law is of retirement age.  This isn't the first time we see them moving across the sky but it is the first time we saw so many going in the same trajectory.  They were too high and fast to be drones.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156325.html](http://www.nuforc.org/webreports/reports/156/S156325.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [297](http://www.nuforc.org/webreports/reports/163/S163043.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163028.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163171.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163428.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163049.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
