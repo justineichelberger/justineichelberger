@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:51 on 6 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:48 on 6 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Caviota (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>clear photo of saucer in background of hawk pictureSaucer appeared in background of photograph being taken of red tail hawk.  Very clear.  Not in previous photo or following photo.  Taken along Refugio Road at noon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75421.html](http://www.nuforc.org/webreports/reports/075/S75421.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Princeton (TX) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Strafe objects and lights over house.It's was midnight u stepped outside to have a smoke with my wife when we noticed two teardrop shaped objects moving in tandame with each other north over the house as we stepped off the porch to get a better sight the objects light up in a blue green light and stopped directly ofer the old cematary our back back yard runs into they stayed stationary there for about a minuet and has we watch both objects began to move agin but with a pinkish red vapor around then and suddenly they disappeared</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97606.html](http://www.nuforc.org/webreports/reports/097/S97606.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [297](http://www.nuforc.org/webreports/reports/163/S163043.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163028.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163171.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163428.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163049.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
