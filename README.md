@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:38 on 6 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:40 on 6 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in El Dorado Hills (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Object moved at a rapid speed in several directions disappereared/reappeared.A bright light appeared approx 5 miles away in the southern sky.  The object hovered, and then moved rapidly to the right then back to the left.  Faster than any helicopter could maneuver.  After about 1 minute the bright light completely disappeared.  After about 30 seconds it returned and continued to maneuver back and forth and up and down then rapidly moved to the south until it was no longer visible on our horizon.  We have a photo of the object which shows a 90 degree light with a separate vertical light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88840.html](http://www.nuforc.org/webreports/reports/088/S88840.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Bonnerdale/Crossroads (AR) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>My dogs started barking and wouldn't stop.  So I went outside to check, and about 2-300 yards away, I noticed a bright light flickering right above the tree line.  Like a orange color with blue in it.  It stayed there for awhile then it dimmed and started moving.  It went good distance then became bright again. I called the neighbor to have him look, and they told me they witnessed it a few days before, as well.  After approx. 20 min., it slowly dimmed and floated away.  I have spoke to a few more neighbors and they too have encountered the UFO.  I also witnessed a smaller object reminded me of car headlight but dimmer floating across the area several times.  Stopping and going.  Never landing</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133999.html](http://www.nuforc.org/webreports/reports/133/S133999.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [297](http://www.nuforc.org/webreports/reports/163/S163043.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163028.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163171.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163428.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163049.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
