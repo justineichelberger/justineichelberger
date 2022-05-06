@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:49 on 6 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:41 on 6 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Mendocino (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>The dogs started barking. I walked outside to find my husband and happened to glance up b/c a light caught my eye.  I continued to watch closely as this "mini-sun" looking fireball was moving slowly just above tree line - not high at all.  It bobbed back and forth as it moved up the mountain.  It was so close. I watched in disbelief.  I was not frightened at all but very curious.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81498.html](http://www.nuforc.org/webreports/reports/081/S81498.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Fayetteville (AR) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Looking towards the west sky, I saw several oval shaped glowing vessels in kind of a line. They were not making any sound but seemed close enough that they could have been heard.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163050.html](http://www.nuforc.org/webreports/reports/163/S163050.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [297](http://www.nuforc.org/webreports/reports/163/S163043.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163028.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163171.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163428.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163049.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
