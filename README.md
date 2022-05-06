@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:40 on 6 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:11:59 on 6 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Proctorville (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>it was likede it knew we were watching.bright light was observed hovering just above tree line on top of hill close to satelite tower behind my house along the ohio river.  light was circular in shape but didn't seem to have a paticular form.  it floated for 30min.  then turned bright orange an seperated into two seperate lights.  the first light turned back to white while the second light shot straight up really high in the air an shot across the river to west virginia towards merrits creek crossing an disappeared.  first light began moving towards town so we got in car an followed it for over an hour for more than 30 miles until it slowly went down over hill side .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75412.html](http://www.nuforc.org/webreports/reports/075/S75412.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Plano (TX) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Strange hovering object with strobing light and air force jet on pusuiteI do not have a word processor so i will do my best to have acurate spelling. It was about 10:30 at night and me and my mother were on our way home from a close relatives house. We neared our house when we noticed a strange rectangular object floating in place. It had an extremely brigght strobing light and it appeared to be silver against the night sky. The strange thing i noticed was that the object had no sound. We stopped for a moment when i noyiced what appeared to be an airforce jet below it. The jet was obviously examining the object. As we pulled into the driveway, I ran to the front of the house just in time to see the object shoot up into the clouds with a streak of red and green light as if in a sci-fi movie and the airforce jet attempt to follow it. The total time the object was in the sky is 5 minutes.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56563.html](http://www.nuforc.org/webreports/reports/056/S56563.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [297](http://www.nuforc.org/webreports/reports/163/S163043.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163028.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163171.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163428.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163049.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
