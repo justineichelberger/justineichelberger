@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:45 on 7 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:35 on 7 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Toronto (Canada) (ON) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Nickel sized egg moving through the sky.I had Just arived at my uncles house all ready to go to bed. My dad said whats that. He showed mewhat it was. It was an egg shaped thing about the size if a nickle. It was going throught the sky realy fast. It reached  one end of the horzion to the other in about 30 secs. The egg was bright white and moved smoothly with no sign of proplution.((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34911.html](http://www.nuforc.org/webreports/reports/034/S34911.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright red luminous round light seen moving slowly over SF Bay.We would like to report seeing a bright red luminous light in the sky over SF Bay last night about 10 pm.  We watched it for about 15 minutes as it moved slowly across the sky and were able to get about 2 1/2 minutes of video of it. We saw a bright red luminous light much brighter and larger than  a star moving extremely slow across the Bay.  When we first noticed the light from our workshop at Hunter's Point Shipyard it was stationary over the SF Bay between SF and Oakland.  It was a very bright red light that didn't blink on and off.  It stayed the same intensity of red the entire sighting until a jet plane flew near it at which point it blinked completely out. A second later it reappeared but at a much less intensity of brightness.  It blinked completely out again then reappeared a second time even less intensely for an instant then blinked out again and never reappeared. The entire time we watched the light we could not hear any sound coming from the light.  It was moving much too slowly to be a plane or meteor. If you want to view the video feel free to contact us.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63060.html](http://www.nuforc.org/webreports/reports/063/S63060.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/163/S163054.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163069.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163153.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163089.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
