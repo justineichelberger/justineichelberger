@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:56 on 7 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:31 on 7 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in New York City (Whitestone) (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>White shperical object seen near New York CityIt was approximately 2 PM eastern time.  I was out in my backyard and I happened to look up. Relatively far away, I saw a white object. I dismissed it as a plane, but suddenly realized it was circular. It was moving slowly, and crossed the sky a little bit. It appeared to move down but then went upward. Then it disappeared up.I live near LaGuardia Airport, and have for a long time. I can tell the difference between a plane and anything else. At the angle in which the object rose, it was opposite the airports, also including JFK. It rose too sharply to be a plane.I am unsure if the object was a UFO or a balloon. Right after I saw it, I went to my computer. I checked to see where balloons pop. It said they pop at 30,000 feet. http://www.balloonhq.com/faq/howpop.html was my reference website. That seemed too low for where my object was flying. The object also seemed far away, so far that I don’t think I’d be able to it if it was a balloon, due to its sizing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56558.html](http://www.nuforc.org/webreports/reports/056/S56558.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Aliquippa (PA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 68</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156602.html](http://www.nuforc.org/webreports/reports/156/S156602.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/163/S163054.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163069.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163153.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163089.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
