@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:35 on 7 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:58 on 7 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright red luminous round light seen moving slowly over SF Bay.We would like to report seeing a bright red luminous light in the sky over SF Bay last night about 10 pm.  We watched it for about 15 minutes as it moved slowly across the sky and were able to get about 2 1/2 minutes of video of it. We saw a bright red luminous light much brighter and larger than  a star moving extremely slow across the Bay.  When we first noticed the light from our workshop at Hunter's Point Shipyard it was stationary over the SF Bay between SF and Oakland.  It was a very bright red light that didn't blink on and off.  It stayed the same intensity of red the entire sighting until a jet plane flew near it at which point it blinked completely out. A second later it reappeared but at a much less intensity of brightness.  It blinked completely out again then reappeared a second time even less intensely for an instant then blinked out again and never reappeared. The entire time we watched the light we could not hear any sound coming from the light.  It was moving much too slowly to be a plane or meteor. If you want to view the video feel free to contact us.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63060.html](http://www.nuforc.org/webreports/reports/063/S63060.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Newcastle (Australia) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>flashing disc over Kotara 2010I saw a flying flashing disk that looked like a U.F.O .  But after  10sec it changed into a star and after 3sec it shot across the sky like a shooting star making it look like a rip in time and space.((NUFORC Note:  Witness provides no contact information.  We do not know whether the sighting occurred on May 7th, or July 5th.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88887.html](http://www.nuforc.org/webreports/reports/088/S88887.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/163/S163054.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163069.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163153.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163089.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
