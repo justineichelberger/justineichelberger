@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:19 on 7 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:18 on 7 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1958, an anonymous witness in North Hollywood (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 7200.0 - 7200.0 minutes.</sub><blockquote><sub>A visit by a ufo object by a young child in 1958This is the first time I have told of My experience with an outside our realm of understanding space craft or object. I was four years old and played in my grand mothers yard, the front by myself, Bored with my trucks and cars I would look around at the sky  to see what I could see.  One day I saw a tiny speck in the distance floating, like the end of a pencil so small, It was above some power lines across the street in the distance. I was curious but well, I was only four. I went inside and came back outside the next day to play. Curious I looked up to find the spot had gotten closer in the same location. no detail  just closer. I got very excited, not sure why. Maybee having something to look at starred at the thing, size of a base ball above the power lines.Next day I was so excited to see the thing , if It was there? And yes getting even  closer. I sat for hours gazing at the object. It got closer to me and I could see some detail. It was round like a little earth. Solid but translucent at the same time. It was constantly moving the outside  layers as  to reach to  change and react to the world. It was communicating but not in words. In a visual mindset. I wish i could explain. I fell in love with the object and could not get enough. It came so close to me that I could almost jump and touch it but would move just out of my reach. The next three days it started moving back further away and finally left. Two questions is how can a four year create  something he has never seen? Why  did  I have such a great connection with this object? I honestly believe that there is something beyond our understanding.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56668.html](http://www.nuforc.org/webreports/reports/056/S56668.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Sedona/Verde Valley (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Erratic moving red and white light seen through night visionLooking out towards Clarkdale and the cement factory we saw a small circular shaped white light that changed color from red to white erratically-above Mingus Mtn. ridge.Looked similar to a light we saw the previous evening in the same city-different location.  The light zig-zagged from left to right-more so up and down and then disappeared behind the ridge only to keep reappearing about 5 times fading out (the light) then disappear for good behind the mountain ridge. We saw this through the night vision scope and the light was much more intense than any other star or planet in the sky.  Its movement, as seen through the scope, was clearly moving erratically compared to any other night objects such as stars,airplanes passing by,satellites etc. The same description would be given as we saw also saw this with our naked eyes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44332.html](http://www.nuforc.org/webreports/reports/044/S44332.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/163/S163054.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163069.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163153.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163089.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
