@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:24 on 7 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:27 on 7 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately Ongoing - Ongoing minutes.</sub><blockquote><sub>What I presumed was Vega... was actually moving.  So basically, this appeared to be a star.  Then,  as I watched it, it was actually moving slowly across the sky.  I watched it move from the northeast to the south with tiny wobbling movements I don't know what could be that high and cover that much space so quickly.   I've seen the ISS and it is lower and quicker with no wobbles.((NUFORC Note:  Source of the report elects to remain anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133989.html](http://www.nuforc.org/webreports/reports/133/S133989.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Dimly lit, oval-shaped object seen by drivers on highway; it was being pursued by helicopters.I was with a friend in my car. He was driving south on the main highway in Las Vegas.  He said: "What is that?," and I turned to look up through the windshield.  There was a huge, oval shaped object that seemed almost dimly lit all around. It almost emitted a dim haze.  It was farther away in the distance by a mountain range outside of the city to the left of the highway.  There were two helicopters circling the object, shining spotlights on it.  We watched this happen for five minutes until the object was behind us. I turned to look and it was gone.  The helicopter then proceeded to shine spotlights on the mountain, and then they stopped.  This is the second report I have filed.  The last once was October of 2010 when I witnessed a V-shaped, form-changing object also in Las Vegas while with another witness.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88863.html](http://www.nuforc.org/webreports/reports/088/S88863.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/163/S163054.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163069.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163153.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163089.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
