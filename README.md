@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:44 on 6 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:39 on 7 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Twin Falls (ID) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>After taking a picture of the sunset using the zoom feature on smart phone camera, I discovered a bright green oval object in image.I am an educated female of 57 years old who often takes in the happenings of the sky and on 5/8/19 around 8:45pm; I endeavored to take a few shots of what was an aurora-like sunset (towards the Snake River Canyon in Twin Falls, ID, Latitude 42.562786,  Longitude 114.460503) and after returning to the shop where I work to take a better look at the pictures I noticed a bright green oval-like object in the upper center top part of the image.  I went back out to the same POV and zoomed in on same subject of clouds and tree framed in the earlier shot and was unable to see the same green object.((NUFORC Note:  We haven't seen the photo, but we suspect that the green thing may be a lens flare, caused by pointing a camera at a bright source of light.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146226.html](http://www.nuforc.org/webreports/reports/146/S146226.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Alamogordo (NM) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Orange orbs appear over Alamogordo, New Mexico.Driving south on hwy 54 outside of city.  We observed 2 bright orange lights hovering low in the sky, below the mountain range line.  They were over the desert to the west of the city, moving slowly.  As we watched the orbs, they blinked off, as if to shut all power off, then they would reappear in a different area and hover orange again. The lights continued to blink on and off in the stationary position.  After a couple of minutes they both went dark and disappeared.  We did not see them again in the sky anywhere.  Friends report that they have seen the orange orbs in Alamogordo on Wednesdays, Thursdays and sometimes Saturday's, and most always around 830-1000pm.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119012.html](http://www.nuforc.org/webreports/reports/119/S119012.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [297](http://www.nuforc.org/webreports/reports/163/S163043.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163028.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163171.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163428.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163049.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
