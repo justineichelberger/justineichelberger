@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:39 on 7 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:57 on 7 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Alamogordo (NM) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Orange orbs appear over Alamogordo, New Mexico.Driving south on hwy 54 outside of city.  We observed 2 bright orange lights hovering low in the sky, below the mountain range line.  They were over the desert to the west of the city, moving slowly.  As we watched the orbs, they blinked off, as if to shut all power off, then they would reappear in a different area and hover orange again. The lights continued to blink on and off in the stationary position.  After a couple of minutes they both went dark and disappeared.  We did not see them again in the sky anywhere.  Friends report that they have seen the orange orbs in Alamogordo on Wednesdays, Thursdays and sometimes Saturday's, and most always around 830-1000pm.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119012.html](http://www.nuforc.org/webreports/reports/119/S119012.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Bethel Springs (TN) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>after seeing a thing in the sky i have a marking on my arm !!!!!!I dont know how to exactly say this, but i am really freaked out i dont know what is happening all of a sudden first that craft last night (i reported earlier in the day) i have just noticed a marking on my right arm it is such an odd mark i cant really explain it i dont know  waht it means what as happened ??????????????????  scared   also i know that my report is really unorganized but i dont care about it being posted i just dont know what to do now that i have thi thing on my arm   NOTE   I REPORTED THE SIGHTING ERLIER AND NOW I HVE REALIZED I HAVE A MARKING  as i said before i can only be contacted by mail i hope you do</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139767.html](http://www.nuforc.org/webreports/reports/139/S139767.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/163/S163054.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163069.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163153.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163089.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
