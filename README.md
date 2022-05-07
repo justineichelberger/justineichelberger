@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:57:05 on 7 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:22 on 7 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Marin (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Series of lights 50+ viewed on same trajectory,A constant line of star like forms, moving on a single trajectory slowly along Marin headlands west to east at first in front of us. A few minutes elapsed then they returned flying from the same direction but more north westerly to the south easterly direction and this time more overhead. The lights were spaced at different intervals, some seemed to be catching up and varying ever so slightly in speed, some were flying closer together, some more spaced out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163091.html](http://www.nuforc.org/webreports/reports/163/S163091.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Marion (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>At approximately 10:30 pm, I stepped out into the backyard and observed a white light in the shape of an orb streak across the sky.  I then saw that there were 3 more darting in and out of view through cloud cover.  I went in the house and got my roommate and she too witnessed this event.  The lights were extremely fast and would merge into a single body from time to time.  They were visible while in the cloud but would almost disappear when they would move between the clouds.  Yet, you could still see a faint trace as they moved in and out of the clouds.  They disappeared completely when the clouds became few and far between.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127259.html](http://www.nuforc.org/webreports/reports/127/S127259.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/163/S163054.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163069.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163153.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163089.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
