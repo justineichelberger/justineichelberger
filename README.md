@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:57 on 7 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:29:11 on 7 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Bethel Springs (TN) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>after seeing a thing in the sky i have a marking on my arm !!!!!!I dont know how to exactly say this, but i am really freaked out i dont know what is happening all of a sudden first that craft last night (i reported earlier in the day) i have just noticed a marking on my right arm it is such an odd mark i cant really explain it i dont know  waht it means what as happened ??????????????????  scared   also i know that my report is really unorganized but i dont care about it being posted i just dont know what to do now that i have thi thing on my arm   NOTE   I REPORTED THE SIGHTING ERLIER AND NOW I HVE REALIZED I HAVE A MARKING  as i said before i can only be contacted by mail i hope you do</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139767.html](http://www.nuforc.org/webreports/reports/139/S139767.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Surrey (Canada) (BC) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Summary : I was looking at the clouds and just over these distant mountains I saw a sliver colored craft. It looked like a hazey straight line that went extremly quick than disapeared over the mountain in a blink almost.I went to a park with some friends and I looked up and I saw this silver colored stripe that was hazey flying downwards towards distant mountains. It was traveling  very quickly. This all happened in a squence of 2 to 4 seconds. This exprience goes down in my head like ink on paper!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02473.html](http://www.nuforc.org/webreports/reports/002/S02473.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/163/S163054.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163069.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163153.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163089.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
