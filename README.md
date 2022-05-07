@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:38 on 7 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:49 on 7 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Pueblo West (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Three flashing lights in a triangle shape over my neighbor's home.We saw three flashing lights over my neighbor’s house.  They were flashing out of sequence. These lights form a triangle. and the lights themselves resemble the lights of an airport runway but very bright white.  I started filming and call my wife, so she could see what I was seeing.  My camera was acting up.  As soon as I called my wife they started to move away very quickly.  After that I went to check my film, but it was corrupted.  I could not open it.  I went online on YouTube to see if it could be fix.  I was able to save some of it, but it still was very damaged.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139768.html](http://www.nuforc.org/webreports/reports/139/S139768.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Decatur (IL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Saw disc with lights rotating like:::::: &quot;·· ·· ·· ··&quot; then in &quot;··· ··· ··· ···&quot; back down to 2, then 1, and gone.Saw disc with lights rotating like:::::: "·· ·· ·· ··" then in "··· ··· ··· ···" back down to 2, then 1, and gone. Just vanished. You could tell it was spinning like the starship ride you see at the state fairs.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163095.html](http://www.nuforc.org/webreports/reports/163/S163095.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/163/S163054.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163069.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163153.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163089.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
