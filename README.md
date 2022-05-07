@@ -142,7 +142,7 @@
 ![neural-network-icon-16](./images/neural_network_original_greyscale_12.png "space") &nbsp;   
 ![neural-network-icon-16](./images/neural_network_original_greyscale_22.png "pgAdmin[tools[query tool]]") &nbsp;<sup><code>Query Editor</code></sup>   
 ![neural-network-icon-16](./images/neural_network_original_greyscale_13.png) &nbsp;   
-![neural-network-icon-16](./images/neural_network_original_greyscale_25.png "SQL query to find one of Frank Black's 'Ten [Percenters]' from his eponymous album 'Frank Black' released some time in between unixtimestamp(731574000) and unixtimestamp(731660399)") &nbsp;<sup><code>SELECT aptitudes, accoutrements FROM people WHERE mind LIKE ocean AND activity = 'hanging' AND location = 'harbor' AND name = '&#9001; me &#x3009;'</code></sup>   
+![neural-network-icon-16](./images/neural_network_original_greyscale_25.png "SQL query to find one of Frank Black's 'Ten [Percenters]' from his eponymous album 'Frank Black' released some time in between unixtimestamp(731574000) and unixtimestamp(731660399)") &nbsp;<sup><code>SELECT aptitudes, accoutrements FROM people WHERE mind LIKE 'ocean' AND activity = 'hanging' AND location = 'harbor' AND name = '&#9001; me &#x3009;'</code></sup>   
 ![neural-network-icon-16](./images/neural_network_original_greyscale_24.png)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub><code>Data Output</code></sub>   
 
@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:44 on 7 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:57:05 on 7 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Nevada (on a highway in) (NV) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>just read thisWe were driving on a highway in nevada at night. We saw something bobbing up and down coming towards us. We noticed lights. We pulled over and my friend put his head out of the car when we noticed it disappeared. When he put his head out of the car and noticed that it was right above the car. It didnt make any noise but a swooshing sound. It was triangle and it had three lights one on each point. Then we took off. We were just coming from a bmx meet.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37075.html](http://www.nuforc.org/webreports/reports/037/S37075.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Marin (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Series of lights 50+ viewed on same trajectory,A constant line of star like forms, moving on a single trajectory slowly along Marin headlands west to east at first in front of us. A few minutes elapsed then they returned flying from the same direction but more north westerly to the south easterly direction and this time more overhead. The lights were spaced at different intervals, some seemed to be catching up and varying ever so slightly in speed, some were flying closer together, some more spaced out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163091.html](http://www.nuforc.org/webreports/reports/163/S163091.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/163/S163054.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163069.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163153.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163089.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
