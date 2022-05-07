@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:18 on 7 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:56 on 7 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Sedona/Verde Valley (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Erratic moving red and white light seen through night visionLooking out towards Clarkdale and the cement factory we saw a small circular shaped white light that changed color from red to white erratically-above Mingus Mtn. ridge.Looked similar to a light we saw the previous evening in the same city-different location.  The light zig-zagged from left to right-more so up and down and then disappeared behind the ridge only to keep reappearing about 5 times fading out (the light) then disappear for good behind the mountain ridge. We saw this through the night vision scope and the light was much more intense than any other star or planet in the sky.  Its movement, as seen through the scope, was clearly moving erratically compared to any other night objects such as stars,airplanes passing by,satellites etc. The same description would be given as we saw also saw this with our naked eyes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44332.html](http://www.nuforc.org/webreports/reports/044/S44332.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in New York City (Whitestone) (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>White shperical object seen near New York CityIt was approximately 2 PM eastern time.  I was out in my backyard and I happened to look up. Relatively far away, I saw a white object. I dismissed it as a plane, but suddenly realized it was circular. It was moving slowly, and crossed the sky a little bit. It appeared to move down but then went upward. Then it disappeared up.I live near LaGuardia Airport, and have for a long time. I can tell the difference between a plane and anything else. At the angle in which the object rose, it was opposite the airports, also including JFK. It rose too sharply to be a plane.I am unsure if the object was a UFO or a balloon. Right after I saw it, I went to my computer. I checked to see where balloons pop. It said they pop at 30,000 feet. http://www.balloonhq.com/faq/howpop.html was my reference website. That seemed too low for where my object was flying. The object also seemed far away, so far that I don’t think I’d be able to it if it was a balloon, due to its sizing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56558.html](http://www.nuforc.org/webreports/reports/056/S56558.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/163/S163054.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163069.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163153.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163089.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
