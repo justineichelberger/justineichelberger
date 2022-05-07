@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:49 on 7 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:37 on 7 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Decatur (IL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Saw disc with lights rotating like:::::: &quot;·· ·· ·· ··&quot; then in &quot;··· ··· ··· ···&quot; back down to 2, then 1, and gone.Saw disc with lights rotating like:::::: "·· ·· ·· ··" then in "··· ··· ··· ···" back down to 2, then 1, and gone. Just vanished. You could tell it was spinning like the starship ride you see at the state fairs.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163095.html](http://www.nuforc.org/webreports/reports/163/S163095.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Durand (IL) reported seeing craft that fit the description of some 'Other' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>I have been observing this "object" on and off for over 5 months.It appears as a bright "star" in the west/northwest sky (from my vantagepoint) that varies in intensity from very bright to fading into the darkness.I have observed this object through a telescope and, at first glance, saw a crystalline structure that changed as the object pulsed and changed color.The colors ranged from yellow to green and to red. I went to get my wife and looked at the object again only to see a perfect yellow/orange sphere that appeared to have "energy" flowing across the surface.((NUFORC Note:  We suspect the witness was looking at Venus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36774.html](http://www.nuforc.org/webreports/reports/036/S36774.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/163/S163054.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163069.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163153.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163089.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
