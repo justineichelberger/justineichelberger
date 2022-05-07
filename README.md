@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:41 on 7 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:36 on 7 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Baltimore (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately Since when I woke up at 4 - Since when I woke up at 4 minutes.</sub><blockquote><sub>Bright star-like light in the early morning (~5 AM) sky.I woke up to use the restroom and saw a really bright spot in the sky.  At first, I thought it was a star, an incoming plane, or a helicopter flying over the city, but the light isn't moving.  The light resembles a star, but way bigger.  As it begins to dawn, the light is becoming dimmer, but it is still there.  It does not appear to be moving.  Perhaps it moved up, higher in the sky, but it's difficult to tell.  Even the binoculars aren't helping much.  The light is still in the sky (5:15).(NUFORC Note:  Sighting of Venus in E sky?  PD))((NUFORC Note:  Source of the report elects to remain anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133990.html](http://www.nuforc.org/webreports/reports/133/S133990.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Sedona/Verde Valley (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Erratic moving red and white light seen through night visionLooking out towards Clarkdale and the cement factory we saw a small circular shaped white light that changed color from red to white erratically-above Mingus Mtn. ridge.Looked similar to a light we saw the previous evening in the same city-different location.  The light zig-zagged from left to right-more so up and down and then disappeared behind the ridge only to keep reappearing about 5 times fading out (the light) then disappear for good behind the mountain ridge. We saw this through the night vision scope and the light was much more intense than any other star or planet in the sky.  Its movement, as seen through the scope, was clearly moving erratically compared to any other night objects such as stars,airplanes passing by,satellites etc. The same description would be given as we saw also saw this with our naked eyes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44332.html](http://www.nuforc.org/webreports/reports/044/S44332.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/163/S163054.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163069.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163153.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163089.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
