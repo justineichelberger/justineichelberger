@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:22 on 7 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:41 on 7 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Marion (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>At approximately 10:30 pm, I stepped out into the backyard and observed a white light in the shape of an orb streak across the sky.  I then saw that there were 3 more darting in and out of view through cloud cover.  I went in the house and got my roommate and she too witnessed this event.  The lights were extremely fast and would merge into a single body from time to time.  They were visible while in the cloud but would almost disappear when they would move between the clouds.  Yet, you could still see a faint trace as they moved in and out of the clouds.  They disappeared completely when the clouds became few and far between.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127259.html](http://www.nuforc.org/webreports/reports/127/S127259.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Baltimore (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately Since when I woke up at 4 - Since when I woke up at 4 minutes.</sub><blockquote><sub>Bright star-like light in the early morning (~5 AM) sky.I woke up to use the restroom and saw a really bright spot in the sky.  At first, I thought it was a star, an incoming plane, or a helicopter flying over the city, but the light isn't moving.  The light resembles a star, but way bigger.  As it begins to dawn, the light is becoming dimmer, but it is still there.  It does not appear to be moving.  Perhaps it moved up, higher in the sky, but it's difficult to tell.  Even the binoculars aren't helping much.  The light is still in the sky (5:15).(NUFORC Note:  Sighting of Venus in E sky?  PD))((NUFORC Note:  Source of the report elects to remain anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133990.html](http://www.nuforc.org/webreports/reports/133/S133990.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/163/S163054.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163069.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163153.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163089.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
