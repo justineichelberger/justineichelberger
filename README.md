@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:29:11 on 7 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:15:02 on 7 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Surrey (Canada) (BC) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Summary : I was looking at the clouds and just over these distant mountains I saw a sliver colored craft. It looked like a hazey straight line that went extremly quick than disapeared over the mountain in a blink almost.I went to a park with some friends and I looked up and I saw this silver colored stripe that was hazey flying downwards towards distant mountains. It was traveling  very quickly. This all happened in a squence of 2 to 4 seconds. This exprience goes down in my head like ink on paper!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02473.html](http://www.nuforc.org/webreports/reports/002/S02473.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Marksville (LA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>It was a triangle shaped object with lights, hovering over a small airport next to a casino.I was driving north on Hwy 1 about 1/2 mile from casino when I noticed an object to my left across the street over our small country airport.  It was a triangle shaped object with lights flashing up and down around the shape of the triangle.  It just hovered there.  I drove slow watching it.  As I got in front of the casino and stopped at the red light I looked back and it slowly started to move.  I lost sight when I moved on.  This is my third sighting since we moved to this area 8 years ago.  And this was the only time I didn't have witnesses.  I remember my teacher from junior high saying he had seen the same thing several years before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22798.html](http://www.nuforc.org/webreports/reports/022/S22798.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/163/S163054.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163069.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163153.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163089.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
