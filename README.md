@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:34 on 7 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:54 on 8 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Stratford (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Fast erratic moving lights that turned off and on.I was watching what I thought were a couple of helicopter lights, when they flicked off and on and seemed to fly very erratically.  The lights moved very fast and moved back and forth. I have never seen an aircraft move like that.  I then saw about 6 of these lights flick on all at once when all the lights went out I didn't see them anymore.  The lights reminded me of how lighting bugs but they were not lighting bugs.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139780.html](http://www.nuforc.org/webreports/reports/139/S139780.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in New Concord (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1:00 - 1:00 minutes.</sub><blockquote><sub>The craft was triangular in shape and had lights on all three corners and was completely silent. The lights were bigger than normal aircraft lights and it was flying in an unusual part of the sky for normal aircraft.  The craft seemed to be "hovering" and was moving southeast to northwest and then shortly after I noticed it the craft turned and started moving east to west.  The craft was rotating on its x axis and in the time span I viewed it the craft's original front was facing backwards.  Although there were no reference objects the craft seemed to be flying fairly low though and judging from my perception of the crafts height it's size, I would guess, was about the size of a shopping center parking lot.  However, high it was it appeared to be larger than my house which is 20x40'.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109265.html](http://www.nuforc.org/webreports/reports/109/S109265.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/163/S163054.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163069.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163153.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163089.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
