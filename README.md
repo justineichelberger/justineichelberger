@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:54 on 8 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:59 on 8 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in New Concord (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1:00 - 1:00 minutes.</sub><blockquote><sub>The craft was triangular in shape and had lights on all three corners and was completely silent. The lights were bigger than normal aircraft lights and it was flying in an unusual part of the sky for normal aircraft.  The craft seemed to be "hovering" and was moving southeast to northwest and then shortly after I noticed it the craft turned and started moving east to west.  The craft was rotating on its x axis and in the time span I viewed it the craft's original front was facing backwards.  Although there were no reference objects the craft seemed to be flying fairly low though and judging from my perception of the crafts height it's size, I would guess, was about the size of a shopping center parking lot.  However, high it was it appeared to be larger than my house which is 20x40'.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109265.html](http://www.nuforc.org/webreports/reports/109/S109265.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1985, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Triangle shaped dark craft hovers and then flys off at phenomenal speedI was walking my small dog one night in Orlando College Park area.  I heard what I thought was a whirring sound of a helicopter and saw lights and assumed it was a helicopter landing at the nearby hospital. It began to fly directly over me and hovered, when I looked up, I realized (gulp) that it looked nothing like a helicopter and looked like a small version of a  stealth jet, which of course cannot hover.  It had very bright lights emanating from it all around the sides and at least one shining down from the bottom of the craft. I looked over to my dog and she was looking up at it and was mesmerized, but not barking, which she would normally do at loud big things.  I looked back up at the object, which was about 40 to 50 feet above us, and it suddenly moved sideways for about 200 feet, then went up into space at an incredible speed that within 30 seconds, it was up so high it looked like a star.  I had never seen anything move that fast ever. My father was an air force pilot, so I am familiar with planes and jets.  For days afterward, my dog just lay around listless, and I felt strange as well, extreme fatigue yet a blissful mental state.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96249.html](http://www.nuforc.org/webreports/reports/096/S96249.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/163/S163066.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163071.html)
-- [275](http://www.nuforc.org/webreports/reports/163/S163056.html)
-- [274](http://www.nuforc.org/webreports/reports/163/S163074.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163077.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
