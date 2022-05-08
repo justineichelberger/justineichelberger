@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:36 on 8 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:31 on 8 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Carolina Beach (NC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>3 fireballs observed above the ocean at Carolina Beach, NCFull Sighting Description Descriptions of the objects:  The objects emitted a red ball of light (“fireball”) at the center surrounded by a red-magenta translucent aura outlined in gold.  The objects at no point in time made any sound whatsoever.  The objects were located above the ocean approximately 2 o’clock with respect to the horizon. The visibility that night was clear with a backdrop of clouds and stars.  The objects appeared to emit/disappear into the clouds themselves as though they were integrating themselves into the clouds when they turned on or off.Timeline: 1)  First minute of viewing: I observed one fireball stationary in the sky hovering for about 15 seconds appearing as one fireball.  During this time the fireball appeared to morph into a brighter red color giving birth to another fireball directly to the left of the first one creating two fireballs.  The second fireball morphed/gave birth to the third fireball.  The term gave birth to can best be described as originating from the first, then the second, and the second making the third.  For a total of three fireballs lined up horizontally.2)  Second minute of viewing:  The three horizontal fireballs drifted into the 12 o’clock position in the sky, the other off to 3 o’clock, and the third moved up to 9 o’clock position.  The three fireballs repositioned themselves again and appeared in higher or lower positioning moving at a med-slow speed several more times staying in approximately the same area of the clouds but with different formations.  Then, the fireballs were observed to become integrated/dispersed into the clouds themselves as they disappeared into the backdrop of the clouds.3)  Third minute of viewing:  The three fireballs came back on in completely different positions in the sky one at 10 o clock, the other at 5 o’ clock, and the other 11 o’clock.  The objects appeared to move up/down/side-to-side repositioning themselves in the clouds and looking as though they became absorbed by the clouds themselves.4)  Forth minute of viewing:  After the lights went off they came back on within the span of about 2 seconds.  The three fireballs were located in completely different locations (with respect to before).  The objects appeared to move up/down/side-to-side repositioning themselves in the clouds before going off for the final time.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90198.html](http://www.nuforc.org/webreports/reports/090/S90198.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Frankfurt (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 12:53 - 12:53 minutes.</sub><blockquote><sub>((NUFORC Note:  No information provided by witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156351.html](http://www.nuforc.org/webreports/reports/156/S156351.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/163/S163066.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163071.html)
-- [275](http://www.nuforc.org/webreports/reports/163/S163056.html)
-- [274](http://www.nuforc.org/webreports/reports/163/S163074.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163077.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
