@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:40 on 8 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:35 on 8 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Canton (GA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2 bright beautiful Orange circles. canton gawitness with me!  2 people saw this together 5/8/15 11pm Canton, GA.  We just saw 2 large slowly moving bright beautiful orange circles going strait then vanish.  No clouds.  No tree lines.  We saw the first one and we have pictures and video. Our dogs and the coyotes were all barking right before it happened and it went silent.  The second one did the same thing as the first.  We used a scope to look and clear as day each object was a dark center circle with a very bright glow.  Was not far away.  I have never seen anything in my life make animals go crazy like that.  Our dogs woke us up and we went outside and the coyotes were making so much noise and before I know it I am watching the most majestic thing of my life.  Watching what I just saw, I will go to my grave defending this and I have 3 videos I want professionals to look at.  No joke.  No bs.  We we just saw was the best thing that ever happened to me and I will never forget this. When we came inside our tv was not working and both of our phones would not let us use the internet or data.  The dogs sat silent with us outside.  With my own eyes, I watched our dogs looking at the sky in silence.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118873.html](http://www.nuforc.org/webreports/reports/118/S118873.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in North Lima (OH) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>formation of 5 or 6 lights traveling at great speedIt was approximately 9:30 p.m.  I was leaving a local gas station/plaza parking lot (Boardman and North Lima border area) when I noticed a row of 5 or 6 lights in the sky.  Thinking this was just a little odd to be just a plane, I then took a second look.  It was moving slow and I was waiting for a better view (a tree was blocking my view).  I immediately thought this was peculiar because first, the lights were not blinking, as you would expect to view on a plane, second, the lights appeared much larger than lights are seen on a plane.  The lights were white (the same color hue as headlights on a car (not bright white but more whitish-yellow but still very bright), they were in a completely straight horizontal row.  I assume the lights were on one object as I could not be sure due to the night sky.  In addition, I would like to note that there was no apparent noise from the object as you would expect to hear from a plane.Next, this is what startled me most.  As I left the parking lot, I was traveling south and noticed the lights were now traveling in the same direction at great speed.  I stopped my car to view and noticed the lights were now traveling vertically but still in the same southern direction as I first noticed and then suddenly out of view.  (out of view perhaps from the intense speed).  I never saw a plane travel that fast across the sky.I came home and immediately explained what I saw to my husband.  Whether this was a UFO or just a plane, it was definitely an odd experience and hope it can be explained.  I am wondering if anyone else in the area viewed the same lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56583.html](http://www.nuforc.org/webreports/reports/056/S56583.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/163/S163066.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163071.html)
-- [275](http://www.nuforc.org/webreports/reports/163/S163056.html)
-- [274](http://www.nuforc.org/webreports/reports/163/S163074.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163077.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
