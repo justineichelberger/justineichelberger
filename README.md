@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:03:08 on 8 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:55 on 8 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Anchorage (AK) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Horizontal white cigar shape UFO in Anchorage, AK.Me, three friends and my friend's mom were in the car on the way to get food.  We saw a shiny weird object in the sky, and it wasn't really moving much, and there was only one of them at the time.  It was a horizontal cigar shape, and it was white/silver.  It wasn't were any plane could have been, and it was too high in the sky for it to be a balloon or sign.  We aren't exactly sure how long it stayed there, as we were in a moving car and eventually it was out of view.  It also appeared to be pretty far away, so it could have had lights, or it could have been moving more if we observed it up closer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141458.html](http://www.nuforc.org/webreports/reports/141/S141458.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Fort Warangal (India) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Hi sir I'm ((name deleted))r iam tolking from india. unexpectedly i see the  one triangle object in the sky ,that object traveling north to east iam see that object only 3 seconds and red color flash lights coming after 3 seconds that object i think Going light speed after iam can't see that object. So situation was 05-08-21 night 1:02 time in graveyard,please believe me sir .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164222.html](http://www.nuforc.org/webreports/reports/164/S164222.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/163/S163066.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163071.html)
-- [275](http://www.nuforc.org/webreports/reports/163/S163056.html)
-- [274](http://www.nuforc.org/webreports/reports/163/S163074.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163077.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
