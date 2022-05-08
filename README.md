@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:43 on 8 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:33 on 8 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Stockton (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I have no idea what i wittnessed, but it was not natural.Looking into the sky on the hood of my car.  In the south east sky over Stockton, Ca.  I thought I had seen a bright flash of white light about the size of a bright star.  No big deal "right."  I rubbed my eyes and continued to look thinking maybe I saw a plane.  After that thought I starred into a fixed spot between 2 stars.  Then every 5 to 10 seconds, I was able to see this same light over and over.  Only differance being that it would appear from the southeast to the northeast over and over.  I thought maybe a sattalite....until the last 30 or 45 seconds of my experiance.  In those last seconds, 2 white lights blinked next to each other a few times stationary.  Then 2 seperate like shooting stars going in seperate directions left the sky.  Wow!!!  That is all I can say!!  I have heard the stories....read alot of stuff.  But this was the first time i ever questioned what did I just see.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118880.html](http://www.nuforc.org/webreports/reports/118/S118880.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Las Vegas, Nevada, Airspace (NV) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>strange light in a shape of a triangle over Las VegasThe last may 8th of 2009 in a flight from Las Vegas, Nevada, around 19:30 hr, from the right side of the plane, we saw a big bright light in a shape of a triangle, one of the passengers with his camera´s zoom took a video and we could note a small flying object flying around the lighting object</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70139.html](http://www.nuforc.org/webreports/reports/070/S70139.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/163/S163066.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163071.html)
-- [275](http://www.nuforc.org/webreports/reports/163/S163056.html)
-- [274](http://www.nuforc.org/webreports/reports/163/S163074.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163077.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
