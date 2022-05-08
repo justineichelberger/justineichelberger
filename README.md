@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:30 on 8 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:06:49 on 8 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Charleston (ME) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Single occupant craft with headlights similar to a car, slowly hovering, humming sound and vibration once nearby.Sometime between the summer of 2007 and 2008 I saw a UFO up close and I could hear it’s “engine”. I was in jail locked in cell C4 in A Unit. The jail used to be an air force base. My cell window looked in the opposite direction of where the road is located near the jail. I could see a softball field, then the fence, and then beyond the fence nothing but trees. Further in the distance to the right of my view was a water tower which could be seen among the trees. I was lying in bed reading when a light shone through the window. It must have been between 11PM and 2 AM. It looked like the headlights of a car. It caught my attention because there is no road in that direction and after being there for the better part of a year i had never seen headlights through the window. I looked out and saw beyond the fence appeared to be a car idling just beyond the fence with the headlights shining toward my direction. I watched as what I initially thought was a car seemed t! o lift off the ground very slowly and silently. The craft came closer and closer. The contrast between the light and the darkness made it impossible to see what it looked like. From what I could make out I would describe the craft as shaped very much like a car. The edges were not sharp, there were no corners, although it was shaped a bit like an arrowhead. It reminded me of a stealth bomber about the size of a small sedan. Looking at it I felt as though it could only contain one occupant or possibly be controlled remotely. It moved very slowly toward me passing almost directly above me, passing over the roof of the jail when I lost sight of it. Once it was within about 15 feet of me I could feel the vibration of it’s “engine” it reminded me of the sound of a computer fan. The vibration felt strong but the sound was very quiet as if the sound was meant to be dampened. It could have been an experimental drone for the military. At the time it was very outlandish. I ran to my ! cell door and yelled out to people in other cells to see if an! yone had seen the craft or if people  with windows facing the other direction could see it. It was strange because no one answered at all. One person said they heard me yelling but ignored me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151706.html](http://www.nuforc.org/webreports/reports/151/S151706.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>hablo espanol...  pero vi una luz rapida, muy rapida (anormal) aparecio y desaparecio, con un recorrido circular. ojala les sirva esta informacion</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75340.html](http://www.nuforc.org/webreports/reports/075/S75340.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/163/S163066.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163071.html)
-- [275](http://www.nuforc.org/webreports/reports/163/S163056.html)
-- [274](http://www.nuforc.org/webreports/reports/163/S163074.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163077.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
