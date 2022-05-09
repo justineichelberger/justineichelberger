@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:43 on 9 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:13:07 on 9 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Linden (NJ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I was sitting on my enclosed porch on Sunday night at about 11:30 p.m., when I saw a string of lights appear in the sky over a tree next to a house.  This was very low and so close to me.  I was shocked to see this, so I opened the door to get a better look.  It was a UFO sitting in a kind of slant almost like it stalled out and was just sitting there without any sound.  The lights I was seeing were the light at the bottom of the craft; you could tell by the outline what it was.  Then the lights started to blink one after the other until it was blinking faster and faster and when it picked up speed the thing just disappeared.  As if some one just put a clock over it.  Blink its gone.  The same way it showed up, blink and it was there.  A few seconds later I heard two jets go over my house as if it was looking for it.  It made me very nervous.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  We are uncertain as to whether this is a serious report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127397.html](http://www.nuforc.org/webreports/reports/127/S127397.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Set of 7 or 8 orange lights moving silently at airliner velocity, size and altitude over Las Vegas NevadaI observed 7 or 8 amber lights that I at first thought to be an aircraft coming from McCarran airport.  I was facing south from the area of Decatur and Charleston. I was intrigued because the lights were a bit unusual.  I watched them coming towards my location.  Two of the lights appeared to be closer than the rest as they appeared to separate slightly from the rest as they got closer, as if they were a bit forward of the others.  All lights appeared to be connected to one object since they did not move with respect to one another except for the above.As it got a bit closer I realized that it was NOT an airplane.  I nudged my friend I was sitting with and said: LOOK AT THAT!  She watched it pass directly overhead with me. It was totally silent.I estimate the velocity to be 300 to 500 knots, similar to an aircraft and an altitude of 2500 to 5000 feet.  The object covered about 3 to 7 degrees of arc from my view at its closest.About two weeks later the TV show sightings had video of a UFO that appeared almost identical.  It was from some other state much earlier.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77209.html](http://www.nuforc.org/webreports/reports/077/S77209.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/163/S163101.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163106.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163100.html)
-- [242](http://www.nuforc.org/webreports/reports/163/S163099.html)
-- [241](http://www.nuforc.org/webreports/reports/163/S163161.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
