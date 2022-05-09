@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:40 on 9 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:41 on 9 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Cloquet (MN) reported seeing craft that fit the description of some 'Diamond' over a period of approximately Ongoing - Ongoing minutes.</sub><blockquote><sub>My daughter and I were driving home from eating out and commented that that star in sky was really bright.  I started watching it and would dim and then get bright and the disappear and reappear we watched it until we got home and got of car and watched.  It kept doing it and then all of a sudden you could see a diamond shape.  Also, we looked opposite of house a saw a object flashing blue and red moving slow.  Also, the diamond shaped object once split into 2 pieces and back together.  We are freaking out!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118889.html](http://www.nuforc.org/webreports/reports/118/S118889.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Canfield  (OH/PA border) (OH) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Observed a black saucer shape in the sky just above the horizon.While driving west on the Ohio Turnpike just after we crossed the state line from PA, my wife and I observed a black saucer shape in the sky just above the horizon. It was motionless and did not appear to have any lights or emit any light. The object appeared to be quite large and miles away. At first we thought it might be a cloud but its shape was too perfect. It was also much darker than the sky and the few clouds that hung low on the horizon.  We observed it for about 3-5 minutes until it disappeared very quickly. I am a trained pilot and an amatuer astronomer. I work in the computer graphic field.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12883.html](http://www.nuforc.org/webreports/reports/012/S12883.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/163/S163101.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163106.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163100.html)
-- [242](http://www.nuforc.org/webreports/reports/163/S163099.html)
-- [241](http://www.nuforc.org/webreports/reports/163/S163161.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
