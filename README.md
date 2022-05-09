@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:01:05 on 9 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:40 on 9 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Howell (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5666666666666667 - 0.5666666666666667 minutes.</sub><blockquote><sub>I was watching tv when I saw two different lights one yellow and one red, as I stood up to look at it, my brother said "You see it too." i turned my head to nod and i looked back and it was gone. When i took my binoculars to look there was a thin yellow trail.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63111.html](http://www.nuforc.org/webreports/reports/063/S63111.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Sault Ste. Marie (south of) (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>((NUFORC Note:  We spoke with this pilot at length, and found him to be an exceptionally qualified observer.  We believe the pilots who reported this event probably had witnessed space debris returning through the atmosphere.  Please see the following URL for details:  http://www.spaceref.com/redirect.ref?url=www.aero.org/cords/&id=1634We express our gratitude to the FAA for directing the pilots to NUFORC, and to the crew members for having contacted us with their reports.  PD))bright light followed by illuminated trailAt 00:15 local time, 04:15 GMT, on the morning of May the 9th,I was the Captain of a B747-400 enroute from JFK to Vancouver. We had passed overhead of Toronto and were proceeding in a straight line from Toronto to Vancouver. We were flying at FL390, and making good a track of about 300 degrees magnetic. It was a clear night, no moon, and many stars visible. When we were south of Sault Ste. Marie by about 80 nautical miles, I suddenly observed two large bright white lights in our 1 o'clock position.  At first I thought they were two aircraft in formation flying towards us. They seemed to be about 8 to 10 miles away. I brought them to the attention of the F/O, and we both agreed that they were very unusual.I then asked air traffic control if they were aware of any aircraft in the area, and they said that there was nothing in the area either on radar or know of.We observed them for at least one minute, possibly close to two minute.They appeared as very bright white objects followed by a very long trail. The trail appeared to be about ten times the length of the object. The trail seemed to be illuminated, almost phosphorescent in color.The objects seemed to be brilliant white in color, and I felt I could see one or two individual white lights for a split second on the second object. They appeared to be in formation proceeding in a northeasterly direction at about our altitude.We watch them move from our 1 o'clock position to our 3 or 4 o'clock position, then the second object seemed to become two (perhaps one was hidden by the other), the second and third objects suddenly disappeared from sight and the lead object carried on for about 15 seconds more, then it disappeared as well.I have been flying for more than 25 years, and have operated all over the world; I have never seen anything that looked like this before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22779.html](http://www.nuforc.org/webreports/reports/022/S22779.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/163/S163101.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163106.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163100.html)
-- [242](http://www.nuforc.org/webreports/reports/163/S163099.html)
-- [241](http://www.nuforc.org/webreports/reports/163/S163161.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
