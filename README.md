@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:40 on 8 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:49 on 9 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Windsor (VA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Fire un the sky seemed to be be watching me, I felt something was thereI noticed out of the crack of my window which I don’t know how long before that it was there,  there was What appeared to be a fire in the sky,  it looed like someone lit a lighter from far away up in the sky and was just holding it veryyyy  still in one spot.  When I put my face in the window to look at it closer the next thing I knew it was gone and I never saw it again.((ADDENDUM FROM WITNESS))It was at night!  Thank you,((END ADDENDUM))((NUFORC Note:  Time above has been amended.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146037.html](http://www.nuforc.org/webreports/reports/146/S146037.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Reno (NV) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>looking directly east, saw object slowly moving north from south, stop, drop 3 fireballs, slowly moved south and with no hesitation, took off like it was shot from a sniper's rifle east.at exactly midnight, walking directly east to my work post, i noticed something moving slowly north from the south, above the eastern mountain's that surround the truckee meadow's. as i stopped to watch, this cigar shaped object (fat in the middle, taperd ends)at a min. distance of 20 miles, came to a complete halt. from the north end of this immense craft (covered two mountain tops) it dropped 3 sparkler like fireballs about 5 sec. apart. after about a min. or so, it slowly moved back south and from my location, as it reached rattlesnake mountain, it shot east and was gone. i do mean SHOT, literally. before this event, i witnessed, i have 5 years experience as an aircraft refueling supervisor at LAX & RNO. my employer's at both site's had the military contract's for fueling. any aircraft produced before 1985, including aeroflot & airbus, i have fueled and trained other's to fuel.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12364.html](http://www.nuforc.org/webreports/reports/012/S12364.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/163/S163066.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163071.html)
-- [275](http://www.nuforc.org/webreports/reports/163/S163056.html)
-- [274](http://www.nuforc.org/webreports/reports/163/S163074.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163077.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
