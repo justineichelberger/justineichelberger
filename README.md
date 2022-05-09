@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:25:34 on 9 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:07:41 on 9 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Bideford (UK/England) () reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>weird shape of lights low down and quiet flys near riverme and my friend where stood looking out on to the river, and this massive weird shape of lights flew out of nowhere really low down and behind a giant hill (chudleigh fort) we didnt hear any noise from it, so it couldnt of been a plane. only one was seen for about 5 seconds. (it was at night)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69978.html](http://www.nuforc.org/webreports/reports/069/S69978.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Canton (GA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>black oval craft emitting a orange light trail completely silent.Streak of orange light approx.10 to 15 yards in length with black oval shaped craft in front of the light.  Completely silent.  Had a unusual distortion around the craft.  Like a shimmering of the air around it.  We saw its for approximately 10 seconds before completely disappearing right in front of us.  We were about 500 yards away from the craft.  I am self employed, my wife along with two neighbors witnessed the craft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97661.html](http://www.nuforc.org/webreports/reports/097/S97661.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/163/S163101.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163106.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163100.html)
-- [242](http://www.nuforc.org/webreports/reports/163/S163099.html)
-- [241](http://www.nuforc.org/webreports/reports/163/S163161.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
