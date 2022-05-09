@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:07:41 on 9 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:04:03 on 9 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Canton (GA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>black oval craft emitting a orange light trail completely silent.Streak of orange light approx.10 to 15 yards in length with black oval shaped craft in front of the light.  Completely silent.  Had a unusual distortion around the craft.  Like a shimmering of the air around it.  We saw its for approximately 10 seconds before completely disappearing right in front of us.  We were about 500 yards away from the craft.  I am self employed, my wife along with two neighbors witnessed the craft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97661.html](http://www.nuforc.org/webreports/reports/097/S97661.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Sunningdale (UK/England) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Controlled craft, no sound, of a very large size.I was woken up at appoximately 1.30 am by flashing lights, I got out of bed to draw the curtains as I thought it was an electrical storm, and I saw an enormous disk with rotating lights around the periphery of the disk.  The lights slowly roatated in a controlled sequence around the periphery of the disk.  It was moving on a southerly track. In my opinion it seemed to be following the same outbound track from Heathrow airport.No central core of the disk was defined and the disk gradually dissapperared into the low cloud.  Throughout the sequince, there was no sound what so ever.  Estimated size of the disk was a least one mile across.  I have benn a pilot for 35 years and my profession is teaching pilots associated subjects,  I have witnessed various kinds of atmospheric phenomena.  Also, every kind of aircraft.  This was a contolled craft.  It was not a natural phenonmenon, nor was it any kind of aircraft.I went into work the next day and a collegue of mine who is also an instuctor, was talking to a group of other pilots.  I went over to listen and he was describing exactly what I had seen, he had been in a pub in Ascot, Berkshire, 5 minutes from where my house is, with a group of friends, all of which saw the same thing as I.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70009.html](http://www.nuforc.org/webreports/reports/070/S70009.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/163/S163101.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163106.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163100.html)
-- [242](http://www.nuforc.org/webreports/reports/163/S163099.html)
-- [241](http://www.nuforc.org/webreports/reports/163/S163161.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
