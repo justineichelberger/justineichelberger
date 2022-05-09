@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:48 on 9 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:46 on 9 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Chandler (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>Light in sky, twice-15 mins apartFirst, in the eastern sky, my husband seen a blueish white light shoot downwards quickly...he thought it was a shooting star, then it zipped upwards and disappeared. 15 minutes later, i see a blueish white light, possibly triangular, it was high in the sky...it was traveling very fast going in the north direction. the light faded then appeared again brighter, then zipped off.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44365.html](http://www.nuforc.org/webreports/reports/044/S44365.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Bensalem (PA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Satellite Debris Perhaps?Over a period of approximately 15 minutes going from 90 degrees overhead starting in the northwest sky, I witnessed some sort of object that appeared to either flash or reflect sunlight based on its movement through the sky towards the north.The object appeared to be some sort of Satellite; however the inconsistency of its luminance which varied throughout the time I observed it, did not follow any normal patterns I have observed in satellites.  After about 5 minutes along a similar trajectory, I witnessed the same thing again, by I presume, another object or possibly satellite debris.  Finally I saw a third object about another 5 mintues later doing the same sort of inconsistent pattern.  No series of satellites would follow that close in my opinion along the same trajectory unless it is debris from a rocket, or satellite or something else we have not heard of yet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69988.html](http://www.nuforc.org/webreports/reports/069/S69988.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/163/S163101.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163106.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163100.html)
-- [242](http://www.nuforc.org/webreports/reports/163/S163099.html)
-- [241](http://www.nuforc.org/webreports/reports/163/S163161.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
