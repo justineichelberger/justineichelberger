@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:49 on 9 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:06 on 9 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Reno (NV) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>looking directly east, saw object slowly moving north from south, stop, drop 3 fireballs, slowly moved south and with no hesitation, took off like it was shot from a sniper's rifle east.at exactly midnight, walking directly east to my work post, i noticed something moving slowly north from the south, above the eastern mountain's that surround the truckee meadow's. as i stopped to watch, this cigar shaped object (fat in the middle, taperd ends)at a min. distance of 20 miles, came to a complete halt. from the north end of this immense craft (covered two mountain tops) it dropped 3 sparkler like fireballs about 5 sec. apart. after about a min. or so, it slowly moved back south and from my location, as it reached rattlesnake mountain, it shot east and was gone. i do mean SHOT, literally. before this event, i witnessed, i have 5 years experience as an aircraft refueling supervisor at LAX & RNO. my employer's at both site's had the military contract's for fueling. any aircraft produced before 1985, including aeroflot & airbus, i have fueled and trained other's to fuel.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12364.html](http://www.nuforc.org/webreports/reports/012/S12364.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Commerce (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two bright fireballs stop and go, moving at differing speeds and towards different areasThere were two very bright orange fireballs that started off very close together and then slowly came apart.  They both decreased and increased in brightness every thirty seconds or so.  I believed them to be bright planes at first until they just stopped moving for a while, then one took off to the south and the other slowly moved east before circling back around to travel back south after the other one.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127282.html](http://www.nuforc.org/webreports/reports/127/S127282.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/163/S163101.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163106.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163100.html)
-- [242](http://www.nuforc.org/webreports/reports/163/S163099.html)
-- [241](http://www.nuforc.org/webreports/reports/163/S163161.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
