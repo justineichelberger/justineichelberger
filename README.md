@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:34 on 9 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:40 on 9 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Torrance (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>Fake plane, or we have hologram and/or cloaking capability.Last year I observed a plane with a contrail from a distance of a few miles.  I kept my eye on it intermittently and upon returning my gaze upon it it had vanished. It was clear in the sky, there were not clouds or anything else obstructing my sight of it.  Trail and all, gone instantly.  Today, while arriving home, I spotted a similar plane and contrail, arising from the West as well.  I thought it would make a good reference photo so that in telling the story, people could see what I'm describing rather than have to use their imagination.  Grabbed my camera a Canon SX120 PowerShot and aimed at the plane from my backyard.  The first photo I zoomed in.  Took a second without zoom, for a realistic perspective.  It was now at about 80 degrees angled from me, heading east, and nearly directly above me.  Took aim for a third shot.  Couldn't locate it.  I quickly checked my camera, everything was fine.  Lowered the camera to relocate the plane in the sky and it is now go! ne.  As before, the sky was cloudless.  It was in plain sight, not fading out and getting lost in atmospheric perspective.  At the rate it was traveling, it should have remained in sight for a few minutes more.  I didn't see it blink out.  It was visible and then I suddenly couldn't find it in my camera.  There one second.  Gone the next.  It happened again.  I grabbed someone from the house immediately to corroborate the fact that there was nothing in the sky, that I wasn't missing anything.  I knew I wasn't but this was the best I could do next to having a real-time witness.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127287.html](http://www.nuforc.org/webreports/reports/127/S127287.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Cloquet (MN) reported seeing craft that fit the description of some 'Diamond' over a period of approximately Ongoing - Ongoing minutes.</sub><blockquote><sub>My daughter and I were driving home from eating out and commented that that star in sky was really bright.  I started watching it and would dim and then get bright and the disappear and reappear we watched it until we got home and got of car and watched.  It kept doing it and then all of a sudden you could see a diamond shape.  Also, we looked opposite of house a saw a object flashing blue and red moving slow.  Also, the diamond shaped object once split into 2 pieces and back together.  We are freaking out!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118889.html](http://www.nuforc.org/webreports/reports/118/S118889.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/163/S163101.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163106.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163100.html)
-- [242](http://www.nuforc.org/webreports/reports/163/S163099.html)
-- [241](http://www.nuforc.org/webreports/reports/163/S163161.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
