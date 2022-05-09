@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:41 on 9 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:43 on 9 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Canfield  (OH/PA border) (OH) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Observed a black saucer shape in the sky just above the horizon.While driving west on the Ohio Turnpike just after we crossed the state line from PA, my wife and I observed a black saucer shape in the sky just above the horizon. It was motionless and did not appear to have any lights or emit any light. The object appeared to be quite large and miles away. At first we thought it might be a cloud but its shape was too perfect. It was also much darker than the sky and the few clouds that hung low on the horizon.  We observed it for about 3-5 minutes until it disappeared very quickly. I am a trained pilot and an amatuer astronomer. I work in the computer graphic field.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12883.html](http://www.nuforc.org/webreports/reports/012/S12883.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Linden (NJ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I was sitting on my enclosed porch on Sunday night at about 11:30 p.m., when I saw a string of lights appear in the sky over a tree next to a house.  This was very low and so close to me.  I was shocked to see this, so I opened the door to get a better look.  It was a UFO sitting in a kind of slant almost like it stalled out and was just sitting there without any sound.  The lights I was seeing were the light at the bottom of the craft; you could tell by the outline what it was.  Then the lights started to blink one after the other until it was blinking faster and faster and when it picked up speed the thing just disappeared.  As if some one just put a clock over it.  Blink its gone.  The same way it showed up, blink and it was there.  A few seconds later I heard two jets go over my house as if it was looking for it.  It made me very nervous.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  We are uncertain as to whether this is a serious report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127397.html](http://www.nuforc.org/webreports/reports/127/S127397.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/163/S163101.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163106.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163100.html)
-- [242](http://www.nuforc.org/webreports/reports/163/S163099.html)
-- [241](http://www.nuforc.org/webreports/reports/163/S163161.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
