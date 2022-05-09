@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:38 on 9 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:01:05 on 9 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Fairfield (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 35 s - 35 s minutes.</sub><blockquote><sub>Boomerang UFOI saw a boomerang shaped object fly toward the direction of Travis air force base.The object looked identical to the one depicted in an episode of UFO Hunters on the History channel entitled "First Repsonse".  In that episode a segment aired in which a man from Lake Havasu, NV, reported a boomerang shape craft.  This sparked my memory due to the visual depiction on TV.  Also the object emitted no sound as it traveled overhead.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75548.html](http://www.nuforc.org/webreports/reports/075/S75548.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Howell (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5666666666666667 - 0.5666666666666667 minutes.</sub><blockquote><sub>I was watching tv when I saw two different lights one yellow and one red, as I stood up to look at it, my brother said "You see it too." i turned my head to nod and i looked back and it was gone. When i took my binoculars to look there was a thin yellow trail.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63111.html](http://www.nuforc.org/webreports/reports/063/S63111.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/163/S163101.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163106.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163100.html)
-- [242](http://www.nuforc.org/webreports/reports/163/S163099.html)
-- [241](http://www.nuforc.org/webreports/reports/163/S163161.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
