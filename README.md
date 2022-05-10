@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:14 on 10 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:25:18 on 10 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Des Moines (IA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Triangular UFO seen by family of 6 just south of Des Moines on I35.After leaving Des Moines, Iowa on I35 south I noticed 2 bright lights to the east.  It looked like bright car lights but didn't look like they were moving.I then thought it was a tower with lights on it.  It then was moving towards us.  It was about 1/4 mile away and about the height of the red beacon towers for planes. Me, my wife and 4 kids were watching this.  Then about 50-100 yards before reaching I35 it turned north and we could see the bottom.  It was a perfect triangle shape with lights at the points that were not blinking and 3 lights in about halfway from the flat sides to the middle that were flashing.  It turned from flat to its side pretty fast but at a slow speed. It then was out of my view but the kids watched it until it was gone. Last seen heading north towards Des Moines.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97697.html](http://www.nuforc.org/webreports/reports/097/S97697.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Terrace (Canada) (BC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>On May 10, 2003 at 10:55 p.m. a witness living in Terrace, B.C. was outside burning wood in a barrel, his girlfriend had left to go inside. The witness was sitting on a bench watching the fire when he looked up into the southwestern part of the sky and saw a small white colored light heading to the northeast. The light was rather bright and traveling quickly. He viewed the light for approx: 15 seconds, it blinked a couple of times while he watched it before it finally disappeared. HBCC UFO Note: Possible satellite?  Thank you to the witness for their report. Brian Vike, Director HBCC UFO Research Canadian Toll Free UFO Hotline 1 866 262 1989 - Free call.Editor: Canadian Communicator - Paranormal Magazine email: hbccufo@telus.net Website: http://www3.telus.net/public/wilbur8/hbcc_ufo_research.htm((NUFORC Note:  We express our gratitude to Brian Vike for submitting the report to NUFORC.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28800.html](http://www.nuforc.org/webreports/reports/028/S28800.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [346](http://www.nuforc.org/webreports/reports/163/S163111.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163108.html)
-- [344](http://www.nuforc.org/webreports/reports/163/S163105.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165242.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
