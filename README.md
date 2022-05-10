@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:25:18 on 10 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:08:18 on 10 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Terrace (Canada) (BC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>On May 10, 2003 at 10:55 p.m. a witness living in Terrace, B.C. was outside burning wood in a barrel, his girlfriend had left to go inside. The witness was sitting on a bench watching the fire when he looked up into the southwestern part of the sky and saw a small white colored light heading to the northeast. The light was rather bright and traveling quickly. He viewed the light for approx: 15 seconds, it blinked a couple of times while he watched it before it finally disappeared. HBCC UFO Note: Possible satellite?  Thank you to the witness for their report. Brian Vike, Director HBCC UFO Research Canadian Toll Free UFO Hotline 1 866 262 1989 - Free call.Editor: Canadian Communicator - Paranormal Magazine email: hbccufo@telus.net Website: http://www3.telus.net/public/wilbur8/hbcc_ufo_research.htm((NUFORC Note:  We express our gratitude to Brian Vike for submitting the report to NUFORC.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28800.html](http://www.nuforc.org/webreports/reports/028/S28800.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Pittsboro (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>One brillian pin-point of light appeared, without a trail or tail ,then  dissappearedLying comfortably on a reclining lawn chair at 3:30 in the a.m.,I had awoken and was enjoying the clear sky and the few scattered clouds. Facing east, almost due east at about a thirty to fourty degree angle a brilliant flash of light occurred. I am not stating this was a craft, but it was certainly unlike any meteor i have witnessed for several reasons: (one) it had no trail, but appeared as a brilliant flash (2)that faded. No colors really...No smoke, no noise, no residuals.slighty, into nothing. It could have been a star Nova!..i have no clue as to the distance...(3) the magnitude or luminescent--at least equal to the first magnitude star: Sirius,slightly less than Venus appears... The thought occurred to me that it could have been a man-made satellite which was destroyed, or an exploded missile...Isn't anyone interested?... My credentials as an objective, and clear-headed observor might be mentioned;for almost twenty years I was employed as a patent research specialist, examining drawings and diagrams at quite rapid speeds; my judgements  and analysis based upon my perceptions of what i discerned fulfilled my vocation...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64115.html](http://www.nuforc.org/webreports/reports/064/S64115.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [346](http://www.nuforc.org/webreports/reports/163/S163111.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163108.html)
-- [344](http://www.nuforc.org/webreports/reports/163/S163105.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165242.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
