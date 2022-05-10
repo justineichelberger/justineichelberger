@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:42 on 10 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:53 on 10 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Cropper (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>Lights in rural areas near Cropper, KYAs I was driving down this road, which has a lot of curves and trees on it, I came out into a clearing and noticed in the sky that there were 4 flashing lights in the sky.  They were white and fixed in place, so I’m not sure if I saw one big craft or four individual ones.  There is only one tower around that area, and it’s on the right-hand side of the field clearing, while these lights were straight in front of where I was driving.  I have lived in this area for very long and know there are no other towers towards the direction of the lights.I have decided to post this because this isn’t the only time it’s happened in that same area. It happened on April 12th of this year (2015), around 11 pm.  I remember this because I made a post on my facebook about it because I was freaking out.  Around that time, I was coming home from my boyfriend’s house.  Right before I go into the trees that surround the curve before the clearing, I had to slow down and stop for some deer on the road.  At at moment, a star caught my eye.  The star started to glow more brightly and became a green color.  The light then proceeded to get larger as if coming closer and moved to the right in a speed faster than I’ve seen any plane move, and then shoot straight down.  As I came out of the trees, into the clearing, the green light could be seen between some trees, not high up, but not quite on the ground either, it was just eerily floating in place.  I came home, freaked out of my mind, called my boyfriend for some peace of mind since this was my first! abnormal encounter.Today, when I came back after seeing the white, flashing lights, my dad told me that sometimes as he comes into that same clearing, he sees the same green light hovering, and when he turns on the curve up ahead, the green light is gone.There are not many people who live out here in the country, so I’m not sure if there’s any more witnesses to these happenings around this area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118904.html](http://www.nuforc.org/webreports/reports/118/S118904.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Hamilton (OH) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Black Area In Night SkyI like to go out late at night and look at the stars and planets. I went out this night to look and see if I could see any metorites. I spend alot of time in my hobby room, which is in the garage, working on and talking CBs.I heard some strange static and walked outside to see if the transformer on the pole outside my house was arcing, it wasnt.I started looking up to see if I could see anyting when I saw a black portion of the sky, no stars were visable, as I watched the black spot the stars in the rear of the spot became visable and the stars in front dissappeared. At first I thought OK that is just a cloud, but as I watch the black area moved SIDEWAYS. There was a slight breeze blowing West to East, the black area moved roughly North. There was no sound from the black area that I could hear. Several dogs in the neighborhood were barking and howling.The black area moved out of my sight after about 10-15min.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37064.html](http://www.nuforc.org/webreports/reports/037/S37064.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [346](http://www.nuforc.org/webreports/reports/163/S163111.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163108.html)
-- [344](http://www.nuforc.org/webreports/reports/163/S163105.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165242.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
