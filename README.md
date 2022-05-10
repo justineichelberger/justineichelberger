@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:45 on 10 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:14 on 10 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Cape Neddick (ME) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>A bright orange object shaped like a very small hot air balloon moved very fast across the sky from south to north parallel to the coast.A very bright orange object moved at a very fast rate of speed across the sky from south to north.  It appeared to be shaped like  a hot air balloon but much smaller.  It was very bright almost like on fire at the bottom of the object.  The object appeared to be very close and low in altitude as it moved along the coast.  Within 20-30 seconds the object disappeared in the northern sky.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109332.html](http://www.nuforc.org/webreports/reports/109/S109332.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Des Moines (IA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Triangular UFO seen by family of 6 just south of Des Moines on I35.After leaving Des Moines, Iowa on I35 south I noticed 2 bright lights to the east.  It looked like bright car lights but didn't look like they were moving.I then thought it was a tower with lights on it.  It then was moving towards us.  It was about 1/4 mile away and about the height of the red beacon towers for planes. Me, my wife and 4 kids were watching this.  Then about 50-100 yards before reaching I35 it turned north and we could see the bottom.  It was a perfect triangle shape with lights at the points that were not blinking and 3 lights in about halfway from the flat sides to the middle that were flashing.  It turned from flat to its side pretty fast but at a slow speed. It then was out of my view but the kids watched it until it was gone. Last seen heading north towards Des Moines.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97697.html](http://www.nuforc.org/webreports/reports/097/S97697.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [346](http://www.nuforc.org/webreports/reports/163/S163111.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163108.html)
-- [344](http://www.nuforc.org/webreports/reports/163/S163105.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165242.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
