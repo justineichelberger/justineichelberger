@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:33 on 10 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:37 on 10 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Fort Myers (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>large red shere in Fort Myers, FloridaI was walking to work and I looked to the horizon and saw what I thought was the sun or the moon but it had a reddish color to it. As I rounded a bend, the object seemed to drift left.  When I got around the bend the object was gone. I am 43 years old and I do believe in ufos but I have never seen one.  Is there any way for the moon to be reflected in the sky?  It couldn't have been the actual moon because it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50513.html](http://www.nuforc.org/webreports/reports/050/S50513.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Aloha (OR) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I witnessed a yellow/orange plasma lit saucer flying west to east faster than a jet flying at 1,000 ft from the ground with no sound and in a straight trajectory albeit erratically flying up and down</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156888.html](http://www.nuforc.org/webreports/reports/156/S156888.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [346](http://www.nuforc.org/webreports/reports/163/S163111.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163108.html)
-- [344](http://www.nuforc.org/webreports/reports/163/S163105.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165242.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
