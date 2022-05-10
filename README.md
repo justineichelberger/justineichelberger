@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:39 on 10 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:45 on 10 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Irmo (SC) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 95</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156598.html](http://www.nuforc.org/webreports/reports/156/S156598.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Spencer (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Light came from over our hill and started circulating above us.Around mid May I was walking my girlfriend outside as I do when she leaves at night.  As we exited my front porch in my rural town we saw a beam of light coming over the top of the hill I live on, near the road.  We just assumed it was a car but heard nothing.  The light shifted and rose over the trees.  I did not see where this light was coming from.  We both stared at this beam of light that rose from the tree tops over our heads.  I said to my girlfriend "It looks like someone has a really bright flash light or spot light and is in the trees shining it!!"  As rediculous as it sounds that is exactley what it looked like! I could not figure where this light was coming from.  The light lifted up in the air way above the tree tops and the beam of light shortened towards us and turned in a rotating motion over our heads.  It looked like a bunch of little rays of light rotating over our heads.  I grabbed my girlfriend and said for her to move out from under it.  I ran inside and told my father to come outside and see.  When he got outside it was gone but there was this bright, glow-like cluster of clouds in the sky.  Now I don't know if what we saw was nature or UFO.  What ever it was freaked us out even to this day.  If anyone has any sort of info or shared experience(s) please e-mail me.  Thank you. ----- ((name and e-address deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08343.html](http://www.nuforc.org/webreports/reports/008/S08343.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [346](http://www.nuforc.org/webreports/reports/163/S163111.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163108.html)
-- [344](http://www.nuforc.org/webreports/reports/163/S163105.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165242.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
