@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:47 on 10 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:37 on 10 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Charlotte (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Silent craft floated over my headhi, I saw a UFO the other night when I was riding my bike to the store to get some beer.  It was a clear night and I had just left the store and  was enjoying the ride back home when I felt like I was being watched. And I noticed some of the street Iights went out and on kinda flickering all up and down the road. I just  kept on peddling, cause if you are black at night and in my  neighborhood, you just don't stop.  Anyway, I finally got tired of wondering and looked back., and damn if I didn't just about ((deleted)). There was this huge((deleted)) thing in the sky, black and silent. It was a floating just about 300 feet up or so, and sort of swinging from side to side. No lights, no sound. Just like a big ((deleted)) balloon about 100 feet across. Triagle looking, solid, blacker than me.   I don't have any notion what that ((deleted)) was.  All I know is I never ever saw anything like it.  I heard about this kinda stuff but I just used to laugh. Well, not now!  I dropped the bike, the beer, started hoofin it down the street. When I got home my wife thought I had a run in with some of the neighborhood ((deleted)), cause I was sweating ((deleted)) when I came in. I just went straight to the shower and sat down. I cried ((deleted)) for  about an hour. Then I pulled myself together, and wrote down as much detail as I could. So I could tell someone.  Here it is. I hope you don't think I am on crack or something, I ain't never touched the devil;s chicklets and I never will.  So this is straight up on the one.  It happened.  Stone cold fact. I thank you for you time.((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12881.html](http://www.nuforc.org/webreports/reports/012/S12881.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Ashton (MI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub>the object was small round and bright.me and my father were driving down the road in a little town not far from ours and then out of nowere there was a very bright flashing light it lasted for about 1-3 minutes and then it dissapered my dad said it was a new tv station but the next day we drove by that same place and there was nothing there but a large field or oped area then about a year later a 1/2 an hour down the i seen the same light once agisd he said it was a tv station but on the way home there was nothing there what still troubles me is what they want with a small town like this</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38317.html](http://www.nuforc.org/webreports/reports/038/S38317.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [346](http://www.nuforc.org/webreports/reports/163/S163111.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163108.html)
-- [344](http://www.nuforc.org/webreports/reports/163/S163105.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165242.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
