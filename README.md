@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:39 on 10 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:41 on 10 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Sonic booms over Mesa?At around 1:40 AM; Mesa time, Aventerra Apartments at Dobson Ranch.My wife and I awoke to what sounded like someone hammerfisting our patio door(It's a sliding glass).  I went outside to invistigate.  No one was to be seen.  At which point, I asked my wife if she would go to the corner store for a beer. Too cool my nerves, and to serve as a nightcap.  Five minutes later I decided to go outside again.I then saw a Mesa police cruiser parked in front of my apartment.  I went around a neighboring apartment as I heard a small crowd.  There I saw a police officer and about seven other people who heard or felt the same "boom".  We live underneath a known flight path but nothing like this!  As my wife returns, a second "boom" was heard to the north-west.  The officer heard this as well and immediately radio'd it in.  As we live next to a police and fire station, a fire-truck was scrambled to see if there was an explosion of some sort in our area.  A police helicopter orbited our complex then searched to the west to see if there was any trouble-there was not.At this point, more people came out claiming they too heard the loud explosion and about 12 mins., later a smaller one as well.  I didn't hear it.Out of pure curiosity I called a local TV station FOX 10 and they said they only knew of a apartment fire 10 miles to the north-east.  I then as a lark, called Luke's AFB and asked if they knew of any supersonic overflights over Mesa.  Maybe a hot-dogger or two.  They said not that they know of, but suggested I call in the morning and file a report with the're OSI division. I only file this report because maybe this might corroborate a possible ufo sighting as I have seen this activity before-less the "fast mover".</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43882.html](http://www.nuforc.org/webreports/reports/043/S43882.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Blue Springs (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Red light reverses direction.Was on the back deck at my friends house when we saw a red light that I initially thought was an airplane moving in a straight line some distance away and didn't think anything of it until it instantly reversed direction and went back the way it came before going forward again and moved in a kind of T shaped pattern before disappearing behind a large tree. It also changed colors from red to white a couple times but it wasn't flashing. It's difficult to judge but it seemed to be a good distance away below the cloud cover. The distance it traveled and the speed at which it maneuvered such as when it instantly reversed the direction it was going would be impossible for any kind of helicoptor or plane I know of. About twenty minutes later a helicoptor was flying in the opposite direction roughly the same distance from us as the light. Which stuck out to us because of how loud it was and the flashing lights. The ufo was completely silent and it's single light wasn't flashing like the ones on the helicoptor. It also seemed way too bright and fast to be a drone of some kind.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156373.html](http://www.nuforc.org/webreports/reports/156/S156373.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [346](http://www.nuforc.org/webreports/reports/163/S163111.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163108.html)
-- [344](http://www.nuforc.org/webreports/reports/163/S163105.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165242.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
