@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:38 on 9 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:45 on 10 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Im not too sure on the time a hour or two after nightfall. So maby 10=11pm. I was in back yard smoking and looking into the south west sky. I didnt see it forum I dont think but i saw what i can only explaine as a white ball of light. It wasnt a plane or a star... It looked more like if you took a dozen stars and put them all together. Thats about the brightness and the size that it was. It moved slowly west about the same speed you would think a airplane to move. Then after about 12-15seconds of moveing it just started to fade away. The fadeing only took about 2-3seconds then it was gone. It didnt fade because it was getting farther away. It went from being the full brightness that i saw from the first second to just fadeing in about 2-3seconds. Then it was gone and nothing happened after. I am in a city whee i can look into the spy for 10mins and watch 15 airplanes fly by. I know what they look like how they sounds. Flashing lights etc. THIS was not a aircraft. This was a light just like a star but many times brighter...That moved west to east about 12-15seconds then just fadeds(not dsapear) it faded from bright to nothing within 2-3seconds. No idea what it was but its like nothing i ever seen befor.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63803.html](http://www.nuforc.org/webreports/reports/063/S63803.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Cape Neddick (ME) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>A bright orange object shaped like a very small hot air balloon moved very fast across the sky from south to north parallel to the coast.A very bright orange object moved at a very fast rate of speed across the sky from south to north.  It appeared to be shaped like  a hot air balloon but much smaller.  It was very bright almost like on fire at the bottom of the object.  The object appeared to be very close and low in altitude as it moved along the coast.  Within 20-30 seconds the object disappeared in the northern sky.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109332.html](http://www.nuforc.org/webreports/reports/109/S109332.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/163/S163101.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163106.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163100.html)
-- [242](http://www.nuforc.org/webreports/reports/163/S163099.html)
-- [241](http://www.nuforc.org/webreports/reports/163/S163161.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
