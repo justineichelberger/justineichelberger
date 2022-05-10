@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:41 on 10 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:34 on 10 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Blue Springs (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Red light reverses direction.Was on the back deck at my friends house when we saw a red light that I initially thought was an airplane moving in a straight line some distance away and didn't think anything of it until it instantly reversed direction and went back the way it came before going forward again and moved in a kind of T shaped pattern before disappearing behind a large tree. It also changed colors from red to white a couple times but it wasn't flashing. It's difficult to judge but it seemed to be a good distance away below the cloud cover. The distance it traveled and the speed at which it maneuvered such as when it instantly reversed the direction it was going would be impossible for any kind of helicoptor or plane I know of. About twenty minutes later a helicoptor was flying in the opposite direction roughly the same distance from us as the light. Which stuck out to us because of how loud it was and the flashing lights. The ufo was completely silent and it's single light wasn't flashing like the ones on the helicoptor. It also seemed way too bright and fast to be a drone of some kind.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156373.html](http://www.nuforc.org/webreports/reports/156/S156373.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Stonington (ME) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Metallic tic tac appears hovering over the water and moves off silently on a sunny summer daySitting on a dock, waiting for boats to come in and sell their products, I continuously scan the horizon.  I do my best to see the boats coming from a distance so I can have everything ready when they pull up.  This particular nice sunny summer day as I scanned from left to right nothing was there.  When I scanned back right to left, I saw a 60' metallic tic tac shaped object hovering 20-30' off the water.  Once I layed eyes on the object it moved from right to left slowly and silently until it went out of view behind an island.  No wings, no sound, no idea what it could have been or how it appeared in front of me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165242.html](http://www.nuforc.org/webreports/reports/165/S165242.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [346](http://www.nuforc.org/webreports/reports/163/S163111.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163108.html)
-- [344](http://www.nuforc.org/webreports/reports/163/S163105.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165242.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
