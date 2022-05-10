@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:34 on 10 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:38 on 10 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Stonington (ME) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Metallic tic tac appears hovering over the water and moves off silently on a sunny summer daySitting on a dock, waiting for boats to come in and sell their products, I continuously scan the horizon.  I do my best to see the boats coming from a distance so I can have everything ready when they pull up.  This particular nice sunny summer day as I scanned from left to right nothing was there.  When I scanned back right to left, I saw a 60' metallic tic tac shaped object hovering 20-30' off the water.  Once I layed eyes on the object it moved from right to left slowly and silently until it went out of view behind an island.  No wings, no sound, no idea what it could have been or how it appeared in front of me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165242.html](http://www.nuforc.org/webreports/reports/165/S165242.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Cardiff (UK/Wales) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>My son and I were looking at the night sky, in Cardiff, UK having let the dog out. My son (an MSc) noticed a light in the sky, moving easterly almost overhead. This light, we observed, was as bright as the nearby stars, but covered about 15 seconds of arc in approximately 3 seconds. It was silent and there was no contrail.Cardiff lies underneath one of the transatlantic air corridors and we are used to all kinds of aircraft, including Concorde. Nothing we have seen overhead comes close to the speed at which the light moved. It flew straight, did not flare, as a meteor does and only disappeared when it flew behind a cloud.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28773.html](http://www.nuforc.org/webreports/reports/028/S28773.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [346](http://www.nuforc.org/webreports/reports/163/S163111.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163108.html)
-- [344](http://www.nuforc.org/webreports/reports/163/S163105.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165242.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
