@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:01:20 on 10 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:33 on 10 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Pinole (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2220.0 - 2220.0 minutes.</sub><blockquote><sub>bright red light moving slowly eastwardHow would we get info on an object moving in the sky over the SF Bay Area on Saturday Night at about 2200 hours moving from [estimated] magnetic 270degrees towards 90degrees.  It moved very slowly  while overhead and appeared to hover, although that could be its appearance as it moved directly away from us.  The feature was a large bright red light.  It approached from the west and moved slowly over head.  When it got farther east it appeared to hover, then move slightly north and then quickly move away and disappear. It diminished  like a fading red star.  IT was significantly larger to the human eye than Jupiter appeared  that night and while it was directly overhead, the red light was about the size of [an airliner at about 4000 feet altitude].  It was not possible to estimate the altitude of the object.  It was just smaller than the size of the moon that evening (about 1/2 full size moon).  The only discernable shape was the round red light.Unlike an airplane or helicopter to which you can tell a light is attached.We noticed that it made no sound.  There was no other sound or moving aircraft in the sky at the time.   There was no other air traffic in the sky until about 2230 hrs.  It seems to us that the airspace was cleared in preparation for this object.  We would like to find out what it was.  I have done a cursory review of the Vandenburg AFB website to review any possible launch schedules, but saw nothing that matched.  Where is the best place to look, or the best people to ask?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28760.html](http://www.nuforc.org/webreports/reports/028/S28760.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Fort Myers (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>large red shere in Fort Myers, FloridaI was walking to work and I looked to the horizon and saw what I thought was the sun or the moon but it had a reddish color to it. As I rounded a bend, the object seemed to drift left.  When I got around the bend the object was gone. I am 43 years old and I do believe in ufos but I have never seen one.  Is there any way for the moon to be reflected in the sky?  It couldn't have been the actual moon because it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50513.html](http://www.nuforc.org/webreports/reports/050/S50513.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [346](http://www.nuforc.org/webreports/reports/163/S163111.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163108.html)
-- [344](http://www.nuforc.org/webreports/reports/163/S163105.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165242.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
