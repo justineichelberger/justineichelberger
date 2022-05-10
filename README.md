@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:16:00 on 10 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:05:49 on 10 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Greensburg (PA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Window fan on low speed went to a faster speed when a white ball of light went through it.A ball of white light went through my window fan and the fan speed went to a faster speed then the white ball went a quarter way through my room then into the roof.  In my greensburg, PA, apartment.  On may 10, 2014, around 2pm((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  Possible hoax.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109316.html](http://www.nuforc.org/webreports/reports/109/S109316.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Joshua Tree (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>While parked at the west entrance parking lot of Joshua Tree National Park, I observed the craft as it suddenly appeared ovIt suddenly appeared traveling in a NorthEast to SouthWest direction, the scalene triangle-shaped craft traveled at a slow to moderate speed across the night sky.It looked to be a few hundred feet above the ground.Approximate size of the sides were:  One male-adult fist size high on the "backward" side, Two male-adult fist size long on the "top" side and a male-adult fist size and a half long on the "bottom" side.  At each corner, there were bright fluorescent, steady green lights.It emitted a low thrum (a combination of a throbbing and hum sound) noise, almost like a low engine sound, becoming louder as it was directly overhead.It continued to travel across the moon-lit sky for the time-duration stated above, gaining speed, and then both the lights and sound were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134068.html](http://www.nuforc.org/webreports/reports/134/S134068.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [346](http://www.nuforc.org/webreports/reports/163/S163111.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163108.html)
-- [344](http://www.nuforc.org/webreports/reports/163/S163105.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165242.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
