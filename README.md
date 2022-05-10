@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:53 on 10 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:16:00 on 10 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Hamilton (OH) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Black Area In Night SkyI like to go out late at night and look at the stars and planets. I went out this night to look and see if I could see any metorites. I spend alot of time in my hobby room, which is in the garage, working on and talking CBs.I heard some strange static and walked outside to see if the transformer on the pole outside my house was arcing, it wasnt.I started looking up to see if I could see anyting when I saw a black portion of the sky, no stars were visable, as I watched the black spot the stars in the rear of the spot became visable and the stars in front dissappeared. At first I thought OK that is just a cloud, but as I watch the black area moved SIDEWAYS. There was a slight breeze blowing West to East, the black area moved roughly North. There was no sound from the black area that I could hear. Several dogs in the neighborhood were barking and howling.The black area moved out of my sight after about 10-15min.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37064.html](http://www.nuforc.org/webreports/reports/037/S37064.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Greensburg (PA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Window fan on low speed went to a faster speed when a white ball of light went through it.A ball of white light went through my window fan and the fan speed went to a faster speed then the white ball went a quarter way through my room then into the roof.  In my greensburg, PA, apartment.  On may 10, 2014, around 2pm((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  Possible hoax.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109316.html](http://www.nuforc.org/webreports/reports/109/S109316.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [346](http://www.nuforc.org/webreports/reports/163/S163111.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163108.html)
-- [344](http://www.nuforc.org/webreports/reports/163/S163105.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165242.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
