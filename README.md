@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:05:49 on 10 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:36 on 10 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Joshua Tree (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>While parked at the west entrance parking lot of Joshua Tree National Park, I observed the craft as it suddenly appeared ovIt suddenly appeared traveling in a NorthEast to SouthWest direction, the scalene triangle-shaped craft traveled at a slow to moderate speed across the night sky.It looked to be a few hundred feet above the ground.Approximate size of the sides were:  One male-adult fist size high on the "backward" side, Two male-adult fist size long on the "top" side and a male-adult fist size and a half long on the "bottom" side.  At each corner, there were bright fluorescent, steady green lights.It emitted a low thrum (a combination of a throbbing and hum sound) noise, almost like a low engine sound, becoming louder as it was directly overhead.It continued to travel across the moon-lit sky for the time-duration stated above, gaining speed, and then both the lights and sound were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134068.html](http://www.nuforc.org/webreports/reports/134/S134068.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1976, an anonymous witness in Covelo (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>BRIGHT OBJECT ENTERS VALLEY WHILE WE ARE ON THE PLAYGROUND.I WAS IN 5TH GRADE AT THE TIME. WWE WERE OUT ON THE PLAYGROUND PLAYING WHEN SUDDENLY A OBJECT AS BRIGHT AS THE SUN CAME INTO THE VALLEY AT A SPEED WHICH WAS PROBABLY THOUSANDS OF MILES PER HOUR.IT STREAKED ACROSS THE SKY SILENTLY AT 3 RIGHT ANGLES, REVERSED ITS SELF BACK OVER THE SAME ANGLES AND DISAPEARED. THE EVENT WAS SHORT BUT I WILL NEVER FORGET IT. IT WAS A CLEAR WEATHER DAY.COVELO IS ALSO CALLED ROUND VALLEY. AFTER THAT THERE WERE ALOT OF MILITARY PLANES[FIGHTER JETS]PRESENT.THE TEACHERS RUSHED US IN TO THE CLASSROOM AND PASSED OUT PAPER.SHE THAN INSTRUCTED US TO DRAW WHAT WE HAD SEEN.WE DID SO.TO THIS DAY I DONT KNOW WHAT HAPPEND TO THE PICTURES THAT WE ALL HAD DRAWN.IT STILL MAKES ME NERVOUS WHEN I THINK ABOUT IT, MY NAME WAS ON THE PAPER AS WELL AS MY FELLOW STUDENTS.((NUFORC Note:  Witness indicates that date of sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42343.html](http://www.nuforc.org/webreports/reports/042/S42343.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [346](http://www.nuforc.org/webreports/reports/163/S163111.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163108.html)
-- [344](http://www.nuforc.org/webreports/reports/163/S163105.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165242.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
