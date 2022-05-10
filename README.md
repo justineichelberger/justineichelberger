@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:08:33 on 10 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:39 on 10 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Titusville (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>2 very large hovering crafts w/vivid multicolored lights. (Too out of this world to be anything other than otherworldly)My father (62/M), retired sheet metal worker, my son (8/M) & myself (31/F) mother of 3, w/an education level of an A.A degree, all witnessed this amazing phenomenon.  I couldn't have asked for a better mothers day gift!  @ 21:00 I stepped out onto the back porch, which faces west, & saw this very strange "thing" in the sky.  It took a moment for my mind to comprehend what my eyes were seeing.  In all my years I have never seen anything that even remotely resembles this craft.  The first thing that was unusual about it was the color of the lights & the multitude of lights.  The lights were so beautiful & vivid, seeming to twinkle rather than blink, ranging in color from red, blue, green, white, & yellow.  The lights also gave away the sheer size of the craft.  I would hate to make an approximation on the size of this craft, other than to say, IT WAS VERY LARGE!  The lights also gave a clue to it's shape, which seemed to be of a saucer/disk shape.  So, now that I was fully aware that I was witnessing something otherworldly, I called for my father & son to come & see it also.  By this time as well, I have made the observations that this craft is neither making any sound nor is it moving.  I proceeded to walk outside & see if I could get a better look.  As soon as I did, from behind the treeline, ANOTHER craft became visible!  I couldn't believe my eyes.  Not one, but TWO, of the most amazing things I've ever seen.  An exact replica, & they mirrored each others movements.  By now, approximately 7 minutes had elapsed & they continued to hover for roughly 3 minutes more before slowly moving, in tandem, westward.  They traveled a good distance before stopping once more to hover & then I watched them as they slowly moved across the sky until thier lights were no longer visible.  The whole time, seeming as though they were perfectly in sync w/one another, they kept the same amount of time to hover, altitude, speed & distance between them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118928.html](http://www.nuforc.org/webreports/reports/118/S118928.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Irmo (SC) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 95</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156598.html](http://www.nuforc.org/webreports/reports/156/S156598.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [346](http://www.nuforc.org/webreports/reports/163/S163111.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163108.html)
-- [344](http://www.nuforc.org/webreports/reports/163/S163105.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165242.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
