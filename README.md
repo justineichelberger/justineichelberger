@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:55 on 11 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:37:27 on 11 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Brighton (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A dim yellowish light no sound</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146076.html](http://www.nuforc.org/webreports/reports/146/S146076.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Garner (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Blue orbs fly over Garner (near soccer park over hey 50 south)Blue Lights moving high rate of speed would flash appear in different spot of the sky some times making “L” shaped pattern it was  moving south east direction away from the (opposite side of the sky) moon then it would appear below moon line with in 2-3 seconds went on for 45 minutes.  There was low flying plane seemed to chase or be chased plane flew low over tree tops near Sutton spring</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146063.html](http://www.nuforc.org/webreports/reports/146/S146063.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163468.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163113.html)
-- [263](http://www.nuforc.org/webreports/reports/156/S156431.html)
-- [262](http://www.nuforc.org/webreports/reports/156/S156429.html)
-- [261](http://www.nuforc.org/webreports/reports/156/S156413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
