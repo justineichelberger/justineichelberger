@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:26:05 on 11 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:10:21 on 11 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Columbia (MD) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10-15 - 10-15 minutes.</sub><blockquote><sub>Four of us having dinner on our back deck in Columbia MD last night saw 17 or 18 silent orange balls approach our house from the north and they all turned on the same western final heading.   Oddly, enough there were no regular aircraft in the are during the entire event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88911.html](http://www.nuforc.org/webreports/reports/088/S88911.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Real County (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>metalic triangular object noticed on photgraphWhile leaving our company Ranch in the Hill Country of W. Texas, I took a picture of low clouds surrounding the hills.  It was early morning, unusally cool so I had my window down to enjoy the morning breeze and decided to take a picture due to the resemblance of the Smokey Mountains.  Not until I returned home and reveiwed my pictures did I see this triangular shaped object which was in a vertical climb emitting a tail/streak from the ground upwards.  If you look in the picture, you can see a reflection of the streak in a water puddle at bottom.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88991.html](http://www.nuforc.org/webreports/reports/088/S88991.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163468.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163113.html)
-- [263](http://www.nuforc.org/webreports/reports/156/S156431.html)
-- [262](http://www.nuforc.org/webreports/reports/156/S156429.html)
-- [261](http://www.nuforc.org/webreports/reports/156/S156413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
