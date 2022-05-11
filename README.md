@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:34 on 11 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:13:44 on 11 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in San Bernardino (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I notice the object out of my back window facing SE as my Wife and I were going to bed. It was a large snow flake shape object, we couldn't see the body of it; only orange beautiful lights in a snow flake shape.It was hanging in the sky going very slow from the east to west and parallel to back yard line which boarders the Vulcan Materials gravel pit.  It looked like to could have about 300 yards away and directly over the pit but it's impossible to say.Our windows were open and it was completely silent and low in the sky and moving so slow we could barely tell it was moving.  It stayed on a perfect course as I could compare its movement to the stationary fence line that is on our back yard boarded.It was really pretty like some sort of light show on a cable be pulled from our left to right.  No way it could have though because where it was, is really "no man's" land, being over the gravel pit and private property.  Very weird, we watched it about 5 minutes until it was out of sight and moved toward North Fontana.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118948.html](http://www.nuforc.org/webreports/reports/118/S118948.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Karmala (MO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2 UFO plates with full of lights very close viewRound shape lights were there , sort of UFO.It was 2 in numbers . full of lights</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141515.html](http://www.nuforc.org/webreports/reports/141/S141515.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163468.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163113.html)
-- [263](http://www.nuforc.org/webreports/reports/156/S156431.html)
-- [262](http://www.nuforc.org/webreports/reports/156/S156429.html)
-- [261](http://www.nuforc.org/webreports/reports/156/S156413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
