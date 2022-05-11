@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:39 on 11 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:40 on 11 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Terre Haute (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>The craft was spotted on Highway 40 near Rose-Hulman Institute of Technology, a wetlands, and close to an airport with an air national guard. It was approximately 30ft in diameter with bright lights on the bottom hovering 50ft over the ground. Once the van was stopped a low rumbling sound could be heard. The craft hovered slowly over the vehicle and rapidly disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56636.html](http://www.nuforc.org/webreports/reports/056/S56636.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Harrington (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately throughout evening - throughout evening minutes.</sub><blockquote><sub>UFO over HarringtonAlright.  It's late on Wednesday night, and my associate spotted a strange formation of lights outside his window in the northeast sky.  He lives several miles out of town.  When he went to look out a different window, the lights had gone from a horizontal formation to a vertical one. then he lost contact with the craft.  He called a local resident and informed him of the sighting.  He went outside and saw it, facing north towards Davenport over highway 28.  He proceeded to pursue the craft down the highway as it flew in line with the highway at an altitude of 150 feet AGL.  He couldn't see it while driving except for when he turned around, it was vaguely visible in the distance.  He estimates it was 20 to 30 miles away at this point. About an hour later, an intrigued young man heard of the sighting and accompanied the truck driver to a point near the Star Barn Road which is west on the way to Sprague.  We watched for a while from the field we were in and saw nothing! at first.  After a while we noticed a flash in some large dark clouds. Its about 10:30 pm at this point.  We thought the flashes were lightning but there was no thunder. It was more of a slow strobing light. And it was moving through the clouds in a northeasterly trajectory.  It emerged from the clouds and was the same craft that was spotted earlier. It was flying very low and unnaturally slowly and was perfectly silent.  Especially considering its low altitude and large size.  My associate is a pilot and he agreed that it was no airplane.  It continued flying towards spokane and continued into the distance.  In the direction of spokane we spotted a strange light hovering over the horizon. (separate from the craft.  It was also visible in addition to it.)  There was a strange pulsing red glow on the horizon.  We estimate it was located several miles away.  The original craft appeared to be directly over it.Suddenly another light appeared over the craft and was darting to and fro li! ke a firefly but miles away. the light on the horizon wavered for a moment and slowly lowered until it disappeared. We drove in the general direction of the lights to investigate when suddenly all the lights disappeared. After searching again, we gave up and went home.((NUFORC Note:  We spoke with the two gentlemen who submitted this report, and they sounded to us to be sincere and credible.  The National UFO Reporting Center is located in Harrington, WA.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81229.html](http://www.nuforc.org/webreports/reports/081/S81229.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163468.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163113.html)
-- [263](http://www.nuforc.org/webreports/reports/156/S156431.html)
-- [262](http://www.nuforc.org/webreports/reports/156/S156429.html)
-- [261](http://www.nuforc.org/webreports/reports/156/S156413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
