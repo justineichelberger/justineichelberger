@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:36 on 11 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:21 on 11 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Manteno (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10m - 10m minutes.</sub><blockquote><sub>Dancing Lights in the NE sky, 3 bobbed up while 3 bobbed down. stayed in complete line. after 10 minutes i could not see them anymore((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81220.html](http://www.nuforc.org/webreports/reports/081/S81220.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Jewett City (CT) reported seeing craft that fit the description of some 'Changing' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>In the NW sky quite high above the horizon we witnessed what looked like a large star.  We used stable binoculars to look closer and noticed that it was changing both color and shape.  It was continually bright white and would occasionally have blue and red ends.  At one time it changed into three oblong white balls and would return to it's original shape.  Several times it almost looked like a pyramid.  Before it was gone the three white balls moved up and down.  There was always a "cloud" next to it that changed into a ball also.  It was gone it an instant and we noticed that there was a wide white streak across the sky that stayed for quite a while.  It was much too low and too wide to be a contrail.  Went from NW to NE.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141469.html](http://www.nuforc.org/webreports/reports/141/S141469.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163468.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163113.html)
-- [263](http://www.nuforc.org/webreports/reports/156/S156431.html)
-- [262](http://www.nuforc.org/webreports/reports/156/S156429.html)
-- [261](http://www.nuforc.org/webreports/reports/156/S156413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
