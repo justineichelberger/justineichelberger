@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:43 on 11 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:35 on 11 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in London (UK/England) () reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Hostile close up encounter.In 2001 I was a young boy, not interested in space or aliens, and very nearly deciding to become Christian.  On a night around the time described, I was getting ready to get into bed when I noticed an alien shuttle or dropship right outside my window.  It was purple, had a large open rear compartment, inside were several tall blue aliens, carrying large narrow weapons.  I was about to raise the alarm when they flew off, weather they had already taken someone, or if they were about to, I do not know.A few years later my next door neighbour saw a larger ship of similar styling flying over the valley, slowly and quietly, too massive to be a helicopter, too slow to be any plane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89311.html](http://www.nuforc.org/webreports/reports/089/S89311.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Hudson (NH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>I was driving to a friend's house late May 11, 2019.  as I was turning on her St I look up to see a unidentified flying object above my car.  I have never seen this before.  as I yelled what the heck is that and go to grab my phone to take a video.  that's when it flew fast in front of me. I was able to catch just a glimce of the fast object needed to speed up in my vehicle.  it was super fast, I know what I saw and not many believe me or they believe it to be a police drone. I know what a drone looks like. this was no drone.  I have video footage which I edited to be seen in slow motion because everything happened so fast.it was triangler with lights at the bottom it flashed or blinked every few seconds. it's was silver greyish looking. it was also very silent made no noises at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146169.html](http://www.nuforc.org/webreports/reports/146/S146169.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163468.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163113.html)
-- [263](http://www.nuforc.org/webreports/reports/156/S156431.html)
-- [262](http://www.nuforc.org/webreports/reports/156/S156429.html)
-- [261](http://www.nuforc.org/webreports/reports/156/S156413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
