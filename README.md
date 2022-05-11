@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:39 on 11 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:01:45 on 11 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Bellevue (TN) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>At 4:00am this morning, I took my dog outside to go to the bathroom and I saw a bright light in the sky that was darting across the sky when all of a sudden it took a 90 degree turn.  I totally freaked when all of a sudden I saw another and another.  A total of four.  Last night the entire sky kept lighting up and the news called for hail and thunderstorms which never happened.  Something crazy is definitely happening.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127399.html](http://www.nuforc.org/webreports/reports/127/S127399.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Grayland (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Red/Orange light over the Grayland/South Beach area of Grays Harbor County, Washington.Approximately 10:00 pm in Grayland, WA.  Traveling south from Westport along the coastline, I saw a bright Reddish/Orange light in the sky approximately 100 to 150 feet above my vehicle.  It was moving at about the same speed that I was traveling and in the same direction.  It moved west toward the beach from Highway 101 and back toward me several times as I made my way South  for nearly 3 miles. I and the vehicle behind me pulled to the side of the highway at our first opportunity.  The “Light” stopped for a brief moment (approximately 2 to 3 minutes) and stayed at the same altitude and distance from my location.  It then slowly began to move south again gradually gaining speed.  I followed it until it seemed to decrease in size until it disappeared and was gone.  There were 5 of us that seen it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127385.html](http://www.nuforc.org/webreports/reports/127/S127385.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163468.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163113.html)
-- [263](http://www.nuforc.org/webreports/reports/156/S156431.html)
-- [262](http://www.nuforc.org/webreports/reports/156/S156429.html)
-- [261](http://www.nuforc.org/webreports/reports/156/S156413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
