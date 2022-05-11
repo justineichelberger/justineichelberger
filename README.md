@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:08:11 on 11 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:37 on 11 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Kissimmee (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately hour - hour minutes.</sub><blockquote><sub>i have no idea what this object can be at is this a UFO?????While i was going to my room i happen to look out the window only two see one bright red orange looking type of light in the sky that seems to be very high in the sky. i thought it was some type of aircraft but the object seem to have no movment once so ever. i then took out my telescope to get a better look and along with my camra which i used to take pic's of the lights in the sky. when i looke at the lights they were not any type of aircraft that i would know about they did not have any blue or red light that will tell you it's a airplane. as i look closer i see one light fade away in the darkness and then a secound later another light appers in the skiy next to the first light i saw few minutes later the two lights fade away i say for about four minutes. later all three lights apper once agin one by one. they apperd in the same spot i first saw them and didn't seem to move at all. i stayed up and saw these process happen over and over for about an hour or so. after an hour all three lights in the sky fade away one by one.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36874.html](http://www.nuforc.org/webreports/reports/036/S36874.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Waynesville (NC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>White flashing light about a second on and off. The flash would leave a tail. No sound.Took my dog out at 9:50.  Saw a flashing light coming from the east.  It would flash on and off about one second intervals.  When the flashing occurred it would leave a trail or more like a tail.  I first thought it was a meteor but it was a lot bigger and the flashes were consistent.  As it got overhead to my position it changed directions to the left away from me in a sharp rounding type direction and was gone.  There was no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146077.html](http://www.nuforc.org/webreports/reports/146/S146077.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163468.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163113.html)
-- [263](http://www.nuforc.org/webreports/reports/156/S156431.html)
-- [262](http://www.nuforc.org/webreports/reports/156/S156429.html)
-- [261](http://www.nuforc.org/webreports/reports/156/S156413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
