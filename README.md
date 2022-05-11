@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:43 on 11 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:50 on 11 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in San Bernardino (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I notice the object out of my back window facing SE as my Wife and I were going to bed. It was a large snow flake shape object, we couldn't see the body of it; only orange beautiful lights in a snow flake shape.It was hanging in the sky going very slow from the east to west and parallel to back yard line which boarders the Vulcan Materials gravel pit.  It looked like to could have about 300 yards away and directly over the pit but it's impossible to say.Our windows were open and it was completely silent and low in the sky and moving so slow we could barely tell it was moving.  It stayed on a perfect course as I could compare its movement to the stationary fence line that is on our back yard boarded.It was really pretty like some sort of light show on a cable be pulled from our left to right.  No way it could have though because where it was, is really "no man's" land, being over the gravel pit and private property.  Very weird, we watched it about 5 minutes until it was out of sight and moved toward North Fontana.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118948.html](http://www.nuforc.org/webreports/reports/118/S118948.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Newport (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Object in night sky lands/communicates with Vega.On 5/11/14 at approximately 23:45, I was soaking in my hot tub facing South.  The Moon was 2 days shy of being full yet there was still plenty of stars to see on that clear night.I noticed a couple quick flashes directly under the Moon and quickly came to the conclusion it was a satellite.  Then, I saw the object heading East and knew right away it was moving too fast to be a satellite.  After about 3 seconds, the object shot 90 degrees and suddenly stopped.  I thought to myself, "way too fast to be anything man made yet too slow to be a shooting star or other space garbage."  Not to mention, it didn't 'burn out'.At that moment, I knew it was not of this world.  The object moved up and down and then headed to a bright star.  I later learned from my phone app, Google Sky Map, the star was Vega located in the constellation Lyra.  I could barely see the object as it seemed to closely orbit Vega.  About three minutes later, the object headed North and I lost sight of it.The whole sighting was as if I was looking at a dim star/satellite that was moving at different speeds.  All I can think of is how fast that object must have been going to travel the distance it did in such a short period of time.  Also, if it was a craft of some kind, how could I see it with the naked eye?  My only conclusion is it travelled through some worm hole?  Maybe it wasn't a craft but a form of energy?  I am reporting this in hope that someone else saw it too.  Very interested in if anyone has any thoughts on what I saw also.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109617.html](http://www.nuforc.org/webreports/reports/109/S109617.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163468.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163113.html)
-- [263](http://www.nuforc.org/webreports/reports/156/S156431.html)
-- [262](http://www.nuforc.org/webreports/reports/156/S156429.html)
-- [261](http://www.nuforc.org/webreports/reports/156/S156413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
