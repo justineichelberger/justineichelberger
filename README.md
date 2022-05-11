@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:08:46 on 11 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:39 on 11 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1994, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I observed a round black object pass in front of the moon through my telescope.While viewing the full moon through my Tele Vue Genesis-sdf refractor telescope, I saw a small, perfectly round, black object pass over the lunar disk. The object took approximately 10 to 15 seconds to make the transit. The object was in sharp focus, not fuzzy at all. The moon was also in focus at the time. It appeared as if out of nowhere on the eastern edge of the moon, travelled across the moon's face from east to west, then disappeared into the black sky at the moon's western edge. I looked to see if it was visible with the naked eye after it had passed the moon, but it was not. I do not recall exactly which eyepiece I was using at the time, but I am sure the magnification was somewhere in the 30x to 60x range. I am currently 34, and I have been an amateur astronomer ever since receiving my first telescope at age 7. I am thoroughly familiar with the night sky, and I have perfect vision.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09871.html](http://www.nuforc.org/webreports/reports/009/S09871.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Bellevue (TN) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>At 4:00am this morning, I took my dog outside to go to the bathroom and I saw a bright light in the sky that was darting across the sky when all of a sudden it took a 90 degree turn.  I totally freaked when all of a sudden I saw another and another.  A total of four.  Last night the entire sky kept lighting up and the news called for hail and thunderstorms which never happened.  Something crazy is definitely happening.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127399.html](http://www.nuforc.org/webreports/reports/127/S127399.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163468.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163113.html)
-- [263](http://www.nuforc.org/webreports/reports/156/S156431.html)
-- [262](http://www.nuforc.org/webreports/reports/156/S156429.html)
-- [261](http://www.nuforc.org/webreports/reports/156/S156413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
