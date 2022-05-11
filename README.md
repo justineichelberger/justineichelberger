@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:38 on 10 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:43 on 11 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Cardiff (UK/Wales) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>My son and I were looking at the night sky, in Cardiff, UK having let the dog out. My son (an MSc) noticed a light in the sky, moving easterly almost overhead. This light, we observed, was as bright as the nearby stars, but covered about 15 seconds of arc in approximately 3 seconds. It was silent and there was no contrail.Cardiff lies underneath one of the transatlantic air corridors and we are used to all kinds of aircraft, including Concorde. Nothing we have seen overhead comes close to the speed at which the light moved. It flew straight, did not flare, as a meteor does and only disappeared when it flew behind a cloud.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28773.html](http://www.nuforc.org/webreports/reports/028/S28773.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately Morning - Morning minutes.</sub><blockquote><sub>They were triangles quick and never seen anything like it.This morning, I woke up to the dogs barking outside.  I looked at the clock as it struck 4:23 and looked out the window.  I saw they triangle shaped crafts in the cloudy sky.  They were in a group together and I counted 5 then another appeared out of no where.  By the time I was able to get my phone, they were gone as if they were never there.  I need answers I need something to tell me i'm not crazy.  This experience has changed me drastically and here I share my experience.((NUFORC Note:  Source of the report elects to remain anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134059.html](http://www.nuforc.org/webreports/reports/134/S134059.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [346](http://www.nuforc.org/webreports/reports/163/S163111.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163108.html)
-- [344](http://www.nuforc.org/webreports/reports/163/S163105.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165242.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
