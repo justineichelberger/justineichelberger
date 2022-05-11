@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:48 on 11 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:08:11 on 11 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in El Paso (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Small triangular pattern of three wwhite lights hovering very high over the west side of El Paso, TX.On Monday 5/11/2020 at around 10 pm MST in El Paso, TX; my 3 family members and I observed a small triangular pattern of three white lights hovering very high in the sky over the west side of El Paso.  Our home is on the east side of El Paso, very close to the El Paso International Airport.  So, we were viewing the lights from east to west over the tops of the Mount Franklin mountain range.  The three lights would flash / twinkle randomly and occasionally remain solid.  The three lights did not separate from the triangular pattern and after about 30 minutes they completely disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156429.html](http://www.nuforc.org/webreports/reports/156/S156429.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Kissimmee (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately hour - hour minutes.</sub><blockquote><sub>i have no idea what this object can be at is this a UFO?????While i was going to my room i happen to look out the window only two see one bright red orange looking type of light in the sky that seems to be very high in the sky. i thought it was some type of aircraft but the object seem to have no movment once so ever. i then took out my telescope to get a better look and along with my camra which i used to take pic's of the lights in the sky. when i looke at the lights they were not any type of aircraft that i would know about they did not have any blue or red light that will tell you it's a airplane. as i look closer i see one light fade away in the darkness and then a secound later another light appers in the skiy next to the first light i saw few minutes later the two lights fade away i say for about four minutes. later all three lights apper once agin one by one. they apperd in the same spot i first saw them and didn't seem to move at all. i stayed up and saw these process happen over and over for about an hour or so. after an hour all three lights in the sky fade away one by one.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36874.html](http://www.nuforc.org/webreports/reports/036/S36874.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163468.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163113.html)
-- [263](http://www.nuforc.org/webreports/reports/156/S156431.html)
-- [262](http://www.nuforc.org/webreports/reports/156/S156429.html)
-- [261](http://www.nuforc.org/webreports/reports/156/S156413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
