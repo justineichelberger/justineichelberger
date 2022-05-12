@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:38 on 12 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:07:26 on 12 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Smilax (KY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Classic UFOWas bird watching with my daughter, when I looked up (without binoculars) and saw a “classic” description of a UFO, moving rather slow.  When I started trying to get my daughters attention to look, it just disappeared.  Within seconds of seeing this two jets went through the sky, right where I saw the craft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141517.html](http://www.nuforc.org/webreports/reports/141/S141517.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Columbus (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>The date could be sometime in May, June or July.  I was traveling north to south on the West outerbelt of Columbus, Ohio, heading for the Roberts road exit.  The day and time I'm sure of (Thursday - 12:50 PM).  I could see an object traveling south to north (just off the outerbelt) heading my way.  It was a cloudy, gray day. The object was not traveling at a great speed, and it was only probably two hundred yards in the air.  My first reaction was to pull off to the side of the road, but I immediately realized the object would be out of sight by that time.  The object was round, and doomed and very dirty looking. What stuck in my mind for several days was the object reminded me of a picture I had seen several times, years back, on TV.  My reaction to the picture on TV was "This round, doomed, dirty looking, fakey looking object is suppose to be a UFO.  No way."   I wonder now.  Because it was 12:50 Pm and the outerbelt was crowded, their had to be hundreds of cars that saw the same thing I did.  But they probably were heading to or from work, or had other business, and brushed off the object like I did.  The object did look like what I always pictured a UFO not to look like.  Just curious if anyone else from Columbus reported the same thing.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22394.html](http://www.nuforc.org/webreports/reports/022/S22394.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [301](http://www.nuforc.org/webreports/reports/163/S163157.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163600.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163502.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163151.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163146.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
