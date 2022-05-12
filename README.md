@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:01:08 on 12 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:43 on 12 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Riverview (Canada) (NB) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>It stopped and changed directions frequently, and eventually disappeared.Me and my girlfriend were driving to her house when we spotted what appeared to be a UFO.  The object was slowly moving over upper Riverview, it appeared to be a large, diamond shaped craft with at least 6 lights around it; two where closer to the middle and were flashing.  It stopped in mid-air and changed directions several times; moving smoothly and fluently. We made sure it was not a helicopter as it was far too large and did not make any noise as it hovered not far ahead of us.  We turned around to chase the craft which was heading towards the river.  It began moving faster and faster and eventually disappeared.  The sky was barely cloudy so we would have been able to spot it, but we did not.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75391.html](http://www.nuforc.org/webreports/reports/075/S75391.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Colchester (Esses, England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>image in skyOn the 12th may 2006 at around 9:30pm on my way home i witnessesd a strange image.I was travelling in the car with a friend and as i looked up in the pitch black sky i noticed a flash, like lightening, however it certainly wasnt as it was quite hot and dry that night. It looked like a long piece of copper wire, the image was large and looked orange and very bright. The shape as i said was like wire, sort of jagged and curved. It lasted about three to four seconds and then dissapered. i immediately saw it and so did my my friend and we both couldnt work out what it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50533.html](http://www.nuforc.org/webreports/reports/050/S50533.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [301](http://www.nuforc.org/webreports/reports/163/S163157.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163600.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163502.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163151.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163146.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
