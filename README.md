@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:42 on 12 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:33 on 12 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Palo Cedro (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Green streak in star trails imageI currently work as a freelance photographer headquartered out of Palo Cedro CA. On the night of May 12, 2010 I was taking a series of Images (over 80 images in total) of stars for a composite star trails picture.The image I captured that is of concern, shows a green streak traveling from northwest to southeast. Each exposure was for 5 minutes at a 400 ISO at f3.5 and was taken at 11:25.I’m used to seeing meteors and satellites in my images, but never like this. A friend of mine who is a professional astronomer and the Curator of an observatory in Washington state examined the image and can’t explain it either.When the image is zoomed in on, there are no others lights are visible (like red or white for an aircraft). The astronomer and I both thought that perhaps it was just a meteor that was heavy in nickel, that would show as green as it heated up. But on second thought, he felt that in his experience (which spans decades) he’s never seen a green meteor that would take up a whole trail like this and be this brilliant.The laser idea also came up, but I’ve been doing this for a long time, and had green lasers in my field of view for star trails images; in my experience they’ve never shown this brilliant, if at all.Also, if it were a laser, they would have had to hold it steady for 5 whole minutes, an almost impossible task. The streak also shows that it was very quick, because it doesn’t move in motion with the stars in the background.I’m open to any ideas…thanks!  (I have an image to email but don't see the address you want them sent to) Thanks</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75478.html](http://www.nuforc.org/webreports/reports/075/S75478.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Salinas (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Three white lights flying high speed, and loud motor noice above.I was driving home from work around 5am, when I suddenly seen a straight three bright, white light craft flying really close to ground, it caught my attention by the way it would move around ... it shifted different directions at a high speed.  I proceded home (shocked). Once I got home, I got out of my car and a loude motor noise above in the sky came closer..  The craft that I first seen passed above me, the motor noice was ridiculous loud it left birds chirping. I couldn't really see the shape of the craft it was still dark.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134073.html](http://www.nuforc.org/webreports/reports/134/S134073.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [301](http://www.nuforc.org/webreports/reports/163/S163157.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163600.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163502.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163151.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163146.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
