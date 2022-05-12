@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:32 on 12 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:22 on 12 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Lake  Bluff (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Intense Streak of Light Traveling North of ChicagoStanding on my back deck, 30 miles north of Chicago, I was facing East toward Lake Michigan. The lake being about a 1/2 mile from my home. I noticed a bright white light coming from the South, starting from what appeared to be about 15 miles away.  There are still very few leaves on the trees, so I was able to track this as it went from South to North at a very high rate of speed following the bluff along the coast of the lake.Keeping in mind that there is constant air traffic over Lake Michigan, I am aware of what commercial, military and Coast Guard craft are capable of, not to mention where most of the flight paths over the lake are near my home.Unless this was a very close traveling comet, an explanation of a shooting star or a satellite would be ridiculous.The object was piercing white, traveling at a high rate of speed from the south. It seemed to be approximately 10 miles of the shoreline at an altitude of about a mile, maybe less.It grew much larger in size as I was now seeing it pass me and start to veer to the North/East.A trail of light followed, but as a smear of the speed of the object.Initially the color was a white so bright that it seemed fluorescent. Upon passing, the front and lower front of the comet like object turned a deeper shade of electric blue, while the mid bottom and start of the tail became a fierce orange.At this time I noticed that the front of this was not rounded but had a slope of about 45 degrees.During the duration of this passing, the size of the object grew much wider, taller and longer.This was not from perspective either. It was as if the object grew while it was moving and then disappeared on a different course. Possibly even an elliptical course, brushing the shore.I can easily rule this out as being a shooting star, satellite or even a commercial aircraft due to the enormous size. If this was a comet, it was ridiculously close to earth.I cannot put an estimate on the size due to the fact that the light intensity and even density of the object is that of which I have never seen before.If I had to guess...  4-5 times larger than a 747.The entire showing lasted maybe as long as 7 seconds, but like glancing at the sun, the image was imbedded in the sky and in my eyelids for at least 30 seconds.I have seen aircraft, shooting stars, meteor showers, Northern Lights and even comets in the night sky.I have never seen anything in my life of this color, intensity and size.Pretty cool.Credibility - I was alone but I don't drink.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81233.html](http://www.nuforc.org/webreports/reports/081/S81233.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Juncos () reported seeing craft that fit the description of some 'Chevron' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>was V-shaped elongated wings extended flying at high altitude was immense and under the wings could be seen as a movement when you see the heat rising from the street with the hot sun,  the ship was an Ivory.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85998.html](http://www.nuforc.org/webreports/reports/085/S85998.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [301](http://www.nuforc.org/webreports/reports/163/S163157.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163600.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163502.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163151.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163146.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
