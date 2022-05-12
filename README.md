@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:04:01 on 12 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:37 on 12 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Three purple centrifugal ultraviolet round engines in a triangle formation pulsating centripetal burst of electric arcs..I seen a large silver metallic craft that was very large, about the size of a small airfield that came over the horizon at a high rate of speed and came towards where I was standing.  The big thing upon getting closer to the shore split into three rounded triangles, all with three centrifugal ultraviolet round engines in a triangle formation which appeared to be inside the aforementioned rounded triangles of the former one which is now three large crafts.  There was a transformer like hum coming from the front rounded triangle ahead of the other two rounded triangles in a right triangle formation a possible flight mode to fool the local airport with illusory and then all three rounded triangles made a ninety degree turn and made a run for the border I assume due to the fact a Navy jet was deployed off a aircraft carried and then their was a brief game of cat and mouse and all at once the three crafts with three centrifugal lights that formed three rounded tria! ngles immerged  back into one and pulled away from the navy jet at a very high rate of speed headed South towards Mexico.  I have never seen nothing like it.  You could always see the purple glow of the three fan looking motors of all to one and then a streak that left the Navy jet at I'd say at least 3800 miles per hour.  The Navy jet goes around 1300 miles per hour and this irregular large grey silver metallic spaceship went so fast it was like it disappeared right before my eyes.  The moon was out and the city lights from San Diego made a aurora which caused the viewing in the dead of night.  Something big is getting ready to happen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98363.html](http://www.nuforc.org/webreports/reports/098/S98363.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Death Valley Gas Station (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately Trip to California - Trip to California minutes.</sub><blockquote><sub>Midnight, Gas station, Death Valley, we saw an awesome feat of extra-terrestrial life in the sky.We was traveling home from a Disneyland trip with some friends. We stopped at a gas station at 11:30 at night in Death Valley. About 3 Football fields away my friend saw a flash then we all looked and two oval like saucers were sorta dancing back and forth in the sky, shooting lights at each other. We just stared, we ran in the station and told people to come look. A few kids ran out and looked but it was gone. We turned at an explosing sound and two parked semis lights, horns and engines flashed on and off. There was no one there though. Then everything was quiet</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22170.html](http://www.nuforc.org/webreports/reports/022/S22170.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [301](http://www.nuforc.org/webreports/reports/163/S163157.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163600.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163502.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163151.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163146.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
