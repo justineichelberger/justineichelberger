@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:04:40 on 12 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:05:26 on 12 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in North Sioux City (SD) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange/Red fireballs traveling various inconsistent speeds, no noise, called 911, blew me off, 8 witnessesThought the 1st fireball was a plane on fire traveling from the north to the south.  We all stood on the lake shore outside watched, then 3 more appeared in what looked like a formation out of the north and as all 4 faded into the south sky 3 more again appeared to be in the same formation from the north traveling south and then 1 more final fireball for total of 8.   Eyewitnesses aged from 14 to 54.   We have video on a cell phone of the final 1.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89308.html](http://www.nuforc.org/webreports/reports/089/S89308.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Old Town (ME) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Silent, orange, metallic sphere glides over house and riverOrange-colored sphere, flew silently over my house at an altitude of approximately 500 feet.  No noise, seemed to be enveloped in a “haze” that resembled heat-waves on the pavement during a hot day.  As the object was directly overhead, the light “powered off” and the sphere slowed-down.  It was now a metallic-sphere with no light.  A light-haze now enveloped the craft.  I ran along the driveway watching it.  Suddenly, it was just gone.  Dogs were barking all over the area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146094.html](http://www.nuforc.org/webreports/reports/146/S146094.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [301](http://www.nuforc.org/webreports/reports/163/S163157.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163600.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163502.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163151.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163146.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
