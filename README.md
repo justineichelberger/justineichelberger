@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:33 on 12 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:45 on 12 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Salinas (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Three white lights flying high speed, and loud motor noice above.I was driving home from work around 5am, when I suddenly seen a straight three bright, white light craft flying really close to ground, it caught my attention by the way it would move around ... it shifted different directions at a high speed.  I proceded home (shocked). Once I got home, I got out of my car and a loude motor noise above in the sky came closer..  The craft that I first seen passed above me, the motor noice was ridiculous loud it left birds chirping. I couldn't really see the shape of the craft it was still dark.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134073.html](http://www.nuforc.org/webreports/reports/134/S134073.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Seguin (TX) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>We were walking my dog when one ship appered then two more appered and we got a very good view of them.Last night me and my friend were walking my dog, when suddenly we spotted a giant disk or saucer in the sky. I said what could that be, and my friend started to scream and said there was a loud ringing in her head and she thought people were talking to her. My dog went crazy and ran off, and then I really started to get worried and cried. As this happened 2 more appered. The saucers started to get closer and that is when we could see them perfectly. They were a charcoal color and had bright lights all over them, mainly black lights. The crafts had strange writing all over them like writing from an ancient civilization. The ship was huge almost the size of an army tank.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36894.html](http://www.nuforc.org/webreports/reports/036/S36894.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [301](http://www.nuforc.org/webreports/reports/163/S163157.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163600.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163502.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163151.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163146.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
