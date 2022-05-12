@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:47 on 12 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:45 on 12 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Burnsville (MN) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>Circle of bright white lights remaining stationary in the sky.I saw a circle of bright white lights up in the sky looking south towards Lakeville, MN. Remained stationary - did not move. I was on my way into work at 2:30AM.((NUFORC Note:  Possibly casino advertising display lights??  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146078.html](http://www.nuforc.org/webreports/reports/146/S146078.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Dedham (MA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Floating Metallic Cylindrical Object, Vanished AfterwardsFrom the back seat of a car, I saw what looked like a silvery cigar or bullet shaped object in the sky, and it appeared to be floating in place, and would occasionally reflect really bright lights.  This object remained in the air for a couple minutes, although the driver and person in the passenger’s seat said they couldn't see what I was pointing at.  After a short while, the object stopped reflecting and just disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97722.html](http://www.nuforc.org/webreports/reports/097/S97722.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [301](http://www.nuforc.org/webreports/reports/163/S163157.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163600.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163502.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163151.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163146.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
