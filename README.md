@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:21:12 on 12 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:04:40 on 12 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Lebanon (PA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three reddish orange lights flying in formation over Lebanon, PAAbout 21:30, my mother noticed unusual lights visible above the trees across the road in the western sky and asked me what I thought they were.  My father, mother and I went out to look and saw three reddish orange lights flying more or less in a row.  They were bright and appeared to be about the same brightness and size as Venus. It was a still night, but we couldn’t hear any sound.  They flew towards the northeast and were visible for about five minutes before they passed one at a time into or over a cloud.  It wasn’t possible to determine how high they were flying.  They seemed to be flying about as fast as a typical plane does and weren’t flying in an unusual fashion.My mother and I thought that there was a single light associated with each object.  My father thought there might have been three lights, but all a reddish orange hue.  He also felt that the objects were oriented diagonally to the ground.  The lights didn’t blink.I had wondered initially if they might be fire balloons, but after watching them, I felt that they were moving like guided craft, not subject to a breeze.  They seemed to maintain an even spacing throughout the time they were in view.I am a biologist, my mother is a retired nurse and my father is a retired aeronautical engineer who worked with carrier based jets and marking and lighting systems.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88966.html](http://www.nuforc.org/webreports/reports/088/S88966.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in North Sioux City (SD) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange/Red fireballs traveling various inconsistent speeds, no noise, called 911, blew me off, 8 witnessesThought the 1st fireball was a plane on fire traveling from the north to the south.  We all stood on the lake shore outside watched, then 3 more appeared in what looked like a formation out of the north and as all 4 faded into the south sky 3 more again appeared to be in the same formation from the north traveling south and then 1 more final fireball for total of 8.   Eyewitnesses aged from 14 to 54.   We have video on a cell phone of the final 1.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89308.html](http://www.nuforc.org/webreports/reports/089/S89308.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [301](http://www.nuforc.org/webreports/reports/163/S163157.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163600.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163502.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163151.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163146.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
