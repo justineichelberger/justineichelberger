@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:05:26 on 12 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:43 on 12 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Old Town (ME) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Silent, orange, metallic sphere glides over house and riverOrange-colored sphere, flew silently over my house at an altitude of approximately 500 feet.  No noise, seemed to be enveloped in a “haze” that resembled heat-waves on the pavement during a hot day.  As the object was directly overhead, the light “powered off” and the sphere slowed-down.  It was now a metallic-sphere with no light.  A light-haze now enveloped the craft.  I ran along the driveway watching it.  Suddenly, it was just gone.  Dogs were barking all over the area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146094.html](http://www.nuforc.org/webreports/reports/146/S146094.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Washington, DC (DC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Directly southeast of DC driving south on 395 I saw a BRIGHT yellow light maybe 3000 feet in the sky COMPLETELY still "floating."Directly southeast of DC, driving south on 395, I saw a BRIGHT yellow light maybe 3000 feet in the sky COMPLETELY still "floating" and staying in the same position.  This was NOT an airplane, NOT a flare, and NOT  a man made light.  It was a cloudy rainy day and this light was bright, almost star like but just WAY too close to earth to be a star, and way too large.  I have never seen anything like it in my life.  The weirdest thing ive ever seen.  I actually drove towards the UFO object and got directly underneath it.  I  will not give anymore details from this point as I reported this onto a popular forum online and was immediately discredited and people tried calling it the "sun" being ((word deleted))...  Well.  TOO BAD THE SUN WASNT EVEN OUT ON THE 12TH.  Complete overcast.  This was TOO CLOSE to earth, TOO small (while still a large orb shape) to be the Sun, didnt BLIND me like what happens when you look at the sun, and was completely mind blowing in the detail, color, stillness and height it was sitting in the sky.I don't care what government agency discredits it if this was reported by hundreds of people.  I don't know if anyone else drove toward the object after seeing it, but I saw what I ((word delted)) saw and will not back down nor accept any air force "explanation" that it was a "flare" or what have you.  THIS WAS NOT MAN MADE.  END OF STORY.  I have a photo AND video, but I will not release these out of fear for the time being. Ive been googling DC ufo sightings constantly since the sighting and I am SHOCKED  I havent seen one other report of this glowing floating orb.  The colors emmitted were wave like, yellow and almost fluttering.  You could see a beautiful rainbowesque metallic dancing color directly on the yellow light/object.((NUFORC Note:  Source of the report elects to remain anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134088.html](http://www.nuforc.org/webreports/reports/134/S134088.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [301](http://www.nuforc.org/webreports/reports/163/S163157.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163600.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163502.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163151.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163146.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
