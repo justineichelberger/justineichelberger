@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:42 on 12 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:47 on 12 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Tiangular  UFO Hovering In Houston's Night SkyMy name is ((name deleted)).  My fiancee'is ((name deleted)).Together on the night of May 12, 2006, at 11:30 pm I was driving on FM1960 heading east over the overpass at Hwy 59 North near the community of Kingwood. We are both in our 20s & were both sober & of sound mind at the time of the sighting. ((name deleted)) looked out the passenger window & asked "What is that?".I looked over to my right(south) & saw the object as what I dimissed at first glance as a passenger plane,as the Bush Intercontinental Airport is in the NW area of Houston(south of our location).  ((fiancee)) then said "But,it's not moving." I looked again & slowed the car to about 20mph & observed the "craft" was indeed perfectly still hovering over trees & a shopping center in the distance.We both observed that it's lights were forming a triangle(7 white lights at the points & along it's 3 edges with 1 large white pulsating light in the center on the bottom.The craft could easily be mistaken as a jumbo jet, but it's behavior indicated otherwise.  A few seconds after we noticed it hovering, it began to slowly accelerate S/W at low speed & at a perfect line without dipping or wavering as a plane would at low altitude.I completely stopped the car on the overpass with no other cars on the road ahead or behind.  As we watched the craft it then did something even more strange.  It stopped completely & hovered again without any motion or sound,as if it noticed us.We then proceeded down the road to pull over out of the road but it began to move S/W again over the trees which obstructed our sight.I made a U-turn in order to chase it & continued back over the bridge to the west.  Once back over we saw nothing in the sky. The only lights visible were from the traffic below on Hwy 59 & the tower lights on the freeway. This area is a high traffic area for planes & helicopters but after we saw the triangular UFO there was no more air traffic at all.The event lasted between 1-2 min. Strange but true.  I called the local 13 Eye Witness News Tip Line an hour later.  I was the only report at the time regarding this sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50529.html](http://www.nuforc.org/webreports/reports/050/S50529.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Burnsville (MN) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>Circle of bright white lights remaining stationary in the sky.I saw a circle of bright white lights up in the sky looking south towards Lakeville, MN. Remained stationary - did not move. I was on my way into work at 2:30AM.((NUFORC Note:  Possibly casino advertising display lights??  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146078.html](http://www.nuforc.org/webreports/reports/146/S146078.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [301](http://www.nuforc.org/webreports/reports/163/S163157.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163600.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163502.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163151.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163146.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
