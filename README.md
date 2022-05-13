@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:45 on 12 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:50 on 13 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Seguin (TX) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>We were walking my dog when one ship appered then two more appered and we got a very good view of them.Last night me and my friend were walking my dog, when suddenly we spotted a giant disk or saucer in the sky. I said what could that be, and my friend started to scream and said there was a loud ringing in her head and she thought people were talking to her. My dog went crazy and ran off, and then I really started to get worried and cried. As this happened 2 more appered. The saucers started to get closer and that is when we could see them perfectly. They were a charcoal color and had bright lights all over them, mainly black lights. The crafts had strange writing all over them like writing from an ancient civilization. The ship was huge almost the size of an army tank.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36894.html](http://www.nuforc.org/webreports/reports/036/S36894.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Centerville (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>4 white lights seen over OhioOn 13 May, at approximately 11pm, I was sitting on my back porch looking at wildlife with my night vision monocle (model AN/PVS-14).  I decided to look up and see the stars that aren’t normally visible to the naked eye due to light pollution, and while I was looking up (almost due east), I saw what appeared to be a faint satellite moving towards the north west, approximately 30 degrees above the horizon.  I decided to watch the satellite as it traversed the sky, and as I tracked it, it changed heading towards the south west for approximately 5 seconds, then turned again towards its original heading.  This object was not visible to the naked eye, requiring my night vision to see.  There was no flashing; just a faint, steady pinpoint of light.  I called a friend immediately afterwards to describe what I saw, and while I was on the phone (approximately 5 minutes later), I saw two more of the faint points of light moving on the same trajectory.   15 minutes later, I saw a 4th point of light moving the same direction.  Of the 4 objects I saw, only one changed heading while traversing the sky, the other 3 were constant.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134136.html](http://www.nuforc.org/webreports/reports/134/S134136.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [301](http://www.nuforc.org/webreports/reports/163/S163157.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163600.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163502.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163151.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163146.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
