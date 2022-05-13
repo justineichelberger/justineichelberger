@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:05:26 on 13 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:42 on 13 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Baltimore (MD) reported seeing craft that fit the description of some 'Cigar' over a period of approximately >3 months - >3 months minutes.</sub><blockquote><sub>Grey, Hovering objectMy friends (about 8 of us) and I attend a high school 15-20 minutes outside of Baltimore, Maryland, and have seen this Unidentified Object hovering above the city.  At first glance it looks like a plane going to BWI airport but it has not moved for 3 months at least.   It is a grey object with a haze around it and it appears to change form if you stare at it for a minute or more.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119056.html](http://www.nuforc.org/webreports/reports/119/S119056.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Philadelphia (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Clear plastic housing and white lights  made from another world seen in city at 300-350 foot distanceI noticed over New Jersey from the Pennsylvania side a bright white light.  Later, as it got closer to me, I couls see that it was actually several lights; they appeared as three "headlight-type" amber lights; it was still over the New Jersey farmlans but moving slow at an altitude of 100 to 150 feet. Then to my complete surprise, the thing made itself known as it flew at rooftop level over the houses of Philadelphia just one small block north of my location; it was in the shape of a boomarang with six white lights , three under each segment.  It was not very thick maybe 10 or 15 feet. Ieasily make out the plastic housing for each light as well as the gray superstructure of the craft; it was dusk with just enough light to make out detail. It moved out of range by the time I had my camcorder in-hand.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77643.html](http://www.nuforc.org/webreports/reports/077/S77643.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/163/S163466.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163427.html)
-- [282](http://www.nuforc.org/webreports/reports/163/S163160.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163199.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163114.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
