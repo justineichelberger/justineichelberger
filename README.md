@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:16:04 on 13 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:05:26 on 13 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Lincoln (NE) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright light that changed in intensity and emitted flare-like objects as it traveled towards me.Observed a bright light in the sky while taking my dog out just before bed.  The light was moving slowly and appeared to be an airplane, but what caught my attention was the way it was changing in intensity, not blinking like the normal airplane light does.  As it came nearer, it suddenly shot out to the rear what appeared to be a flare (it reminded me of a fighter jet spitting out chalf to defend against a heat seaking missile).  It did that three times as it approached, and then when it got directly over my house, the light split in two with the appearance of flares, and then was gone. I realize that this could have possibly been a meteor, but it appeared to be moving to low and slow for a meteor, and the flares coming off traveled in the opposite direction and then dropped down before flaming out.  If it was a meteor, wouldn't all the pieces from the fragmentation keep traveling in the same direction as the main body?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50557.html](http://www.nuforc.org/webreports/reports/050/S50557.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Baltimore (MD) reported seeing craft that fit the description of some 'Cigar' over a period of approximately >3 months - >3 months minutes.</sub><blockquote><sub>Grey, Hovering objectMy friends (about 8 of us) and I attend a high school 15-20 minutes outside of Baltimore, Maryland, and have seen this Unidentified Object hovering above the city.  At first glance it looks like a plane going to BWI airport but it has not moved for 3 months at least.   It is a grey object with a haze around it and it appears to change form if you stare at it for a minute or more.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119056.html](http://www.nuforc.org/webreports/reports/119/S119056.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/163/S163466.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163427.html)
-- [282](http://www.nuforc.org/webreports/reports/163/S163160.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163199.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163114.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
