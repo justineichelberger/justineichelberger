@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:15:51 on 13 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:03:18 on 13 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Waddell (AZ) reported seeing craft that fit the description of some 'Changing' over a period of approximately 240.0 - 240.0 minutes.</sub><blockquote><sub>Multi-colored light became a triangle, then changed direction and disappeared.A bright light towards the direction of Heber/overgaard from Waddell, AZ that appeared to be a shimmering star, was clearly visible even to my mother without her glasses. The light was flashing too rapidly and brightly to be a nearby planet. After roughly 20 minutes, the light began changing colors from several colors as if in a pattern (red,white, yellow, blue, green, purple), all colors were clearly visible but no distinct pattern. Approximately 30 minutes after the light began to change colors, it appeared to dim or become more distant, which it then multiplied.1 light on top, a second slightly below and to the left or north, and a 3rd at the lowest point in line with the highest or 1st light. All while continuously changing colors. After roughly an hour, it became one flashing light again; which eventually dissipated entirely.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156517.html](http://www.nuforc.org/webreports/reports/156/S156517.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Grove (OH) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.008333333333333333 - 0.008333333333333333 minutes.</sub><blockquote><sub>bright flaring stari am unsure of what i seen,but i will try my best,around the hr of 10:00 pm (im not sure,but i know it was about that time)i was outside enjoying the nice eve,when i looked over towards the dipper,(im not up on terms)and i seen the brightest star.it wast hen i thought that most stars in that part of the sky was not so brilliant,the moon was up and it was almost in line with it.it flared for about 5 seconds and then faded back,ive never seen a star do this before,can you give me a answer please?i read that this was also seen somewhere else,thanx.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28775.html](http://www.nuforc.org/webreports/reports/028/S28775.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/163/S163466.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163427.html)
-- [282](http://www.nuforc.org/webreports/reports/163/S163160.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163199.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163114.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
