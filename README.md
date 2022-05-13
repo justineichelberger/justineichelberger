@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:44:54 on 13 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:34:52 on 13 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Port St Lucie (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Port St Lucie UFO - May 13, 2011 - firey light, silent, rises then disappearsWas on peacock blvd and st lucie west blvd and noticed a fireball like light in the sky.  Was not a meteorite because it was slow and deliberate and looked to be rising than than falling.  It was possibly a triangular fire shape that color changed.  There was no sound.I stook under it and looked around to see if anyone else noticed.an airplane was passing by and the UFO disappeared suddenly as if it went into a cloud or turned off its light. I stayed for 10 mins to see if it returned but it didn't.  I checked NASA's rocket schedule and nothing there.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81253.html](http://www.nuforc.org/webreports/reports/081/S81253.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Decatur (IN) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two witness seen a large cylinder object with a white light on the 'front' In the 'back' they seen two white lights, about tree top level, flying out of the east traveling sw. both subjects said they recall it looked like a 'cock n balls' really...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70314.html](http://www.nuforc.org/webreports/reports/070/S70314.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/163/S163466.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163427.html)
-- [282](http://www.nuforc.org/webreports/reports/163/S163160.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163199.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163114.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
