@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:41 on 13 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:40 on 13 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Sparks (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>At around 2110, a friend and I were trying to set up a telescope to see if we vould look at what we figured must be Jupiter in the northeast sky. I dont know if Jupiter is still in the night sky but I know it has been.  We couldn't fit the tripod I had to the telescope he had.  As we were putting stuff away, the bright light faded then disappeared a few times.  Then it got briight and started moving slowly left then right then stopped.  It started fading and getting smsller then stopped.  At that time a second light started getting brighter to the left of it moving toward it.  The second light stopped and after 20 secondd or so the first light slowly faded out.  For the next couple minutes, the second light slowly samk then stopped then quickly disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141528.html](http://www.nuforc.org/webreports/reports/141/S141528.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Shelbyville (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>It was just a light. Moved around seemed to zoom out of view and back in one or twice.I was in the back seat of the car and looked out my window. It was their for 1-2 minutes seemed to move around a bit. There seemed to be a second one but I wasn’t able to get a picture of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163114.html](http://www.nuforc.org/webreports/reports/163/S163114.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/163/S163466.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163427.html)
-- [282](http://www.nuforc.org/webreports/reports/163/S163160.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163199.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163114.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
