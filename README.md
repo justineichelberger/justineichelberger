@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:37 on 13 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:07:12 on 13 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Bellingham (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2 bright orange UFOs moving north over Portage Island & south Lummi Island.My husband was out the back door having a cigarette, he came quickly through the house to the front door and said there were 2 UFOs moving north, we both were on the front deck looking south watching 2 bright orange UFOs.  We over look Bellingham Bay, we face the City of Bellingham.  One was slightly ahead of the 2nd one, moving in sync slowly north, we couldn't hear them.  They were over Portage Island, & south Lummi Island, I grabbed my sons camera off the table, checked to see if the flash was off, and took 2 pictures while on the front deck.   I moved while taking both pictures cause the aperture was slow taking a night picture & trying to focus.  After the 2nd picture they both quickly disappeared heading southward. The pictures do show how bright they were in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127358.html](http://www.nuforc.org/webreports/reports/127/S127358.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Plant City (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>amber lights traveling north to south above tree line in Plant City, FLamber colored lights (not blinking) traveling slowly from north to south, I was driving west and noticed them in a diagonal line formation above the tree line, not high enough to be an airplane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97724.html](http://www.nuforc.org/webreports/reports/097/S97724.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/163/S163466.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163427.html)
-- [282](http://www.nuforc.org/webreports/reports/163/S163160.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163199.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163114.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
