@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:42 on 13 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:37 on 13 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Philadelphia (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Clear plastic housing and white lights  made from another world seen in city at 300-350 foot distanceI noticed over New Jersey from the Pennsylvania side a bright white light.  Later, as it got closer to me, I couls see that it was actually several lights; they appeared as three "headlight-type" amber lights; it was still over the New Jersey farmlans but moving slow at an altitude of 100 to 150 feet. Then to my complete surprise, the thing made itself known as it flew at rooftop level over the houses of Philadelphia just one small block north of my location; it was in the shape of a boomarang with six white lights , three under each segment.  It was not very thick maybe 10 or 15 feet. Ieasily make out the plastic housing for each light as well as the gray superstructure of the craft; it was dusk with just enough light to make out detail. It moved out of range by the time I had my camcorder in-hand.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77643.html](http://www.nuforc.org/webreports/reports/077/S77643.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Bellingham (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2 bright orange UFOs moving north over Portage Island & south Lummi Island.My husband was out the back door having a cigarette, he came quickly through the house to the front door and said there were 2 UFOs moving north, we both were on the front deck looking south watching 2 bright orange UFOs.  We over look Bellingham Bay, we face the City of Bellingham.  One was slightly ahead of the 2nd one, moving in sync slowly north, we couldn't hear them.  They were over Portage Island, & south Lummi Island, I grabbed my sons camera off the table, checked to see if the flash was off, and took 2 pictures while on the front deck.   I moved while taking both pictures cause the aperture was slow taking a night picture & trying to focus.  After the 2nd picture they both quickly disappeared heading southward. The pictures do show how bright they were in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127358.html](http://www.nuforc.org/webreports/reports/127/S127358.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/163/S163466.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163427.html)
-- [282](http://www.nuforc.org/webreports/reports/163/S163160.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163199.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163114.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
