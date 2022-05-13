@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:40 on 13 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:46 on 13 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Shelbyville (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>It was just a light. Moved around seemed to zoom out of view and back in one or twice.I was in the back seat of the car and looked out my window. It was their for 1-2 minutes seemed to move around a bit. There seemed to be a second one but I wasn’t able to get a picture of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163114.html](http://www.nuforc.org/webreports/reports/163/S163114.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Perth (Western Australia) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately 50.0 - 50.0 minutes.</sub><blockquote><sub>lots of UFOssaw these things in the sky, had flames coming out the back, flew over a few times. landed, refueled, took off again. seemed to draw humans towards it, made em do work. looked like it might need fixing, think it might be a british craft. looked like 2 beings were piloting the craft. weird</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36881.html](http://www.nuforc.org/webreports/reports/036/S36881.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/163/S163466.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163427.html)
-- [282](http://www.nuforc.org/webreports/reports/163/S163160.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163199.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163114.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
