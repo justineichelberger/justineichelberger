@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:57 on 13 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:16:04 on 13 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Lahore (Pakistan) () reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>It was late at night and i went out on the roof of my house.  Then suddenly a few lights appeared from behind some trees.  After a 3 seconds the object hovered out from behind the trees and came over my house and vanished. It seemed as a boing 747 but it didn't make any noise at all.  There were three big yellow lights in a line in the middle and three small lights in a line at both sides.  The craft left a trail of light like spider webs and flew about 30 feet from the ground.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81799.html](http://www.nuforc.org/webreports/reports/081/S81799.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Lincoln (NE) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright light that changed in intensity and emitted flare-like objects as it traveled towards me.Observed a bright light in the sky while taking my dog out just before bed.  The light was moving slowly and appeared to be an airplane, but what caught my attention was the way it was changing in intensity, not blinking like the normal airplane light does.  As it came nearer, it suddenly shot out to the rear what appeared to be a flare (it reminded me of a fighter jet spitting out chalf to defend against a heat seaking missile).  It did that three times as it approached, and then when it got directly over my house, the light split in two with the appearance of flares, and then was gone. I realize that this could have possibly been a meteor, but it appeared to be moving to low and slow for a meteor, and the flares coming off traveled in the opposite direction and then dropped down before flaming out.  If it was a meteor, wouldn't all the pieces from the fragmentation keep traveling in the same direction as the main body?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50557.html](http://www.nuforc.org/webreports/reports/050/S50557.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/163/S163466.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163427.html)
-- [282](http://www.nuforc.org/webreports/reports/163/S163160.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163199.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163114.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
