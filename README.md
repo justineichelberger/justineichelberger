@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:27 on 13 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:44:54 on 13 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Holland (MI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>A craft with three lights on the rear creating a triangle cruising across the sky before turning around to the north and disappearing.I saw two very powerful lights coming from what appeared to be the back of some sort of craft.  It was in the sky and maybe about 600 feet from the ground.  The lights resembled a pair of very bright car headlights.  The craft was heading south and to the west a little.  I was driving at the time, heading south, and was on a road with very little traffic, so I could speed up and try to get closer to it.  I sped up to try to get closer and it appeared to be slowing down.  I kept watching it and when I became parallel to it I pulled over and turned off my car.  The lights were coming from the back of the craft and there were no lights on the front.  There was a less bright light above the two, creating a triangle of three lights.  It was making some noise and the closest thing I could compare the noise to was a high pitch radio frequency.  I watched it briefly and after about 60 seconds it slowed almost to a stop. It began to go straight up and turn directly around and went towards the north again.  I tried to follow it again and it quickly drifted to the west and I no longer could see it.I, the observer, have never previously seen any objects I believe to be ufos first hand.  I was not on any hallucinogins or drugs at the time of the sighting and I am convinced that what I saw was definately real - I wasn't just imagining something.((NUFORC Note:  We spoke with this witness at some length, and we found him to be seemingly serious-minded and credible.  Please see other report from Wisconsin for this date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22846.html](http://www.nuforc.org/webreports/reports/022/S22846.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Port St Lucie (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Port St Lucie UFO - May 13, 2011 - firey light, silent, rises then disappearsWas on peacock blvd and st lucie west blvd and noticed a fireball like light in the sky.  Was not a meteorite because it was slow and deliberate and looked to be rising than than falling.  It was possibly a triangular fire shape that color changed.  There was no sound.I stook under it and looked around to see if anyone else noticed.an airplane was passing by and the UFO disappeared suddenly as if it went into a cloud or turned off its light. I stayed for 10 mins to see if it returned but it didn't.  I checked NASA's rocket schedule and nothing there.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81253.html](http://www.nuforc.org/webreports/reports/081/S81253.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/163/S163466.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163427.html)
-- [282](http://www.nuforc.org/webreports/reports/163/S163160.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163199.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163114.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
