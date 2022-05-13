@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:37 on 13 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:34 on 13 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Coolridge (WV) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2 fireballs changing direction.Was traveling home from picking up some burgers for the family...  It was a clear night and I noticed two lights in the sky...  They stood out because they were yellow looking....  When I finally got a good veiw of them... one was over top of the other and looked like big fireballs falling to earth... I pulled in the driveway and ran into the house to tell my wife what I saw....  I looked back outside and only one was left.... but it was flying east....  My wife came to the door and seen the one...  It still looked like a fireball.. .but traveling east, instead of falling....  Very weird... My wife called 911 to report this and see if anyone else had seen it...  No one had reported any  thing on this</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134100.html](http://www.nuforc.org/webreports/reports/134/S134100.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Philadelphia (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Clear plastic housing and white lights  made from another world seen in city at 300-350 foot distanceI noticed over New Jersey from the Pennsylvania side a bright white light.  Later, as it got closer to me, I couls see that it was actually several lights; they appeared as three "headlight-type" amber lights; it was still over the New Jersey farmlans but moving slow at an altitude of 100 to 150 feet. Then to my complete surprise, the thing made itself known as it flew at rooftop level over the houses of Philadelphia just one small block north of my location; it was in the shape of a boomarang with six white lights , three under each segment.  It was not very thick maybe 10 or 15 feet. Ieasily make out the plastic housing for each light as well as the gray superstructure of the craft; it was dusk with just enough light to make out detail. It moved out of range by the time I had my camcorder in-hand.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77643.html](http://www.nuforc.org/webreports/reports/077/S77643.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/163/S163466.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163427.html)
-- [282](http://www.nuforc.org/webreports/reports/163/S163160.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163199.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163114.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
