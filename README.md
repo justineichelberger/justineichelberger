@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:34 on 13 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:39 on 13 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Philadelphia (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Clear plastic housing and white lights  made from another world seen in city at 300-350 foot distanceI noticed over New Jersey from the Pennsylvania side a bright white light.  Later, as it got closer to me, I couls see that it was actually several lights; they appeared as three "headlight-type" amber lights; it was still over the New Jersey farmlans but moving slow at an altitude of 100 to 150 feet. Then to my complete surprise, the thing made itself known as it flew at rooftop level over the houses of Philadelphia just one small block north of my location; it was in the shape of a boomarang with six white lights , three under each segment.  It was not very thick maybe 10 or 15 feet. Ieasily make out the plastic housing for each light as well as the gray superstructure of the craft; it was dusk with just enough light to make out detail. It moved out of range by the time I had my camcorder in-hand.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77643.html](http://www.nuforc.org/webreports/reports/077/S77643.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Olive Branch (MS) reported seeing craft that fit the description of some 'Egg' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Reflecting object in the sky slow movingBlue sky sunny day.  The craft almost seemed to float.  Extremely slow moving.  Craft was moving SE, way above the clouds.  Silver ish with in color and reflective.  I have a video.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146102.html](http://www.nuforc.org/webreports/reports/146/S146102.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/163/S163466.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163427.html)
-- [282](http://www.nuforc.org/webreports/reports/163/S163160.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163199.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163114.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
