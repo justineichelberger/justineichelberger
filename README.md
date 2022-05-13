@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:34:52 on 13 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:20:15 on 13 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Decatur (IN) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two witness seen a large cylinder object with a white light on the 'front' In the 'back' they seen two white lights, about tree top level, flying out of the east traveling sw. both subjects said they recall it looked like a 'cock n balls' really...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70314.html](http://www.nuforc.org/webreports/reports/070/S70314.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Owensboro (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 3:00 - 3:00 minutes.</sub><blockquote><sub>Red and white pulsating motionless orb emitted a single bright sparking flash remained for a few minutes then disappears.A bright red light that faded and change to white intensified then faded and change to red slowly changing back and forth every second or so, predominantly red.  It was as bright as a radio tower light but was high in the sky and motionless and in a spot that I know no such tower could exist.  There was a spark of white light to the right of it that lit and faded away as the red orb continued to pulse motionless.  After about 3 minutes it faded motionless from site.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98496.html](http://www.nuforc.org/webreports/reports/098/S98496.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/163/S163466.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163427.html)
-- [282](http://www.nuforc.org/webreports/reports/163/S163160.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163199.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163114.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
