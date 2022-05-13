@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:39 on 13 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:38 on 13 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Olive Branch (MS) reported seeing craft that fit the description of some 'Egg' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Reflecting object in the sky slow movingBlue sky sunny day.  The craft almost seemed to float.  Extremely slow moving.  Craft was moving SE, way above the clouds.  Silver ish with in color and reflective.  I have a video.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146102.html](http://www.nuforc.org/webreports/reports/146/S146102.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Twin Falls (ID) reported seeing craft that fit the description of some 'Circle' over a period of approximately ongoing - ongoing minutes.</sub><blockquote><sub>Five round white objects, stationery (N,NE,NW) flashing green and red lights above Twin Falls, Idaho.I was making a quick run to the store to pick up a few items and my three children,  15, and 11, asked to stay in the car with our two large dogs to watch lightening way off in the east. When I came out about 10 minutes later they pointed out a star, but said, it could not be a star because it was blinking different colored lights. I saw it very far off, and it was indeed changing color, blinking, but I could not discern whether it might have been a satellite or a plane. When we got home, we took a closer look at it-- it was NOT MOVING AT ALL, it was BLINKING red, white and green. BLINKING. Location was due north, towards Boise. We inspected the sky and I spotted a second object in the north east. Same... stationery, blinking colors, level in height with the other. 22:10 I (the adult mother, 49 yrs old) can verify 4 objects. Another daughter, 14 years old spotted five. THE MOST DISTINCTIVE IS IN THE NORTHEAST AND IS VERY CLEAR. I have called a friend who has a telescope. He has called back and has verified sighting one object. He is a medical doctor and an excellent source. He cannot see any of the others as his property is obstructed by trees. We are considering that they may be stars, and the atmosphere may be causing the color change, but we are both skeptical. End report 22:26 pm.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50547.html](http://www.nuforc.org/webreports/reports/050/S50547.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/163/S163466.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163427.html)
-- [282](http://www.nuforc.org/webreports/reports/163/S163160.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163199.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163114.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
