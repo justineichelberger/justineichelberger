@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:35 on 13 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:44 on 13 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Springfield (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Yellow light floating across my grass as it descended it set off my Ring lights.  The image can be seen on the Ring doorbell camera for approximately seven seconds</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155647.html](http://www.nuforc.org/webreports/reports/155/S155647.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Stara Zagora (Bulgaria) () reported seeing craft that fit the description of some 'Other' over a period of approximately not known - not known minutes.</sub><blockquote><sub>strange cloud formationi was on a propety viewing trip and was taking photos of the properties and the surounding country side. in one shot of the land and a forest that i had taken there is an object in the sky that i did not see at the time but only became evident when i put the photo on my lap top.in another shot of the roof of a property there is a mig jet fighter plane. MAYBE CHECKING OUT THE SIGHTING</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67137.html](http://www.nuforc.org/webreports/reports/067/S67137.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/163/S163466.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163427.html)
-- [282](http://www.nuforc.org/webreports/reports/163/S163160.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163199.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163114.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
