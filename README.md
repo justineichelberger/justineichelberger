@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:07:12 on 13 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:37 on 13 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Plant City (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>amber lights traveling north to south above tree line in Plant City, FLamber colored lights (not blinking) traveling slowly from north to south, I was driving west and noticed them in a diagonal line formation above the tree line, not high enough to be an airplane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97724.html](http://www.nuforc.org/webreports/reports/097/S97724.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Coolridge (WV) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2 fireballs changing direction.Was traveling home from picking up some burgers for the family...  It was a clear night and I noticed two lights in the sky...  They stood out because they were yellow looking....  When I finally got a good veiw of them... one was over top of the other and looked like big fireballs falling to earth... I pulled in the driveway and ran into the house to tell my wife what I saw....  I looked back outside and only one was left.... but it was flying east....  My wife came to the door and seen the one...  It still looked like a fireball.. .but traveling east, instead of falling....  Very weird... My wife called 911 to report this and see if anyone else had seen it...  No one had reported any  thing on this</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134100.html](http://www.nuforc.org/webreports/reports/134/S134100.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/163/S163466.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163427.html)
-- [282](http://www.nuforc.org/webreports/reports/163/S163160.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163199.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163114.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
