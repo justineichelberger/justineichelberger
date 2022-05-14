@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:36 on 14 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:41 on 14 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Woburn (MA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>circles of lights in the western sky of Woburn MA.on the morning of May 13th and 14th at approximately 0300-0315 while letting the dog out my dad and stepmom on the 13th and my dad again on the 14th about the same time wittnessd a circle of 6 lights.the circle was more like a ring of 6 individule lights.He said"you could still see the sky through them."it was moving through the western sky,then it would stop and just sit there.They watched the object untill the dog was done outside. On the 14th at approximately 0325 he witnessed the same object but there were 2 circles of light one was moving in the western sky and the other one was stopped and just sitting there in the sky. He thought they might be planes from Hanscom AFB .It is about 10 miles to the west of us here in woburn. But there was no wing span visible and the lights were steady ,not flashing like you would see on a plane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07747.html](http://www.nuforc.org/webreports/reports/007/S07747.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Orange color UFO's over Miami Sat.night.{05/14/2011}I step outside and looked up towards the north around 10 pm.  Immidiatelly I notice what it seemed I line of orange lights traveling at a slow speed and almost steady and a very high altitude,so it seemed to me.It lasted maybe for about one minute and then disappeared.  Since I live very close to MIA, I noticed air traffic was diverted towards the south.  Also I heard sounds like a interceptor in the vicinity,I live very close to Homestead Air Force Base.  As a final comment it was the same type of orange color as the ones we saw on the night of 12/31/2010, but this New Years Eve sighting was of various UFO and every 8 minutes interval.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81271.html](http://www.nuforc.org/webreports/reports/081/S81271.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [260](http://www.nuforc.org/webreports/reports/163/S163156.html)
-- [259](http://www.nuforc.org/webreports/reports/163/S163166.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163365.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163290.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163170.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
