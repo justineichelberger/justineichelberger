@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:49 on 14 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:43 on 14 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Exeter (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>It was bright bluey white no exast no sound that I new of and dissapeard leaving only a splitt second of orangeI was sitting in watching TV when I caught something out of my eye I jumped up and ran to the window and to my surprise there was a what looked like a meteor, I caught it for about 3 seconds until it dissapeared and then opened the window to find no exaust and I would have said no sound but I wouldn't have known for sure, the thing that really baffled me was the speed it was travelling at and the brightness of the light the light didn't flicker but just stayed bright, there where no clouds at all so I had a good veiw, the light seemed to move like a plane atb the end but kept a steady course, it then vanished and the only thing I could make out was a small orange dot for a split second I would have said it was a meteor but they glow orange normally not bluey white I am not at all a UFO freak but I know what I saw((NUFORC Note:  No date is indicated by the witness for the incident.  We have arbitrarily assigned a date, hoping the witness will correct that deficit if he sees this report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17653.html](http://www.nuforc.org/webreports/reports/017/S17653.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in UK/England () reported seeing craft that fit the description of some 'Egg' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>orange egg shaped object photographed leaving the sun at sunsetI was taking photographs of the sunset from a place called Devil's Dyke which is an iron age hill fort 786ft above sea level.My camera was on zoom, I was taking photos with approx. 4 seconds between them.  I have a photo of the object, clear as crystal...it is orange, egg shaped and perfectly smooth...it looks like it has just left the sun.  It is not a balloon, water droplet on the lens, passing ball or frizbee.I would quite happily forward the photo of the object...and the photos I took before and after.  To be honest, I would really like to know what it is.  I am open minded to extra terrestrial existence, but I am also a skeptic, and this is not a hoax.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109401.html](http://www.nuforc.org/webreports/reports/109/S109401.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [260](http://www.nuforc.org/webreports/reports/163/S163156.html)
-- [259](http://www.nuforc.org/webreports/reports/163/S163166.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163365.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163290.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163170.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
