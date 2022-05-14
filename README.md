@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:13:12 on 14 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:06:12 on 14 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1973, an anonymous witness in Madison (AL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>This is a definate government cover-upUFO 2nd Incident:  Around May 14 of 73 the three of us ((name #1 deleted)), ((name #2 deleted)), ((name #3 deleted)) and I were in military Radar school at Redstone Arsenal in Huntsville Alabama. ((name deleted)) was living with his family in Madison just north of the base so I would go there often. Around 8pm ((deleted)) said come outside as he saw something so I grabbed some binoculars and the camera and we climbed on the roof of the house.  We could see over treetop level to the secret part of the base where was hovering just above the trees a saucer shaped object with spaced flashing red lights on the rim.  After about fifteen minutes two large jet aircraft (possibly C134) circled around and one would dive at the UFO continuously for several minutes until the UFO shot a white pencil beam of light like a lazer at the nose of the jet.  The jet flew directly over us and I saw the jet numbers but figured I better forget and the jet left.  Five minutes later a jet fighter came in diving at the UFO.  I noticed that the width of the saucer was about the length of the fighter about 60 feet.  I didn’t take any pictures this whole time for certain reasons but we could see clearly especially with the binoculars. Finally the UFO must of got the hint and settled down below the trees.  The two jets circled for about 45 minutes then left.  During this whole time the Huntsville airport is usually busy but not one plane was heard until around 2am as we could see it from the top of the house.  Since I have space I’ll mention the first incident.Can’t remember if it was the same night or the night before at ((name 1)) house we heard on the radio that the spacelab was launched and would fly over us about 8pm and that part of it was built at Redstone. We stood outside and saw it going by from west to east like a moving star. Then from the north another object intersected with the spacelab, followed it shortly then went south. We thought we don’t have anything that can do that. Later we heard on the radio that the meteor shielding was ripped off the skylab but that it happened during launch.((NUFORC Note:  Source of report indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69696.html](http://www.nuforc.org/webreports/reports/069/S69696.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in North Myrtle Beach (SC) reported seeing craft that fit the description of some 'Changing' over a period of approximately 30+ - 30+ minutes.</sub><blockquote><sub>Many lights over North Myrtle Beach ocean moving erraticallyLast night while watching comedy on Netflix, I observed an orange light flash outside my beachfront condo. When it did it again I got up and got my binoculars and my iPhone to take a picture.  I could see many lights out over the ocean but thru the binoculars I can see that some of them are moving very erratically and changing color equally as fast.  I took a picture and when you enlarge the photo you can see one of the lights is a red color and looks to have energy coming from it.  The ufos stayed there for more than 40 mins.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163156.html](http://www.nuforc.org/webreports/reports/163/S163156.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [260](http://www.nuforc.org/webreports/reports/163/S163156.html)
-- [259](http://www.nuforc.org/webreports/reports/163/S163166.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163365.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163290.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163170.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
