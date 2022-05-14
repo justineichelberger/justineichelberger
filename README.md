@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:44:37 on 14 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:31:17 on 14 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in New York City (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>I saw two seperate lights that turned invisible and into airplanes.About a week and a half ago I had an orb sighting.  It was a silver ball and there were lots of chemtrails around. I was on 23rd and 6th ave in new york city.  I watched it float for about ten seconds until i lost it behind a building.  There was no chemtrail activity for a week, but then today there was a ton.  And today I had my camera.  I was taking pictures pretty much all day from my apartment living room.  The first out of the ordinary thing I saw was a black plane, flying right to left, along the path of an already laid chemtrail.  This trail then became twisted like a dna strand.  I then moved and went into my bedroom and sat on the window sill with my computer.  About 5 or ten minutes later I saw a bright light hovering in the middle of the 'X' of two trails.  I had to run to my living room to get my camera and then pointed it at the light asap.  I don't know what happened, but my camera didn't pick up the light, but it did get the plane "appearing" out of nothing.  I think it was "cloaked" because there are very faint geometric distortions, like in the predator movies.  Frame by frame the object moves very oddly.  The camera is shaky becasue i was trying to step out onto the fire escape.  Once i was out the object had already started flying to my right, so i ran inside to my living to get another angle.  I got a few seconds of it.Next sighting was the same sort of thing, but this time the light was MUCH more intense.  I say on camera that it looks like a flashlight.  I couldn't figure out if it was star or not.  It was soo bright though and it looked like it had an aura around it.  And it didn't flicker at all. My camera had trouble focusing on it and at times and it look very much like a disc shaped ufo when it lost focus. It hovered there for about 30 minutes, but it slowly drifted lower and to the right and finally behind a building so i couldnt see it anymore. I had almost decided that it was jsut a star until this same bright light emerged from behind the building and started over my head to the right. It wasnt traveling very fast and it had no blinking lights at all. in fact it was just one light. I could make out all the airplanes, and in fact one flies right by the orb light and you can clearly tell the difference. When it was going over my head it took on sort of a bird like shape but still was just a light... this one didn't turn into an airplane like the fisrt one did.I live on Orchard and Stanton streets in New York City. My living room faces north and my bedroom to the west.Jamie Maussan talks about these and the exact same thing can be found on orbwars.com.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56671.html](http://www.nuforc.org/webreports/reports/056/S56671.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Ashburn (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Was getting ready for bed and then looked out to see the stars.  I noticed one star was very bright and then started moving.  I then noticed a flashing red light.  At first it looked like it could have been a plane, but the way it was hovering proved that it was no such thing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127341.html](http://www.nuforc.org/webreports/reports/127/S127341.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [260](http://www.nuforc.org/webreports/reports/163/S163156.html)
-- [259](http://www.nuforc.org/webreports/reports/163/S163166.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163365.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163290.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163170.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
