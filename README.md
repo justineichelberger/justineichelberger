@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:44 on 14 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:33 on 14 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Des Moines (IA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>orange/amber fuzzy sphere moving across sky in Central Iowa, S.E. to N.W.While in the backyard of my home, I glanced up at the sky, S.E. direction, and noticed a glowing orange/amber circle of light slowly moving to the N.W., moving slowly but discernibly.  It almost looked like an amber street light from a distance, was fuzzy, and had jagged lines coming from the center of the object.  It started about 45 degree angle from horizon, moved up and over my head but very far in the distance.  When it was in the western sky, I lost track of it due to the trees obscuring the view.  I was in total shock as I had never seen something like that before.  It made no noise and did not change color, shape, or speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134121.html](http://www.nuforc.org/webreports/reports/134/S134121.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Covington (GA) reported seeing craft that fit the description of some 'Egg' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I was sitting on the deck of my wife's parents' house on mother's day with a pair of binoculars.  I was using the binoculars to watch a family of falcons near the woodline to the south of where I was sitting.  It was a hot, clear day.  Not a cloud in the sky, visibility was for miles from the sky, I'm sure. There were also high flying aircraft in the sky that day, and from time to time I was pointing the binoculars to get a look at the aircraft and their contrails.  I've been an aviation enthusiast for my entire life and have attended countless airshows featuring both military and civilian aircraft.  There was an aircraft flying at high altitude, leaving a contrail.  I followed it with the binoculars as it traveled from south to the north.  After following it for approximately 10 seconds or so, I noticed a strange metallic glint just to what would have been the aircraft's 8 o'clock.  I remember thinking, "wow.. that plane is close to the other one.." but then realized that this object wasn't moving, and wasn't leaving contrails like all the other aircraft at that altitude were.  I pulled the binoculars away to see if I could see the object without the aid of the optics, but I couldn't - so I looked through them again, found the object again.  It was completely stationary.  Definitely metallic.  I remember seeing the sun glimmering off the surface.  It was far away, and I was using 7x50 power binoculars..  I could tell it was egg shaped with what appeared to be.. spikes jutting from the craft.  I looked away from the binoculars again to try again with my naked eye, but couldn't see it.  I went back to the binoculars and was unable to find it again.  I'm under the assumption that it must've left the area, as I was unable to find it again. I was unable to obtain a picture, much to my consternation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134309.html](http://www.nuforc.org/webreports/reports/134/S134309.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [260](http://www.nuforc.org/webreports/reports/163/S163156.html)
-- [259](http://www.nuforc.org/webreports/reports/163/S163166.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163365.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163290.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163170.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
