@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:35 on 14 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:36 on 14 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Valley City (OH) reported seeing craft that fit the description of some '' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>I lost one hour of time this morning.I am a self-employed contractor working in the Medina, OH area.  I arrived at a customer's house at exactly 10:30.  I know this for a fact because they told me last night to get there on time because they'd be gone until then.  Their home is in a remote country setting, and is heavily wooded. The job was a routine one, one that I anticipated would take exactly an hour.  I've owned this business for ten years and can predict almost to the minute how long each job will take to do. When I got back in my truck to leave the job, my cell phone (which was in my pocket the whole time) said 11:30, exactly what I predicted it would say.  However, the clock in my truck said 12:30.  I called my fiancee, and the first words out of her mouth were, "Where have you been for so long?"  When I arrived home, all of the clocks said 12:45, whereas my cell phone still was one hour behind.  More shocking still was that her cell phone was reading the correct time, 12:45 PM.  She and I are on the same cell phone plan, and our clocks are always right in sync with each other.  They even automatically change when daylight savings time starts & ends. Needless to say, I'm freaking out right now.  I've called my customer asking how long I was at his home & I'm waiting for him to respond.  If he says, "About an hour" I will most likely call your hotline number and check out some other websites. Please let me know if anyone else had a similar experience this morning.  I don't even believe in this stuff and need an explanation.  I don't drink or take drugs, and I got a good night's sleep last night, so I know my mind was stable.  Thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36930.html](http://www.nuforc.org/webreports/reports/036/S36930.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Woburn (MA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>circles of lights in the western sky of Woburn MA.on the morning of May 13th and 14th at approximately 0300-0315 while letting the dog out my dad and stepmom on the 13th and my dad again on the 14th about the same time wittnessd a circle of 6 lights.the circle was more like a ring of 6 individule lights.He said"you could still see the sky through them."it was moving through the western sky,then it would stop and just sit there.They watched the object untill the dog was done outside. On the 14th at approximately 0325 he witnessed the same object but there were 2 circles of light one was moving in the western sky and the other one was stopped and just sitting there in the sky. He thought they might be planes from Hanscom AFB .It is about 10 miles to the west of us here in woburn. But there was no wing span visible and the lights were steady ,not flashing like you would see on a plane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07747.html](http://www.nuforc.org/webreports/reports/007/S07747.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [260](http://www.nuforc.org/webreports/reports/163/S163156.html)
-- [259](http://www.nuforc.org/webreports/reports/163/S163166.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163365.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163290.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163170.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
