@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:34 on 14 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:28 on 14 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Grand Rapids (MI) reported seeing craft that fit the description of some 'Other' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>Sonic boom?On Monday night, early Tuesday morning between the hours of midnight and 1 AM, I was in bed at my window geting some air. I heard and explosion, assuming it was thunder, but different. It was immediatly followed by a jet sound. It was curious enough to go outside and take a look. The jet was far gone, but I noticed that the sky was partly cloudy, and no thunder the rest of the night. Sonic booms are very rare here. The boom sound radiated from the west, as well as the sound of the jets retreat, towards Holland/Grand Haven area.(25 miles away).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22900.html](http://www.nuforc.org/webreports/reports/022/S22900.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Omaha (NE) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Omaha green sphere with tailI was traveling east on I-80 between the 60th street and 42nd steet exits. in the south west sky I saw a Green sphere with a white tail. I was about 20 degrees traviling in a 45 degree down angle. this was about 2 seconds then in leveled out for one or two seconds then again continued in a down 45 degree angle for about 2 seconds then I lost sight of it. If I where to hold my thumb up at arms length my thumb would have covered the sphere completly but not the tail.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36946.html](http://www.nuforc.org/webreports/reports/036/S36946.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [260](http://www.nuforc.org/webreports/reports/163/S163156.html)
-- [259](http://www.nuforc.org/webreports/reports/163/S163166.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163365.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163290.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163170.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
