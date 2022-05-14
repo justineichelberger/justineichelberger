@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:40 on 14 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:44 on 14 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Charlotte (NC) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>On 5-14-2008 at about 0030 hours I observed a very bright glowing green object(almost neon green) descending from the sky towards the gThe date was 5-14-2008. The time was about 0030 hours. I was at work. I was parked at the intersection of The Plaza and Eastway Drive(Charlotte,NC). I was facing towards uptown Charlotte. I observed a very bright glowing green object(almost neon green) descending from the sky towards the ground. It was very fast. It disappeared behind the tree line in front of me. I observed it for only about 3-4 seconds. The object appeared to be a cylinder shape (in a upright position). My window was down and I did not hear any sound. A friend of mine was parked next to me but facing the opposite direction. It happened so fast that by the time I could get any words out of my mouth, when he turned around it was over. It was without a doubt nothing from this planet.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63161.html](http://www.nuforc.org/webreports/reports/063/S63161.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Fairfax (VA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 122</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156748.html](http://www.nuforc.org/webreports/reports/156/S156748.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [260](http://www.nuforc.org/webreports/reports/163/S163156.html)
-- [259](http://www.nuforc.org/webreports/reports/163/S163166.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163365.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163290.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163170.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
