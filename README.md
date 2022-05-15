@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:35 on 15 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:35 on 15 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1974, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>First Encounter: I was 14 years old or so.Riding my bike home from a store and my brother 13, was with me on his bike. A semi-busy street, mostly sunny day, some broken high clouds, bright sky, about 12 noon.I noticed two boys directly across the street from us going the opposite direction on their bikes.One of those two boys had stopped and was pointing straight up into the sky. I was intrigued so I stopped my bike to look up.  My brother asked me, "what are you doing?" I said "look!" I was looking at a round metalic object about 10,000+ feet straight up. It was rotating in a curricular motion. It had a white "bubble" on the middle bottom.  It was not moving other than the circular rotating.  The object seemed blurry possibly due to it's distance and/or a heat source emitting from the object.My brother said "what is that!" And I immediately responded, "a UFO!" Suddenly, as if the object realized it could be seen, it went left and right at an extreme speed and then it went higher very quickly in a bit of a spiral motion as it did leave a chemtrail until it reached a certain altitude and then it went poof! Disappeared. No sound was heard. Both sets of bike riders went their separate ways. I have always wondered what made that boy notice it before I did.  See my Close Encounter Second Encounter report years later.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158857.html](http://www.nuforc.org/webreports/reports/158/S158857.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1974, an anonymous witness in Esopus (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Aqua-Blue orb moving north,northeast in the Hudson Valley Mid May 1974 at high rate of speedDescpription: Aqua-blue, round, no tail, speed and altitude undetermined.  All that I saw was this object moving North by Northeast at a rapid rate of speed.  I had only been discharged from the USAF a year earlier, I have a very extensive understanding of aircraft, sight, sound, air to ground speed determination.  There was no tail, so I ruled out, afterburners, meteors, or any thing I had ever seen in the night sky before. The color was beautiful, the object I saw as I was driving north on Rt. 9W passing through Esopus. I saw the object out my left window, it was visible for less than 5 seconds before it was out of sight, it could have been 10 miles up or 100 miles up, I had no frame of reference I could use to judge. To this day I do not know what it was, so to me it was my experience of seeing an Unidentied Object in the air.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43173.html](http://www.nuforc.org/webreports/reports/043/S43173.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [659](http://www.nuforc.org/webreports/reports/163/S163183.html)
-- [658](http://www.nuforc.org/webreports/reports/163/S163214.html)
-- [657](http://www.nuforc.org/webreports/reports/163/S163162.html)
-- [656](http://www.nuforc.org/webreports/reports/163/S163189.html)
-- [655](http://www.nuforc.org/webreports/reports/163/S163226.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
