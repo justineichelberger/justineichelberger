@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:03:52 on 15 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:03:41 on 15 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Fair Grove (MO) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2 saucers appeared to dance in the sky then drop and suddenly shoot straight up to the left and right then disappearmy family and i were driving on old 65 highway when coming over a hill we noticed 2 lights, one green one yellow appear to be moving around each other at high speeds.  My dad slowed the car and we all got out to watch it.  The lights moved faster and faster until they became a blurr, and you could no longer define one light from the other.  Suddenly both lights just dropped and were gone.  As we started towards the car there was a big flash and both lights were moving in opposite directions across the sky,green going right,yellow going left.  They shot straight up and were gone in a matter of seconds.  There is no possible way for it to be a plane.  My whole family wittnessed it and we are all in agreement of each detail.  This was not a dream.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07919.html](http://www.nuforc.org/webreports/reports/007/S07919.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in London (UK/England) () reported seeing craft that fit the description of some 'Other' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>ufo sighted near alexandra palice north londonwalking my dog one evening in may 1993 it was a monday i noticed a saucer shaped craft low in the sky.it was totaly motionless after a while sudenly a flash like afirework exploded in front of the craft followed by dense smoke which fell to the ground what amazed me was all this hapened in north london 8.o clock in the evening and nobody got aphoto of this event though the local paper did report the ufo sightings a fortnight later((NUFORC Note:  Date in May 1993 is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22308.html](http://www.nuforc.org/webreports/reports/022/S22308.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [659](http://www.nuforc.org/webreports/reports/163/S163183.html)
-- [658](http://www.nuforc.org/webreports/reports/163/S163214.html)
-- [657](http://www.nuforc.org/webreports/reports/163/S163162.html)
-- [656](http://www.nuforc.org/webreports/reports/163/S163189.html)
-- [655](http://www.nuforc.org/webreports/reports/163/S163226.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
