@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:31 on 15 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:34 on 15 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Chandler (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>smoke like cloud appeared then four lights moving diffrent directions fast disappearing in to cloud for about 10 minutessitting out side fiance in pool looking up when a cloud out of no where appeared about 4:30 pm then these four lights moving indiffrent directions going in and out of the small smokey looking cloud one by one disapearing the last one spirailed don then disappearred the cloud disappeared as well i took pictures with cell phone but the lights did not show up this is strange</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75437.html](http://www.nuforc.org/webreports/reports/075/S75437.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1965, an anonymous witness in Burlington (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>One morning waiting for the school bus,my brothers and cousins noticed a silver disc in the clear sky.It seemed motionless for the first minute or so.It was probly about 5000 feet up and towards the southeast from where we stood.Then it started to dart in different directions at fast speeds and finally just dissappeared.Later that day after school,i heard on the local radio that other people had seen the same disc that we watched.((NUFORC Note:  Time and date are approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37348.html](http://www.nuforc.org/webreports/reports/037/S37348.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [659](http://www.nuforc.org/webreports/reports/163/S163183.html)
-- [658](http://www.nuforc.org/webreports/reports/163/S163214.html)
-- [657](http://www.nuforc.org/webreports/reports/163/S163162.html)
-- [656](http://www.nuforc.org/webreports/reports/163/S163189.html)
-- [655](http://www.nuforc.org/webreports/reports/163/S163226.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
