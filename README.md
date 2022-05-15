@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:37:21 on 15 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:21:27 on 15 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1965, an anonymous witness in Burlington (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>One morning waiting for the school bus,my brothers and cousins noticed a silver disc in the clear sky.It seemed motionless for the first minute or so.It was probly about 5000 feet up and towards the southeast from where we stood.Then it started to dart in different directions at fast speeds and finally just dissappeared.Later that day after school,i heard on the local radio that other people had seen the same disc that we watched.((NUFORC Note:  Time and date are approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37348.html](http://www.nuforc.org/webreports/reports/037/S37348.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1965, an anonymous witness in La Mesa (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Sighting in La Mesa,CA   When I was in first grade, walking home from school with friends I ( we) witnessed a saucer in broad daylight. It made no sound and flew very fast. It came from the western area of the city and stopped in mid air above the general area where we were walking. Immediately it flew back to a hill in the western portion of the city. I am not sure if it flew over the hill or landed on it since it was quite aways away. We were dumbfounded and that is something I will never forget!!   ((NUFORC Note:  Source of report indicates that date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62721.html](http://www.nuforc.org/webreports/reports/062/S62721.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [659](http://www.nuforc.org/webreports/reports/163/S163183.html)
-- [658](http://www.nuforc.org/webreports/reports/163/S163214.html)
-- [657](http://www.nuforc.org/webreports/reports/163/S163162.html)
-- [656](http://www.nuforc.org/webreports/reports/163/S163189.html)
-- [655](http://www.nuforc.org/webreports/reports/163/S163226.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
