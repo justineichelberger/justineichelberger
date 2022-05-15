@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:03:41 on 15 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:35 on 15 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in London (UK/England) () reported seeing craft that fit the description of some 'Other' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>ufo sighted near alexandra palice north londonwalking my dog one evening in may 1993 it was a monday i noticed a saucer shaped craft low in the sky.it was totaly motionless after a while sudenly a flash like afirework exploded in front of the craft followed by dense smoke which fell to the ground what amazed me was all this hapened in north london 8.o clock in the evening and nobody got aphoto of this event though the local paper did report the ufo sightings a fortnight later((NUFORC Note:  Date in May 1993 is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22308.html](http://www.nuforc.org/webreports/reports/022/S22308.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1974, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>First Encounter: I was 14 years old or so.Riding my bike home from a store and my brother 13, was with me on his bike. A semi-busy street, mostly sunny day, some broken high clouds, bright sky, about 12 noon.I noticed two boys directly across the street from us going the opposite direction on their bikes.One of those two boys had stopped and was pointing straight up into the sky. I was intrigued so I stopped my bike to look up.  My brother asked me, "what are you doing?" I said "look!" I was looking at a round metalic object about 10,000+ feet straight up. It was rotating in a curricular motion. It had a white "bubble" on the middle bottom.  It was not moving other than the circular rotating.  The object seemed blurry possibly due to it's distance and/or a heat source emitting from the object.My brother said "what is that!" And I immediately responded, "a UFO!" Suddenly, as if the object realized it could be seen, it went left and right at an extreme speed and then it went higher very quickly in a bit of a spiral motion as it did leave a chemtrail until it reached a certain altitude and then it went poof! Disappeared. No sound was heard. Both sets of bike riders went their separate ways. I have always wondered what made that boy notice it before I did.  See my Close Encounter Second Encounter report years later.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158857.html](http://www.nuforc.org/webreports/reports/158/S158857.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [659](http://www.nuforc.org/webreports/reports/163/S163183.html)
-- [658](http://www.nuforc.org/webreports/reports/163/S163214.html)
-- [657](http://www.nuforc.org/webreports/reports/163/S163162.html)
-- [656](http://www.nuforc.org/webreports/reports/163/S163189.html)
-- [655](http://www.nuforc.org/webreports/reports/163/S163226.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
