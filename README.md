@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:39 on 15 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:39 on 15 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Gilbert (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>UFO seen dancing in the Eastern Arizona sky on 5/15/09.I arrived home and stepped out of my car and instantly noticed a bright light off in the far East.  It was moving from right to left in downward slant and disappeared out of view behind a neighbor’s house.  I initially thought it to be a falling/shooting star, but then it rose again above the house.  The light was far brighter than the planet/star that was also present in my view.  The light almost had a blue/white hue to it.  The light then continued to drop and rise in an extremely fast motion, followed by left to right motion, loopy motion, and more up and down motions, constantly appearing and disappearing out of my view because of the house.I ran in to get a camera; unable to find one, ran back out to find it still making the motions in the sky.  After calling a family member to find the camera I ran back in to get the camera, came back out and it was out of sight.  I stayed waiting outside when it appeared again, but staying still.  The light then grew in brightness/intensity.  While trying to find it in my camera screen, it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70055.html](http://www.nuforc.org/webreports/reports/070/S70055.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Star (ID) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>UFO in Star IdahoSeen what appeared to be a long moving white cloud in the night sky. It was moving across the sky slowly. No Sound. We grabbed some binoculars. Through the binoculars you could see that it was a saucer with lights in the middle of the craft and the entire craft was spinning. It when from north west and continued to the north east before I could not longer see it. I tried to get video but it did not turn out. There where four of us that seen this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163189.html](http://www.nuforc.org/webreports/reports/163/S163189.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [659](http://www.nuforc.org/webreports/reports/163/S163183.html)
-- [658](http://www.nuforc.org/webreports/reports/163/S163214.html)
-- [657](http://www.nuforc.org/webreports/reports/163/S163162.html)
-- [656](http://www.nuforc.org/webreports/reports/163/S163189.html)
-- [655](http://www.nuforc.org/webreports/reports/163/S163226.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
