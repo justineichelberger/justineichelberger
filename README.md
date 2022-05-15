@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:39 on 15 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:34 on 15 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Star (ID) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>UFO in Star IdahoSeen what appeared to be a long moving white cloud in the night sky. It was moving across the sky slowly. No Sound. We grabbed some binoculars. Through the binoculars you could see that it was a saucer with lights in the middle of the craft and the entire craft was spinning. It when from north west and continued to the north east before I could not longer see it. I tried to get video but it did not turn out. There where four of us that seen this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163189.html](http://www.nuforc.org/webreports/reports/163/S163189.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Strange shape UFO sighting over PSU Park BlocksI was sitting on the fire exit at my building outside on the eight floor and staring at the stars while practicing breathing techniques.  I saw two stars that were close together, kind of similar colors, and I admired their beauty.  Then, I noticed one was kind of moving away from the other... Which stars don't do...  So I kind of laughed at myself for mistaking something for a star and continued my breathing techniques.  So I started wondering what it could be..  Maybe a satellite?  As I continued to ponder the that, I noticed it was flying towards my apartment building.  I was confused. It seemed to be flying lower now... And it was a grayish ship with a big white light and a tiny red one.  I remember it had a pointy cockpit looking thing? It was kind of in the  shape of a bird with a box for a body and without wings.  It had a long neck and then the head, which I thought was probably the cockpit.  I tried taking a video but my memory is full from all the spotify I download. &#128547;&#128516; anyways, I was really sure what I was seeing and wanted to record information that I could review later.  So I tried taking pictures.  Nothing showed up. I saw for a total of about 10-15 minutes total.  I was staring at it when I thought it was a star, because all I could see was the bright light and it was low on the horizon near a bright star (from my perspective).  Then it moved I towards me and flew over my building. It kept going.  I tried calling my mom to run to the front of te apartment facing the way in which the ship flew but she was in the elevator at the time coming in from smoking a cigarette and was not able to see it. When I went to look out our bay window but nothing was flying.I believe in UFOs and believe they can connect us through astral projection(in which case a ship would be unnecessary), but I am a scientist at mind and need more evidence to validate my personal experience.  I hope others report seeing at around 5/15/15 1:20am.  It was a weird shape..  And it didn't make a sound.  The cars were louder so I doubt it could have been a plane and definitely not a helicopter, which given how low it was over the Park Blocks of downtown Portland would have more sense!  It was a UFO &#128529;</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119059.html](http://www.nuforc.org/webreports/reports/119/S119059.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [659](http://www.nuforc.org/webreports/reports/163/S163183.html)
-- [658](http://www.nuforc.org/webreports/reports/163/S163214.html)
-- [657](http://www.nuforc.org/webreports/reports/163/S163162.html)
-- [656](http://www.nuforc.org/webreports/reports/163/S163189.html)
-- [655](http://www.nuforc.org/webreports/reports/163/S163226.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
