@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:34 on 15 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:43 on 15 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1965, an anonymous witness in Burlington (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>One morning waiting for the school bus,my brothers and cousins noticed a silver disc in the clear sky.It seemed motionless for the first minute or so.It was probly about 5000 feet up and towards the southeast from where we stood.Then it started to dart in different directions at fast speeds and finally just dissappeared.Later that day after school,i heard on the local radio that other people had seen the same disc that we watched.((NUFORC Note:  Time and date are approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37348.html](http://www.nuforc.org/webreports/reports/037/S37348.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1955, an anonymous witness in Warrington (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>fireball into pensacola baywhile serving on aircraft carrier located tied to a pier at naval air station,on watch with an officer of the deck, on midwatch, we observed something in a clear night sky coming over pensacola bay at an app.altitude of 500 feet at a speed of app 3 to four hundred mile an hour.it was orange red in color slowed and stopped in midair and lowered itself into the bay. it was probably within a mile distant from the ship and appeared to be the size of a softball held at arms length for comparable size of object.  i asked the officer if it should be reported and his response to me was not to report it for fear of being thought crazy.  this incident was never logged in the quarterdeck log...............as the round fireball lowered itself into the water the orange glow from it showed till it went deeper, also there was absolutely no sound from it as it approached and dissapeared.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54728.html](http://www.nuforc.org/webreports/reports/054/S54728.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [659](http://www.nuforc.org/webreports/reports/163/S163183.html)
-- [658](http://www.nuforc.org/webreports/reports/163/S163214.html)
-- [657](http://www.nuforc.org/webreports/reports/163/S163162.html)
-- [656](http://www.nuforc.org/webreports/reports/163/S163189.html)
-- [655](http://www.nuforc.org/webreports/reports/163/S163226.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
