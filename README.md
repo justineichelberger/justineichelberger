@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:42 on 15 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:23 on 15 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Derry (NH) reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>disk was following my car very bright blinding brightness,low as tree level on windham depot road</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07789.html](http://www.nuforc.org/webreports/reports/007/S07789.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Okeene (OK) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Slow moving red light,with no sound.It was just before sundown, a red light, twice the size of a basketball was moving at 150-200 ft up and about 30 mph.  No sound of any kind was made, no wings no nothing, just a red light. I'm positive about the height and speed, it was not man made. Now i wonder why its so hard for people to believe in life out side of our planet, after all, humans are the direct result of life from out side our planet, we are made from star material, we are made from the same material that is abundant across the universe.  The thought of humans being the only intelligent life form in the universe is silly.  I believe that other life forms are here now and have been here for thousands of years, they study us just like we study insects. I also believe the govt knows all about UFO'S.  I've also seen a cow that had been killed by perfectly cut incisions with no loss of blood.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47528.html](http://www.nuforc.org/webreports/reports/047/S47528.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [659](http://www.nuforc.org/webreports/reports/163/S163183.html)
-- [658](http://www.nuforc.org/webreports/reports/163/S163214.html)
-- [657](http://www.nuforc.org/webreports/reports/163/S163162.html)
-- [656](http://www.nuforc.org/webreports/reports/163/S163189.html)
-- [655](http://www.nuforc.org/webreports/reports/163/S163226.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
