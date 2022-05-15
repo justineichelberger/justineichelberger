@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:11:16 on 15 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:38 on 15 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1987, an anonymous witness in Temple (TX) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>cigar shaped ufo seen in Templei was lying on my moms car at about 23:00 listening to my portable radio it was tuned to an Austin Tx station. there was a report of ufo activity at the airport, " the power has gone down for a mile around the airport there appears to be several crafts swooping and diving, like they are "dog fighting"." then the air went dead that is when this cigar shaped object with a needle like nose "slid" across the top of the building and hoverd there. There was no noise, it was totaly silent. as far as i know I was the only one to see it. The lights along the sidewalks went out. It had to be about 30 ft above the building. it sat there for about 2 minutes. I jokingly said "hey my friend is in Lampasas about 68 miles behind you.". It "backed" up and left. shortly there after the radio started working again and the dj said that "there was military activity at the airport, and the airport was closed until further notice.". The next day the radio said there was no ufo activity and it was just a hoax.((NUFORC Note:  Witness indicates that date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44629.html](http://www.nuforc.org/webreports/reports/044/S44629.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Sturgis (MI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>It was a circle type shape that changed colors and spined as it got up higher in the sky.Then after about 45 seconed it disappeared.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53223.html](http://www.nuforc.org/webreports/reports/053/S53223.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [659](http://www.nuforc.org/webreports/reports/163/S163183.html)
-- [658](http://www.nuforc.org/webreports/reports/163/S163214.html)
-- [657](http://www.nuforc.org/webreports/reports/163/S163162.html)
-- [656](http://www.nuforc.org/webreports/reports/163/S163189.html)
-- [655](http://www.nuforc.org/webreports/reports/163/S163226.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
