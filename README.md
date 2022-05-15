@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:21:27 on 15 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:03:52 on 15 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1965, an anonymous witness in La Mesa (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Sighting in La Mesa,CA   When I was in first grade, walking home from school with friends I ( we) witnessed a saucer in broad daylight. It made no sound and flew very fast. It came from the western area of the city and stopped in mid air above the general area where we were walking. Immediately it flew back to a hill in the western portion of the city. I am not sure if it flew over the hill or landed on it since it was quite aways away. We were dumbfounded and that is something I will never forget!!   ((NUFORC Note:  Source of report indicates that date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62721.html](http://www.nuforc.org/webreports/reports/062/S62721.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Fair Grove (MO) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2 saucers appeared to dance in the sky then drop and suddenly shoot straight up to the left and right then disappearmy family and i were driving on old 65 highway when coming over a hill we noticed 2 lights, one green one yellow appear to be moving around each other at high speeds.  My dad slowed the car and we all got out to watch it.  The lights moved faster and faster until they became a blurr, and you could no longer define one light from the other.  Suddenly both lights just dropped and were gone.  As we started towards the car there was a big flash and both lights were moving in opposite directions across the sky,green going right,yellow going left.  They shot straight up and were gone in a matter of seconds.  There is no possible way for it to be a plane.  My whole family wittnessed it and we are all in agreement of each detail.  This was not a dream.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07919.html](http://www.nuforc.org/webreports/reports/007/S07919.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [659](http://www.nuforc.org/webreports/reports/163/S163183.html)
-- [658](http://www.nuforc.org/webreports/reports/163/S163214.html)
-- [657](http://www.nuforc.org/webreports/reports/163/S163162.html)
-- [656](http://www.nuforc.org/webreports/reports/163/S163189.html)
-- [655](http://www.nuforc.org/webreports/reports/163/S163226.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
