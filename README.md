@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:45 on 15 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:40 on 15 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Indore City (India) () reported seeing craft that fit the description of some '' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Seen a bright spot travelling from east to north but slightly larger in size and lower altitudeObserved a bright spot but slightly larger in size than a usual star travelling in the direction from east to north direction without making any sound whatsoever.  My landlord's son was also a witness to this event and while he was busy speaking over his phone I asked him to record the moving object but he told me he cannot capture the moving object onto his camera because of lower resolution and magnification of his phone's camera.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155665.html](http://www.nuforc.org/webreports/reports/155/S155665.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Shawnee (OK) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Orange light moving accross sky that turned bright white and vanished in Shawnee, OK 5/15/2009Around 10 pm on May 15th my husband (27 y/o Landscaper from Shawnee) and I (20 y/o Real Estate Agent also from Shawnee) were driving West on Clearpond Road at the intersection of Coker. It was cloudy and there was lightning because there was a storm moving in.I noticed an orange glow that at first I thought was just a plane, so I ignored it. But it appeared to be flying very low and towards us so it grabbed my attention again and I stopped. I had only really looked at it for about 10 seconds or so when the light turned bright white and started blinking, slowly at first and then more rapidly. It did that for just a few seconds more and then vanished. My husband was there with me and said it was probably just a plane that flew into the clouds. I believe differently.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70079.html](http://www.nuforc.org/webreports/reports/070/S70079.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [659](http://www.nuforc.org/webreports/reports/163/S163183.html)
-- [658](http://www.nuforc.org/webreports/reports/163/S163214.html)
-- [657](http://www.nuforc.org/webreports/reports/163/S163162.html)
-- [656](http://www.nuforc.org/webreports/reports/163/S163189.html)
-- [655](http://www.nuforc.org/webreports/reports/163/S163226.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
