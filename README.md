@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:38 on 15 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:36 on 15 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Sturgis (MI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>It was a circle type shape that changed colors and spined as it got up higher in the sky.Then after about 45 seconed it disappeared.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53223.html](http://www.nuforc.org/webreports/reports/053/S53223.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Mesquite (near Dallas) (TX) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>Small quiet very non dramatic teardrop shaped flying object appeared to be taking off.Happened about 5 years ago early one saturday morning. I was in my back yard. I live near the Mesquite airport . I looked up to watch a Cessna 182 puttering along over my house.When above it I saw a small white teardrop shaped craft climbing above it. Tracing its trajectory backwards it seemed to have taken off from that wooded area around Kleberg-Hutchins or somewhere over there.If the thing didnt happen to pass right where my eyes just happened to be focused I would never have seen it.Below I recount exactly what I saw: It appeared to be too small to have a human riding in it.It was white It was tear drop shaped. With the pointy end to the front.There were no windows or port holes.There was no noise No apparrent means of locomotion. No exhaust ports or intakes of any description. The object ascended on a 35 to 45 degree angle plane effortlessly . The charactacter of the ascent was deliberate , not like a balloon .I do not think it was extra -terrestrial . It didnt do any extraordinary manuvers that would make me think so.But it was designed not to attract attention . If my eyes werent focused in the right place I would never have seen it. Indeed there could be a dozen of those things up there and if I were looking up in a general way I would not have noticed.I watched it until it faded from view.  It appeared to not have been leveling off when I lost sight of it.  ( continuing to climb )((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26784.html](http://www.nuforc.org/webreports/reports/026/S26784.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [659](http://www.nuforc.org/webreports/reports/163/S163183.html)
-- [658](http://www.nuforc.org/webreports/reports/163/S163214.html)
-- [657](http://www.nuforc.org/webreports/reports/163/S163162.html)
-- [656](http://www.nuforc.org/webreports/reports/163/S163189.html)
-- [655](http://www.nuforc.org/webreports/reports/163/S163226.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
