@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:34 on 15 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:31 on 15 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Waco (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>mama ship drops off baby shipI was sitting in my front yard with my son  and his friends who were teens at the time. I noticed what I thought was a falling star. The star, instead of burning out as normal stopped right in the middle of the sky and a green object came out and flew across the sky faster than anything that could possibly be human. It disappeared on the horizon and mind you this thing started in the middle of the sky and took 10 seconds to reach the horizon and disappear.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48911.html](http://www.nuforc.org/webreports/reports/048/S48911.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Chandler (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>smoke like cloud appeared then four lights moving diffrent directions fast disappearing in to cloud for about 10 minutessitting out side fiance in pool looking up when a cloud out of no where appeared about 4:30 pm then these four lights moving indiffrent directions going in and out of the small smokey looking cloud one by one disapearing the last one spirailed don then disappearred the cloud disappeared as well i took pictures with cell phone but the lights did not show up this is strange</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75437.html](http://www.nuforc.org/webreports/reports/075/S75437.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [659](http://www.nuforc.org/webreports/reports/163/S163183.html)
-- [658](http://www.nuforc.org/webreports/reports/163/S163214.html)
-- [657](http://www.nuforc.org/webreports/reports/163/S163162.html)
-- [656](http://www.nuforc.org/webreports/reports/163/S163189.html)
-- [655](http://www.nuforc.org/webreports/reports/163/S163226.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
