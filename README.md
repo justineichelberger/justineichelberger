@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:30 on 15 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:05:10 on 15 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1982, an anonymous witness in Beaver Dams (NY) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>It was very large rectangle shaped and made a loud noise like generators running.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119034.html](http://www.nuforc.org/webreports/reports/119/S119034.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Wikwemikong (Canada) (ON) reported seeing craft that fit the description of some 'Disk' over a period of approximately ? - ? minutes.</sub><blockquote><sub>Unidentified Flying Object found in photo taken Thursday May 15th, 2008On May 15th, 2008 I was outside getting various angle shots of our place of business. I took a couple pictures from the south end and ended with 4 more from the north end. Not knowing until a friend and I looked at one of the pictures, that there was an Unidentified Flying Object in one of my shots. It happened to be my last shot before coming back in to the building. The picture turned out to be just like all the other U.F.O. pictures out there. The way the UFO is sighted in the picture, it appears to be flying by. The top of the object is bright and the bottom appears to have a dark shadow. This disk type or saucer flying by was one of my most unbelievable moments. Please take the picture and clarify what it is exactly. I think it clearly shows there is something out there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63242.html](http://www.nuforc.org/webreports/reports/063/S63242.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [659](http://www.nuforc.org/webreports/reports/163/S163183.html)
-- [658](http://www.nuforc.org/webreports/reports/163/S163214.html)
-- [657](http://www.nuforc.org/webreports/reports/163/S163162.html)
-- [656](http://www.nuforc.org/webreports/reports/163/S163189.html)
-- [655](http://www.nuforc.org/webreports/reports/163/S163226.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
