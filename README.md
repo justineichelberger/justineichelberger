@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:40 on 15 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:39 on 15 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Shawnee (OK) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Orange light moving accross sky that turned bright white and vanished in Shawnee, OK 5/15/2009Around 10 pm on May 15th my husband (27 y/o Landscaper from Shawnee) and I (20 y/o Real Estate Agent also from Shawnee) were driving West on Clearpond Road at the intersection of Coker. It was cloudy and there was lightning because there was a storm moving in.I noticed an orange glow that at first I thought was just a plane, so I ignored it. But it appeared to be flying very low and towards us so it grabbed my attention again and I stopped. I had only really looked at it for about 10 seconds or so when the light turned bright white and started blinking, slowly at first and then more rapidly. It did that for just a few seconds more and then vanished. My husband was there with me and said it was probably just a plane that flew into the clouds. I believe differently.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70079.html](http://www.nuforc.org/webreports/reports/070/S70079.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Gilbert (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>UFO seen dancing in the Eastern Arizona sky on 5/15/09.I arrived home and stepped out of my car and instantly noticed a bright light off in the far East.  It was moving from right to left in downward slant and disappeared out of view behind a neighbor’s house.  I initially thought it to be a falling/shooting star, but then it rose again above the house.  The light was far brighter than the planet/star that was also present in my view.  The light almost had a blue/white hue to it.  The light then continued to drop and rise in an extremely fast motion, followed by left to right motion, loopy motion, and more up and down motions, constantly appearing and disappearing out of my view because of the house.I ran in to get a camera; unable to find one, ran back out to find it still making the motions in the sky.  After calling a family member to find the camera I ran back in to get the camera, came back out and it was out of sight.  I stayed waiting outside when it appeared again, but staying still.  The light then grew in brightness/intensity.  While trying to find it in my camera screen, it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70055.html](http://www.nuforc.org/webreports/reports/070/S70055.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [659](http://www.nuforc.org/webreports/reports/163/S163183.html)
-- [658](http://www.nuforc.org/webreports/reports/163/S163214.html)
-- [657](http://www.nuforc.org/webreports/reports/163/S163162.html)
-- [656](http://www.nuforc.org/webreports/reports/163/S163189.html)
-- [655](http://www.nuforc.org/webreports/reports/163/S163226.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
