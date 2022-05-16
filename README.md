@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:44 on 16 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:37 on 16 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Columbia (IL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>A rectangular, yellow band of light from an object that made very quick, precise movements in any direction.The object that i spotted was a rectangular shape and made of yellow light. I could not tell the particular shpae of the object, only that the band of yellow light appeared to be rectangular in shape. The object dipeed down, with very quick & precise movements, it quickly moved from the left to the right, it made circular motions, and it changed direction. I could tell when it turned towards another direction, because i could see less of the yellow  band of light. This went on for 45 minutes, it also basically stayed in the same area, though at one point, it turned direction, pointing down, diagonally at a 45 degree angle & quickly zipped down in a diagonal direction. I did not see any other lights, and could not tell the shape, I also could not hear anything from it.((NUFORC Note:  Witness calls again to report that the object apparently was visible again on the evening of Wednesday, 16MY01, although in a different area of the sky, and smaller in appearance.  We do not know what the witness was observing.  This is the same general area where multiple police officers were witness to a bizarre object on 05JA00.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17667.html](http://www.nuforc.org/webreports/reports/017/S17667.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in St. Peter (MN) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 60</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156763.html](http://www.nuforc.org/webreports/reports/156/S156763.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/163/S163227.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163224.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163236.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163563.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
