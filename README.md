@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:41 on 16 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:34 on 16 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Hugo (MN) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Two bright lights, pentagonal in shape an red in color, moved across the northern sky, hovered, then flew off quickly.On Sunday evening, May 16, 2010, at approximately 9:30 p.m., my wife and I spotted 2 bright lights in the northern sky, over northern  Hugo or southern Forest Lake, Minnesota.  The lights were pentagonal in shape and were red with yellow and orange appearing occasionally.  They traveled slowly from east to west before stopping over what might have been interstate I-35 for a minute or two.  Then they moved north at a rapid speed, judging for reduction in size of the lights.  Once far away, each on simply disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75492.html](http://www.nuforc.org/webreports/reports/075/S75492.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Phoenix (75 miles west of) (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>A light the shape and size of the moon moving East to West across the Suther sky about 5 to 10 degrees above horizon in the AZ desertTonight at 7:45 my wife and I were sitting outside at our Arizona desert homestead. Our property is approximately 2 1/2 miles north of Interstate 10. I was looking South when I noticed a large circular light moving East to West. The size of the object was very close to the size of a full moon and was about 5 to 10 degrees above the Southern horizon. The light moved West for about a second (after I first observed it) and made a very sharp turn to the South and disappeared in a band of clouds. For the next 20 to 30 miuntes I kept watching the Souther sky but made no other observation. I was very impressed by the size of the object as well as the color. It was an almost exact dublicate of a silvery full moon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36990.html](http://www.nuforc.org/webreports/reports/036/S36990.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/163/S163227.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163224.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163236.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163563.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
