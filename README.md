@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:37 on 16 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:42 on 16 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in St. Peter (MN) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 60</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156763.html](http://www.nuforc.org/webreports/reports/156/S156763.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Ypsilanti (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>large triangle craft with more then normal lights turning at right angles quickly and slowlydescription: The craft was triangle in shape and larger then a normal plane. it had 3 lights, portholes, or circles that were white on all three leading edges (sides and middle) on the bottom there were 4 more circles. 3 white ones at each corner of the triangle and a larger red light in the middle of it. actions: i was driving home from my parents i was near the visteon car plant. im a plane enthusiast and living near the willow run airport i see a lot of planes flying well this one looked nothing like a plane so it grabbed my attention right away i was driving alot the bridge and i stopped to watch another car from the other side stopped and watched this happen at the same time. it flew over head slowly where it stopped out 150 yards from me for about 40 seconds then turned 120 degrees roughly and went aruond in circles of around the freeway then it headed out over the town where it disappeared out of view  rough drawing of object can be found here: http://atomic.omegafusion.net/~atma/images/ufo.jpg</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56680.html](http://www.nuforc.org/webreports/reports/056/S56680.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/163/S163227.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163224.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163236.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163563.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
