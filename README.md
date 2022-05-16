@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:33 on 16 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:44 on 16 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Meridian (ID) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Commercial airliner sized diamond shaped craft hovering and flying upwind in high wind storm and in airport flight pathApproximately 10 miles NW of Boise BOI airport/Gowen Air field adjacent to a Boeing 737-300 class airliner on final approach, this craft was spotted by a colleague and I.  It was a stormy day with dark low clouds and high winds.  The craft appeared diamond shaped and hovered a mile or so from the airliner that was on final approach.  After the airliner passed, the craft flew straight up towards the low storm clouds, rolled onto its side, and the shot into the clouds headed into the wind. after which we lost sight of it.  I caught 24 seconds of video of the craft that I am uploading with this report.  At first we thought it was a drone, but it was in the flight path of the airport, was above the jet liner and appeared nearly the same size as the jet. Way too big to be a drone.  And it hovered, flew vertically, and shot into the clouds head into the wind at high speed.  Definitely NOT a drone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147363.html](http://www.nuforc.org/webreports/reports/147/S147363.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Columbia (IL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>A rectangular, yellow band of light from an object that made very quick, precise movements in any direction.The object that i spotted was a rectangular shape and made of yellow light. I could not tell the particular shpae of the object, only that the band of yellow light appeared to be rectangular in shape. The object dipeed down, with very quick & precise movements, it quickly moved from the left to the right, it made circular motions, and it changed direction. I could tell when it turned towards another direction, because i could see less of the yellow  band of light. This went on for 45 minutes, it also basically stayed in the same area, though at one point, it turned direction, pointing down, diagonally at a 45 degree angle & quickly zipped down in a diagonal direction. I did not see any other lights, and could not tell the shape, I also could not hear anything from it.((NUFORC Note:  Witness calls again to report that the object apparently was visible again on the evening of Wednesday, 16MY01, although in a different area of the sky, and smaller in appearance.  We do not know what the witness was observing.  This is the same general area where multiple police officers were witness to a bizarre object on 05JA00.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17667.html](http://www.nuforc.org/webreports/reports/017/S17667.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/163/S163227.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163224.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163236.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163563.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
