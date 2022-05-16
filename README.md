@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:57 on 16 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:52 on 16 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in New York City (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>star like, zig zag flightI watched as a fast moving star sailed through the sky, then, as I questioned with friends over what it could be, it quickly changed directions in a zig zag motion and  disappeared behind a skyscraper.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63204.html](http://www.nuforc.org/webreports/reports/063/S63204.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Manteca (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>object was flying from north to south.at arms length a silverdollar would have been the size.no noise,very low.2 large lights on bottom.solid object,til lights detached,one flew NE one NW.It was 10:30pm sat.(last-nite).I was laying on the divingboard, looking up at the sky.the sky seemed extra clear except, one large mass of low white cloud directly above me.It was long semi-wide and streched N to S.I was watching the cloud shape shift and change forms due to the wind.Then directly above me and a little to my right(north).I don't know if it caught my eye or just appeard.Below the already low clouds this large triangler object flying from N to S was at arms length, I approximate the size of a silver-dollar.The corners were all rounded.I was lookinging at the underneath part of the object.There was 2 very large circle lights.They did not glow like a light,the only way I can explain it is like the nite-lights you put in your house,the ones with the plastic white covers,how they look with light shining through them.That the closest I can explain how these lights glowed.The object itself was brown.It was below the white clouds so that allowed me to get a good clear look at it.There were no other lights whats so ever on the object.I stood up and started screaming my fiance's name,yelling look at this what is this!It continued to fly towards the south,about the speed of a jet,then as it got a ways to the left of me(south).I still had a good view due to the size,,it seems the end of the cloud may have hung lower than the rest of it, but was thinning out density wise. The object went into that part of the cloud I could still see it then the 2 lights that did seem to be a solid part of the object both at the same time in sync.widended out one to the left one to the right,moveded in little cirles in sync.the object was no longer visible,one light went back to the NE and one went back to the NW.Both moved in those directions what looked to be about 3inches in the skying,judging between my fingers and just went out or dissappeared.The rest of the object never came out of the clouds.IT made no noise,plane fly over all the time that low and you always hear them,helecopters that lw rattle the windows.Thi! s is close to the airport.I have had a very hard time even explaining yhis,and I did the best I could in words.Can you please let me know if anyone else reports this?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03558.html](http://www.nuforc.org/webreports/reports/003/S03558.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/163/S163227.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163224.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163236.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163563.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
