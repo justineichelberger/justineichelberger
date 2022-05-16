@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:34 on 16 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:43 on 16 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Phoenix (75 miles west of) (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>A light the shape and size of the moon moving East to West across the Suther sky about 5 to 10 degrees above horizon in the AZ desertTonight at 7:45 my wife and I were sitting outside at our Arizona desert homestead. Our property is approximately 2 1/2 miles north of Interstate 10. I was looking South when I noticed a large circular light moving East to West. The size of the object was very close to the size of a full moon and was about 5 to 10 degrees above the Southern horizon. The light moved West for about a second (after I first observed it) and made a very sharp turn to the South and disappeared in a band of clouds. For the next 20 to 30 miuntes I kept watching the Souther sky but made no other observation. I was very impressed by the size of the object as well as the color. It was an almost exact dublicate of a silvery full moon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36990.html](http://www.nuforc.org/webreports/reports/036/S36990.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1976, an anonymous witness in Newtown (CT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>meteor like object about 20 feet from usTo whom it may concern,  For many years I have told the story of a UFO which approached me when I was 5 or 6 years old. No one has taken me seriously because I was so young and could not recall the exact year though I know it was 1975 0r 1976. I remember it was 8pm and my brother and I were having a stick fight (like a sword duel) outside of the house when my Mother (now deceased) went into the house. While we were playing I noticed a light in the sky and pointed it out to my brother. Within a blink of an eye it was close to 200 feet away from our road and then it dipped down and hovered over our driveway in front of us. Now it was about 20 feet away from us and it looked like a meteor with craters and it changed from orange to white then to red. It was about the size of a volkswagen bug. It hovered there for a couple minutes and made no sound, absolutely silent. I asked my brother what it was and he said he didn't know. My brother was 7 or 8 years old at the time, but I recall the UFO better than him. I asked my brother, what if aliens come out of it? That's when we ran to our door which seemed to be locked. My Mom opened the door and said it wasn't locked. We never saw the UFO again but I recall not getting much sleep that night. Years later I looked in the Newtown Bee (a local newspaper) for articles about it, because others had been witnessing UFOs at the same time, I came up empty handed. I knew it was in the paper because my Mom told my brother and I that it was published. I know I don't recall dates and ages well but the UFO itself was real and I remember it like it was yesterday. I hope this helps others who may have witnessed the same object in Newtown. I know it WASN'T a meteor because it would have made quite an impact in our driveway. I now live in a different location not too far from the incident.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42195.html](http://www.nuforc.org/webreports/reports/042/S42195.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/163/S163227.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163224.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163236.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163563.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
