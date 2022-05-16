@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:49 on 16 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:38 on 16 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Oklahoma City (OK) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>triangular shaped craft two.  hovering then following each other at high rate of speed.  three extreemly bright light two white one red one on top to craft two below symiliar to craft seen in noble about 40 miles from here.  I've already reported this once.  I have footage I shot lasting 4 minutes and some seconds.  I have shown this tape to many co-workers and friends who have no explanation for what I've caught on tape... Most want me to send the tape in to the news stations ...Haven't decided what to do with it.  I am 38 , have at very technical job and can't explain what I saw on may 16 ,2005 but at least I have it on tape.  The video shows most ofwhat I observed after watching the the two craft for 4 minutes before capturing on dvd ram disc recorder.  I have proof. The guy from noble ok.. might want to see</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44197.html](http://www.nuforc.org/webreports/reports/044/S44197.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1988, an anonymous witness in Pacific Ocean (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>what are those two 5-6 ft spheres floating on the water ?I had retired from marine construction in the US and on my way to circumnavigate the world in my 34 ft sailboat.  I had one 24 yr old female crew person who also acted as cook. About dusk we observed 2 spheres about 5-6 ft in diameter floating on the water at approx. 75 yards from us.  They seemed to be tethered together and appeared to be metal.  I am now 74 years old and am very interested in UFOs and ancient aliens.  I wish I had stopped and checked them out but it was getting dark and to tell the truth I was a little leery---sorry----I certainly regret it now---</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147897.html](http://www.nuforc.org/webreports/reports/147/S147897.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/163/S163227.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163224.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163236.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163563.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
