@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:38 on 16 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:06:01 on 16 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1988, an anonymous witness in Pacific Ocean (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>what are those two 5-6 ft spheres floating on the water ?I had retired from marine construction in the US and on my way to circumnavigate the world in my 34 ft sailboat.  I had one 24 yr old female crew person who also acted as cook. About dusk we observed 2 spheres about 5-6 ft in diameter floating on the water at approx. 75 yards from us.  They seemed to be tethered together and appeared to be metal.  I am now 74 years old and am very interested in UFOs and ancient aliens.  I wish I had stopped and checked them out but it was getting dark and to tell the truth I was a little leery---sorry----I certainly regret it now---</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147897.html](http://www.nuforc.org/webreports/reports/147/S147897.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Williamsport (MD) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>varying pattern of blinking lights VERY bright, shaped like an inverted question markU.F.O. Sighting, no, not “little green men” but something odd last night. It was up in the sky & I can't Identify it, so its a “UFO”, but NOT a “flying saucer” & yes there is another witness. I don't know for sure what it was but I assume it was one of Musk's "Starlink" satellite trains? But there are significant differences from other images I've seen of them. Last night Western MD (39°38&#8242;34&#8243;N 77°43&#8242;12&#8243;W) about 9:30PM a string of 15~20, or so VERY bright white lights in the sky to the South West. (They were so bright they got my attention immediately) Roughly 45° elevation, heading vaguely North. It was a little patchy cloud so they seemed to be blinking on & off, but they were in a crescent shape, not a line like I've seen images of. The whole thing subtended only about 4 or 5°. Checking various tables the closest contender would be Starlink 24, or 27, but 5 ° subtention, 45° elevation doesn't match.Any thoughts or ideas?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163216.html](http://www.nuforc.org/webreports/reports/163/S163216.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/163/S163227.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163224.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163236.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163563.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
