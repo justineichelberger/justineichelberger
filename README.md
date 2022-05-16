@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:42 on 16 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:31 on 16 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Ypsilanti (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>large triangle craft with more then normal lights turning at right angles quickly and slowlydescription: The craft was triangle in shape and larger then a normal plane. it had 3 lights, portholes, or circles that were white on all three leading edges (sides and middle) on the bottom there were 4 more circles. 3 white ones at each corner of the triangle and a larger red light in the middle of it. actions: i was driving home from my parents i was near the visteon car plant. im a plane enthusiast and living near the willow run airport i see a lot of planes flying well this one looked nothing like a plane so it grabbed my attention right away i was driving alot the bridge and i stopped to watch another car from the other side stopped and watched this happen at the same time. it flew over head slowly where it stopped out 150 yards from me for about 40 seconds then turned 120 degrees roughly and went aruond in circles of around the freeway then it headed out over the town where it disappeared out of view  rough drawing of object can be found here: http://atomic.omegafusion.net/~atma/images/ufo.jpg</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56680.html](http://www.nuforc.org/webreports/reports/056/S56680.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Pikeville (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Four red sequenced blinking lights in a diagonal bar formation sighted in Kentucky.One night while leaving a late night event I sat in the passenger seat while my boyfriend drove us across a deserted stretch of highway. I leaned my head against the window and caught site of one small red light hovering over a distant mountain. The red light blinked four times and then a diagonal bar consisting of four other red lights would light up too. This only happened on every fourth blink. This pattern continued several more times but I didn’t alert my boyfriend because I was unsure about what it was. As we drove around the mountain, I finally decided to alert him to what was there but because of his position in the driver’s seat, he was unable to see it. I strained to see the lights but could only do so for another minute or so. Even though I knew I was looking at the same point in the sky, the lights stopped blinking entirely and soon, it was out of sight. This was in a familiar area that I’ve taken often so I am sure this was no type of tower and it didn’t resemble any type of jet or other aircraft that I’ve ever seen. It may have been moving but due to our changing position and the winding road I was unable to tell for sure. I haven’t seen the lights since but I am sure I saw it this night because it lasted several minutes and was very distinct.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64752.html](http://www.nuforc.org/webreports/reports/064/S64752.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/163/S163227.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163224.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163236.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163563.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
