@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:40 on 15 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:57 on 16 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Livonia (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Between the months of April to June, not sure exactly when, while walking home from work around 9 or 10pm alone, I see something in the night sky. At first thought it maybe a large bird. But as I looked on and the object got closer, I see that it's not a bird. It was like an odd triangular shape object, black with no lights.  It move in a straight trajectory above the tree line. I watched it fly over my head, and it made no sound at all. It went off further into the distance, made a quick left turn, then rapidly accelerated and disappeared into the night sky. I couldn't get my head around what I saw, and since I've only told two people, until now. Hope this helps, something.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156867.html](http://www.nuforc.org/webreports/reports/156/S156867.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in New York City (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>star like, zig zag flightI watched as a fast moving star sailed through the sky, then, as I questioned with friends over what it could be, it quickly changed directions in a zig zag motion and  disappeared behind a skyscraper.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63204.html](http://www.nuforc.org/webreports/reports/063/S63204.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [659](http://www.nuforc.org/webreports/reports/163/S163183.html)
-- [658](http://www.nuforc.org/webreports/reports/163/S163214.html)
-- [657](http://www.nuforc.org/webreports/reports/163/S163162.html)
-- [656](http://www.nuforc.org/webreports/reports/163/S163189.html)
-- [655](http://www.nuforc.org/webreports/reports/163/S163226.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
