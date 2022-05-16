@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:06:01 on 16 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:36 on 16 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Williamsport (MD) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>varying pattern of blinking lights VERY bright, shaped like an inverted question markU.F.O. Sighting, no, not “little green men” but something odd last night. It was up in the sky & I can't Identify it, so its a “UFO”, but NOT a “flying saucer” & yes there is another witness. I don't know for sure what it was but I assume it was one of Musk's "Starlink" satellite trains? But there are significant differences from other images I've seen of them. Last night Western MD (39°38&#8242;34&#8243;N 77°43&#8242;12&#8243;W) about 9:30PM a string of 15~20, or so VERY bright white lights in the sky to the South West. (They were so bright they got my attention immediately) Roughly 45° elevation, heading vaguely North. It was a little patchy cloud so they seemed to be blinking on & off, but they were in a crescent shape, not a line like I've seen images of. The whole thing subtended only about 4 or 5°. Checking various tables the closest contender would be Starlink 24, or 27, but 5 ° subtention, 45° elevation doesn't match.Any thoughts or ideas?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163216.html](http://www.nuforc.org/webreports/reports/163/S163216.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Sterling (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A star that skowly but surely changed its position near the moon.On a clear but slightly hazy night (Thursday) I went out on my deck to see planets that the channel 4 meterologist said were near the moon.  Immediately below and to the right of the moon there was a bright star. The star appeared to slowly but surely changfe its position -- drifting aimlessly.Since it was twilight, I checked another bright star 90 degrees to the right of the moonfor comparison purposed. It did not move but the bright star near the moon continued to move. I then called 911 and reported this to Mr. Davenport.((NUFORC Note:  We spoke with this witness, who sounded quite credible.  We believe that one possibility that would have to be ruled out is one of the planets in the proximity of the Moon.  Also, another possibility would be the landing light on an aircraft in the distance.  If those two possibilities could be eliminated, then we do not know what the witness observed.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22902.html](http://www.nuforc.org/webreports/reports/022/S22902.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/163/S163227.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163224.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163236.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163563.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
