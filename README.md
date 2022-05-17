@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:27:24 on 17 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:09:47 on 17 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Orange orbs and star-like lights seen in sky over phoenixHello.  While looking up at the night sky and laying on my back, relaxing close to where I sleep outside near sky harbor airport, I noticed a flash in the sky.  The flash resembled a star coming into existence suddenly, and then disappearing, just as suddenly (within a fraction of a second).  This caught my attention as I have seen strange lights in the sky two years previously, when I lived in San Diego, California (USA).I then noticed two orange orbs, which I initially though were balloons, floating side by side next to each other heading in a southerly direction.  No moon was out, so the orbs seemed to be self-luminous with a soft orange glow.  The orbs flew directly overhead and then drifted out of sight. Regarding size, the orbs appeared to be, if looking at the back of an outstretched hand facing the sky, a quarter of the size of the pinky nail.  As they moved, they seemed to have a slightly wobbly motion, as if they were balloons.  A local dog began barking when the orbs flew over.Keeping my eyes trained at the sky, I then noticed stars moving.  First one, then another, then a third and fourth over a period of about an hour.  One of the stars seemed to strobe brightly for a time (five seconds) and then its light dimmed. It continued to fly and then seemed to vanish prematurely, before one might expect it to fade away due to distance.  Two or three other stars approached my position on the ground, as I lay on my back looking at the sky, and disappeared suddenly when they were in a position directly overhead of my position.  Two of the stars flew together, although not in formation, within my field of view before one vanished.  Then the other.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118991.html](http://www.nuforc.org/webreports/reports/118/S118991.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Culloden (WV) reported seeing craft that fit the description of some '' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Witness claimed they saw a black figure run pass the window while cleaning. They also reported seing something fly past and a bright light came though the window.  There was a brief power outage the next day.After sending repeated e-mails to claimant I have recieved no response.  So this may be a hoaxed report.  If I receive any information in the near future I will revise this report.Donnie Blessing Southern Ohio Section Director MUFON((NUFORC Note:  We express our gratitude to Donnie Blessing, and to MUFON/Ohio, for sharing their follow-up report regarding the alleged event.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38368.html](http://www.nuforc.org/webreports/reports/038/S38368.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163242.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163246.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163338.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163288.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163702.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
