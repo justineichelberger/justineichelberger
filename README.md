@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:37 on 17 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:39:52 on 17 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Wilmington (NC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2 large white spheres flying a good distance apart but in the same direction northeast from the northern portion of Wilmington towards Surf City.  Very high in the sky.  Does not resemble any aircraft.((NUFORC Note:  Source of the report elects to remain anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134298.html](http://www.nuforc.org/webreports/reports/134/S134298.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Yarmouth (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Zig zagging object emitting bright light w/faint redish hue flying very high, hovering, circling - like a tadpole swimming.My house is in a large field about 15 miles North of Portland, Maine. Sitting out with my dogs this evening I noticed what I thought was a satelite moving very fast up off the horizon towards the west - rising straight up. I noticed it because it was bright - brighter than any of the stars around it and it was moving fast enough to get my attention. It took perhaps 30-45 seconds to move from just over the horizon to nearly overhead. I still thought it was just a satelite - but then it stopped. The light did not change it just stopped. And then it started to fall. Almost as if it was some type of rocket that had reached the apex of it's trajectory. "That's weird" I though and I kept watching. Then it stopped again and started to zig zag. Whatever it was - it was very high in the sky - really just a point of light about what you might expect of Mars viewed with the naked eye. I ran in and got the binoculars and watched to for another ten minutes as it zig zagged around. I know it was moving because I had to walk from the West to the North side of my house to keep it in view. Then it was gone. Through the binoculars, the object emitted a faint redish light. It's movement was extremely fluid. When it zig zagged, it looked like a tadpole swimming in shallow water. It moved very slowly at times, hovered, and at others moved very fast speeding out of the view of the binoculars.The object made no sound (then again the frogs and crickets are very loud in the field and drown out Route 95 some 3 miles away so I would not have been able to hear anything but a very loud sound).I lost sight of the object when it past by the sliver of the moon that was out this evening. I did not see it again. I watched whatever this was for about ten minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22899.html](http://www.nuforc.org/webreports/reports/022/S22899.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163242.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163246.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163338.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163288.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163702.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
