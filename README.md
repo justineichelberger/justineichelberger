@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:36 on 17 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:35 on 17 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Amissville/Rixeyville (VA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Medium blue oval light covering a large area in the North sky.  Very bright then gone.Not a UFO but rather strange light appearing and disappearing in the night sky.  Light was deep medium blue, oval shaped, and covered a large area.  Was very bright, lasting only a few seconds.  Came out of nowhere, and disappeared as fast as it appeared.  Upon coming home family there reported a power surge which increased then decreased rapidly.   Knocked satellite TV reception offline.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119010.html](http://www.nuforc.org/webreports/reports/119/S119010.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Key Colony Beach (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Saw 30-40 lights traveling from East to West while walking the dogs.  Thought it was an airplane at first then thought it was a star. Then noticed there was 30-40 of them spread across the sky. Traveling at a high rate of speed passing the stars. No noise. Very high altitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156817.html](http://www.nuforc.org/webreports/reports/156/S156817.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163242.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163246.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163338.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163288.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163702.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
