@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:04:50 on 17 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:39 on 17 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Beaverton (OR) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>strange dim diamond shaped light pattern  traveling across the sky NW to SE about 5-10 times a jets speed.It looked similar to the signature of a lower flying jet aircraft. However the lights were very very dim compared to normal jets into and out of PDX or Hillsboro and there was no sound at all. There were no flashing becon lights and the direction of travel was northwest to southeast opposite normal traffic coming in to land or taking off. It was way to large a signature to be part of the normal jet traffic at 30,000+ feet we see in the direction of travel was wrong. In addition it traveled at about 5-10 times the normal jet traffic speed in a straight line across the sky. It is unlike anything I have seen in my 45 years. Too dimly lit and slow for a meteor to fast for jet airline and no sound was heard. To large a signature (multple light points) to be a satellite or the space station. I have no idea what it was. Any ideas?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50621.html](http://www.nuforc.org/webreports/reports/050/S50621.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Fort Myers (FL) reported seeing craft that fit the description of some 'Egg' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Two kyobjects in the s that are always around me.I was outside smoking a cigarette and I noticed this light right in front of me in the sky and was coming closer, it was dark cold and very bright.  Prior to this I have seen other objects in the sky a few times and normally when I go to explain what Ive seen No One Believes Me , so I decided to take a video.  Please ignore the first 1t seconds as it is just crickets chirping in the backgroind.In my video you can clearly see the different movement on the craft.  Tgis moved around for about an hour or so and there was an additional one which was silver, I have video fotage of tgis ine as well and showed tge moon and then the craft shows</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146425.html](http://www.nuforc.org/webreports/reports/146/S146425.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163242.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163246.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163338.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163288.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163702.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
