@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:39 on 17 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:39 on 17 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Fort Myers (FL) reported seeing craft that fit the description of some 'Egg' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Two kyobjects in the s that are always around me.I was outside smoking a cigarette and I noticed this light right in front of me in the sky and was coming closer, it was dark cold and very bright.  Prior to this I have seen other objects in the sky a few times and normally when I go to explain what Ive seen No One Believes Me , so I decided to take a video.  Please ignore the first 1t seconds as it is just crickets chirping in the backgroind.In my video you can clearly see the different movement on the craft.  Tgis moved around for about an hour or so and there was an additional one which was silver, I have video fotage of tgis ine as well and showed tge moon and then the craft shows</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146425.html](http://www.nuforc.org/webreports/reports/146/S146425.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in St. Louis (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>moving light over St. Louis, MOI'm staying at the Radissson on 4th st. directly across from the arch. I went out on the balcony to look at the arch and noticed a star-like light that appeared to be swinging like a lantern. I then focussed on this light and to my surprise it moved closer and continued it's swinging motion in the sky. it then moved off to the west at a preposterous speed. nothing like an aircraft that I have ever seen. simply fantastic.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37020.html](http://www.nuforc.org/webreports/reports/037/S37020.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163242.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163246.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163338.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163288.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163702.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
