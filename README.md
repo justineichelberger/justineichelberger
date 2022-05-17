@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:40 on 17 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:48 on 17 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Panchkula (India) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>I was doing pushups on the terrace of my house. The sky was dark. No stars were visible.As I stood up for a while to take some rest, i saw a light coming down from the sky.  First I thought it was a meteor, I kept looking at it.Two seconds after a long fall from the sky, the light disappeared.  Till now everything it meant to me was a meteor.  But suddenly , after a pause of a second, the light came and disappeared.It continued to reappear after every second. 5-6 seconds after this whole event, it changed colour from white to blue.  The light continued to beep.Now it started a strange motion.  Going left , then right as if searching for something, hovering in the sky.  When it did not get anything in that area it suddenly got speed and left a red trail behind for approx 3 seconds.The light now shifted to another area.  It was heading up towards a tower and continued to beep after every second.  The beep I refer is the continued disappearance and reappearance of light.Now it changed its colour to white for at least 5-6 seconds and then again blue.  As i got near a tower, it stayed there for a while approximately 6-7 seconds and then it started to faint.  The light got dim and completely disappeared.The event, by my approximation happened a mile away.  There was no sound that came to me.  This event just freaked me out.  Also this is not a joke or a hoax to be ignored.  Also I can well distinguish between a mysteriously flying object or some laser light.Wishing for your support.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146217.html](http://www.nuforc.org/webreports/reports/146/S146217.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in St. Augustine (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>3 orange fireballs over the ocean in st. augustine beachWhile walking along the beach, My companion and myself saw what we think were 3 orange balls that looked like they were on fire. One second they were there, then nothing. We asked ourselves what we thought it was because it was over the water at some distance, yet very obvious. Today I spoke to a friend who said that there have been reports of possible ufo's in the past month, but we both laughed. I looked it up on my computer just now and read that what I saw was also reported 2 weeks ago. maybe there is somthing to it so I am writing you today. I am curious if anyone else saw anything as well last night. Who should I contact without sounding like I am crazy?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63243.html](http://www.nuforc.org/webreports/reports/063/S63243.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163242.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163246.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163338.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163288.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163702.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
