@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:42 on 17 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:44 on 17 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Johnson City (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>20 or more Reddish Orange lights form a upward arch in the sky and start swirling , making formations then disappearing slowly.My husband was opening the window to let the air flow and notice Reddish Orange lights that appear to be over I-26 between Johnson City and Gray Tennessee.  They were 20 to 24 lights moving upwards in an arch formation.  As the lights approach the top of the arch the lights started to swirl in a counter clockwise motion, (slow blender looking)  As the last of the lights reached the top of the arch,  the  lights started to disappear one at a time, but not before making different formations.  The lights disappeared one at a time, very slowly.  My husband came and got me and I looked up and saw the same lights but at this time about 10 of them making different formations.  Every time a light disappeared the formation changed,  , last pattern made was a triangle with 3 lights.    My husband is an 52 yr old engineer and I’m a 42 yr old stay at home mom.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97883.html](http://www.nuforc.org/webreports/reports/097/S97883.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Tualatin (OR) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>2 Star looking objects observed in Tualatin, ORUFO sighting in Tualatin OR on 5/17/08, in the afternoon sometime…3:00 ish or so?  After exiting a store in the Tualatin area, I was walking to my car in the parking lot and a very bright light in the northern sky caught my eye.  It was a warm sunny day with only a few vapor trails in the sky – no real clouds.  I then noticed two bright star-like lights in the sky, to the north of the parking lot area.  They appeared to be high in the sky, but slightly lower than jets would normally fly.  They were moving very strangely at right angles and seemingly together.  The lights were bright white and very bright.  I observed their movements for what seemed like 5 minutes or so and I then noticed an older couple leaning over their SUV and the man was looking through binoculars in the direction of the UFO’s.  I went over to the couple and we watched the lights for about 10 minutes or so more.  He said he could see fluorescent green lights on the lower half of the oval object.  He stated that it appeared to have a metal appearance.  He said “those are NOT airplanes!”  Then one of the lights went behind the large vapor trail and we lost sight of it, while one of the lights proceeded to move to the right side of the vapor trail.  Then we lost sight of that one too.  We then noticed about 5 jets heading from different directions all going in the same direction/location and at about the same height in the sky of where we saw the lighted objects. Strange….</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63368.html](http://www.nuforc.org/webreports/reports/063/S63368.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163242.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163246.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163338.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163288.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163702.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
