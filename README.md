@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:06:13 on 17 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:36 on 17 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in East Amana (IA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>2 round objects were in a marshy wooded area, which left when approachedSunday May 17, 2020, 10:00 AM, A lime green object noted on top of a slight hill in a clearing, with shrubbery to the East and a larger stand of trees to the west,   in front of a pond and wooded and 500 feet north of the Iowa River in Monroe Township, 3 miles East of East Amana, 1 mile south of Amana RD NW.With the aid of field binoculars the object appeared to be the object appeared to be pulsating, shimmering and appeared square in shape with white markings, there were also what appeared to be 2 light brown figures moving around the green shape.As I traveled across the valley moving toward the object  the 2 small  brown objects then appeared to be moving  on each side of the green object. There is a slight incline from the floor of the valley to the crest where the green and white object was spotted.Within 300 to 500 feet from the crest of the hill, suddenly two round shapes rose from the ground. One of the spheres was approximately 50 feet from the other sphere traveling in a diagonal northerly direction, keeping equidistant from each other.What I had probably first observed was the top of one of the objects and the other object was down the south slope of the incline. The shapes appeared to change color from white/fluorescent green in color to metallic dark green and almost black in color. The objects were each at least 10 feet across and spherical in shape. They did not emit any noticeable noise; the objects rose slowly up into the air approximately 50 feet from the ground, where they then traveled along the several ponds in the area moving in a north easterly direction.  The objects continued to rise in altitude to accommodate clearance of the large stand of trees by the forest. They continued to travel diagonally, side by side over the next half of minute until they disappeared climbing briskly into a bank of clouds overhead.After they had disappeared I searched the hillside but was not able to identify any impressions on the ground or any other individuals. There were ducks swimming in the pond and they did not fly off until I breached the water. There were also frogs which then jumped into the water as i searched along the pond bank for tracks.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156528.html](http://www.nuforc.org/webreports/reports/156/S156528.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Amissville/Rixeyville (VA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Medium blue oval light covering a large area in the North sky.  Very bright then gone.Not a UFO but rather strange light appearing and disappearing in the night sky.  Light was deep medium blue, oval shaped, and covered a large area.  Was very bright, lasting only a few seconds.  Came out of nowhere, and disappeared as fast as it appeared.  Upon coming home family there reported a power surge which increased then decreased rapidly.   Knocked satellite TV reception offline.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119010.html](http://www.nuforc.org/webreports/reports/119/S119010.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163242.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163246.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163338.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163288.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163702.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
