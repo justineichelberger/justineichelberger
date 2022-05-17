@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:39 on 17 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:42 on 17 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Portland (MI) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Lighted object in sky that danced around in the sky and moved closer to me and then farther away several timesI was driving down I-96 in Portland, MI and Inoticed a bright light in the sky...thinking it was the North Star.  But the North Start doesn't set in the west and I ws travelling west. Suspecting something strange I pulled over to the shoulder and got out my video camera (which I had in the car because I had taken my daughter on a field trip the Friday before).  When I first looked up at it with the camer it was a ball of light that was playing games with me.  when I firt starting filming it was constantly moving and shaking in and out of the camera view.  When I zoomed in on it it would move out of my camera sight...so I would have to go back to normal to have it come back into view.  After about 10 minutes it began to play with me....coming up close to my camera then dancing around and then going back high up into the sky.  Also, when traffic would come down the road it would stop playing with me and sit high up in the sky.  Every once in a while there were spurts of static on my camera outof no where.  I spent about 20 minutes filming (until my battery died - funny thing about it is when I began filming I had 43 minutes of battery life left).  The last thing it did was come extremely close to the camera so I could see it large and in person and then the camera died and it flew back into the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37021.html](http://www.nuforc.org/webreports/reports/037/S37021.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Johnson City (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>20 or more Reddish Orange lights form a upward arch in the sky and start swirling , making formations then disappearing slowly.My husband was opening the window to let the air flow and notice Reddish Orange lights that appear to be over I-26 between Johnson City and Gray Tennessee.  They were 20 to 24 lights moving upwards in an arch formation.  As the lights approach the top of the arch the lights started to swirl in a counter clockwise motion, (slow blender looking)  As the last of the lights reached the top of the arch,  the  lights started to disappear one at a time, but not before making different formations.  The lights disappeared one at a time, very slowly.  My husband came and got me and I looked up and saw the same lights but at this time about 10 of them making different formations.  Every time a light disappeared the formation changed,  , last pattern made was a triangle with 3 lights.    My husband is an 52 yr old engineer and I’m a 42 yr old stay at home mom.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97883.html](http://www.nuforc.org/webreports/reports/097/S97883.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163242.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163246.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163338.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163288.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163702.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
