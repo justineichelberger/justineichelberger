@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:48 on 17 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:12:26 on 17 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in St. Augustine (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>3 orange fireballs over the ocean in st. augustine beachWhile walking along the beach, My companion and myself saw what we think were 3 orange balls that looked like they were on fire. One second they were there, then nothing. We asked ourselves what we thought it was because it was over the water at some distance, yet very obvious. Today I spoke to a friend who said that there have been reports of possible ufo's in the past month, but we both laughed. I looked it up on my computer just now and read that what I saw was also reported 2 weeks ago. maybe there is somthing to it so I am writing you today. I am curious if anyone else saw anything as well last night. Who should I contact without sounding like I am crazy?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63243.html](http://www.nuforc.org/webreports/reports/063/S63243.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Schaumurg (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Matte black object on clear sunny day at est. 15,000 feet with three witnessesTwo of my co-workers and I were out having a cigarette break and enjoying our beautiful cloudless day just now.  Looking up in the sky I caught a black circular object.  It was high in the sky and moving smoothly south. I pointed it out two my two co-workers who also clearly saw the object. We tracked it with our eyes for about two minutes. It was clear to the three of us this was neither a bird nor a plane.  As luck would have it, a flock of Canadian geese AND a passenger jet flew by while the object was still in sight. (We are about 15 miles west of O'Hare International Airport and we have a lot of geese this time of year). Based on the comparison of the geese flight and the airliner, it looked to be considerably higher than the airliner.  The airliner was 15 miles west of O'Hare and continuing west and looked to be about 10,000 feet and climbing.  The object crossed paths with it, so we had a great angle to judge this by. As for the object's appearance, it was pitch black with no reflective surface on this very sunny, clear day.  The airliner by contrast was very reflective and bright. Because of this matte, black appearance we would only be guessing at the object's real shape.  Because of the distance, our eyes condensed it to "circular". I called the Great Lakes Regional FAA Center in DesPlaines, IL.  They passed me to their operations center and took my name and phone number. We as a group are certain this was no normal aircraft. *It was higher than 10,000 feet, ruling out birds.*Because of this height, the size had to be considerably large.*It was matte black and non-reflective, ruling out weather balloons or commercial aircraft.*It was clearly odd-shaped, not conforming to normal silhouettes.  We could make out neither wings nor fuselage.*It left no contrail. (Neither did the passenger jet)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56710.html](http://www.nuforc.org/webreports/reports/056/S56710.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163242.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163246.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163338.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163288.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163702.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
