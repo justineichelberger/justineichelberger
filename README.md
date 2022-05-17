@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:35 on 17 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:42 on 17 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Maple Ridge (Canada) (BC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.25 - 2.25 minutes.</sub><blockquote><sub>Yellowish/orange sphere seen by 8 people.Bright orange light travelling above Maple Ridge BC, Canada.Bright orange light, quite large, travelling in a easterly to westerly direction,  It stopped for about 10-15 seconds and travels upwards and disperses into the sky.  Got it on camara.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109790.html](http://www.nuforc.org/webreports/reports/109/S109790.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in North Tonawanda (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately  -  minutes.</sub><blockquote><sub>Large oval shaped object spotted with lights that had the appearance of shooting stars but it wasn't.A fairly large aircraft was sighted flying above North Tonawanda. At first it had the appearance of several shooting stars. However, they where going the wrong direction. After watching it for a few moments it became clear that the light where attached to a fairly large aircraft that did not look like a airplane. In fact, it seemed 5 times larger than any typical airplane. The aircraft seemed to of had a elongated oval shape to it when the dark areas became more visible from the moonlight. It appeared to have three white lights to the rear when fairly even spacing in between. The brighter lights had a hazy streak of dimmer light going from the rear towards the front.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163223.html](http://www.nuforc.org/webreports/reports/163/S163223.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163242.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163246.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163338.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163288.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163702.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
