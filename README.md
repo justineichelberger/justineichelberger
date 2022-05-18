@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:16 on 18 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:35:23 on 18 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Helena (MT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>disk shaped object/ military choppers all around the objectI was driving home down frontage road when i noticed four military helicopters in the sky as i got closer to home a flying saucer flashin white and blue lights croosed in front of me.  when i passed it it hovvered over some houses in the helena valley then crossed behind my vehicle and dissapeared. It appeared as though the choppers were searching for  it as they flew around the area for hours after.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75463.html](http://www.nuforc.org/webreports/reports/075/S75463.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Hampton (VA) reported seeing craft that fit the description of some '' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Man sees "shooting star" streak across W to E, turn down toward earth, then streak back W.  Color and size of star.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01507.html](http://www.nuforc.org/webreports/reports/001/S01507.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/163/S163278.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163925.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163277.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163262.html)
-- [267](http://www.nuforc.org/webreports/reports/163/S163244.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
