@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:13:28 on 18 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:02:21 on 18 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Ponoka (Canada) (AB) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 130.0 - 130.0 minutes.</sub><blockquote><sub>Some additional info for my report of May 19, 2015 observation by Ponoka, AB. Canada  NOT Venus.I filed a report yesterday, and I spoke briefly with Peter this afternoon.  At his request, I am adding to my 1st report with some additional information.  Yesterday during the daytime, I spoke with a person from the Rothney Observatory, located near Calgary, Alberta.  She checked her star maps and suggested that what I may have seen was the planet, Venus. However, I stayed up during the same time frame this past night and indeed Venus was visible in the sky BUT it was located quite a bit further South (in the Western sky), from where I saw the object the night before.  Both nights, the sky was completely clear, and Venus although showing a yellowish colour, was not near as bright either.  And again not in the same part of the sky.  I hope that this is of some use to you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118969.html](http://www.nuforc.org/webreports/reports/118/S118969.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Lubbock (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately constant - constant minutes.</sub><blockquote><sub>Strange flashing lights.looking north west of Lubbock see flashing green white and red lights every night after sunset cannot identify what craft is in same location every night.((NUFORC Note:  Possible sighting of a "twinkling" star??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134281.html](http://www.nuforc.org/webreports/reports/134/S134281.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/163/S163278.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163925.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163277.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163262.html)
-- [267](http://www.nuforc.org/webreports/reports/163/S163244.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
