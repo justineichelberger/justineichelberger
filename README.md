@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:51 on 18 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:16 on 18 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Gulf  Shores (AL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>We saw a triangled shaped  object in the sky in Gulf Shores ALA, approx one mile up not moving.Around 10pm May 18, 2006,while sitting looking out over the ocean on a beautiful star light night, their appeared four round lights. These appeared in a triangled shape,possibly a mile up in the sky with one in front two more on the right side and one on the left side. we watched these two to three minutes, I went inside and got my binoculars, started focusing in and they flashed off.  Probably thirty seconds later they were back, but the left back light had moved up half way to the front.  We watched this arrangement probably three to four more minutes. They just sat in the sky without moving. I would estamite the distance between lights, two to three hundred feet</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55696.html](http://www.nuforc.org/webreports/reports/055/S55696.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Helena (MT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>disk shaped object/ military choppers all around the objectI was driving home down frontage road when i noticed four military helicopters in the sky as i got closer to home a flying saucer flashin white and blue lights croosed in front of me.  when i passed it it hovvered over some houses in the helena valley then crossed behind my vehicle and dissapeared. It appeared as though the choppers were searching for  it as they flew around the area for hours after.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75463.html](http://www.nuforc.org/webreports/reports/075/S75463.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/163/S163278.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163925.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163277.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163262.html)
-- [267](http://www.nuforc.org/webreports/reports/163/S163244.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
