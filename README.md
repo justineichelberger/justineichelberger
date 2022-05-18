@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:34 on 18 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:35 on 18 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Cuba (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>all ten of us watched this fly over our houses on a clear night with a full moon as its lights flashed simultaniously.the craft had three lights.  the first was white, then red, and then yellow.  they would flash or sometimes there would only be one color.  then sometimes they would just go out completely.  the craft was first spotted by the oldest child along with her boyfriend.  it was seen above abc investment and was moving very slow it then began to speed up heading west towards rolla,mo.  the neighbors then ran into my house and yelled for me to come out.  we are not people who believe in this but i personally can say i have never seen this time of air craft before.  this goes for the rest of us that saw this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12906.html](http://www.nuforc.org/webreports/reports/012/S12906.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Baldwinsville (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I noticed a light in the sky tonight.  It was still not moving, I noticed it while closing my window I thought it was a star but it looked a little orange for a star,  I went outside with my dog to see better and it got bright twice and then faded back to its normal color at times it looked like it was blinking.Lights seem to be hazy and red orange on outer edges and a yellow flame in the middle; objects seem to flicker and pulse.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127294.html](http://www.nuforc.org/webreports/reports/127/S127294.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/163/S163278.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163925.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163277.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163262.html)
-- [267](http://www.nuforc.org/webreports/reports/163/S163244.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
