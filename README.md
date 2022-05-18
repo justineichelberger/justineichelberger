@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:33 on 18 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:36 on 18 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>saw & filmed a pulsating diamond shaped object which changed shape several times over Portland, Oregon about 9:30 PMSaw a stationary object while driving home, which was too close and bright to be a star.  There were no other stars visible in that portion of the sky. We pulled the car over and watched the object for about 5 minutes before proceeding home about a half an mile to get the HD Handycam to film it.  Recorded it on film for about 7 minutes from our backyard over the roof of the house behind us.  The object changed shape several times and pulsated brighter, mainly staying in a diamond shape.  There were also dark vertical lines which crossed the object periodically, and there was a darker circle or diamond shape in the center the object sometimes when the object was in a diamond shape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75464.html](http://www.nuforc.org/webreports/reports/075/S75464.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Richmond (VA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Thought I was seeing a aircraft flying towards me from south to west as  I could see 2 lights that I took for wing tip lights. I watch for a couple of minutes and noticed that it was not moving. I watch a short time until I went to retrieve my camera and upon returning within a few minutes it began to seem to  become more defined and cigar shape with what seemed to be a small trail. I took several pictures but the object was at a great distance it appeared. The sun was just breaking the horizon and all stars had disappeared but you could still plainly see this object and I live in downtown so the street lights  block out quite a bit but this seemed to shine silver and I looked  through bonoculars about this time and it seemed to emmit light from the center and expand and contract. I when inside for a minute and came out to see if I could still locate it but it had disappeared. I just walked outside to see if I possible would see it again and I believe I am seeing it again this mornng but more to the south west but still at a 10 oclock angle.I will try to get a better picture or dvd. Could it be the shuttle or space station?((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70110.html](http://www.nuforc.org/webreports/reports/070/S70110.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/163/S163278.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163925.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163277.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163262.html)
-- [267](http://www.nuforc.org/webreports/reports/163/S163244.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
