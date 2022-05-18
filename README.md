@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:39 on 18 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:34 on 18 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Potomac (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Bright yellow light followed (intercepted) by red pulsating lightI was running on a high school track in Montgomery County, Maryland at around 11:30PM on 5/18/2012.  I noticed a bright yellow light off in the distance, flying from the east to the north and then west in a circular path.Soon after I noticed the first light, a second, slightly dimmer, pulsating red light appeared from way above to the top and right, and descended on like an intercept path (45 degree angle), behind the yellow light.  It was flying far behind the yellow one and slight got closer and closer until it looked like it was literally 1 inch behind the other.  Then it kept following the other yellow one until they were both out of my vision through the trees.By this time, though 15 minutes must've passed since I first saw them and I literally had to turn around 360 degrees on the track to keep sight of the path.  It went from my right all the way around... it was really bizarre cause I never saw anything like that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95806.html](http://www.nuforc.org/webreports/reports/095/S95806.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Cuba (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>all ten of us watched this fly over our houses on a clear night with a full moon as its lights flashed simultaniously.the craft had three lights.  the first was white, then red, and then yellow.  they would flash or sometimes there would only be one color.  then sometimes they would just go out completely.  the craft was first spotted by the oldest child along with her boyfriend.  it was seen above abc investment and was moving very slow it then began to speed up heading west towards rolla,mo.  the neighbors then ran into my house and yelled for me to come out.  we are not people who believe in this but i personally can say i have never seen this time of air craft before.  this goes for the rest of us that saw this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12906.html](http://www.nuforc.org/webreports/reports/012/S12906.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/163/S163278.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163925.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163277.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163262.html)
-- [267](http://www.nuforc.org/webreports/reports/163/S163244.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
