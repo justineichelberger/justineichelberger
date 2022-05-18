@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:04:17 on 18 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:32 on 18 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Roanoke (VA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>orb-shaped ball of light that sat silent & still, then zoomed upward and out of sight.Walked out of the back door of the restaurant I worked in on Valley View Blvd., which is very close to the airport.  There was a small, completely silent orb shaped ball of light about 30 feet above the back parking lot.  I just stood and observed for a short time, then the object slowly moved directly upward, eventually gaining velocity and moving far from my sight.((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62661.html](http://www.nuforc.org/webreports/reports/062/S62661.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Fort Smith (AR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Orange lights seen from southern Fort Smith. Fort Chaffee military flares or UFOs ?I was sitting on my fathers truck last night when I noticed a circular orange light flashing for approx 4 seconds and then dissapearing and reappearing in the sky.   I called for my sister and her friend to come look.  The light continued to do this for about 5 minutes, dissapearing and then reappearing.  I can't give an approx measurement or altitude, but the lights were rather bright compared to that of a normal star and the altitude seemed low for military aircraft.  Although I do not know much of military aircrafts and dropping flares at night, there was no sound or smoke. I live pretty close to Fort Chaffee, so I assummed that if they were flares, then we could of heard the planes or seen the smoke, but I didn't rule that possibility out.  After the lights faded, my sister and I sat outside and they finally appeared in the same area about 10 minutes later.  The lights began to do exactly what they did before, but this time there was only 1 of them.  It disseapered for only a few seconds and repeared much higher than it was before, and then suddenly about 5 or 6 appeared at once around that orange light.   These did not move and remained in one place for only 4 seconds. Then one by one, starting from the end, they dissappeared.  Because they appeared in a straight line, I began to think they might have been flares.  I am not totally convinced that what we saw was an alien aircraft, but we heard/saw no planes nearby.  The only reason why I am considering this may have been a ufo is because as far as I know, as long as gravity exists, flares do not hover in the sky instead of falling down as they disappeared. The disappearence seemed dramatic instead of random flares being dropped at once and disseapearing altogether and the same time. I don't know if anyone else saw this and I don't know what to think of it. My sister and her friend are convinced that aliens are here in Arkansas to invade...  and as convincing as these theories may be, I still remain a bit skeptical on ufo sightings.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50616.html](http://www.nuforc.org/webreports/reports/050/S50616.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/163/S163278.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163925.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163277.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163262.html)
-- [267](http://www.nuforc.org/webreports/reports/163/S163244.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
