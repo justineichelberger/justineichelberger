@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:36 on 18 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:34 on 18 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Richmond (VA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Thought I was seeing a aircraft flying towards me from south to west as  I could see 2 lights that I took for wing tip lights. I watch for a couple of minutes and noticed that it was not moving. I watch a short time until I went to retrieve my camera and upon returning within a few minutes it began to seem to  become more defined and cigar shape with what seemed to be a small trail. I took several pictures but the object was at a great distance it appeared. The sun was just breaking the horizon and all stars had disappeared but you could still plainly see this object and I live in downtown so the street lights  block out quite a bit but this seemed to shine silver and I looked  through bonoculars about this time and it seemed to emmit light from the center and expand and contract. I when inside for a minute and came out to see if I could still locate it but it had disappeared. I just walked outside to see if I possible would see it again and I believe I am seeing it again this mornng but more to the south west but still at a 10 oclock angle.I will try to get a better picture or dvd. Could it be the shuttle or space station?((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70110.html](http://www.nuforc.org/webreports/reports/070/S70110.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Corvallis (OR) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Saw cigar shaped whitish/blue object with pulsing white and blue lights in sky near home depot in Corvallis, OregonOver the small field next to home depot parking lot in Corvallis, Oregon for about 20-30 seconds my adult daughter and I witnessed a cigar shaped object that was very pale in color, a very light white or silver, with pulsing white and blue lights... It seemed to be flying very slowly, with a couple of brief stops where it just sort of hovered there blinking. It was pretty low, low enough that we could both tell that it was not an airplane or a helicopter. I turned in the car to tell my daughter to get my phone out of my purse so I could record it but when we looked back mere seconds later it was completely gone....nowhere to be seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163278.html](http://www.nuforc.org/webreports/reports/163/S163278.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/163/S163278.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163925.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163277.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163262.html)
-- [267](http://www.nuforc.org/webreports/reports/163/S163244.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
