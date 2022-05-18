@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:07:01 on 18 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:04:17 on 18 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Belen (NM) reported seeing craft that fit the description of some 'Oval' over a period of approximately all night - all night minutes.</sub><blockquote><sub>It's about time someone else see those lights in the sky Id been watching them for over a year now.  I live in belen and see them all around the city.  They look like stars except they hang down low and blink; and if you look through binoculars you see the colors, red white blue green and sometimes orange.  Lately they've been on the westside, four of them.  Look And see.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81313.html](http://www.nuforc.org/webreports/reports/081/S81313.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Roanoke (VA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>orb-shaped ball of light that sat silent & still, then zoomed upward and out of sight.Walked out of the back door of the restaurant I worked in on Valley View Blvd., which is very close to the airport.  There was a small, completely silent orb shaped ball of light about 30 feet above the back parking lot.  I just stood and observed for a short time, then the object slowly moved directly upward, eventually gaining velocity and moving far from my sight.((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62661.html](http://www.nuforc.org/webreports/reports/062/S62661.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/163/S163278.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163925.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163277.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163262.html)
-- [267](http://www.nuforc.org/webreports/reports/163/S163244.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
