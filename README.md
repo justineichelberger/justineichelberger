@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:52 on 18 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:37 on 18 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in St. Joseph (MO) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Floating gray cylinder seen dropping down behind some treesI was sitting in the parking lot of a local grocery store waiting for a friend when I looked up in the sky and saw something shaped like a soda can floating around horizontally.  It was grayish-silver in color.  From my position it was about 40-45 degrees up and about the size of a business card held at arms length.  I heard no noise from it.  It then sunk very rapidly behind some trees still in a horizontal position.  About this time my friend returned and I told her about it.  We drove over to where I saw it drop down (about a mile away) but found nothing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50623.html](http://www.nuforc.org/webreports/reports/050/S50623.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Triangular object, flying slowly south, with seven bright lights pointing outward and down from bottom of craft.Triangular shaped craft, seven bright lights shining from underneath, none were blinking, all were very bright and pointing mostly straight down at slight angles to each other. No red or green lights were associated with the object. The object was black against the deep blue sky: the sun had already set, but the western sky was still a little bit light, making the outline of the delta shaped object fairly distinct. The object was travelling parallel to I-19, north to south, perhaps 1000 or 2000 feet in altitude above the Santa Cruz River. A single stream of blackish jet exhaust seemed to appear from the rear of the craft as it travelled southward, relatively slow.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63260.html](http://www.nuforc.org/webreports/reports/063/S63260.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/163/S163278.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163925.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163277.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163262.html)
-- [267](http://www.nuforc.org/webreports/reports/163/S163244.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
