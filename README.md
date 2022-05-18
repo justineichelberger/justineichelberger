@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:34 on 18 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:40 on 18 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Corvallis (OR) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Saw cigar shaped whitish/blue object with pulsing white and blue lights in sky near home depot in Corvallis, OregonOver the small field next to home depot parking lot in Corvallis, Oregon for about 20-30 seconds my adult daughter and I witnessed a cigar shaped object that was very pale in color, a very light white or silver, with pulsing white and blue lights... It seemed to be flying very slowly, with a couple of brief stops where it just sort of hovered there blinking. It was pretty low, low enough that we could both tell that it was not an airplane or a helicopter. I turned in the car to tell my daughter to get my phone out of my purse so I could record it but when we looked back mere seconds later it was completely gone....nowhere to be seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163278.html](http://www.nuforc.org/webreports/reports/163/S163278.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Dover (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>While driving north on RT. 74 my wife and I seen 3 green lights in the shape of a triangle change to blue then disappeared.  Was flying pretty low but not enough to see area between the lights</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141599.html](http://www.nuforc.org/webreports/reports/141/S141599.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/163/S163278.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163925.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163277.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163262.html)
-- [267](http://www.nuforc.org/webreports/reports/163/S163244.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
