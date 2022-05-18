@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:02:21 on 18 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:52 on 18 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Lubbock (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately constant - constant minutes.</sub><blockquote><sub>Strange flashing lights.looking north west of Lubbock see flashing green white and red lights every night after sunset cannot identify what craft is in same location every night.((NUFORC Note:  Possible sighting of a "twinkling" star??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134281.html](http://www.nuforc.org/webreports/reports/134/S134281.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in St. Joseph (MO) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Floating gray cylinder seen dropping down behind some treesI was sitting in the parking lot of a local grocery store waiting for a friend when I looked up in the sky and saw something shaped like a soda can floating around horizontally.  It was grayish-silver in color.  From my position it was about 40-45 degrees up and about the size of a business card held at arms length.  I heard no noise from it.  It then sunk very rapidly behind some trees still in a horizontal position.  About this time my friend returned and I told her about it.  We drove over to where I saw it drop down (about a mile away) but found nothing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50623.html](http://www.nuforc.org/webreports/reports/050/S50623.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/163/S163278.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163925.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163277.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163262.html)
-- [267](http://www.nuforc.org/webreports/reports/163/S163244.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
