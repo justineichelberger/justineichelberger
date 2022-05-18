@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:34 on 18 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:33 on 18 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Bowie (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>Very bright light in the sky over AnnapolisThe sky was clear and blue. at 3:15PM I was driving east on Route 50 from D.C. towards Bowie, and a very bright (stronger in intensity than, say, Venus) light suddenly appeared in the distant sky straight ahead at a 45-degrees position over the horizon, for approximately twenty five to thirty seconds.  Since Route 50 was congested I could only glance at it about five or six times during the 25-second period.  Each glance lasted about two to five seconds.  Then it was gone--just vanished.  I continued to watch where it had been until I got to Route 301 to turn off and there was no plane or dark object that would indicate an aerial vehicle producing it.  When I got home I checked the map and it appeared to have been high over Annapolis or Edgewater, Maryland, a distance of 17 miles from where I saw it.  But that's a guess--it could have been farther away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134279.html](http://www.nuforc.org/webreports/reports/134/S134279.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>saw & filmed a pulsating diamond shaped object which changed shape several times over Portland, Oregon about 9:30 PMSaw a stationary object while driving home, which was too close and bright to be a star.  There were no other stars visible in that portion of the sky. We pulled the car over and watched the object for about 5 minutes before proceeding home about a half an mile to get the HD Handycam to film it.  Recorded it on film for about 7 minutes from our backyard over the roof of the house behind us.  The object changed shape several times and pulsated brighter, mainly staying in a diamond shape.  There were also dark vertical lines which crossed the object periodically, and there was a darker circle or diamond shape in the center the object sometimes when the object was in a diamond shape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75464.html](http://www.nuforc.org/webreports/reports/075/S75464.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/163/S163278.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163925.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163277.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163262.html)
-- [267](http://www.nuforc.org/webreports/reports/163/S163244.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
