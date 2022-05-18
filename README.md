@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:37 on 18 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:06:10 on 18 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Triangular object, flying slowly south, with seven bright lights pointing outward and down from bottom of craft.Triangular shaped craft, seven bright lights shining from underneath, none were blinking, all were very bright and pointing mostly straight down at slight angles to each other. No red or green lights were associated with the object. The object was black against the deep blue sky: the sun had already set, but the western sky was still a little bit light, making the outline of the delta shaped object fairly distinct. The object was travelling parallel to I-19, north to south, perhaps 1000 or 2000 feet in altitude above the Santa Cruz River. A single stream of blackish jet exhaust seemed to appear from the rear of the craft as it travelled southward, relatively slow.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63260.html](http://www.nuforc.org/webreports/reports/063/S63260.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 360.0 - 360.0 minutes.</sub><blockquote><sub>Bubble like sphere seen in Phoenix sky,A bubble type shape was seen by many sitting in the sky above Phoenix today.  It reflected the light from the sun and was gone with nighfall. There was either a 2nd above Sedona, AZ or it moved.  The Federal Aviation Administration said the object appears to be a balloon. It was not showing up on FAA radar, which Gregor said could mean it is a small, non-metallic object. National Weather Service officials said that the object is not one of the agency's weather balloons.((NUFORC Note:  Confirmed high-altitude research balloon.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70099.html](http://www.nuforc.org/webreports/reports/070/S70099.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/163/S163278.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163925.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163277.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163262.html)
-- [267](http://www.nuforc.org/webreports/reports/163/S163244.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
