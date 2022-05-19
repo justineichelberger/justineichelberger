@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:23 on 19 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:42:06 on 19 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Lafayette Hill (PA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright, fast moving light vanished and turned into a cigar-shaped moving object before disappearing from view.Fast moving, large, bright light low in the sky from East to West.  Definitely Not a plane or satellite.  The light suddenly vanished without a trace. After a minute, a long, narrow cigar-shaped cloud appeared in the same place.  It looked like a con-trail from an airplane, but it was much shorter and there were no lights.  It continued West, but moved up and down in a random pattern as it moved quickly across the sky-  I've never seen a plane move in such a way.  It also kept fading in and out- sometimes appearing substantial and sometimes appearing to be just a cloud in a cloudless sky.  Then it vanished, too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118983.html](http://www.nuforc.org/webreports/reports/118/S118983.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Boise (ID) reported seeing craft that fit the description of some 'Cone' over a period of approximately  -  minutes.</sub><blockquote><sub>i saw them between 11:15 and 11:30 ((pm))they were three lights flying in a triangle shape an amber color then changed to red.  they just appeared in the sky and were flying towards the northwest. the only reason i see it was because it made a loud noise like “zoom” and it emitted two object of at least one that i could see after it passed by it left a white trail marking the direction it was going</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156567.html](http://www.nuforc.org/webreports/reports/156/S156567.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [312](http://www.nuforc.org/webreports/reports/163/S163541.html)
-- [311](http://www.nuforc.org/webreports/reports/163/S163320.html)
-- [310](http://www.nuforc.org/webreports/reports/163/S163297.html)
-- [309](http://www.nuforc.org/webreports/reports/163/S163285.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163291.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
