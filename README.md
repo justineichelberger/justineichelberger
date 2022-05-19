@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:39 on 18 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:37 on 19 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Elmer (NJ) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Summary : I was on the way home from my girl friends house at around 900 pm and as i passed by   centerton lake i witnesed a huge object sitting over the lake maybe only 50 feet or so. i slowed down and got a better look and it seemed to be a purple heart shaped object. i looked at it for a few more min to be sure i was really seeing something and then i raced home and called the police and filled a report. they called a few weeks later and asked me a few questions but i never heard from them again.the object was about 50 yards wide had the shape of a heart very purple even a dark purple as it got closer to the outer edges it was about 900pm at night and i was on my way home from my girlfriends house headed i believe north on centerton road passing bye centerton lake the date was around 5/18/92 i had just turned 17 2 months earlier i did file a report at the Bridgeton state police barracks in bridgeton NJ the weirdest thing about all of this is that i was talking about it at a  family          gettogether this past christmas and my aunt over heard some of what i was saying and it scared her to death because she says she saw the samething at the same spot in the 60s when she was a teenager.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03070.html](http://www.nuforc.org/webreports/reports/003/S03070.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in McDonough (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Very bright light moving northeast over our home.  The object did not have any flashing lights and was ten times brighter than the North Star.  The moon is full maybe adding to the brightness.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146179.html](http://www.nuforc.org/webreports/reports/146/S146179.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/163/S163278.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163925.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163277.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163262.html)
-- [267](http://www.nuforc.org/webreports/reports/163/S163244.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
