@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:46 on 19 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:38 on 19 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Ohsweken (Canada) (ON) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Number of witnesses: 2 Number of objects: 3 Shape of objects: Star-like lights in triangular formation  Full Description of event/sighting: Went outside May 19, about 10:30 with telescope to observe Comet Neat. At about 10:40 pm, in a small field, I was busy at the telescope when my boyfriend said, "Look at that" as he pointed nearly above us. At first I believed it was a shooting star. but then I noticed that there were 3 star like lights in a tight triangular formation. After a couple of seconds they vanished. My boyfriend said when he first saw them, he too thought it was a shooting star but then realized that there were 3 star-like lights traveling in a straight line. He said they suddenly fell into the triangular formation, then spun and one of the side lights took lead of the triangle. A few seconds later they were gone. The lights were nearly directly above, traveling from the south and headed north. They zipped right past Polaris before fading away. They emitted no noise, had no flashing lights, had no tails or left no jet streams. The entire event only lasted about 5 or 6 seconds. Thank you to the witness for the report. Brian Vike, Director HBCC UFO Research Home - Phone 250 845 2189 email: hbccufo@telus.net Website: http://www.hbccufo.com Redirect: http://www.brianvike.com Redirect: http://www.hbccuforesearch.com</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37122.html](http://www.nuforc.org/webreports/reports/037/S37122.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Laveen (AZ) reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>Ufo caught in slow motion nfacing South Moutain in Arizona.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148960.html](http://www.nuforc.org/webreports/reports/148/S148960.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [312](http://www.nuforc.org/webreports/reports/163/S163541.html)
-- [311](http://www.nuforc.org/webreports/reports/163/S163320.html)
-- [310](http://www.nuforc.org/webreports/reports/163/S163297.html)
-- [309](http://www.nuforc.org/webreports/reports/163/S163285.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163291.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
