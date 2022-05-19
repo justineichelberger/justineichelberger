@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:38 on 19 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:52 on 19 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Laveen (AZ) reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>Ufo caught in slow motion nfacing South Moutain in Arizona.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148960.html](http://www.nuforc.org/webreports/reports/148/S148960.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Nampa (ID) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Smallish triangle of lights slowly moving.My good friend and I were out late long boarding and messing around, when the sky became brighter for some odd reason.  We didn't think anything of it really until my friend looked up and her face was blank with expression.  Silenced. I looked up to see what she was looking at and it was a bunch of lights forming a smallish triangle slowly heading West.  After a couple seconds it speeded up and completely disappeared in the clouds.  I've never seen anything like it.  I didn't believe in aliens really until now. It makes my stomach turn just thinking about it.  I might sound crazy, but this wasn't just another strangely shaped airplane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156563.html](http://www.nuforc.org/webreports/reports/156/S156563.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [312](http://www.nuforc.org/webreports/reports/163/S163541.html)
-- [311](http://www.nuforc.org/webreports/reports/163/S163320.html)
-- [310](http://www.nuforc.org/webreports/reports/163/S163297.html)
-- [309](http://www.nuforc.org/webreports/reports/163/S163285.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163291.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
