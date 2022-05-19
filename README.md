@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:37 on 19 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:23 on 19 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in McDonough (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Very bright light moving northeast over our home.  The object did not have any flashing lights and was ten times brighter than the North Star.  The moon is full maybe adding to the brightness.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146179.html](http://www.nuforc.org/webreports/reports/146/S146179.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Lafayette Hill (PA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright, fast moving light vanished and turned into a cigar-shaped moving object before disappearing from view.Fast moving, large, bright light low in the sky from East to West.  Definitely Not a plane or satellite.  The light suddenly vanished without a trace. After a minute, a long, narrow cigar-shaped cloud appeared in the same place.  It looked like a con-trail from an airplane, but it was much shorter and there were no lights.  It continued West, but moved up and down in a random pattern as it moved quickly across the sky-  I've never seen a plane move in such a way.  It also kept fading in and out- sometimes appearing substantial and sometimes appearing to be just a cloud in a cloudless sky.  Then it vanished, too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118983.html](http://www.nuforc.org/webreports/reports/118/S118983.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [312](http://www.nuforc.org/webreports/reports/163/S163541.html)
-- [311](http://www.nuforc.org/webreports/reports/163/S163320.html)
-- [310](http://www.nuforc.org/webreports/reports/163/S163297.html)
-- [309](http://www.nuforc.org/webreports/reports/163/S163285.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163291.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
