@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:45 on 19 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:13:17 on 19 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Kent (UK/England) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>large black cigar shaped object, varying positions ,helicopter showed interest then flew away, object disappeared after 15 minutes or so</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37041.html](http://www.nuforc.org/webreports/reports/037/S37041.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Columbia (LA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>oval flourescent  colored ball coming right at us slowly, turned into four round balls of light just  sitting still in the skyMy husband and I were sitting on the back of the truck talking, then out of nowhere a great big  oval shaped ball, the color I can't even describe, I want to say a flourescent pink color, started coming right at us, so I thought. It was moving slowly. WE watched it for a few minutes before I told the rest of the family to look at it.  When they saw it, My aunt started running and screaming, Finally it looked as though it dissappeared. Okay we went into the screened porch area, and sat around and talked about it for about an hour or so, and then my son looked out in the sky and there it was again, except this time it was four round balls of light, the same color,but this time it had formed like a triangle shape in the sky. Several people passing on highway 165 south traveling north saw it because they all started sliding on brakes. The Sheriffs department was called about it, but I don't think they believed us.((QUERY))"Peter B. Davenport" <ufocntr@nwlink.com> wrote:Dear Mrs. ((name deleted)), Thank you very much for submitting the report! Is there any possibility that you may have been observing a laser-based advertising light?  Theyproject beams of light into the sky, and the beams can be swept across the sky, split into multiplebeams, etc.. You might contact a local advertising firm to resolve this possibility.  Even if they didn't operate the machine, they almost certainly would know if someone else was doing so. Thank you very much for taking the time to share the information with our Center!  We do not know what it was you observed, but we would like to know.  If you find the answer to the mystery, please let us know. Cordially, Peter Davenport((RESPONSE))Mr. Davenport, I,m sure this wasn't a laser beam, at first the object was moving, then it dissappeared.I'm almost positive this was a u.f.o.((END RESPONSE))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17716.html](http://www.nuforc.org/webreports/reports/017/S17716.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [312](http://www.nuforc.org/webreports/reports/163/S163541.html)
-- [311](http://www.nuforc.org/webreports/reports/163/S163320.html)
-- [310](http://www.nuforc.org/webreports/reports/163/S163297.html)
-- [309](http://www.nuforc.org/webreports/reports/163/S163285.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163291.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
