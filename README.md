@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:09:32 on 19 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:04:48 on 19 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Healthcare workers were standing on the roof of a parking garage at a local hospital in the shape of a heart for a photo shoot with a drone.  Several of the people noticed a white, circular object thousands of feet high over the group, while looking up to watch the drone.  The object was moving slowly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156548.html](http://www.nuforc.org/webreports/reports/156/S156548.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Pleasanton (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 33.0 - 33.0 minutes.</sub><blockquote><sub>While walking my dog I witnessed a constant &quot;herd&quot; of  hundreds of satellites travel across the sky for 33 minutes.While walking my dog on Tuesday from 9:45-10:18 ((p.m.)), I witnessed a constant flow of hundreds of satellites travel across the sky for roughly 33 minutes.The satellites were traveling from a north east to south west direction.  It looked as if someone cast a net of hundreds of satellites over the sky.  They traveled in the same direction were similar sizes and moved at the same constant speed.  The sky was so full of these satellites that it reminded me of watching rush hour traffic on the freeway.  I watched until the “satellite traffic” thinned out and cloud cover obstructed my view.I want to make it clear that I saw HUNDREDS of satellites and these were not the Star Link constellation or any type of meteor shower.  I am an avid sky watcher and know that these were satellites.  I realize that you collect UFO sightings, but I didn't know where else to share what I witnessed.  I’m curious to know if anyone else reported seeing them or if anyone knows what their purpose might be.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156579.html](http://www.nuforc.org/webreports/reports/156/S156579.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [312](http://www.nuforc.org/webreports/reports/163/S163541.html)
-- [311](http://www.nuforc.org/webreports/reports/163/S163320.html)
-- [310](http://www.nuforc.org/webreports/reports/163/S163297.html)
-- [309](http://www.nuforc.org/webreports/reports/163/S163285.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163291.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
