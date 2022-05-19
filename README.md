@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:01:30 on 19 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:35 on 19 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>1-2-3-4-Red/Orange orbs out at sea blink on for 30 seconds then gone. very strangeEvery yr for bike week Myrtle beach S.C. we rent the same house on the beach, It was around 10-11pm several of us watched a lightning storm for a good half hr or better after it died down, I (alone) looked out at sea from a upper deck of the house, when i noticed a red/orange light ball , it was to high off the ocean to belong to a ship and to low,fast, steady to be a aircraft. The moment i noticed it, it was bright for a 5 second count standing still, then suddenly shot left about 5 ft.,stopped, then it was gone(light went out) Several friends where standing behind me, but not paying attention to what i just seen, so i said "Hey, anyone just see that?" they all joked and broke my stones, then about 4 friends and myself where looking for what i just descibed, when suddenly 1-red/orange light popped on, then the 2nd light, 3rd, and 4th, they all where in line same height off the sea, same distance from eachother, they stayed on for about 30 seconds then they went off in the same order they came on 1-2-3-4. We waited to see if there was any more activity for approx. 15-20 minutes with nothing more. Then the discussion started, I was in the Marine Corps and I immediatly said too high to be a ship/boat, forget flares of any type, and forget after burner, 3 out of my 4 friends all admitted never have seen this ever and no one offered a logical solution to this event, we believe we saw something that is not normal maritime behavior or normal airline/flight behavior</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51909.html](http://www.nuforc.org/webreports/reports/051/S51909.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Quincy (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Huge triangle ship, with two smaller ships.While camping at Ancient Lakes, we first saw what appeared to be a single flashing white orb moving erratically, with some sort of beam that circled around the orb with various colors.  After about 5 minutes two additional white lights appeared that created an extremely large triangle with the first.At that point, the original orb seemed to be shining spotlights at the two additional lights, eventually creating an outline of the entire ship.  Shortly after, two additional smaller triangle ships appeared to the north and east of the large ship.This remained in the sky for approximately 15 minutes.  During this time our cell phones did not have service, then the service came back before morning.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134255.html](http://www.nuforc.org/webreports/reports/134/S134255.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [312](http://www.nuforc.org/webreports/reports/163/S163541.html)
-- [311](http://www.nuforc.org/webreports/reports/163/S163320.html)
-- [310](http://www.nuforc.org/webreports/reports/163/S163297.html)
-- [309](http://www.nuforc.org/webreports/reports/163/S163285.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163291.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
