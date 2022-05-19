@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:42:06 on 19 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:28:00 on 19 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Boise (ID) reported seeing craft that fit the description of some 'Cone' over a period of approximately  -  minutes.</sub><blockquote><sub>i saw them between 11:15 and 11:30 ((pm))they were three lights flying in a triangle shape an amber color then changed to red.  they just appeared in the sky and were flying towards the northwest. the only reason i see it was because it made a loud noise like “zoom” and it emitted two object of at least one that i could see after it passed by it left a white trail marking the direction it was going</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156567.html](http://www.nuforc.org/webreports/reports/156/S156567.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Holyoke (MA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>5 second sighting of rectangular objectWas driving on 91 north 1/2 mile or so from exit 17A/B and something caught my eye in the sky.  I looked up and saw a rectangular object with rounded ends; it was about the color of gun metal grey, leaning towards a brown color.  It did not appear to move sideways to me, but might have been coming towards me.  Approximately two seconds later the object "dipped" and the sun appeared to reflect off the object, turning the object bright white.  The object looked different as it moved/dipped, going from a rectangular object to something trapezoidal.  Almost immediately after this it disappeared, as if it "blinked" or was "switched" off.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70118.html](http://www.nuforc.org/webreports/reports/070/S70118.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [312](http://www.nuforc.org/webreports/reports/163/S163541.html)
-- [311](http://www.nuforc.org/webreports/reports/163/S163320.html)
-- [310](http://www.nuforc.org/webreports/reports/163/S163297.html)
-- [309](http://www.nuforc.org/webreports/reports/163/S163285.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163291.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
