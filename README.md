@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:01:38 on 19 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:45 on 19 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Mt. Clemens (MI) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Best I Can Describe Is A Flying Submarine.I Set Up My Telescope Early Because Skies Were Clear And The Moon Was Out And My Wife Was Viewing Moon Through Telescope When Something Bright Caught My Eye.With The Sun Low In The Sky The Reflection Was Really Bright.I Had A Pair Of Binoculars Right Next To Me And Grabbed Them While Yelling To My Wife What Is That.Several Jumbo Jets Could Be Seen In The Air Further Away And The First Thing I Noticed Was This Object Was Leaving No Trail Or Any Sound.While Viewing With Binoculars I Could See A Cigar Shaped Craft With A Dome In The Middle. Dome Had A Dark Stripe Horizontal Across The Middle And What Looked Like Some Kind Of Mast Or Antenna Sticking Up From Dome.After Handing Binoculars To My Wife So She Could See I Ran In The House And Called My Daughter To Come Out And Grabbed Another Pair Of Binoculars Out Of The Garage To Share With My Daughter.Craft Was Moving From Southwest To Northeast Much Lower Than Jumbo Jets In The Area But Higher Than Private Craft Fly.This Craft Seemed To Move Effortlessly Like It Was Floating Rather Than Propelled.As Craft Traveled Northeast It Came Out Of The Sun And Was Not So Bright And Easier To View.It Took About 3 Or 4  Minutes Until I Could Not See It Anymore.I Have Been Looking Up For Years At The Night Sky And Never Have I Seen Anything Like This.Best I Can Describe It Was A White Flying Submarine Shaped Craft With No Wings.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75477.html](http://www.nuforc.org/webreports/reports/075/S75477.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Kent (UK/England) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>large black cigar shaped object, varying positions ,helicopter showed interest then flew away, object disappeared after 15 minutes or so</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37041.html](http://www.nuforc.org/webreports/reports/037/S37041.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [312](http://www.nuforc.org/webreports/reports/163/S163541.html)
-- [311](http://www.nuforc.org/webreports/reports/163/S163320.html)
-- [310](http://www.nuforc.org/webreports/reports/163/S163297.html)
-- [309](http://www.nuforc.org/webreports/reports/163/S163285.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163291.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
