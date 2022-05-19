@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:04:48 on 19 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:34 on 19 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Pleasanton (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 33.0 - 33.0 minutes.</sub><blockquote><sub>While walking my dog I witnessed a constant &quot;herd&quot; of  hundreds of satellites travel across the sky for 33 minutes.While walking my dog on Tuesday from 9:45-10:18 ((p.m.)), I witnessed a constant flow of hundreds of satellites travel across the sky for roughly 33 minutes.The satellites were traveling from a north east to south west direction.  It looked as if someone cast a net of hundreds of satellites over the sky.  They traveled in the same direction were similar sizes and moved at the same constant speed.  The sky was so full of these satellites that it reminded me of watching rush hour traffic on the freeway.  I watched until the “satellite traffic” thinned out and cloud cover obstructed my view.I want to make it clear that I saw HUNDREDS of satellites and these were not the Star Link constellation or any type of meteor shower.  I am an avid sky watcher and know that these were satellites.  I realize that you collect UFO sightings, but I didn't know where else to share what I witnessed.  I’m curious to know if anyone else reported seeing them or if anyone knows what their purpose might be.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156579.html](http://www.nuforc.org/webreports/reports/156/S156579.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Quincy (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Huge triangle ship, with two smaller ships.While camping at Ancient Lakes, we first saw what appeared to be a single flashing white orb moving erratically, with some sort of beam that circled around the orb with various colors.  After about 5 minutes two additional white lights appeared that created an extremely large triangle with the first.At that point, the original orb seemed to be shining spotlights at the two additional lights, eventually creating an outline of the entire ship.  Shortly after, two additional smaller triangle ships appeared to the north and east of the large ship.This remained in the sky for approximately 15 minutes.  During this time our cell phones did not have service, then the service came back before morning.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134255.html](http://www.nuforc.org/webreports/reports/134/S134255.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [312](http://www.nuforc.org/webreports/reports/163/S163541.html)
-- [311](http://www.nuforc.org/webreports/reports/163/S163320.html)
-- [310](http://www.nuforc.org/webreports/reports/163/S163297.html)
-- [309](http://www.nuforc.org/webreports/reports/163/S163285.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163291.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
