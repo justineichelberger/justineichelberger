@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:05:05 on 20 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:40 on 20 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Ashland (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>gf and I spotted "star"; like object in the night sky that began gliding in the night sky seamlessly towards the east, and ongf and I spotted "star," like object in the night sky that began gliding in the night sky seamlessly towards the east, and once the spacecraft passed of the mountains and out of  sight... 40-60 Seconds later, a extremelely fiery bright "comet-like" object shot from east to west, streaked completely from east to west until disappearing over the western mountains. The obejct appeared to be wrapping around the horizon as i chased until i lost sight.  Also noticably throughout there we no aircrafts during the entire sighting of the spacecraft, and moments after the craft streaked through the air, 2 airplanes with regular airplane jet noises and lights flew over as if the experience never happened…((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141574.html](http://www.nuforc.org/webreports/reports/141/S141574.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Lenoir (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>A friend and I witnessed a possible UFO take off about 250 feet away.My 3 friends were having an all night video game hang out, and I went outside for a smoke break and they both followed.  We were sitting on the porch, and chatting.  1 of my friends was sitting on the steps of the porch and looking down (Possibly texting, I do not remember.)  And my other friend was a foot behind me and standing to my left.  Well we were at a trailer park, and around this trailer park it is heavily wooded. When you step out on the porch there is a tree line.  So, we were all talking outside on the porch laughing, and I had this funny feeling, like I was being watched.  I turned my head, and I saw it.  It was a cigar shape, with two VERY dim red lights on each end of the craft. It hovered there for 1 second, then it came up higher from the tree line into full view about 250-300 feet away from us and about 50-70 feet high.  Then it rose up higher, and made a 180 degree turn (Slowly) and shot up and out of sight, when it did this, it revealed its pointed front end (Triangle) so it came out of the woods, completely flat and appeared to be cigar shaped.  When it reality it was a triangle shape, the event lasted roughly 6-7 seconds. After this I was dumbfounded, and before the words could leave my mouth my friend that was behind me said, “Yea, I just saw it to. Oh my God.”  The friend on the steps didn’t see or hear a thing, and to this day thinks we were just yanking on his chain.  The lights we saw were so dim, that in all honesty you had to be looking for them in order to see them.  I still have no clue how we saw them.  A month or two later I got the nerve to look behind those woods.  And there was a woodless grassy area where I assume the craft took off from.  It was fantastic and scary, but I haven’t stopped looking up in the night sky ever since.(Note)- I called your hotline the day after this occured and I never found a report on it, on this website.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102845.html](http://www.nuforc.org/webreports/reports/102/S102845.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163328.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163478.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163323.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163386.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163326.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
