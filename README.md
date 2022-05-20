@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:36:02 on 20 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:23:23 on 20 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Lynden (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>1 stationary blue flashing orb with 8+ Red/Blue nearby heading towards silent lightning in the distanceMy wife and I noticed large flashing of lightning in the foothills behind our backyard.  It was difficult to see exactly where it was because it was inconsistent when we tried to look directly at it.  The lightning had no sounds of thunder afterwards as there weren't any clouds in the sky either.  My daughter woke up shortly after we saw the first flashes from a bad dream and noticed there was a blue flashing orb in the sky.  I gave her binoculars and had her point it out to us.  My wife and I saw a sky full of stars but no blue up where she was pointing.  I then got out our digital SLR camera and took a few shots where she was pointing and saw exactly what she was describing.  My wife and I were unable to see it but my daughter and the camera picked it up.  My daughter also noticed about 8 red/blue lights coming from the vicinity of the blue one heading towards to lighting near the foothills.  I took photos of the sky where she said they were but still my naked eye couldn't see what she saw however the camera did.  This went on for over an hour or two.  She also saw the stars squeeze and pull tight in a spot in the sky similar to what a black hole or worm hole is described.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119107.html](http://www.nuforc.org/webreports/reports/119/S119107.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Mobile (AL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was on my way home from work (overtime) and i was on this long road with trees on both sides of the highway.  The road was practically empty And i always have enjoyed looking at the stars on my way home,  But this time i saw about 8 different looking "stars".  They had a triangular shape witch is what really got me looking at them.  Since i was driving, i couldn't tell if it was because i was in a moving truck that the "stars" seemed to move quite a bit.  I pulled over to the side of the road and stared a little longer.  After watching them for about a minute i knew it wasn't a star, and definitely not planes.  I knew they werent planes because they seemed to move in circular motions.  And i was damn sure planes dont look yellow at night.  Thats when i knew it had to be a UFO. I hope i gave a good and helpful description.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81333.html](http://www.nuforc.org/webreports/reports/081/S81333.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163328.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163478.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163323.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163386.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163326.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
