@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:38 on 20 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:49 on 20 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Pleasant Hill (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Bright white cylinder, suspended at between 1000 and 1500 feet elevation above DVC college.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134234.html](http://www.nuforc.org/webreports/reports/134/S134234.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Lancaster (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Low flying,fast moving object, making abrupt turns and dissapeared at a steep ange below a small rise.At about 8:45 pm on Saturday. May 20 I was outside on my porch when I noticed an object coming from the SW and going to the NE. When first seen it was about 12 to 15 miles away and travelling at a high rate of speed at an altitude of between 500 and 1000 ft. I could not make out the shape but observed 6 or 7 bright white,randomly strobing lights in a horizontal line. The object continued on to a point beyond Saddleback Butte where it mad an abrupt 45 degree tun and headed to the north, still at a high rate of speed. It was at such a low altitude that it went behind two small rises in the butte. It continued noth for about a half a mile and made an abrupt 90 degree turn and came towards me. It then changed into one extremely bright white light and went down at a 60 degree angle, not reducing speed, dissapearing below a rise in the terrain that is about 200 to 300 feet higher in elevation than I am.My wife only observed the last 10 seconds as the object descended to the ground. This area is about 3 miles south of the boundary of Edward's AFB.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12937.html](http://www.nuforc.org/webreports/reports/012/S12937.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163328.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163478.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163323.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163386.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163326.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
