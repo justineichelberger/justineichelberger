@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:44 on 20 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:35 on 20 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in New York City (Bronx) (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>In the Bronx, one of the five boroughs of New York City, In a fourteenth floor apartment with a terrace,as I was smoking a cigarette in the terrace, I saw Three yellow orbes decend over my right side of view.  I was in awe.  They stood hovering for about three minutes.   One went in the direction over my building. I couldn't see where he was.  But the other two stood hovering were they decended from.  Shortly, the two orbes went east. One led the way the other followed.  Then the other that I couldn't see came back to follow the others.   I woke my mother from her sleep.  I didn't want to be the only one seeing this phenomena.  I wonder, did anyone else see what I saw.  Many people here go to sleep late.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109411.html](http://www.nuforc.org/webreports/reports/109/S109411.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Superior (MT) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Pictures of night-flying UFOs over Superior, MTI woke up and just stepped outside at 3 a.m. for some reason I don't know why and saw on a clear night two oval-shaped craft in the southwestern night sky moving west to east about 45 degrees off the horizon. I ran back inside and grabbed my digital camera (4 megapixal, 14x zoom) and began taking pictures. The first two craft had already flown past, but I have pictures of at least six others flying in an irregular formation. They mostly flew in straight lines in  somewhat of a formation across the sky, but occasionally some would hover or fly zig-zag patterns as if checking something out. Then they just all continued across the sky. They looked the same, all oval, with a central dark line through their middles, with blinking white lights inside that black line. They moved fast, slow, hovered, zig-zagged, then continued on.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37246.html](http://www.nuforc.org/webreports/reports/037/S37246.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163328.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163478.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163323.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163386.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163326.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
