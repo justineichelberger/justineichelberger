@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:35 on 20 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:39 on 20 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Goleta (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Four daylight orbs ascendingWeather conditions are cloudless, minimal haze, 5 knot westerly wind.  While in between games at my daughter's softball tournament I had a very brief thought of the 12 different anomalous flying objects I witnessed over a nine week period last fall.  This thought prompted me to have a glance at the sky.  All I saw was blue sky and one jet ascending out of LAX.  A moment later I looked up again to the east and saw what at first thought seemed like four helium balloons ascending separately a few hundred feet apart at an estimated 500 feet elevation.three appeared white and one had a dark metallic color.  Their trajectories at first were consistent with helium party balloons.  After three or four minutes watching the objects had receded from orb shape to point light sources and three of the four collard a convergent path while the fourth remained at a distance.  It was at this point that I expected the objects to appear as black dots and plane out with the upper level! winds if they were balloons.  Instead they appeared more and more as light sources getting continuously further away.  After ten minutes of continuous watching the lights were not discernible.((NUFORC Note:  Source of the report elects to remain anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134254.html](http://www.nuforc.org/webreports/reports/134/S134254.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Mentor (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Three orange/red orbs flying west, approximately 3500 ft in the sky, estimated to be traveling 500 mph.  Size of orbs possibly a round 300 feet round circumference.  The orbs were traveling at the same rate of speed, and maintained their distance before they were out of sight.  Also, witnessed by my wife.Video recorded from my balcony, approximately 20 feet high.  Estimations of height, size and speed are rough.  I'm not an engineer, however I am high school educated, some college (still going).Quick backckground info, my wife (college grad) and I are both white Americans,"millennials", and of sound mind.We have seen them before, myself around 10 times.  I will review my pictures and videos too ensure that they were time stamped correctly, and write reports on those as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127440.html](http://www.nuforc.org/webreports/reports/127/S127440.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163328.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163478.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163323.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163386.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163326.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
