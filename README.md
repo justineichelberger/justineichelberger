@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:37 on 20 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:39 on 20 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Kansas City (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Black, triangular object sighted during middle of day in large metro area.I had just been to a job fair held inside a large hotel at 46th and Main.  It is situated on the top of a large hill in the center of the city. I walked out the back entrance and was enjoying the weather-clear blue skies and 70 degree warmth-when I noticed what I thought was a stunt kite due to the shape of the object.  I watched it for a few minutes wondering where the individual was who was flying the kite when it tipped over, and became a sliver of black, perpendicular to the ground.  It appeared to circle around the city but was very hard to follow because it was so thin.  I got to my car and tried to drive to where I had last seen it so I could get a view from underneath but I was never able to do so. When I first saw the object it was angling up into the sky.  After it reached a height far above the rooftops, it tipped over.  It was probably as big as my thumbnail with my arm extended.  I couldn't hear a sound and kept thinking that I should hear *something*.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05952.html](http://www.nuforc.org/webreports/reports/005/S05952.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Fall River Mills (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>As my wife and I were traveling east on ca hwy299 we noticed 4 round orange/red objects in the sky then all of a sudden 2 of them moved slowly to the left then were gone and the other 2 moved to the right in a much faster manner then also disappeared .((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108662.html](http://www.nuforc.org/webreports/reports/108/S108662.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163328.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163478.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163323.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163386.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163326.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
