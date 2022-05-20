@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:12:01 on 20 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:44 on 20 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Henderson (NV) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Glowing lights in the Henderson skyI was looking to the west and there were 2 orange glowing objects going Up then over about when it got above me it disapeared. No sound. It was too High to be a drone. I called my neighbor out just do I wasn't the Only one seeing what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156635.html](http://www.nuforc.org/webreports/reports/156/S156635.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in New York City (Bronx) (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>In the Bronx, one of the five boroughs of New York City, In a fourteenth floor apartment with a terrace,as I was smoking a cigarette in the terrace, I saw Three yellow orbes decend over my right side of view.  I was in awe.  They stood hovering for about three minutes.   One went in the direction over my building. I couldn't see where he was.  But the other two stood hovering were they decended from.  Shortly, the two orbes went east. One led the way the other followed.  Then the other that I couldn't see came back to follow the others.   I woke my mother from her sleep.  I didn't want to be the only one seeing this phenomena.  I wonder, did anyone else see what I saw.  Many people here go to sleep late.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109411.html](http://www.nuforc.org/webreports/reports/109/S109411.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163328.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163478.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163323.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163386.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163326.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
