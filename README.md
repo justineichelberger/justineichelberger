@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:39 on 20 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:37 on 20 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Fall River Mills (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>As my wife and I were traveling east on ca hwy299 we noticed 4 round orange/red objects in the sky then all of a sudden 2 of them moved slowly to the left then were gone and the other 2 moved to the right in a much faster manner then also disappeared .((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108662.html](http://www.nuforc.org/webreports/reports/108/S108662.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Bunbury (Australia) () reported seeing craft that fit the description of some 'Circle' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>On Saturday night (20/05) whilst driving home I observed a circular blue light moving through the clouds.On Saturday night (20/05) whilst driving home at 21:00 I observed a circular blue light moving through the clouds.  It was an overcast/wet night and bright blue circle moved east to west through the clouds.  There was no lightning etc.   I do not believe it to be a satellite or plane (only small, light planes fly in this area).This occurred approximately 20km North of Bunbury, Western Australia, whilst driving South towards Bunbury.  I believe object to be at approximately 30 degrees to horizon.  Object was visible for a matter of seconds.  Passenger confirmed sighting, believed it to be unusual.Furthermore, on Monday, 22 May, whilst heading North to work (same area), at approximately 06:45, I noticed in the sky what appeared to be a contrail.  Cloud was a straight, narrow vertical line that looked very unusual and stuck out compared to the rest of the sky.  The only reason I really noticed this was because of the strange events on Saturday night.  I checked flight radar etc. and there were no planes in the area or nearby.  As indicated previously, only small planes fly in the area - contrails etc. are VERY uncommon.  Doubt this is related but thought it an odd coincidence.((NUFORC Note:  Source of the report elects to remain anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135024.html](http://www.nuforc.org/webreports/reports/135/S135024.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163328.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163478.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163323.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163386.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163326.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
