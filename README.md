@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:02:53 on 20 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:37 on 20 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Johnstown (PA) reported seeing craft that fit the description of some '' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>My name is ((name deleted)) and I live in Cambria County, PA.   Yesterday, 5/20/2018 sometime in the afternoon, I saw 3 objects very high in the sky.  All three were different in appearance and color.  But all three flew at the same speed and stayed in a triangular formation.  From my perspective one looked red, another orange like, and the other one possibly silver or grayish.  The red one looked like a sphere, and I can't recall what the other two were shaped like, I was drawn to their formation and the fact that all three were different than each other.   What drew my attention was the odd roar that these objects made.  Very loud for how high up they were.  At first I didn't see anything, and they sounded directly over head, but then a second later I saw them as they were about to exit my field of view.  By the time I saw them it was too late to grab my cell phone.  But I think they were too high anyway for a cell phone camera to see them clearly.  They were traveling ea! stward, at the same speed, in tight formation.   All three were different colors and different in shape to the others within their formation.   They were at least as high as any commercial airliner.  Higher than the cloud layer and flying fast.  I'm eager to find out if someone else seen this formation and possibly knows for sure what they were or if they were of some other origin.  I mean, I don't ever hear the jets that are leaving the chemtrails, but I sure heard these.  And they were easily as high as that.They weren't planes.  I don't know what they were but I sure know what they weren't, and they weren't planes, or meteors.  They were under intelligent control flying in a tight triangular formation towards the east.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141560.html](http://www.nuforc.org/webreports/reports/141/S141560.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Kansas City (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Black, triangular object sighted during middle of day in large metro area.I had just been to a job fair held inside a large hotel at 46th and Main.  It is situated on the top of a large hill in the center of the city. I walked out the back entrance and was enjoying the weather-clear blue skies and 70 degree warmth-when I noticed what I thought was a stunt kite due to the shape of the object.  I watched it for a few minutes wondering where the individual was who was flying the kite when it tipped over, and became a sliver of black, perpendicular to the ground.  It appeared to circle around the city but was very hard to follow because it was so thin.  I got to my car and tried to drive to where I had last seen it so I could get a view from underneath but I was never able to do so. When I first saw the object it was angling up into the sky.  After it reached a height far above the rooftops, it tipped over.  It was probably as big as my thumbnail with my arm extended.  I couldn't hear a sound and kept thinking that I should hear *something*.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05952.html](http://www.nuforc.org/webreports/reports/005/S05952.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163328.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163478.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163323.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163386.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163326.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
