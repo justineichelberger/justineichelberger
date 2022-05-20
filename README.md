@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:37 on 20 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:33 on 20 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Bunbury (Australia) () reported seeing craft that fit the description of some 'Circle' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>On Saturday night (20/05) whilst driving home I observed a circular blue light moving through the clouds.On Saturday night (20/05) whilst driving home at 21:00 I observed a circular blue light moving through the clouds.  It was an overcast/wet night and bright blue circle moved east to west through the clouds.  There was no lightning etc.   I do not believe it to be a satellite or plane (only small, light planes fly in this area).This occurred approximately 20km North of Bunbury, Western Australia, whilst driving South towards Bunbury.  I believe object to be at approximately 30 degrees to horizon.  Object was visible for a matter of seconds.  Passenger confirmed sighting, believed it to be unusual.Furthermore, on Monday, 22 May, whilst heading North to work (same area), at approximately 06:45, I noticed in the sky what appeared to be a contrail.  Cloud was a straight, narrow vertical line that looked very unusual and stuck out compared to the rest of the sky.  The only reason I really noticed this was because of the strange events on Saturday night.  I checked flight radar etc. and there were no planes in the area or nearby.  As indicated previously, only small planes fly in the area - contrails etc. are VERY uncommon.  Doubt this is related but thought it an odd coincidence.((NUFORC Note:  Source of the report elects to remain anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135024.html](http://www.nuforc.org/webreports/reports/135/S135024.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Hampton (VA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Daylight observation of strange shaped craft over interstate in populated area near local Air Force base.Driving to a movie yesterday evening..it was mostly cloudy. When we approached the Mercury Blvd. overpass on I-64N. I noticed a craft off to the left. I thought it was a pair of fighter craft in close formation as we were near the flight path of Langley Airforce base and sometimes two jets on approach blend into a strange shape. It became apparent that the object was not jets and not as far away as I first thought and it was a singular object, rather oblong and cylindrical or boxy with a smaller boxy protrusion about midway down the length off to our right. It was hard to determine how fast it was going as we were in a moving car, but it appeared to be floating as a balloon would. I would estimate the object was approximately 30-40 feet long and between 6-10 tall. It appeared to be dark gray and there were no lights on it at all that we could see. We were probably about 500 yards away at closest approach and it appeared to be about 100-150 feet up in the air.  There was a local police car stopped by the overpass and we later wondered if he has seen this as well and was taking a look at it.  Unfortunately, I wasn't able to get a good look at the object and am primarily interested in if anyone else saw this and knew what it was...I've seen many a strange thing in the sky over the years but most if not all I could explain away after a short time. This object has me bamboozelled as to what it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12927.html](http://www.nuforc.org/webreports/reports/012/S12927.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163328.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163478.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163323.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163386.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163326.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
