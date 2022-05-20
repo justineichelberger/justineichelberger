@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:40 on 20 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:05:05 on 20 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Tolland (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>2 red blinking orbs.2 red blinking orbs flying at a steady high speed approximetly 1 mile appart from each other. They where completly silent and I could not tell the shape of the objects. One of them stoped blinking completly for about 4 seconds,then started blinking again.  About 10-12 seconds after these objects dissapeared from my view i could hear the sounds of a loud jet but could not locate it. These objects appeared to be exactly the same as one another and where deffinetly not conventional aircraft.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75490.html](http://www.nuforc.org/webreports/reports/075/S75490.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Ashland (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>gf and I spotted "star"; like object in the night sky that began gliding in the night sky seamlessly towards the east, and ongf and I spotted "star," like object in the night sky that began gliding in the night sky seamlessly towards the east, and once the spacecraft passed of the mountains and out of  sight... 40-60 Seconds later, a extremelely fiery bright "comet-like" object shot from east to west, streaked completely from east to west until disappearing over the western mountains. The obejct appeared to be wrapping around the horizon as i chased until i lost sight.  Also noticably throughout there we no aircrafts during the entire sighting of the spacecraft, and moments after the craft streaked through the air, 2 airplanes with regular airplane jet noises and lights flew over as if the experience never happened…((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141574.html](http://www.nuforc.org/webreports/reports/141/S141574.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163328.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163478.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163323.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163386.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163326.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
