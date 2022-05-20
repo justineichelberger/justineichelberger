@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:33 on 20 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:49 on 20 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Hampton (VA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Daylight observation of strange shaped craft over interstate in populated area near local Air Force base.Driving to a movie yesterday evening..it was mostly cloudy. When we approached the Mercury Blvd. overpass on I-64N. I noticed a craft off to the left. I thought it was a pair of fighter craft in close formation as we were near the flight path of Langley Airforce base and sometimes two jets on approach blend into a strange shape. It became apparent that the object was not jets and not as far away as I first thought and it was a singular object, rather oblong and cylindrical or boxy with a smaller boxy protrusion about midway down the length off to our right. It was hard to determine how fast it was going as we were in a moving car, but it appeared to be floating as a balloon would. I would estimate the object was approximately 30-40 feet long and between 6-10 tall. It appeared to be dark gray and there were no lights on it at all that we could see. We were probably about 500 yards away at closest approach and it appeared to be about 100-150 feet up in the air.  There was a local police car stopped by the overpass and we later wondered if he has seen this as well and was taking a look at it.  Unfortunately, I wasn't able to get a good look at the object and am primarily interested in if anyone else saw this and knew what it was...I've seen many a strange thing in the sky over the years but most if not all I could explain away after a short time. This object has me bamboozelled as to what it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12927.html](http://www.nuforc.org/webreports/reports/012/S12927.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Wenden (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Light traveling extremely fast at very high altitude, present and then disappeared.Soon after dusk when sky became dark Just below Arcturus a very fast light was going traveling.  After 45 seconds it was no longer visible as if traveled further out of sight.  It was at a very high altitude and definitely not a plane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156571.html](http://www.nuforc.org/webreports/reports/156/S156571.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163328.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163478.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163323.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163386.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163326.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
