@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:39 on 20 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:37 on 20 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Mentor (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Three orange/red orbs flying west, approximately 3500 ft in the sky, estimated to be traveling 500 mph.  Size of orbs possibly a round 300 feet round circumference.  The orbs were traveling at the same rate of speed, and maintained their distance before they were out of sight.  Also, witnessed by my wife.Video recorded from my balcony, approximately 20 feet high.  Estimations of height, size and speed are rough.  I'm not an engineer, however I am high school educated, some college (still going).Quick backckground info, my wife (college grad) and I are both white Americans,"millennials", and of sound mind.We have seen them before, myself around 10 times.  I will review my pictures and videos too ensure that they were time stamped correctly, and write reports on those as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127440.html](http://www.nuforc.org/webreports/reports/127/S127440.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in High Point (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>This was my first siting and boy was this a real site to see!  One night me and my wife, back in roughly 2003, was living with my grandmother and knowing we could not smoke in the house decided to go out about 1:30am and have a cigarette.  We are always looking up in the sky but tonight was special.  Had we not looked up we would have never seen what I'm about to describe it was that quiet. We seen what I call the star trek enterprise.  The size of the spacecraft was so big, I'm talking at least 75 to 100 yards in length.  Slightly triangular but no real light effects none other than 2 red lights that was lite but not blinking on each side of the wings.  This spacecraft was least than 100 yards in the sky and had a speed of least than 100 mph.  The level of detail outside the ship was brownish/Gray colored with different levels to the ship.  We could not see any windows but you could tell it was able to house at 1000 UFO's or more.  What was so amazing about the siti! ng is that it was so quiet you could not hear a sound.  I wish we could of at least took a picture but back then cell phone barely had enough numbers to dial!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106491.html](http://www.nuforc.org/webreports/reports/106/S106491.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163328.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163478.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163323.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163386.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163326.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
