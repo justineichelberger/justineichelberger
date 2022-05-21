@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:09:13 on 21 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:40 on 21 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Santa Barbara () reported seeing craft that fit the description of some 'Rectangle' over a period of approximately a moment - a moment minutes.</sub><blockquote><sub>I have pictures of 2 flying squares that my wife took on our way to San Francisco to watch my daughter graduating SFSU.  I was discarding old picture and playing with the zoom, when I realized she got a picture of something</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120977.html](http://www.nuforc.org/webreports/reports/120/S120977.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in NASA-INTERNET TV (TX) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>STS 101 SHUTTLE & ISS DOCKING - AND UFOSDEAR FRIENDS; RE:  STS101  SHUTTLE/ SPACE STATION  (DAY 3) LIVE INTERNET BROADCAST MAY 21, 2000 am/CDT I HAD THE  SHOCK OF MY LIFE WHILE  WATCHING THE ASTRONAUGHTS ON THE INTERNET AS THEY PERFORMED THEIR DUTIES WORKING ON THE OUTSIDE OF THE SHUTTLE AND SPACE STATION.    THERE SUDDENLY APPEARED IN THE BLACK BACKGROUND OF SPACE, A SILVERY DISK WITH A SLIGHT DOME ON TOP, TILTED DOWN ABOUT 30^ .  THE TOP SURFACE  HAD A SILVERY RIPPLE , OR RINGS,   LIKE WHEN YOU DROP A PEBBLE IN A POND, MAKING A RINGS OR RIPPLE EFFECT.  IT APPEARED  JUST TO THE RIGHT OF THE SHUTTLE IN CLEAR VIEW AND  IT STAYED FIXED IN THAT SPOT FOR A FEW SECONDS (MAYBE 10 SEC.OR SO) THEN IT SEEM TO MOVE INSTANTLY  OFF TO THE LEFT AND DISAPPEAR BEHIND SHUTTLE/ISS.     I  COULDN'T BELIEVE WHAT I WAS SEEING. THE IMAGE OF THE BRIGHT SILVER DISK WAS VERY SHARP AND DISTINCT, IN FACT IT WAS MORE DEFINED THAN THE IMAGE OF THE ASTRONAUGHTS HANGING ON TO THE SPACE STATION.   A MINUTE OR TWO LATER, AS I CONTINUED WATCHING WITH GREAT ANTICIPATION, ANOTHER BRIGHT LIGHT APPEARED  BUT TO THE LEFT OF THE SPACE STATION (ISS),  BUT IT SEEMED TO BE FURTHER AWAY AND NOT AS SHARP.   IT ALSO STAYED FIXED FOR A FEW SECONDS THEN IT SUDDENLY BLINKED OUT AND DISAPPEARED.   ALL OF THIS TOOK PLACE DURING THE TIME THE ASTRONAUGHTS  BEGAN WORKING ON THE SHUTTLE ARM (RUSSIAN CRANE ARM) ON THE OUTSIDE OF THE SHUTTLE AND BEFORE THEY RETURNED TO THE SHUTTLE BAY.    IF THE CAMERA TAKING THE PICTURES WAS ON THE INSIDE OF THE SHUTTLE IT MAY HAVE BEEN A REFLECTION OF SOMETHING FROM THE INSIDE GLASS.   I WISH I HAD A COPY OF THE NASA BROADCAST OF DAY 3 TO REPLAY.   IF YOU KNOW  ANYONE WHO RECORDS NASA BROADCASTS PLEASE LET ME KNOW.   THE FIRST PERSON I THOUGHT OF WAS RICHARD HOAGLAND BUT I DON'T HAVE AN E-MAIL ADDRESS FOR  HIM. I HAVE SINCE BEEN CONTACTED BY ANOTHER GENTLEMAN WHO SAYS HE SAW APPROXIMATELY THE SAME THING I SAW.  IF ANYONE ELSE SAW  WHAT I DESCRIBED PLEASE CONTACT ME.   I HAVE SEEN A REPORT ON "WWW.SIGHTINGS.COM" WHO OBSERVED BRIGHT LIGHTS APPEARING NEAR THE TAIL OF THE SHUTTLE.  A UFO RESEARCHER SENT ME A SEQUENCE OF STILL PICTURES SHOWING A BRIGHT LIGHT THAT LOOKED LIKE THE BRIGHT FUZZY LIGHT I REPORTED.   IF  ANYONE ELSE HAS ANY OPINION OR INFORMATION,  I WOULD APPRECIATE HEARING FROM YOU.  I WOULD LIKE TO KNOW IF ANYONE ELSE SAW SOMETHING SIMILAR. THANKS.         A SHOCKED,  VIEWER ((e-address deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13070.html](http://www.nuforc.org/webreports/reports/013/S13070.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/163/S163455.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163363.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163349.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163438.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163361.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
