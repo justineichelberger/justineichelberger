@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:35 on 21 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:36 on 21 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Langehorne (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Looked like star, but we could tell it was in the atmosphere.My wife and I were parked on the edge of the lake at core creek park.  We were talking for a while and we noticed an object that looked like a star.  We could tell it was in the atmosphere, and it came from the southeastern sky.  The object was moving at an unbelievable speed, and it stopped on a dime, instantly.  We kept watching it, and it stayed there for 10 to 15 seconds.  Then, it instantly, and with great speed, shot to the right, and stopped instantly.  Now, from the distance we were viewing it, it must have been traveling miles, but did it within a split second.  The object stayed in that spot for another 10 to 15 seconds.  Then, it shot to the left with the same incredible speed, and stopped again, effortlessly.  The object repeated this back and forth, zig zag, about eight times, while staying in one spot, each time it stopped, for 10 to 15 seconds.  From where we were viewing it, it made the shape of a triangle, and when it got to the top, it shot up, out of the atmosphere, again, with great speed.  This was our first sighting, and we were spooked, to say the least.  It was incredible, all of our skepticism was over, now we new ufo's were real.  Until you see a ufo for yourself, it is hard to believe; we are far from crazy.((NUFORC Note:  One of three reports from the same, seemingly credible, source.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53604.html](http://www.nuforc.org/webreports/reports/053/S53604.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Santa Ana (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>White L shaped lights in Santa Ana, CA.Looked like an L shaped lights at least 5 of them disappearing downward into a v shape and gone.  After about a 1 min or 2 it appeared againg straight from where they were first seen at.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118963.html](http://www.nuforc.org/webreports/reports/118/S118963.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/163/S163455.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163363.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163349.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163438.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163361.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
