@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:35 on 20 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:51 on 21 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Ventura (CA) reported seeing craft that fit the description of some 'Cone' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>It was amazingI was working at my part time job at McDonalds located in Ventura and it was a regular busy night. Every night I have to take the trash out to the big trash bins around 9:30 p.m. These trash bins are across the parking lot of the shopping center so it is quite a walk for me. It was May 20, 2002 and it was a dark night. When I went out to put the trash out I spotted lights flashing across the sky like the search lights that you sometimes see for airplane landings. These did not look like searching lights but I ignored them and went back to doing my job because I was getting off early. A while later I was pulling out of my job and I saw the lights again. They were flashing now up on the hills of Ventura up by the two trees. I drove closer but all I could see were the bright green lights. Then I heard a huge noise like a door was slamming but not a regular door, like a metal door. After the loud noise the lights disappeared and there was wind surfacing my car. Since I had the windows down it blew throughout my car and then everything stopped like nothing had happened. I am reporting this as a UFO sighting because I don’t know what else it could be. I could barley make out what it was but it looked to resemble a cone shaped object.((NUFORC Note:  This is one of a flurry of reports we received from Ventura County, CA, following three telephone calls we received on May 18, 2002, from a raucous student party.  The reports seemed to us to be not convincing at the time of the call, a fact which we shared with the callers.  Shortly afterwards, approximately a dozen reports were submitted from that area.  We have no way of confirming any of these reports.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22966.html](http://www.nuforc.org/webreports/reports/022/S22966.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Clifton (NJ) reported seeing craft that fit the description of some 'Oval' over a period of approximately  -  minutes.</sub><blockquote><sub>gray/silver oval shaped flying object flying a little above tree levelOn May 21, 2012, while driving in Clifton, NJ, I was distracted by an image on an oil truck driving ahead of me.  I was able to get a quick picture of it as I was driving.  After observing the picture later in the day I noticed something in the top corner of the shot.  It looked like an oval shape that didn’t seem to be any type of familiar object.After zooming in to get a better look, it occurred that the object looked similar to a UFO.After viewing the picture a few times I was unable to come to any other conclusion.  I believe I captured the image of a UFO passing over RT 3 in Clifton, NJ.  I returned to the site several hours later to see if the object was still there but it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89134.html](http://www.nuforc.org/webreports/reports/089/S89134.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163328.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163478.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163323.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163386.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163326.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
