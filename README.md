@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:36 on 21 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:34 on 21 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Whitney (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Very strange, big, bright lights, moving quickly, slowly, and also hovering that change directions quickly.I was sitting in the drive way of my friend's home and I looked towards Dallas,and I saw a few bright lights, I have never seen anything like it before.  I went and got my friends and they came out to the road and we watched them, so after a while one of these lights fades out but we still see flashing light I thought it might be a helicopter but it flew over us we seen a triangle light pattern and the lights were not blinking in the same sequence.  They came rising up from a tree line of a near by farm house.  This place is in the middle of no where, its all farm land, no air ports or air strips for miles.  They literally looked to be rising from the field.  Some came from another directions and joined them. Repeatedly the bright white lights would shine and we could see them hovering and landing or taking off, then the white light would disappear and you could only see the blinking lights.  There was no noise at all though.  One of them looked to be going straight up very quickly and only moments before it was on the ground it seemed, and then it was almost out of site after a moment.  There were probably like 10-13 of them not to mention the ones flying by that seemed to join them.   Me and my friends got freaked out. My girlfriend and I went back home and as we were passing threw town I saw more lights like a set of lights side by side and it seemed not to be moving.  So I pull over and get out the car I could not hear nothing at all and it seemed to be moving very slow so I watched it and it was moving away I could see it was just like  the ones I had seen earlier at my friends house, then I go home. While I was pulling in the drive way it started coming back towards my home, opposite of the direction I had seen it moving in earlier.  I've never been so creeped out...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97818.html](http://www.nuforc.org/webreports/reports/097/S97818.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Decatur (AL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>We saw 3 lights in a triangle shape.  They were pulsing and at one point they seem to stack on top of each other.  They seem to change color.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146156.html](http://www.nuforc.org/webreports/reports/146/S146156.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/163/S163455.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163363.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163349.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163438.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163361.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
