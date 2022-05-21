@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:45 on 21 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:01:01 on 21 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Lynnwood (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Bright vanishing amber orb seen for several seconds.Single amber light, at first thought to be Mars but in the wrong position.  Shone very brightly then winked out over several seconds.  No noise and no aircraft lights seemed to have been associated with the event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89117.html](http://www.nuforc.org/webreports/reports/089/S89117.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Zion National Park (UT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright Orbs in Zion National Park.After traveling from Bryce Canyon to Zion National Park, we stopped by the side of the road.  I stepped out of the car and began taking my pictures of the scenery.  While not observing anything out the ordinary during the picture taking, it was after resuming our drive through the park I took some time to examine the recently taken pictures that I noticed the extremely bright orbs in two of the pictures I had just taken.((NUFORC Note:  Source of report indicates that the date of the event is approximate.  PD))((NUFORC Note:  This report originally was posted for the State of Florida, as indicated by the witness.  However, Zion N.P. is in Utah, and we have corrected the error, as of March 18, 2016.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121670.html](http://www.nuforc.org/webreports/reports/121/S121670.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/163/S163455.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163363.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163349.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163438.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163361.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
