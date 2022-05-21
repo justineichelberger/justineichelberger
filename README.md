@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:42 on 21 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:35 on 21 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Lacey (WA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 50</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156856.html](http://www.nuforc.org/webreports/reports/156/S156856.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Ormond Beach (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>My husband and i live right next to the Halifax River and approximately a mile from the Granada Bridge.  There are several park benches along a pathway beside the river across from our house, and we walked over there this evening to have a break and to enjoy the evening in the night skies.  And looking toward what would be the end of the Granada bridge going into A1A at the beach, we noticed three round lights they were spread pretty far apart from each other, and although all three lights are lit at one time, when one light would go off another one would come on, and then another one would go off and another one would come on.  It was just real slow and silent.  And it was in one position for a little while and then it went off completely, and then it was in a different position in another location just probably several feet from that one, and it was not running in a straight line.  And then it turn completely off for a bit, and then it showed back up again completely in another location & the lights kept doing that same thing.  And then they all went off again. And we didn't see it again after that.  And we walked back over to the house.  Not sure what we saw, but it was definitely not an airplane, because he was moving in an erratic pattern.  And it made no noise as it hovered what seemed like just you know maybe a mile above the building line.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146159.html](http://www.nuforc.org/webreports/reports/146/S146159.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/163/S163455.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163363.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163349.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163438.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163361.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
