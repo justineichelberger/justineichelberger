@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:07:34 on 21 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:41 on 21 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Mecca (Saudi Arabia) () reported seeing craft that fit the description of some 'Disk' over a period of approximately random photo - random photo minutes.</sub><blockquote><sub>The bottom of the disc appeared reddish with distinct four bright white bulbs-like lights.MASSIVE “UFO” HOVERING OVER MECCA   Wow!  I may have taken unknowingly a photo of what appears to be a massive UFO hovering over Mecca. There are so many lights in the mosque at night that an object regardless of how big may pass unnoticed over the massive building.  It appeared in two of the pictures I took.  It is a little further in one but had moved closer in the other (picture above). I took this photo in the evening of May 21, 2011. I was in Mecca for an "umrah pilgrimage" with my brother and his family.  I didn’t notice the strange disc until 11 days later (June 2) while I was dragging the photos into a folder.The clock tower is not only the biggest clock in the world; it is the second tallest building in the world; second only to the Burj Khalifa in Dubai so you can have an idea of the height where the UFO was hovering.(Photo on my blog: beyond666-acson005.blogspot.com)((NUFORC Note:  We have looked at the photo, and we cannot rule out the possibility that the peculiar object might be the result of a lens flare from the objective lens of the camera.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81640.html](http://www.nuforc.org/webreports/reports/081/S81640.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Dover (NH) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>I was walking the dog  at 2:00 am, looked up at the stars, and immediately, straight up was a bright strobe, like the size of a pencil diameter.  Not immediately, but maybe almost a second later a dim streaking light moving rapidly outward and gone.  Wow!  No noise.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123150.html](http://www.nuforc.org/webreports/reports/123/S123150.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/163/S163455.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163363.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163349.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163438.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163361.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
