@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:33 on 21 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:31 on 21 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Oklahoma City (OK) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>White, flat UFO in South Oklahoma CityI was driving east on the Southside of Oklahoma City, when I saw what I thought was a white bird.  I then realized that it didn't have any wings to flap, and it was very still.  It was briefly going south when I saw it, and it, and then disappeared into thin air.  It had nothing to hide behind, but it was there one second and gone the next.  It was white in appearance, and not very large, but was maybe 150 feet away from me?  There was no doubt in my mind that it was a UFO.  There were some clouds behind the object, and that's how I knew it had disappeared into thin air.  Like I said, it was white and sort of flat and long.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118961.html](http://www.nuforc.org/webreports/reports/118/S118961.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Toronto (Canada) (ON) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>triangle 8 yellow lights over Toronto, Ontario, CanadaAround 8:00 tonight i was driving in my car and saw a triangle of about 8 yellow lights in the sky.  I only saw it briefly as I went into a tunnel and when I came out it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81374.html](http://www.nuforc.org/webreports/reports/081/S81374.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/163/S163455.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163363.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163349.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163438.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163361.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
