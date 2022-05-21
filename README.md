@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:36 on 21 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:41 on 21 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Idukki (India) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>It is rotating.  It is circular shaped.  It contain with lights like LED.  It did not make sound or noise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119088.html](http://www.nuforc.org/webreports/reports/119/S119088.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bark River (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 143.0 - 143.0 minutes.</sub><blockquote><sub>red white light low in the skyI have noticed tonight in the western/northern sky a light object not very high above the tree line.  This object has lights on it, but I can’t get a good view of it with anything I got to look through.  Sorry not able to get a good picture. I have always noticed an object in the southwestern sky about this same height. I asked my son about the object and he said the same thing about it. Could it be that same object that was in the southwestern sky?  It just so far apart from where is normally. I noticed this object about 8:45PM EST and not at 11:07PM and it is gone!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89112.html](http://www.nuforc.org/webreports/reports/089/S89112.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/163/S163455.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163363.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163349.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163438.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163361.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
