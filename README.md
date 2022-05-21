@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:34 on 21 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:38 on 21 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>At approximately 11:30A.M. PDT, I witnessed a strange glowing object appear from out of the thick cloud covered sky and literally drop vertically, it disappeared from my point of view. I was looking out of my window, located on the fourth floor in condo building facing north to the city. The object appeared out of the clouds and was at first extremely bright round in shape then it turned fire engine red, the object became elongated turning into more of a rectangle The object then morphed and an extended a long ladder like formation underneath of it. Its size in relationship to a fully visible sun appeared to be at least 3 suns.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63457.html](http://www.nuforc.org/webreports/reports/063/S63457.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Orland (ME) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>I was driving home and saw two light objects low under clouds moving very slowly.  Then saw six others come out of the clouds not in any pattern.  They were larger than any stars, three times the size approximately.  They were  orangish and red and looked like light and were round in form.  They moved very slowly and were headed East to West.  I called my daughter, she was driving ahead of me on the road, then pulled over with two other cars.  I got out and went to talk with the people in front of me.  They did not know what they were either and we could hear nothing.  I was very scared.((NUFORC Note:  We spoke via telephone with this witness, and we found her to be an exceptionally well-spoken person.  We suspect that she is an quite capable, and credible, witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81495.html](http://www.nuforc.org/webreports/reports/081/S81495.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/163/S163455.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163363.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163349.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163438.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163361.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
