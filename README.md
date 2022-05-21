@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:38 on 21 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:36 on 21 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1984, an anonymous witness in Longview (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Triangle object no lights no soundI just saw the ABC speicial and had goosebumps. Approx 1984-85 I was living in Longview,Texas..in town in a residental area. It was a clear night and I had went outside comming out of the garage into the driveway facing east. I looked up and saw a large Triangle shaped object fly directly overhead at a low altitude (500 -1000 Feet?}. It's flight path was aprox south-west. There where no lights but I could clearly see the outline of the craft against the night sky. There was no engine noise at all but I could hear the craft push the through the air, almost like a glider. This was no glider..It was flying under power. I had only told two people this. Then tonight (2-24-05} when the ABC special was comming on I told my 9 year old daughter what happened. Then I saw on the special about the triangle crafts that made no sound..WOW.((NUFORC Note:  Witness indicates that date of sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42220.html](http://www.nuforc.org/webreports/reports/042/S42220.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Idukki (India) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>It is rotating.  It is circular shaped.  It contain with lights like LED.  It did not make sound or noise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119088.html](http://www.nuforc.org/webreports/reports/119/S119088.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/163/S163455.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163363.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163349.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163438.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163361.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
