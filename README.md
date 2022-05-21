@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:41 on 21 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:42 on 21 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Dover (NH) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>I was walking the dog  at 2:00 am, looked up at the stars, and immediately, straight up was a bright strobe, like the size of a pencil diameter.  Not immediately, but maybe almost a second later a dim streaking light moving rapidly outward and gone.  Wow!  No noise.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123150.html](http://www.nuforc.org/webreports/reports/123/S123150.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Lacey (WA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 50</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156856.html](http://www.nuforc.org/webreports/reports/156/S156856.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/163/S163455.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163363.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163349.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163438.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163361.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
