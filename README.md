@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:51 on 21 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:05 on 21 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Clifton (NJ) reported seeing craft that fit the description of some 'Oval' over a period of approximately  -  minutes.</sub><blockquote><sub>gray/silver oval shaped flying object flying a little above tree levelOn May 21, 2012, while driving in Clifton, NJ, I was distracted by an image on an oil truck driving ahead of me.  I was able to get a quick picture of it as I was driving.  After observing the picture later in the day I noticed something in the top corner of the shot.  It looked like an oval shape that didn’t seem to be any type of familiar object.After zooming in to get a better look, it occurred that the object looked similar to a UFO.After viewing the picture a few times I was unable to come to any other conclusion.  I believe I captured the image of a UFO passing over RT 3 in Clifton, NJ.  I returned to the site several hours later to see if the object was still there but it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89134.html](http://www.nuforc.org/webreports/reports/089/S89134.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Sabina (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>((NUFORC Note:  Source of report provides no information.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109644.html](http://www.nuforc.org/webreports/reports/109/S109644.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/163/S163455.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163363.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163349.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163438.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163361.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
