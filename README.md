@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:38 on 21 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:07:34 on 21 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Orland (ME) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>I was driving home and saw two light objects low under clouds moving very slowly.  Then saw six others come out of the clouds not in any pattern.  They were larger than any stars, three times the size approximately.  They were  orangish and red and looked like light and were round in form.  They moved very slowly and were headed East to West.  I called my daughter, she was driving ahead of me on the road, then pulled over with two other cars.  I got out and went to talk with the people in front of me.  They did not know what they were either and we could hear nothing.  I was very scared.((NUFORC Note:  We spoke via telephone with this witness, and we found her to be an exceptionally well-spoken person.  We suspect that she is an quite capable, and credible, witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81495.html](http://www.nuforc.org/webreports/reports/081/S81495.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Mecca (Saudi Arabia) () reported seeing craft that fit the description of some 'Disk' over a period of approximately random photo - random photo minutes.</sub><blockquote><sub>The bottom of the disc appeared reddish with distinct four bright white bulbs-like lights.MASSIVE “UFO” HOVERING OVER MECCA   Wow!  I may have taken unknowingly a photo of what appears to be a massive UFO hovering over Mecca. There are so many lights in the mosque at night that an object regardless of how big may pass unnoticed over the massive building.  It appeared in two of the pictures I took.  It is a little further in one but had moved closer in the other (picture above). I took this photo in the evening of May 21, 2011. I was in Mecca for an "umrah pilgrimage" with my brother and his family.  I didn’t notice the strange disc until 11 days later (June 2) while I was dragging the photos into a folder.The clock tower is not only the biggest clock in the world; it is the second tallest building in the world; second only to the Burj Khalifa in Dubai so you can have an idea of the height where the UFO was hovering.(Photo on my blog: beyond666-acson005.blogspot.com)((NUFORC Note:  We have looked at the photo, and we cannot rule out the possibility that the peculiar object might be the result of a lens flare from the objective lens of the camera.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81640.html](http://www.nuforc.org/webreports/reports/081/S81640.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/163/S163455.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163363.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163349.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163438.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163361.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
