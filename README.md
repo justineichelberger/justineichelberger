@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:38 on 22 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:36 on 22 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Clovis (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 00:15 - 00:15 minutes.</sub><blockquote><sub>Observed on video during electrical storm. did not see with naked eyes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109631.html](http://www.nuforc.org/webreports/reports/109/S109631.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Madera (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>It midnite dark as i was looking the stars. I was outside because I had forgoten to put out the cans at on the street.  As I was looking at the stars, I observed an object that was from the east about the attitude of an aircraft.  Although it was not making any sound.  Object had at least three to four lights, green and red.  As it silently went by above me across the night sky disappearing towards west.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134230.html](http://www.nuforc.org/webreports/reports/134/S134230.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/163/S163350.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163369.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163476.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163334.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163356.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
