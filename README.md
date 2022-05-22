@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:38 on 22 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:35 on 22 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Ottawa (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Two lights shape and size of a star flying very high and very fast  SW toward NE side by side one of them changing courseThis occured two nights in a row! Last night around 22:00 I was alone And tonight at 22:20 I was with my son  Last night I was outside walking the dog when as usual I looked at the sky way up over my head and saw two lights, shape and size of a star flying very high accross the sky side by side coming from( South West going toward North Est (this is Approx)then suddendly one of them changed direction and turned about 30 degree toward  west. They were very very high and going at and incredible speed. Tonight we saw again two lights, same kind of lights they were farter East but on the same course, they seemed to travel side by side without splitting appart. we did not look for a long time I lost them over the tall pines. And since we freaked a bit we came back quickly home...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28898.html](http://www.nuforc.org/webreports/reports/028/S28898.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Spokane Valley (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Giant Orange OrbMy husband woke me at 3:11am told me come outside. He and our daughter were having a snack in the kitchen and noticed a bright orange light to the southwest. We went outside and at first it was disk shaped but it turned out to be obscured by clouds. It was actually a GIANT ORANGE GLOBE. I MEAN GIANT.  It was bright bright orange but, the color was swirling and changing. There was a light that light was spinning horizontally. There was no physical craft, just light. The clouds were moving around it but it was stationary from our angle.  It eventually looked like it was moving away from us a disappeared to the west. This took 10 seconds. We watched for a total of 10 min. It was huge. I bet you can find a security camera that caught it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163359.html](http://www.nuforc.org/webreports/reports/163/S163359.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/163/S163350.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163369.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163476.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163334.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163356.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
