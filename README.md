@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:18:32 on 22 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:01:31 on 22 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Simi Valley (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>A large amber light released a smaller amber light, which descended and disappeared, leaving the original light in 2 pieces (25 mins.).An amber light northeast of Simi Valley, shined VERY clearly through cloud coverage, suspended in 1 place for at least 20 minutes, before another smaller light descended from the original. After it's descent, it took approx. 20 seconds for the 2nd light to disappear, and when it did, it did not appear to change in size, it just disappeared. The 2nd light remained, but it was now 2 smaller amber lights, instead of 1 large light. This light remained still, for 2 minutes before heading north, and ultimately out of site.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63519.html](http://www.nuforc.org/webreports/reports/063/S63519.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Franklin Park (IL) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>A yellowish-orange glowing shape rotating counter clockwise on what appeared to be an assymetrical axis.I was in my yard looking at the sky and having a smoke.  To my west, I saw a bright flash of light like a camera flash, but pinpoint in size.  A dim light appeared at that point, far off.  It slowly traveled to the North for about 1 minute or so, then made a  wide, circular curve - clockwise until it headed ESE.  My view was obstructed for about 15 seconds by trees.  Once I was able to view it again, it was heading ESE towards my area.  As it approached, I began to see color and shape.It passed directly overhead in a more Easterly direction and continued until it could no longer be seen.  The object appeared to be traveling slowly, but if it was farther off than I percieved it may have been moving much faster.It was glowing an Orange-Yellow color, and the lights on the bottom of it appeared to be segmented into three rectangular shapes, nearly the same in shape and size.  There was a halo of light surrounding it that was more yellow in color and appeared misty.  That is how the teardrop type shape was seen.The object was rotating counter-clockwise on what appeared to be an asymmetrical axis at about 1 revolution every 3 or 4 seconds.  The revolutions and latteral speed were constant.  Though the defining lines of the object could not be seen clearly, I got a distinct view of the underside as I described it.I called my step-daughter out to see it but the only view of it that she briefly saw was a rotation seen in the distance as it left our field of vision.  Not nearly as clear as my view had been during the duration that I experienced.I wish I had my camera.  This would have made an incredible video- the likes of which I have never seen.  This is the second UFO sighting I have had in two years, the first of which was even more breathtaking.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44109.html](http://www.nuforc.org/webreports/reports/044/S44109.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/163/S163350.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163369.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163476.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163334.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163356.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
