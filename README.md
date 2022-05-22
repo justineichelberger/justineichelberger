@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:43 on 22 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:44 on 22 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Coeur d'Alene (ID) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>strange oval shaped object that i saw off of my patioAs I stepped out onto my patio I looked up into the clear night sky and i saw a bright light moving across the sky.  I grabbed my binoculars and focused onto the light.  It appeared to be oval shaped with one large white light in the middle.  The light in the middle of the object appeared to be the only light that I could see on the object.  The object was also very low in the sky, as it passed over the top of me, I noticed that the light in the middle of the object made it appear to be shiny.  I continued watching the object, as it went away from me I noticed the moon in the east and the object at this time was actually bigger than the moon.  I continued watching it as it continued going east.  The object originated in the west sky, while watching the object continue east, it slightly turned and started heading southeast until it faded out of site. i would estimate the time frame to be around 25-30 seconds.  The object made absolutely no noise what so ever.  At one point I dropped the binoculars down to see if i could actually see the object with my naked eye, it seemed possibly 100-150 feet above me.  I would estimate the size of the object to be the size of a lear jet or helicopter.  The size of the object was kind of hard to exactly determine because of the speed of which it was traveling.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109624.html](http://www.nuforc.org/webreports/reports/109/S109624.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Ventura (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A hovering saucer is sighted on Lake Havasu, Ariz at night.I was sitting on my porch and I saw a great big circle of lights in the air. I waked out on the lawn to get a better look and it shined a very bright light in my face. The object looked about 100 ft in diameter and very flat. There was one big light in the center of it and maybe a dozen around the outside of it. Thatever it was didnt seem very interested in hurting me but more just looking at me and my surroundings. Then after approximately 5-7 minutes the object dissapeared. It didn't fly away but it dissapeared.((NUFORC Note:  This is one of a flurry of reports we received from Ventura County, CA, following three telephone calls we received on May 18, 2002, from a raucous student party.  The reports seemed to us to be not convincing at the time of the call, a fact which we shared with the callers.  Shortly afterwards, approximately a dozen reports were submitted from that area.  We have no way of confirming any of these reports.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22972.html](http://www.nuforc.org/webreports/reports/022/S22972.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/163/S163350.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163369.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163476.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163334.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163356.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
