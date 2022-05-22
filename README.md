@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:01:01 on 21 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:43 on 22 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Zion National Park (UT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright Orbs in Zion National Park.After traveling from Bryce Canyon to Zion National Park, we stopped by the side of the road.  I stepped out of the car and began taking my pictures of the scenery.  While not observing anything out the ordinary during the picture taking, it was after resuming our drive through the park I took some time to examine the recently taken pictures that I noticed the extremely bright orbs in two of the pictures I had just taken.((NUFORC Note:  Source of report indicates that the date of the event is approximate.  PD))((NUFORC Note:  This report originally was posted for the State of Florida, as indicated by the witness.  However, Zion N.P. is in Utah, and we have corrected the error, as of March 18, 2016.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121670.html](http://www.nuforc.org/webreports/reports/121/S121670.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Coeur d'Alene (ID) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>strange oval shaped object that i saw off of my patioAs I stepped out onto my patio I looked up into the clear night sky and i saw a bright light moving across the sky.  I grabbed my binoculars and focused onto the light.  It appeared to be oval shaped with one large white light in the middle.  The light in the middle of the object appeared to be the only light that I could see on the object.  The object was also very low in the sky, as it passed over the top of me, I noticed that the light in the middle of the object made it appear to be shiny.  I continued watching the object, as it went away from me I noticed the moon in the east and the object at this time was actually bigger than the moon.  I continued watching it as it continued going east.  The object originated in the west sky, while watching the object continue east, it slightly turned and started heading southeast until it faded out of site. i would estimate the time frame to be around 25-30 seconds.  The object made absolutely no noise what so ever.  At one point I dropped the binoculars down to see if i could actually see the object with my naked eye, it seemed possibly 100-150 feet above me.  I would estimate the size of the object to be the size of a lear jet or helicopter.  The size of the object was kind of hard to exactly determine because of the speed of which it was traveling.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109624.html](http://www.nuforc.org/webreports/reports/109/S109624.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/163/S163455.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163363.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163349.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163438.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163361.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
