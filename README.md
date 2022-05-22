@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:35 on 22 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:07:36 on 22 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Sonoma (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 of us friends were Sitting outside in Town of Sonoma, when we noticed 8 round light moving from southeast to north west/north possibly. Far above The ufos were are trailing behind each other very closely and moving at an incredible speed and dissipated or disappeared within minutes in clear night sky.A couple minutes more and a 9th round light moving similar direction trailing behind and disappeared a bit sooner then the prior 8 ufos. It was near the Big Dipper in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163369.html](http://www.nuforc.org/webreports/reports/163/S163369.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Middle Island (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Unidentifiable object flying across the sky.My husband and I walked out of the house and saw an illuminated round object flying across the ski.  It was round and orangey red glow.  We watched it fly or glide across the ski till we couldn't see it anymore.  I was frightened and wanted to leave quick.  Wondering what we saw but I could say a ufo because I'm not sure what it was.  Don't want to see that again!!!!!!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119095.html](http://www.nuforc.org/webreports/reports/119/S119095.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/163/S163350.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163369.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163476.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163334.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163356.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
