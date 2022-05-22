@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:32:18 on 22 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:18:32 on 22 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Hanalei Beach (HI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Three red/orange glowing objects moving upwards like slow moving floating flares.We were on the beach enjoying the 3/4 moon when at approx 9:40 we spotted three equally spaced fireballs moving toward the north from the horizon to approximately 55 degrees overhead each fireball spaced about three minutes apart from each other and finally disappearing into a cloud base of what I estimate of about 15,000 feet.  Could have been three missiles from the South Pacific Missile testing station but these were moving too slow to be missiles in my opinion.  The color of the three objects were red/orange and the size of a pea held at arms length.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98076.html](http://www.nuforc.org/webreports/reports/098/S98076.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Simi Valley (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>A large amber light released a smaller amber light, which descended and disappeared, leaving the original light in 2 pieces (25 mins.).An amber light northeast of Simi Valley, shined VERY clearly through cloud coverage, suspended in 1 place for at least 20 minutes, before another smaller light descended from the original. After it's descent, it took approx. 20 seconds for the 2nd light to disappear, and when it did, it did not appear to change in size, it just disappeared. The 2nd light remained, but it was now 2 smaller amber lights, instead of 1 large light. This light remained still, for 2 minutes before heading north, and ultimately out of site.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63519.html](http://www.nuforc.org/webreports/reports/063/S63519.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/163/S163350.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163369.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163476.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163334.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163356.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
