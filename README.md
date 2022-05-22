@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:44 on 22 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:32:18 on 22 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Ventura (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A hovering saucer is sighted on Lake Havasu, Ariz at night.I was sitting on my porch and I saw a great big circle of lights in the air. I waked out on the lawn to get a better look and it shined a very bright light in my face. The object looked about 100 ft in diameter and very flat. There was one big light in the center of it and maybe a dozen around the outside of it. Thatever it was didnt seem very interested in hurting me but more just looking at me and my surroundings. Then after approximately 5-7 minutes the object dissapeared. It didn't fly away but it dissapeared.((NUFORC Note:  This is one of a flurry of reports we received from Ventura County, CA, following three telephone calls we received on May 18, 2002, from a raucous student party.  The reports seemed to us to be not convincing at the time of the call, a fact which we shared with the callers.  Shortly afterwards, approximately a dozen reports were submitted from that area.  We have no way of confirming any of these reports.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22972.html](http://www.nuforc.org/webreports/reports/022/S22972.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Hanalei Beach (HI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Three red/orange glowing objects moving upwards like slow moving floating flares.We were on the beach enjoying the 3/4 moon when at approx 9:40 we spotted three equally spaced fireballs moving toward the north from the horizon to approximately 55 degrees overhead each fireball spaced about three minutes apart from each other and finally disappearing into a cloud base of what I estimate of about 15,000 feet.  Could have been three missiles from the South Pacific Missile testing station but these were moving too slow to be missiles in my opinion.  The color of the three objects were red/orange and the size of a pea held at arms length.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98076.html](http://www.nuforc.org/webreports/reports/098/S98076.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/163/S163350.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163369.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163476.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163334.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163356.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
