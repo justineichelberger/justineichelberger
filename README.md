@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:29 on 22 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:03:41 on 22 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Oxnard (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>bright,disk in the clear skyi was in my bedroom with my window open and my blinds up and i was working on a homework project with my best friend. all of a sudden for some reason ilook up into the sky and i see a bright moving object in the sky.. it was very bright and it was shaped like a disk.. it was moving very slowly throw the air and it was far so i couldnt really get a good look at it.. i only got to look at it for a bout 5 to 8 minutes and then it disapeared in the distance.. it was kinda grayish color and my friend and i didnt know what to expect it was ... we think it might have been some kinda of ufo ...the night was clear and a little breezy .. and thats all i remember seeing ..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22968.html](http://www.nuforc.org/webreports/reports/022/S22968.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Middle Island (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Unidentifiable object flying across the sky.My husband and I walked out of the house and saw an illuminated round object flying across the ski.  It was round and orangey red glow.  We watched it fly or glide across the ski till we couldn't see it anymore.  I was frightened and wanted to leave quick.  Wondering what we saw but I could say a ufo because I'm not sure what it was.  Don't want to see that again!!!!!!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119095.html](http://www.nuforc.org/webreports/reports/119/S119095.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/163/S163350.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163369.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163476.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163334.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163356.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
