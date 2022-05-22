@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:44 on 22 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:35 on 22 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Federal Way (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>5 bright round objects heading south from Federal Way, WA.  The two in the center were red, the other three were silver.  We were sitting in the backyard around dusk when my husband looked up and noticed the objects flying in the sky.  My son also came out and we all watched as they seemed to form a triangle with one in the center.  They traveled out of view after about 5 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146128.html](http://www.nuforc.org/webreports/reports/146/S146128.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Wichita (KS) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Sphere shaped and bright light, bopping up and down moving at the same speed as the airplane I was in.I was in an airplane on my way to my honey-moon when I was looking out the window, just looking around in awh. I had never been on a plane before. What I seen shocked me. There was a sphere looking light that looked like it was bouncing really fast along the skyline. We were not up to hight cause I could still see the ground pretty good. The light was so bright surprisingly because it was still daylight out. But I was sorta stuck in shock I couldnt take my eyes off the thing, I was infatuated with it. I wanted to tell my husband to look but I couldnt. When it was finally out of sight I turned away and looked down at my self and was thinking did I really just see that. And would my husband believe me, then I started thinking that maybe I was seeing things but the image is burnt in my head and I can still see it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48087.html](http://www.nuforc.org/webreports/reports/048/S48087.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/163/S163350.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163369.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163476.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163334.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163356.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
