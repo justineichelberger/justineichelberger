@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:32 on 22 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:35 on 22 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Ripley (TN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Succession of triangular craft, emitting flashing white and red light, and silent.Succession of triangle shaped crafts, bright white light with red flashing lights, flying low in sky and made no sound.  Each craft flying about a half a mile apart in southwest direction.  Would see a bright flash of light over the treeline then a craft would appear. Happened in rural part of lauderdale county about 1/2 from Chickasaw Wildlife Refuge.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109659.html](http://www.nuforc.org/webreports/reports/109/S109659.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Paso Robles (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>I went out to get the mail.  When I looked up I saw a very bright light in the sky.  My first thought was that it was a really bright star.  The I realized it was moving and it couldn't be a star.  The light got mor intense and then it dimed to a faint light and disappeared upward.  I heard now sound even though the object was almost overhead.((NUFORC Note:  The report is reminiscent of the flash caused by an Iridium satellite.  One of our contributors may investigate whether this may have been an Iridium.))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12939.html](http://www.nuforc.org/webreports/reports/012/S12939.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/163/S163350.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163369.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163476.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163334.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163356.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
