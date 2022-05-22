@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:07:36 on 22 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:41 on 22 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Middle Island (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Unidentifiable object flying across the sky.My husband and I walked out of the house and saw an illuminated round object flying across the ski.  It was round and orangey red glow.  We watched it fly or glide across the ski till we couldn't see it anymore.  I was frightened and wanted to leave quick.  Wondering what we saw but I could say a ufo because I'm not sure what it was.  Don't want to see that again!!!!!!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119095.html](http://www.nuforc.org/webreports/reports/119/S119095.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Indian Springs (NH) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>AT 2330 HRS ON MAY 22-2002 MY WIFE AN I WERE TRAVELING NORTHBOUND ON I-95 ABOUT 5 MILES EAST OF INDIAN SPRINGS AIR FORCE STATION.I GLANCED TO MY RIGHT AND NOTICED A BRIGHT ORANGE LIGHT HOVERING ABOUT 2 MILES AWAY AT ABOUT 800 FT ABOVE GRD LEVEL.WE CONTINUED TO HEAD NORTH ON THE HIGHWAY OBSERVING THE CRAFT MOVE SLOWLY ABOVE A MOUNTAIN RANGE AND DISAPPEAR FOR A MOMENT.IT SEEM TO LIGHT UP A VERY LARGE AREA OF THE MOUNTAIN RANGE AS IT PASSED OVER.IT WAS ABOUT THE SIZE OF A PING PONG BALL FROM MY PERPECTIVE.AS WE CONTIMUED NORTH TRYING TO TRACK IT WE CAUGHT UP WITH IT AN SAW IT HOVERING NOW BETWENN TWO MOUNTAIN RANGES.WE STOPPED OUR CAR AND OBSERVED IT START TO MOVE VERY SLOWLY WEST THEN BACK EAST A FEW TIMES.IT STARED TO MOVE STRAIGHT UP AN AS IT DID THE LIGHT JUST WENT OUT SLOWLY AND THEN IT WAS GONE.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23001.html](http://www.nuforc.org/webreports/reports/023/S23001.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/163/S163350.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163369.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163476.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163334.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163356.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
