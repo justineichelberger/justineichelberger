@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:05:36 on 23 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:36 on 23 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Thornton Heath (UK/England) () reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Now I see ufos nearly every dayI am Italian but I have been living in London for the last 25 years.It started on the 23rd of May 2010.My wife and I were in our garden watching an aeroplane wich it was   leaving a long white trail.I was thinking how bad or not those kind of trails could affect on our health.Suddenly I saw something at a very high altitude. It was reflecting the sun`s light.At first I thought it could have been a satellite visible from the ground but it was changing position very fast....My wife saw it too.After a while it disappeared and I was thinking that thing was probably a ufo and it was a shame I did not have my camera with me when suddenly another different one appeared it much lower in altitude.I felt a bit scared and I tried to see and understand the shape.It was black not circular. I would say “squared”  with different sections with one part in red.Still I did not have my camera. I thought if I would have gone upstairs I might have lost it.I`ve runned upstairs  and when I went down it was gone.Since then I see ufos everyday. Today the 31st of May 2010 I saw another different shaped one.It was triangular with lights on the angles.I have tried to take pictures but I don`t know why the images are not good at all.Maybe I do something wrong with the automatic focus? Now I start thinking to buy a camcorder with a good zoom.At the moment I use a binocular.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75632.html](http://www.nuforc.org/webreports/reports/075/S75632.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in High Point (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Small orange and white light flickering rapidly high in the sky.Very high flying lights with an orange/white strobe effect in different parts of the sky.  Made no sound.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109645.html](http://www.nuforc.org/webreports/reports/109/S109645.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/163/S163462.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163373.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163463.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163898.html)
-- [255](http://www.nuforc.org/webreports/reports/163/S163697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
