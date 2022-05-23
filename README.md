@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:40 on 23 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:36 on 23 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Mishawaka (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>While stepping outside before night's end, I always look to the stars.  There were 3 lights dancing around each other as if they were playing in the night sky.  I have seen UFO's before and told my girlfriend.  You can imagine the looks she gives me.  But last night (5-23-16) she saw first-hand, and is still in awe…((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127487.html](http://www.nuforc.org/webreports/reports/127/S127487.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1994, an anonymous witness in Bend (OR) reported seeing craft that fit the description of some 'Disk' over a period of approximately 210.0 - 210.0 minutes.</sub><blockquote><sub>it came up to us as fast as it left us and shined us hard with white/blueish lights. lots of energy felt...and windWe came out of the cave and sat for a while looking at the full moon on5/23/94.  A light or thought a cart was coming and we all ran towords the car our car...  The light then turned on A DIFFERENT BLUE/TOURQUOISE/WHITISH LIGHT AND left the area...20 to 30 min later it came back and we were farther away freom our car and it came up to us very rapidly and shined us all 3 fo us, very hard.  the  only thing I treid to say is stay positive and think opositive to everyone.. and then it left as quickly as it came and that was it. by that time it was 3:45 am and the sun was coming soon..buty wait until the next month on our 1 month aneversery...we say the ship.. the actuall ship,but no little dudes came out! fucking scary...our ten year is coming..I am going out to camp and maybe.......we will see it afain...keep dreaming...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35900.html](http://www.nuforc.org/webreports/reports/035/S35900.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/163/S163462.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163373.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163463.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163898.html)
-- [255](http://www.nuforc.org/webreports/reports/163/S163697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
