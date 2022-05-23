@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:58 on 23 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:33 on 23 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Harrisonburg (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Very bright, completely silent, slow moving and flying low over Harrisonburg, VAI was sitting in my living room watching tv, when I noticed  a light moving across the sky through the window.  I went outside expecting to hear a helicopter because it was too low to be a plane.  It was very bright and completely silent moving in a straight line.  It flickered and was almost pink in color.  It was easily seen for four or five minutes and then disappeared.  My husband observed it for a moment with me before it disappeared.  It wasn't so far away that we couldn't see it, it just vanished while it was easily observable!   The sky was very clear, no clouds, and no sound other than cars occasionally on the road.  I could see the lights of planes much farther up but this was much lower and much slower.  Certainly close enough that we should have heard it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119124.html](http://www.nuforc.org/webreports/reports/119/S119124.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Oak Lawn (IL) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Flying Black Egg Craft? Is this the way a Chupacabra Travels?In the morning I went to look outside my front door window and was looking at clouds thinking I will see something and saw a black egg shaped object flying over my house. It could of been just a black balloon ,but the wind outside was going a different direction thinking the wind would of blown the black balloon in a different direction. The Black egg shaped craft was going from 99th and cicero towards 150 and cicero. Looked like it was going atleast 200 miles per hour.  Looked the size of a balloon. I did not have a camera on me and didn't run to go get one. Looked to be heading towards Saint Linus Church and have to of gone over it and it was close to cicero but was atleast a block and a half away from cicero. The object made no sound. If a Chupacabra travels I think this is the way they do travel in a very small black egg size craft. Unless it was really a balloon. It look to be atleast 400 feet High in the air. I see alot of things and report alot and say what I think. Why, I say this is I saw a something that could of have been a Chupacabra.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63506.html](http://www.nuforc.org/webreports/reports/063/S63506.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/163/S163462.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163373.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163463.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163898.html)
-- [255](http://www.nuforc.org/webreports/reports/163/S163697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
