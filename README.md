@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:56 on 23 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:12:41 on 23 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Lebanon (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Light point and flash display for 15 min, similar to other previous witnesses in past few days.I was walking outside around 10:30 pm and glanced at the northern sky.  In the northwest, a dim steady light point was moving in an easterly direction.  I assumed it was a satellite and followed the light in hopes it was an Iridium flare, a satellite that brightens quickly when it reflects sunlight.  I have seen dozens of these Iridium flares over the past few years.  After traveling for a few seconds, the light gradually turned north and headed for the horizon.  This struck me as very strange, because the curve was too steep for typical plane and the fact that the light had no resemblance to a plane.  The light soon died out, much like satellites commonly do.  I then heard a jet sound emanating from the direction of the light, but saw no jet.  This could be a coincidence.	 	Next I saw a bright reddish flash closer to the horizon, but where the light’s trajectory should have placed it.  This flash was like a sudden brightening, similar to a meteor, but slower and more controlled.  I then saw two simultaneous flashes and for the next few minutes I saw two flickering lights travel in many directions, usually fading away and then reappearing in a new location, always in the northern sky.  The flickers were at first somewhat rhythmic with a double flicker followed by a single, but soon became more irregular.  Every so often the lights would simultaneously flash reddish. 	The lights next appeared in the north-northeast and traveled westward, one slightly ahead of the other, flashing irregularly the entire time.  The front light faded, but as the second light continued westward, the other appeared at the original starting location.  This time it traveled eastward, and both were traveling on the same horizontal line.  Finally, after a short time (appx. 1 min) of nothing, I saw the reddish double flash occur.  This time the flashes were very close together (less than a degree probably) and hooked from left to down to right in a tight arc. 	I’ve been an amateur astronomer for years and have never seen anything like this.  I am also college-educated with a science and engineering background.  Several reports of near identical situations have been reported out of Lafayette in the past few days.  Perhaps this is something military related, but all I know is that I have no current explanation of what could possibly make this light display.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56787.html](http://www.nuforc.org/webreports/reports/056/S56787.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Pembroke (NH) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 110((ADDENDUM FROM SOURCE))05/23/19 09:13pembroke nhs/b09:01 instead of 09:13((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146653.html](http://www.nuforc.org/webreports/reports/146/S146653.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/163/S163462.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163373.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163463.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163898.html)
-- [255](http://www.nuforc.org/webreports/reports/163/S163697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
