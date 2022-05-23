@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:35:45 on 23 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:27:02 on 23 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Peoria (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>Digital image.Photograph:  Photographed thunderheads around sunset. Series of four images taken with Sony F717 within lessthan a minute. Only second image has the object. Fast mover. Looks like a bit of a black triangle. This is a 5 megapixel camera so it can stand decent enlargement. The object takes form at enlargement and shows disturbed air around it. I didn't realize it was there until I inspected the images the following week.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37277.html](http://www.nuforc.org/webreports/reports/037/S37277.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Evansville (IN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>5 red orbs forming anomaly in sky, then disappearing behind clouds.One red orb appears in the sky.  It was just hovering at first, then slowly disappeared behind the clouds.  Shortly after that one vanished, two more appeared coming from the west moving slowly and flashing red and orange.  These two appeared more closer than the previous one.  Finally 2 more appeared beaming down from the sky toward the others.  Then they all van. ished.  My region has an abundance of owls, they started howling as this anomaly took place.  They were not any kind of aircraft I had ever seen before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119099.html](http://www.nuforc.org/webreports/reports/119/S119099.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/163/S163462.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163373.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163463.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163898.html)
-- [255](http://www.nuforc.org/webreports/reports/163/S163697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
