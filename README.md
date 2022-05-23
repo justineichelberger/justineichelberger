@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:35 on 22 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:40 on 23 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Spokane Valley (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Giant Orange OrbMy husband woke me at 3:11am told me come outside. He and our daughter were having a snack in the kitchen and noticed a bright orange light to the southwest. We went outside and at first it was disk shaped but it turned out to be obscured by clouds. It was actually a GIANT ORANGE GLOBE. I MEAN GIANT.  It was bright bright orange but, the color was swirling and changing. There was a light that light was spinning horizontally. There was no physical craft, just light. The clouds were moving around it but it was stationary from our angle.  It eventually looked like it was moving away from us a disappeared to the west. This took 10 seconds. We watched for a total of 10 min. It was huge. I bet you can find a security camera that caught it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163359.html](http://www.nuforc.org/webreports/reports/163/S163359.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Mishawaka (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>While stepping outside before night's end, I always look to the stars.  There were 3 lights dancing around each other as if they were playing in the night sky.  I have seen UFO's before and told my girlfriend.  You can imagine the looks she gives me.  But last night (5-23-16) she saw first-hand, and is still in awe…((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127487.html](http://www.nuforc.org/webreports/reports/127/S127487.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/163/S163350.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163369.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163476.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163334.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163356.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
