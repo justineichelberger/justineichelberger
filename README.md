@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:27:02 on 23 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:09:38 on 23 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Evansville (IN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>5 red orbs forming anomaly in sky, then disappearing behind clouds.One red orb appears in the sky.  It was just hovering at first, then slowly disappeared behind the clouds.  Shortly after that one vanished, two more appeared coming from the west moving slowly and flashing red and orange.  These two appeared more closer than the previous one.  Finally 2 more appeared beaming down from the sky toward the others.  Then they all van. ished.  My region has an abundance of owls, they started howling as this anomaly took place.  They were not any kind of aircraft I had ever seen before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119099.html](http://www.nuforc.org/webreports/reports/119/S119099.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Malibu, West (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>bright metalic cylinder 30-75 ' or more flying along CA coast over Ventura, speed of landing jet, jet flame out the end.a mirror like reflection of sun got my attention as it flew in from the S over the Pacific, it started to curve to the West then fly up the coast from me..I thought I would see wings but as it turned it was just a tubular fuselage. I grabbed binocs and that clinched it; no wings, and fire coming out the end: a missile. There are missile tests all the time around here what with Edwards and Point Mugu base nearby, but they have always been way out over the ocean -- not this time. I called the police station, and they said no one else had called it in, and they had no info.any one have any idea what it could have been?? it seemed much bigger than a telephone pole, through the binocs at the time it seemed like it could be 30 to 50 feet, but could be smaller in reality..or larger.But it absolutely did have flame out the back..The flight seemed to be guided..not a straight line, or a curve...I guess it is the most plausible explanation that it was a recently launched missile, perfectly possible I could have seen it during it's first 15 seconds of flight, launched from a jet or ship..it was going rather slowly at first..then I lost sight of it almost as soon as I focused the binos on it -- it may have picked up speed and zoomed out of sight in a few seconds..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50716.html](http://www.nuforc.org/webreports/reports/050/S50716.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/163/S163462.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163373.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163463.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163898.html)
-- [255](http://www.nuforc.org/webreports/reports/163/S163697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
