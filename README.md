@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:01:01 on 23 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:01:44 on 23 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Franklin (NE) reported seeing craft that fit the description of some 'Changing' over a period of approximately country - country minutes.</sub><blockquote><sub>Sight seeing places in NE if you believe you will see.My Friend age 28 and her sister at the time was 14 and I age 25 at the time. We were waiting for my husband and his bother to get done fishing at harlon county damn. I asked my 28 year old ((name deleted)) who was dating my brother in law if she beleived in other living things besides us like UFO'S. She said NO. I said my mom has introduced me to the life of watching for them and how they watch us back. She thought I was insane. So we went out side and the one I seen frist. I pointed out and she watched as it swayed down slowly. When we got in the car to drive up her mile and ahalf drive way so the sky would be clear of any trees. The space ship came down fast and followed us up the drive way. When we got out agian. The ship flew up and all kinds of them apeared all around us like they were watching us as we were them. They kept swaying around us and they were are differnt shapes differnt colors that flashed and when they would sway closer it was like the lights would dim and when they would just sit in one spot it was like they were bright then dim. When some one would drive close to the area they would dim down so much that they looked like another star in the sky. My mother has always told me they have been watching down at her since she was 15years old. They are there. You believe they will allow you to see. When you are hurt and lonely. You talk to the skies and they will appear. Wheather you are alone or not you show no harm they show no harm. Neberska is a really good place to watch for them. The best places I have found to watch them is the contry on Holstein Road in Kensaw NE., The country of the organ trail area which is located by the little blue rive by Deweese NE., and of course way out in the country of Franklin NE..This has been a scary adventure at times but very interesting and a enjoying adventure.((NUFORC Note:  Witness indicates that date of sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41809.html](http://www.nuforc.org/webreports/reports/041/S41809.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Estes Park (CO) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 156</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163698.html](http://www.nuforc.org/webreports/reports/163/S163698.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/163/S163462.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163373.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163463.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163898.html)
-- [255](http://www.nuforc.org/webreports/reports/163/S163697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
