@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:40 on 23 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:37 on 23 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Bridgewater Corners (VT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright, spherical, 2x brighter than a bright star, assuming erratic movements, heading south.Slowly moving from north to south.All at once, rapid speed increase and erratic, jerky pattern assumed, still continuing southward.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156654.html](http://www.nuforc.org/webreports/reports/156/S156654.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Watson (LA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Cigar shaped,simi-transparent object,faint white light on either end,silently moving over Watson,La.I was standing outside my house at about 22:15 casually looking up at the stars when per my peripheral vision a faint object caught my attention.  I immediately concentrated my vision on it to see a simi-transparent appearing,cegar shaped object with a faint white, slow pulsing light on each end,traveling slow and low, I would estimate an altitude of about 250 ft.,making not a sound,I mean no engine, no wind disturbance, perfect silence.  It was traveling south-southeast,passed behind the north eave of my house,appeared again before going behind a tree on the other side of my house.  When I moved to the back of the house for a better vantage point it was so faint it faded out of sight.  I went inside and watched the tube till I thought about calling the sheriffs off. to find out if any one else possibly saw the same thing,that was about 24:00 hrs.  The officer said no and asked if I wanted to file a report, and inquired if there was any property damage,which I denied and thanked him for his time.I've always wanted to witness a UFO and I think I have but it wasn't any bright, vibrant,darting kind of thing.I never saw anything comparable in my lifetime, it was a personal experiance for me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89141.html](http://www.nuforc.org/webreports/reports/089/S89141.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/163/S163462.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163373.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163463.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163898.html)
-- [255](http://www.nuforc.org/webreports/reports/163/S163697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
