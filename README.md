@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:01:00 on 23 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:37 on 23 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Salt Lake City (UT) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>2 star like objects in skyLast night I arrived home after going to the store and I looked up in the sky (like I always do) and noticed 2 star like objects flying the opposite direction of each other, they flew next to each other while they were flying in the opposite direction and then they just disappeared, at first I thought it was a satellite but I have seen satellites before and you can follow a satellite while it's going across the sky. These two star like objects were moving very slowly so it was not a shooting star.  I have never seen anything like that before, I wish there was someone around to see it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89171.html](http://www.nuforc.org/webreports/reports/089/S89171.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in St. Louis (MO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>something in cloudsI'm not sure what's going on here but I can tell you I was in a hotel on the 3rd floor, which is right by the river  Looking out the window that morning I noticed the clouds were not moving but shaking so I started to record the clouds I then put a filter on my camera and that's when I black things floating around the clouds look like electric but only a few and then it seemed they were getting sucked into something I have no idea where to begin and then it all just stops and there was a flash that kept happening on my phone after coming home and looking over the footage there are all kinds of things going on there's something with 2 eyes transparent and a spine I think I'm sending you the video.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146556.html](http://www.nuforc.org/webreports/reports/146/S146556.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/163/S163462.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163373.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163463.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163898.html)
-- [255](http://www.nuforc.org/webreports/reports/163/S163697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
