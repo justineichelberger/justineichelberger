@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:37 on 23 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:33 on 24 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in St. Louis (MO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>something in cloudsI'm not sure what's going on here but I can tell you I was in a hotel on the 3rd floor, which is right by the river  Looking out the window that morning I noticed the clouds were not moving but shaking so I started to record the clouds I then put a filter on my camera and that's when I black things floating around the clouds look like electric but only a few and then it seemed they were getting sucked into something I have no idea where to begin and then it all just stops and there was a flash that kept happening on my phone after coming home and looking over the footage there are all kinds of things going on there's something with 2 eyes transparent and a spine I think I'm sending you the video.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146556.html](http://www.nuforc.org/webreports/reports/146/S146556.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Ann Arbor (MI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>unusual stationary lights seen at night near Ann Arbor, MI 5-24-2014*Might* have been a helicopter.  BUT lights and movement quite unusual if so:  4 vertical red lights + very bright blue light in the middle and to the right of the red vertical lights, blinking in an ON-pause-ON-OFF repeating pattern, each ON about 1.5 seconds, the pause about 1/10 sec, the OFF about 1/4 sec.Size of lights/craft were roughly size of fingernail on man's pinky finger held at arm's length.Lights/craft were stationary for more than a minute... then object moved horizontally about 1.5 x the width of a man's fist at arms length, then stopped abruptly, then slowly descended to below tree top level over the course of about 10 seconds, when sighting was lost.Lights/craft was approximately 30 degrees elevation from the horizon, viewed in a southeast direction from northeast Ann Arbor, about 120 degrees southeast, measured clockwise from magnetic north.No sound was heard, but could have been masked by nearby highway noise.Movement of lights/craft appeared to be very precise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109669.html](http://www.nuforc.org/webreports/reports/109/S109669.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/163/S163462.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163373.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163463.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163898.html)
-- [255](http://www.nuforc.org/webreports/reports/163/S163697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
