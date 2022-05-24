@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:40 on 24 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:42 on 24 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Weld (ME) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Chain of lightsFriday night, May 24, at approximately 11:30pm to midnight, in Weld, Maine.  Could not believe my eyes, saw a chain of white lights on perfectly clear night.  At first glance though it was a shooting star, then a comet, then jet exhaust that realized none of those.  I could not determine the height due to the unlit area matched the dark sky, it looked like it was in space.  Looking at arm's length about three feet long (very large) and an inch wide.  The object I saw was just dots of white lights like stars.  More in the front area thinning to the middle, one light ¾ to the end and one light trailing at the end.  All the lights where moving at the same speed heading west to east.  The speed seemed to be about the same as a commercial jet at cruising altitude.  None of these lights where blinking, they were all steady and there was no sound.((NUFORC Note:  Starlink satellites, launched by Space X on May 23rd.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146469.html](http://www.nuforc.org/webreports/reports/146/S146469.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Beccles, Suffolk. (UK/England) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright sphere seen to enter the atmosphere/sky and project towards the earth surface at speed in a direct straight line.Bright sphere seen to enter the atmosphere/sky and project towards the earth surface at speed in a direct straight line with no derivation and remaining incredibly bright in colour - lost sight due to tree line/horizon,  it emerged back in the sky at speed and then continued its initial path and went out of sight beyond the tree line - the object was moving too fast to be an obvious known aircraft and was a total bright sphere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134200.html](http://www.nuforc.org/webreports/reports/134/S134200.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/163/S163453.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163451.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163454.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163693.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163447.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
