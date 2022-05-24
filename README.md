@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:33 on 24 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:25 on 24 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Ann Arbor (MI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>unusual stationary lights seen at night near Ann Arbor, MI 5-24-2014*Might* have been a helicopter.  BUT lights and movement quite unusual if so:  4 vertical red lights + very bright blue light in the middle and to the right of the red vertical lights, blinking in an ON-pause-ON-OFF repeating pattern, each ON about 1.5 seconds, the pause about 1/10 sec, the OFF about 1/4 sec.Size of lights/craft were roughly size of fingernail on man's pinky finger held at arm's length.Lights/craft were stationary for more than a minute... then object moved horizontally about 1.5 x the width of a man's fist at arms length, then stopped abruptly, then slowly descended to below tree top level over the course of about 10 seconds, when sighting was lost.Lights/craft was approximately 30 degrees elevation from the horizon, viewed in a southeast direction from northeast Ann Arbor, about 120 degrees southeast, measured clockwise from magnetic north.No sound was heard, but could have been masked by nearby highway noise.Movement of lights/craft appeared to be very precise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109669.html](http://www.nuforc.org/webreports/reports/109/S109669.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Amery (WI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Quite Bright light traveling at a high rate of speed.  Light went a distance that we could see.  The light turned red then disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70180.html](http://www.nuforc.org/webreports/reports/070/S70180.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/163/S163453.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163451.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163454.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163693.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163447.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
