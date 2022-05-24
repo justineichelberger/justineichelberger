@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:43 on 24 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:34 on 24 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Martins Ferry (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>I was outside and I looked up and saw a shiny metal circular object flying in the sky. I did not know what it was. It did not look like a plane or helicopter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156670.html](http://www.nuforc.org/webreports/reports/156/S156670.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Holiday Hills (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>object in sky falls from sky stops for 30 - 40 seconds , illuminates then flies back up to starslate night fishing with my girlfriend and 1 other friend began at 1245 am , clear sky , lots of stars , friend thought he saw 2 shooting stars between 1245 and 300 am , around 330 my girlfriend saw a something moving around with movements only that can be compared to a hummingbird star bound , all three of us observed , object came down rapidly i thought it was a asteroid or meteor coming down right on us i began to run , object stopped and illuminated a blueish, white light it was the shape of a guitar pick , object was back star bound within 60 seconds observed others moving around 6- 8</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75866.html](http://www.nuforc.org/webreports/reports/075/S75866.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/163/S163453.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163451.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163454.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163693.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163447.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
