@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:43 on 24 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:36 on 24 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Starrucca (PA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>multiple balls of white light randomly moving in sky; and large white oval object after 20-30 minutesWas outside looking at the sky. The sky was clear and I could see many stars.  I noticed multiple (3-8) balls of light streaking across the sky from the southeast direction.  The lights were sometimes coming forward, backward, left, right, randomly over the sky, even over our house.  At times they would stop in the air for a few seconds and then start moving again.  They were moving very quickly, faster than anything I have ever seen in the sky.  I’ve never seen anything like this before.  I went inside and woke my daughter and we watched the sky from a large window together.  Once inside, there were 3-4 times when in addition to the streaking balls of light, we saw the skyline, just above the tops of the trees, light up very brightly in multiple colors, mostly pink and white.After at least 10 minutes from coming inside, I woke my husband too.   He also saw the balls of light moving randomly across the sky.  Shortly after, from the skyline emerged a large oval object, like a glowing white light much larger than the streaking lights.  This object hovered in the skyline and didn’t move.  Then the object disappeared and re-appeared.  The balls of light stopped streaking and it all suddenly disappeared.  We waited for at least 10 more minutes and nothing reappeared.  Whatever we saw was over.((ADDENDUM FROM WITNESS))Cancel Posting May 25 regarding event May 24, 2019 - Mystery SolvedI submitted a report yesterday.  We learned last night from a neighbor that there was an Elements Festival - a Music & Art Event in our area which included a light show all weekend. It must have been the lights from the show we saw with the flashes at time.  It was at 11:30 p.m. so it seemed very unusual to us.  As I said in the original post, I have never seen anything like this before in the night sky.  Please remove our original post Saturday, May 25, 2019 at 09:16:11.  We now know what it was and doesn't appear to be anything unusual.  Thank you.((END ADDENDUM))((NUFORC Note:  Sky was clear, according to the witness, at the time of the sighting.  Hence, probably not an advertising light display.  We spoke via telephone with the witness, and she sounded to us to be quite sober-minded.  She stated that she will investigate the incident and report back to NUFORC what she discovers.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146311.html](http://www.nuforc.org/webreports/reports/146/S146311.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Wilmington (DE) reported seeing craft that fit the description of some 'Changing' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>What started out as 4 cylindrical lights changed into one, it looked like a purple cloud. It then switched to 8 smaller cylinder shaped lights, diagonally lined up in the sky, then again back to one.  Then it disappeared and the sky was clear or all cloud.  There appeared to be another aircraft to the left, it had a red light then it flickered white, flashed brightly and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156686.html](http://www.nuforc.org/webreports/reports/156/S156686.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/163/S163453.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163451.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163454.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163693.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163447.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
