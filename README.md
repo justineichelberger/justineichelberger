@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:27:35 on 24 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:09:14 on 24 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Madison (WI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>very small pulsing lite over madison not moving in a  line and moving slower than jetsI was standing on my back porch looking at the sky their was a high jet flying by and I noticed a very small shimering lite about the size of a star or sarurn. It moved very slowly toward me from the south almost directly above,  moved to east a little then away from me toward the south east.  It was blinking the whole time in irregular pulses, at times I could not see it till it shimered/ pulsed.  I got my small pair of binoculars out and it looked somewhat incondecent, with difrent colors the way oil on the wat pavement looks. i could not dissurne a specific shape, something like a ball but it was very small and I could only see it when it was pulsing lite. it went behind a tree from my point of view so i came to report it in hopes someone else can take a look if they are in the area.  Im going to go look for it again Ill let you know if I see it again.pulsing lite over madison follow upFollow up, sorry about the time I should have put 17:50. I took a walk to look for it again but did not see it any more.  Thanks for your your intrest and way to connect us with this type of info.  your freind -((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23007.html](http://www.nuforc.org/webreports/reports/023/S23007.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Roswell (GA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>The sound sends chills through your body as your eyes are paralyzed starring into the empty sky.I always sit outside every morning.  This morning the birds got quiet as a sound got very loud.  You could literally feel the sound and the light wind went quite.  I grabbed my iPad to snap a picture but nothing could be seen as it was cloudy.  The sound just started above me and went north and south a few times.  Almost as if I could hear it creating a circle above me.  Very different than an airplane or helicopter.  I did take video of an empty sky and it still haunts me as I listen. In the past 4 years I hadn’t heard anything like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141655.html](http://www.nuforc.org/webreports/reports/141/S141655.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/163/S163453.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163451.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163454.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163693.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163447.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
