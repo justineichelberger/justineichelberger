@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:36 on 24 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:47 on 24 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Beccles, Suffolk. (UK/England) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright sphere seen to enter the atmosphere/sky and project towards the earth surface at speed in a direct straight line.Bright sphere seen to enter the atmosphere/sky and project towards the earth surface at speed in a direct straight line with no derivation and remaining incredibly bright in colour - lost sight due to tree line/horizon,  it emerged back in the sky at speed and then continued its initial path and went out of sight beyond the tree line - the object was moving too fast to be an obvious known aircraft and was a total bright sphere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134200.html](http://www.nuforc.org/webreports/reports/134/S134200.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Mount Shasta (CA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately  -  minutes.</sub><blockquote><sub>UFO / strange object caught on web-cameraPeter, My wife checks a web-camera that is focused on Mt. Shasta, California -everyday. It takes still shots and then puts them together in the form of an .Mpeg files (size 520K). We used to live up there and we love the mountain and surrounding scenery. It brings back lots of memories. ANYWAYS, when ((name deleted)) checked the .mpeg movie for yesterday (5-24-00), there was a strange object to the right of Mt. Shasta in the film -near it's beginning. Each frame is taken 10 minutes apart from each other for a daily movie of 102 frames. It looks to me like an upside-down tear shaped object that is spinning. You see it in frames that have no clouds and in frames with clouds. AND it is moving in a northeasterly direction while the clouds are clearly moving in a SOUTHeasterly direction. Go to the below link: http://www.((URL deleted))l Cursor down until you see "Daily Mpeg Movies" amd select "Yesterday" (If you read this on 5-25-00) OTHERWISE, choose  5-24-00 I have saved this .mpeg file and will email it to you as well.((name deleted))((NUFORC Note:  We have not been able to open the file yet, but that may be due to our computer system.  If we are able to open it and inspect the image, we will attempt to comment here.))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12955.html](http://www.nuforc.org/webreports/reports/012/S12955.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/163/S163453.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163451.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163454.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163693.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163447.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
