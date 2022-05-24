@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:09:14 on 24 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:05:34 on 24 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Roswell (GA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>The sound sends chills through your body as your eyes are paralyzed starring into the empty sky.I always sit outside every morning.  This morning the birds got quiet as a sound got very loud.  You could literally feel the sound and the light wind went quite.  I grabbed my iPad to snap a picture but nothing could be seen as it was cloudy.  The sound just started above me and went north and south a few times.  Almost as if I could hear it creating a circle above me.  Very different than an airplane or helicopter.  I did take video of an empty sky and it still haunts me as I listen. In the past 4 years I hadn’t heard anything like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141655.html](http://www.nuforc.org/webreports/reports/141/S141655.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Chandler (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>pulsating UFO sighted in Arizona, USA.BACKGROUND INFORMATION ON OBSERVER:  I have been, for quite some time, extremely interested in the contents of our universe.  Of course, aliens being one of these things.  Ever since young age, these potential entities have perplexed my mind.  There were points in my life where I was almost literally addicted to the investigation of these phenomena. ACCOUNT:  I witnessed, for the first time, a UFO at approximately 4:00 AM on the date of May 24, 2007 in the city of Chandler, Arizona.  Not being able to sleep, I decided to do some stargazing in the front of my home. The object, which first appeared to resemble a star, moved at a steady rate.  The pulsating of light (which appeared to be spontaneous), was one of my determining factors that this was some form of advanced technology.  The UFO seemed to move at an almost constant rate of speed toward the southern hemisphere.  Then, in abrupt fashion, the object disappeared. Almost immediately after I lost track of the UFO, a helicopter passed by overhead.  Do these two have any correlation to each other?  I’m not sure, but I think it is definitely worth mentioning.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56794.html](http://www.nuforc.org/webreports/reports/056/S56794.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/163/S163453.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163451.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163454.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163693.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163447.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
