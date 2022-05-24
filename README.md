@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:13:48 on 24 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:01:25 on 24 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Mint Hill (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Triangle shape silently hovering just over the trees and housesI was driving on Lawyers Road coming from Albemarle Road. It was dusk about 8:45pm and I had my 2 boys with me. The area is well populated with houses with wooded lots. Right along the road, about 25 feet above the trees, I saw a huge aircraft. I said to my son, "Look, what is that?" The aircraft seemed to be at least as big as half of a football field. I was traveling about 35 mph and was passing this thing. It made no noise and just was hovering there above the houses. I slowed down to get a better look. It was dark gray. It was triangular shaped and I could see a white light at the end of the wing on the underside. It was so low and large that I couldn't see the other wing. I remember a red light in the middle of it. It was so close to me that I could see the square panels and what looked like the rivets that held it together. I drove to the shopping center on the corner of Margarit Wallace Road about 1/4 a mile down the road and pulled in to wait for it to fly over. It never did. I wanted to drive back but my kids were frightened so I went home. I never called the police or anyone to report it. I didn't think anyone would believe me. If I were close to a military base I would have thought it was some kind of test plane because it resembled a stealth bomber but Charlotte has none closeby and I don't think Mint Hill is where they would test fly. I watched the news that night and the next morning to see if the sighting would have been on. Nothing. I know someone else had to have seen it. It was so huge and so close to the ground.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40540.html](http://www.nuforc.org/webreports/reports/040/S40540.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in High Point (NC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Red and white lights saw in the sky and attempted communication.I was out tonight looking for Saturn's because it was still at opposition.  I had my telescope out looking for Saturn.  I had my dog out and my mother came out to help me look, as I did not know where to look (and still don't) for saturn.  I was casually looking to the Southeast from my houses perspective and mine.  I had noticed a fast, bright red light flying across the sky going at a incredibly fast speed.  It then disappeared from my view. I then observed a 2nd ship (or possibly the same one, I'm not entirely sure.) with white lights flying the same speed as the first one.  However, this one had a white light instead of a red one and it flew in a  different direction.  This one flew in the flight path of the Red one, going through the flight path at the side, instead of straight like the Red one or when it had it's red light on.  The white one or different crafts (since I'm not entirely sure, I cannot rule out the possibility of there being more then one.) danced around in the sky, seeming to do impossible movements that any known aircraft to my knowledge could do.  My mother tried to signal it with a Android Smartphone light.  The craft responded by blinking its light once again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119115.html](http://www.nuforc.org/webreports/reports/119/S119115.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/163/S163453.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163451.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163454.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163693.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163447.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
