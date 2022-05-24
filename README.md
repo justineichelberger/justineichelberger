@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:05:27 on 24 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:34 on 24 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>I was watching my 2 year old son and happened to look up towards the sky.  There was a black helicopter flying by first and then after it left 3 circular shiny objects were hovering.  They were quick moving and I watched them for a few minutes moving back and forth with each other before going inside to get my phone.  I tried to get pictures but the sun was blocking me from being able to take anything clearly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146473.html](http://www.nuforc.org/webreports/reports/146/S146473.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Palm Bay (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright Orange Light Slowly Flying Over Palm Bay Floridalast night about 8:26 There was a Delta rocket launch from KSC in northern Brevard county. KSCis anout 40 miles to the north of us.  About 35 minutes after the launch, my daughter called to tell me she and two friends were watching a orange "fire ball" slowly flying to the east of them heading south.  She was about 4 miles north of us at the time.  My husband and I went out and watched the sky about 1 minute later we saw an orange ball of light, it looked fairly large from where we stood coming toward us from the east, heading west.  It was completely silent and I did notice a tiny white light in the back of it. The object slowly started heading south and eventually disappeared.  My husband the  ever the sceptic even mentioned how odd the thing was.  I have seen plenty of fire balls here and they usually speed through the sky. .this kind of took it time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98123.html](http://www.nuforc.org/webreports/reports/098/S98123.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/163/S163453.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163451.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163454.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163693.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163447.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
