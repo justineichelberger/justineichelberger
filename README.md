@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:44 on 24 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:13:48 on 24 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in North Merrick (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>there was a very large oval shaped object with a bright red glowing bottomMy mom and I were riding our bikes around calhoun highschool parking lot at about 8:45pm. There were about 20 other people riding bikes and jogging on the track that did not notice anything. I was infront of my mom riding along and i looked at the sky and there was a very large oval shape with a very bright red bottom. this is not a very isolated area with many people. The rest of the craft was a silvery metalic color. There were no wings or anything on it. it was going very slow moving,just hovering over the trees. we only saw it for about 20 seconds,then it disapeared into the trees. the craft did not have a sond or anything like that.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64149.html](http://www.nuforc.org/webreports/reports/064/S64149.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Mint Hill (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Triangle shape silently hovering just over the trees and housesI was driving on Lawyers Road coming from Albemarle Road. It was dusk about 8:45pm and I had my 2 boys with me. The area is well populated with houses with wooded lots. Right along the road, about 25 feet above the trees, I saw a huge aircraft. I said to my son, "Look, what is that?" The aircraft seemed to be at least as big as half of a football field. I was traveling about 35 mph and was passing this thing. It made no noise and just was hovering there above the houses. I slowed down to get a better look. It was dark gray. It was triangular shaped and I could see a white light at the end of the wing on the underside. It was so low and large that I couldn't see the other wing. I remember a red light in the middle of it. It was so close to me that I could see the square panels and what looked like the rivets that held it together. I drove to the shopping center on the corner of Margarit Wallace Road about 1/4 a mile down the road and pulled in to wait for it to fly over. It never did. I wanted to drive back but my kids were frightened so I went home. I never called the police or anyone to report it. I didn't think anyone would believe me. If I were close to a military base I would have thought it was some kind of test plane because it resembled a stealth bomber but Charlotte has none closeby and I don't think Mint Hill is where they would test fly. I watched the news that night and the next morning to see if the sighting would have been on. Nothing. I know someone else had to have seen it. It was so huge and so close to the ground.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40540.html](http://www.nuforc.org/webreports/reports/040/S40540.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/163/S163453.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163451.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163454.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163693.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163447.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
