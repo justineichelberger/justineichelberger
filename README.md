@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:01:25 on 24 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:44 on 24 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in High Point (NC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Red and white lights saw in the sky and attempted communication.I was out tonight looking for Saturn's because it was still at opposition.  I had my telescope out looking for Saturn.  I had my dog out and my mother came out to help me look, as I did not know where to look (and still don't) for saturn.  I was casually looking to the Southeast from my houses perspective and mine.  I had noticed a fast, bright red light flying across the sky going at a incredibly fast speed.  It then disappeared from my view. I then observed a 2nd ship (or possibly the same one, I'm not entirely sure.) with white lights flying the same speed as the first one.  However, this one had a white light instead of a red one and it flew in a  different direction.  This one flew in the flight path of the Red one, going through the flight path at the side, instead of straight like the Red one or when it had it's red light on.  The white one or different crafts (since I'm not entirely sure, I cannot rule out the possibility of there being more then one.) danced around in the sky, seeming to do impossible movements that any known aircraft to my knowledge could do.  My mother tried to signal it with a Android Smartphone light.  The craft responded by blinking its light once again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119115.html](http://www.nuforc.org/webreports/reports/119/S119115.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Langley (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>5 objects chasing each other in the sky...I was outside looking at the moon and the sky before going into my house and i noticed these spherical lights chasing each other around the sky, then suddenly four of the spheres went straight up to be unseen and one went straight over head traveling at a fast speed then it shot up and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37149.html](http://www.nuforc.org/webreports/reports/037/S37149.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/163/S163453.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163451.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163454.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163693.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163447.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
