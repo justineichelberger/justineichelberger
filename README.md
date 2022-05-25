@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:25:20 on 25 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:07:25 on 25 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Lorian (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.2 - 0.2 minutes.</sub><blockquote><sub>I WAS WORKING 2ND SHIFT, GOT OFF AT 2:00 WENT DOWN TO LAKE ERIE FOR SOME WALLEY FISHING.HAD ONLY BEEN THERE FOR 10 OR 15 MINUTES. NOW MIND YOU, LORAIN HARBOR IS ABOUT 1/2 MILE TO MY EAST AND THERE IS A FRIEGHTER ABOUT TO LEAVE PORT . IT HAD ALL OF ITS DECK LIGHTS ON.IT HAD BEEN BEEN A WARM OVERCAST DAY,RAIN ALL DAY THEN CLEARED, MAYBE 1500 FT. CIELING.I WAS WACTHING THE FRIEGHTER WHILE I WAS CASTING OUT WHEN THERE WAS THIS FLASH OF LIGHT THAT CAUGHT MY ATTENTION IN THE SKY. IT WAS BLUISH GREEN IN COLOR. IT CAME DOWN THRU THE CLOUDS TO ABOUT 1000 FT.IT HAD A LONG TAIL,THEN STOPPED,WENT UP ABOUT 500 FT. THEN DOWN, THEN BACK UP, THEN HEADED TO THE WEST (TOWARDS DETROIT FROM MY PERSPECTIVE). I EMIDIATLY LOOKED AT THE FREIGHTER TO SEE IF IT HAD ANY SPOT LIGHTS ON AND IT DID'NT. I KNOW THAT ABOUT THIS TIME ART BELL WAS REPORTING THESE TYPE OF EVENTS, BUT NOBODY BELIEVED ME AT THE TIME. I FELT COMPELLED TO REPORT THIS EVENT.((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46773.html](http://www.nuforc.org/webreports/reports/046/S46773.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Tempe (AZ) reported seeing craft that fit the description of some '' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>High altitude night flare over residential area?I am reporting this nearly a year after the experience, but due to online messaging logs I can tell precisely when it was.  I was out in my backyard smoking when all of a sudden, my surroundings became illuminated as if in daylight, or at least a very strong overhead light.  Frozen in fear, I looked up at the sky, seconds after the illumination began, and witnessed only what appeared to be a white burning horizontal column moving across the sky, appearing to be very high in altitude, and casting off white embers.  There was no sound, nor detectable smells, and the white column appeared to "burn out," in any event going away with the illumination receding.  Some type of aerial flare or what?((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75441.html](http://www.nuforc.org/webreports/reports/075/S75441.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163548.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163421.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163417.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163434.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163405.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
