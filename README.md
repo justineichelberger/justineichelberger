@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:39 on 25 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:43 on 25 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Friendswood (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>2 Objects sighted 3 minutes apart traveling from the south to the north...At approximately 1915 hrs., my wife came in the house to tell me to come outside.  My wife pointed toward the Southeast, and we saw a very bright very dark amber light, almost red in color, coming toward us and overhead.  The craft had no discernible shape but the lighting on the bottom had the appearance of a sliced in half pomegranate...  At the time I didn't have any way to video it… I went back inside the house to lookup the telephone number to report the incident, and just about the time I was dialing the number, my wife came running back in the house very excited telling me there was another craft just like the first one.  I grabbed my phone which has 4K video capability and ran outside to video this thing!  I kept the image direct center of my screen and zoomed in and out for 20 seconds never loosing sight and maintaining a clear picture.  After the craft had disappeared to the north, I played back the video and to my surprise, the video was scrambled!  I took another video afterwards to check and see if my camera was working properly by pointing to the sky and the video was excellent!  Evidently some type electromagnet radiation had disrupted my camera from taking a clear video image…I saved the video, so if you are interested in viewing I can send to you...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134187.html](http://www.nuforc.org/webreports/reports/134/S134187.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Shady Shores (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>normal jet disapearsI was driving around and happened to see a vapor trail from a plane. It was a normal vapor trail except that it was not strait, it was like L shaped. I remember looking at the plane and wondering what kind of plane that was. About 2 minutes later I looked up and there was no plane. I looked far in front of the planes path but couldn't see a plane. Never seen anything like that before. The vapor trail just turned into clouds.((NUFORC Note:  We suspect that the witness observed a normal contrail behind a high-altitude jet.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23018.html](http://www.nuforc.org/webreports/reports/023/S23018.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163548.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163421.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163417.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163434.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163405.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
