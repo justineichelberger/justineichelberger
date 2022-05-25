@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:36 on 24 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:47 on 25 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Wilmington (DE) reported seeing craft that fit the description of some 'Changing' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>What started out as 4 cylindrical lights changed into one, it looked like a purple cloud. It then switched to 8 smaller cylinder shaped lights, diagonally lined up in the sky, then again back to one.  Then it disappeared and the sky was clear or all cloud.  There appeared to be another aircraft to the left, it had a red light then it flickered white, flashed brightly and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156686.html](http://www.nuforc.org/webreports/reports/156/S156686.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Ontario (OR) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>UFO OVER ONTARIO, OREGON.I had just left the state park north of Ontario, Oregon and was just crossing over I84 Highway when I noticed a cool cloud formation, I usually stop to take these kind of pics besides sunsets.I pulled off the side of the road and put my window down to take a picture of the cloud formation.  I got my window up and continued on my way into town and home.  When I got home and parked I looked at the picture and thought it looked cool.  I happen to notice a black dot on the left side in the picture.  I expanded the image and noticed it looked like a disc titled and facing my way when I had taken the picture.  I was excited to have captured this. Looks like a disc to me.  You be the judge.  ((initials deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151931.html](http://www.nuforc.org/webreports/reports/151/S151931.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/163/S163453.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163451.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163454.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163693.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163447.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
