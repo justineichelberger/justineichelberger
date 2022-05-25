@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:43 on 25 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:30 on 25 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Shady Shores (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>normal jet disapearsI was driving around and happened to see a vapor trail from a plane. It was a normal vapor trail except that it was not strait, it was like L shaped. I remember looking at the plane and wondering what kind of plane that was. About 2 minutes later I looked up and there was no plane. I looked far in front of the planes path but couldn't see a plane. Never seen anything like that before. The vapor trail just turned into clouds.((NUFORC Note:  We suspect that the witness observed a normal contrail behind a high-altitude jet.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23018.html](http://www.nuforc.org/webreports/reports/023/S23018.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1991, an anonymous witness in Lone Pine (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Mysterious Green Light following US-395 near Lone PineMy brother and I were heading towards the LA area from Mammoth Lakes, CA.  We were southbound on US-395.  It was approximately 9 PM and it was pitch black outside.  There are no lights at all in this area.  This area (Owens Valley) is a long N/S valley that is bordered on the E/W by mountain ranges in excess of 14,000 Ft.  As we were driving south of Lone Pine, my brother told me to look at a light that was to the left of the vehicle.  I looked and I saw a green light.  It was off to the east of the roadway by approximately 3 to 4 miles.  It was only about 400 to 500 feet off the ground.  It was moving at approximately 150 to 200 MPH.  It had apparently come from behind us, out of our view, and we noticed it as it passed us to the left.  We watched it as it continued south.  Since it was doing approximately 150 MPH faster than us, it gradually got further away until we couldn't see it anymore.  We expected to see it get higher as at the end of the valley, there was a ridge of foothills that it would have to climb over, but we never saw it again.  This light very well could have been an airplane as all airplanes have a green navigational light on the right wingtip.  But, there were no other lights other than the green one.  No flashing strobe lights or other lights indicative of an airplane.  Also, the green light was more like a luminescent "glowing" color, very different from the green color that is typically used on an aircraft.  Unless this was a military aircraft with night vision capabilities, there would have been no way for a pilot to see the terrain.  If you look on an aeronautical map, the section where we saw this "light" has mountains as high as 14,000 feet and it is pitch black out there with no ground lights to use for visual reference or dead reckoning.  Although we didn't stop the vehicle to listen for aircraft noise, we never did hear any noise.  If it was a military jet, even at 3 to 4 miles distant, we should have heard some jet noise.  The area in question is very near the China Lake! Naval W eapons Station.  During the daytime, I have seen plenty of fighter jets maneuvering in that area, however it was always during daylight hours and they were always up above 25,000 ft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15395.html](http://www.nuforc.org/webreports/reports/015/S15395.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163548.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163421.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163417.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163434.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163405.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
