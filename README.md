@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:47 on 25 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:29:09 on 25 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Ontario (OR) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>UFO OVER ONTARIO, OREGON.I had just left the state park north of Ontario, Oregon and was just crossing over I84 Highway when I noticed a cool cloud formation, I usually stop to take these kind of pics besides sunsets.I pulled off the side of the road and put my window down to take a picture of the cloud formation.  I got my window up and continued on my way into town and home.  When I got home and parked I looked at the picture and thought it looked cool.  I happen to notice a black dot on the left side in the picture.  I expanded the image and noticed it looked like a disc titled and facing my way when I had taken the picture.  I was excited to have captured this. Looks like a disc to me.  You be the judge.  ((initials deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151931.html](http://www.nuforc.org/webreports/reports/151/S151931.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Wikieup/Kingman (AZ) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Around 3:30 hours, a bright flash of light ascended, as it ascended the intensity of the light grew until it was very bright, then vanished. This was spotted before Wikieup heading south from Las Vegas, Nevada.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70190.html](http://www.nuforc.org/webreports/reports/070/S70190.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163548.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163421.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163417.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163434.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163405.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
