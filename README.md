@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:49 on 25 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:36 on 25 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I saw three strange lights moving very fast across the sky in formation but not perfect unison (separate objects)My coordinates at the time of the sighting according to google maps: (45.5248002, -122.6920721)  Lying on my apartment’s balcony with my feet pointing north, I saw three dim (almost hazy) white lights moving silently at approximately equal speed from the southwest to the north, passing through the handle of the Big Dipper. They were almost equidistant from each other in a diagonal line but the one furthest to the right broke formation slightly. It looked like it’s position wobbled in relation to the others. This made me realize that they weren’t quite moving in perfect unison and seemed like three separate objects. They were moving at high speed. The speed indicated to me that if it were a plane, it would have to be close to the ground in order to appear as if it were crossing the sky so quickly. However, it produced no sound audible to me and did not visually appear close to the ground.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163542.html](http://www.nuforc.org/webreports/reports/163/S163542.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Torrey (UT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Cluster of 100+ Lights over over Southern Utah.From the time one of us took notice and alerted the others, we watched for about 3-5 minutes in the northern sky, moving east to west across until out of sight headed NW about level with the North Star.  No moon in the sky.  A cluster of an estimated 100+ circular, bright bluish white lights with about 20-30 trailing slightly behind the main cluster or formation.  First looked like a glittery ribbon until watching and noticing none were fading out but were moving independently of each other.  Looked similar to balloons but appeared much farther away and fast moving while changing direction and speed, like fish in a school.((NUFORC Note:  Space X satellites, being released from the Falcon 9 capsule.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146328.html](http://www.nuforc.org/webreports/reports/146/S146328.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163548.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163421.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163417.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163434.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163405.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
