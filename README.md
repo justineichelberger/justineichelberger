@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:37 on 25 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:49 on 25 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Ottawa (Canada) (ON) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Round disc seen heading north over East Ottawa Canada, Beechwood area May 25 18:30We were sitting on a deck facing North, looking across a creek with greenspace/park area, with Beechwood Cemetery in the distance; a clear sunny beautiful evening, slightly breezy.  A black/dark grey round something appeared above the cemetery fairly high in the sky, changing it's axis and then steadied itself parallel to the ground and moved at a constant rate (fairly fast) and in a straight line north until it was out of sight.  We thought it was a bird but there was no flapping and it was faster than a bird, and a round, disc.  We don't know what it was, it wasn't a balloon because it didn't continue to go higher, and it didn't adjust it's speed to the wind, fast then slow or vary in direction like a balloon or kite.  I would say it was about 2500-3000 feet in altitude; I don't know what it was, just what it wasn't.  It was not silver, had no lights, no "crest" or hump shape in the center that we could see, but then we were not looking at it horizontally, but at an upward diagonal direction.  I would be interested if anyone else saw it.  One airplane jet passed shortly after, <3 minutes later, not in pursuit though, but across it's flight path, after it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63617.html](http://www.nuforc.org/webreports/reports/063/S63617.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I saw three strange lights moving very fast across the sky in formation but not perfect unison (separate objects)My coordinates at the time of the sighting according to google maps: (45.5248002, -122.6920721)  Lying on my apartment’s balcony with my feet pointing north, I saw three dim (almost hazy) white lights moving silently at approximately equal speed from the southwest to the north, passing through the handle of the Big Dipper. They were almost equidistant from each other in a diagonal line but the one furthest to the right broke formation slightly. It looked like it’s position wobbled in relation to the others. This made me realize that they weren’t quite moving in perfect unison and seemed like three separate objects. They were moving at high speed. The speed indicated to me that if it were a plane, it would have to be close to the ground in order to appear as if it were crossing the sky so quickly. However, it produced no sound audible to me and did not visually appear close to the ground.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163542.html](http://www.nuforc.org/webreports/reports/163/S163542.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163548.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163421.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163417.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163434.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163405.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
