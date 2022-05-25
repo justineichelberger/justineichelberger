@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:41 on 25 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:39 on 25 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in New Westminster (Canada) (BC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Odd moving bright light over New westminsterI don't recall the exact time I saw the object (approx 40 mins prior to my sending this), but right after I did I came on the web to google how to file a report.  I've had quite a bit to drink tonight and I'm rather skeptical, but I've lived here for about 8 years...see planes, satellites (?), and helicopters on a pretty regular basis, and what I saw tonight was completely unusual.  There was an object in the sky headed in a direction (North - east I think (?) that I can't recall any plane headed in ever here.  It was very bright, like helicopter, but looked much further away with a bigger, brighter light (an assumption based on the distance that it appeared) than what I'm familiar with.  When I first saw it, I immediately thought it was very unusual, and tried to keep my eyes on it, but it slowly zig-zagged while moving north I think and moments later was out of range. When I say "slow," I mean way faster than a plane, but not like an illusion of teleporting ! like what someone might perceive when drinking, as a result of that whole double vision effect.  I smoke and drink, so I've been outside inebriated literally hundreds of times.  I spend a lot of time looking up at the sky, watching all sorts of odd lights fly by (assuming what isn't a plane, is either a helicopter, or satelite, but this was very, very different (Its light looked different, and it moved really funny (side to side), so in case there's another report from the area,  I just thought I'd back that up as a witness, because it was just nothing like I've ever seen before around here.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98098.html](http://www.nuforc.org/webreports/reports/098/S98098.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Eight balls of lights passing over.  One dimmed out to grey object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109761.html](http://www.nuforc.org/webreports/reports/109/S109761.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163548.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163421.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163417.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163434.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163405.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
