@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:38 on 25 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:34 on 25 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lake Shasta (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Saw an orange fireball move silently across the sky from west to east.  Perhaps a rocket?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98200.html](http://www.nuforc.org/webreports/reports/098/S98200.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Worcester (MA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>4 solid red circular lights silently hovering and slowly moving eastward in a line formationWhile driving home, we all saw 4 silently hovering and moving slowly eastward red solid lights in a line formation.  Three of them were in a row while the fourth lagged a little below and to the left.  One  vehicle occupant attempted to take a photo, but it came out poorly since the car was in motion.We lost sight as We turned on a street, trees were in the way.The lights were solid red, silent, and no strobes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109731.html](http://www.nuforc.org/webreports/reports/109/S109731.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163548.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163421.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163417.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163434.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163405.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
