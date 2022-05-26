@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:05:38 on 26 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:39 on 26 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Campbell River (BC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Seven objects travelling in formation SW to NEAt approximately 22:30 hrs. on May 26, 2019,  I looked up and saw a string FIVE (5) evenly spaced bright white (medium star brilliance) objects travelling in linear formation in a SW to NE direction. This formation covered an arc of approximately 1/20th of the sky.  From time to time a SIXTH (6) object would appear behind the others for a few seconds then fade.  TWICE a SEVENTH (7) object appeared much farther behind and much brighter than the rest, as bright as almost any star.  These objects took approximately 2 minutes to transit the sky.  The trajectory was steady, and the spacing did not appear to change.((NUFORC Note:  SpaceLink satellites.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146434.html](http://www.nuforc.org/webreports/reports/146/S146434.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in White Hall (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>A wwhite flashing UFO zipping below storm clouds.This night there was a thunderstorm, and so no plane was ever in evidence.  This sighting was entirely below storm clouds.  THree times I saw a blinking white light--first, about 10, low, going back and forth a few times.  It disappeared when I told Dad to look at it.  THe second time, I happened to glance out my window and it blinked three times, perfectly stationary--and I know there's no tower in that spot.  THe third time--wow!  At about 10:40, the light started careening wildly around, probably did it for 7 seconds or so, and then I stopped watching.  I didn't want to see any more!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17806.html](http://www.nuforc.org/webreports/reports/017/S17806.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163418.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163414.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163415.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163513.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
