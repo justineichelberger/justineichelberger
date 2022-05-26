@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:42 on 26 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:37 on 26 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1966, an anonymous witness in Fort Lee (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Light Over Fort Lee, Virginia, 1966FOR YOUR ARCHIVES  The following account is dated 19 June 1966. “One night several weeks ago [probably 26 May 1966] I saw what I would swear to have been [a UFO].  It was not a satellite.  We were walking back from the [Fort Lee] Service Club one night when the sky was very clear and this very distant dim spot of light came over the sky following a definite course.  Ordinarily we would have known it as a satellite, but then we saw that it had a zigzag or bobbing motion rather than a smooth course, and twice it receded or faded from view, as though it turned outward from the earth, but each time it came back.  (It was a completely clear night, stars bright, not a cloud in the sky.)   Twice also it definitely changed direction.  Finally it receded outward a last time and disappeared.  We have seen satellites enough to know them and this was unlike any satellite I have seen.  It was about the size of a very distant star and about that bright.  Its course and motion caused us to question what it was.”  Additional facts:  The sighting took place in a large open grassy ground where the sky was extensively visible without obstruction by objects or ground lights.  While the impression of zigzag motion might suggest the alternating wing lights of a high-flying plane, the most striking feature of this sighting was the object’s changes in direction, which impressed me very strongly as being made “on a dime,” that is, without a turn such as a plane might make, but a sudden, angular turn, without pause, which no known plane or satellite was capable of making at that time.  These two changes in direction were substantial, not slight.  My recollection is that the first turn marked a sharp angle, that is, sharper than a 90-degree turn.  The second turn was perhaps less sharp.  The night sky had more the clearness of winter than the usual haze of summer, and the stars were shining brilliantly.  When the craft faded from view, the third fade being the last, it diminished in size as well! as brightness, suggesting that it was moving away from earth.  Again, this was not the movement of a satellite and my memory is that it faded in place, not as it moved across the sky.  In other words, its fading was like its sharp angular turns, suggesting an instant upward-and-away movement.  We never for a moment thought it was anything like a meteor as it had none of those properties. It should be noted that alcohol played no part in this sighting.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77739.html](http://www.nuforc.org/webreports/reports/077/S77739.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in North Conway (NH) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A dark night full of stars.  A line of blinking lights in an opaque vessel traveling west to east.  High in the sky.((NUFORC Note:  Probable sighting of Space Link satellites.  PD))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146623.html](http://www.nuforc.org/webreports/reports/146/S146623.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163418.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163414.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163415.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163513.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
