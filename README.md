@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:41:46 on 26 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:27:12 on 26 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Dayton (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Sphere shaped object with colors moving at a abnormal rate of speed.My friend was driving, I was in the passenger seat driving on I-75 heading south from Dayton to Cincinnati.  It was dark outside and we had been driving on I-75 from Dayton for about 10-15 minutes when my friend driving looked up and said what the hell is that!  I immediately looked up and saw a sphere shaped object that seemed to be changing color or rotating with differently red and blue colors on the object right above us.  The object appeared small at first but then got slightly larger (seemingly lowering its altitude).  I followed the object as it moved past the freeway heading Northward off I-75.  I followed it off the freeway and the object appeared to have a faint white light behind it.  It was fairly close to us still as it moved away and then, within 20 seconds went very fast away going very high upward until it was no longer visible.  While it was over the freeway, it seemed to be hovering or staying in place for a second.  As it went away it moved at a very very high rate of speed and climbed vertically.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98199.html](http://www.nuforc.org/webreports/reports/098/S98199.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Taos (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>3 “stars” in a straight line calmly moving in a linear path!While stargazing and identifying Orion’s Belt..  3 other “stars” caught my eye.  They were spaced out just as  Orion’s Belt, but moving in a very calm and steady linear path.  They were all seemingly connected and a part of something larger.  Connected my a translucent line, similar to fishing line.. a few times there were smaller faint “stars” that would appear to be trailing along behind it on the solitary path.  It almost felt as though these “stars” were a part of a much larger machine that was invisible to the naked eye.  I followed the train for about 3 minutes until it reached a point of light pollution and my eyes couldn’t keep up.  Never once did it bounce or steer off the course of a straight line.  Blended right in with the stars.. you wouldn’t double take unless you were doing what I was doing —- stargazing... and knowing that stars don’t move like THAT.  I looked up the satellites just as an option of debunking.. but nothing in the NM area tonight.  Alsoattempted to record but they were very dim and camera gone do poorly in low light.((NUFORC Note:  Space Link satellites.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146400.html](http://www.nuforc.org/webreports/reports/146/S146400.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163418.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163414.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163415.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163513.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
