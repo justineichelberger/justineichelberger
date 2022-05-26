@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:04:06 on 26 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:37 on 26 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>2 cigar/rectangular UFOs floating over San Francisco.2 cigar shaped ufos spotted over san francisco with flashing lights.  They floated slowly over the city covered a large distance but rotated in place as if looking around.  I could clearly see it with my own eyes and captured 2 videos on 2 different devices that shows the blinking lights.Video here: https://www.youtube.com/watch?v=tYf5a2qUsUw  (look closely for flashing dots after 30 seconds)  Details:  Shape- Long rectangular approx: 6-10 ft long (maybe more ?) x 3 ft high x 1-2 ft thick - almost like an stretched brick with rounded corners, edges didn't appear sharp.Color/Lights Dark matte or metallic color with 2 round lights on either side of the long side.  Lights were mostly green, flashing in a random pulse, occasionally a long stripe of light would flash connecting the dots.Occasionally the lights appeared more red then green. Flight Pattern: They floated from Buena Vista Hill due east towards Downtown.  They rotated in place, turning along the middle of the long axis in a random "looking" around type of pattern both clockwise and counterclockwise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127637.html](http://www.nuforc.org/webreports/reports/127/S127637.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Snohomish (WA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Three teardrop objects flying in a V pattern, followed by a fourth moments later.I am very new to astronomy, and this is meant to be a factual report of several UFO’s that I don’t have an explanation for.I was on my deck observing Mizar & Alcor of Ursa Major with 7x50 binoculars.  Ursa Major was clearly visible without the aid of the binoculars, but some other constellations were not.At approximately 22:55, three teardrop shaped objects, each appearing about three times the size of Mizar & Alcor through the binoculars flew from West to East through my field of view.  They were in a triangle pattern, very similar to a flock of birds.  I lowered the binoculars to view with my naked eye, but the objects were not visible at that point.  I viewed again through the binoculars, and was able to re-find the objects, still moving along the same trajectory, and with the same velocity, this time just further East of Ursa Major.I went back to observing stars of Ursa Major, and approximately one minute later saw a single teardrop shaped object, exactly like the previous three, traveling in the same West to East trajectory as the ones described previously, only this one seemed to be traveling at about three times the speed of the others.At that point I went in to explain to my wife, and then came back out for another five minutes or so, but saw no more objects of that nature.I live near a private air field, and I am very aware of how a small plane appears in the night sky.  These objects were just solid white, with no blinking whatsoever, and appeared to be traveling much faster than any plane I have ever witnessed, including jets.  There was also no sound associated with the objects.  I cannot explain why Ursa Major was clearly visible with the naked eye, and these objects were not, considering they appeared larger than the stars through the lenses of the binoculars.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63556.html](http://www.nuforc.org/webreports/reports/063/S63556.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163418.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163414.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163415.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163513.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
