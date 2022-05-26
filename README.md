@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:38 on 26 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:41 on 26 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in West Bridgewater (MA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>BRIGHT GLOWING OBJECT    WEST BRIDGEWATER    MAY 26    10:10PMI came home late and my fiancé yelled at me that she had seen a UFO.  She told me that it was a glowing light over the tree line that got bigger and when it came towards her she ran in the house.  It was very bright and made no noise.  She was terrified and would not go outside alone for weeks. On May 29 I went on another site and posted the question if anyone else had seen anything.  I now see on this site that other people have seen this.  I am trying to get her to give a full account but she is somewhat embarrassed about seeing a UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57628.html](http://www.nuforc.org/webreports/reports/057/S57628.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Milwaukie (OR) reported seeing craft that fit the description of some '' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Clear kidneybean shaped thing in the skyTuesday May 26, 2009 at 23:05:  I was sitting on my bed playing a game on my laptop when a flash caught my eye.I looked up and out of my bedroom window (second floor) and there above the rooftop (NE) of the building in front of me (the sky was clear) was a clear, kidney-bean shaped "thing" that had a white light in the center with sharp, thin beams of light shooting out in all directions to the edge of it. It also had smaller pinpoint lights within and sporadically surrounding the large middle light.  Just as I got a good look at it (a few seconds), it shot off (like a hockey puck gliding over ice) to my right and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70442.html](http://www.nuforc.org/webreports/reports/070/S70442.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163418.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163414.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163415.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163513.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
