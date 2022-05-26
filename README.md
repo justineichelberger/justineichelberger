@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:43 on 26 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:47 on 26 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Rochester (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orange orbs near Lake OntarioMy sister and I witnessed 2 sets of orange lights traveling eastward about 1/10th of a mile from Lake Ontario.  First 2 sailed directly overhead.  Bigger than stars but silent so impossible to tell how large. Then after they disappeared, 2 more came from the same direction and went the same way. I watched one carefully and before it disappeared it sped up and got smaller at the same time, also angled upward slightly and then it was gone.  My sister got the 2nd 2 on video.  I noticed there was also a couple of planes in the sky, farther off.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98416.html](http://www.nuforc.org/webreports/reports/098/S98416.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Los alamos (NM) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>3 lights connected by red stringI was looking up at night sky for satellites and saw 3 stars really bight.  I thought they were the constellation the 3 ladies, I think.  Then they headed north east very fast like 3 stars connected by a red string.  My daughter ran out and as they went overhead you could see 2 more following them.  Then they went straight north by the time my husband saw them.   They were moving so fast and no sound and no blinking.  Like 5 stars connected by a string. Freaked us out and we left phones inside house.((NUFORC Note:  Space Link satellites.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146404.html](http://www.nuforc.org/webreports/reports/146/S146404.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163418.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163414.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163415.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163513.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
