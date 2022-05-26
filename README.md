@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:08:09 on 26 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:04:06 on 26 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Wellington (KS) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Bright Orange Sphere.An orange sphere the size of a softball but brightly lit moved rapidly and erratically from side to side zigzag while traveling  north to southerly direction leaving a small trail of light behind itself.  I woke up to let dog out and always look up at stars and sky when the orange sphere appeared above and between two trees that are across the street and about only a couple hundred feet up above in the sky and shown only for about two seconds before being out of sight into the treetop.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109732.html](http://www.nuforc.org/webreports/reports/109/S109732.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>2 cigar/rectangular UFOs floating over San Francisco.2 cigar shaped ufos spotted over san francisco with flashing lights.  They floated slowly over the city covered a large distance but rotated in place as if looking around.  I could clearly see it with my own eyes and captured 2 videos on 2 different devices that shows the blinking lights.Video here: https://www.youtube.com/watch?v=tYf5a2qUsUw  (look closely for flashing dots after 30 seconds)  Details:  Shape- Long rectangular approx: 6-10 ft long (maybe more ?) x 3 ft high x 1-2 ft thick - almost like an stretched brick with rounded corners, edges didn't appear sharp.Color/Lights Dark matte or metallic color with 2 round lights on either side of the long side.  Lights were mostly green, flashing in a random pulse, occasionally a long stripe of light would flash connecting the dots.Occasionally the lights appeared more red then green. Flight Pattern: They floated from Buena Vista Hill due east towards Downtown.  They rotated in place, turning along the middle of the long axis in a random "looking" around type of pattern both clockwise and counterclockwise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127637.html](http://www.nuforc.org/webreports/reports/127/S127637.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163418.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163414.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163415.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163513.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
