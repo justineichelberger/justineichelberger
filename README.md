@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:38 on 26 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:38 on 26 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Wellington (KS) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Bright Orange Sphere.An orange sphere the size of a softball but brightly lit moved rapidly and erratically from side to side zigzag while traveling  north to southerly direction leaving a small trail of light behind itself.  I woke up to let dog out and always look up at stars and sky when the orange sphere appeared above and between two trees that are across the street and about only a couple hundred feet up above in the sky and shown only for about two seconds before being out of sight into the treetop.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109732.html](http://www.nuforc.org/webreports/reports/109/S109732.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in West Bridgewater (MA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>BRIGHT GLOWING OBJECT    WEST BRIDGEWATER    MAY 26    10:10PMI came home late and my fiancé yelled at me that she had seen a UFO.  She told me that it was a glowing light over the tree line that got bigger and when it came towards her she ran in the house.  It was very bright and made no noise.  She was terrified and would not go outside alone for weeks. On May 29 I went on another site and posted the question if anyone else had seen anything.  I now see on this site that other people have seen this.  I am trying to get her to give a full account but she is somewhat embarrassed about seeing a UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57628.html](http://www.nuforc.org/webreports/reports/057/S57628.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163418.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163414.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163415.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163513.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
