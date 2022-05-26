@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:36 on 26 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:18 on 26 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Wedowee (AL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Looked like a spot of fire traveling across the sky!  then it disappeared into the darkness.Most of my family were celebrating Memorial Day weekend at Lake Wedowee, located in Alabama when Sunday night (5-26-13) one family member came inside and alerted everyone that there was something in the sky.  It was about 10:30 pm.  This is not first time we have seen a UFO over there.  But this was like nothing I’ve ever seen, it looked like a spot of fire in the sky.  It came out from behind some trees in  the sky and went across the sky slowly.  It stopped or slowed way down and just went out of sight as if it was rising further and further out of our atmosphere.Approximately a half hour later the same light in the sky was spotted again and moved slowly in somewhat the same direction and also disappeared in the same way as the first time.  It was a very bright orange color and it was as if  a piece of fire was traveling across the sky.  It was moving northwest both times.In the last year we have spotted several UFO’s in the western sky over Lake Wedowee.  The other ones didn’t look anything like the one we saw last night.We are not alone!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98182.html](http://www.nuforc.org/webreports/reports/098/S98182.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.0 - 0.0 minutes.</sub><blockquote><sub>Beige object west of Sandia Crest, Albuquerque, NMI am a 40 year old male, former biochemist and practicing securities lawyer.I am submitting a photo that was taken by me at the end of Pino Trail near the top of Sandia Mountain at 1:58pm on May 26th.  I did not witness the object at the time the photograph was taken.Zoom in on the object that appears above the clouds.  I was alone and at least 4 miles few miles away from "civilization."  No other hikers were in the area - so rock throwing is unlikely.A second photo taken within 10 seconds of the attached pic and shows nothing (although it doesn't show exactly the same portion of the sky, it does capture the area where this object is located).   I can send photo nos. 6199 and 6201 and others taken at the spot within minutes of photo no. 6200 if you have any interest.  In any case, these seem to discount the weather balloon theory.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57566.html](http://www.nuforc.org/webreports/reports/057/S57566.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163418.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163414.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163415.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163513.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
