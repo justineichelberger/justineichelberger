@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:36 on 25 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:52 on 26 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Santa Fe (NM) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>UFO sighted near Eldorado at Santa Fe.There was a very high wind and loud noise.  The trees were bending.  Saw an object moving parallel to the earth and about 500 feet from the ground.  It moved very slow.  Too slow for a normal aircraft to fly without stalling.  It had 2 red lights, which were located on each end of the object.  As the craft moved away from our house, the wind stopped, and it silently moved towards the horizon out of sight.  You could not hear any noise of any kind emitting from it.((NUFORC Note:  We have amended the date above, in order to reflect a sighting in May, not June, of 2016.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127520.html](http://www.nuforc.org/webreports/reports/127/S127520.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in South Lake Tahoe (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Mothers Day 2012 Fireball sighting over Lake TahoeMother’s Day weekend 2012:  We were visiting South Lake Tahoe CA.  We stayed at a hotel right on the lake.  We checked into the hotel around 10:00pm.  The first thing we did when we got into the room is check out the view from the balcony.  My boyfriend saw it first, and pointed at this orange ball in the sky over the lake.  It was moving towards the other side of the lake.  I was freaking out and desperately trying to figure out how to take a video or picture on my phone, but couldn’t figure it out.  Then it just got smaller and disappeared into the distance.  This all happened in less than a minute.  A weird coincidence is that we went to dinner earlier and there was broken glass all over my seat and I cut my figure.  Now my left index figure has a triangle shaped scar right below my figure nail. It always reminds me of what we saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105922.html](http://www.nuforc.org/webreports/reports/105/S105922.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163548.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163421.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163417.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163434.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163405.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
