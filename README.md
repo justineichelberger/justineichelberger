@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:12:14 on 26 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:38 on 26 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Murrieta (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Flashing disc of red blue and white lights over Murrieta/Temecula that left with a comet looking flashI live on a hillside in Murrieta, California.  Our home overlooks a large portion of the valley below and we have fewer glares than homes below us.  I think that really made the difference in this sighting.  I was helping my nine year old get ready for bed this evening, at approximately 8:50 p.m.  I went into our 2nd story loft to open a window, and due to the pretty view, I peeked out through one of the windows.  I noticed a strange flashing object hovering over what seemed to be roughly over the Promenade Mall in Temecula, or maybe south a mile or two, over the power lines off of Route 79 south.  The object was not moving, and I watched it for at least 10 minutes to see if would reveal itself to be a helicopter, or plane.  It just stayed in the area. It was barely moving around, except for the spinning motion, going clockwise.  It could easily see white spinning lights, turning blue, then back to white, and then red and then to white again.  It seemed to wobble a few times, but remained over the area without moving away.  I had to step away to tuck my daughter into bed, and when I got back it was still there.  I grabbed my telescope and ran downstairs, but when I went to the front door, the house across the street was blocking my view.  I ran to the garage and tried to find it, but the same house blocked the view.  I went back upstairs, frustrated, and found it in the sky, but it had moved about 2 inches to the right, from my viewpoint.  Then, it flashed like a camera flash, and then I saw a yellow streak fly across the sky, moving upwards at an angle of about 45 degrees.  I remember thinking it looked like a comet in reverse.  The streak was gone in an instant.  This whole process took 20 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63566.html](http://www.nuforc.org/webreports/reports/063/S63566.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Wellington (KS) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Bright Orange Sphere.An orange sphere the size of a softball but brightly lit moved rapidly and erratically from side to side zigzag while traveling  north to southerly direction leaving a small trail of light behind itself.  I woke up to let dog out and always look up at stars and sky when the orange sphere appeared above and between two trees that are across the street and about only a couple hundred feet up above in the sky and shown only for about two seconds before being out of sight into the treetop.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109732.html](http://www.nuforc.org/webreports/reports/109/S109732.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163418.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163414.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163415.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163513.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
