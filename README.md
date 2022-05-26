@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:27:12 on 26 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:08:09 on 26 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Taos (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>3 “stars” in a straight line calmly moving in a linear path!While stargazing and identifying Orion’s Belt..  3 other “stars” caught my eye.  They were spaced out just as  Orion’s Belt, but moving in a very calm and steady linear path.  They were all seemingly connected and a part of something larger.  Connected my a translucent line, similar to fishing line.. a few times there were smaller faint “stars” that would appear to be trailing along behind it on the solitary path.  It almost felt as though these “stars” were a part of a much larger machine that was invisible to the naked eye.  I followed the train for about 3 minutes until it reached a point of light pollution and my eyes couldn’t keep up.  Never once did it bounce or steer off the course of a straight line.  Blended right in with the stars.. you wouldn’t double take unless you were doing what I was doing —- stargazing... and knowing that stars don’t move like THAT.  I looked up the satellites just as an option of debunking.. but nothing in the NM area tonight.  Alsoattempted to record but they were very dim and camera gone do poorly in low light.((NUFORC Note:  Space Link satellites.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146400.html](http://www.nuforc.org/webreports/reports/146/S146400.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Wellington (KS) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Bright Orange Sphere.An orange sphere the size of a softball but brightly lit moved rapidly and erratically from side to side zigzag while traveling  north to southerly direction leaving a small trail of light behind itself.  I woke up to let dog out and always look up at stars and sky when the orange sphere appeared above and between two trees that are across the street and about only a couple hundred feet up above in the sky and shown only for about two seconds before being out of sight into the treetop.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109732.html](http://www.nuforc.org/webreports/reports/109/S109732.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163418.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163414.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163415.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163513.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
