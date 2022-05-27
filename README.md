@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:52 on 27 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:39 on 27 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Huntington (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Summary : I'm 15 years old and this happened about a year ago but I just found this place to submit it. Me and my friend were sleeping in my backyard when we saw A light streak across the sky then just disapear.I'm 15 and this happened over a year ago and I just found this place to submit this.Me and my friend were sleeping in my backyard when a green light streaked halfway acrossthe sky and then just disappered. The whole thing only lasted about 5 or 6 seconds. Then about 5 minutes later we saw it streak by again then it dissapered again and we've never seen it again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02063.html](http://www.nuforc.org/webreports/reports/002/S02063.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Oxford (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Three bright white lights in synchronized flight.Three separate bright white lights spotted on a relatively clear and quiet night.  One following behind the other, traveling due east. Why it was unusual and caught our attention is that they were extremely high in the sky, at first mistaken for stars.  The lights were the size of a large star seen in the sky this night.  The lights were steady, not flashing.  They were traveling quite fast as compared to the very visible planes passing nearby, and they flew in a synchronized line.  They made no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163401.html](http://www.nuforc.org/webreports/reports/163/S163401.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163677.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163394.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163487.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163517.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
