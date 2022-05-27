@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:39 on 27 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:26 on 27 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Oxford (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Three bright white lights in synchronized flight.Three separate bright white lights spotted on a relatively clear and quiet night.  One following behind the other, traveling due east. Why it was unusual and caught our attention is that they were extremely high in the sky, at first mistaken for stars.  The lights were the size of a large star seen in the sky this night.  The lights were steady, not flashing.  They were traveling quite fast as compared to the very visible planes passing nearby, and they flew in a synchronized line.  They made no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163401.html](http://www.nuforc.org/webreports/reports/163/S163401.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Glowing Fireball witnessed by 6 sober people in front of a chicago bar.I am a bouncer at a bar. As i was carding someone, I noticed a ball of orange fire. i said to the group of sober people entering my bar "what ((deleted)) is that?" we looked up and it slowly hovered towards us and went west over the bar. someone caught a few shots with their iphone but it was just a tiny glowing dot in the picture. it was i would guess about the size of a beach ball and was floating about 7 stories high heading in a westerly direction at about 20 miles per hour.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  Possible hoax.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75663.html](http://www.nuforc.org/webreports/reports/075/S75663.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163677.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163394.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163487.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163517.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
