@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:31 on 27 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:35 on 27 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Cambridge (MN) reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Two groups of lights moving at high speedsGroup saw several lights (10+) in a line that moved at high speeds and twisted around each other disappearing behind the tree line. Ten minutes later another group of lights appeared (4-5) moving the same direction circling each other, a separate light moving  twice the speed approaches and slows in an instant to match the others and join the rotation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156717.html](http://www.nuforc.org/webreports/reports/156/S156717.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Dallas (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Red Light Mimicking Star-Like ObjectI have seen this strange object now twice in 10 days.  It was in same location and around the same time of May 17 Sighting.  This time a red light followed; and another object was blinking above for a few seconds.  Lots of movement, and was hard to follow.  Once again, an unreal experience.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119217.html](http://www.nuforc.org/webreports/reports/119/S119217.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163677.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163394.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163487.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163517.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
