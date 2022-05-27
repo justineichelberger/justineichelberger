@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:04:49 on 27 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:40 on 27 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Gampaha (Sri Lanka) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Details of the Object:- Place :- World coordinates 80 01 30 E Size :- Little bigger than a tennis ball Colour :- Front - Very bright maroon like a lotus flower Back - Very faint double like twin star Speed :- Less than a minute to cross angle of 120 degrees above compound Direction:- Almost South to North MAgnetic Height above the ground :- about 250 meters Sound :- No Sound at all Shape :- Seen as a circular Number of objects seen :- 1 (one)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23511.html](http://www.nuforc.org/webreports/reports/023/S23511.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Canton (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A group of red-orange lights following one another, travelling at a high speed and disappearing upwards into the atmosphereReddish-orange light traveling at fast speed, heading East over Southwest Michigan.  The light appeared to disappear into the atmosphere. Three more similar lights in formation appeared afterwards and seemed to be following behind the first light.  They disappeared into the atmosphere as well. A fifth light appeared out of the Western sky and appeared to be the tail end of the group.  The light, however, stopped for 5 seconds, then shot up into the atmosphere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119192.html](http://www.nuforc.org/webreports/reports/119/S119192.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163677.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163394.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163487.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163517.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
