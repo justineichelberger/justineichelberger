@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:36 on 27 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:31 on 27 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Troy (OH) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Broad Daylight, clear day, saw a cigar-shaped object that looked metallic or silver hovering or floating in the skyIt was 1:45 in the afternoon and I was driving to the store when I pulled up to a stop sign at Washington road and SR 41, west of the city of Troy, Ohio.  I noticed that northbound Washington Road was blocked by a road-closed sign (stating that the road was closed 3/4ths of a mile ahead), the orange kind that are used when construction is taking place.  As I waited for eastbound SR 41 traffic to clear in order to make my right turn, I looked past the road closed sign and to the north toward the point where dump trucks and a (presumably) construction crew was gathered.  In the sky above them was an object that I at first thought was a blimp.  It was metallic or silver in color, looked to be the correct length of a blimp at that distance, but was not tall enough in my estimation to actually be a blimp.  This was in the middle of the afternoon and the sky was perfectly clear.  The object seemed to be floating or hovering over the construction site, at maybe about twice the level of the nearby treetops.  I just sat there for about 1 minute, trying to justify and identify what I was looking at.  I dismissed the blimp idea, and then wondered if this was some sort of weather balloon or something.  I might point out that the location of this object was in a rural setting not far from a small city.  I thought that the folks at the road construction site HAD to see this thing!  I briefly considered driving around the road closed sign, to the construction site as to get a better look, but I convinced myself that I should go ahead and run the errand that I had set out to do and that if when I came back by it was still there then I'd try to investigate.  When I came back by the same area approximately 30-35 minutes later, I could no longer see the object.  A couple of hours later the road closed sign was gone and I drove down northbound Washington road to the point of construction.  It looked like they had been working on grading the roadside ditches and there was nothing that looked out of the ordinary. I'm afraid to make inquires about this locally, since I've observed that people that admit that they see UFOs are treated like nutcases.  I'd really like to know if there was a blimp in the area or if that was some sort of weather ballon.  I'd also like to know if the construction crew noticed it overhead.  It seemed pretty unnatural to me and kind of gives me the creeps.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07904.html](http://www.nuforc.org/webreports/reports/007/S07904.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Cambridge (MN) reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Two groups of lights moving at high speedsGroup saw several lights (10+) in a line that moved at high speeds and twisted around each other disappearing behind the tree line. Ten minutes later another group of lights appeared (4-5) moving the same direction circling each other, a separate light moving  twice the speed approaches and slows in an instant to match the others and join the rotation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156717.html](http://www.nuforc.org/webreports/reports/156/S156717.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163677.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163394.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163487.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163517.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
