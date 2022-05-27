@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:41:16 on 27 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:27:37 on 27 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Round shape illuminated object  going South and then becoming totally dark as it continued flyingI live close to 91st Ave and Thomas Rd in Phoenix, AZ.   Around 10:30pm, I was eating a snack and decided to go outside the house, to the backyard to be especific... The sky was mostly clear, with a few clouds to the North covering the moon, as I was scanning the sky watching planes going by I turned Northwest and saw a light that appeared to be a big star; however, I noticed that it was moving South in a straight line between 91st Ave and the loop 101 at about 3000 feet of altitude... The object was totally iluminated with a round shape; however, as I was watching it, the light on the object started to fade until it went totally dark; I could still see it for a couple of seconds, the object continued the trayectory to the South but a tree obstructed my sighting and couldn't see where it went... I'm convinced that it was something strange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70226.html](http://www.nuforc.org/webreports/reports/070/S70226.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Allentown (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two bright orange lights appeared from over a mountain South then hovered for about 2 minutes the disappeared EastMay 27th , 2013 at about 9:00 Pm.  My husband and I were sitting on our back porch which faces south.  Behind the city line we can see a mountain range, and at about 9:00 Pm two orange orbs apperaed to be moving in our direction (North) above the mountains.	The two orange lights seemed to be coming closer, they seemed to hover for about 2 minutes, then simultaneously they turned (East) and slowly they both disappeared from our sight.  We walked in that direction to see if we could spot them again but we did not see anything.	At about 9:10 Pm that same evening, approximately 5 minutes after the orange lights disappeared, we saw a white light come from the same direction the two orbs came from (South).  The white light then followed the same path as the orange lights (East) then disappeared.	We seemed especially intrested in these sightings because we witnessed the same two orange lights two years ago on July 4th, 2011.  The lights came from the exact same place as the ones on May 27th (South) but on July 4th the lights quickly reversed into the same direction from which they came from (South) and quickly shot out of sight.((NUFORC Note:  We spoke with husband and wife, and we found them both to be sober-minded individuals.  We suspect that they are very good witnesses, and very reliable.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98210.html](http://www.nuforc.org/webreports/reports/098/S98210.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163677.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163394.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163487.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163517.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
