@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:39 on 27 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:35 on 27 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Salem (OR) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Object was floating and moving and circling all at once defided logic in how it moved.On a clear night on 05/27/20 at 19:30 I observed a jet flying a north/south direction probably from Portland Or. The sun was still shining and was reflecting on the silver jet. Later 5 minutes had passed and I watched the jet contrails. In the contrails or below I saw the object. It was rectangular in shape silver in color reflecting off the sun. The object was moving the same direction the jet had flown but was also turning in a circular clockwise direction. I observed this object for a full 3 minutes. It seemed to be floating and moving all at once. It then left my viewing area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156782.html](http://www.nuforc.org/webreports/reports/156/S156782.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Fallbrook (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A gunmetal colored suacer shaped vehicleOn a Sunny afternoon of June the 27th when a was waching a TV show in my room and noticed a bright falsh. When I peered out of my window I noticed a Suacer shaped vehicle about 200 to 300 yrds away. At first it reflected the sun lite, then I noticed it was gunmetal colored. Shocked at what I saw I rushed for my binoculers. I watched it slowly pass the sky going west to east. It then speeded up and shot out of sight going north east I'd say at about 1,000 mph.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29835.html](http://www.nuforc.org/webreports/reports/029/S29835.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163677.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163394.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163487.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163517.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
