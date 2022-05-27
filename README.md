@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:46 on 27 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:46 on 27 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Arlington (VA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>As I was on my way home, I glanced to the right and saw 2 disk-shaped objects high in the sky. They seemed to be moving VERY fast. After about 15-30 seconds, they vanished.While driving home, I looked up and right at a 45 degree angle and saw 2 disk-shaped craft moving through the air. They were a dull gray, and were extremely smooth moving and fast. The 2 craft were in sync; moving quickly across the sky. The air around the front of the disk seemed to be a reddish-black, as if it were at a very high temperature. There was a building to the right of them, so I could tell they were high up. After 30 seconds or so, the two craft silently dissapeared into the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04982.html](http://www.nuforc.org/webreports/reports/004/S04982.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Mankato (MN) reported seeing craft that fit the description of some 'Changing' over a period of approximately 240.0 - 240.0 minutes.</sub><blockquote><sub>the craft made things slow down and we blacked out a few seconds after we saw said craft.the object was round at first then it changed into a saucer it was glowing orange and white.my car shut off.  then everything slowed down timewise. a bright light shot down right after the craft was over our car.  we felt dizzy and the air was filled with static.then everything went black.thats it.((NUFORC note:  Witness provides limited contact information.  Report submitted shortly after several prank calls placed to the Hotline.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81912.html](http://www.nuforc.org/webreports/reports/081/S81912.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163677.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163394.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163487.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163517.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
