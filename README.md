@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:44 on 28 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:37 on 28 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Joshua Tree National Monument (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Midnight in Joshua Tree- Viewed 4 points of light in diamond-shaped formation as they stopped, spiraled in place, and disappeared.Around May 28, 2004, I was out in Joshua Tree National Monument with friends.  Around midnight, just inside the West Entrance to the park in an area called, "Hidden Valley Campground", I saw what I at first thought to be 4 satellites in perfect, diamond configured orbit. It seemed unlikely, but they were extremely high up, silent and moving very slowly.THEY RESEMBLED NOTHING ELSE I'D EVER SEEN. Then, they stopped moving altogether, with two of the "lights" spiraling out and then rejoining the formation. Then all 4 objects sped out in opposite directions, disappearing almost immediately. Unfortunately I was alone at the time, and my reporting of the event to my friends resulted in so much laughter I dropped it, and would have let it go forever had my brother not insisted today I scour the web for info (I only just told him about it recently). After stumbling on a very similar account in your pages, I figured I'd pipe up. I am a filmmaker and photographer, based in LA for 17 yrs.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61669.html](http://www.nuforc.org/webreports/reports/061/S61669.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Sacramento (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Six triangle flying objects flying high in circular motion and then just disappearedI saw a glint of light appear in the sky as I was driving and looked up through my front windshield to see 6 objects flying around each other and in circular motion.  I tried to capture on video but they did not appear on my phone screen.  They were shiny on one side. My granddaughter and her friend also witnessed these 6 flying objects.  Then they just disappeared.  They were triangle shaped and appeared very high in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163385.html](http://www.nuforc.org/webreports/reports/163/S163385.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163378.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163494.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163377.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163499.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163374.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
