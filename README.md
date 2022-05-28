@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:37 on 28 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:31 on 28 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Sacramento (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Six triangle flying objects flying high in circular motion and then just disappearedI saw a glint of light appear in the sky as I was driving and looked up through my front windshield to see 6 objects flying around each other and in circular motion.  I tried to capture on video but they did not appear on my phone screen.  They were shiny on one side. My granddaughter and her friend also witnessed these 6 flying objects.  Then they just disappeared.  They were triangle shaped and appeared very high in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163385.html](http://www.nuforc.org/webreports/reports/163/S163385.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1990, an anonymous witness in Sante Fe (NM) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>While driving on hwy from east of Santa Fe to Albuquerque I observed large bright white triangular object high in sky for over 2 hours.Late in the afternoon in end May 1990 I was driving on state highway #25 from Denver to Albuquerque when about an hour east of Santa Fe I noticed a triangular shaped, bright white object high in the sky out my driver's door window; the object would have been southeast of Santa Fe. My first thoughts were that the object must be a type of weather balloon as it was so high and bright and apparently very large (although I had never observed a weather balloon before).  However, a bit later, when the highway goes through a low mountain range with many turns, I noticed that this object maintained its position practically from whichever angle I was looking from, meaning that it must have been very high, many miles high, and therefore be enormous. Over 2 hours after the first sighting it was becoming dusk and I was approaching Albuquerque and as soon as I arrived home I got the binoculars but I could not see it any longer. The next day or so I was at a Memorial Day gathering of friends and many of us were discussing this object..  there were at least a half dozen who saw it exactly as I had.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65463.html](http://www.nuforc.org/webreports/reports/065/S65463.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163378.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163494.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163377.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163499.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163374.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
