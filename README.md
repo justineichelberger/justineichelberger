@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:29 on 28 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:39 on 28 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Fresno (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Conjoined formation of shape changing spheres crosses skyI was poolside at the Super 8 Motel in Fresno smoking a cigar before going up to my room to turn in for the evening. I was attending the annual Country Western and Swing Dance Festival held at the Radisson Hotel a block away. There was a gentle breeze blowing from the North and the temperature was around 75 degrees.  I had been sitting in a lounge chair for nearly an hour when I decided it was time to finish up. As I rose I noticed an oblong sausage shaped dull orange light quickly pop up from behind a large bank building North of me in the downtown Fresno area. It looked like a large lumpy sausage  shaped balloon. That made no sense at all so I continued to watch it with suspicion. It rose to about 30 degrees in the night sky and no longer appeared to have the dusky illumination that caught my eye. It now appeared to be light gray and very shadowy as it approached and came even with me as I viewed it due West. This is where the description gets really weird. I have had sightings of structured craft before but nothing, never even like this, nor have I heard of anything like this. As it was due West at this time I asked myself, "What the hell am I looking at?". It appeared to be a string of conjoined spheres each one pushing the next one along in an undulating formation where the one on the end would circle around and pop in at the front.  In disbelief I looked more closely and saw the spheres form into an angular formation with soft white vertices. It crossed the western sky in a smooth straight glide while continuing all this strange activity and was lost from sight at about a 45 degree inclination. The objects path spanned roughly 90 degrees of arc across the sky.  This all took place in about 30 secs. The object was as big as my thumb from tip to first knuckle at arm's distance (1.5"). There was absolute silence and there was no air craft seen during the time I was out there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12992.html](http://www.nuforc.org/webreports/reports/012/S12992.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Sedona (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>bluish bright light in Sedona moved very fastA blue-green, very bright light moved from North to South very fast along the Oak Creek Canyon, very low in sky. Appeared to possibly be roman candle, but only one was seen and area is very dry and fireorks are not permitted.  Also, seemed to come from top of rock formation.  Several of us viewed this from the main street in Sedona.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37748.html](http://www.nuforc.org/webreports/reports/037/S37748.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163378.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163494.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163377.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163499.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163374.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
