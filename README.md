@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:01:40 on 28 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:37 on 28 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in North Mankato (MN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately :17 - :17 minutes.</sub><blockquote><sub>Object flew from the southeast gaining slight altitude as it floated across the sky just under cloud level at a high rate of speed.  Object appeared solid round, and was a fire ball like orange color. Completed full length of the visible sky in about 20 seconds or less.  Didn't have the look of mechanical flight. Just floated across the sky effortlessly.  Disappeared in the slight cloudiness northeast.  No sound. No trail.  We took a quick picture with a cell phone, which shows a small yellowish or orange dot in the blackness.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75590.html](http://www.nuforc.org/webreports/reports/075/S75590.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Olney (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Orb down the road.I was seeing moving objects across the sky for 5 nights prior.  Finally decide to go out in the middle of the country by myself, and noticed an orange orb in my rear view mirror.  I assumed it was a field light, but the orb never left my sight for over an hour of driving around.  I finally parked and sat on my trunk and watched it watch me.  After about an hour of it sitting there, it was starting to turn day light.  Then it gets really bright so I decide to take a picture so someone else can see what I was seeing.  I managed to get two pictures with my camera phone, not blurred, was not streaked so it was not a moving object, and next thing I know it was gone.  I just would like to hear a response to these pictures because I cannot think of anything but a u.f.o that would cause this image.  The sun was not over the horizon yet, and no car would cause such a orb light.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92897.html](http://www.nuforc.org/webreports/reports/092/S92897.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163378.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163494.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163377.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163499.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163374.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
