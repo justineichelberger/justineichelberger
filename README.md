@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:30:40 on 28 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:20:03 on 28 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Decatur (TX) reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright white elongated light in western sky over Decatur Texas.As observers were heading north out of Decatur on 287, object was noted 15 degrees above horizon, 15 degrees port. Object was white, bright, and would be covered by an aspirin tablet held at arms length. At first object appeared only slightly fuzzy, and shaped like an accent mark. It would become larger and fuzzier, as if moving in and out of focus. When fuzzier, appeared move oval and less long and slender. Length appeared to remain constant. If fat end was front, object was heading north. If fat end was arrow on clock hand, object was first observed to be pointing between 4 and 5, but attitude would vary between this attitude and pointing to just past 3:00. Object appeared to progress approximately 15 degrees toward north. Object appeared far away, like a jet or the space shuttle, but moving much more slowly relative to observers. Object's altitude varried within about 5 degrees. Motion was apparently sproadic. There was no reference object available near UFO; no clouds at all in Western or Northern sky. No high buildings, radio towers, etc. Observers lost sight of object behind a hill while on their journey.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12987.html](http://www.nuforc.org/webreports/reports/012/S12987.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in El Mirage (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>Dozen or more strange lights flying by in the sky above western arizonaSaw 12-16 lights following in a crude line across the sky at dusk.  They looked like stars but it was still a little early and light out to see stars.  They meandered slowly and oddly and gave off constant light so we knew it wasn't aircraft from Luke air force base.  They moved like nothing I've ever seen.  They headed east towards a bright star or close planet perhaps -east by north east- before they disappeared out of view.  It lasted about 10 minutes from when I first noticed them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134315.html](http://www.nuforc.org/webreports/reports/134/S134315.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163378.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163494.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163377.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163499.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163374.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
