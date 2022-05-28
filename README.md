@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:21 on 28 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:30:40 on 28 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Greensboro (NC) reported seeing craft that fit the description of some 'Oval' over a period of approximately  -  minutes.</sub><blockquote><sub>Bright white, red and green flashing object to the west of Greensboro, NCThe first craft we noticed was just above the tree line to the West. It was oval; a little bigger than the stars. It was bright white with red and green flashing lights. Not twinkling like the stars but flashing in a pattern. The other 3 objects were considerably smaller to the south west in line with the first object.  They were all stationary except for the one closest to the largest one we had originally seen. It slowly drifted upward. Kind of like a balloon would float up.  We watched them for about a half an hour with no major changes and then had to come in for the night.  I've never seen that before but it scared me a little because my daughter told me about 2 weeks ago, she was woken up by the sound of a jet and looked out to see a red " fireball moving harizontally across the sky and I told her it was probably just a falling star, but now I wonder....</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89248.html](http://www.nuforc.org/webreports/reports/089/S89248.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Decatur (TX) reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright white elongated light in western sky over Decatur Texas.As observers were heading north out of Decatur on 287, object was noted 15 degrees above horizon, 15 degrees port. Object was white, bright, and would be covered by an aspirin tablet held at arms length. At first object appeared only slightly fuzzy, and shaped like an accent mark. It would become larger and fuzzier, as if moving in and out of focus. When fuzzier, appeared move oval and less long and slender. Length appeared to remain constant. If fat end was front, object was heading north. If fat end was arrow on clock hand, object was first observed to be pointing between 4 and 5, but attitude would vary between this attitude and pointing to just past 3:00. Object appeared to progress approximately 15 degrees toward north. Object appeared far away, like a jet or the space shuttle, but moving much more slowly relative to observers. Object's altitude varried within about 5 degrees. Motion was apparently sproadic. There was no reference object available near UFO; no clouds at all in Western or Northern sky. No high buildings, radio towers, etc. Observers lost sight of object behind a hill while on their journey.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12987.html](http://www.nuforc.org/webreports/reports/012/S12987.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163378.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163494.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163377.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163499.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163374.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
