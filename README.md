@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:31 on 28 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:04:29 on 28 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1990, an anonymous witness in Sante Fe (NM) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>While driving on hwy from east of Santa Fe to Albuquerque I observed large bright white triangular object high in sky for over 2 hours.Late in the afternoon in end May 1990 I was driving on state highway #25 from Denver to Albuquerque when about an hour east of Santa Fe I noticed a triangular shaped, bright white object high in the sky out my driver's door window; the object would have been southeast of Santa Fe. My first thoughts were that the object must be a type of weather balloon as it was so high and bright and apparently very large (although I had never observed a weather balloon before).  However, a bit later, when the highway goes through a low mountain range with many turns, I noticed that this object maintained its position practically from whichever angle I was looking from, meaning that it must have been very high, many miles high, and therefore be enormous. Over 2 hours after the first sighting it was becoming dusk and I was approaching Albuquerque and as soon as I arrived home I got the binoculars but I could not see it any longer. The next day or so I was at a Memorial Day gathering of friends and many of us were discussing this object..  there were at least a half dozen who saw it exactly as I had.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65463.html](http://www.nuforc.org/webreports/reports/065/S65463.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Lisle (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Afternoon sighting of 15+ ufo's that changed colors and were the size of stars in the night sky.It was approximately 4:50 pm CST on May 28, 2008 in Lisle, IL.  I was standing facing east (sun was behind me) walking home from a park with my baby and 3 neighborhood kids (range in age from 8 to 5).  The sky was perfectly blue- not a single cloud.  I looked at the sky and pointed and asked the kids “What’s that?”  One of the girls said it looks like the “Big Dipper” (only it had more “stars” in it).  I realized then that even though it looked like stars in the night sky they started shifting and moving around slightly, while still staying in the same area.  I knew that it wasn’t stars – they were UFO’s.  There was a main ship (white) that never really moved- it was the largest (comparable to seeing a planet in the night sky – maybe a little bigger).  There were multiple ships with this main one- they would disappear/vanish and then reappear.  They would change color- from white to red to green.  Mostly, the small ships looked like white dots – there were many of them.  At one point, I counted 8 – but, there were as many as 15+.   Airplanes passed the area (flying below the UFO’s) several times.  I KNOW these objects were not planes.  About 10 minutes went by and they were still in view; I took 4 pictures with my Blackberry camera but nothing really turned out because they were so small.  As we began walking home, we looked up at the sky again- maybe a minute or two went by – and all the UFO’s were gone.  I checked several more times on our walk home and even later this evening and saw nothing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63584.html](http://www.nuforc.org/webreports/reports/063/S63584.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163378.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163494.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163377.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163499.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163374.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
