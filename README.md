@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:35 on 28 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:32 on 28 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Cottonwood Heights (UT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Unusual object over Wasatch Front Range.While on my front lawn just after dusk I saw a very bright object moving from west to east over the Wasatch Front Range.  The only reason I paid attention to it is because The object appeared to have unusally bright landing lights.  It is then that I realized that they could not be landing lights because the craft was moving away not towards me.I have been an airline pilot for the last 12 years and this was like nothing I have seen in my experience. I just felt like I should tell someone and your web site came up on Google.I appologize, but I would rather not give my name.Thank you.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70247.html](http://www.nuforc.org/webreports/reports/070/S70247.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Still for 5 seconds and very brightI was sitting out side my home on a swing enjoying the night cool air after a warm day, as I was looking up at the moon there was clouds in the nite sky, the moon was in the mid western sky as I looked from the moon toward strait up above me leaning back in to the swing a bright light came right through a clouded,still for about 5 seconds then started to move east close to a minute then went from very bright to very dim and was gone.  There was no noise from it and it wasnt a airplane there were planes in other part of the nite sky, bur this light that came through the cloud was very bright, it was like a headlight from a car shining lets say from about about 200 feet.  I no were not alone, this was my first sighting and I always believed that were not alone , just never had a sigthing until now it was exciting.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70261.html](http://www.nuforc.org/webreports/reports/070/S70261.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163378.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163494.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163377.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163499.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163374.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
