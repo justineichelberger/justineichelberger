@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:04:29 on 28 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:33 on 28 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Lisle (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Afternoon sighting of 15+ ufo's that changed colors and were the size of stars in the night sky.It was approximately 4:50 pm CST on May 28, 2008 in Lisle, IL.  I was standing facing east (sun was behind me) walking home from a park with my baby and 3 neighborhood kids (range in age from 8 to 5).  The sky was perfectly blue- not a single cloud.  I looked at the sky and pointed and asked the kids “What’s that?”  One of the girls said it looks like the “Big Dipper” (only it had more “stars” in it).  I realized then that even though it looked like stars in the night sky they started shifting and moving around slightly, while still staying in the same area.  I knew that it wasn’t stars – they were UFO’s.  There was a main ship (white) that never really moved- it was the largest (comparable to seeing a planet in the night sky – maybe a little bigger).  There were multiple ships with this main one- they would disappear/vanish and then reappear.  They would change color- from white to red to green.  Mostly, the small ships looked like white dots – there were many of them.  At one point, I counted 8 – but, there were as many as 15+.   Airplanes passed the area (flying below the UFO’s) several times.  I KNOW these objects were not planes.  About 10 minutes went by and they were still in view; I took 4 pictures with my Blackberry camera but nothing really turned out because they were so small.  As we began walking home, we looked up at the sky again- maybe a minute or two went by – and all the UFO’s were gone.  I checked several more times on our walk home and even later this evening and saw nothing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63584.html](http://www.nuforc.org/webreports/reports/063/S63584.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Fayetteville (GA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Too erractic to be a normal action.At approximately 8:45 pm an early star looking shape object appeared in the southern sky.The object seem to move in a south west diagonal direction.  The object moved faster than a celestial object ( star ) but slower than a aircraft or weather balloon.  The rising and stationary position seemed like it could be a weather balloon until it retracted to its mid way point.  The object faded as if someone was covering the object with a blanket fading in and out very fast.  At 9:05pm the object disappeared.  At approximately 9:45pm the same general direction we saw a sharp and bright light turn on with a 15 second delay of a second time.This may simply be a weather balloon phenomena but in case its not just wanted to mention it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98260.html](http://www.nuforc.org/webreports/reports/098/S98260.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163378.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163494.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163377.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163499.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163374.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
