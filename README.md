@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:32 on 28 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:07:28 on 28 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Still for 5 seconds and very brightI was sitting out side my home on a swing enjoying the night cool air after a warm day, as I was looking up at the moon there was clouds in the nite sky, the moon was in the mid western sky as I looked from the moon toward strait up above me leaning back in to the swing a bright light came right through a clouded,still for about 5 seconds then started to move east close to a minute then went from very bright to very dim and was gone.  There was no noise from it and it wasnt a airplane there were planes in other part of the nite sky, bur this light that came through the cloud was very bright, it was like a headlight from a car shining lets say from about about 200 feet.  I no were not alone, this was my first sighting and I always believed that were not alone , just never had a sigthing until now it was exciting.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70261.html](http://www.nuforc.org/webreports/reports/070/S70261.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Nallapadu (near Guntur City) (India) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Black triangle UFO heading North west on nallapadu, near Guntur, Andhra Pradesh, India. 1 witness.The event happened on 28-05-2012 at 10: 40 PM.  I was yet to sleep on the top of my house. I was watching stars in the dark blue night sky. (not black or no heavy clouds). I suddenly noticed a black triangular object with three triangular white lights at its corners.  The white glow of the lights is homogenous similar to artificial satellites, but not irregular as how the moon appears. I mean that the light emitted at the 3 corners is plane.  It was neither too far nor near for my vision, but the black triangular object with its edges clearly separated its vision from the dark blue sky. (Bluish black sky).  Heading to North-west on Nallapadu near Guntur in the state of Andhra Pradesh, India it remained clear for 6- 8 seconds and disappeared for my vision.  Size of appearance is the size of a helicopter at heights of 2.5- 3.5 kilometers, I guess.  Just Completed bachelors program in aeronautical engineering, I was clear what I noticed in the sky with a clear eye-si! ght (21 year old).  I confirmed it was not an airplane as it is in triangular shape and also makes no audible sound.  I confirmed it was not a group of 3 white coloured birds as the lights appeared are homogeneous and triangular and by the black triangular edge, shows it was a single object.  Nothing more special I noticed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89301.html](http://www.nuforc.org/webreports/reports/089/S89301.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163378.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163494.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163377.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163499.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163374.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
