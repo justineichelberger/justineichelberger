@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:44 on 28 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:52 on 28 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1983, an anonymous witness in San Bernadino (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Disk shaped UFO appeared at over a concert in Southern CA.I have been searching online and cannot believe that no one has ever actually reported this. This was possibly the largest mass sighting of a UFO ever. In May of 1983 I flew out to San Bernadino, CA to attend the US Festival 83. It was a very large 3 day concert featuring some of the biggest names in Rock music. While attending this show on the first day, I heard someone say they saw a UFO, I looked but didn't see anything at that time...I believe that it was about 2 or 3 PM but it was 25 years ago now and the exact times are a guess at this point. I watched several bands and then it began getting dark. I believe that the Australian band Men At Work were playing when I noticed a Dark metallic disk shaped object hovering about 25 yards from me just below the low cloud cover we had that evening. It just floated there silently for approximately 10 minutes. Many people attending saw this object (one girl even began screaming) and even the singer for the band made some comment about the object between songs. Then the disk silently began to rise at a very slow speed and disappeared into the low cloud cover. I wouldn't even report it except that there is photographic evidence taken by a photographer from the concert and it is on a website that commemorates the 3 day show.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64255.html](http://www.nuforc.org/webreports/reports/064/S64255.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Eagle Creek (OR) reported seeing craft that fit the description of some '' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Comm. pilot/ATP (14k hrs.) witnesses large, extremely bright, flaming obj. descend steeply in W sky. Dramatic. Good rept.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00524.html](http://www.nuforc.org/webreports/reports/000/S00524.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163378.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163494.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163377.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163499.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163374.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
