@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:20:03 on 28 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:01:50 on 28 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in El Mirage (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>Dozen or more strange lights flying by in the sky above western arizonaSaw 12-16 lights following in a crude line across the sky at dusk.  They looked like stars but it was still a little early and light out to see stars.  They meandered slowly and oddly and gave off constant light so we knew it wasn't aircraft from Luke air force base.  They moved like nothing I've ever seen.  They headed east towards a bright star or close planet perhaps -east by north east- before they disappeared out of view.  It lasted about 10 minutes from when I first noticed them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134315.html](http://www.nuforc.org/webreports/reports/134/S134315.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in East Bridgewater (MA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>While sitting outside, at the same moment two persons notices a bright flash in the northern sky, right of the big dipper.  It was thought to be a meteorite until  it happened again, in exactly the same location and wasn't streaking as a meteorite would.  Over a 20 minute period the light contined to flash, rhythmically, every 5-6 seconds.  At times it appeared strong enough to be a ground based, advertising spotlight, albeit very far away, but it never had a "line of light" from the ground.  It appeared to be approximately the length of a thumbnail, when held to the sky and it never changed location, although it appeared that the direction of the "beam" may have been rotating.  The sky was very clear, stars being visible, although there was some whispy, high misty clouds at high altitudes, which sometimes made the light appear a bit "fuzzy" and not so distinct.  Then, after observing it for 20 minutes or so, it got dimmer (still never changing location) and then just stopped.  We checked up till 45 minutes later and never saw it again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50755.html](http://www.nuforc.org/webreports/reports/050/S50755.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163378.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163494.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163377.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163499.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163374.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
