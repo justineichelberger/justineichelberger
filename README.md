@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:39 on 28 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:33 on 28 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Sedona (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>bluish bright light in Sedona moved very fastA blue-green, very bright light moved from North to South very fast along the Oak Creek Canyon, very low in sky. Appeared to possibly be roman candle, but only one was seen and area is very dry and fireorks are not permitted.  Also, seemed to come from top of rock formation.  Several of us viewed this from the main street in Sedona.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37748.html](http://www.nuforc.org/webreports/reports/037/S37748.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Shape outlined in twinkling star like lights.The ufo consisted of an outlined shape made up of twinkling lights that looked like stars but the center seemed clear but blocked out the actual stars behind the object object came from over the ocean heading west inland then started heading north.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119186.html](http://www.nuforc.org/webreports/reports/119/S119186.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163378.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163494.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163377.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163499.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163374.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
