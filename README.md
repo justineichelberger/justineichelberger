@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:39 on 28 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:36 on 28 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Pine City (NY) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 82</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163695.html](http://www.nuforc.org/webreports/reports/163/S163695.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Spring (North Harris Co.) (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Object with red/green/white light flew over Montgomery County, Tx., moving south to north...on 5/28/00We live in Spring, Tx., which is near the border of Harris and Montgomery Counties, 25 mi. north of downtown Houston. At approx. 9:15pm, my sister asked to come outside to look at something in the sky - she was looking at it with naked eye and binoculars. I went outside and there it was -- approx. 20 - 30,000 feet up (about the highest a commercial jet is that you can see). The object was lit up with green, red, and white light. We couldn't make out the shape of it, being so high and far away, and object was about size of the north star on a clear night. We could tell it wasn't a jet or helicopter, as it didn't have lights that blinked like commercial aviation craft, instead the lights on it just seemed to be moving (too far away to tell if they were blinking in sequence, etc.). Through the binoculars, we could definitely see the red, green, and white lights on it, the red and green lights being brighter than the white. The craft was slowly moving north from south slowly, which we knew, because it was slowly getting dimmer as it went. We couldn't tell how many miles object was from us because of the height, but could tell it wasn't too far away -- either it wasn't that far, or it was probably very bright, which made it easier to see. We live right next to Montgomery County line, so actually, the object was over Montgomery County, approx. over The Woodlands area, when we first saw it. As we were watching this thing, something else much closer, and lower, suddenly came from the east to the west flying about the cruising speed of a helicopter, was all white (or possibly light green), and was only about 1000 ft. up, and didn't have lights of helicopter blinking, but rather just the whole thing was blinking on and off... this second craft we watched for only 10 seconds, and it just simply dissapeared...din't go behind anything obscuring our view -- we actually saw it just vanish... The first craft finally became dimmer and dimmer as it slowly moved northward over Montgomery county, till it was too far to see it anymore, and then trees, etc. were in the way.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12988.html](http://www.nuforc.org/webreports/reports/012/S12988.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163378.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163494.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163377.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163499.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163374.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
