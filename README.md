@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:07:28 on 28 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:44 on 28 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Nallapadu (near Guntur City) (India) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Black triangle UFO heading North west on nallapadu, near Guntur, Andhra Pradesh, India. 1 witness.The event happened on 28-05-2012 at 10: 40 PM.  I was yet to sleep on the top of my house. I was watching stars in the dark blue night sky. (not black or no heavy clouds). I suddenly noticed a black triangular object with three triangular white lights at its corners.  The white glow of the lights is homogenous similar to artificial satellites, but not irregular as how the moon appears. I mean that the light emitted at the 3 corners is plane.  It was neither too far nor near for my vision, but the black triangular object with its edges clearly separated its vision from the dark blue sky. (Bluish black sky).  Heading to North-west on Nallapadu near Guntur in the state of Andhra Pradesh, India it remained clear for 6- 8 seconds and disappeared for my vision.  Size of appearance is the size of a helicopter at heights of 2.5- 3.5 kilometers, I guess.  Just Completed bachelors program in aeronautical engineering, I was clear what I noticed in the sky with a clear eye-si! ght (21 year old).  I confirmed it was not an airplane as it is in triangular shape and also makes no audible sound.  I confirmed it was not a group of 3 white coloured birds as the lights appeared are homogeneous and triangular and by the black triangular edge, shows it was a single object.  Nothing more special I noticed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89301.html](http://www.nuforc.org/webreports/reports/089/S89301.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Joshua Tree National Monument (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Midnight in Joshua Tree- Viewed 4 points of light in diamond-shaped formation as they stopped, spiraled in place, and disappeared.Around May 28, 2004, I was out in Joshua Tree National Monument with friends.  Around midnight, just inside the West Entrance to the park in an area called, "Hidden Valley Campground", I saw what I at first thought to be 4 satellites in perfect, diamond configured orbit. It seemed unlikely, but they were extremely high up, silent and moving very slowly.THEY RESEMBLED NOTHING ELSE I'D EVER SEEN. Then, they stopped moving altogether, with two of the "lights" spiraling out and then rejoining the formation. Then all 4 objects sped out in opposite directions, disappearing almost immediately. Unfortunately I was alone at the time, and my reporting of the event to my friends resulted in so much laughter I dropped it, and would have let it go forever had my brother not insisted today I scour the web for info (I only just told him about it recently). After stumbling on a very similar account in your pages, I figured I'd pipe up. I am a filmmaker and photographer, based in LA for 17 yrs.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61669.html](http://www.nuforc.org/webreports/reports/061/S61669.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163378.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163494.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163377.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163499.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163374.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
