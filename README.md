@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:33 on 28 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:35 on 28 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Shape outlined in twinkling star like lights.The ufo consisted of an outlined shape made up of twinkling lights that looked like stars but the center seemed clear but blocked out the actual stars behind the object object came from over the ocean heading west inland then started heading north.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119186.html](http://www.nuforc.org/webreports/reports/119/S119186.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Aurora/Wheaton/Warrenville areas (IL) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>numerous reports of sightings in a locationWhile searching sightings in my surrounding location, I noticed the following reports are quite the same, in almost the same locations.( except for location on  the MA & IL sighting)  Is this a hot spot?  If you could answer by e-mail, that would be great.(( What could this have been??)) Occurred : 5/28/2006 23:30 (Entered as : 5/28/06 23:30) Reported: 5/29/2006 6:21:47 AM 06:21 Posted: 7/16/2006 Location: East Bridgewater, MA Shape: Flash Duration:20 minutes Occurred : 6/17/2006 21:45 (Entered as : 06/17/06 21:45) Reported: 6/17/2006 11:08:46 PM 23:08 Posted: 7/16/2006 Location: Warrenville, IL Shape: Other Duration:1 hour ========================================================================= These locations are by a Goverment Lab site: Occurred : 6/26/2005 22:30 (Entered as : 06/26/2005 22:30) Reported: 6/26/2005 9:09:21 PM 21:09 Posted: 7/5/2005 Location: Aurora, IL Shape: Unknown Duration:ongoing Occurred : 9/26/2005 23:30 (Entered as : 09/26/2005 23:30) Reported: 9/26/2005 11:36:54 PM 23:36 Posted: 10/11/2005 Location: Warrenville/Wheaton, IL Shape: Changing Duration:3-4 minutes Occurred : 8/6/2005 18:55 (Entered as : 08/06/1905 18:55) Reported: 8/6/2005 10:37:34 PM 22:37 Posted: 9/2/2005 Location: Wheaton, IL Shape: Sphere Duration:45 minutes Occurred : 9/1/2005 21:30 (Entered as : 09/01/2005 21:30) Reported: 9/2/2005 11:05:13 PM 23:05 Posted: 9/15/2005 Location: Warrenville, IL Shape: Sphere Duration:10-15 sec.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54685.html](http://www.nuforc.org/webreports/reports/054/S54685.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163378.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163494.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163377.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163499.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163374.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
