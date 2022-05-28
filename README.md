@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:01:50 on 28 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:01:40 on 28 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in East Bridgewater (MA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>While sitting outside, at the same moment two persons notices a bright flash in the northern sky, right of the big dipper.  It was thought to be a meteorite until  it happened again, in exactly the same location and wasn't streaking as a meteorite would.  Over a 20 minute period the light contined to flash, rhythmically, every 5-6 seconds.  At times it appeared strong enough to be a ground based, advertising spotlight, albeit very far away, but it never had a "line of light" from the ground.  It appeared to be approximately the length of a thumbnail, when held to the sky and it never changed location, although it appeared that the direction of the "beam" may have been rotating.  The sky was very clear, stars being visible, although there was some whispy, high misty clouds at high altitudes, which sometimes made the light appear a bit "fuzzy" and not so distinct.  Then, after observing it for 20 minutes or so, it got dimmer (still never changing location) and then just stopped.  We checked up till 45 minutes later and never saw it again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50755.html](http://www.nuforc.org/webreports/reports/050/S50755.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in North Mankato (MN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately :17 - :17 minutes.</sub><blockquote><sub>Object flew from the southeast gaining slight altitude as it floated across the sky just under cloud level at a high rate of speed.  Object appeared solid round, and was a fire ball like orange color. Completed full length of the visible sky in about 20 seconds or less.  Didn't have the look of mechanical flight. Just floated across the sky effortlessly.  Disappeared in the slight cloudiness northeast.  No sound. No trail.  We took a quick picture with a cell phone, which shows a small yellowish or orange dot in the blackness.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75590.html](http://www.nuforc.org/webreports/reports/075/S75590.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163378.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163494.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163377.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163499.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163374.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
