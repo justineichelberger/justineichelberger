@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:37 on 28 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:29 on 28 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Olney (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Orb down the road.I was seeing moving objects across the sky for 5 nights prior.  Finally decide to go out in the middle of the country by myself, and noticed an orange orb in my rear view mirror.  I assumed it was a field light, but the orb never left my sight for over an hour of driving around.  I finally parked and sat on my trunk and watched it watch me.  After about an hour of it sitting there, it was starting to turn day light.  Then it gets really bright so I decide to take a picture so someone else can see what I was seeing.  I managed to get two pictures with my camera phone, not blurred, was not streaked so it was not a moving object, and next thing I know it was gone.  I just would like to hear a response to these pictures because I cannot think of anything but a u.f.o that would cause this image.  The sun was not over the horizon yet, and no car would cause such a orb light.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92897.html](http://www.nuforc.org/webreports/reports/092/S92897.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Fresno (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Conjoined formation of shape changing spheres crosses skyI was poolside at the Super 8 Motel in Fresno smoking a cigar before going up to my room to turn in for the evening. I was attending the annual Country Western and Swing Dance Festival held at the Radisson Hotel a block away. There was a gentle breeze blowing from the North and the temperature was around 75 degrees.  I had been sitting in a lounge chair for nearly an hour when I decided it was time to finish up. As I rose I noticed an oblong sausage shaped dull orange light quickly pop up from behind a large bank building North of me in the downtown Fresno area. It looked like a large lumpy sausage  shaped balloon. That made no sense at all so I continued to watch it with suspicion. It rose to about 30 degrees in the night sky and no longer appeared to have the dusky illumination that caught my eye. It now appeared to be light gray and very shadowy as it approached and came even with me as I viewed it due West. This is where the description gets really weird. I have had sightings of structured craft before but nothing, never even like this, nor have I heard of anything like this. As it was due West at this time I asked myself, "What the hell am I looking at?". It appeared to be a string of conjoined spheres each one pushing the next one along in an undulating formation where the one on the end would circle around and pop in at the front.  In disbelief I looked more closely and saw the spheres form into an angular formation with soft white vertices. It crossed the western sky in a smooth straight glide while continuing all this strange activity and was lost from sight at about a 45 degree inclination. The objects path spanned roughly 90 degrees of arc across the sky.  This all took place in about 30 secs. The object was as big as my thumb from tip to first knuckle at arm's distance (1.5"). There was absolute silence and there was no air craft seen during the time I was out there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12992.html](http://www.nuforc.org/webreports/reports/012/S12992.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163378.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163494.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163377.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163499.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163374.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
