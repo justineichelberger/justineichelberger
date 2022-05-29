@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:29 on 29 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:57 on 29 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Lake Como (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Ball of FIre over Lake Como, NJ10:55 pm, (to be exact), a circular ball of fire looked self contained in a globe was above Lake Como, NJ lake on N. Blvd.  Fire ball seemed to brighten and slightly dim.  Object slowly moved in a straight line from the center of the lake to across N. Blvd. over homes heading toward ocean.  Object disappeared prior to reaching ocean (approx. 1.5 blocks).((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81572.html](http://www.nuforc.org/webreports/reports/081/S81572.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Menoken (ND) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Brightly glowing ball of light motionless, then moving, then motionless.The object moved at various angles around an airport.As I prepared to retire for the evening,through my bedroom,I saw a large glowing ball of light in the northwest sky. I was shocked! It was not moveing! The object stayed in place for almost 5 minutes before I noticed it was moveing Buy this time I had my 7x35 binoculars out to get a better view. The only thing I can say is "WOW" !!   IT was silvery almost a white, and it was beautifull</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04041.html](http://www.nuforc.org/webreports/reports/004/S04041.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/163/S163498.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163509.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163496.html)
-- [271](http://www.nuforc.org/webreports/reports/163/S163521.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163650.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
