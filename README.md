@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:38 on 29 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:38 on 29 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Palouse (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Sound-ONLY of large aircraft passing close overheadClear blue sky with slightest white haze just after sunset, quiet environment.  I was outside, began hearing a "mechanical-engine" sound that got louder and louder.  Couldn't identify at first, I presumed a semi-truck or train a few blocks away (but NO 'exhaust note').But it got louder and closer, I realized it was "passing overhead".   I stood in the middle of the street, hat off, looking up, turning around and around expecting to see this LARGE aircraft that my ears suggested should be just a few thousand feet up.  (I am a Commercial Pilot, have heard many large aircraft, but could NOT compare this "engine-mechanical" sound to this "imagined" 747/B-52 size massive aircraft I could NOT see.)  Its path overhead seemed to be NNW (toward Fairchild AFB from here) and I imagined it was decelerating but could be Doppler playing slight sound-tricks.Entire event lasted roughly 60 seconds as the sound faded to nothing to my NorthNorthWest, with never the slightest visual hint.Path crossed over my location Lat 46.91 & Long 117.07 heading to the NNW.Sound peaked in the 80-90db range.((NUFORC Note:  Please see similar report from Garfield, WA, for the same time and date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109834.html](http://www.nuforc.org/webreports/reports/109/S109834.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Jamaica (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>all heading in one direction .. so many of them but one of them was huge.. colors all around object... queens ny  i seen lots of dots in sky with different color light.. then about 30 min later i seen a giant one round with lights all around spinning. then about 20 min after that there where about 10 of them far in sky.. they formed different shapes ... triangles .. weird shapes .. so many lights</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63654.html](http://www.nuforc.org/webreports/reports/063/S63654.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/163/S163498.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163509.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163496.html)
-- [271](http://www.nuforc.org/webreports/reports/163/S163521.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163650.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
