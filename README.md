@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:33 on 29 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:35 on 29 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in La Mirada (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Bright flash over houseThere was 3 bright flashes.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98221.html](http://www.nuforc.org/webreports/reports/098/S98221.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Millers (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 14.0 - 14.0 minutes.</sub><blockquote><sub>White Light Nortwest Baltimore County (Millers)I live in a rural area of  northwest Baltimore County near the PA line.  At approximately 2315 hours I was on my front porch with a friend, and saw an extremely fast moving white light in the northwest sky in front of my home (away from me).  Its light dimmed and suddenly stopped.  After about two minutes, it glowed brightly like a beacon, (still suspended) and dimmed out again.  This was witnessed by my friend. Then it proceeded with half its glow to move towards the opposite direction of the sky (moving east towards me).  Finally, it moved back towards the northwest sky, with very minimal light, extremely fast speed and disappeared.  This is not the first time that this has occurred but this is the first time I am reporting it only because it was witnessed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98239.html](http://www.nuforc.org/webreports/reports/098/S98239.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/163/S163498.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163509.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163496.html)
-- [271](http://www.nuforc.org/webreports/reports/163/S163521.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163650.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
