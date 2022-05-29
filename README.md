@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:57 on 29 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:07:55 on 29 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Menoken (ND) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Brightly glowing ball of light motionless, then moving, then motionless.The object moved at various angles around an airport.As I prepared to retire for the evening,through my bedroom,I saw a large glowing ball of light in the northwest sky. I was shocked! It was not moveing! The object stayed in place for almost 5 minutes before I noticed it was moveing Buy this time I had my 7x35 binoculars out to get a better view. The only thing I can say is "WOW" !!   IT was silvery almost a white, and it was beautifull</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04041.html](http://www.nuforc.org/webreports/reports/004/S04041.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in New York City (Manhattan) (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Silverly helium balloon-like objectI was on may way to the subway (Manhattan #6 line), walking along 68th Street beween 2nd and 3rd Avenues when I noticed a round silvery ball shaped object very high above the city against the blue sky.  It seemed to be moving slowly northeast.  The bright sun was reflecting off its surface.  One could say it appeared to be floating or drifting.  It could have definetly been a small helium balloon caught in the air currents. My impression is that it was at least as large as a basketball.  It was way too high to determine what it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29175.html](http://www.nuforc.org/webreports/reports/029/S29175.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/163/S163498.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163509.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163496.html)
-- [271](http://www.nuforc.org/webreports/reports/163/S163521.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163650.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
