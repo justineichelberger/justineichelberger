@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:37 on 29 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:30 on 29 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Ojibways of Onigaming FN (Canada) (ON) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Red fireball with a triangle around it hovering over house in Ojibways of Onigaming FN Ontario CanadaI was told on May 30th, 2011, that a red fireball with a triangle around it was hovering over my house for about 5 minutes.  It came in from the northwest, hovered over my house for 5 minutes, then slowly took off southwestward into the clouds and disappeared.  I was home at the time watching t.v. but I didn't see or hear anything.  A family of 5 was watching it with cars going by as there is a highway between our house's at a distance of about 150 meters.  I am not sure if the people driving by saw it.  Sure wish I saw it!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81616.html](http://www.nuforc.org/webreports/reports/081/S81616.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Indy (IN) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.2 - 0.2 minutes.</sub><blockquote><sub>pic from the netim 32 i lived in eagledale sence i was 14 years old and i know what i seen on May 29, 2005 i was not under the influence of anything that day or hung over i have been searching the net for photo's or video'sof the stealth flyby INDY 500 race. i reported my sighting im not the only witness in regards to the 5 /9/05 i see why people dont report strange phenomena that they see becauce we are called drunk's , wacko or this and that. here a photo i found on the net im going to attach i hope it helps((NUFORC Note:  Witness elects to remain anonymous; provides only e-address.  We are uncertain as to whether this is intended to be a serious report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47197.html](http://www.nuforc.org/webreports/reports/047/S47197.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/163/S163498.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163509.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163496.html)
-- [271](http://www.nuforc.org/webreports/reports/163/S163521.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163650.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
