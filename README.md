@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:50 on 29 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:44 on 29 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Lowell (IN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>Looking out of my window, I saw a giant triangle, and then I fell asleep.	I woke up suddenly at 12:00 am on Sunday, May 29, 2016.  I remember sitting on the edge of my bed, and looking into the sky.  I live in a wooded area, and I noticed something very large above the trees.  When I focused my eyes upon the shape, it became crystal clear.  I could see four bright turquoise colored, round lights on this craft, one on each corner, and one in the middle.  Despite the sky being pitch black, the edges of the craft were perfectly clear.  The shape was a perfect triangle and this craft seemed to be the size of an extremely large airplane.  I stood up in surprise, hearing a faint ringing in my ears, and then I don't remember anything after that.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127577.html](http://www.nuforc.org/webreports/reports/127/S127577.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Stoneman Lake (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Slow 20 plus circular lights in straight formation disappearing into each other. Haze around each circular light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163521.html](http://www.nuforc.org/webreports/reports/163/S163521.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/163/S163498.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163509.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163496.html)
-- [271](http://www.nuforc.org/webreports/reports/163/S163521.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163650.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
