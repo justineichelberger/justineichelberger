@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:38 on 29 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:34 on 29 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Madison (WI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.5833333333333335 - 2.5833333333333335 minutes.</sub><blockquote><sub>I saw 5 lights floating in a formation..  They "burned out," or "turned off," one by one... I took a video.I saw 5 lights floating in a formation..  They "burned out" or "turned off" one by one...  I took a video and tried to figure a rational explanation..  Flares burn out amd shoot up quicker..  Lanterns do not stay in formation.The lights stayed in formation for the duration and went out one by one.Then I heard planes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127600.html](http://www.nuforc.org/webreports/reports/127/S127600.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Washington, D.C. (DC) reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>It was a round white light with tentacles sticking out blue and white, look like a spider.On Thurday morning may 29th 2008 at 6:47 am edt, I went outside on my porch And sat down to get some air and just casually looked up in the sky. I saw something in the sky that looked like a spider with a light on its belly.  At first I thought it was a balloon but in the light breeze yesterday it was not moving. Also It was as high as a helicopter so the visual was not that ba to see and the sky was dead clear and even though it was day the sun was not quite all the way shining but against the sky it was clear. It had long stringy arms or tentacles which were blue and white not really straight but slightly curly. I went in the house after watching it for 15 min hoping to see a plane or something else and when to call 2 tv statins channel 8 and 9 which I called channel 9 today to see if they when to se Washington dc to see if they saw what I saw and the said they went there and saw nothing. I returned outside aroung 7:17 am and the arms were shorter and more curly and tha sky was getting sunny. I went back to bed. I awakened at 1 pm and nothing was there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63609.html](http://www.nuforc.org/webreports/reports/063/S63609.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/163/S163498.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163509.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163496.html)
-- [271](http://www.nuforc.org/webreports/reports/163/S163521.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163650.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
