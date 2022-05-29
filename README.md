@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:43 on 29 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:45 on 29 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Buchanan (GA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Diamond-shaped object over Buchanan, GAI was on my back porch and saw something dark in the sky. It was diamond shaped and seemed to be a dark metallic. The object was not moving fast, but at a constant speed in one direction (west to northeast). I observed the object for less than one minute until it disappeared behind some trees. I was able to take several photos.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157019.html](http://www.nuforc.org/webreports/reports/157/S157019.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Lynden (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three red, yellow spherical objects flickering and pulsating; larger than an airplane lights; in a triangular formation flying in the night sky from south to north followed by two of the same types of lights all five flying in the same path, faster then an airplane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127594.html](http://www.nuforc.org/webreports/reports/127/S127594.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/163/S163498.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163509.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163496.html)
-- [271](http://www.nuforc.org/webreports/reports/163/S163521.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163650.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
