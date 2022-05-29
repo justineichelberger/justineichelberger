@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:34 on 29 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:04:12 on 29 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Washington, D.C. (DC) reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>It was a round white light with tentacles sticking out blue and white, look like a spider.On Thurday morning may 29th 2008 at 6:47 am edt, I went outside on my porch And sat down to get some air and just casually looked up in the sky. I saw something in the sky that looked like a spider with a light on its belly.  At first I thought it was a balloon but in the light breeze yesterday it was not moving. Also It was as high as a helicopter so the visual was not that ba to see and the sky was dead clear and even though it was day the sun was not quite all the way shining but against the sky it was clear. It had long stringy arms or tentacles which were blue and white not really straight but slightly curly. I went in the house after watching it for 15 min hoping to see a plane or something else and when to call 2 tv statins channel 8 and 9 which I called channel 9 today to see if they when to se Washington dc to see if they saw what I saw and the said they went there and saw nothing. I returned outside aroung 7:17 am and the arms were shorter and more curly and tha sky was getting sunny. I went back to bed. I awakened at 1 pm and nothing was there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63609.html](http://www.nuforc.org/webreports/reports/063/S63609.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Chaptico (MD) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Saw black speck high in the clear sky which moved in a different direction, hovered, and then disappeared.While I was lying outside on my farm on a sheet of plywood talking on the phone I noticed a black speck way up in the sky.  The sky was very clear and I was just nonchalantly looking up while talking on the phone when I noticed the black thing flying in a straight line directly above me. I started looking at it thinking it was a bald eagle flying very high but then it changed directions towards the west without turning and then started to hover and move just move a little bit.  As I was staring at it, it suddenly just disappeared, like it went straight up to space, it almost look like it left a quick flash or plum of smoke for a millisecond and then there was just the blue sky! I told the person on the phone about it, while I was looking at it but they didn’t know what to think about it!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98233.html](http://www.nuforc.org/webreports/reports/098/S98233.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/163/S163498.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163509.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163496.html)
-- [271](http://www.nuforc.org/webreports/reports/163/S163521.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163650.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
