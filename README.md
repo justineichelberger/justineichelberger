@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:45 on 29 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:36 on 29 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Lynden (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three red, yellow spherical objects flickering and pulsating; larger than an airplane lights; in a triangular formation flying in the night sky from south to north followed by two of the same types of lights all five flying in the same path, faster then an airplane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127594.html](http://www.nuforc.org/webreports/reports/127/S127594.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Mission (BC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>While riding in the back seat of a friend's pick up truck on the upper level of the town, overlooking the highway and river, I saw one dark object in the shape of a disc and was surrounded by a bright silvery glow.  I had my sight focus on it as we pass a few trees and from a different angle there are now 2 bright silvery glowing objects.  I saw one of the silvery glowing objects separated from another and flew two hundred yards to its right and not a second pass they were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147004.html](http://www.nuforc.org/webreports/reports/147/S147004.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/163/S163498.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163509.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163496.html)
-- [271](http://www.nuforc.org/webreports/reports/163/S163521.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163650.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
