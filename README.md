@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:38 on 29 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:42:48 on 29 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Jamaica (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>all heading in one direction .. so many of them but one of them was huge.. colors all around object... queens ny  i seen lots of dots in sky with different color light.. then about 30 min later i seen a giant one round with lights all around spinning. then about 20 min after that there where about 10 of them far in sky.. they formed different shapes ... triangles .. weird shapes .. so many lights</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63654.html](http://www.nuforc.org/webreports/reports/063/S63654.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in East Bethel (MN) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Red and blue lights horizontally on saucer shape; rising straight upIt was dark, no stars visible, raining on and off (was not raining at the time I saw this).  I was in a room with a small light on, facing a window.  I suddenly saw something in the middle of the sky.My first thought was that it was a plane, because it had clear red and blue lights similar to a plane.  But it was moving only vertically.My next thought was that it was some sort of remote-controlled alien spaceship toy, because it seemed in the stereotypical saucer shape even though the lights were only in a slightly curved horizontal line.I don’t think either of those options is possible, because it seemed much too big.It rose slowly straight up,  I saw it for less than three seconds and jumped up to turn the light off and get a closer look, but when I looked out the window, it was gone.I ran outside to see if it was still there, but there wasn't anything in sight, even though the sky was open and there weren't any trees or anything blocking part of the sky.I’m a firm non-believer in aliens, so this was bizarre for me to see and I don’t know what it could have been.  It was much too large to be a satellite.  The only “rational” explanation I've come up with is that it was a helicopter, though my windows were open and I heard no sound, and I haven’t seen lights like that on a helicopter before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98244.html](http://www.nuforc.org/webreports/reports/098/S98244.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/163/S163498.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163509.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163496.html)
-- [271](http://www.nuforc.org/webreports/reports/163/S163521.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163650.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
