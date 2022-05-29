@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:03:47 on 29 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:33 on 29 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Cumming (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two orange lights in the sky of Cumming GeorgiaMy wife and I were hosting an event at our home and just said goodnight to the last guest, my brother. A moment later, we heard knocking at the door. I knew it was my brother and assumed he forgot his phone or wallet and needed to get it before leaving.When I opened the door, my brother asked me to come out and see something strange.  When I walked outside he pointed to two orange lights just above the tree line towards the Northeast.  I immediately dismissed the lights as aircraft.  He corrected me and said they were moving unlike normal aircraft.  He described the objects having moved parallel to each other before rotating and changing direction.  Again, I dismissed him as I only saw two orange lights.  One was stationary and the other was moving similarly to an airplane. He asked me to note the orange nature of the objects and compare them to the light blue stars and the light blue lights of another obvious aircraft behind us.After the comparison, I did admit to the variation in light but simply dismissed the one moving object as an airplane.  The other object I assumed was a planet due to its stationary position and orange glow.By this time, the moving object had disappeared behind the tree line while the stationary object remained in view.  My brother attempted to explain the strange nature of the object's movements when, suddenly, the stationary orange dot began to move.  This startled me.  I watched with astonishment as the object moved along the sky and was temporarily obscured by the tree line before coming back into view.  A moment later, the object faded away like an ember flickering and going out.I was honestly shocked and embarrassed by what I saw.  I am not the type of person who likes attention or believes in intelligent extraterrestrial visitors.  But I do believe in UFOs...  In the purely defined way of something being unidentified.  And what I saw could not be identified.These dots of light were orange, looked like bright stars and appeared to be distant.  My brother and I discussed the possibility of drones but these objects appeared to be quite high.  I don't know much about drones, but I don't think they go that high and I don't think they have orange lights that flicker off.  It was strange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127597.html](http://www.nuforc.org/webreports/reports/127/S127597.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in La Mirada (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Bright flash over houseThere was 3 bright flashes.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98221.html](http://www.nuforc.org/webreports/reports/098/S98221.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/163/S163498.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163509.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163496.html)
-- [271](http://www.nuforc.org/webreports/reports/163/S163521.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163650.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
