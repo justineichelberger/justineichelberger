@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:36 on 29 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:29 on 29 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Maple Shade (NJ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Thought it was the North Star. Same brightness, color and size. Moved east to north in the NE sky about 60 deg. above the horizon.Object resembled the same size, color, and brightness as the North Star. About 60 deg. above the North East horizon. Object moved East to North at a slow pace. Like that of a high flying aircraft. It then appeared to ascend at a very high speed until the brightness diminished and then it disapeared.  The sky was clear. I've seen many a meteor as well as the space shuttle. I know it was neither nor an airplane.. I have 20/20 vision. I am the only one who saw this object. My belief in UFO's has been neutral. I had to see one to believe in their existance..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03603.html](http://www.nuforc.org/webreports/reports/003/S03603.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Lake Como (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Ball of FIre over Lake Como, NJ10:55 pm, (to be exact), a circular ball of fire looked self contained in a globe was above Lake Como, NJ lake on N. Blvd.  Fire ball seemed to brighten and slightly dim.  Object slowly moved in a straight line from the center of the lake to across N. Blvd. over homes heading toward ocean.  Object disappeared prior to reaching ocean (approx. 1.5 blocks).((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81572.html](http://www.nuforc.org/webreports/reports/081/S81572.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/163/S163498.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163509.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163496.html)
-- [271](http://www.nuforc.org/webreports/reports/163/S163521.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163650.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
