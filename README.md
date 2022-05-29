@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:30 on 29 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:36 on 29 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Indy (IN) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.2 - 0.2 minutes.</sub><blockquote><sub>pic from the netim 32 i lived in eagledale sence i was 14 years old and i know what i seen on May 29, 2005 i was not under the influence of anything that day or hung over i have been searching the net for photo's or video'sof the stealth flyby INDY 500 race. i reported my sighting im not the only witness in regards to the 5 /9/05 i see why people dont report strange phenomena that they see becauce we are called drunk's , wacko or this and that. here a photo i found on the net im going to attach i hope it helps((NUFORC Note:  Witness elects to remain anonymous; provides only e-address.  We are uncertain as to whether this is intended to be a serious report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47197.html](http://www.nuforc.org/webreports/reports/047/S47197.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Maple Shade (NJ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Thought it was the North Star. Same brightness, color and size. Moved east to north in the NE sky about 60 deg. above the horizon.Object resembled the same size, color, and brightness as the North Star. About 60 deg. above the North East horizon. Object moved East to North at a slow pace. Like that of a high flying aircraft. It then appeared to ascend at a very high speed until the brightness diminished and then it disapeared.  The sky was clear. I've seen many a meteor as well as the space shuttle. I know it was neither nor an airplane.. I have 20/20 vision. I am the only one who saw this object. My belief in UFO's has been neutral. I had to see one to believe in their existance..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03603.html](http://www.nuforc.org/webreports/reports/003/S03603.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/163/S163498.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163509.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163496.html)
-- [271](http://www.nuforc.org/webreports/reports/163/S163521.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163650.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
