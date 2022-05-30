@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:35 on 30 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:40 on 30 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Stuart (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Ten bright orbs light up quiet Stuart, FL neighborhoodAt 8:49pm on Saturday, May 30th in Stuart, FL as I walked my dog near the corner of Cortez Ave and Osceola Street, I saw ten red-orange orbs in the sky.  They were in a loose formation and moved/hovered slowly – until they didn’t when they simply seemed to blink out of sight.  I saw one of the objects move lower then laterally prior to blinking out of sight.  The whole sighting only lasted about 2 minutes.  I got a video of 45 seconds of the sighting.  The video is blurred at times because my dog kept yanking on my arm.  I also have a fairly clear photo of one of the objects.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156837.html](http://www.nuforc.org/webreports/reports/156/S156837.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Hemet (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two yellow/orange lights above East HemetThis sighting occurred on the evening of May 30th, 2021 at approximately 8:49 pm. I was driving alone, working doing deliveries in the city of Hemet, CA.I was driving thru a quiet residential area when I spotted two lights in the sky above me, moving eastward. They looked like glowing orange orbs and moved silently across the sky. It was difficult to gauge their size as I was also trying to keep my eyes on the road. I grabbed my phone and snapped a quick photo thru the windshield of my car. I was in the middle of a delivery and couldn't stop to observe more closely or record video. I sped up to my drop off point which was less than a minute away with the intention of recording the lights with my phone. I reached my destination, shut off my car and exited the vehicle. The objects were almost directly above me now, still moving eastward and making no sound. As soon as I dropped off my delivery at the residence, I quickly moved back to where I could get a clear view of the objects. There were trees at the residence that had blocked my view of the lights. As I approached my car I looked up just in time to see them vanish simultaneously. They didn't fly off, they just dissappeared. The strangest thing about this incident was not the lights themselves but the fact that just moments before seeing the lights, the thought of an alien encounter or abduction had just popped into my head. Coincidence? Maybe, but it was very strange timing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163523.html](http://www.nuforc.org/webreports/reports/163/S163523.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [309](http://www.nuforc.org/webreports/reports/163/S163518.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163522.html)
-- [307](http://www.nuforc.org/webreports/reports/163/S163560.html)
-- [306](http://www.nuforc.org/webreports/reports/163/S163523.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163524.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
