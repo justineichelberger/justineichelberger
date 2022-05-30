@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:45 on 30 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:07 on 30 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Stockton on tees (UK/England () reported seeing craft that fit the description of some 'Fireball' over a period of approximately Photo - Photo minutes.</sub><blockquote><sub>A bright white ball to port side of the plane.  One UFO bottom left of photo appears to be hiding in a cloud.  And two disc shaped objects.I was flying on a plane,when I took numerous snap shots of our approach to the island of Tenerife.  On reviewing the photo I noticed a bright white ball to the bottom right approx 800m away.  On closer inspection I'm sure I can see other objects in the photo using photo editor app.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98527.html](http://www.nuforc.org/webreports/reports/098/S98527.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Rock Hill (SC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Silent orange ballSitting outside on Saturday night, May 30th, about 9:30-10PM we saw a bright orange ball pass over us.  It was larger than the light on an airplane with no blinking, no trails, no sound, moving very fast.  It went from south to north directly above us.  We watched it until it went behind the trees.  Took about 30 seconds to pass over.  I’ve seen a meteorite pass overhead and this was nothing like that.  It did not light up the area around us as it passed.  This experience almost exactly mirrors the descriptions from Ridgland, SC (5/24/15) and Charleston, SC (4/18/15.)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119284.html](http://www.nuforc.org/webreports/reports/119/S119284.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [309](http://www.nuforc.org/webreports/reports/163/S163518.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163522.html)
-- [307](http://www.nuforc.org/webreports/reports/163/S163560.html)
-- [306](http://www.nuforc.org/webreports/reports/163/S163523.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163524.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
