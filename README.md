@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:38 on 30 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:35 on 30 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Prescott Valley (AZ) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Watched 3 bright objects travel across night sky in triangle formation with no noise.3 bright orange/yellow lights moving across sky.  flying in a triangle formation. Varied speed at some points appeared to stop forward movement and hover.  Two of the lights stayed mostly in the same spot in the formation.  3rd light moved faster and slower, up and down, changing the formation several times but always remaining in a triangle.  Changed direction and faded away.  At one point one of the lights appeared to drop another light from it.  Initially moved northwest then turned more northly before fading away.  Were very close at the beginning, but never heard any engine noise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12981.html](http://www.nuforc.org/webreports/reports/012/S12981.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1976, an anonymous witness in Mountaintop (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>Baseball field size.  Triangular rotating lights.  Red and white lights. summer of 1976. at dusk.  Mountain Top, PaPlease note that I reported this on another site not too long ago and realized my date was wrong.  I was in 7th grade so it would have been 1976, not 1975.  We watched an object which at first appeared to be a helicopter in the dusk coming down toward our field.  As it came closer, you realized it wasn't a helicopter since it didn't make a sound.  Lights rotated in a triangular pattern.  White and red I believe.  I can just remember how large it was and that it was silent.  It hovered over our field and lowered itself to our tree lines.  We ran inside and hid in fright but two of my family members stayed outside for a little bit until after fear they ran inside.  It was as if it was going to land on top of our house and I can remember seeing dark heavy metal with the rotating lights.  As sudden as it came it started to climb up because my siblings called us upstairs.  We watched it move up into the stars and veer off in the direction of northwest.  We had our eyes glued on it until it blended into the distant stars in the sky and you could barely see a difference between the two.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112033.html](http://www.nuforc.org/webreports/reports/112/S112033.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [309](http://www.nuforc.org/webreports/reports/163/S163518.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163522.html)
-- [307](http://www.nuforc.org/webreports/reports/163/S163560.html)
-- [306](http://www.nuforc.org/webreports/reports/163/S163523.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163524.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
