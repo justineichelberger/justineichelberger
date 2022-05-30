@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:05:27 on 30 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:38 on 30 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Nottingham (MD) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>there was no tail to the objects and they were all moving in unison wi th each otherWe observed about 40 to 50 of what looked like stars off in the distance but were not off in the distance they were traveling northeast twords north east md and they were moving in formation with each other then a couple of them broke off and started going to the ground</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98285.html](http://www.nuforc.org/webreports/reports/098/S98285.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Prescott Valley (AZ) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Watched 3 bright objects travel across night sky in triangle formation with no noise.3 bright orange/yellow lights moving across sky.  flying in a triangle formation. Varied speed at some points appeared to stop forward movement and hover.  Two of the lights stayed mostly in the same spot in the formation.  3rd light moved faster and slower, up and down, changing the formation several times but always remaining in a triangle.  Changed direction and faded away.  At one point one of the lights appeared to drop another light from it.  Initially moved northwest then turned more northly before fading away.  Were very close at the beginning, but never heard any engine noise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12981.html](http://www.nuforc.org/webreports/reports/012/S12981.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [309](http://www.nuforc.org/webreports/reports/163/S163518.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163522.html)
-- [307](http://www.nuforc.org/webreports/reports/163/S163560.html)
-- [306](http://www.nuforc.org/webreports/reports/163/S163523.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163524.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
