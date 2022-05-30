@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:35 on 30 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:35 on 30 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Huntington Beach (CA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>3 rectangular light-colored objects observed while driving north on 405While driving north on the 405 freeway, I saw at least 3 relatively small (or at great distance) light colored horizontal rectangular shapes against a blue sky near dusk. These things were not particularly close together and no pattern or movement was observed. At the time I thought it looked almost like "holes" in the sky.  They appeared to be far away to the west and about 45 degrees above the horizon.  They did not seem to be related to nearby Los Alamitos NAS. They were not particularly close together with positions north, northwest and west relative to my position.  It was notable that each of these objects appeared to be the exact same size, shape and color.  The color was the same (or close to the same) as the clouds that were present. My original report can be seen at: http://www.ufosnw.com/sighting_reports/2011/huntingtonbeachca05302011/huntingtonbeachca05302011.htm</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93413.html](http://www.nuforc.org/webreports/reports/093/S93413.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Stuart (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Ten bright orbs light up quiet Stuart, FL neighborhoodAt 8:49pm on Saturday, May 30th in Stuart, FL as I walked my dog near the corner of Cortez Ave and Osceola Street, I saw ten red-orange orbs in the sky.  They were in a loose formation and moved/hovered slowly – until they didn’t when they simply seemed to blink out of sight.  I saw one of the objects move lower then laterally prior to blinking out of sight.  The whole sighting only lasted about 2 minutes.  I got a video of 45 seconds of the sighting.  The video is blurred at times because my dog kept yanking on my arm.  I also have a fairly clear photo of one of the objects.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156837.html](http://www.nuforc.org/webreports/reports/156/S156837.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [309](http://www.nuforc.org/webreports/reports/163/S163518.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163522.html)
-- [307](http://www.nuforc.org/webreports/reports/163/S163560.html)
-- [306](http://www.nuforc.org/webreports/reports/163/S163523.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163524.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
