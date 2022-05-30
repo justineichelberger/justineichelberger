@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:02:03 on 30 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:33 on 30 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Barre (VT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>1 Orange fireball not movingMy dad and I woke up for a few mins to smoke a cigarette and he said, what is that?! So I looked in the direction he was pointing and seen an orange fireball in the sky.  We could see it at level to the tree lines through the trees in the sky.  It was a round fireball.  It was not moving, just sitting in one place and did not move as far as we know.  It may have been there for a while longer we just noticed it as we woke up.  Then after looking at it for about 4 mins it just went out, nothing.  Like it just blinked out.  We live on a hill and it was facing out through the trees overlooking the town.  Before this happened a few weeks ago, have been seeing other strange things, hearing strange noises, and all different types of strange occurances.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89320.html](http://www.nuforc.org/webreports/reports/089/S89320.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1972, an anonymous witness in Wilmington (DE) reported seeing craft that fit the description of some 'Other' over a period of approximately ? - ? minutes.</sub><blockquote><sub>1972 Gigantic incandescent object hovering over Concord Mall - stopped cars - deafening silence, lost time.I was travelling up to Concord Mall on Rt 202 with two friends. We took the scenic route, Rt 92. I was 17 at the time.  I remember we went around the last bend on 92 just before you get to Rt 202 and all these cars were just "stopped" along the curve, in their tracks. We stopped too. We got out of the car and looked up to see this GIGANTIC glowing object, just about where the mall would be, hovering over that spot. It looked like a huge cylinder, with a cone shaped end.  It was glowing bright and incandescent. There seemed to be an electric humming sound, very faint.  That is all I remember.  We didn't remember going to the mall. I don't remember talking to the other people who were stopped. I only remember driving home with my friends in silence.There seems to be a huge chunk of missing time during and after the event. I don't remember ever talking about it after that, except years later I did call one of the friends to ask if she remembered it. She did.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51853.html](http://www.nuforc.org/webreports/reports/051/S51853.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [309](http://www.nuforc.org/webreports/reports/163/S163518.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163522.html)
-- [307](http://www.nuforc.org/webreports/reports/163/S163560.html)
-- [306](http://www.nuforc.org/webreports/reports/163/S163523.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163524.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
