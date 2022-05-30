@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:57 on 30 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:40 on 30 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Spring Hill (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Isosceles shape, large craft hovers over Spring HillLaying watching the sky, we saw an isosceles shape formed by lights.  As it moved across the sky the stars disappeared yet when the stars reached the middle they reappeared, giving the suspicion of it being a formation of three crafts together.  It may have well been just one craft with some sort of missing center.  Also, there were airplanes around it, or in its "vicinity".  It suddenly stopped and then vanished.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23074.html](http://www.nuforc.org/webreports/reports/023/S23074.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Middletown (DE) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>It was a meteor like object that moved at angles and no curves at a high rate of speed.I have been an amateur astronomer for over forty years.  On Monday, May 30 at 10:50 P.M.  I stepped outside during a break in a show.  The weather was warm and humid, the sky was clear.  I noticed what I thought to be a meteor flashing overhead from the west.  The color of the object  was white-orange.  The object immediately made angular turn to the south, then two more after. The object then proceeded to the west southwest at a very high rate of speed. Total time observed was 6 to 10 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81600.html](http://www.nuforc.org/webreports/reports/081/S81600.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [309](http://www.nuforc.org/webreports/reports/163/S163518.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163522.html)
-- [307](http://www.nuforc.org/webreports/reports/163/S163560.html)
-- [306](http://www.nuforc.org/webreports/reports/163/S163523.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163524.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
