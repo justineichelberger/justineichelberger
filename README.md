@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:40 on 30 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:32 on 30 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Hemet (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two yellow/orange lights above East HemetThis sighting occurred on the evening of May 30th, 2021 at approximately 8:49 pm. I was driving alone, working doing deliveries in the city of Hemet, CA.I was driving thru a quiet residential area when I spotted two lights in the sky above me, moving eastward. They looked like glowing orange orbs and moved silently across the sky. It was difficult to gauge their size as I was also trying to keep my eyes on the road. I grabbed my phone and snapped a quick photo thru the windshield of my car. I was in the middle of a delivery and couldn't stop to observe more closely or record video. I sped up to my drop off point which was less than a minute away with the intention of recording the lights with my phone. I reached my destination, shut off my car and exited the vehicle. The objects were almost directly above me now, still moving eastward and making no sound. As soon as I dropped off my delivery at the residence, I quickly moved back to where I could get a clear view of the objects. There were trees at the residence that had blocked my view of the lights. As I approached my car I looked up just in time to see them vanish simultaneously. They didn't fly off, they just dissappeared. The strangest thing about this incident was not the lights themselves but the fact that just moments before seeing the lights, the thought of an alien encounter or abduction had just popped into my head. Coincidence? Maybe, but it was very strange timing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163523.html](http://www.nuforc.org/webreports/reports/163/S163523.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in London (UK/England) () reported seeing craft that fit the description of some 'Diamond' over a period of approximately Night - Night minutes.</sub><blockquote><sub>I switched the light off and went to bed, Iwas looking out of the window when I saw a bright red and whte light.Well, I probally just saw it in my imagination, I'm nine years old. There were bright lights on it, at first it was a little spot but soon it got bigger and looked like a diamond shape. First it was red, then brown, then blue. I closed my eyes and looked again, it wasn't there, but another thing was..... It was a kind of super-man shape, well, it wasn't a man, but it looked like some kind of soft toy. It had a red and blue cloak on. I closed my eyes opened them again and nothing was there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37248.html](http://www.nuforc.org/webreports/reports/037/S37248.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [309](http://www.nuforc.org/webreports/reports/163/S163518.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163522.html)
-- [307](http://www.nuforc.org/webreports/reports/163/S163560.html)
-- [306](http://www.nuforc.org/webreports/reports/163/S163523.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163524.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
