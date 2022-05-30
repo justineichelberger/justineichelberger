@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:40 on 30 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:39 on 30 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Middletown (DE) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>It was a meteor like object that moved at angles and no curves at a high rate of speed.I have been an amateur astronomer for over forty years.  On Monday, May 30 at 10:50 P.M.  I stepped outside during a break in a show.  The weather was warm and humid, the sky was clear.  I noticed what I thought to be a meteor flashing overhead from the west.  The color of the object  was white-orange.  The object immediately made angular turn to the south, then two more after. The object then proceeded to the west southwest at a very high rate of speed. Total time observed was 6 to 10 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81600.html](http://www.nuforc.org/webreports/reports/081/S81600.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Madison (WI) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A black, parallelogram shaped object was seen on May 30, 2008.My sister and I had just picked up my daughter from a birthday party.  As we were driving into the neighborhood, we saw a large black object in the sky.  It was shaped kind of like a parallelogram.  It was completely still, no wavering, wind movement, etc.  When we got to my house we stood in the driveway and watched it for a few minutes.  Then it gradually moved out of our vision, behind a house high up on a hill.  It moved so slowly that it didn’t seem like it was moving, until the house was in the way.  We didn’t hear any sounds.  This was late in the afternoon, shortly before sunset.  We are still puzzled by what we saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72556.html](http://www.nuforc.org/webreports/reports/072/S72556.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [309](http://www.nuforc.org/webreports/reports/163/S163518.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163522.html)
-- [307](http://www.nuforc.org/webreports/reports/163/S163560.html)
-- [306](http://www.nuforc.org/webreports/reports/163/S163523.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163524.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
