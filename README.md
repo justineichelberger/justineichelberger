@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:02:17 on 30 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:44 on 30 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1976, an anonymous witness in Mountaintop (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>Baseball field size.  Triangular rotating lights.  Red and white lights. summer of 1976. at dusk.  Mountain Top, PaPlease note that I reported this on another site not too long ago and realized my date was wrong.  I was in 7th grade so it would have been 1976, not 1975.  We watched an object which at first appeared to be a helicopter in the dusk coming down toward our field.  As it came closer, you realized it wasn't a helicopter since it didn't make a sound.  Lights rotated in a triangular pattern.  White and red I believe.  I can just remember how large it was and that it was silent.  It hovered over our field and lowered itself to our tree lines.  We ran inside and hid in fright but two of my family members stayed outside for a little bit until after fear they ran inside.  It was as if it was going to land on top of our house and I can remember seeing dark heavy metal with the rotating lights.  As sudden as it came it started to climb up because my siblings called us upstairs.  We watched it move up into the stars and veer off in the direction of northwest.  We had our eyes glued on it until it blended into the distant stars in the sky and you could barely see a difference between the two.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112033.html](http://www.nuforc.org/webreports/reports/112/S112033.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Erie (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orange orb/fireball seen across sky.I saw it while I was on my deck. It was an orange orb the was moving at a slightly fast pace. It made no sound and never changed direction. It was going southwest to northeast. It left no contrails nor did It flash or blink. It was below the clouds or it was bright enough to be seen without any change while in the clouds. As it was about over the City of Erie it began to to get much smaller. It disappeared then reappeared a few times then it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70278.html](http://www.nuforc.org/webreports/reports/070/S70278.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [309](http://www.nuforc.org/webreports/reports/163/S163518.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163522.html)
-- [307](http://www.nuforc.org/webreports/reports/163/S163560.html)
-- [306](http://www.nuforc.org/webreports/reports/163/S163523.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163524.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
