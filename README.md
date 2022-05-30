@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:32 on 30 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:14:05 on 30 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in London (UK/England) () reported seeing craft that fit the description of some 'Diamond' over a period of approximately Night - Night minutes.</sub><blockquote><sub>I switched the light off and went to bed, Iwas looking out of the window when I saw a bright red and whte light.Well, I probally just saw it in my imagination, I'm nine years old. There were bright lights on it, at first it was a little spot but soon it got bigger and looked like a diamond shape. First it was red, then brown, then blue. I closed my eyes and looked again, it wasn't there, but another thing was..... It was a kind of super-man shape, well, it wasn't a man, but it looked like some kind of soft toy. It had a red and blue cloak on. I closed my eyes opened them again and nothing was there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37248.html](http://www.nuforc.org/webreports/reports/037/S37248.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Watertown (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Very fast moving lights that showed a circular formation.  The lights were red and sometimes orange and white.  The objects moved with a very fast zig zag path never straight unless it was stopped and then it appeared to be hovering.  We live near an army base so at first thought it could be manuevers until the objects became more numerous.  They were directly moving from the east to the west.  The lights appeared to be moving around in a circle simultaneously while the entire object zig zagged it is very hard to explain without seeing it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75614.html](http://www.nuforc.org/webreports/reports/075/S75614.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [309](http://www.nuforc.org/webreports/reports/163/S163518.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163522.html)
-- [307](http://www.nuforc.org/webreports/reports/163/S163560.html)
-- [306](http://www.nuforc.org/webreports/reports/163/S163523.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163524.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
