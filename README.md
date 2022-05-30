@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:14:05 on 30 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:02:03 on 30 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Watertown (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Very fast moving lights that showed a circular formation.  The lights were red and sometimes orange and white.  The objects moved with a very fast zig zag path never straight unless it was stopped and then it appeared to be hovering.  We live near an army base so at first thought it could be manuevers until the objects became more numerous.  They were directly moving from the east to the west.  The lights appeared to be moving around in a circle simultaneously while the entire object zig zagged it is very hard to explain without seeing it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75614.html](http://www.nuforc.org/webreports/reports/075/S75614.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Barre (VT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>1 Orange fireball not movingMy dad and I woke up for a few mins to smoke a cigarette and he said, what is that?! So I looked in the direction he was pointing and seen an orange fireball in the sky.  We could see it at level to the tree lines through the trees in the sky.  It was a round fireball.  It was not moving, just sitting in one place and did not move as far as we know.  It may have been there for a while longer we just noticed it as we woke up.  Then after looking at it for about 4 mins it just went out, nothing.  Like it just blinked out.  We live on a hill and it was facing out through the trees overlooking the town.  Before this happened a few weeks ago, have been seeing other strange things, hearing strange noises, and all different types of strange occurances.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89320.html](http://www.nuforc.org/webreports/reports/089/S89320.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [309](http://www.nuforc.org/webreports/reports/163/S163518.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163522.html)
-- [307](http://www.nuforc.org/webreports/reports/163/S163560.html)
-- [306](http://www.nuforc.org/webreports/reports/163/S163523.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163524.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
