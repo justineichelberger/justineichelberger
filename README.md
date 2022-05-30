@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:35 on 30 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:57 on 30 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1976, an anonymous witness in Mountaintop (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>Baseball field size.  Triangular rotating lights.  Red and white lights. summer of 1976. at dusk.  Mountain Top, PaPlease note that I reported this on another site not too long ago and realized my date was wrong.  I was in 7th grade so it would have been 1976, not 1975.  We watched an object which at first appeared to be a helicopter in the dusk coming down toward our field.  As it came closer, you realized it wasn't a helicopter since it didn't make a sound.  Lights rotated in a triangular pattern.  White and red I believe.  I can just remember how large it was and that it was silent.  It hovered over our field and lowered itself to our tree lines.  We ran inside and hid in fright but two of my family members stayed outside for a little bit until after fear they ran inside.  It was as if it was going to land on top of our house and I can remember seeing dark heavy metal with the rotating lights.  As sudden as it came it started to climb up because my siblings called us upstairs.  We watched it move up into the stars and veer off in the direction of northwest.  We had our eyes glued on it until it blended into the distant stars in the sky and you could barely see a difference between the two.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112033.html](http://www.nuforc.org/webreports/reports/112/S112033.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Spring Hill (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Isosceles shape, large craft hovers over Spring HillLaying watching the sky, we saw an isosceles shape formed by lights.  As it moved across the sky the stars disappeared yet when the stars reached the middle they reappeared, giving the suspicion of it being a formation of three crafts together.  It may have well been just one craft with some sort of missing center.  Also, there were airplanes around it, or in its "vicinity".  It suddenly stopped and then vanished.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23074.html](http://www.nuforc.org/webreports/reports/023/S23074.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [309](http://www.nuforc.org/webreports/reports/163/S163518.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163522.html)
-- [307](http://www.nuforc.org/webreports/reports/163/S163560.html)
-- [306](http://www.nuforc.org/webreports/reports/163/S163523.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163524.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
