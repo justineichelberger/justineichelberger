@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:07:56 on 31 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:42 on 31 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lebanon (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright low orange lights traveling from south to northBright orange lights traveling from south to north at a rapid pace.  After about 30 - 40 seconds the objects took off towards the east and litterally vanished.  Other airplanes were in the sky and they were quickly ruled out.  I have two videos taken from my iPhone.  Sky was clear and no other objects noted.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98295.html](http://www.nuforc.org/webreports/reports/098/S98295.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1994, an anonymous witness in Marlington (WV) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Driving home at dusk,my wife and I saw a saucer shaped craft fly directly overhead at tree top level,the craft had a circle of lights on the bottom red green and white with a pyrmid shape on the tail I was driving so my wife saw it much better than I. She is very relucent to talk about it still.There was a car in front of me as well as one behind. I tryed to get the car behind me to stop to ask what he saw, but he speed out of the area? Afraid I suppose? My windows where down and no sound of a engine where heard.I have always wanted to believe in ufos but could not untill I saw one as for my wife she never did believe,now there is no question.This my first and only sighting and report.This was not a distant light nor any craft capabale of flight known to modern avation as far as I know it.The craft crossed the road again in front of us and we watched it slowly go out of sight. Sorry I did not have a camera with me but I guess that is the way it goes???????</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24983.html](http://www.nuforc.org/webreports/reports/024/S24983.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/163/S163549.html)
-- [246](http://www.nuforc.org/webreports/reports/163/S163556.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163482.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163538.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163540.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
