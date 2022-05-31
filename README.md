@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:40 on 31 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:34 on 31 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Harwood Heights (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>On may 31 2005 at about 10:30 pm I saw very fast moving light .It was flying across the "Big Dipper" constellation, making two circles with same speed.After second circle it disappear from view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44227.html](http://www.nuforc.org/webreports/reports/044/S44227.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Knoxville (TN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Bright object observed slowly moving to west when another object (with red glow)  was emitted and departed at a high rate of speed.At approximately 11:00 pm on 5/31/04 my wife and I went outside to get some luggage from our car parked in the driveway.  Our driveway faces almost due west.  I noticed a very bright object toward south of the driveway which was moving horizonally at an elevation of approximately 40 degrees above the horizon.  I pointed this out to my wife and she commented that it must be an airplane.  We watched for several minutes and I pointed out that there were no other lights ( red or green) as normally seen with aircraft.  She said the object looked like a sphere with a halo adound it.  She went into the house to get the binoculars and I continued to watch the object which continued traveling toward the west at a slow rate of speed.  The moon was very bright and was at an elevation above the object and east of the object approximately 30 to 40 degrees.  Only a few stars were visible to the south an these were much higher in the sky.  At this point something very strange happened. A bright object ( not nearly as bright as the original sphere ) eminated from the sphere and traveled at a very rapid rate to the east at an angle of 120 degrees from the path of the bright sphere.  This object ( much smaller than the original sphere) had a faint red glow to it.  It continued moving at high rate of speed in a straight line until it was no longer visible at an elevation of approximately 75 degrees above the horizon almost due south.  I returned my attention to the original object which was no longer moving to the west but appeared to be moving away from me as the size continued to get smaller. It also appeared to be slowly gaining altitude above the original elevation when moving to the west.  I continued to watch the original sphere for another 10 to 15 minutes. At this time the original object was much smaller and not nearly as bright as when first observed.  I stopped looking at the object at about 11:20 pm.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37278.html](http://www.nuforc.org/webreports/reports/037/S37278.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/163/S163549.html)
-- [246](http://www.nuforc.org/webreports/reports/163/S163556.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163482.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163538.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163540.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
