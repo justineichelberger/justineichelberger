@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:08:38 on 31 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:04:49 on 31 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Springfield (MO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Saw 10 orange spheres, all were going in different directions.  Became almost transperant spheres, then disapeared.About 10 observed.  Started as bright orange sphere.  Moved towards us once they got to the other side of the sky they turned into almost transparent spheres but still slightly visible.  Then disappeared.  Not all went in the same direction.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109859.html](http://www.nuforc.org/webreports/reports/109/S109859.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Elgin (IL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Firey orange orb seen in sky over Elgin, IllinoisWe were driving home, in Elgin, Il. on Larkin Ave.  Looked up and saw this orange flaming sphere shaped object in the sky, it looked like a plane on fire.  We pulled over onto Aldine Ave, 10:10 p.m. Got out of the car and watched it fly across the sky it didn't seem to have a flight pattern, it slowed down, it's movement was kind of jiggly and then hovered.  It seemed to have an arc shaped sail or wing on it, like if you were looking up into a hot air balloon and saw the glowing shape of the balloon thru the fire.  After hovering for a bit it started moving again and increased speed upward into the sky.  We knew it moved up, it got smaller as it went and finally disappeared.  It move across the sky towards the horizon, it went up.  We did not hear any sounds or a sonic boom when it disappeared.   After that we watched a plane fly across the sky for comparison, and it was not a plane of any sort, or a helicopter or balloon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75635.html](http://www.nuforc.org/webreports/reports/075/S75635.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/163/S163549.html)
-- [246](http://www.nuforc.org/webreports/reports/163/S163556.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163482.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163538.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163540.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
