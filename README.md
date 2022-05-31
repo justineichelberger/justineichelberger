@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:47 on 31 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:42 on 31 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Pico Rivera (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>On the evening my daughter and witnessed two orange flying objects and one released a orange balls of  light to earth that faded.Actually we have seen these objects on various evenings for approx. one month. For the past wo evenings we have seen these lighted objects overhead orange in lighted color. On the morning of 5/31/04 at approx, two am five of us witnessed this object and twice it released what appeared to be like balls of the light (orange) that would fade as they went down what seems to be a hundred or so feet? We saw the same thing happen this evening. At other times it is moving low through the sky and at times hovering then fading to a blinking light. Sometimes they just fade out like the fireballs they release.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37259.html](http://www.nuforc.org/webreports/reports/037/S37259.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in St. Petersburg (FL) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>In a very clear night sky at 22:15 a light grew very bright overhead and then dissapearedLooking westerly nearly overhead I saw what appeared to be a star grow very bright then dissapear.   Did not appear to be a meteor.  Almost looked like a star exploding? I have been watching the sky my entire life as I live on the west coast of florida and never have seen anything like it.((NUFORC Note:  Iridium satellite??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81602.html](http://www.nuforc.org/webreports/reports/081/S81602.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/163/S163549.html)
-- [246](http://www.nuforc.org/webreports/reports/163/S163556.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163482.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163538.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163540.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
