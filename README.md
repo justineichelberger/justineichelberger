@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:31 on 31 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:43 on 31 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Springfield (MO) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>north on 65 hwy bright floating object moving east towards RollaI was driving home from work in the same route I always take north on 65 hwy. As soon as I get out of town I notice a bright light hovering to the northwest. It was very large and bright white, with a red light in the middle. The craft had a glowing ring around the outside of it. I pulled off the road and a cop came up behind me and said ‘no your not crazy, I see it too.’’</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56890.html](http://www.nuforc.org/webreports/reports/056/S56890.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Louisville (KY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>white sphere three other spheres seperated from first sphere.saw white sphere traveling south went over head and three other spheres split or shot out of first sphere</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70290.html](http://www.nuforc.org/webreports/reports/070/S70290.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/163/S163549.html)
-- [246](http://www.nuforc.org/webreports/reports/163/S163556.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163482.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163538.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163540.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
