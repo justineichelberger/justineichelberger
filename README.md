@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:47 on 31 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:36 on 31 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Newburgh (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Five or more people saw a string of bright red lights hoving in the sky that disappearedI am the daughter of the witness. My father, mother, and uncle were sitting outside. My mother came into the house to tell me they (mom, dad, and uncle) were going to drive down to a place where they saw a string of big red lights in the sky. They went there, and as they got there, two cars turning the corner suddenly stop as they approached the lights. But when they actually got there, the lights were gone. This took about five minutes.My father described them as big red Christmas lights hovering stationary in the sky. My mother described them like exploded fireworks that hadn’t disappeared. My uncle didn’t give a description.My father just now, at 21:54 of the same day, told me he called the sheriff and reported the event. The sheriff said that about a year ago, the exact same thing was reported in the exact same area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63634.html](http://www.nuforc.org/webreports/reports/063/S63634.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Lovingston (VA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>We were standing in the backyard around 6:00 PM and the blue sky was cloudless. I looked up and clearly saw a silver object flying quite high at a slow pace toward Roanoke in a southwesterly direction. I thought it was a plane, but it was really too far to describe its shape. I said out loud that it’s heading to Roanoke. My wife said it is too high to be landing in Roanoke (about eighty miles from where we stood.) We were watching it and it vanished in an instant. Nothing gradual about it. We saw moving slowly and then it was gone. There were no lights or no com trail.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163550.html](http://www.nuforc.org/webreports/reports/163/S163550.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/163/S163549.html)
-- [246](http://www.nuforc.org/webreports/reports/163/S163556.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163482.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163538.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163540.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
