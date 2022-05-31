@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:42 on 31 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:38 on 31 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Frankfort (KY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>10+ silent orange flying objects in strict formation for 5 minutes then disappearingObservation of Unidentified Flying Objects in Franklin County, Kentucky   On Saturday, May 31, 2014, at approximately 10:00 pm my wife and I observed 10 or more orange balls of light in a perfect straight line formation at an altitude of approximately 1000-1500 feet.  The balls of light seem to appear one after the other and were not all visible initially.  All but one of the orange lights stayed in formation the entire time we watched.  One of the lights rapidly accelerated next to another orange light and remained side by side with the other light until they disappeared.  The orange lights were flying northwest, were evenly spaced approximately 200-300 yards apart and silent.  We watched the lights for approximately five minutes until they made a turn towards southwest and disappeared as they were moving away from our location.  The orange objects did not have any strobes, sound, red or white light.I have worked on numerous military bases, have been an investigator for the state government for more than 13 years, traveled internationally and have flown on private and commercial planes and helicopters.  I have never observed flying objects like we saw on May 31, 2014.  I am 100% certain they were not “Chinese lanterns”, helicopters or planes.  The flying objects had to be controlled by intelligent life due to the exact positioning of the objects, formation and the rapid acceleration of one object next to the other that remained side by side until they disappeared.  I have observed planes and helicopters flying at night and these were definitely neither.  The sky was clear over Frankfort and little to no wind.Before reporting this incident we consulted with two Air Force Officers and they are unaware of any aircraft that are silent or displays orange lights rather than the traditional lights used on aircraft during flight.  I had serious reservations about reporting the incident because I have never believed in UFOs.  I am not sure what these were but, by reporting this incident I hope to find some answers no matter what they may be.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109942.html](http://www.nuforc.org/webreports/reports/109/S109942.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in St. Petersburg (FL) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>In a very clear night sky at 22:15 a light grew very bright overhead and then dissapearedLooking westerly nearly overhead I saw what appeared to be a star grow very bright then dissapear.   Did not appear to be a meteor.  Almost looked like a star exploding? I have been watching the sky my entire life as I live on the west coast of florida and never have seen anything like it.((NUFORC Note:  Iridium satellite??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81602.html](http://www.nuforc.org/webreports/reports/081/S81602.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/163/S163549.html)
-- [246](http://www.nuforc.org/webreports/reports/163/S163556.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163482.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163538.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163540.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
