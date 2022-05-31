@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:42 on 31 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:47 on 31 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Barberton (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Orange  sphere Shaped object with sparks coming from bottom going from East to West.On May 31st 2014 at approx 20:30, coordinates: N 41° 02.462' W 081° 35.223' I witnessed an orange sphere shaped object that appeared to have sparks coming off of the bottom of it. It went from the Eastern Horizon to the Western Horizon before disappearing from view.  I only had time to capture a short recording of the object on my cellphone camera before it disappeared.  It took approximately 10 minutes to cross from horizon to horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109863.html](http://www.nuforc.org/webreports/reports/109/S109863.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Pico Rivera (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>On the evening my daughter and witnessed two orange flying objects and one released a orange balls of  light to earth that faded.Actually we have seen these objects on various evenings for approx. one month. For the past wo evenings we have seen these lighted objects overhead orange in lighted color. On the morning of 5/31/04 at approx, two am five of us witnessed this object and twice it released what appeared to be like balls of the light (orange) that would fade as they went down what seems to be a hundred or so feet? We saw the same thing happen this evening. At other times it is moving low through the sky and at times hovering then fading to a blinking light. Sometimes they just fade out like the fireballs they release.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37259.html](http://www.nuforc.org/webreports/reports/037/S37259.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/163/S163549.html)
-- [246](http://www.nuforc.org/webreports/reports/163/S163556.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163482.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163538.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163540.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
