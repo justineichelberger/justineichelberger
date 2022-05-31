@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:40:12 on 31 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:27:08 on 31 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Green Valley-Henderson (NV) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three rotating black rectangles with extremely bright green lights at the long ends moving N-to-S in daylightAs my wife and I were relaxing on our patio after finishing breakfast around 8:09AM on 5/31/2021, A green flash in the sky about 25 to 30 degrees above the western horizon caught my eye.  When we observed we discovered that there were in fact three objects.  All three looked rectangular in shape, perhaps 10X longer than wide, all were absolutely black in color (despite being illuminated directly in bright sunlight) with two continuous and strikingly bright green lights, one at each end.   These rectangles were rotating approximately once per second about their mid sections while moving south.   There were brief instances when the entire length of the objects would flash very brightly in the same brilliant green.  Within 30 seconds of observing the three objects, two of them were lost sight of.  The remaining single object continued due south until moving out of view, having been obstructed by neighboring homes.  The maximum apparent size of the objects was a! bout 1/10th the diameter of the full Moon, made no noise.   A commercial jet on final into McCarren Airport passed between one of the objects and my location, which may indicate the objects were actually quite large and more distant than I initially assumed.  4K videos of a portion of the observation was made which does show one of the objects rotating and flashing green lights, but are quite grainy.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163481.html](http://www.nuforc.org/webreports/reports/163/S163481.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Las Begas (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>i saw a ball of light flying through the sky. it was being followed by what looked like 5 to 10 other blinking strobes surrounding the larger ball of light.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89305.html](http://www.nuforc.org/webreports/reports/089/S89305.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/163/S163549.html)
-- [246](http://www.nuforc.org/webreports/reports/163/S163556.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163482.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163538.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163540.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
