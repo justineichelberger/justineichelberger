@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:01:00 on 31 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:07:56 on 31 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Mukilteo (WA) reported seeing craft that fit the description of some 'Changing' over a period of approximately now - now minutes.</sub><blockquote><sub>red and blue flashing  light west of mount ranieri am smoking a cigarette and south of me was a light that was flashing from red to blue. it disapeared then reappeared.not moving too much bu enough to catch my attention.i looked at the stars and it did not look like any of the stars out there. even the north star was not as bright as this.west of mount ranier for sure.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50773.html](http://www.nuforc.org/webreports/reports/050/S50773.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lebanon (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright low orange lights traveling from south to northBright orange lights traveling from south to north at a rapid pace.  After about 30 - 40 seconds the objects took off towards the east and litterally vanished.  Other airplanes were in the sky and they were quickly ruled out.  I have two videos taken from my iPhone.  Sky was clear and no other objects noted.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98295.html](http://www.nuforc.org/webreports/reports/098/S98295.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/163/S163549.html)
-- [246](http://www.nuforc.org/webreports/reports/163/S163556.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163482.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163538.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163540.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
