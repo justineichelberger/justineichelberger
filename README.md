@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:38 on 31 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:42 on 31 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in St. Petersburg (FL) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>In a very clear night sky at 22:15 a light grew very bright overhead and then dissapearedLooking westerly nearly overhead I saw what appeared to be a star grow very bright then dissapear.   Did not appear to be a meteor.  Almost looked like a star exploding? I have been watching the sky my entire life as I live on the west coast of florida and never have seen anything like it.((NUFORC Note:  Iridium satellite??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81602.html](http://www.nuforc.org/webreports/reports/081/S81602.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Big Lake (MN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>orange/amberish orb sighted on the ground in the early morning hoursI was driving to work at 0420 and I was about a mile from home headed toward the south to St. Paul International Airport. I noticed this bright orange/amberish orb to my right, the west, in a field on the ground. I watched it as I drove by it for about a minute or two. It was about 15 feet in diameter. There were no apparent doors or windows seen. No blinking lights of any kind. I didn't hear any sound, but I believe I had my window rolled up. I didn't see any movement around it as I was watching for people or something to clarify what I was seeing. There was no one else on the road; it was very dark. For the next several mornings I watched the same area, but it did not reappear. If it was an aircraft I would have known as I grew up by Camp Ripley and used to watch the military jets and helicopters fly over day and night. I am also a private pilot and an A & P mechanic so I am quite familiar with the majority of  aircraft and their lighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58635.html](http://www.nuforc.org/webreports/reports/058/S58635.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/163/S163549.html)
-- [246](http://www.nuforc.org/webreports/reports/163/S163556.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163482.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163538.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163540.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
