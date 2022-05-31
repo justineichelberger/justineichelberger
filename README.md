@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:04:49 on 31 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:42 on 31 May 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Elgin (IL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Firey orange orb seen in sky over Elgin, IllinoisWe were driving home, in Elgin, Il. on Larkin Ave.  Looked up and saw this orange flaming sphere shaped object in the sky, it looked like a plane on fire.  We pulled over onto Aldine Ave, 10:10 p.m. Got out of the car and watched it fly across the sky it didn't seem to have a flight pattern, it slowed down, it's movement was kind of jiggly and then hovered.  It seemed to have an arc shaped sail or wing on it, like if you were looking up into a hot air balloon and saw the glowing shape of the balloon thru the fire.  After hovering for a bit it started moving again and increased speed upward into the sky.  We knew it moved up, it got smaller as it went and finally disappeared.  It move across the sky towards the horizon, it went up.  We did not hear any sounds or a sonic boom when it disappeared.   After that we watched a plane fly across the sky for comparison, and it was not a plane of any sort, or a helicopter or balloon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75635.html](http://www.nuforc.org/webreports/reports/075/S75635.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Barberton (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Orange  sphere Shaped object with sparks coming from bottom going from East to West.On May 31st 2014 at approx 20:30, coordinates: N 41° 02.462' W 081° 35.223' I witnessed an orange sphere shaped object that appeared to have sparks coming off of the bottom of it. It went from the Eastern Horizon to the Western Horizon before disappearing from view.  I only had time to capture a short recording of the object on my cellphone camera before it disappeared.  It took approximately 10 minutes to cross from horizon to horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109863.html](http://www.nuforc.org/webreports/reports/109/S109863.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/163/S163549.html)
-- [246](http://www.nuforc.org/webreports/reports/163/S163556.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163482.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163538.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163540.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
