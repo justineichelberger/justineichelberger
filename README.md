@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:43 on 1 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:38 on 1 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Live Oak (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Flash of blue energy followed by an object sighting.This event happened when I was very young.   My two friends and I were boy scouts together and we were playing in the wooded area behind the building we call scout hall.  There was a bluish flash of energy and suddenly we saw a triangle shapped object hovering in the air.  The hairs stood up on our arms.  The three of us were very scared.  The object had a flashing blue pulse of light on its bottom.  The blue energy returned and crackled in the air.  Suddenly the object dissapeared.  Almost as if it teleported.  It is something that sticks in my mind constantly.  I want to get it off my chest and let it be known.((NUFORC Note:  Source of report indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69506.html](http://www.nuforc.org/webreports/reports/069/S69506.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1964, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I saw 3 lights in the sky that moved together.I was in the street in front of our home.  I was not alone but not near anyone to let them know.  What I saw was 3 lights that looked like dim stars.  But these 3 lights formed a triangle, 1 light in front and 2 to rear.  And the lights moved together.  I watched it move in a north direction, and then it turn to the west.  Almost in a 45 degree.  All lights turned at same time.  I remember it heading toward downtown Houston.  The light appeared to be high in the sky.I realize this is old and not important, but I wanted to let you know.  I could not see a craft but saw lights that moved in a uniform pattern.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126523.html](http://www.nuforc.org/webreports/reports/126/S126523.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1610](http://www.nuforc.org/webreports/reports/163/S163526.html)
-- [1609](http://www.nuforc.org/webreports/reports/163/S163528.html)
-- [1608](http://www.nuforc.org/webreports/reports/163/S163999.html)
-- [1607](http://www.nuforc.org/webreports/reports/163/S163536.html)
-- [1606](http://www.nuforc.org/webreports/reports/163/S163581.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
