@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:56 on 1 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:15:26 on 1 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1975, an anonymous witness in Half Moon Bay (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright starlike object  near hovered horizon  than ascended very fast.I was invited by a friend to stay at a beach house about seven miles south of Half Moon Bay, California, early summer 1975. It was my first trip to california from the East Coast and I enjoyed watching the evening sunsets. The coast had been foggy for a couple of nights so on this particular night i sat on the beach with field glasses enjoying the ocean and approaching sunset. As the sun began to set i noticed a bright starlike object hovering near the horizon close to where the sun was setting. I took a look through the field glasses and noticed that the object seemed to be flikering much like a star but the center was dark. The object hovered for a time than suddenly began to ascend very fast. In short time it was out of view. The atmosphere seemed electric. I looked around to see if any one was on the beach with but i was alone. To this day i have no idea what i observed.((NUFORC Note:  Date in June 1975 is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29503.html](http://www.nuforc.org/webreports/reports/029/S29503.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in Grand Saline (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Blinding white light over my pickup then suddenly I'm outside of my truck looking in an empty sky.I was driving home from a friends house in my pickup traveling North on FM1652 in Grand Saline, TX, when a bright white light shown down over my truck.  It was so bright that I couldn't see beyond where the light was shining approximately 30 to 40 feet in front of my pickup.  I pulled over and stopped and tried to see if I could see what it was shining down on my truck by leaning forward and looking up toward the light.  There was no sound associated with the light either.  As I start to look up, suddenly I'm outside of my truck on the drivers side leaning forward on the bed, holding the top portion of the fleet side bed, and looking up into a clear starry night.  There was nothing in sight.  I looked toward the cab of my truck and the drivers side door was open, the motor was off and the park lights were on.  I never stopped the motor or turned the lights off that I know of.  I told this to no one for many years fearing being labeled as crazy.  The people I did tell of this are ones that first told me of experiencing sightings of unknown origins or something similar.  I've tried to dismiss this by researching what it might have been.  Most recently, was seeing the meteor that flew over Russia and how bright it made the sky.  However, the light I saw was from a fixed position and came on like someone flipped a switch.  I've thought “Police Helicopter”, but there are none in that rural area, there was no sound, and it still doesn't account for my lapse of time from being in my truck to being outside.  I've struggled with this phenomena from that moment on wondering what it was and have yet to discover any information that could make sense of this event.  I sincerely hope you contact me with some resources that may help me unravel this mystery.  Thank you.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96607.html](http://www.nuforc.org/webreports/reports/096/S96607.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1610](http://www.nuforc.org/webreports/reports/163/S163526.html)
-- [1609](http://www.nuforc.org/webreports/reports/163/S163528.html)
-- [1608](http://www.nuforc.org/webreports/reports/163/S163999.html)
-- [1607](http://www.nuforc.org/webreports/reports/163/S163536.html)
-- [1606](http://www.nuforc.org/webreports/reports/163/S163581.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
