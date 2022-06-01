@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:35 on 1 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:56 on 1 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1980, an anonymous witness in Andover (MN) reported seeing craft that fit the description of some 'Disk' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>I heard a  humming noise, craft hovered for 20 minutes then zipped away about 1/4 mile hovered again then dissappeared.At age 17 I saw a large disk with blue and red lights.  Heard a low hummmm.   hovered one football field from house. Brother and father saw it from outside. I stayed in the house. Shot off very quickly and hovered again. Sat for 5 mintes more, then shot off and disappeared. I don't tell people cause they think your crazy.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36547.html](http://www.nuforc.org/webreports/reports/036/S36547.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1975, an anonymous witness in Half Moon Bay (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright starlike object  near hovered horizon  than ascended very fast.I was invited by a friend to stay at a beach house about seven miles south of Half Moon Bay, California, early summer 1975. It was my first trip to california from the East Coast and I enjoyed watching the evening sunsets. The coast had been foggy for a couple of nights so on this particular night i sat on the beach with field glasses enjoying the ocean and approaching sunset. As the sun began to set i noticed a bright starlike object hovering near the horizon close to where the sun was setting. I took a look through the field glasses and noticed that the object seemed to be flikering much like a star but the center was dark. The object hovered for a time than suddenly began to ascend very fast. In short time it was out of view. The atmosphere seemed electric. I looked around to see if any one was on the beach with but i was alone. To this day i have no idea what i observed.((NUFORC Note:  Date in June 1975 is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29503.html](http://www.nuforc.org/webreports/reports/029/S29503.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1610](http://www.nuforc.org/webreports/reports/163/S163526.html)
-- [1609](http://www.nuforc.org/webreports/reports/163/S163528.html)
-- [1608](http://www.nuforc.org/webreports/reports/163/S163999.html)
-- [1607](http://www.nuforc.org/webreports/reports/163/S163536.html)
-- [1606](http://www.nuforc.org/webreports/reports/163/S163581.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
