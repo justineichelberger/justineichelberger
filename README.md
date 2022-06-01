@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:32 on 1 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:50:11 on 1 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Land O'Lakes (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>After waking and seeing the ceiling over my bed shining and moving I was sacred, I had seen this before, I saw bright lights from out the window I got up and looked out, the window was open with screen, I could see very bright AREA about 100ft away,I was trying to figure out what was going on, I was not drunk or drugged but I had trouble focusing, I could see Windows in the bright AREA I  saw movements in and around the window area's inside the larger lite AREA.  It was like I  knew that this was not RIGHT, but just turned layed down,I could still see the brightness, but just went back to sleep.  I remembered this, but as with other I kept it to myself. Maybe 2 weeks later a very similar event occurred I remembered thinking as it was happening I have to remember things, I studied things, I saw the same things but I forced myself to stay longer at the window, to the point my wife woke up, asking what I was doing, I said I  think the neighbors were up for the weekend, then I just went back in bed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137873.html](http://www.nuforc.org/webreports/reports/137/S137873.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1974, an anonymous witness in Placerville (CA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Chevron shaped objects in formationSimilar or the same as lubbock lights.Very high altitude.Extremly bright,possibly in sunlight at 10 pm.No noise.Could be seen keeping formation.So un-earthly as to cause considerable fright among obsrevers.((NUFORC Note:  Date is approximate.  We will encourage the witness to have the other observers submit reports, as well.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22065.html](http://www.nuforc.org/webreports/reports/022/S22065.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1610](http://www.nuforc.org/webreports/reports/163/S163526.html)
-- [1609](http://www.nuforc.org/webreports/reports/163/S163528.html)
-- [1608](http://www.nuforc.org/webreports/reports/163/S163999.html)
-- [1607](http://www.nuforc.org/webreports/reports/163/S163536.html)
-- [1606](http://www.nuforc.org/webreports/reports/163/S163581.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
