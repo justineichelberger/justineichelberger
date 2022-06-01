@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:02:34 on 1 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:51 on 1 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Roebling (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>My neighbor and I saw a white light executing right and left angles, no sound or shape, over a lake behind our houses.My neighbor called me to witness this strange light he saw over the lake behind our houses.  A round white light moving at right and left angles, very sharp angles, there was no sound or shape, just the white light. It was moving very fast and then it was gone.  My neighbor and I just looked at each other and said simultaneously, "UFO?"  We never reported it to the local police,  this is the first time I am talking about it. I'm not sure what exactly we saw.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18852.html](http://www.nuforc.org/webreports/reports/018/S18852.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in McComb (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Triangular object spotted between Gilboa and McComb.  No sound.  Light on each corner.I was driving with another person heading east on SR 224, east of Gilboa.  As the car came around a bend in the road (near the old rest stop) a triangular object came into view from behind the trees bordering the Blanchard river.  We stopped the car under the object.  I got out of the car.  The object made no sound whatsoever.  It was about 40 feet above the ground and eacjh side of the object was about 25-30 feet long.  It had a white light on each corner and was otherwise dark.  It appeared to be black, but it was dark outside and it was difficult to tell.  After hovering over the car for several seconds, the object departed going west, toward the town of Ottawa.((NUFORC Note:  Witness indicates that date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44251.html](http://www.nuforc.org/webreports/reports/044/S44251.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1610](http://www.nuforc.org/webreports/reports/163/S163526.html)
-- [1609](http://www.nuforc.org/webreports/reports/163/S163528.html)
-- [1608](http://www.nuforc.org/webreports/reports/163/S163999.html)
-- [1607](http://www.nuforc.org/webreports/reports/163/S163536.html)
-- [1606](http://www.nuforc.org/webreports/reports/163/S163581.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
