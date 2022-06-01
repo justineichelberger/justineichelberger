@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:50:11 on 1 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:44:06 on 1 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1974, an anonymous witness in Placerville (CA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Chevron shaped objects in formationSimilar or the same as lubbock lights.Very high altitude.Extremly bright,possibly in sunlight at 10 pm.No noise.Could be seen keeping formation.So un-earthly as to cause considerable fright among obsrevers.((NUFORC Note:  Date is approximate.  We will encourage the witness to have the other observers submit reports, as well.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22065.html](http://www.nuforc.org/webreports/reports/022/S22065.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1967, an anonymous witness in Hyde Park (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Was 12 years old,walking to buddies home it was dark.all sudden bright lights in the sky.Look like satlight maybe one mile above me.To this day i do believe this was UFO. I willing to be hypnotise to see if  I was seeing this event?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05547.html](http://www.nuforc.org/webreports/reports/005/S05547.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1610](http://www.nuforc.org/webreports/reports/163/S163526.html)
-- [1609](http://www.nuforc.org/webreports/reports/163/S163528.html)
-- [1608](http://www.nuforc.org/webreports/reports/163/S163999.html)
-- [1607](http://www.nuforc.org/webreports/reports/163/S163536.html)
-- [1606](http://www.nuforc.org/webreports/reports/163/S163581.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
