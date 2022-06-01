@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:27:59 on 1 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:22:25 on 1 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1975, an anonymous witness in Cold Spring (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>bluish-grey oval - very fast , over Hudson River - watched for a long timeDate/time is approximate. It was a clear day, and I was looking out the window of my school's classroom (I was in elementary school at the time).  The school is up on a hill overlooking the Hudson River.  Against the backdrop of the mountains on the other side of the river, I saw a bluish-grey metallic oval object.  It zipped around at very high speeds at various angles, then would pause and shoot off at a different angle.  I watched this object for 15+ minutes, I remember looking at the school clock, as I was starting to get bored watching it (hey, I was a kid).  When I'd finally made up my mind to tell someone else about this, I turned away, turned back to make sure it was still there, and it was gone. I am very interested if anyone else saw what I did in June of '75 (or so).  It was the middle of the day, and there were cars going by on the road on the other side of the river.  I can't possibly have been the only one who saw this, yet I have never heard of anyone else who admits to having seen anything unusual that day.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45352.html](http://www.nuforc.org/webreports/reports/045/S45352.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Saginaw (MI) reported seeing craft that fit the description of some 'Changing' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>A strange blue object that appeared to come from behind the moon, moving very fast.I was looking at the northern lights above the house.  I attempted to take a picture, but the lighting was too off for me to take a quality picture.  I turned and took a look at the nearly full moon to which I saw a tiny flash of light to the right far side of the moon.  I thought it was just a mere near by star.  I took my phone out and took some pictures, and that is when I noticed this strange blue object moving, seeming to come from behind the moon moving erratically.  I took 5 pictures, in which 4 came out clear with this rather odd object, and the last picture was just black.  The object was round, at first, but seemed to change shape ever so slightly.  It seems to have a defined outer ring with a blue center and something pulsating in the very middle.  I observed the object for about 30 seconds and than it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119302.html](http://www.nuforc.org/webreports/reports/119/S119302.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1610](http://www.nuforc.org/webreports/reports/163/S163526.html)
-- [1609](http://www.nuforc.org/webreports/reports/163/S163528.html)
-- [1608](http://www.nuforc.org/webreports/reports/163/S163999.html)
-- [1607](http://www.nuforc.org/webreports/reports/163/S163536.html)
-- [1606](http://www.nuforc.org/webreports/reports/163/S163581.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
