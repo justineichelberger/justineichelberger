@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:06:43 on 1 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:43 on 1 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Spicewood (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Silver oval suspended at angle 100 yards away at dawn after seeing dozens of lights, moved towards us then shot away quickly.Woke up from a bad dream with a sensation of being pinned down on the ground.  My distress woke up my brother and boyfriend.  My brother was acting panicked and told us to look up through the tent.  There were dozens of lights, moving in a way we had never seen.  After around ten minutes, they all moved out of line of view very quickly.  The sun was about to come up so we stepped out of the tent.  There was a shiny, smooth, silver oval suspended in the sky at an angle with no visible lines or orifices.  It stayed about 100 yards suspended for at least ten minutes.  The sky became very clear and blue by this point.  It began moving towards us but then slowly backed away before shooting out of sight very quickly.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))((NUFORC Note:  Witness indicates that the date is approximate.  PD)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120272.html](http://www.nuforc.org/webreports/reports/120/S120272.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Live Oak (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Flash of blue energy followed by an object sighting.This event happened when I was very young.   My two friends and I were boy scouts together and we were playing in the wooded area behind the building we call scout hall.  There was a bluish flash of energy and suddenly we saw a triangle shapped object hovering in the air.  The hairs stood up on our arms.  The three of us were very scared.  The object had a flashing blue pulse of light on its bottom.  The blue energy returned and crackled in the air.  Suddenly the object dissapeared.  Almost as if it teleported.  It is something that sticks in my mind constantly.  I want to get it off my chest and let it be known.((NUFORC Note:  Source of report indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69506.html](http://www.nuforc.org/webreports/reports/069/S69506.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1610](http://www.nuforc.org/webreports/reports/163/S163526.html)
-- [1609](http://www.nuforc.org/webreports/reports/163/S163528.html)
-- [1608](http://www.nuforc.org/webreports/reports/163/S163999.html)
-- [1607](http://www.nuforc.org/webreports/reports/163/S163536.html)
-- [1606](http://www.nuforc.org/webreports/reports/163/S163581.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
