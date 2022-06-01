@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:36 on 1 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:35 on 1 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1983, an anonymous witness in Ciudad Lazaro Cardenas (Mexico) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>We saw a gigantic sphere in the sky one Saturday night after an earthquake in Mexico.We were watching TV that Saturday night when suddenly an earthquake struck, we all got up and ran outside, we lived in the second floor and we had a large terrace, there we all gather and waited for the earthquake to stop, that's when we looked up and saw a gigantic sphere moving south, you can tell it was huge because there cumulus clouds in the sky, and this aircraft was just as big as the clouds. The sphere was dark and it had thousands of lights going around it,it hover over the city for about 2 minutes, and then it disappear behind a cloud. The next day, everyone was talking about it at school. I became a believer right then.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07737.html](http://www.nuforc.org/webreports/reports/007/S07737.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1956, an anonymous witness in Belton (MO) reported seeing craft that fit the description of some 'other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>THE EVENT WAS A PERSONAL CONTACT WITH AN ALIEN. SINCE I WAS ABOUT 6 YEARS OLD AND IT HAS BEEN A LONG TIME FORGIVE ME ANY DESCREPANCIES I MAY HAVE IN MY DESCRIPTION. THE 'ALIEN' WAS ABOUT 6' TO 6'5"TALL. IT WAS FORMED AS A HUMAN BEING BUT WITH NO FLESHY APPEARANCE. I.E.,THERE WAS A GLOWING LIGHT AROUND ITS WHOLE BODY. I COULD SEE LEGS, ARM, HEAD, AND BODY BUT BECAUSE OF THE BRILLIANCE OF THE LIGHT AROUND THE BODY I COULD SEE NO CLOTHING AS  SUCH. HOWEVER, THE LIGHT WAS BRILLIANT BLUE (AS A VERY HOT FLAME) BUT IT GLOWED ALL AROUND IT TO BRIGHTEN UP THE NIGHT. I HAD JUST STEPPED OUT TO PUT OUT THE TRASH WHEN I NOTICED THE FIGURE OF THE BEING. IT SEEMED TO BE LOOKING AT A NEIGHBORS BACKPORCH LIGHTBULB; AND THE REASON I BELIEVED IT TO BE SO TALL WAS BECAUSE THE BEINGS HEAD WAS TALLER THAN WHERE THE LIGHT HAS BEEN FIXED ON THE BACK DOOR OF THE NEIGHBORS HOUSE. FOR MANY YEARS I HAD NOT TOLD ANYONE ABOUT THIS SIGHTING UNTIL A FRIEND OF MINE SHOWED ME A PHOTO OF A UFO HE HAD TAKEN FROM 1959(FROM A KODAK) WHICH HAD BEEN HOVERING NEAR HIS HOUSE...HE STILL HAS THE PHOTO AND I WILL BE GLAD TO SAK HIM TO SHARE IT WITH YOU IN THE FUTURE THANK YOU FOR ALLOWING ME TO SHARE THIS EXPERIENCE WITH YOU ((Name deleted))PERSONAL CONTACT WITH ALIEN TALL- 6'-6'5" BLUE AND WHITE LIGHT SURROUNDING ITS BODY SHAPED AS A HUMAN BEING COULD NOT IDENTIFY: GENITALIA,MOUTH,TEETH, ETC. ONLY THE OUTWARD APPEARANCE OF A HUMAN FORM COVERED WITH BRILLIANT LIGHT. I COULD HEAR A VOICE IN MY HEAD HOWEVER AS IF THE BEING WAS TRYING TYO CALM ME FROM FEAR OF IT. I SCREAMED AFTER IT SEEMED TO SAY NOT TO BE AFRAID MY MOTHER CAME TO THE BACKDOOR TO CHECK ON WHAT WAS WRONG BUT WHEN I LOOKED AT HER AND POINTED UP TOWARD THE NEIGHBORS HOUSE THE BEING HAD DISAPPEARED... MAYBE IT WAS A YOUNG CHILDS IMAGINATION FOR FEAR OF THE DARK; BUT THERE IS ONE SURE THING I CAN SAY ABOUT THE ENCOUNTER... IT LEFT ME WITH A BETTER UNDERSTANDING FOR THE NEED OF A CHILD TO BE CLOSER TO HIS FAMILY THEREAFTER…</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03095.html](http://www.nuforc.org/webreports/reports/003/S03095.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1610](http://www.nuforc.org/webreports/reports/163/S163526.html)
-- [1609](http://www.nuforc.org/webreports/reports/163/S163528.html)
-- [1608](http://www.nuforc.org/webreports/reports/163/S163999.html)
-- [1607](http://www.nuforc.org/webreports/reports/163/S163536.html)
-- [1606](http://www.nuforc.org/webreports/reports/163/S163581.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
