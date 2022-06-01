@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:49 on 1 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:36 on 1 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Sandusky (OH) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Large rectangular craft flew at an angle over my head, and disappeared into the horizon.I was roller blading down Finch Street in Sandusky Ohio, at approximately 21:00, heading west-bound.  A very large rectangle tilted at an approximate 30 degree angle flew over top of my head at an unknown altitude.  It was glowing a pale orangish-yellow, and appeared to have circular lights spanning the entire width of the craft.  The object appeared to me as having dimensions of 5 feet wide by 6 inches high from where I was standing, but was probably much larger as I was unaware how high the object was.  It appeared 2-dimensional the entire time, and it continued to fly west-bound and eventually disappeared in the horizon.((NUFORC Note:  Source of report indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68493.html](http://www.nuforc.org/webreports/reports/068/S68493.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1983, an anonymous witness in Ciudad Lazaro Cardenas (Mexico) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>We saw a gigantic sphere in the sky one Saturday night after an earthquake in Mexico.We were watching TV that Saturday night when suddenly an earthquake struck, we all got up and ran outside, we lived in the second floor and we had a large terrace, there we all gather and waited for the earthquake to stop, that's when we looked up and saw a gigantic sphere moving south, you can tell it was huge because there cumulus clouds in the sky, and this aircraft was just as big as the clouds. The sphere was dark and it had thousands of lights going around it,it hover over the city for about 2 minutes, and then it disappear behind a cloud. The next day, everyone was talking about it at school. I became a believer right then.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07737.html](http://www.nuforc.org/webreports/reports/007/S07737.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1610](http://www.nuforc.org/webreports/reports/163/S163526.html)
-- [1609](http://www.nuforc.org/webreports/reports/163/S163528.html)
-- [1608](http://www.nuforc.org/webreports/reports/163/S163999.html)
-- [1607](http://www.nuforc.org/webreports/reports/163/S163536.html)
-- [1606](http://www.nuforc.org/webreports/reports/163/S163581.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
