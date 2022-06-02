@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:41 on 1 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:47 on 2 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Venice (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>From fourth floor apartment, granddaughter saw a orange light decending from the sky over the Gulf of Mexico.  We saw it moving very slow and just before ground level turned to smoke.  This happened again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146575.html](http://www.nuforc.org/webreports/reports/146/S146575.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Sacramento (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A small sphere casting downward white light and a white orb appeared over/around Tower Bridge, downtown Sacramento in 2006.While photographing "Old Sacramento" and Tower Bridge, I later found a spherical UFO in one of the bridge shots, and also an circular white orb around the bridge. I've included photos of both subjects. All taken within 10 minutes of the 20:50-21:00 timeframe.The first photo, the close-up of the frame showing the sphere is distinctive because of the downward slanting white light. The sphere appears to be across the river in Yolo County. A subsequent frame shows the sphere farther up the Sacramento River, closer to the "H" Street Bridge, just north of Tower Bridge. The second image shows a shot of Tower Bridge looking west (so this is the "east" tower). There we see the white orb directly before the east tower. I found this same orb in an earlier shot, looking northwest in a different location but close to the east tower. So to my eye it was "moving about."  The 2006 images were taken with my D50 Nikon camera.Finally, I have attached another image of the sphere with slanted downward light. This one taken August 27, 2018 of the Tower Bridge, looking down river (South). I found the sphere to the west of the bridge, over West Sacramento, and another one spotted further south but almost directly between the two towers. This shot (and there are several more from this shoot showing the first sphere) were taken with a Samsung 6 digital camera. You'll find a total of 4 images in all. If desired, I can send the actual full frame of the shots that were cropped/enlarged. Final note: light aircraft are frequently seen flying over this section of West Sacramento and downtown Sacramento, as the Sacramento Metropolitan Airport is about three miles north of this downtown area. The downward slanted light suggests this is not a standard aircraft, IMO. As a semi-professional photographer, I have taken thousand of images during my public relations career, many of them pointing to the sky, fyi.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165069.html](http://www.nuforc.org/webreports/reports/165/S165069.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1610](http://www.nuforc.org/webreports/reports/163/S163526.html)
-- [1609](http://www.nuforc.org/webreports/reports/163/S163528.html)
-- [1608](http://www.nuforc.org/webreports/reports/163/S163999.html)
-- [1607](http://www.nuforc.org/webreports/reports/163/S163536.html)
-- [1606](http://www.nuforc.org/webreports/reports/163/S163581.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
