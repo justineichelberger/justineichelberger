@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:35 on 2 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:43 on 2 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Large grayish rectangle outlined in the skyI was driving with my wife mid-afternoon on June 2, 2012, eastbound on I-90 Kennedy Expressway in Chicago.  I had passed O'Hare a couple miles back, when I noticed a rectangle in the NE sky similar to a drive-in movie screen.  At first I thought it was a new billboard and then I realized it was way far in the distance and very high in the sky, about 45 to 50 degrees above horizontal.  There was no visible support for the rectangle and the sky out over Lake Michigan was only slightly hazy.  I was about to point it out to my wife when traffic and buildings obscured my view for a quarter mile or so, and I was never able to catch sight of it again.I am a pilot and post this as a matter of interest.  I realize there is at least one possible explanation, that of an aircraft towing a banner.  Although this did not appear to be what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91355.html](http://www.nuforc.org/webreports/reports/091/S91355.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Tacoma (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately Unsure - Unsure minutes.</sub><blockquote><sub>Large black insect-shaped craft hovering above the city of Tacoma, Wa.I was driving home from an appointment in Gig Harbor with my mother when we both noticed, almost out of nowhere, a large matte black, M-shaped/Crab-shaped object in the sky.  The craft looked like something out of Battlestar Galactica or kind of like a large insect hovering barely above the buildings that we were heading towards.  	We both thought it was a plane until I realized there was absolutely no noise and it was at a very strange angle for something in the air.  The craft moved back and fourth from left-right a few times.  I don’t remember what happened after that, can't recall if it flew away, disappeared or anything at all really.  I don’t even remember the rest of that day..or the following few days.  It’s a struggle to pull the memory of what I saw that day and exactly when and where this took place but both me and my 40 year old mother witnessed this and we both had never seen anything like it before.  My mom commented saying that maybe it was a plane flying at a really weird angle, but again; the craft was not flying.  It was hovering in some sort of a dance with itself.  This was the first of the 4 UFOs I have witnessed in the past 9 days, I have always believed in UFOs and Alien existence but I have never been so confident in saying that I have seen things that prove its all real.  I do live within a reasonable distance from Joint Base Lewis McCord.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110147.html](http://www.nuforc.org/webreports/reports/110/S110147.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163532.html)
-- [287](http://www.nuforc.org/webreports/reports/163/S163772.html)
-- [286](http://www.nuforc.org/webreports/reports/163/S163769.html)
-- [285](http://www.nuforc.org/webreports/reports/163/S163568.html)
-- [284](http://www.nuforc.org/webreports/reports/163/S163531.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
