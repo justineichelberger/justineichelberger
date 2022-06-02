@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:43 on 2 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:32 on 2 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Tacoma (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately Unsure - Unsure minutes.</sub><blockquote><sub>Large black insect-shaped craft hovering above the city of Tacoma, Wa.I was driving home from an appointment in Gig Harbor with my mother when we both noticed, almost out of nowhere, a large matte black, M-shaped/Crab-shaped object in the sky.  The craft looked like something out of Battlestar Galactica or kind of like a large insect hovering barely above the buildings that we were heading towards.  	We both thought it was a plane until I realized there was absolutely no noise and it was at a very strange angle for something in the air.  The craft moved back and fourth from left-right a few times.  I don’t remember what happened after that, can't recall if it flew away, disappeared or anything at all really.  I don’t even remember the rest of that day..or the following few days.  It’s a struggle to pull the memory of what I saw that day and exactly when and where this took place but both me and my 40 year old mother witnessed this and we both had never seen anything like it before.  My mom commented saying that maybe it was a plane flying at a really weird angle, but again; the craft was not flying.  It was hovering in some sort of a dance with itself.  This was the first of the 4 UFOs I have witnessed in the past 9 days, I have always believed in UFOs and Alien existence but I have never been so confident in saying that I have seen things that prove its all real.  I do live within a reasonable distance from Joint Base Lewis McCord.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110147.html](http://www.nuforc.org/webreports/reports/110/S110147.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Mound House (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately Ongoing - Ongoing minutes.</sub><blockquote><sub>Bright orbs flying over our house nightly.Almost every night for the past 15 days we have strange bright  lights shining on our house. (We back to BLM) At the same time we can see lots of orbs flying in and outside our house. We checked the cameras outside and noticed up on the mountain some type of vehicle was shining a bright beam of light over towards our home. We have on film one strange orb/craft flying in front of our house above our deck. We also have what I would describe as a large very bright “bug” flying around the deck which changes shape.(We have a photo of this). We have also noticed that these are not seen with the naked eye, these have only been spotted on our cameras that recorded motion.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156870.html](http://www.nuforc.org/webreports/reports/156/S156870.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163532.html)
-- [287](http://www.nuforc.org/webreports/reports/163/S163772.html)
-- [286](http://www.nuforc.org/webreports/reports/163/S163769.html)
-- [285](http://www.nuforc.org/webreports/reports/163/S163568.html)
-- [284](http://www.nuforc.org/webreports/reports/163/S163531.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
