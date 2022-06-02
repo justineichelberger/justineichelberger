@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:44:54 on 2 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:33:10 on 2 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Upland (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Triangle Shaped Craft over San Bernardino CountyAt approximately 7:30-8:00, I stepped outside on my friend’s porch in Upland, CA, to smoke a cigarette. It was starting to get dark.  I like to look up at the aircrafts since there are two airports nearby.  While I was looking I saw a craft moving very rapidly from the south west to north east.  It was a triangle shape, with lights shining very brightly on all three points.  It was very large, much larger than the usual helicopters in the area, and took up more visual space than a plane.  It also was fairly high in altitude. I only saw it for about twenty seconds, enough time to point out to a friend who confirmed the visual.  I lost track of it because of nearby trees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81668.html](http://www.nuforc.org/webreports/reports/081/S81668.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Florianopolis (Brazil) () reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Green light going really fast and vanishing seconds later.I was driving to class, when I looked up to see the sky and saw a lime green light, shaped like a teardrop, traveling really fast, and vanishing seconds later.  I'm positive it wasn't a weather balloon or a drone, it appeared to be really high and the shape may be due its velocity.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119575.html](http://www.nuforc.org/webreports/reports/119/S119575.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163532.html)
-- [287](http://www.nuforc.org/webreports/reports/163/S163772.html)
-- [286](http://www.nuforc.org/webreports/reports/163/S163769.html)
-- [285](http://www.nuforc.org/webreports/reports/163/S163568.html)
-- [284](http://www.nuforc.org/webreports/reports/163/S163531.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
