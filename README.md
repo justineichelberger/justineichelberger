@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:17:23 on 2 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:11:10 on 2 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Osseo (MN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 24.0 - 24.0 minutes.</sub><blockquote><sub>Pulsated colored lights brightening and diming in the sky without movementI was getting ready to close the bedroom window in my 3rd floor apartment and I saw what I thought was a plane with its headlights on. But the object was not moving. It had 3 lights closely together changing colors between white, red, and a greenish blue color in the clear night sky. I could not tell if it was more than one object. The pulsated lights were brightening and dimming in no pattern. This phenomenon went on for almost 30 mins with no movement the entire time and just like that it stop.  I tired to record it with my phone, but it just was not clear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163532.html](http://www.nuforc.org/webreports/reports/163/S163532.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Fort Wayne (IN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately  -  minutes.</sub><blockquote><sub>fireball in the skyobject in the north west ksy..very bright and flashing...light was very intense to the naked eye it appears to ve a very bright start. got out binoculars and it has very brilliant colors, red green and orange((NUFORC Note:  Venus.  We spoke with the witness, who indicated a time of 11:00 p.m...  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75664.html](http://www.nuforc.org/webreports/reports/075/S75664.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163532.html)
-- [287](http://www.nuforc.org/webreports/reports/163/S163772.html)
-- [286](http://www.nuforc.org/webreports/reports/163/S163769.html)
-- [285](http://www.nuforc.org/webreports/reports/163/S163568.html)
-- [284](http://www.nuforc.org/webreports/reports/163/S163531.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
