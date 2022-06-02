@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:30 on 2 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:01:45 on 2 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Buffalo Pound Provincial Park (Canada) (SK) reported seeing craft that fit the description of some '' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>3 ufos sighted while fishing - 2 fireballs 1 white orb flashWe were doing some fishing off the beach around 10pm and I glanced over and noticed the red fireball in the sky hovering across the lake then glanced again and noticed another.  Then there was a white bright flash in the sky like an orb appeared then disappeared.  I rotated the video right side up from being recorded sideways (on phone) which detailed the white orb flash much better, but it is hard to see with the edited version if you would like raw footage, contact me, but the video is on youtube at the link below http://www.youtube.com/watch?v=9UCPcgXQ4io</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89376.html](http://www.nuforc.org/webreports/reports/089/S89376.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in UK/Wales () reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub>Flying object  over Wales emitting other objectsA flying object passed over our house this evening which caught my attention. It was  very high up and I could not see any shape but it had an orange glow/colour to it. I would normally think it was an aircraft,(it was moving at about the speed an aircraft would) but the reason this one caught my attention was because it was silent and dropping objects, about one per minute or two. the objects it was dropping started off as orange glowing lights , (the same colour as the flying object) but they then dissintegrated into nothing. Similar to how a firework dissapears before it hits the ground.  I called my wife just in time for her to see it emitting a final object before it faded from view.The only thing I can think of is perhaps it was a military exercise, as there are military bases in Wales. Has anybody else experienced a similar experience?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50809.html](http://www.nuforc.org/webreports/reports/050/S50809.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163532.html)
-- [287](http://www.nuforc.org/webreports/reports/163/S163772.html)
-- [286](http://www.nuforc.org/webreports/reports/163/S163769.html)
-- [285](http://www.nuforc.org/webreports/reports/163/S163568.html)
-- [284](http://www.nuforc.org/webreports/reports/163/S163531.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
