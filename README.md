@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:11:10 on 2 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:30 on 2 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Fort Wayne (IN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately  -  minutes.</sub><blockquote><sub>fireball in the skyobject in the north west ksy..very bright and flashing...light was very intense to the naked eye it appears to ve a very bright start. got out binoculars and it has very brilliant colors, red green and orange((NUFORC Note:  Venus.  We spoke with the witness, who indicated a time of 11:00 p.m...  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75664.html](http://www.nuforc.org/webreports/reports/075/S75664.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Buffalo Pound Provincial Park (Canada) (SK) reported seeing craft that fit the description of some '' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>3 ufos sighted while fishing - 2 fireballs 1 white orb flashWe were doing some fishing off the beach around 10pm and I glanced over and noticed the red fireball in the sky hovering across the lake then glanced again and noticed another.  Then there was a white bright flash in the sky like an orb appeared then disappeared.  I rotated the video right side up from being recorded sideways (on phone) which detailed the white orb flash much better, but it is hard to see with the edited version if you would like raw footage, contact me, but the video is on youtube at the link below http://www.youtube.com/watch?v=9UCPcgXQ4io</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89376.html](http://www.nuforc.org/webreports/reports/089/S89376.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163532.html)
-- [287](http://www.nuforc.org/webreports/reports/163/S163772.html)
-- [286](http://www.nuforc.org/webreports/reports/163/S163769.html)
-- [285](http://www.nuforc.org/webreports/reports/163/S163568.html)
-- [284](http://www.nuforc.org/webreports/reports/163/S163531.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
