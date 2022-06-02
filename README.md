@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:12 on 2 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:44:54 on 2 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Scottsdale (AZ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>UFO passed through my field of vision while viewing a full moon through a high powered telescope.As I looked through my telescope at a full moon, I took a break and returned to see a large stationary shadow covering as much as 1/4 of the moon's surface.  I ran to get a second witness, the second person looked through the telescope and also saw the large shadow.  After about 15 minutes passed I noticed the shadow to be moving across the surface of the moon.  As it moved across the surface it also began getting smaller, as if the object casting the shadow was moving further from the surface of the moon.  When the shadow reached the far end of the moon, it moved into dark space and I was able to see the shape of an object moving through space, but could not make out detail.  It definitely appeared to be moving under it's own power!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37306.html](http://www.nuforc.org/webreports/reports/037/S37306.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Upland (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Triangle Shaped Craft over San Bernardino CountyAt approximately 7:30-8:00, I stepped outside on my friend’s porch in Upland, CA, to smoke a cigarette. It was starting to get dark.  I like to look up at the aircrafts since there are two airports nearby.  While I was looking I saw a craft moving very rapidly from the south west to north east.  It was a triangle shape, with lights shining very brightly on all three points.  It was very large, much larger than the usual helicopters in the area, and took up more visual space than a plane.  It also was fairly high in altitude. I only saw it for about twenty seconds, enough time to point out to a friend who confirmed the visual.  I lost track of it because of nearby trees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81668.html](http://www.nuforc.org/webreports/reports/081/S81668.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163532.html)
-- [287](http://www.nuforc.org/webreports/reports/163/S163772.html)
-- [286](http://www.nuforc.org/webreports/reports/163/S163769.html)
-- [285](http://www.nuforc.org/webreports/reports/163/S163568.html)
-- [284](http://www.nuforc.org/webreports/reports/163/S163531.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
