@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:41 on 2 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:52 on 2 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Fort Wayne (IN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately  -  minutes.</sub><blockquote><sub>fireball in the skyobject in the north west ksy..very bright and flashing...light was very intense to the naked eye it appears to ve a very bright start. got out binoculars and it has very brilliant colors, red green and orange((NUFORC Note:  Venus.  We spoke with the witness, who indicated a time of 11:00 p.m...  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75664.html](http://www.nuforc.org/webreports/reports/075/S75664.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Welland (Canada) (ON) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>strange things in the skylast night i was siting out and enjoying a fire and just watching the stars, when i see what i first thought was a falling star,(from west to east)..... but what cought my attention was the varing speed at which it travelled moderate to hovering to full boogie) many many times faster than any plane i have ever seen, then it stopped and hovered then sped off, came back west a little, then i could cleary see it go completely verticle in a spiral then headed south. I have never really believed in UFO before last nigt. also i kept a more carefull eye on the sky aftward and noticed about six more very very high speed things all going southernly at one constant speed, and looked like a more straight or direct route,??????.......</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23126.html](http://www.nuforc.org/webreports/reports/023/S23126.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163532.html)
-- [287](http://www.nuforc.org/webreports/reports/163/S163772.html)
-- [286](http://www.nuforc.org/webreports/reports/163/S163769.html)
-- [285](http://www.nuforc.org/webreports/reports/163/S163568.html)
-- [284](http://www.nuforc.org/webreports/reports/163/S163531.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
