@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:35 on 2 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:07:30 on 2 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Edison (NJ) reported seeing craft that fit the description of some 'Diamond' over a period of approximately Ongoing - Ongoing minutes.</sub><blockquote><sub>Reoccurring light over Bonhamton in Edison, NJ.This object appears frequently over my property in the Bonhamton section of Edison, NJ.  It is a bright star-like light or even like an airplane, but it definitely is neither.  A friend was here earlier & she witnessed it.  It hung low in the sky, stationary & it has a subtle random pulsing of its light. It was there in the sky for about 2hrs.  The Big Dipper was in the sky almost directly above my house.  The UFO was in its usual location--looking at the backyard, in the sky to the back right side of the yard.  As we sat outdoors chatting, my friend kept checking on its presence.  After a couple hrs she commented that maybe it was a planet.  I have a SkyView app on my phone & it doesn't identify it as a planet or star.  Then shortly before she left, she looked and noticed it was gone.  Yet the Big Dipper was still visable in the general area which dispelled the idea of it being a planet.  She left soon after.I have a screen house on the patio with a hammock on a stand, chair, sidetable, etc., like an outdoor room.  I sleep out here on these mild evenings.  At about 4 am I witnessed a bright light low in the sky coming straight in.  I can't explain it but the way it was moving you could tell it wasn't a plane.  Initially, it was lower than I'd ever observed in the past & more centered in the sky looking over the back of the backyard (line off in the distance but not far distance) and it just hung there.  Since I started typing this it has moved slightly higher in the horizon to almost the position it had been when my friend was here.  I have a fair amount of video footage taken with my iPhone each night it comes.  The video clips spam time so you can see it doesn't change position in the sky as the constellations & other planets etc move thru time & space</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134383.html](http://www.nuforc.org/webreports/reports/134/S134383.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Collingdale (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>A large bright white light appears short distance behind airplaneI was in lying in bed watching the planes in the sky as I do everynight. Normally there are three planes that have the same route fairly close together and I always watch them pass. The first was at 23:11 the second was 23:13 and the third was 23:20 as I was watching this last plane coming towards me all of a sudden a very bright circular looking light appeared not far behind the plane. This was not another plane it was to close and just one very bright white light it seemed to stay at the same pace with the plane for a few seconds then it just stopped for a second it stayed that way then it dimmed a notch so to say then a second later it dimmed another notch a second after that it just went out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37309.html](http://www.nuforc.org/webreports/reports/037/S37309.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163532.html)
-- [287](http://www.nuforc.org/webreports/reports/163/S163772.html)
-- [286](http://www.nuforc.org/webreports/reports/163/S163769.html)
-- [285](http://www.nuforc.org/webreports/reports/163/S163568.html)
-- [284](http://www.nuforc.org/webreports/reports/163/S163531.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
