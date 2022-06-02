@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:46 on 2 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:42 on 2 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Sudbury (MA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Black and green sphere flying just below the clouds.I was in the pool with my brother when I noticed a black sphere with green on it flying just below the clouds in between a couple of trees.  I did not hear it, but it vanished beyond my sight after 10 or so seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146598.html](http://www.nuforc.org/webreports/reports/146/S146598.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Federal Way (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately UNKNOWN - UNKNOWN minutes.</sub><blockquote><sub>I was giving my son, 18, a ride in my new truck.  We were headed toward the Puget Sound on the one way road at Redondo when I noticed a bright line of light where Maury Island and the Puget Sound met.  I stopped the truck and grabbed my camera.  I took a picture with my Sony DSC 5m.  I looked at the preview of the picture and unfortunatly discarded it.  I snapped another one and upon checking it I turned off the camera and proceeded driving.  Later that night I had my camera out looking at my recent shots and I zoomed in on the white line below the island.  It came out very nice with the zoom and I started inching around the picture looking at things zoomed in.  I was astonished to see the cylinder shape there in the middle of the sky.  We didn't see it at the time I snapped the picture.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75773.html](http://www.nuforc.org/webreports/reports/075/S75773.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163532.html)
-- [287](http://www.nuforc.org/webreports/reports/163/S163772.html)
-- [286](http://www.nuforc.org/webreports/reports/163/S163769.html)
-- [285](http://www.nuforc.org/webreports/reports/163/S163568.html)
-- [284](http://www.nuforc.org/webreports/reports/163/S163531.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
