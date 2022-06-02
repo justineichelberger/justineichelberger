@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:47 on 2 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:12 on 2 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Sacramento (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A small sphere casting downward white light and a white orb appeared over/around Tower Bridge, downtown Sacramento in 2006.While photographing "Old Sacramento" and Tower Bridge, I later found a spherical UFO in one of the bridge shots, and also an circular white orb around the bridge. I've included photos of both subjects. All taken within 10 minutes of the 20:50-21:00 timeframe.The first photo, the close-up of the frame showing the sphere is distinctive because of the downward slanting white light. The sphere appears to be across the river in Yolo County. A subsequent frame shows the sphere farther up the Sacramento River, closer to the "H" Street Bridge, just north of Tower Bridge. The second image shows a shot of Tower Bridge looking west (so this is the "east" tower). There we see the white orb directly before the east tower. I found this same orb in an earlier shot, looking northwest in a different location but close to the east tower. So to my eye it was "moving about."  The 2006 images were taken with my D50 Nikon camera.Finally, I have attached another image of the sphere with slanted downward light. This one taken August 27, 2018 of the Tower Bridge, looking down river (South). I found the sphere to the west of the bridge, over West Sacramento, and another one spotted further south but almost directly between the two towers. This shot (and there are several more from this shoot showing the first sphere) were taken with a Samsung 6 digital camera. You'll find a total of 4 images in all. If desired, I can send the actual full frame of the shots that were cropped/enlarged. Final note: light aircraft are frequently seen flying over this section of West Sacramento and downtown Sacramento, as the Sacramento Metropolitan Airport is about three miles north of this downtown area. The downward slanted light suggests this is not a standard aircraft, IMO. As a semi-professional photographer, I have taken thousand of images during my public relations career, many of them pointing to the sky, fyi.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165069.html](http://www.nuforc.org/webreports/reports/165/S165069.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Scottsdale (AZ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>UFO passed through my field of vision while viewing a full moon through a high powered telescope.As I looked through my telescope at a full moon, I took a break and returned to see a large stationary shadow covering as much as 1/4 of the moon's surface.  I ran to get a second witness, the second person looked through the telescope and also saw the large shadow.  After about 15 minutes passed I noticed the shadow to be moving across the surface of the moon.  As it moved across the surface it also began getting smaller, as if the object casting the shadow was moving further from the surface of the moon.  When the shadow reached the far end of the moon, it moved into dark space and I was able to see the shape of an object moving through space, but could not make out detail.  It definitely appeared to be moving under it's own power!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37306.html](http://www.nuforc.org/webreports/reports/037/S37306.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163532.html)
-- [287](http://www.nuforc.org/webreports/reports/163/S163772.html)
-- [286](http://www.nuforc.org/webreports/reports/163/S163769.html)
-- [285](http://www.nuforc.org/webreports/reports/163/S163568.html)
-- [284](http://www.nuforc.org/webreports/reports/163/S163531.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
