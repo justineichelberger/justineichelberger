@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:33:34 on 3 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:21:00 on 3 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Milton (Canada) (ON) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Donut shaped ufo in sky along with another object.While driving down the street we noticed 2 black objects in the sky.  At first wr thought they were 2 groups of balloons as if someone let them go into the sky.  After seeing them closer, we thought maybe they were remote controlled of some sort, then as they were flying closer we noticed 1 was in the shape of a donut (black) with a hole in the Center of it (almost as if an oversized black inner tube from a pool was in the sky but bigger) and the other craft we couldn't make out the shape.  All we could see is it didn't appear to have wings, just flashing lights.We followed it as we could,  and even got video of it on my phone.  While watching the video back, you can see them in the sky, but since it's on a phone, it's not as clear as what we saw with the naked eye.  I'll have to find a program on the computer or something to try and make the video clearer so the donut shape can be seen.These 2 objects flew close enough to each other the whole duration of the sighting (10 mins give or take).  Eventually we lost sight of them as we kept getting stuck at lights and stop signs.We then searched on Google 'donut shaped ufo' sure enough a lot of info came up in regards to numerous sightings of this shape and that they're becoming more prevalent around the world.  1 image we saw on Google looked exactly like the black donut shape we saw in the sky, literally a carbon copy.  Really has us thinking. .....What did we see?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109964.html](http://www.nuforc.org/webreports/reports/109/S109964.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Cuba (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>my wife and i were going to sleep at 1o.oo pm and a thunder storm was on us so my wife went to the bedroom window to chek out the storm and she said look over on the other side of the montain there is red balls lined up 8 to ten i said you are goofy so i took a look and what i saw was the same but as i looked moore came up to the top of the mountain in a triangle shape they were sperate but in a triangle shape as they rose to meet other balls they seperated lined up with other balls and vanished there was a very stong storm on these balls there is no man made thing that could be in a storm like that no plane balloon fire works kite etc this was not from our world seeing is believing.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  Possible hoax, we wonder?  PD))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81736.html](http://www.nuforc.org/webreports/reports/081/S81736.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [296](http://www.nuforc.org/webreports/reports/163/S163591.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163585.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163646.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163590.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163574.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
