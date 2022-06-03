@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:46 on 3 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:11:38 on 3 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Greer (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Three lights arranged in a triangle shape, red-orange, moving slowly and very far away.I pulled into the turnoff to go to the town of Greer from Highway 260. There were three cars parked on the side of the road, all of them with people standing outside, looking into he sky. I wondered what they were looking at, so I looked in my rearview mirror and saw a red-orange light in the sky. I turned around and pulled over behind another car and asked them what they were looking at. They handed me a pair of binoculars and pointed to the same red-orange light. When I looked through the binoculars, there weree three red-orange light arranged in a triangle shape with the point downward. This object was directly to the north between the tops of some trees and moving to the east toward the Springerville Generating Station, but far enough away that it could not have been caused by the plant. We stood there watching the light for well over 30 minutes and it remained for more than an hour; I know this because we kept looking for it. Finally, around 8:30 or so, the object went behind a large cloud and I lost track of it. That does not mean it dissapeared, it just means I had to leave. Based on the haze of the sky and power plant emmissions that I saw when looking through the binoculars and the lack of a coherent outline, I believe the object was a long way away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16168.html](http://www.nuforc.org/webreports/reports/016/S16168.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Leeds (UK/England) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>A golden sphere traveling at a slow rate then it was gone in a flash like the star ship enterprise in warp drive?on my way to work i saw a golden sphere gliding across the sky.I stopped my truck and just looked at this gold sphere like it was something out the tv show star trek then it started to move faster and faster and then it was gone in a flash like a firewore exploding.i know want i saw and i'm not making this up.It might seem i've left it along time before i've submited this but i would like to know if anyone else has witness anything like this before?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34362.html](http://www.nuforc.org/webreports/reports/034/S34362.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [296](http://www.nuforc.org/webreports/reports/163/S163591.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163585.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163646.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163590.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163574.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
