@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:11:38 on 3 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:35 on 3 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Leeds (UK/England) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>A golden sphere traveling at a slow rate then it was gone in a flash like the star ship enterprise in warp drive?on my way to work i saw a golden sphere gliding across the sky.I stopped my truck and just looked at this gold sphere like it was something out the tv show star trek then it started to move faster and faster and then it was gone in a flash like a firewore exploding.i know want i saw and i'm not making this up.It might seem i've left it along time before i've submited this but i would like to know if anyone else has witness anything like this before?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34362.html](http://www.nuforc.org/webreports/reports/034/S34362.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Bainbridge Island (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>This is a report of an unusual sound.  I am submitting this because I heard that lights in the sky had been seen at this time by others. The sound began with a series of soft booms like distant fireworks in rapid succession, lasting about 5 seconds.  It then gradually smoothed to a low rumble, and maintained the same volume for perhaps another 5 seconds.  During the next and final 5 seconds it very gradually faded away, so gradually that I was not sure when it was completely gone.  I am familiar with the tendency for people to overestimate the duration of events, so this morning I ran several timed tests with a stopwatch, reciting to myself the changing nature of the sound, and only looking at the watch after.  I consistently measured within 2 seconds +- of 15 seconds, trying 4 times. The sound occurred at 2:44 am according to my nightstand digitial clock, which I subsequently found to be about 15 seconds fast relative to WWV.  I do not know the time more precisely - there is no seconds indication on the clock. The sound was not loud: it did not awaken my wife sleeping next to me, and I only heard it because I happened to be awake.  At first I thought it was the precursor rumbling to an earthquake, having experienced the 2001 magnitude 6.8 Nisqually quake.  When I realized that it was not being followed by shaking, I thought it must be a heavy jet transport leaving Sea-Tac airport.  We can occasionally hear those, although they typically do not depart at 3 in the morning.  Then I recall noting that the sound had a real "feel" to it, even though it was muted, and I could sense the pressure waves, not just hear the sound. I went back to sleep thinking it might have been a distant earthquake.  The next morning, the 6 am local news mentioned that a number of people had reported lights and fireballs in the sky "a few minutes" before 3 am.  I did not see any lights, but I was not facing a North-facing window.  This sound may be connected to those sightings.((NUFORC Note:  Dramatic meteor.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37305.html](http://www.nuforc.org/webreports/reports/037/S37305.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [296](http://www.nuforc.org/webreports/reports/163/S163591.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163585.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163646.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163590.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163574.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
