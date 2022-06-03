@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:51 on 3 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:42 on 3 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Cranberry Township (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Ball of white light seen traveling at low altitudeAt around 10:30 PM I was out on my back deck facing the north. At this time I noticed a very bright white light sped into the area at relatively low altitude traveling roughly east to west from my vantage point. Estimated distance from the object to me was around a mile. The light sped into view from behind a row of trees at a fairly fast clip, intensified slightly in brightness as it reached a due-north angle from me, and then its flight curved to the right during the last second of the event and quickly faded from view. The light itself was a steady bright white circular shaped light that was slightly bigger than a pencil eraser held at arms length. I did not notice any sound or "tail" coming from behind the object. The light traveled about 10-15 degrees above the horizon and judging it's relative brightness I figure it was at a fairly low altitude 3,000 to maybe 5,000 feet AGL. Speed was a bit harder to judge, although it was traveling much faster than the commercial air traffic that routinely fly over my area into Pittsburgh Int'l, albeit at a much higher altitude. A rough guestimate would be around 500-600 mph, maybe more. Total duration of the sighting was a little less than 3 seconds. I've taken a few flight lessons and have 25 hrs credit (1 hr solo), and from what I saw it was traveling much too fast to be a plane at any altitude. It also didn't travel quite as fast to be a meteor not to mention I saw no visible tail and it curved to the right noticeably during the last split second it was viewable to me. The sky conditions were clear with a 55 degree temp, no thunderstorms anywhere near the area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13022.html](http://www.nuforc.org/webreports/reports/013/S13022.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Amboy (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>It looked like a odd shaped circle that was moving side to side to side, but not moving forward it was just hovering below the moon.  It was a bright white light.  This is the strangest thing I've ever seen</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134422.html](http://www.nuforc.org/webreports/reports/134/S134422.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [296](http://www.nuforc.org/webreports/reports/163/S163591.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163585.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163646.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163590.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163574.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
