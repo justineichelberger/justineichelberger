@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:32 on 2 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:57 on 3 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Mound House (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately Ongoing - Ongoing minutes.</sub><blockquote><sub>Bright orbs flying over our house nightly.Almost every night for the past 15 days we have strange bright  lights shining on our house. (We back to BLM) At the same time we can see lots of orbs flying in and outside our house. We checked the cameras outside and noticed up on the mountain some type of vehicle was shining a bright beam of light over towards our home. We have on film one strange orb/craft flying in front of our house above our deck. We also have what I would describe as a large very bright “bug” flying around the deck which changes shape.(We have a photo of this). We have also noticed that these are not seen with the naked eye, these have only been spotted on our cameras that recorded motion.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156870.html](http://www.nuforc.org/webreports/reports/156/S156870.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Spring Hill (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Strange lights in the sky over Spring Hill. Triangular in shape no soundI was driving my truck to the southern portion of my ranch to check for any open gates when I saw a faint light thru the trees. As I approached a clearing I could see a faint outline with about 6 small lights underneath. It hovered for about 3 minutes and then slowly headed north and out of sight. I am a former Air Force avionics tesc and have seen some of the strangest looking flight formations but this thing didn't make any noise whatsoever</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23816.html](http://www.nuforc.org/webreports/reports/023/S23816.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163532.html)
-- [287](http://www.nuforc.org/webreports/reports/163/S163772.html)
-- [286](http://www.nuforc.org/webreports/reports/163/S163769.html)
-- [285](http://www.nuforc.org/webreports/reports/163/S163568.html)
-- [284](http://www.nuforc.org/webreports/reports/163/S163531.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
