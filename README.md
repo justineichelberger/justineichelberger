@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:46 on 3 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:03:06 on 3 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Philadelphia (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright red/orange non pulsing lights observed over metropolitan area.Three very bright red/orange non pulsing lights observed over Northeast section of city 15 miles north of airport.  Two lights flew slowly in formation, rear light at about 4 o'clock position.  Third light circled first observed lateral to the two circled behind and disappeared.  Two lights tracked until they disappeared in clouds (clouds at about 5000 ft.)   One light may have had purplish non-pulsing light in center.  Lights were too bright to be navigation lights and wrong color for anti-collision strobes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127725.html](http://www.nuforc.org/webreports/reports/127/S127725.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Lubbock (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Triangle object with blinking red, green, and white lights seen in telescope.At 12:25AM I was using my small spotting scope to look at objects such as Saturn and Jupiter in the night sky.  I first saw the object east of Saturn at the time.  Object could just be seen as three blinking/strobing lights that were red, green, and white.  At first glance I thought it was a airplane with strobing lights.  I soon became aware this was not the case. As an amateur astronomer I had clear reference points to track the object and knowledge of satellite activity and meteors.  The speed in which the object was traveling was comparable to the speed of the International Space Station.  Faster than any plane I have ever seen.  It also did not travel in a straight line as most aircraft would, instead it traveled closely to the ecliptic line in the sky that night first passing Saturn and then passing Jupiter at relatively proportional distance as it did Saturn.  Object was first spotted in the SE and “set” in the west.  Its lights were rapid blinking at ten times the rate as most aircraft strobe lights do.  One would think it would be a satellite however this was not the case.  When I first spotted the object and made the deduction that it was not an aircraft I trained my spotting scope (one powerful enough to see the lines of Jupiter) on the object.  At minimal magnification it was clear the object was triangular (sketch of object will be included in the report).  I followed the object for about thirty seconds zooming in magnification to get a clear representation of what the craft’s outline looked like.  As I stated it was clearly triangular with lights on the edges of the triangle.  If this were to be a satellite with my scopes magnification (one I have tested on the International Space Station before) if the object was at the altitude of the space station would be easily twenty times the size of it.  I lost the object from my scope around the time it was passing Jupiter and used the naked eye for the rest of the viewing.  I cannot explain what this object was, but am 90% sure it was not a satellite or aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141735.html](http://www.nuforc.org/webreports/reports/141/S141735.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [296](http://www.nuforc.org/webreports/reports/163/S163591.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163585.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163646.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163590.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163574.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
