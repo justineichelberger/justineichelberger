@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:41 on 3 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:01:08 on 3 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Clearwater (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Group of red/orange flashing lights that individually speed out of sightAs I was driving home from dinner I started going over a bridge, and looked out south-east and saw about 15-20 red floating dots close together but in no pattern and at the same time they would all blink a light shade of orange.  Though there were 3 that were in a perfect line in the back.  I was on the phone telling the person what I was seeing and noticing everyone in cars around me looking at it also.  When I stopped at a red light I noticed a few were missing then I saw one speed off out of sight.  As I drove farther watching them go off individually I lost sight for a moment and when I regained sight of them there was only 1 left.  I stared at it and watched it speed up then off to somewhere, that's when I noticed my phone had no reception until I had driven about 5 minutes away.  It was odd because I drive through that area plenty of times a day and have never lost reception there before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81641.html](http://www.nuforc.org/webreports/reports/081/S81641.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in St. Cloud (FL) reported seeing craft that fit the description of some 'Egg' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Low flying object in central Florida.I work night security for a local business, and as I stepped out for a smoke, I saw a very bright object in the sky travelling roughly noth to south. At first I thought it might have been a helicopter or low flying plane, but it was a very quiet night and the object gave off no noise. I quickly ran back inside and grabbed another employee to come look. When we came back out, the object had stopped in the air about a mile from our location. We watched for about thirty seconds, then there was a flash of light and the object took off at great speed in a southerly direction. The object was egg shaped, or possibly an elongated disk, emitting a pale blue light. The light flash was also pale blue, just significantly brighter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50853.html](http://www.nuforc.org/webreports/reports/050/S50853.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [296](http://www.nuforc.org/webreports/reports/163/S163591.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163585.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163646.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163590.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163574.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
