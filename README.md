@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:57 on 3 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:35 on 3 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Spring Hill (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Strange lights in the sky over Spring Hill. Triangular in shape no soundI was driving my truck to the southern portion of my ranch to check for any open gates when I saw a faint light thru the trees. As I approached a clearing I could see a faint outline with about 6 small lights underneath. It hovered for about 3 minutes and then slowly headed north and out of sight. I am a former Air Force avionics tesc and have seen some of the strangest looking flight formations but this thing didn't make any noise whatsoever</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23816.html](http://www.nuforc.org/webreports/reports/023/S23816.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in South Berwick (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Red, silent fast moving lights heading east and northeast toward coast.I actually do not believe in extraterrestrial spacecraft. This is just something flying that was unidentifiable to me.I was out looking at Mars through my telescope.  It was low on the horizon in the southeast, just above the tree line.  I was waiting for Saturn to rise, when I saw a bright red light flying in my direction, from the southeast.  We have a lot of air traffic near our house due to our proximity to Pease.  As it got closer I noticed there were two lights flying staggered.  I thought, this is cool, a couple of military aircraft.  But then I noticed there was no jet or helicopter sound.  As I said, we have a lot of air traffic, but it is always loud.  At the height these were flying, there should have been either a thunderous roar of jet engines or loud thumping of helicopter blades, but they were silent.  They became obscured by a large tree in my yard, so I went into my neighbors yard to keep track of them.  When I got around the tree, one had broken off and headed east, and the other headed northeast.  I pulled out my cell phone and recorded the one heading northeast.  Didn't catch anything viewable, it was too dark.  Not sure what they were.  Maybe afterburners on jets very high up?  But they only seemed a lot lower?  But why would I see bright red as they were heading toward me?  There were no other lights.  No blinking or other colors.  Just solid red.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127688.html](http://www.nuforc.org/webreports/reports/127/S127688.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [296](http://www.nuforc.org/webreports/reports/163/S163591.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163585.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163646.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163590.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163574.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
