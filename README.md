@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:37 on 3 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:49 on 3 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Tuscaloosa (AL) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Observed a flying dart.I witnessed a very high altitude vehicle, best description a dart. I was viewing the Moon when the craft passed between my vantage point, Moon was in the southwestern sky, the object was at approximately 70,000 feet moving southeast to northwest.  It had a clearly definable contrail behind it approximately 1000 feet in length. The color was reflecting the setting sun and glistened.  It took the object less than 5 seconds to clear my vantage point.  This was not a commercial airliner and there are not many military vehicles that can fly at that altitude.  No sound.((NUFORC Note:  We spoke with the witness via telephone, and he sounded to us to be quite serious-minded, and sincere about his report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109925.html](http://www.nuforc.org/webreports/reports/109/S109925.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>slow moveing golden fire  balls stopped and hovered then glowed red and ascended out of sight slowly.The first golden flame came from the east to the north followed by the second one minute later .I did not see the first one go out of sight because the second one came on so fast that i gave my attention to that one solely .  This one seemed to get greater in size then go back to its normal shape all the time i am noticing a red glow from it also until it gets to were i am looking at it from the side and at this point it gets  entirely red and pulsating and looks to be completely stopped for a couple of minutes.slowly it ascends out of sight.The third fire ball comes at about four minutes later from the same direction and the same speed it seems to hover a little longer then up and away and no more sightings witnessed  after that.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98400.html](http://www.nuforc.org/webreports/reports/098/S98400.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [296](http://www.nuforc.org/webreports/reports/163/S163591.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163585.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163646.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163590.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163574.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
