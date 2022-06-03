@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:01:08 on 3 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:36 on 3 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Spanaway (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>Summary : I was out having a smoke when i saw a light in the sky.  I watched it for a while and then decided it was a plane.  i sat down on my bench.  About three minutes later It again this time alot closer.  It had green lights on the bottom and it had a strange blue light going over the ground.  I was so scared that i could not move.  The light went by my house and then it turned off.  The ship then left and i sat there for another 20 minutes or so trying to figure out what hte hell i just saw.  I thought maybe it was a dream, but then my sister came out and asked me what that bright light was she saw out the window.  I now am convinced that it was a craft from another planet.This experience has been scary and interesting.  The only thing i left out in the descriptio above, is that i had a radio on and it started going crazy about 5 minutes before the first sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02254.html](http://www.nuforc.org/webreports/reports/002/S02254.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Cambridge (Canada) (ON) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Two triangles with lightswe were in a park, 2 am when we saw two lights in the sky. They were changing colors and hovering. they would stay still, then move slightly, hover for a bit longer, then move again. About three minutes later They flashed white, shot across the sky and were gone. The crafts were triangle shaped and the lights went from green to red to yellow to blue and back to green.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29106.html](http://www.nuforc.org/webreports/reports/029/S29106.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [296](http://www.nuforc.org/webreports/reports/163/S163591.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163585.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163646.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163590.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163574.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
