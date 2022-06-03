@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:48 on 3 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:39 on 3 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Woodland Hills (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Steeply ascending small round object with trail separated from it and moved chaotically then disappeared and reappeared.I thought I was looking at a narrow little cloud in the sky from our deck then noticed it had a small round object at its left side - and I realized the cloud wasn't a cloud but perhaps a white trail from this object that was ascending at a very steep angle - that's when I grabbed my iPhone and began recording the video - the object was white and then separated from the trail and then moved vertically and then quickly moved to right and then both the object and the trail abruptly disappeared. Within seconds my other witness noticed the round white object high in the sky to the right of our house staying static for a few seconds and then I also saw it when it began moving in a chaotic pattern for a couple of seconds and then it disappeared. Unfortunately, it happened so fast I was unable to begin shooting another video of it. The area it reappeared in was the eastern sky and its first appearance was in the southwestern sky. Because the object and the trail di! sappeared at same time and then object reappearing in a completely different location I do not believe this could in any way be a satellite or rocket, etc.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163591.html](http://www.nuforc.org/webreports/reports/163/S163591.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Belton (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Triangular shaped object with the round white light's at each tip.August 12th, 2011    National UFO Reporting Center   To whom it may concern,   The sighting being reported occurred on the night of June 3rd, 2011 at approximately 11:30p.m CST, in Belton TX.The following is a detailed account of what I witnessed on the night of June 3rd, 2011.  I am not claiming what I witnessed to be of alien origin, merely an object I could not identify.  I walked out on my porch that evening to get some fresh air.  When I looked up at the sky, I noticed an object to the east flying south to north at a high rate of speed.  The object was triangular in shape with three solid, what appeared as white round lights, at each tip.  The object itself wasn’t visible, but appeared to blend in with the night sky.  Had it not been for the lights on the object, I most likely would not have noticed it.  I estimate that the object was visible for approximately 30 seconds before it disappeared over the horizon.  I also noticed that it traveled at a consistent rate of speed.I am willing to answer any follow up questions that anyone may regarding this sighting.  My contact information is as follows.  I would prefer contact via email, but will conduct a phone interview if needed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83074.html](http://www.nuforc.org/webreports/reports/083/S83074.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [296](http://www.nuforc.org/webreports/reports/163/S163591.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163585.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163646.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163590.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163574.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
