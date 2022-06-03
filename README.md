@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:21:00 on 3 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:01:08 on 3 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Cuba (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>my wife and i were going to sleep at 1o.oo pm and a thunder storm was on us so my wife went to the bedroom window to chek out the storm and she said look over on the other side of the montain there is red balls lined up 8 to ten i said you are goofy so i took a look and what i saw was the same but as i looked moore came up to the top of the mountain in a triangle shape they were sperate but in a triangle shape as they rose to meet other balls they seperated lined up with other balls and vanished there was a very stong storm on these balls there is no man made thing that could be in a storm like that no plane balloon fire works kite etc this was not from our world seeing is believing.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  Possible hoax, we wonder?  PD))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81736.html](http://www.nuforc.org/webreports/reports/081/S81736.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Spanaway (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>Summary : I was out having a smoke when i saw a light in the sky.  I watched it for a while and then decided it was a plane.  i sat down on my bench.  About three minutes later It again this time alot closer.  It had green lights on the bottom and it had a strange blue light going over the ground.  I was so scared that i could not move.  The light went by my house and then it turned off.  The ship then left and i sat there for another 20 minutes or so trying to figure out what hte hell i just saw.  I thought maybe it was a dream, but then my sister came out and asked me what that bright light was she saw out the window.  I now am convinced that it was a craft from another planet.This experience has been scary and interesting.  The only thing i left out in the descriptio above, is that i had a radio on and it started going crazy about 5 minutes before the first sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02254.html](http://www.nuforc.org/webreports/reports/002/S02254.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [296](http://www.nuforc.org/webreports/reports/163/S163591.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163585.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163646.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163590.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163574.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
