@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:36 on 3 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:38 on 3 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Cambridge (Canada) (ON) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Two triangles with lightswe were in a park, 2 am when we saw two lights in the sky. They were changing colors and hovering. they would stay still, then move slightly, hover for a bit longer, then move again. About three minutes later They flashed white, shot across the sky and were gone. The crafts were triangle shaped and the lights went from green to red to yellow to blue and back to green.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29106.html](http://www.nuforc.org/webreports/reports/029/S29106.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Anaheim (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Two spheres over Disneyland, 06-03-2010.Two sightings, one at two pm, high altatude sphere.  Moving slowly.  Wife witnessed, pointed out to others.  No com trail (sic.  Contrail), no altatude change, moved slower then other jets second during firworks bright light easly mistaken for a star until fireworks produced reflection on bottom.  Stayed for about 1 min. then slowly traveled west the fiteworks smok traveled east.  Referance of movement was the castle in front of us.(sphere) alot of single helecopter trafic this day not sure if significant.First orb traveled west</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75685.html](http://www.nuforc.org/webreports/reports/075/S75685.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [296](http://www.nuforc.org/webreports/reports/163/S163591.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163585.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163646.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163590.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163574.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
