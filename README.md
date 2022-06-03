@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:57 on 3 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:46 on 3 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1980, an anonymous witness in Lake Forest (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>June 1980I spent 9 years in Lake Forest Ill and had just been re-located to California.  We came back to say goodbye, it was the day my grandmother passed away.  It was approx 8:30 and I had to get out of the house and take a short walk.  I headed down King Muir Rd towards to the corner of Deer Path Road, and I heard an extremely loud, two very low frequencies coming from a triangle shape, it was moving very slowly, I watched it for five or so minutes when it changed direction and just vanished.The Lake Forest is not the only one however, When I was five years old, I was headed home from Springfeild, Il with my grandfather and it was totally dark out.  All of a sudden my grandfather spotted an object hovering above a field and he pulled over to the side of the road.  There was a brightly lit with multiple colored lights, it looked like an enormous barrel (10X size) with both ends bulging out.  His car died and he could not start it, until the object suddenly shot upwards and vanished.  There was no noise from what I remember.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65131.html](http://www.nuforc.org/webreports/reports/065/S65131.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Philadelphia (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright red/orange non pulsing lights observed over metropolitan area.Three very bright red/orange non pulsing lights observed over Northeast section of city 15 miles north of airport.  Two lights flew slowly in formation, rear light at about 4 o'clock position.  Third light circled first observed lateral to the two circled behind and disappeared.  Two lights tracked until they disappeared in clouds (clouds at about 5000 ft.)   One light may have had purplish non-pulsing light in center.  Lights were too bright to be navigation lights and wrong color for anti-collision strobes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127725.html](http://www.nuforc.org/webreports/reports/127/S127725.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [296](http://www.nuforc.org/webreports/reports/163/S163591.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163585.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163646.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163590.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163574.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
