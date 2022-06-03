@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:42 on 3 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:42 on 3 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Amboy (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>It looked like a odd shaped circle that was moving side to side to side, but not moving forward it was just hovering below the moon.  It was a bright white light.  This is the strangest thing I've ever seen</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134422.html](http://www.nuforc.org/webreports/reports/134/S134422.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Overgaard (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>At 7:30 pm, the sky was still blue when we saw 3 large separate red lights moving in a triangular formation in the northeastern sky.Approx. 7:30 pm we saw in the noth to northeastern sky,  what looked like a very large  very bright star. The sky was still blue. The over the next 15 minutes the 'star' turned a deep yellowish or golden color and then to bright red and very slowly seemed to be shrinking. That's  when we realized it was not a star and that it was moving away from us. We got out our telescope and saw that the object was actually 3 bright red lights in a very symetrical  triangle formation.  You could see the sky backround through the center of the triangle. There appeared to be a white line that connected the three red lights.  We lost sight of it with the naked eye around 8:00 PM but we still saw it through the telescope for another 20 min.or so.  It was very high much higher than any plane could fly. We lost sight of it in the north/northeastern sky.  We couldn't really tell if was a single craft or 3 separate crafts. The single 'point' light was not as bright or as red as the other two. It also appeared to be moving in a forward direction as if the  two brighter lights werte the front, and the single point being the rear. My husband said it didn't look to him as if the white line that connected (and surronded) the red lights,  actually met and touched at the single point end. Like it was a little bit open at the single point  end.   Each of the lights seemed to be the same distance from each other.  This was NOT one of ours!   It was too high. moved much to slowly for any of our aircraft, and didn't seem to show any type of exhaust coming from anywhere.  Which was why it was hard to tell which end was the front or back.((NUFORC Note:  High-altitude balloon))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13024.html](http://www.nuforc.org/webreports/reports/013/S13024.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [296](http://www.nuforc.org/webreports/reports/163/S163591.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163585.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163646.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163590.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163574.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
