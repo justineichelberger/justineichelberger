@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:34 on 4 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:33 on 4 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Moapa (NV) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.008333333333333333 - 0.008333333333333333 minutes.</sub><blockquote><sub>Daytime shooting star?When working construction at a new power facility in Moapa about twenty miles north of Nelis Airforce Base. I witnesed a bright light shoot across the the she sky from east to west then disapear into the clouds. It was moving so fast that I thought I might have had somthing in my eye to cause me to see it. I mentioned somthing to the two men working with me with a joking coment that I must be seeing things. One of them said he had seen the same thing including the shadow from the object.There where thunderstorms in the area and it was raining lightly so it was visable for a blink of an eye.There is alot of military aircraft flying over the area all the time but there is no way this was any type of a conventional aircraft.It could have been a shooting star but the object seemed very bright and cast a shadow on the ground acording to my coworker. The thunderstorms where sparse and the sun was still bright.My coworkers and I are Ironworkers I have been in the trade for 17 years I am 38 years old, the other witness is 31.I have never seen any other events in the past.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23199.html](http://www.nuforc.org/webreports/reports/023/S23199.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Pendleton (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately on going - on going minutes.</sub><blockquote><sub>Red, green and white pulsating lighted object.  Never moved; still there as I am typing this.  I tried setting up my telescope to no avail.  I woke my husband up and he did see it through binoculars.  It was a full moon and this object was south west of the moon.  I tried to take a picture with my phone camera and my sony camera but neither one worked.  Just weird...no sound either.((NUFORC Note:  We suspect that the object may have been a "twinkling" star.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119328.html](http://www.nuforc.org/webreports/reports/119/S119328.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [266](http://www.nuforc.org/webreports/reports/163/S163602.html)
-- [265](http://www.nuforc.org/webreports/reports/163/S163599.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163598.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163597.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163971.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
