@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:48 on 4 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:52 on 4 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in El Paso (TX) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Yellow/orange light floating back and forth in el paso's westsideWhile driving to the gas station, I looked up into the sky and I saw a very strange light. It was yellowish with a little orange. It was moving backward and foward. It didn't make a noise nor the light was blinking. After about 5 or 8 seconds it disapeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75682.html](http://www.nuforc.org/webreports/reports/075/S75682.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Caloocan (Philippines) () reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>boomerang dimly lit point at forward edges almost transparent.seen strange almost boomerang shape,, almost transparent sweeping thru a night sky, just after a freeking violent thunder storm just after sunset.  The object is almost half round to a boomerang shape with lights on edge dimly lit (maybe due to some cloud).  Was stargazing then suddenly out of nowhere coming from south to north,, just passing the constellation of leo sickle head at great speed.  It's  unlikely an airplane because  every night i would see giant airplane goes aorund in circle.  But this is exceptional.  It caught my eyes unexpectedly followed it as much as I can until it disappear in the thick cloud.  It was unusual for me because its the first time i saw an object almost transparent with many dimly lit lights on its forward edges.  Don't have an image of camera so I just want this page to be notified.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146655.html](http://www.nuforc.org/webreports/reports/146/S146655.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [266](http://www.nuforc.org/webreports/reports/163/S163602.html)
-- [265](http://www.nuforc.org/webreports/reports/163/S163599.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163598.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163597.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163971.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
