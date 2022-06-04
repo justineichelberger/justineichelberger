@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:52 on 4 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:51 on 4 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Caloocan (Philippines) () reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>boomerang dimly lit point at forward edges almost transparent.seen strange almost boomerang shape,, almost transparent sweeping thru a night sky, just after a freeking violent thunder storm just after sunset.  The object is almost half round to a boomerang shape with lights on edge dimly lit (maybe due to some cloud).  Was stargazing then suddenly out of nowhere coming from south to north,, just passing the constellation of leo sickle head at great speed.  It's  unlikely an airplane because  every night i would see giant airplane goes aorund in circle.  But this is exceptional.  It caught my eyes unexpectedly followed it as much as I can until it disappear in the thick cloud.  It was unusual for me because its the first time i saw an object almost transparent with many dimly lit lights on its forward edges.  Don't have an image of camera so I just want this page to be notified.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146655.html](http://www.nuforc.org/webreports/reports/146/S146655.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Gwinn (MI) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>4 Amber Lights in a Trapezoid formation then move to a Triangle formation and fade out over KI Sawyer AFB Gwinn, MIWell, 5 of my friends and I were having a camp fire at the bottom of what's known as "Base Hill" at KI Sawyer AFB near Gwinn, MI.  I walked into the woods and when I came back all 6 of us saw 4 amber lights in the sky.  They appeared to be in the shape of a trapezoid, but then shifted in a triangle formation, with 2 of the lights on the bottom coming together.  Shortly after, the 2 lights on the left faded out, followed by the other 2 on the right.  We have video of it as it has already been posted on Facebook and shared on my Facebook account.  I believe that if I had brought an infrared camera I may have been able to see the 4 lights as I believe they may be boosters.  The technology on this thing was amazing though.  The the way it moved showed it had anti-inertia technology.  I just wanted to report this information and hope that it gets passed on to Bigelow Aerospace for review.  I've noticed in other UFO reports and videos that a lot of them represent a similar shape, the triangle.  I also know that that symbol has been seen on many artifacts found all over the world that are 10,000-12,000 years old.  If you look in the video, it looks like there is a very faint beam connecting the 2 lights with each other on the left and a separate beam on the right pair as well.  I spoke with another witness from near by and determined from the direction she was looking and the location she was looking from that it was about 400 yards away.  This is the link to the FB video. https://www.facebook.com/photo.php?v=4662058282082&set=vb.1612223594&type=2&theater</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98632.html](http://www.nuforc.org/webreports/reports/098/S98632.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [266](http://www.nuforc.org/webreports/reports/163/S163602.html)
-- [265](http://www.nuforc.org/webreports/reports/163/S163599.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163598.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163597.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163971.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
