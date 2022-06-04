@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:41 on 4 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:33 on 4 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Brick (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 75.0 - 75.0 minutes.</sub><blockquote><sub>Glowing orange ball in sky changing colors to white and blue then hitting me with a blueish white beam of light.On this morning, I was awake due to having trouble sleeping for the past three weeks.   I cleaned the bathroom floor, then made a bowl of cereal.  I returned to our bedroom and placed the bowl of Corn Pops on my nightstand, then was compelled to go to the balcony.  I opened the balcony door and immediately went towards the south of it.  I saw a glowing orange ball.  It then turned white.  It came closer and closer.  It was in the shape of a ball.  I then turned to go back into the apartment to wake my husband and was hit by a bluish-white beam.  I then saw it hovering closely as it pulled away, slowly.  I ran to the bedroom to wake my husband who sleeps lightly all the time.  It took me five minutes approx.  to wake him.  I looked at the clock which read 02:38 am.  He finally woke up and came with me to the balcony to see what was no longer there. As we returned to our bedroom, my Corn Pops had turned to mush.  I checked on our child who was sleeping soundly,! then went to bed and tried to sleep.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89363.html](http://www.nuforc.org/webreports/reports/089/S89363.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Adams (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Before sunrise seen this bright white orb floating aprox. 10 to 15 feet from the ground.it was floating down the dirt road, slowly. only five feet from my home.  first i thought it was the moon shinning thought the trees.  then realized that was weird placement for the moon.first spotting it out through my kitchen window.  then moved to the front door, right next to kitchen. that is when i spotted it down below the row of trees, at end of road.  which is about four car lengths away.  then the orb just seemed to vanish.  it acted if some kind of intelligence was behind its operation.  the size of this white orb was not much larger then a basketball.then it occurred to me the night before i notice the same bright white light moving through my back yard.even then it was not moving very fast.  it was if it were looking/searching for something.i have seen on my inside home security camera see through moving orbs.  they seem to be coming out from under the bedroom floor.  i could not see them with my naked eye, but the camera picked them flying through walls and so forth.  i do not know if these orbs are same as the bright white orbs.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134885.html](http://www.nuforc.org/webreports/reports/134/S134885.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [266](http://www.nuforc.org/webreports/reports/163/S163602.html)
-- [265](http://www.nuforc.org/webreports/reports/163/S163599.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163598.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163597.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163971.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
