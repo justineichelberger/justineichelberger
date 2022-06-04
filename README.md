@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:55 on 4 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:32 on 4 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in College Grove (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>At approximately 9:00 PM CST near Latitude: 35.805207 Longitude: -86.662687 a bright object appearing to be about the luminosity and size of Venus, and remained constant as it traveled from the south, southwest corridor and proceeded to the northeast. It had no blinking/colored lights, and appeared to be inside the atmosphere. The object flew directly overhead, and was totally silent.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))((NUFORC Note:  The ISS passed over this area at 21:03 hrs. on this date.  PD))Date Mag  Starts Max. Altitude  Ends Time Alt.  Az.  Time Alt.  Az.  Time Alt.  Az.  03 Jun 2.2 04:20:47 10 NNW 04:22:59 19 NNE 04:25:10 10 E  03 Jun 0.8 20:43:24 10 S  20:45:15 16 SE  20:47:06 10 E  03 Jun 1.1 22:17:27 10 W  22:20:02 30 NW  22:22:38 10 NNE 04 Jun -0.2 04:41:08 10 NW  04:43:57 57 NE  04:46:48 10 ESE 04 Jun -1.0 21:03:05 10 SW  21:05:54 60 SE  21:08:43 10 NE  04 Jun 2.7 22:39:41 10 WNW 22:41:07 13 NNW 22:42:33 10 N  05 Jun 2.3 03:27:36 10 NNW 03:29:41 18 NNE 03:31:44 10 ENE</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56932.html](http://www.nuforc.org/webreports/reports/056/S56932.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Des Moines (IA) reported seeing craft that fit the description of some 'Light' over a period of approximately Few minutes - Few minutes minutes.</sub><blockquote><sub>Blue and white sphere close to the ground South of Des Moines, IA. Our daughter decided to move to Chicago and live with a friend.  We are from Kansas City so my husband and I decided to make a one day drive of it.  We left early Saturday, June 4th, and dropped her off and head back to Kansas City, MO.We were on south I-35, toward KC, and I think we had just past Route 5, I think it was.  It was dark and an object flew over our car.  It came from the back driver's side and passed over the right front passenger fender.  It was probably about 8-10 feet above us, not very high at all.  It was not very large, about the size of a softball maybe a little large.  It looked like mostly blue and white light.  It seemed to be made up of many, many small blue and white lights in a sphere shape.It was traveling in a very straight line but spiraling and wobbling at the same time. It was moving fast but not very fast so I got a good look at it.  I was the passenger at the time and my husband was driving.  He saw it too but not clearly and I asked him if he just saw that thing that flew over and he said yes and asked what was it.  I had no idea what it was but it seemed to have a short trail of light behind it.It was definitely close, not in the distance.  I could see the smaller 'bead' type lights making the object up.  The lights were a little 'sparkly'.  It's difficult to describe.  It was definitely not lightning, not even ball lightning as I have experienced that before.  It was some type of object for sure.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127782.html](http://www.nuforc.org/webreports/reports/127/S127782.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [266](http://www.nuforc.org/webreports/reports/163/S163602.html)
-- [265](http://www.nuforc.org/webreports/reports/163/S163599.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163598.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163597.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163971.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
