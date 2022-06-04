@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:33 on 4 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:36 on 4 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Adams (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Before sunrise seen this bright white orb floating aprox. 10 to 15 feet from the ground.it was floating down the dirt road, slowly. only five feet from my home.  first i thought it was the moon shinning thought the trees.  then realized that was weird placement for the moon.first spotting it out through my kitchen window.  then moved to the front door, right next to kitchen. that is when i spotted it down below the row of trees, at end of road.  which is about four car lengths away.  then the orb just seemed to vanish.  it acted if some kind of intelligence was behind its operation.  the size of this white orb was not much larger then a basketball.then it occurred to me the night before i notice the same bright white light moving through my back yard.even then it was not moving very fast.  it was if it were looking/searching for something.i have seen on my inside home security camera see through moving orbs.  they seem to be coming out from under the bedroom floor.  i could not see them with my naked eye, but the camera picked them flying through walls and so forth.  i do not know if these orbs are same as the bright white orbs.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134885.html](http://www.nuforc.org/webreports/reports/134/S134885.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Albany (IN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately  -  minutes.</sub><blockquote><sub>I saw 1 round white object and shot off when i looked at it.  30 minutes later it was back and appeared to be the same one but much closer it hovered for about 30 seconds and took off it was so bright we could see shawdos((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34269.html](http://www.nuforc.org/webreports/reports/034/S34269.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [266](http://www.nuforc.org/webreports/reports/163/S163602.html)
-- [265](http://www.nuforc.org/webreports/reports/163/S163599.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163598.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163597.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163971.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
