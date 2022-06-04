@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:42 on 3 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:34 on 4 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Loudon (NH) reported seeing craft that fit the description of some 'Flash' over a period of approximately ~1½ - ~1½ minutes.</sub><blockquote><sub>Blueish-greyish flashes of light at 6-10 second intervals, moving stars (couldn't have been planes or satellites), triangle in the sky.Me and my sister and her friend were outside on our trampoline.  It was about 9:30 or 10:00 pm and we had a clear view of the night sky from where we were.Then we saw a bluish greyish flash of light and thought it was lightning so we ignored it.  Then it happened again, and continued to happen.  So we decided to look for the source but we couldn't find one.It surrounded the treeline and didn't seem to orient from somewhere.  It typically happened between 6-10 seconds from each other.  Every time my mother came out to check on us, it wouldn't occur until she left, then it would happen right after.  Even if a car was passing by, it wouldn't happen until right after the car had left.We saw small objects moving through the sky.  They appeared white, my sister even said she saw a red one.  They were too small to be satellites and didn't have lights on them so they weren't planes either, it was also completely silent besides the river running through the yard.  The objects also moved in a completely straight line, some parallel to others moving completely straight, therefore, we concluded they couldn't be satellites.We also saw three stars aligned in a triangle formation.  We looked it up and found the "Summer Triangle" constellation, but it was too unproportional to what we had seen, so we don't know what it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127679.html](http://www.nuforc.org/webreports/reports/127/S127679.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Moapa (NV) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.008333333333333333 - 0.008333333333333333 minutes.</sub><blockquote><sub>Daytime shooting star?When working construction at a new power facility in Moapa about twenty miles north of Nelis Airforce Base. I witnesed a bright light shoot across the the she sky from east to west then disapear into the clouds. It was moving so fast that I thought I might have had somthing in my eye to cause me to see it. I mentioned somthing to the two men working with me with a joking coment that I must be seeing things. One of them said he had seen the same thing including the shadow from the object.There where thunderstorms in the area and it was raining lightly so it was visable for a blink of an eye.There is alot of military aircraft flying over the area all the time but there is no way this was any type of a conventional aircraft.It could have been a shooting star but the object seemed very bright and cast a shadow on the ground acording to my coworker. The thunderstorms where sparse and the sun was still bright.My coworkers and I are Ironworkers I have been in the trade for 17 years I am 38 years old, the other witness is 31.I have never seen any other events in the past.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23199.html](http://www.nuforc.org/webreports/reports/023/S23199.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [296](http://www.nuforc.org/webreports/reports/163/S163591.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163585.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163646.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163590.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163574.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
