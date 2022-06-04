@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:18:32 on 4 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:34 on 4 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Bozeman (MT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>An Extremely Bright And Quiet Ball Of Fast Moving LightWe Have Seen This A Few Nights In A Row So We Decided To Wait For It On The 4th And Try To Get Pictures And Video.  We Live Right By The Airport So We Know What Airplanes Look Like At Night.  This Was An Extremely Bright And Quiet Ball Of Light That Traveled At A Very Fast Pace.  It Had No Blinking Or Flashing Lights,  Was Heading In A Direction An Airplane  Had No Reason To Go, And Disappeared Without Warning.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98448.html](http://www.nuforc.org/webreports/reports/098/S98448.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>See you later: appears to leave the Earth!I was living near the intersection of Washington and Rancho in Las Vegas, NV. I only lived there for about 2.5 months. I was renting a room in a house. I did not have a car, but I bought a bus pass to get around. On many nights, I would leave around the same time, and take a walk to a local 7-11 store to get a soda or candy bar. It was a good half mile to mile walk. I occasionally would glance to the sky and look at the stars on my walks. One evening, I did just that, but this time was different. I noticed a real bright star that stood out from the other stars. I was walking South towards Washington Street, but my head was facing to the West while walking (Rancho street), toward this object in the sky. I was looking at it for about 5 or so seconds, and all of a sudden it zipped at a 75-80 degrees using an acute angle. When I say zipped, I mean it appeared to leave the Earth within a few seconds (blink of an eye). I am not good with angles: so I will say it zipped nearly straight up. It was too far away to describe what kind of object it was. I did notice a light trail that was whitish/blue that it left behind. This trail dissapeared within a few seconds as well, but gave me a good idea of its path. It was clear that this object (physical or non-physical) had unreal speed. This incident proves to me there is either something else out there in this universe, or man has developed something amazing. I surely side to the former.((NUFORC Note:  Source of report indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68347.html](http://www.nuforc.org/webreports/reports/068/S68347.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [266](http://www.nuforc.org/webreports/reports/163/S163602.html)
-- [265](http://www.nuforc.org/webreports/reports/163/S163599.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163598.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163597.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163971.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
