@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:43 on 4 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:34 on 4 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Hattiesburg (MS) reported seeing craft that fit the description of some 'Flash' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright Flash of Light in Three Different PlacesMy wife and I were having our evening coffee and I was sitting down talking to her when a Bright flash over the Magnolia tree in our neighbors yard stopped me from talking. It took my breath away.  As fast as it happened it was gone.  My wife said she saw it earlier about 15 min prior but could not explain it.  We walked around the house and we saw it again but it was in the front of the house over the trees.  It just flashed really bright like a flashbulb.  I know it was not an aircraft there was no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98415.html](http://www.nuforc.org/webreports/reports/098/S98415.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in El Paso (TX) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Yellow/orange light floating back and forth in el paso's westsideWhile driving to the gas station, I looked up into the sky and I saw a very strange light. It was yellowish with a little orange. It was moving backward and foward. It didn't make a noise nor the light was blinking. After about 5 or 8 seconds it disapeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75682.html](http://www.nuforc.org/webreports/reports/075/S75682.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [266](http://www.nuforc.org/webreports/reports/163/S163602.html)
-- [265](http://www.nuforc.org/webreports/reports/163/S163599.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163598.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163597.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163971.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
