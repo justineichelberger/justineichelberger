@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:04:51 on 4 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:33 on 4 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1977, an anonymous witness in Valley Station (KY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright lighted craft hovering telelphone pole level in Valley Station Kentucky.This has been many years ago but the image has always haunted me. I am not sure about the exact date and time but pretty close.My friend and I were with her older sister who was driving. we had been at a picnic. On our way home as we came to the end of our street was a big very bright hovering craft over a telephone pole. I remember saying Oh my gosh look! and we all looked as we came closer to the craft. There was no sound that I can remember but the brightest light I have ever seen.  The strange thing is, it was so profound yet I believe there is some time missing.  I am unsure what happened between the time we saw it and when I arrived home. We never talked about it together again. Last week I saw one of the girls after not talking in 15 years and I asked her if she remembered it and she said yes she did! I am a normal person and am not crazy. I really did see it. I t was not a plane or weather ballon it was something very different. It was very low to the ground.((NUFORC Note:  Source of report indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76784.html](http://www.nuforc.org/webreports/reports/076/S76784.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Boise (ID) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 111</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146779.html](http://www.nuforc.org/webreports/reports/146/S146779.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [266](http://www.nuforc.org/webreports/reports/163/S163602.html)
-- [265](http://www.nuforc.org/webreports/reports/163/S163599.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163598.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163597.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163971.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
