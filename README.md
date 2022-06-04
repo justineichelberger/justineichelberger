@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:34 on 4 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:55 on 4 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in El Paso (TX) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Yellow/orange light floating back and forth in el paso's westsideWhile driving to the gas station, I looked up into the sky and I saw a very strange light. It was yellowish with a little orange. It was moving backward and foward. It didn't make a noise nor the light was blinking. After about 5 or 8 seconds it disapeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75682.html](http://www.nuforc.org/webreports/reports/075/S75682.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in College Grove (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>At approximately 9:00 PM CST near Latitude: 35.805207 Longitude: -86.662687 a bright object appearing to be about the luminosity and size of Venus, and remained constant as it traveled from the south, southwest corridor and proceeded to the northeast. It had no blinking/colored lights, and appeared to be inside the atmosphere. The object flew directly overhead, and was totally silent.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))((NUFORC Note:  The ISS passed over this area at 21:03 hrs. on this date.  PD))Date Mag  Starts Max. Altitude  Ends Time Alt.  Az.  Time Alt.  Az.  Time Alt.  Az.  03 Jun 2.2 04:20:47 10 NNW 04:22:59 19 NNE 04:25:10 10 E  03 Jun 0.8 20:43:24 10 S  20:45:15 16 SE  20:47:06 10 E  03 Jun 1.1 22:17:27 10 W  22:20:02 30 NW  22:22:38 10 NNE 04 Jun -0.2 04:41:08 10 NW  04:43:57 57 NE  04:46:48 10 ESE 04 Jun -1.0 21:03:05 10 SW  21:05:54 60 SE  21:08:43 10 NE  04 Jun 2.7 22:39:41 10 WNW 22:41:07 13 NNW 22:42:33 10 N  05 Jun 2.3 03:27:36 10 NNW 03:29:41 18 NNE 03:31:44 10 ENE</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56932.html](http://www.nuforc.org/webreports/reports/056/S56932.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [266](http://www.nuforc.org/webreports/reports/163/S163602.html)
-- [265](http://www.nuforc.org/webreports/reports/163/S163599.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163598.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163597.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163971.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
