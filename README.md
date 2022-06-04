@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:32 on 4 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:31 on 4 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Des Moines (IA) reported seeing craft that fit the description of some 'Light' over a period of approximately Few minutes - Few minutes minutes.</sub><blockquote><sub>Blue and white sphere close to the ground South of Des Moines, IA. Our daughter decided to move to Chicago and live with a friend.  We are from Kansas City so my husband and I decided to make a one day drive of it.  We left early Saturday, June 4th, and dropped her off and head back to Kansas City, MO.We were on south I-35, toward KC, and I think we had just past Route 5, I think it was.  It was dark and an object flew over our car.  It came from the back driver's side and passed over the right front passenger fender.  It was probably about 8-10 feet above us, not very high at all.  It was not very large, about the size of a softball maybe a little large.  It looked like mostly blue and white light.  It seemed to be made up of many, many small blue and white lights in a sphere shape.It was traveling in a very straight line but spiraling and wobbling at the same time. It was moving fast but not very fast so I got a good look at it.  I was the passenger at the time and my husband was driving.  He saw it too but not clearly and I asked him if he just saw that thing that flew over and he said yes and asked what was it.  I had no idea what it was but it seemed to have a short trail of light behind it.It was definitely close, not in the distance.  I could see the smaller 'bead' type lights making the object up.  The lights were a little 'sparkly'.  It's difficult to describe.  It was definitely not lightning, not even ball lightning as I have experienced that before.  It was some type of object for sure.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127782.html](http://www.nuforc.org/webreports/reports/127/S127782.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Lancaster (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Metallic disk in sky east LancasterWatering my backyard lawn, looking towards the east towards Edwards Air Force base, me and my friend spot a silver metallic disk shape saucer thing between a pocket in a cloud.  me and my friend stay staring at it for about 1 minute, pondering and trying to guess what it is, knowing as I always see planes on coming from that same way I thought it was just a training drill or some plane from the base, but then as we are looking at it we watch as the UFO wobbles like a flimsy frisbee out of the clouds to the right into a clear part of the sky, I've never seen any plane maneuver the way that metallic disk did, it wobbled from the cloud to a part of the sky so fast and stopped and stood still so fast like with slight ease,  I know it wasn't a drone either by the way this hung wobbled in the air just to change its position, it moved about several hundred feet within seconds and as it stood in the spot it was it didn't wobble, and it just started to gleam and disappear, as if it was going directly east from where it was disappearing unnaturally.  Seeing it move in the air was the strangest thing I've ever seen, and it was very far.  I, never going to forget the way it maneuvered, almost like a 50,s alien up movie,  it looked like a common or what I think to be common UFO.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128682.html](http://www.nuforc.org/webreports/reports/128/S128682.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [266](http://www.nuforc.org/webreports/reports/163/S163602.html)
-- [265](http://www.nuforc.org/webreports/reports/163/S163599.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163598.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163597.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163971.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
