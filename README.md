@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:43 on 4 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:43 on 4 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Bakersfield (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Large object -- appeared top be burning.object appeared to be burning. looked like there were several pieces left a large plume -- similar to contrail flew directly overhead at maybe 20,000 ft from south to north was very slow --- took 8-10 minutes to cross the sky((NUFORC Note:  Possible contrail??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63715.html](http://www.nuforc.org/webreports/reports/063/S63715.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Hattiesburg (MS) reported seeing craft that fit the description of some 'Flash' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright Flash of Light in Three Different PlacesMy wife and I were having our evening coffee and I was sitting down talking to her when a Bright flash over the Magnolia tree in our neighbors yard stopped me from talking. It took my breath away.  As fast as it happened it was gone.  My wife said she saw it earlier about 15 min prior but could not explain it.  We walked around the house and we saw it again but it was in the front of the house over the trees.  It just flashed really bright like a flashbulb.  I know it was not an aircraft there was no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98415.html](http://www.nuforc.org/webreports/reports/098/S98415.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [266](http://www.nuforc.org/webreports/reports/163/S163602.html)
-- [265](http://www.nuforc.org/webreports/reports/163/S163599.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163598.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163597.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163971.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
