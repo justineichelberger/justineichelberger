@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:21 on 5 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:23 on 5 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Ocean Park (Canada) (BC) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Daytime Sighting of Orange Metallic Cigar Shaped Object (graphic and simulated video attached).Our group was sitting in the park talking, when my attention was brought to a dark orange metallic cigar shaped object drifting slowly high above our heads.It was moving slowly and steadily to the north.  It seemed like a blimp or balloon because it was moving so slowly and had no lights, made no sounds and did not change direction or speed.I shouted excitedly to my group to get up and look!  Two of the group did get up to look and observed and confirmed the same dark orange metallic cigar shape drifting to the north.Here is a link to a re-creation of the event.https://www.oceanparksociety.com/ufo    Also, a prior sighting three months earlier in the same area with the same path by another individual should be coordinated for discussion.http://www.nuforc.org/webreports/154/S154285.html   He wanted to know if others were seeing the same object.Well, we have!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158926.html](http://www.nuforc.org/webreports/reports/158/S158926.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Sighting Over Brooklyn New YorkIt was a Clear Evening and it was still Light.  I looked up for some reason and there was a Disk flying high over head.  It was Dark on the bottom and Silver on the top.  It moved diagonally above Me. I saw no Vapor Trails or heard no sound.  It went North on Ocean Ave. over Sheepshead Bay Brooklyn, NYC.((NUFORC Note:  Witness indicates that date of sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42498.html](http://www.nuforc.org/webreports/reports/042/S42498.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/163/S163656.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163611.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163615.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163607.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
