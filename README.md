@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:23 on 5 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:47 on 5 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Sighting Over Brooklyn New YorkIt was a Clear Evening and it was still Light.  I looked up for some reason and there was a Disk flying high over head.  It was Dark on the bottom and Silver on the top.  It moved diagonally above Me. I saw no Vapor Trails or heard no sound.  It went North on Ocean Ave. over Sheepshead Bay Brooklyn, NYC.((NUFORC Note:  Witness indicates that date of sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42498.html](http://www.nuforc.org/webreports/reports/042/S42498.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Cancun (Mexico) () reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>high speed light that can change course in a second, in high orbit.I was tracking what I thought was a satelite on holiday in Cancun- Mexico. The light stopped dead. It then changed course at speed. It then dissapeared but I kept watching for it. I saw the shape a few times each time it appeared in either high orbit or in outerspace. It was able to stop dead in its tracks and reverse course in a split second. This I decided was not the actions of a satelite and I must be tracking either future technologies or a UFO.It appeared as a satelite would to the eye. On the second sighting I called to my friend who saw the light too. It again sped off with speed. The UFO returned once more but then I didn't see it after that. The night then clouded over so I doubt I would have seen it again.((NUFORC Note:  Date of sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41237.html](http://www.nuforc.org/webreports/reports/041/S41237.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/163/S163656.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163611.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163615.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163607.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
