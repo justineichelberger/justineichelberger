@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:51 on 5 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:44 on 5 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in St. Augustine (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Black sphere flying in weird directions went behind a tree, then seen a blimp shaped object jet off.6/5/2011 Around 2:20 pm I was at work.  I work in front of 4 large department store sized windows.  I was watching the Casey Anthony trial On t.v. when something behind the t.v. outside the window caught my eye.  There's a few large trees in my view.  At first it looked like a bird flying in an air stream by the movements it was making.  So i went outside to get a better look.  Upon watching it I noticed it was a sphere shaped black object flying in crazy directions then it went behind a tree.  I went inside to get my co worker when I came back outside I seen a small blimp shaped object to the right of the original object.  It zoomed off so fast.  Ive never ever seen anything fly or move that fast. EVER!!!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  One of three reports from same anonymous source; possible hoax??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82623.html](http://www.nuforc.org/webreports/reports/082/S82623.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1959, an anonymous witness in Arvada (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>small round one over Rocky Flats at high altitude in 1959high altitude and stationary......looked like a parachute canopy from directly beneath it. it had 11 or so lines that looked like the shroud lines would have if it was a parachute  it went in and out of cloak, and did not drift with the prevailing winds aloft!  it was over Rocky Flats....or two miles south of there.((NUFORC Note:  Source of report indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70579.html](http://www.nuforc.org/webreports/reports/070/S70579.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/163/S163656.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163611.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163615.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163607.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
