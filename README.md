@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:53 on 5 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:53 on 5 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Northlake (IL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Possible UFO, around commercial Jet planeI was outside watching my son play in his new wading pool, I was taking pictures of him playing and just basically relaxing and overseeing his activities. Since I live near O'Hare airport, I naturally always snap photos of the planes taking off from the airport. I snapped three photos of three different planes about 8-10 minutes apart. When I went to upload them into my computer, I noticed that the first picture had these strange cigar shaped objects around the plane. I immediatley checked the other pics, They were clear and there were no objects on any of the photos. I checked my camera and even checked to see if there was debris on the lens, there was none. All my other pictures of planes were all clear and did nit have anything on them. That is why I decided to submit the report and the picture to you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63711.html](http://www.nuforc.org/webreports/reports/063/S63711.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Williston (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Saw large craft very high sat in one position forover ten minutes with slight position changes.  The while time I was hearing a hovering noise almost right over my home.  It scared me, so I went inside the hovering nose lasted forapprox two hours.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146646.html](http://www.nuforc.org/webreports/reports/146/S146646.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/163/S163656.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163611.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163615.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163607.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
