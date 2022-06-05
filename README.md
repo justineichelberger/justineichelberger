@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:01:08 on 5 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:21 on 5 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Amber/orange unknown lightLeaving a Saturday night game at White Sox park to go to a parking north of park anf parallel to the Ryan expressway, my daughter and I observed a very bright amber/orange light to the north over the skyline of the downtown area.  It seemed to be much larger than a star and was "flickering"....we were walking with the crowd and observing over our left shoulders and could not detect movement of the light...we looked away for a few seconds and when reaching the parking lot and looked again to see the light, it was gone.  There were no stars visible as the entire area was covered by a cloud layer and there were no airplanes in that part of the sky at that time.My daughter said it was similar to the type of light she had seen in the skies over the southwest suburban Chicago area in a fixed triangle formation on the night of July 4th, 2008</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75687.html](http://www.nuforc.org/webreports/reports/075/S75687.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Ocean Park (Canada) (BC) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Daytime Sighting of Orange Metallic Cigar Shaped Object (graphic and simulated video attached).Our group was sitting in the park talking, when my attention was brought to a dark orange metallic cigar shaped object drifting slowly high above our heads.It was moving slowly and steadily to the north.  It seemed like a blimp or balloon because it was moving so slowly and had no lights, made no sounds and did not change direction or speed.I shouted excitedly to my group to get up and look!  Two of the group did get up to look and observed and confirmed the same dark orange metallic cigar shape drifting to the north.Here is a link to a re-creation of the event.https://www.oceanparksociety.com/ufo    Also, a prior sighting three months earlier in the same area with the same path by another individual should be coordinated for discussion.http://www.nuforc.org/webreports/154/S154285.html   He wanted to know if others were seeing the same object.Well, we have!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158926.html](http://www.nuforc.org/webreports/reports/158/S158926.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/163/S163656.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163611.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163615.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163607.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
