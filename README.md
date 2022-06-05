@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:35:36 on 5 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:17:11 on 5 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Tomball (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Red Light in my room from outside.I will say, I have seen many ufos since I was young and I was very sure I had been abducted, but I wasn't 100% sure until early this am.  Even tho, in past instances I have seen evidence of other encounters.  Anyway,  I had just laid down to sleep after watching tv on my computer.  I was in bed and I was awake when I saw a bright red light come through my window which faces the east on the first floor of my home.  It was an intense red light which I have never seen before.  It shone through my blinds into the room about 5 or six feet on the ceiling and walls.  I had a feeling that I should be asleep and then they were gone.  I have two one story homes behind mine and a two story so it would have had to been close to the ground. I was not sure if I should get up or not..so I waited to see what would happen then the light was just gone.  No sounds, no animal noises, not even my ac unit was running.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98409.html](http://www.nuforc.org/webreports/reports/098/S98409.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1970, an anonymous witness in Cleveland (Lakewood) (OH) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>I was asleep with my mom and little brother when for some wierd feeling I opened my eyes .I was faceing a window and looked outside to see a glowing ball in the sky.I was scared stiff and tryed to awake my mother but I could not speak I screamed in my head but nothing came out.I guess by motherly instinct she got up and saw me looking outside.My family was in Cleveland for a wedding, staying at my aunts house in Lakewood.I was sleeping in a bedroom with my mom and little 4 year old brother.While sleeping I got a wierd feeling and opened my eyes, faceing the window I looked out and saw a glowing ball in the distance. It was a bright white light, like no light i have seen since. Scared stiff I tryed to call to my mother but nothing came out I screamed mom,mom in my head but my ears did not hear me say it.Then after 1 minute of so she got up by motherly instinct i guess.Mother looked outside and saw it comeing closer by now we could see it was a disc shape.My mom than got my two aunts up and my little brother.She tryed to wake up my unkle but could not.We all went out on the back porce to get a better look,now the disc was getting real close and we where all scared yet we just stood there watching the disc.The disc was bright white light and in the middle there was reflections all the way across and right in the center it looked like a plus font [+]or a cross maybee, it was real hard to focus.The disc stopped about 20 to 30 feet above the ground right over a tree and just hovered there size was 40 feet across.No sound no tree leaves moveing total silence.Now please understand the whole time I should have been wide awake yet it was all i could do to sta! y awake.My aunt walked under the tree and threw a stick up and thats all i remember .The next thing I recall is standing outside and the disc is gone.My mom called my unkle in Circleville Ohio dureing this event.He remembers the call.Whats funny is after all these years we are just now starting to talk about it agian.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05815.html](http://www.nuforc.org/webreports/reports/005/S05815.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/163/S163656.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163611.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163615.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163607.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
