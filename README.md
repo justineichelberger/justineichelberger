@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:37 on 5 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:01:08 on 5 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright green/white lights hovering over Chicago area.Upon coming home from diner one night with my brother & grandmother, my brother noticed a bright streak in the sky. At first it looked to be a shooting star, a white streak that appeared to be slowly descending. It suddenly stopped descending & began to hover.  Now appearing to be more of a greenish color than white.  The object looked quite large, but far away. It was sort of a crescent moon shape, with three large bright lights on it and a stream of smaller lights connecting the three large ones. My brother managed to snap a quick shot of it on his cell phone, before it quickly ascended & vanished into the dark sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68677.html](http://www.nuforc.org/webreports/reports/068/S68677.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Amber/orange unknown lightLeaving a Saturday night game at White Sox park to go to a parking north of park anf parallel to the Ryan expressway, my daughter and I observed a very bright amber/orange light to the north over the skyline of the downtown area.  It seemed to be much larger than a star and was "flickering"....we were walking with the crowd and observing over our left shoulders and could not detect movement of the light...we looked away for a few seconds and when reaching the parking lot and looked again to see the light, it was gone.  There were no stars visible as the entire area was covered by a cloud layer and there were no airplanes in that part of the sky at that time.My daughter said it was similar to the type of light she had seen in the skies over the southwest suburban Chicago area in a fixed triangle formation on the night of July 4th, 2008</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75687.html](http://www.nuforc.org/webreports/reports/075/S75687.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/163/S163656.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163611.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163615.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163607.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
