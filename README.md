@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:37 on 5 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:37 on 5 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Teardrop form headed into Sunrise Mountain.AT ABOUT 4:45 PM, 6/5/17, I SAW A BRIGHT LIGHT IN THE SKY, HEADING TOWARD SUNRISE MT.  (ALSO KNOWN AS FRENCHMAN MT.).  I THOUGHT IT WAS GOING TO HIT THE MT..  IT STOPPED AND TURNED TO THE NORTH (IT AS HEADING EAST).  WHERE I SAW THE TEARDROP SHAPE.  IT MOVED WHAT SEEMED LIKE A FEW FEET, THEN TURNED AGAIN AND HEADED SOUTH DOWN THE MT.  THIS WAS AT ABOUT A 12 DEGREE ANGLE.  IT PROCEDED FOR ABOUT 15 SEC.  THEN JUST DISAPPEARED.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134448.html](http://www.nuforc.org/webreports/reports/134/S134448.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Alexandria (VA) reported seeing craft that fit the description of some '' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I did not see the craft but I live on the 15th floor and very bright lights shown in my window with an unusual sound a mechanical noiseI was awake when all the sudden I heard a very mechanical noise and then green and blue bright lights shown into my window.  I live in the 15th floor and there are no tall buildings near me and it didn’t sound like a helicopter or anything like that.  The moment I grabbed my glasses so that I could look outside and see what was going on the sound and the lights turned off.  My assumption is that it was a UFO although I could not see it other than the lights and hear the sound seven times, three long and four quicker.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156936.html](http://www.nuforc.org/webreports/reports/156/S156936.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/163/S163656.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163611.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163615.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163607.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
