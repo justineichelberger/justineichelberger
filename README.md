@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:34 on 5 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:36 on 5 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>"Rings of Fire"On June 5th approximately at 9:30 P.M. Near La Cienega & 18th Street Los Angeles, California  90035  Was Witness to 8-10 Disk-shaped rings moving from East to West slowly over my head.  These disks made an arc to the south then south east.  They came in pairs.Toward the end of the arc a plane leaving LAX flew very near the last pair before they flew up and out of sight.  There was no sound.The color was the most profound bright red-orange.  The shapes were oblong circles.  I would describe them as “Rings of Fire.”  Other witnesses to this event were my wife and two strangers in the street out in front of the house.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89481.html](http://www.nuforc.org/webreports/reports/089/S89481.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Tulare/Bakersfield (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Flashes and fireballs in the south-west sky in central californiaI was traveling down highway 99 South through central california around Tulare when i saw a flash then a fire ball falling to the ground, it was very larg fire ball and it made it to the ground. I couldnt tell how far it was but it was to the south west. I get a call from a friend in Bakersfield which is where i was headed and he said he saw a bright object like an incoming missle. then he said he saw a bright flash, then he said the bright object shot back up to the sky. he said it happend with in 5 seconds. This was also in a south west direction. Him and his girlfriend saw it, he said his girlfriend was pale white and scared to death after it happend.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37370.html](http://www.nuforc.org/webreports/reports/037/S37370.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/163/S163656.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163611.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163615.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163607.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
