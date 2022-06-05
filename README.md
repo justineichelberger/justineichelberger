@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:43 on 5 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:45 on 5 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Chandler (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Single flashing orb appearing just above the horizonI was standing on my front porch looking east one night sometime between January 2012 and May 2012.  I can't remember what time it was, but I know the date was after December 2011, as that's when I got the camcorder used.I noticed a line of horizontal lights close together just above the horizon.  I thought it was aircraft at first. But then a second line of lights rose just above the first line, moved slightly to the left, tilted slightly down to the left, and started shaking up and down.  I ran inside to get my camcorder, but it was gone by the time I got outside.  I dismissed it as an optical illusion and forgot about it.On June 5, 2012, just after 11 pm, I was standing on my front porch looking east when I noticed the same thing again.  I ran inside to get my camcorder, and that's when I remembered that I had seen this same thing before.  When I got outside and started filming, I was able to capture it, though it had apparently turned into a flashing orb hovering in the same location.  It never appeared to move and eventually just faded away.  The whole event lasted maybe 2 minutes.  It all happened in the same spot in the sky.  It was hovering 1/2 mile south of Ray Road and somewhere east of Alma School Road, though it's hard to tell how far away it was.  It was a clear night, the moon was bright and just past full, and was located about 15 degrees to the south and about 5 degrees above the object.Because I had seen this twice, and in the same part of the sky, I set my camcorder on a tripod, turned it on, and placed it on the porch around 11pm.  On June 15, 2012, I captured the object again, and this time from the start.  However, it only appears as the orb and does not first exhibit the line of lights as I had seen before.  Near the end of this second video, some lines are noticeable going into the object from the left and right side near the bottom.This has to be something explainable simply because it keeps appearing at the same time and in the same location.   Nobody else appears to be reporting it, and if I didn't have videos of it, I wouldn't be either.((NUFORC Note:  Witness states that the date of the sighting, indicated above, is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89725.html](http://www.nuforc.org/webreports/reports/089/S89725.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Evansville (IN) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 153</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146795.html](http://www.nuforc.org/webreports/reports/146/S146795.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/163/S163656.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163611.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163615.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163607.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
