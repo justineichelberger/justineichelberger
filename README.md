@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:53 on 5 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:35:36 on 5 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Williston (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Saw large craft very high sat in one position forover ten minutes with slight position changes.  The while time I was hearing a hovering noise almost right over my home.  It scared me, so I went inside the hovering nose lasted forapprox two hours.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146646.html](http://www.nuforc.org/webreports/reports/146/S146646.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Tomball (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Red Light in my room from outside.I will say, I have seen many ufos since I was young and I was very sure I had been abducted, but I wasn't 100% sure until early this am.  Even tho, in past instances I have seen evidence of other encounters.  Anyway,  I had just laid down to sleep after watching tv on my computer.  I was in bed and I was awake when I saw a bright red light come through my window which faces the east on the first floor of my home.  It was an intense red light which I have never seen before.  It shone through my blinds into the room about 5 or six feet on the ceiling and walls.  I had a feeling that I should be asleep and then they were gone.  I have two one story homes behind mine and a two story so it would have had to been close to the ground. I was not sure if I should get up or not..so I waited to see what would happen then the light was just gone.  No sounds, no animal noises, not even my ac unit was running.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98409.html](http://www.nuforc.org/webreports/reports/098/S98409.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/163/S163656.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163611.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163615.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163607.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
