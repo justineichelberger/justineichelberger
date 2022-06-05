@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:35 on 5 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:34 on 5 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Cobb (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Round dot in full daylight.  Hovered for hours not moving but progressed towards west at same rate as sun setting west.  Since then sky has been so blue without a single line commonly referred as chemtrails.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119412.html](http://www.nuforc.org/webreports/reports/119/S119412.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1956, an anonymous witness in Salt Lake City (UT) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>Don't care if anyone believes, but I know what I saw and I know what I heard.  I was about 13 years of age, about l956, sitting on my back porch, grooming my cat when I heard what sounded like electice egg beaters.  I looked up, everything being very quiet, and saw three saucer-like objects flying from north to south.  They were in a "V" formation, flying low enough to identify windows, formation, etc.  There were round windows on plate-like discs.  I screamed for my mother to come and see this, but when she finally arrived it was too late.  I swear on my father's grave that is what I saw and  50 years later I swear the same.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65498.html](http://www.nuforc.org/webreports/reports/065/S65498.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/163/S163656.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163611.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163615.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163607.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
