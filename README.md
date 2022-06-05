@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:36 on 5 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:37 on 5 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Tulare/Bakersfield (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Flashes and fireballs in the south-west sky in central californiaI was traveling down highway 99 South through central california around Tulare when i saw a flash then a fire ball falling to the ground, it was very larg fire ball and it made it to the ground. I couldnt tell how far it was but it was to the south west. I get a call from a friend in Bakersfield which is where i was headed and he said he saw a bright object like an incoming missle. then he said he saw a bright flash, then he said the bright object shot back up to the sky. he said it happend with in 5 seconds. This was also in a south west direction. Him and his girlfriend saw it, he said his girlfriend was pale white and scared to death after it happend.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37370.html](http://www.nuforc.org/webreports/reports/037/S37370.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright green/white lights hovering over Chicago area.Upon coming home from diner one night with my brother & grandmother, my brother noticed a bright streak in the sky. At first it looked to be a shooting star, a white streak that appeared to be slowly descending. It suddenly stopped descending & began to hover.  Now appearing to be more of a greenish color than white.  The object looked quite large, but far away. It was sort of a crescent moon shape, with three large bright lights on it and a stream of smaller lights connecting the three large ones. My brother managed to snap a quick shot of it on his cell phone, before it quickly ascended & vanished into the dark sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68677.html](http://www.nuforc.org/webreports/reports/068/S68677.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/163/S163656.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163611.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163615.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163607.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
