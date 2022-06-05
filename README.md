@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:37 on 5 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:34 on 5 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Alexandria (VA) reported seeing craft that fit the description of some '' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I did not see the craft but I live on the 15th floor and very bright lights shown in my window with an unusual sound a mechanical noiseI was awake when all the sudden I heard a very mechanical noise and then green and blue bright lights shown into my window.  I live in the 15th floor and there are no tall buildings near me and it didn’t sound like a helicopter or anything like that.  The moment I grabbed my glasses so that I could look outside and see what was going on the sound and the lights turned off.  My assumption is that it was a UFO although I could not see it other than the lights and hear the sound seven times, three long and four quicker.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156936.html](http://www.nuforc.org/webreports/reports/156/S156936.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>"Rings of Fire"On June 5th approximately at 9:30 P.M. Near La Cienega & 18th Street Los Angeles, California  90035  Was Witness to 8-10 Disk-shaped rings moving from East to West slowly over my head.  These disks made an arc to the south then south east.  They came in pairs.Toward the end of the arc a plane leaving LAX flew very near the last pair before they flew up and out of sight.  There was no sound.The color was the most profound bright red-orange.  The shapes were oblong circles.  I would describe them as “Rings of Fire.”  Other witnesses to this event were my wife and two strangers in the street out in front of the house.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89481.html](http://www.nuforc.org/webreports/reports/089/S89481.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/163/S163656.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163611.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163615.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163607.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
