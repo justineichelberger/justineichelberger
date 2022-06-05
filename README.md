@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:31 on 4 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:53 on 5 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Lancaster (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Metallic disk in sky east LancasterWatering my backyard lawn, looking towards the east towards Edwards Air Force base, me and my friend spot a silver metallic disk shape saucer thing between a pocket in a cloud.  me and my friend stay staring at it for about 1 minute, pondering and trying to guess what it is, knowing as I always see planes on coming from that same way I thought it was just a training drill or some plane from the base, but then as we are looking at it we watch as the UFO wobbles like a flimsy frisbee out of the clouds to the right into a clear part of the sky, I've never seen any plane maneuver the way that metallic disk did, it wobbled from the cloud to a part of the sky so fast and stopped and stood still so fast like with slight ease,  I know it wasn't a drone either by the way this hung wobbled in the air just to change its position, it moved about several hundred feet within seconds and as it stood in the spot it was it didn't wobble, and it just started to gleam and disappear, as if it was going directly east from where it was disappearing unnaturally.  Seeing it move in the air was the strangest thing I've ever seen, and it was very far.  I, never going to forget the way it maneuvered, almost like a 50,s alien up movie,  it looked like a common or what I think to be common UFO.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128682.html](http://www.nuforc.org/webreports/reports/128/S128682.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Northlake (IL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Possible UFO, around commercial Jet planeI was outside watching my son play in his new wading pool, I was taking pictures of him playing and just basically relaxing and overseeing his activities. Since I live near O'Hare airport, I naturally always snap photos of the planes taking off from the airport. I snapped three photos of three different planes about 8-10 minutes apart. When I went to upload them into my computer, I noticed that the first picture had these strange cigar shaped objects around the plane. I immediatley checked the other pics, They were clear and there were no objects on any of the photos. I checked my camera and even checked to see if there was debris on the lens, there was none. All my other pictures of planes were all clear and did nit have anything on them. That is why I decided to submit the report and the picture to you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63711.html](http://www.nuforc.org/webreports/reports/063/S63711.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [266](http://www.nuforc.org/webreports/reports/163/S163602.html)
-- [265](http://www.nuforc.org/webreports/reports/163/S163599.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163598.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163597.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163971.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
