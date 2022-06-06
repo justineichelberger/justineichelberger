@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:37:43 on 6 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:24:56 on 6 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Colorado (unspecified) (CO) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>a black shape in the sky while in colorado. was told it was a weather baloon.i was on a church retreat in colorado. we were standing on the balcony of the condo. the object we saw was black and kind of oval in shape. it would stay still for seconds then move really fast horizontally in the sky then stay there for what seemed like 30 sec. to a min. then went vertically and diagonally in the sky. then went to the spot i first saw it. it did this about 4 times and then just dissappeared. the sun was not out but the sky was well lit. i called over some people who were walking to their door. and had some people from the retreat see it too. one person called some government official or something. they said it was a weather baloon. is this what a weather baloon does? i still to this day believe i saw a ufo((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31876.html](http://www.nuforc.org/webreports/reports/031/S31876.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Arlington (VA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>"Bat-wing" aircraft swiftly crosses night sky on south-to-north trajectoryGuest leaving just before 10:00 pm reported seeing "bat-wing aircraft" fly across on south-to-north trajectory to west of house. Passed before I could get outside to see it myself. Described as high up but impressively large and very fast. One red light each wing and white light at front. Possible "stealth" aircraft. Observer said it made a noise, but not very loud. Location in north Arlington near Seven Corners.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63730.html](http://www.nuforc.org/webreports/reports/063/S63730.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/163/S163728.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163729.html)
-- [415](http://www.nuforc.org/webreports/reports/163/S163990.html)
-- [414](http://www.nuforc.org/webreports/reports/163/S163865.html)
-- [413](http://www.nuforc.org/webreports/reports/156/S156960.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
