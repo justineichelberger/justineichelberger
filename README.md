@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:31 on 6 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:40 on 6 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Bellingham (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately ? - ? minutes.</sub><blockquote><sub>Stationary burgundy fireball.Driving to work and saw a burgundy colored spherical floating object.  It was about 100 yards up, 8 feet in diameter and stationary.  Stopped to take a closer look at nearby parking lot.  Looked for wires or advertising, there was none.  Watched it for about 2 minutes, and went to work.  It was gone later that day.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110875.html](http://www.nuforc.org/webreports/reports/110/S110875.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>It was just starting to get dark on tuesday night. I was walking up the stairwell in my dorm, and noticed a strange bright white light between two of the tall identicle apartment buildings on the riverfront of downtown Portlad. At first I thought it was a bright star, but there are very few stars visible in Portland, and it was far too bright. I then though that it was maybe just a plane, since the flight pattern goes that way, but the light wasn't moving. Slowly I noticed it move. It took about three minutes for it to slowly move behind the left apartment building. I then decided to walk up a floor or two, to see if I could see it since it hid high up on the building. I caught a glimpse of it again, and yet again it hid. I did this a couple more times and it kept hiding. It . Finally, It dissapeared or went behind the  building and I wasn't able to catch a glimpse of it anymore. I ran and grabbed two of my friends. I returned with them, about two minutes after losing sight, and there it was back where it originally was not even  moving. My friends and I sat and watched it for about two minutes. It sat there motionless for about a minute. Then slowly started moving and gaining little speed as it traveled to the left again. It then began to dim. It dimmed completely before being blocked by the building. I had this sort of weird feeling that what ever it was knew it was being watched, so it kept hiding. I think bringing the two other friends convinced it to vanish. The apartment buildings are about a half a mile from my dorm, so we decided to walk over there, but saw nothing.  While the bright light was going on, I also noticed a pulsating red light flying in a circle over and over to the right of the it, but didn't think too much about it.  While walking back from checking out the apartment area, I spotted a red lighted craft, maybe a plane or satelight flying above. Whatever it was it was fast, and high in the air. It made a total pass of the sky within 2-3 minutes or so. Later on the night, me and one of the other witnesses spotted one of the pulsating red lights where the bright white light was. it was fling in irregular patterns. sharply left and right and up and down. Sorry for the jumbled mess, but I'm writing this really late at night, and I totally forgot about reporting it and didn't want to forget to in the morning.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50999.html](http://www.nuforc.org/webreports/reports/050/S50999.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/163/S163728.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163729.html)
-- [415](http://www.nuforc.org/webreports/reports/163/S163990.html)
-- [414](http://www.nuforc.org/webreports/reports/163/S163865.html)
-- [413](http://www.nuforc.org/webreports/reports/156/S156960.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
