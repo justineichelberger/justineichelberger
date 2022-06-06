@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:34 on 6 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:49 on 6 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1976, an anonymous witness in Imperial Beach (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Zig Zagging star like object zaps another Star like object with light beamIt was in the late 1970's while watching for SKYLAB around 10 pm in Imperial Beach, Calif., to come out of the southwest and travel to the northeast when I saw in the south night sky a star like object ZIG ZAG in a downward direction.  Then I saw a second star like object Zig ZAG from above the first as if following the first.  The second object then emitted a long beam of light and the first object was gone.  The second object then ZIG ZAGGED back up into the night sky and was gone from sight.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71958.html](http://www.nuforc.org/webreports/reports/071/S71958.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Carroll (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Very bright light over the Ohio ValleyBright light observed moving in a straight line from the WNW to the ESE direction.  Did not seem to be normal debris entering the atmosphere.  We did not notice it until it was straight above us.  We had no doubt about the significance of this sighting.  It was very unusual because of the slower speed, how bright it was and the absence of a trail.  The light source was so bright,looking up at it, it cast a "four point star shape" straight down.Observed it for 20 to 30 seconds before the light faded to nothing.  It faded out like a high power search light turned off.  When the light faded, no object could be seen in the clear sky.  No sound at all noticed.  We were at our home in the country side, with no lights on to hinder our sight.  No clouds present,star lit night and crescent moon.  Actually, we observed a satellite high in the sky above the path of the light after it extinguished.  I flew aircraft for years in the USAF and I strongly believe it was no manmade object.  I’m 40 years old and have seen many things in the night sky and this will be remembered as the most unusual.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63737.html](http://www.nuforc.org/webreports/reports/063/S63737.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/163/S163728.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163729.html)
-- [415](http://www.nuforc.org/webreports/reports/163/S163990.html)
-- [414](http://www.nuforc.org/webreports/reports/163/S163865.html)
-- [413](http://www.nuforc.org/webreports/reports/156/S156960.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
