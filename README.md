@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:24:56 on 6 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:07:40 on 6 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Arlington (VA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>"Bat-wing" aircraft swiftly crosses night sky on south-to-north trajectoryGuest leaving just before 10:00 pm reported seeing "bat-wing aircraft" fly across on south-to-north trajectory to west of house. Passed before I could get outside to see it myself. Described as high up but impressively large and very fast. One red light each wing and white light at front. Possible "stealth" aircraft. Observer said it made a noise, but not very loud. Location in north Arlington near Seven Corners.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63730.html](http://www.nuforc.org/webreports/reports/063/S63730.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Canton (MI) reported seeing craft that fit the description of some '' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Saw bright object east of 275 followed to Romulus dtw airport.  Continued low in sky eastward steady rate past airport((NUFORC Note:  Source of the report elects to remain anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134665.html](http://www.nuforc.org/webreports/reports/134/S134665.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/163/S163728.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163729.html)
-- [415](http://www.nuforc.org/webreports/reports/163/S163990.html)
-- [414](http://www.nuforc.org/webreports/reports/163/S163865.html)
-- [413](http://www.nuforc.org/webreports/reports/156/S156960.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
