@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:46 on 5 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:36 on 6 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Madison (WI) reported seeing craft that fit the description of some 'Changing' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>from my office overlooking downtown and state street.  this dark object traveled from north to south above the buildings but below the low clouds.  It didn't change shape (but that is not a choice given) it didn't have any distinct geometric shape, but looked like a larger cap with a dangling down piece.  It appeared to move with the wind and not under any power.  If I had to guess I would have said it was a mostly deflated balloon with the helium in the top part and the bottom dangly part uninflated.  I first thought it was a parachutist, but when it got closer it was obviously not and it was  traveling horizontally, not down</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119429.html](http://www.nuforc.org/webreports/reports/119/S119429.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Roanoke Rapids (NC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately  -  minutes.</sub><blockquote><sub>HOW COULD A SHOOTING STAR CHANGE DIRECTIONS PLUS IT WAS PRETTY BIG?I WAS RIDING MY IN MY TRUCK DOWN I-95 GETTING READY TO GET OFF THE 173 EXIT GOING INTO ROANOKE RAPIDS COMING FROM ROCKY MOUNT WHEN I SAW A FIREBALL LOOKING OBJECT OUT THE MY DRIVERS SIDE WINDOW AS I WATCHED I AT FIRST THOUGHT IT WAS A METOR OR SHOOTING STAR OR SOMETHING OF THAT NATURE BUT WHAT FREAKED ME OUT WAS THEN THE OBJECT CHANGED DIRECTIONS FROM GOING NORTH TO GOING SOUTH THOUGHT THAT WAS PRETTY WIERD THOUGHT I WOULD SHARE IT THE WHOLE EVENT HAPPENED IN A SAY 30 SECONDS</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29080.html](http://www.nuforc.org/webreports/reports/029/S29080.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/163/S163656.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163611.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163615.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163607.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
