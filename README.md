@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:04:11 on 6 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:49 on 6 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Spain () reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Riding on a train in the middle of nowhere in Spain. With my travelling companion.  We are both 19 yrs. old, taking a 6 week trip to Europebefore going starting College in the fall.2 other young men were riding in the samecar with us.  The rest of the train was dark,everyone asleep.It/they appeared 5 feet from the trainwindow. The size was about 25-30 feet accross .It hoverednear to our car for 10 min., going from onewindow to another,changing from a circularshape, to an eliptical, to a square.Could have been one spaceship, or severalin a formation.  There were several lights,in a circular formation at first, allspinning.  The sky was red during thewhole time. When we went through a tunnellit disapeared, then was back when we emergedfrom the tunnell. At first there was oneship/formation. Then there were two. We didnot report this incident to anyone.We have no previous experience with UFO's.We did not want to have this type of experience.Most people do not believe us.  All 4 of ussaw the exact same thing. We were alal absolutelypositive that this was a spaceship/spaceships.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02323.html](http://www.nuforc.org/webreports/reports/002/S02323.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Orem (UT) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>The thing was just watching the fireworks.((MUFON report))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142016.html](http://www.nuforc.org/webreports/reports/142/S142016.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/163/S163728.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163729.html)
-- [415](http://www.nuforc.org/webreports/reports/163/S163990.html)
-- [414](http://www.nuforc.org/webreports/reports/163/S163865.html)
-- [413](http://www.nuforc.org/webreports/reports/156/S156960.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
