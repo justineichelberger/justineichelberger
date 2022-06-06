@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:49 on 6 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:34 on 6 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Carroll (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Very bright light over the Ohio ValleyBright light observed moving in a straight line from the WNW to the ESE direction.  Did not seem to be normal debris entering the atmosphere.  We did not notice it until it was straight above us.  We had no doubt about the significance of this sighting.  It was very unusual because of the slower speed, how bright it was and the absence of a trail.  The light source was so bright,looking up at it, it cast a "four point star shape" straight down.Observed it for 20 to 30 seconds before the light faded to nothing.  It faded out like a high power search light turned off.  When the light faded, no object could be seen in the clear sky.  No sound at all noticed.  We were at our home in the country side, with no lights on to hinder our sight.  No clouds present,star lit night and crescent moon.  Actually, we observed a satellite high in the sky above the path of the light after it extinguished.  I flew aircraft for years in the USAF and I strongly believe it was no manmade object.  I’m 40 years old and have seen many things in the night sky and this will be remembered as the most unusual.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63737.html](http://www.nuforc.org/webreports/reports/063/S63737.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1971, an anonymous witness in Victorville (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Blinking star randomly, instantly, jumping about in an area about 20 to 30 deg. above Mojave horizon.Parked on a hill east of town, looking east toward Lucerne Valley.  We say what appeared to be a star about 20 deg. (two closed fists) above the horizon.  This star was blinking on and off, about twice per second. It was as bright as surrounding stars.  Initially, it was not moving, just blinking.  This is was caught my eye, the fact that it did not move.  Had it moved, I would have thought it to be a plane.  But it stayed it one spot for about 15 minutes, never moving.  We wondered what kind of aircraft could stay so stationary.  Even a helicopter would have moved a bit in 15 minutes.  Then suddenly the blinking star instantly moved from its position horizontally about 10 deg.  Then it instantly moved diagonally, then vertically, then one way or another.  It would hold in one position for a few seconds, then instantly move again.  If you imagine a piece of cardboard with many little white lightbulbs randomly mounted on it about one or two inches apart, and wired so you could light individual lightbulbs, and then you randomly light the various lightbulbs every couple of seconds, this would be an approximation of what we saw.  After about 15 minutes of this star jumping about, it moved to about 10 deg. above the horizon and then slowly moved away to the south, moving in the way an airplane would appear flying along, straight and even flight, no longer jumping about.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32430.html](http://www.nuforc.org/webreports/reports/032/S32430.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/163/S163728.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163729.html)
-- [415](http://www.nuforc.org/webreports/reports/163/S163990.html)
-- [414](http://www.nuforc.org/webreports/reports/163/S163865.html)
-- [413](http://www.nuforc.org/webreports/reports/156/S156960.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
