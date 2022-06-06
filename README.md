@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:13:29 on 6 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:22 on 6 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Forest Lake (MN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>White/Blue Unknown Craft in Forest Lake, MNAt approx 00:30 on above date, while driving southbound on I35 towards the St.Paul/Mpls area, I saw what appeared it be a elongated, illuminated craft hover in the air.  It had a bright, neon blue circle on the rear with a bright white light in the middle.  Along the side of the craft, it was glowing white.  The craft appeared oval to me but I saw it only for two seconds as it hovered, turned, then took off at a speed in which I cannot describe.  It was there, then a bright streak, and it was gone.  I am reporting this just 20 mins from the time it happened.  I actually called Channel 5 Eyewitness News in the Twin Cities area to see if anyone had seen what I did, but they had not.  I know aircraft and I understand propulsion, this was nothing that human beings are capable of doing, not hovering and taking off at this speed.  What I just saw was a UFO and Nobody, Nobody will convince me otherwise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89390.html](http://www.nuforc.org/webreports/reports/089/S89390.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>three red lights in triangle formationThree red/orange lights moving northwest in a triangular formation before disappearing into cloud cover.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89407.html](http://www.nuforc.org/webreports/reports/089/S89407.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/163/S163728.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163729.html)
-- [415](http://www.nuforc.org/webreports/reports/163/S163990.html)
-- [414](http://www.nuforc.org/webreports/reports/163/S163865.html)
-- [413](http://www.nuforc.org/webreports/reports/156/S156960.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
