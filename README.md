@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:53 on 6 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:37:43 on 6 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Swansea (UK/Wales) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>2am saw lights through tent , was very low to us,had no sound and was triange and also was very slow passing over us.we were 15 - 16 and till now i have'nt talked about it because 1. thought people will laugh; 2.never knew who to talk to; 3.never believed in ufo's (aliens).  anyway we were just 2 mates camping in my parents back garden cos my mother had bought a tent we asked if we could camp in the garden. we had a barbacue about 10pm at night and were up talking till about 2am, about 12 we got in the tent and and were still talking but getting tired when about 2am through the tent we could see lights above us but not hoving over us just very slowly going over - really slowly. so we got out of the tent to look and in the dark we could 100% make out it was triangle because the object darker than the night sky because the sky was a more dark blueish rather than black so you could make out the image easily and it was'nt the lights that made us think the craft was triange because of the way the lights were positioned we could see the and the light you could see the dark right the way round it plus it was'nt that high from us, my garden was about 4 foot up from my house level and this was only about 12 - 15 foot higher than the house so it was close but what we remember talking about the most at the time was the complete silence, there was no sound at all and being so close we think with a normal aircraft there'd be some noise even if only little but this was completely silent and this was 2am so there was complete silence anyway , there was 4 lights - 1 on each corner and a larger one on the middle ,. there is no way it was a copter cos it had no sound, amazing it was so low felt like you could touch it and went so very slow with not a sound to it, still now im shocked how slow it moved while in our sight. well thats it - no abduction im afraid or landing but everything i have said is the honest truth and no extra bits added on like some people seem to do.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43323.html](http://www.nuforc.org/webreports/reports/043/S43323.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Colorado (unspecified) (CO) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>a black shape in the sky while in colorado. was told it was a weather baloon.i was on a church retreat in colorado. we were standing on the balcony of the condo. the object we saw was black and kind of oval in shape. it would stay still for seconds then move really fast horizontally in the sky then stay there for what seemed like 30 sec. to a min. then went vertically and diagonally in the sky. then went to the spot i first saw it. it did this about 4 times and then just dissappeared. the sun was not out but the sky was well lit. i called over some people who were walking to their door. and had some people from the retreat see it too. one person called some government official or something. they said it was a weather baloon. is this what a weather baloon does? i still to this day believe i saw a ufo((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31876.html](http://www.nuforc.org/webreports/reports/031/S31876.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/163/S163728.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163729.html)
-- [415](http://www.nuforc.org/webreports/reports/163/S163990.html)
-- [414](http://www.nuforc.org/webreports/reports/163/S163865.html)
-- [413](http://www.nuforc.org/webreports/reports/156/S156960.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
