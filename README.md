@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:34 on 6 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:31 on 6 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1971, an anonymous witness in Victorville (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Blinking star randomly, instantly, jumping about in an area about 20 to 30 deg. above Mojave horizon.Parked on a hill east of town, looking east toward Lucerne Valley.  We say what appeared to be a star about 20 deg. (two closed fists) above the horizon.  This star was blinking on and off, about twice per second. It was as bright as surrounding stars.  Initially, it was not moving, just blinking.  This is was caught my eye, the fact that it did not move.  Had it moved, I would have thought it to be a plane.  But it stayed it one spot for about 15 minutes, never moving.  We wondered what kind of aircraft could stay so stationary.  Even a helicopter would have moved a bit in 15 minutes.  Then suddenly the blinking star instantly moved from its position horizontally about 10 deg.  Then it instantly moved diagonally, then vertically, then one way or another.  It would hold in one position for a few seconds, then instantly move again.  If you imagine a piece of cardboard with many little white lightbulbs randomly mounted on it about one or two inches apart, and wired so you could light individual lightbulbs, and then you randomly light the various lightbulbs every couple of seconds, this would be an approximation of what we saw.  After about 15 minutes of this star jumping about, it moved to about 10 deg. above the horizon and then slowly moved away to the south, moving in the way an airplane would appear flying along, straight and even flight, no longer jumping about.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32430.html](http://www.nuforc.org/webreports/reports/032/S32430.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Bellingham (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately ? - ? minutes.</sub><blockquote><sub>Stationary burgundy fireball.Driving to work and saw a burgundy colored spherical floating object.  It was about 100 yards up, 8 feet in diameter and stationary.  Stopped to take a closer look at nearby parking lot.  Looked for wires or advertising, there was none.  Watched it for about 2 minutes, and went to work.  It was gone later that day.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110875.html](http://www.nuforc.org/webreports/reports/110/S110875.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/163/S163728.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163729.html)
-- [415](http://www.nuforc.org/webreports/reports/163/S163990.html)
-- [414](http://www.nuforc.org/webreports/reports/163/S163865.html)
-- [413](http://www.nuforc.org/webreports/reports/156/S156960.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
