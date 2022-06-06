@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:31 on 6 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:48 on 6 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Singapore () reported seeing craft that fit the description of some 'Disk' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>UFO Spotted above northern singaporeWe spotted this unknown saucer like object in the sky whilest having a BBQ, we got the camera on full zoom, and then zoomed into the picture and got a basic idea of it.  It was a dark grey colour, with redish lights around the side.  It was moving slowly untill it went behind a building and we lost sight</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75706.html](http://www.nuforc.org/webreports/reports/075/S75706.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Mundelein (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>bright light, over the North suburbs of ChicagoVery-very bright light traveling from W to E. Straight line, no flashing, although light seemed to come from more than one source on craft. Not a plane. No sound No Flasing. Went across the whole horizon, no change in direction. ISS? Space Shuttle?    Always Looking</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63733.html](http://www.nuforc.org/webreports/reports/063/S63733.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/163/S163728.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163729.html)
-- [415](http://www.nuforc.org/webreports/reports/163/S163990.html)
-- [414](http://www.nuforc.org/webreports/reports/163/S163865.html)
-- [413](http://www.nuforc.org/webreports/reports/156/S156960.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
