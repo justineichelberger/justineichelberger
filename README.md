@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:35:16 on 7 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:24:21 on 7 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Glendale (AZ) reported seeing craft that fit the description of some 'Formation' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Cluster of approximately  20 bright white blinking lights traveled slowly in a westerly direction  over Glendale, AZ, 1:30 am.At approximately 1:30 am, my boyfriend was out back with the pups and asked me to come outside to see what he had been watching for a couple minutes in the West sky.  There was this cluster of 20 bright crisp silvery metallic white lights in a loose grouping.  The angle we were looking up into the sky was 30 degrees.  The lights appeared to have a pattern they were blinking off and on through but neither of us could tell you specifically what it was.  This grouping of lights, for lack of a better description, moved in a westerly direction as if attached to a drunken butterfly.  Slowly, left, right, forward, stationary, rinse, repeat.   Although the lights were moving farther west and away from us, they were still very bright white.....not soft or amber but clear bright white.((NUFORC Note:  We spoke with both witnesses, and both appeared on a radio program.  They were both very objective, and sober-minded, in describing the event, and we suspect that both of them are quite reliable, and capable, witnesses.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119478.html](http://www.nuforc.org/webreports/reports/119/S119478.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Strange Fire In the Sky.I was driving back home, until i saw a strange light. it was strange because of the fact that it flickered like a fire.  i was driving north west towards the light until i came into a red light and decided to park my car by some apartments.  the fire descended very slowly it would move vertical and horizontal and i got a good clear view on it.  It had a nucleus that was somewhat dark bright it was orange and around it, it appeared to have flames.  I took a picture when it was about 2000 feet.  I speculated it for 2 more minutes and it ascended slowly while fading away as if it was ghostly like.  (The picture came out like a small curved light)((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110048.html](http://www.nuforc.org/webreports/reports/110/S110048.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/163/S163630.html)
-- [340](http://www.nuforc.org/webreports/reports/163/S163733.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163638.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163639.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163820.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
