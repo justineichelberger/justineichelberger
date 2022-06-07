@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:06:19 on 7 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:32 on 7 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Lewisburg (WV) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Blue fireball shaped object descending from the sky.Big fireball shaped object.  It was bright blue and looked as if it was descending.  Saw it for about a minute.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156941.html](http://www.nuforc.org/webreports/reports/156/S156941.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1985, an anonymous witness in Tulsa (OK) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Silver disk in the afternoon Tulsa Ok.I was a passenger in the back seat of a 1985 Dodge caravan (prety big windows).  We were southbound on an interstate highway entering the outskirts of Tulsa.  I do not recall the exact date or time, but I know it was mid summer of the year I turned 15 (in april).  There was some kind of municipal airport we were approaching through the valley (into it?).  That day there were an unusually high number of private aircraft flying that day (most of them were "unpowered" "light" and "ultralight"private aircraft).  I remember watching the gliders soar in thermal updrafts for a long time as we got closer(20 min. at least).  There was one "glider" in particular caught my eye.  Not because it was vissually extra ordinary, but because it appeared to have no angualr momentum.  I observed the craft for about 4 min. marveling at the skill of that pilot to keep riding the same current for such a long time.  "Those arent glider wings!"  Suddenly the craft I had just been watching for a realllllllly long time looked like a silver disk.  It was late afternoon, because the sunlight reflected brightly in a radial patern from each side of the center of the disk.  From a great distance these reflections looked like a long wingspan "white" glider (the kind that get towed up by powered aircraft).  The moment I realized what i saw, I told my Dad to try to pull over.  we could not because by this time the landscape had become decidedly urban (I had not been watching the road for quite a long trip).  I watched it for as long as I could wishing the video camera was "assembled" (2 piece camera/vcr system) so that i cluld be taping this un-beleivable event.  My view was obstructed finally by an overpassing highway onramp.  When the obstruction cleared, the craft was gone.  I remember there being a refinery or some other heavy industry site that appeared to be the same distance from me as the craft, but on a Southerly vector. The craft: Silver disk with a bulge in the middle. it was about a hands width at arms length North of the refinery. The altitude is hard to guess, but it was about as high as 2.5 the height of the refinery. It was tilted on axis both toward me and 45 degrees to the side. (i could see the entire top except the part obscured by the "dome" in the middle. It appeared to be hovering...or moving verrrrry slow. No sound apperent (caravans windows do not roll down in the back though),((NUFORC Note:  We feel compelled to comment that it is not unusual for a glider to remain virtually motionless in the sky, particularly if it is flying in ridge lift or an atmospheric wave.  Glider pilots dream of such situations.  However, we have no explanation for why the object would change its appearance.  PD (Flight Instructor/Gliders, 1978-1988)))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15398.html](http://www.nuforc.org/webreports/reports/015/S15398.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/163/S163630.html)
-- [340](http://www.nuforc.org/webreports/reports/163/S163733.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163638.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163639.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163820.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
