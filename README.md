@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:39 on 7 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:02:20 on 7 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Long Beach (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Fireballs in the SoCal night sky.As seen from Long Beach, Ca 90804 looking NE on 6/7/16 between 21:38-21:41.Moving from the N.E. in the South direction, stalled out then moved directly East.These 2 objects both had nose profiles (aka wings) as a result of subsonic pressure coefficients.  From our vantage point, there was clearly fire engulfing these objects in our fist visible time frame.Once stalled, there was a direct turn to the East, fire subsided then object faded after an average of 15 seconds of flight time but was still visible with what could been taken as a very high altitude aircraft.Someone had to of seen these objects, and has photos, or an explanation of what they saw.I am looking for anyone that was on American Airlines 1116 flight out of LAX on 6/7/2016 as they had to of seen this from their flight..... There was an “U.F.O.” of sorts just off of your port side wing tip and above the aircraft.  AA1116 was passing thru 8000' at the time of the spotting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127772.html](http://www.nuforc.org/webreports/reports/127/S127772.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Culleoka (TN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Objects with solid lights moving towards one another.My wife and I were feeding our horses late this afternoon, as we were walking to our barn I noticed a light in front of us on the south western area of the sky at about 30 degrees moving towards us.I remarked to her look at that plane, we then noticed there were no visible flashing lights on it.I turned on my spotlight I had with me and aimed it towards the object for a second then turned it off, the object appeared to turn to the south and disappeared.As she proceeded to feed the horses I continued to watch the sky in the area we had witnessed the object in, within 5 minutes we both observed another light appear from behind the tree line, the object was moving in our general direction but slightly north east.This object had a very bright light such as a search light of a helicopter.I once again turned on my spotlight towards the object and it also disappeared within a few seconds.We never heard any engine sounds from the objects.The lights were solid white.The night was clear with some ground fog in log areas.The moon was out one half full.A plane flew over 5 minutes after we saw the last object at high altitude, the marker lights were clearly visible on it the whole time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29097.html](http://www.nuforc.org/webreports/reports/029/S29097.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/163/S163630.html)
-- [340](http://www.nuforc.org/webreports/reports/163/S163733.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163638.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163639.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163820.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
