@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:05:34 on 7 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:04:40 on 7 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Elkhart (IN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>7 fireballs in a row in the southern skyes at 1:30 amTHIS WAS ABOUT MY  7TH SIGHTING IN 3 YEARS I WAS SITTING OUTSIDe ON MT DECK ENJOYING A WARM BEAUTIFUL NIGHT.  I LOOKED TO THE SOUTH AND IN THE TREE LINE HIGH IN THE SKY I WITNESSED A ORANGE FIREBALL , THEN  7 MORE FOLLOWED.THE FIRE BALLS WERE ALL EVENLY SPACED APART. TRAVELING FRON EAST TO WEST.  I wasnt schocked as this has been my 7th sighting. all the others have been over the last 3 years and in different parts of the sky.Last years sightings, I was able to telephone my neighbors and they witnessed the sightings, that time they came out of the north going sought bound.I dont drink and have never done drugs.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98601.html](http://www.nuforc.org/webreports/reports/098/S98601.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Buffalo (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Mass ufo arrival and aggregation over Buffalo NY.Hi.  My name is Deirdre Nelson (Caprix 1969 on youtube).  Whenever weather permits, I film ufos or stars that are not stars, in the sky in front of my house.  Today, I filmed a mass sighting.  I’ve never seen this many up until this point.  Reviewing the video, I think I may see some kind of wormholes in the form of misshapen, tunneling ringed ovals.  They seemed to be mostly coming from those areas of the sky.  Bright, mostly oval or round as well as a few grey almond shaped crafts. https://www.youtube.com/watch?v=5W_xn22MJDg</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156956.html](http://www.nuforc.org/webreports/reports/156/S156956.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/163/S163630.html)
-- [340](http://www.nuforc.org/webreports/reports/163/S163733.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163638.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163639.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163820.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
