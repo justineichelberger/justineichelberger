@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:55 on 7 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:12:12 on 7 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Hampton Beach (NH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Hovering then taking off quickly and disappearing.Sitting on beach and saw 3 separate times where a blinking object would be stationary and then move quickly changing direction and then disappear.  One of them flew over us but there was no sound at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110046.html](http://www.nuforc.org/webreports/reports/110/S110046.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Russell (KS) reported seeing craft that fit the description of some 'Cone' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>WHEN I WAS COMING THROUGH TOWN I SAW A HUGE CONE UFO RED PECULIAR LIGHTS OVER RUSSELL KANSAS.I WAS COMING THROUGH TOWN AND I WAS A HUGE CONE UFO IT WAS RED ON TOP AND YELLOW ON BOTTOM THEN RED ON THE TOP AND YELLOW ON THE BOTTOM. AND I ALSO SAW SOME RED PECULIAR LIGHTS OVER TREELINES. IT WASN'T A BLIMP OR WEATHER BALLOON BUT STRANGE PECULIAR LIGHTS OVER THE TOWN. THIS HAPPENED ON JUNE 7, 2005 ON A TUESDAY NIGHT. THERE WAS NO SOUND TO THE UFO I SAW THAT NIGHT OR THE PECULIAR LIGHTS I WAS WHEN I WAS COMING THROUGH TOWN. IT WAS PARTLY CLOUDY. THIS HAPPENED AT 7:45 P.M. AT NIGHT.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48023.html](http://www.nuforc.org/webreports/reports/048/S48023.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/163/S163630.html)
-- [340](http://www.nuforc.org/webreports/reports/163/S163733.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163638.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163639.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163820.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
