@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:35 on 7 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:02:04 on 7 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Dawsonville (GA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10 swc - 10 swc minutes.</sub><blockquote><sub>see aboveBright White Light at around 30,000 Ft, moving much faster than the commercial aircraft normally in this area. Totally silent. Moved about 20 miles travelling SE.  Light went dim and the object moved straight up.  It was absolutely NOT a conventential aircraft. Silent, bright (no green/red) and too fast.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63749.html](http://www.nuforc.org/webreports/reports/063/S63749.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in unknown (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 9.0 - 9.0 minutes.</sub><blockquote><sub>a circle, not moving, hovering over a mountain...While my family and I were visiting Texas, we spotted a UFO-like object (very small in the horizon) hovering above a mountain. It did not seem like a hot-air balloon or anything, because it was staying still. We took a picture and left the site.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07807.html](http://www.nuforc.org/webreports/reports/007/S07807.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/163/S163630.html)
-- [340](http://www.nuforc.org/webreports/reports/163/S163733.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163638.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163639.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163820.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
