@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:37 on 7 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:49 on 7 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Rochester (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Two round bright  reddish dots in the north sky.  They  seemed to be still then they started moving closer to each other passing each other.  I looked it up on the internet, and they were exactly like the red dots that were filmed at a previous date in AZ.((NUFORC Note:  We suspect an evening sighting, and have changed the time above.  We attempted to contact the two witnesses, husband and wife, but have not managed to reach them, yet.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110063.html](http://www.nuforc.org/webreports/reports/110/S110063.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Joplin (south of) (MO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Two bright lights flying high overhead in SW MissouriOkay, this is my first reporting ever.  We drove out to an area south of Joplin Missouri to observe a phenomenon know as the "spook light" that is legendary in our part of the country.  This area is out in the country and is good and dark, which is why we noticed the number of stars in the sky.  I couldn't help but to look at the stars rather than watch for the spook light.  I noticed a very bright light in the tree line moving north, as it approached I noticed that there were actually two of the lights.  At first I thought it was perhaps a couple of satellites, but they stayed at the exact same distance from each other for the duration of the flight over us and did seem to dim the more overhead they got.  Now don't think that it was just above us, it appeared to me to be in orbit...thus making me think it was satellites.  I'm not sure when the shutle docked with the space station...but that is what I ruled it to be and dismissed it.  The observers backgrounds were a science teacher, an attorney, a truck driver (myself) two teenagers and one 10 year old.  It would be great to think that it was something special, but I think it was just the shuttle...you tell me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63936.html](http://www.nuforc.org/webreports/reports/063/S63936.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/163/S163630.html)
-- [340](http://www.nuforc.org/webreports/reports/163/S163733.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163638.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163639.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163820.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
