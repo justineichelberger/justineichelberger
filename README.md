@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:02:04 on 7 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:05:34 on 7 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in unknown (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 9.0 - 9.0 minutes.</sub><blockquote><sub>a circle, not moving, hovering over a mountain...While my family and I were visiting Texas, we spotted a UFO-like object (very small in the horizon) hovering above a mountain. It did not seem like a hot-air balloon or anything, because it was staying still. We took a picture and left the site.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07807.html](http://www.nuforc.org/webreports/reports/007/S07807.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Elkhart (IN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>7 fireballs in a row in the southern skyes at 1:30 amTHIS WAS ABOUT MY  7TH SIGHTING IN 3 YEARS I WAS SITTING OUTSIDe ON MT DECK ENJOYING A WARM BEAUTIFUL NIGHT.  I LOOKED TO THE SOUTH AND IN THE TREE LINE HIGH IN THE SKY I WITNESSED A ORANGE FIREBALL , THEN  7 MORE FOLLOWED.THE FIRE BALLS WERE ALL EVENLY SPACED APART. TRAVELING FRON EAST TO WEST.  I wasnt schocked as this has been my 7th sighting. all the others have been over the last 3 years and in different parts of the sky.Last years sightings, I was able to telephone my neighbors and they witnessed the sightings, that time they came out of the north going sought bound.I dont drink and have never done drugs.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98601.html](http://www.nuforc.org/webreports/reports/098/S98601.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/163/S163630.html)
-- [340](http://www.nuforc.org/webreports/reports/163/S163733.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163638.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163639.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163820.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
