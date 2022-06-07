@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:41 on 7 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:55 on 7 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Warm Beach (WA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Small disc flies through tree branches without a sound.It was early morning twilight and I was walking from my trailer up to the main house. A small object came from my left and appeared to be a large white moth as it was diving toward the left side of my head. I quickly tilted my head to the right, to avoid its path, and as it flew passed my head, it turned into a bright disc about the size of a disc that is used in a track meet, about 6 inches across.  It passed my head and picked up speed to maybe 200 miles an hour and as it flew through the tops of the alder trees, it turned  vertically to avoid hitting the leaves and branches.  It was gone and out of sight in less than five seconds.In sight less than five seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112385.html](http://www.nuforc.org/webreports/reports/112/S112385.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Hampton Beach (NH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Hovering then taking off quickly and disappearing.Sitting on beach and saw 3 separate times where a blinking object would be stationary and then move quickly changing direction and then disappear.  One of them flew over us but there was no sound at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110046.html](http://www.nuforc.org/webreports/reports/110/S110046.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/163/S163630.html)
-- [340](http://www.nuforc.org/webreports/reports/163/S163733.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163638.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163639.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163820.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
