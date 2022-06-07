@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:09 on 7 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:35:16 on 7 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Westminster (CO) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Extremely fast moving, sharp turning object flyingWe were outside looking at the thunderstorm over the Denver Metropolitan area, looking west and north west and I saw a long shaped object with exremely fast flashing lights.  At first I thought perhaps it was a plane, but immediately realized that it was moving incredibly fast and the lights were fluttering or flashing at a extreme rate.  As I looked up about the treeline, the object moved west northwest I would say 100x faster than an airplane, which caught my attention so I told my partner to look very quickly, she saw it as well and I lost sight of it, and she continued to see it as it immediately and sharply turned due west.  I then caught it again in my sight as it again turned sharply and immediately southwest.  My partner stated she saw an airplane below the UFO traveling at a much slower rate at in the sky just below the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89411.html](http://www.nuforc.org/webreports/reports/089/S89411.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Glendale (AZ) reported seeing craft that fit the description of some 'Formation' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Cluster of approximately  20 bright white blinking lights traveled slowly in a westerly direction  over Glendale, AZ, 1:30 am.At approximately 1:30 am, my boyfriend was out back with the pups and asked me to come outside to see what he had been watching for a couple minutes in the West sky.  There was this cluster of 20 bright crisp silvery metallic white lights in a loose grouping.  The angle we were looking up into the sky was 30 degrees.  The lights appeared to have a pattern they were blinking off and on through but neither of us could tell you specifically what it was.  This grouping of lights, for lack of a better description, moved in a westerly direction as if attached to a drunken butterfly.  Slowly, left, right, forward, stationary, rinse, repeat.   Although the lights were moving farther west and away from us, they were still very bright white.....not soft or amber but clear bright white.((NUFORC Note:  We spoke with both witnesses, and both appeared on a radio program.  They were both very objective, and sober-minded, in describing the event, and we suspect that both of them are quite reliable, and capable, witnesses.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119478.html](http://www.nuforc.org/webreports/reports/119/S119478.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/163/S163630.html)
-- [340](http://www.nuforc.org/webreports/reports/163/S163733.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163638.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163639.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163820.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
