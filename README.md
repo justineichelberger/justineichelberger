@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:56 on 7 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:23 on 7 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in New York City (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>undecernable stationary objects in the early evening sky.Yankee Stadium for Joel Osteen meeting. At about 7:30 PM, I looked up into a clear blue sky and saw what could have been confused as a star.  However it occurred to me that it was too light out and what I was seeing could not be a star, which then got my interest.  Then I noticed another and another, until I counted about 6 objects.  I observed these objects for a few minutes and then asked my family to observe what I saw.  Everyone saw what I saw and some others around us started to look up as well.  Only 1 object moved much but the others were stationary and for all intents and purposes just points in the sky.  One had a definite orange to red color, but the others were a shade of silver.  During the 30 minutes of observation numerous jets crisscrossed the sky, many at extreme altitude, but the points seemed to be higher.  We all speculated as to what these things could be and we considered weather balloons, but felt uncertain as the objects were stationary (other than the one that moved slowly).  In all, I missed about 45 minutes due to this distraction, and turned my attention to the event.  When I checked the sky at dusk, all objects were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110258.html](http://www.nuforc.org/webreports/reports/110/S110258.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Round metallic object observed over South SeattleAt 11:50 am on June 7th, 2014, while laying on a lounge chair on my back deck, I noticed a round metallic object in the sky to the east of me.  It looked to be just below some white clouds and was moving slowly to the South.  The object appeared to be over the south end of Boeing field off the I-5.  I observed it for approximately 3-4 minutes, as it moved to the South over South Center shopping area, at which time it disappeared into the clouds.  At one point, while I was observing the object, a commercial plane flew by from the North and looked to be fairly close to the object.  I did capture this sighting on my IPhone at full zoom (466Megabits).  The object was round in shape, metallic looking and appeared to reflect the sun.  I will also say that, to me, it appeared to move in a deliberate fashion from the North to the South.Conditions:  Daytime, about noon Mostly sunny day A few big white clouds Unobstructed views to the East, South and West  I would be happy to share the video and speak with anyone who is interested, as long as my name remains anonymous.((NUFORC Note:  We spoke via telephone with the source of the report, and he sounded to us to be both eloquent, and serious-minded, in his description of the sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110038.html](http://www.nuforc.org/webreports/reports/110/S110038.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/163/S163630.html)
-- [340](http://www.nuforc.org/webreports/reports/163/S163733.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163638.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163639.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163820.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
