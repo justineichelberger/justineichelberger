@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:49 on 7 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:56 on 7 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Joplin (south of) (MO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Two bright lights flying high overhead in SW MissouriOkay, this is my first reporting ever.  We drove out to an area south of Joplin Missouri to observe a phenomenon know as the "spook light" that is legendary in our part of the country.  This area is out in the country and is good and dark, which is why we noticed the number of stars in the sky.  I couldn't help but to look at the stars rather than watch for the spook light.  I noticed a very bright light in the tree line moving north, as it approached I noticed that there were actually two of the lights.  At first I thought it was perhaps a couple of satellites, but they stayed at the exact same distance from each other for the duration of the flight over us and did seem to dim the more overhead they got.  Now don't think that it was just above us, it appeared to me to be in orbit...thus making me think it was satellites.  I'm not sure when the shutle docked with the space station...but that is what I ruled it to be and dismissed it.  The observers backgrounds were a science teacher, an attorney, a truck driver (myself) two teenagers and one 10 year old.  It would be great to think that it was something special, but I think it was just the shuttle...you tell me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63936.html](http://www.nuforc.org/webreports/reports/063/S63936.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in New York City (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>undecernable stationary objects in the early evening sky.Yankee Stadium for Joel Osteen meeting. At about 7:30 PM, I looked up into a clear blue sky and saw what could have been confused as a star.  However it occurred to me that it was too light out and what I was seeing could not be a star, which then got my interest.  Then I noticed another and another, until I counted about 6 objects.  I observed these objects for a few minutes and then asked my family to observe what I saw.  Everyone saw what I saw and some others around us started to look up as well.  Only 1 object moved much but the others were stationary and for all intents and purposes just points in the sky.  One had a definite orange to red color, but the others were a shade of silver.  During the 30 minutes of observation numerous jets crisscrossed the sky, many at extreme altitude, but the points seemed to be higher.  We all speculated as to what these things could be and we considered weather balloons, but felt uncertain as the objects were stationary (other than the one that moved slowly).  In all, I missed about 45 minutes due to this distraction, and turned my attention to the event.  When I checked the sky at dusk, all objects were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110258.html](http://www.nuforc.org/webreports/reports/110/S110258.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/163/S163630.html)
-- [340](http://www.nuforc.org/webreports/reports/163/S163733.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163638.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163639.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163820.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
