@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:24:21 on 7 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:06:19 on 7 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Strange Fire In the Sky.I was driving back home, until i saw a strange light. it was strange because of the fact that it flickered like a fire.  i was driving north west towards the light until i came into a red light and decided to park my car by some apartments.  the fire descended very slowly it would move vertical and horizontal and i got a good clear view on it.  It had a nucleus that was somewhat dark bright it was orange and around it, it appeared to have flames.  I took a picture when it was about 2000 feet.  I speculated it for 2 more minutes and it ascended slowly while fading away as if it was ghostly like.  (The picture came out like a small curved light)((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110048.html](http://www.nuforc.org/webreports/reports/110/S110048.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Lewisburg (WV) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Blue fireball shaped object descending from the sky.Big fireball shaped object.  It was bright blue and looked as if it was descending.  Saw it for about a minute.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156941.html](http://www.nuforc.org/webreports/reports/156/S156941.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/163/S163630.html)
-- [340](http://www.nuforc.org/webreports/reports/163/S163733.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163638.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163639.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163820.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
