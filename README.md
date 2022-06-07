@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:50 on 7 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:09 on 7 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Still in the sky, gone in an instantMy girlfriend and I were driving west on Aldine Bender rd.( hwy 529) when I witnessed a gleaming object in between some clouds. The object was approximately at a 50 degree angle from the horizon in front of us. I pointed the object out to my girlfriend who confirmed what I had seen.It appeared to be extremely shiny and metallic, which is what caught my eye while driving. The object was completely still in the sky, during the time we traveled just over one mile.  We came around a bend where the treeline obstructed our view and the object was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50883.html](http://www.nuforc.org/webreports/reports/050/S50883.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Westminster (CO) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Extremely fast moving, sharp turning object flyingWe were outside looking at the thunderstorm over the Denver Metropolitan area, looking west and north west and I saw a long shaped object with exremely fast flashing lights.  At first I thought perhaps it was a plane, but immediately realized that it was moving incredibly fast and the lights were fluttering or flashing at a extreme rate.  As I looked up about the treeline, the object moved west northwest I would say 100x faster than an airplane, which caught my attention so I told my partner to look very quickly, she saw it as well and I lost sight of it, and she continued to see it as it immediately and sharply turned due west.  I then caught it again in my sight as it again turned sharply and immediately southwest.  My partner stated she saw an airplane below the UFO traveling at a much slower rate at in the sky just below the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89411.html](http://www.nuforc.org/webreports/reports/089/S89411.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/163/S163630.html)
-- [340](http://www.nuforc.org/webreports/reports/163/S163733.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163638.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163639.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163820.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
