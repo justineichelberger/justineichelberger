@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:36 on 8 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:45 on 8 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Buena Park (CA) reported seeing craft that fit the description of some 'Egg' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Small flashing object in the sky that was tracked down and watched by 6 helicopters.  Very slow moving but it looked like it was just floating/hovering.  Went inside to get a camera - gone((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127723.html](http://www.nuforc.org/webreports/reports/127/S127723.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Tweed Heads (Australia) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Two groups of orange lights,lots of people saw themI had just finished teaching a ballet class & came out to waiting parents who were all looking at the sky. There was 2 groups of orange balls hovering to the east & west of the studio, At one stage 2 seemed to join together & then a plane took off in between them. one group eventually moved out to sea & the other group dissapeared into the clouds. The local paper the next day had a report from a man in Banora Point who saw what we did. I rang the paper & they said that heaps of people had rung but there were no explanations.The airport denied any knowledge of anything & the bureau of meteorology could not offer any explanation either.Id like to know what was seen on the plane, they had to have  seen them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44457.html](http://www.nuforc.org/webreports/reports/044/S44457.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/163/S163636.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163738.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163818.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163629.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163669.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
