@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:02:42 on 8 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:56 on 8 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Minnepolis (MN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Not sure - Not sure minutes.</sub><blockquote><sub>I didn't see the actual craft, but I do have evidence of it.On June 8th, around 12PM, I made it home from a friend's house, I notice a circular shape in the grass. I asked my mom and sister had they seen what was in the yard, and both said they just came from the back yard about 15 Mins before I made it home.  They both told me nothing was in back, but when they seen what I was pointing it both were shocked and stunned.No one seen or heard anything.  I have seen the circular shape in my yard before but haven't been able to find out what had been causing it, and they were on the other side of the yard always in the same spot so I didn't pay it any mind.All of the grass has been pushed outward from the middle of the circular shape, nothing has been broken or damaged.  It's as if a ball landed, blowing the grass out and allowing it to lie down as if it grew that way.I decided to let my dog out to use the bathroom, when she came out she ran and started to sniff directly in that spot as if there was a strong odor.((NUFORC Note:  Photo provided by source of report.  Damaged area looks like wind damage to tall grass, or a large animal bed.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146827.html](http://www.nuforc.org/webreports/reports/146/S146827.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Maplewood (Canada) (NB) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Summary : I was looking out my bedroom window when I saw a shiney sliver object in the sky which didn't move.  I watched for a couple of minutes then I went downstairs told my brother and mother then the three of us went outside.  I pionted to the thing in the sky.  They both saw it too. Then it started to move. We could not hear it and it started moving away faster.  Then it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02260.html](http://www.nuforc.org/webreports/reports/002/S02260.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/163/S163636.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163738.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163818.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163629.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163669.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
