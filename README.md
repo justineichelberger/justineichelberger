@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:43 on 8 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:52 on 8 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Kalamazoo (MI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Red light observed hovering over Kalamazoo.As I was looking at the sky to the south, I observed a red light, with a flashing green or blue light, traveling from the south and heading northward.  At first, I thought it could be an airplane, but the red light was too large and bright.  It traveled in a straight line and stopped for a few seconds and remained stationary.  It then moved west a few degrees, before continuing on the original trajectory northward.  It then stopped again and remained stationary for about 10 minutes.  This location was around 15 degrees to the east of the planet, Jupiter.  This was a partly cloudy night and the object was below the cloud ceiling as it was never obscured by the clouds.  I tried observing through binoculars but was too jerky to get a clear sighting.  It did, however, appear to be 2 red light with blinking blue or green lights through the binoculars.  There was no sound at all.  It then started to move slowly back south, would stop for a while, then proceed.   It seemed to pick up speed, as it traveled south out of view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134482.html](http://www.nuforc.org/webreports/reports/134/S134482.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Clinton Township (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>String of Orange lights acending the sky.After hearing the Booms which at first sounded like a lot of fireworks or a police shootout, we went outside looking east to see a line of orange lights that were spaced about 100ft apart looked to be ascending from South east to north - north east.  We tracked them until they dimmed past the cloud line.  Still hearing booms 30 minutes later but are more singular and no lights.  Selfridge ANG is about 20 miles North East. We thought could be rockets or missiles.  Also heard helicopters flying by</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98492.html](http://www.nuforc.org/webreports/reports/098/S98492.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/163/S163636.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163738.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163818.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163629.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163669.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
