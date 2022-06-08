@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:39:27 on 8 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:27:34 on 8 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Oxnard (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright as a star it silently flew overhead turned red then disappeared into the night sky.It was at 10:30 p.m. P.S.T. June 8th when I saw what seemed to be a plane flying south paralell with the coastline.As it moved closer it became really bright like a star at this point it was overhead and my girlfriend had just arrived.I told her to look up and she also saw this object traveling directly above us making no sound.It continued south but as it did the white light diminished and turned into an amber colored dot which quickly disappeared into the night sky. This happened on silverstrand beach in Oxnard, California which is right next to a naval C.B.C. base  and about 6 miles from Pt.Mugu naval airbase so I am used to seeing aircraft traffic overhead. I know for a fact it was not a plane because it was silent, super bright, and it disappeared into the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63799.html](http://www.nuforc.org/webreports/reports/063/S63799.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Tweed Heads (Australia) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Two groups of orange lights,lots of people saw themI had just finished teaching a ballet class & came out to waiting parents who were all looking at the sky. There was 2 groups of orange balls hovering to the east & west of the studio, At one stage 2 seemed to join together & then a plane took off in between them. one group eventually moved out to sea & the other group dissapeared into the clouds. The local paper the next day had a report from a man in Banora Point who saw what we did. I rang the paper & they said that heaps of people had rung but there were no explanations.The airport denied any knowledge of anything & the bureau of meteorology could not offer any explanation either.Id like to know what was seen on the plane, they had to have  seen them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44457.html](http://www.nuforc.org/webreports/reports/044/S44457.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/163/S163636.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163738.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163818.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163629.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163669.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
