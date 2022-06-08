@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:41 on 8 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:38 on 8 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Lafayette (LA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>First the space station, then another distinct light crossed it, hesitated and zigzagged opposite it until disappearing.We were watching the International Space Station cross the sky on its designated trajectory at the time reported by our local TV station weatherman.  As it disappeared into the NE sky, another smaller lighted object appearing to be higher and farther up from the station, intersected the path, coming from the SE, hesitated, then zigzagged at irregular speed then suddenly sped up and disappeared upwards and towards the NW.  The object was too distant and not as bright as the space station, but we definitely saw it as we stood looking upward.  We routinely watch for the station to pass over when the night is clear and the weatherman announces to look for it.  It was too far to make out any shape.  No photos, no video, it happened so fast; we were shocked, in disbelief, and because it was so far away,  I don't think getting an image w/ our phones would have been possible.  Just wondering if anyone else saw it. Looked like a distant shooting star but it was weaving back an forth on purpose, traveling opposite the normal orbit of the space station.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141778.html](http://www.nuforc.org/webreports/reports/141/S141778.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Welton (AZ) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>V shaped yellow lights in the southern sky south of Welton, AZ, on Thursday June 8, 2017, at 9:45pm.While merging back on the westbound I-8 from the Ligurta Truck Parking area, just west of Welton, AZ, between 9:30 and 10:00pm, Thursday, 6/8/17, I noticed a V-shaped cluster of yellow lights in the southern sky toward Mexico.  After a few seconds, they disappeared all at once with a slight decay.  It looked like someone had turned off distant, but powerful, lights, and it took a second for the filament to fully dim.  Could also have been them disappearing behind distant clouds. It was confusing and I thought maybe I had witnessed some sort of reflection onto my drivers side car window that went away as I drove.  I continuously looked into the southern sky, but never saw it again. About 20 minutes later, between Yuma, AZ and El Centro, CA, I noticed a pilot in a small propeller aircraft doing aggressive maneuvers in the night sky, intermittently turning on and off 2 lights on the ends of each wing of his plane.  Perhaps he was doing night time crop dusting.  I also later heard there was fire in the area so could have been dropping flame retardant as well.  As this is an agricultural area,  I assumed I has seen lights on the wings of crop dusting plane or planes.  But now not so sure after reading the other reports from further north at the same time.((NUFORC Note:  Source of the report elects to remain anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134576.html](http://www.nuforc.org/webreports/reports/134/S134576.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/163/S163636.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163738.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163818.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163629.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163669.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
