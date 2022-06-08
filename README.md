@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:49 on 8 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:37 on 8 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately several minutes - several minutes minutes.</sub><blockquote><sub>Red orb moving in slow, fluid elongated &quot;s&quot;  path. Orb was being chased by at least 3 helicopters over the 5 fwy running alonRed orb moving in slow, fluid elongated "s"  path. Orb was being chased by at least 3 helicopters over the 5 fwy running along zoo drive. We were driving south, Orb was being chased North.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151415.html](http://www.nuforc.org/webreports/reports/151/S151415.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Hudson (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Orange oval like moved from north to south south east in a row one after another 1-2 minutes apartStream Of 80 plus, lost count after 15 or so, large Orange glowing oval objects moved from North to South through the night Sky, some with Green Blue smaller orbs accompanying the individual objects.  Objects were spaced apart by 1-2 minutes, with at least 12 visible at one time across the sky.  The Stream of Orange glowing lights lasted about an hour and a half. The objects seemed to go to a higher altitude, almost disappearing, when an airplane approached its path, and then descended and returned to previous altitude.  There was also a considerable amount of regular airplane traffic at the time at which did not seem to be affected.  Time of first sitting (sic.  sighting) was between 9pm and 9:10pm and lasted till just after 10:30pm Eastern daylight Saving Time.  The orange objects were greatly larger than any airplane seen in the air at the time.  The speed of the objects crossing the sky from my view was about the rate of conventional aircraft, 3 to 4 minutes to cross the sky until fading out of view.  The motion seemed to be as smooth as silk, compared to watching a conventional airplane.  Have never seen anything like this before ever.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141776.html](http://www.nuforc.org/webreports/reports/141/S141776.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/163/S163636.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163738.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163818.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163629.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163669.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
