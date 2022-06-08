@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:45 on 8 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:43 on 8 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Tweed Heads (Australia) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Two groups of orange lights,lots of people saw themI had just finished teaching a ballet class & came out to waiting parents who were all looking at the sky. There was 2 groups of orange balls hovering to the east & west of the studio, At one stage 2 seemed to join together & then a plane took off in between them. one group eventually moved out to sea & the other group dissapeared into the clouds. The local paper the next day had a report from a man in Banora Point who saw what we did. I rang the paper & they said that heaps of people had rung but there were no explanations.The airport denied any knowledge of anything & the bureau of meteorology could not offer any explanation either.Id like to know what was seen on the plane, they had to have  seen them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44457.html](http://www.nuforc.org/webreports/reports/044/S44457.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Kalamazoo (MI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Red light observed hovering over Kalamazoo.As I was looking at the sky to the south, I observed a red light, with a flashing green or blue light, traveling from the south and heading northward.  At first, I thought it could be an airplane, but the red light was too large and bright.  It traveled in a straight line and stopped for a few seconds and remained stationary.  It then moved west a few degrees, before continuing on the original trajectory northward.  It then stopped again and remained stationary for about 10 minutes.  This location was around 15 degrees to the east of the planet, Jupiter.  This was a partly cloudy night and the object was below the cloud ceiling as it was never obscured by the clouds.  I tried observing through binoculars but was too jerky to get a clear sighting.  It did, however, appear to be 2 red light with blinking blue or green lights through the binoculars.  There was no sound at all.  It then started to move slowly back south, would stop for a while, then proceed.   It seemed to pick up speed, as it traveled south out of view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134482.html](http://www.nuforc.org/webreports/reports/134/S134482.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/163/S163636.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163738.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163818.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163629.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163669.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
