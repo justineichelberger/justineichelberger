@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:29 on 8 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:01:10 on 8 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Hunters Creek (FL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>2 pairs of 3 orange lights in delta formation in the night.At 9:45pm 6/8/2015, 3 orange lights in delta formation appeared stationary or slowly descending on horizon.  After telling another person on the phone about them, she too did see them (lives close by)  About 5 minutes after another 3 orange lights in delta formation appeared out of the blue right next to the first formation.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119423.html](http://www.nuforc.org/webreports/reports/119/S119423.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Van Buren (AR) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright lights over ArkansasMy husband and I often look at the stars each evening providing that it is not cloudy.  Approximately 10:00 p.m. We saw two separate lights about 45000 feet in the atmosphere moving without blinking lights only a bright white light moving across the sky, just faster than an airplane.  This is the second occasionin less than a month that we have observed such an occurance.  The other occasion was on April 22, 2003 about 11:00 p.m and then we had seen three lights across the sky with each going in different direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29105.html](http://www.nuforc.org/webreports/reports/029/S29105.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/163/S163636.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163738.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163818.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163629.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163669.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
