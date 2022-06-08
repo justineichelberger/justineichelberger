@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:45 on 8 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:36 on 8 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Puyallup (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Two orange balls of light, in slow orbit across sky in the early morning of Sun. June 8th 2014. Puyallup wa.I couldn’t sleep no matter how hard I tried, although I am a psychic medium and suffer from frequent sensitivity related insomnia, but I couldn’t shake the feeling that I was being watched/spoken to in ways I have never felt/heard.  I went outside around 2 am with my boyfriend, who I forcefully woke up to come with me as I smoked a cigarette when I witnessed 2 Reddish orbs slowly orbiting through the night sky about 10 minutes apart, in parallel areas of the sky.  No noise.  They weren’t like satellites or like shooting stars…I stared at them until they disappeared behind the clouds surrounding the moon.  They weren’t much larger in size than the normal bright white stars' they were moving around, stayed in one line of orbit-didn’t bounce around or make any turns.  No blinking, no light trail, no shift in apparent size.  When I say they were moving extremely slow I mean I watched each one go by for over 2 minutes each.  They both closely resembled mars in shape and color.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110146.html](http://www.nuforc.org/webreports/reports/110/S110146.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Zanesville (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>glowing white orb in the sky.For the second night in a row, within an hour of each other, I clearly saw a soft white glowing object high in the air.  I am unsure how high. It travelled slowly, slower than a typical aircraft.  The first night it did a half a cirlce, then continued north west.  The second night, it was moving very slowly in an eastern direction.  My fiancee noticed it first the second night, but we both saw it both nights.  This was very scary!   Also, no sound at all.((NUFORC Note:  Possible sighting of the ISS??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89459.html](http://www.nuforc.org/webreports/reports/089/S89459.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/163/S163636.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163738.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163818.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163629.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163669.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
