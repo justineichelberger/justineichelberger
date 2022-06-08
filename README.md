@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:35 on 8 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:29 on 8 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Prescott (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>On 6/8/08 a large dark triangular UFO spotted over Watson Lake, Prescott, AZ:.About 8:15 PM Sunday, June 8, 2008 I was driving north on Highway 89 in Prescott, AZ, along Watson Lake and I noticed a craft flying south about 30 to 50 feet above me and 50 to 100 feet to my right.  All my windows were down and so I know it made no sound.  It was dull dark gray and black, shaped like a triangle, much thicker in the center, even though the wing was also thick, with 2 or 3 dim colored lights along the edge (that I was able to see) and appeared very large as it was so close to me. It probably was at least 20 to 30 feet across. I saw it, from the right-hand upper corner of my windshield, just as it was passing me so I only saw it for a few seconds.  I was unable to pull off the road for about 1/3 mile and when I did it was gone.This is my first sighting and I am educator with a Masters in Education.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63873.html](http://www.nuforc.org/webreports/reports/063/S63873.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Hunters Creek (FL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>2 pairs of 3 orange lights in delta formation in the night.At 9:45pm 6/8/2015, 3 orange lights in delta formation appeared stationary or slowly descending on horizon.  After telling another person on the phone about them, she too did see them (lives close by)  About 5 minutes after another 3 orange lights in delta formation appeared out of the blue right next to the first formation.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119423.html](http://www.nuforc.org/webreports/reports/119/S119423.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/163/S163636.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163738.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163818.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163629.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163669.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
