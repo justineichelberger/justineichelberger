@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:27:34 on 8 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:09:08 on 8 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Tweed Heads (Australia) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Two groups of orange lights,lots of people saw themI had just finished teaching a ballet class & came out to waiting parents who were all looking at the sky. There was 2 groups of orange balls hovering to the east & west of the studio, At one stage 2 seemed to join together & then a plane took off in between them. one group eventually moved out to sea & the other group dissapeared into the clouds. The local paper the next day had a report from a man in Banora Point who saw what we did. I rang the paper & they said that heaps of people had rung but there were no explanations.The airport denied any knowledge of anything & the bureau of meteorology could not offer any explanation either.Id like to know what was seen on the plane, they had to have  seen them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44457.html](http://www.nuforc.org/webreports/reports/044/S44457.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Yazoo City (MS) reported seeing craft that fit the description of some '' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>At 12:05 AM on June 8 My wife and were Northbound on MS Hwy 3 approximately 10 miles South of Yazoo City when we observed a Bright Strobelike Light, with a yellow tint ahead of us seemingly on the roadway.This area is Delta and very flat terrain.As we were about 1000 feet from the Light it seemed to start moving rapidly to the Left and came by us approximately 200 to our let at a tremendous rate of speed.I could see the light flashing in my rear view mirror for about 2 more minutes.The object was never over 40 feet off the Ground. The Light was very Bright.I have been through this area many time and am familiar with the terrain.  There was no Sound . I did not see anything other than the Light.I would it covered a Mile in about one second.((NUFORC Note:  We spoke via telephone with this witness, and we found him to be sober-minded, and seemingly quite credible as a witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63759.html](http://www.nuforc.org/webreports/reports/063/S63759.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/163/S163636.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163738.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163818.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163629.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163669.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
