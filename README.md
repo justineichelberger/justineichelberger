@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:09:08 on 8 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:01:38 on 8 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Yazoo City (MS) reported seeing craft that fit the description of some '' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>At 12:05 AM on June 8 My wife and were Northbound on MS Hwy 3 approximately 10 miles South of Yazoo City when we observed a Bright Strobelike Light, with a yellow tint ahead of us seemingly on the roadway.This area is Delta and very flat terrain.As we were about 1000 feet from the Light it seemed to start moving rapidly to the Left and came by us approximately 200 to our let at a tremendous rate of speed.I could see the light flashing in my rear view mirror for about 2 more minutes.The object was never over 40 feet off the Ground. The Light was very Bright.I have been through this area many time and am familiar with the terrain.  There was no Sound . I did not see anything other than the Light.I would it covered a Mile in about one second.((NUFORC Note:  We spoke via telephone with this witness, and we found him to be sober-minded, and seemingly quite credible as a witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63759.html](http://www.nuforc.org/webreports/reports/063/S63759.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Steady, silent moving light moving over Northeast Austin, and vanishing.Spotted movement in the night sky which I thought was a star, but was actually much closer. It was moving steady, and silently across the sky. I pointed it out to my husband and he instantly knew it wasn't a joke. No lights flashing, just bright, steady, and silent. I ran for the binoculars looked through and focused but didn't help enough to see any more detail. I was handing the binoculars to him while we where both looking up and we saw it dim and dim more and then it disappeared.((NUFORC Note:  Probably ISS.  Please see table below.  PD))Date Mag Starts Max. altitude Ends Time Alt. Az. Time Alt. Az. Time Alt. Az. 7 Jun 0.1 21:42:40 10 N  21:44:26 15 NE  21:45:31 13 ENE 8 Jun -2.0 22:03:52 10 NW  22:06:42 52 NE  22:06:46 52 NE  9 Jun 0.1 20:51:57 10 N  20:53:36 14 NE  20:55:16 10 ENE 9 Jun -0.5 22:26:09 10 WNW 22:28:05 26 WSW 22:28:05 26 WSW 10 Jun -1.9 21:13:03 10 NNW 21:15:51 48 NE  21:18:08 14 ESE 11 Jun -1.0 21:35:14 10 WNW 21:37:51 31 SW  21:39:34 17 S  13 Jun -1.0 20:44:18 10 WNW 20:46:58 34 SW  20:49:36 10 SSE</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63771.html](http://www.nuforc.org/webreports/reports/063/S63771.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/163/S163636.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163738.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163818.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163629.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163669.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
