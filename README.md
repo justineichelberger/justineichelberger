@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:01:38 on 8 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:40 on 8 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Steady, silent moving light moving over Northeast Austin, and vanishing.Spotted movement in the night sky which I thought was a star, but was actually much closer. It was moving steady, and silently across the sky. I pointed it out to my husband and he instantly knew it wasn't a joke. No lights flashing, just bright, steady, and silent. I ran for the binoculars looked through and focused but didn't help enough to see any more detail. I was handing the binoculars to him while we where both looking up and we saw it dim and dim more and then it disappeared.((NUFORC Note:  Probably ISS.  Please see table below.  PD))Date Mag Starts Max. altitude Ends Time Alt. Az. Time Alt. Az. Time Alt. Az. 7 Jun 0.1 21:42:40 10 N  21:44:26 15 NE  21:45:31 13 ENE 8 Jun -2.0 22:03:52 10 NW  22:06:42 52 NE  22:06:46 52 NE  9 Jun 0.1 20:51:57 10 N  20:53:36 14 NE  20:55:16 10 ENE 9 Jun -0.5 22:26:09 10 WNW 22:28:05 26 WSW 22:28:05 26 WSW 10 Jun -1.9 21:13:03 10 NNW 21:15:51 48 NE  21:18:08 14 ESE 11 Jun -1.0 21:35:14 10 WNW 21:37:51 31 SW  21:39:34 17 S  13 Jun -1.0 20:44:18 10 WNW 20:46:58 34 SW  20:49:36 10 SSE</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63771.html](http://www.nuforc.org/webreports/reports/063/S63771.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Voorhees (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Star looking object Splits Into TwoI went outside to my car to get a smoke and for some reason I looked up. I look at the stars all the time so I am familier with the shape, color, and hieght of everyday stars. I was looking striaght into the air when the "star" was one and suddenly split in two, while one stayed stationary the other moved North west at a visable speed than burned out slowly. I am 100% sure at what I saw, and I can not explain it. This object had the same characteristics of a normal bright white star.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63766.html](http://www.nuforc.org/webreports/reports/063/S63766.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/163/S163636.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163738.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163818.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163629.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163669.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
