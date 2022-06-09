@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:58 on 9 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:43 on 9 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Yakima (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>bright, white, star-like object, moving silently west to east in the northern sky over Ahtanum, WAAround 2:40 am on June 9, 2011, I went out on my back porch (on the north side of my house) for a smoke before bed.  I immediately saw a very bright star-like object directly in front of me, to the right (east) of the Big Dipper, below the bottom right star in the dipper part.  It was moving quickly, but not flashing like an airplane light.  I could not hear a sound from it, which I would have if it were an airplane, because this is a rural area, and it was very quiet out at the time.  It was about as high as a small plane would be flying also, so I definitely would have heard the engine.  The light moved to the east, and went behind my poplar trees, so I lost track of it after a few seconds.  I kept looking for it to come out from behind the trees, but never did see it.  It was brighter than any satellites I have ever seen, so I doubt it could have been one.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81702.html](http://www.nuforc.org/webreports/reports/081/S81702.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Jamestown (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately minute - minute minutes.</sub><blockquote><sub>3 red lights and one white light moving fast in the clear night skyOn 06/09/2012  at approx.1055PM my Husband and I were returning home and as I got out of the car I could see 2 red lights over the neighbors garage moving quickly north east in the sky.  One was directly behind the other over the neighbors garage at about 1 o'clock.  I heard no noise or motor like a plane, jet, or helicopter.  I yelled to my husband to look and he ran closer and attempted to take a picture with his cell phone.  The 2 red lights were followed by another red light as it flew and came into view over the garage followed by a white light.  It appeared as though they were flying one behind the other in equal distance.  One by one they disappeared from my view because of the street tree line and I did not see where they went from there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89494.html](http://www.nuforc.org/webreports/reports/089/S89494.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/163/S163647.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163671.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163634.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163632.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165547.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
