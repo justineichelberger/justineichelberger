@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:36 on 9 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:42 on 9 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Avondale (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Strange zig-zagging object traveling from S.W. to N.E.I was in my back yard when I looked up (as I frequently do), and noticed an object almost straight overhead moving from the South West to the North East.  There was a lot of commercial airline traffic in the area although none were close to the object.  We live almost directly in the west flight path for Sky Harbor. In any case, the object was zig-zagging overhead as it moved in the direction indicated.  I know it was not commercial aircraft or any aircraft I am familiar with.  It could not have been a planet or star, and it was not dark enough to see satellites as they move in their orbits.  The object looked as if maybe sunlight was reflecting off of it, so I suppose you would call it silver in color. It appears the object was extremely high as it was about the size of a dull pencil point held at arms length.  Of course, there was no noise.  I called my wife out of the house to observe the object, and make sure my eyes were not playing tricks on me and she confirmed that it was in fact zig-zagging.  Unfortunately, I could not get my telescope before the object disappeared.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29171.html](http://www.nuforc.org/webreports/reports/029/S29171.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Indianapolis (IN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Acorn shaped object with light on bottomOn 6/9/11, at 9:30PM, near eastside of Indianapolis, I was outside looking toward the western sky.I observed a dark acorn shaped object moving west to east slowly.  It had a large white light on the bottom that seemed to swivel or rotate. I heard no sound.I watched it move across the sky for approx. 10 minutes before I decided to go inside my workplace and get a co-worker to see it.  When I went back outside (approx. 5 min), It was gone.I feel this object was probably explainable, but interesting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81712.html](http://www.nuforc.org/webreports/reports/081/S81712.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/163/S163647.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163671.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163634.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163632.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165547.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
