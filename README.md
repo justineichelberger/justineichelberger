@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:07:41 on 9 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:01:44 on 9 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Tacoma (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>At about 3 PM on Sunday afternoon a friend and I were lying in the backyard doing a crossword puzzle and I just looked up into the sky, a bright, clear, blue sky, and saw what appeared to be stars.  I thought this was very strange - could they be birds, seed pods, planes, and kept asking my friend if he could see them.  He could not see anything. There were probably 40 or 50 "stars" moving slowly toward the east - they were forming different patterns as they moved (circles, chevrons, orion). At one point a plane flew across the sky below them so they were pretty high.  The movement of these objects was sideways and backwards and circular and they formed patterns.  I don't know of any birds that fly that way or seedpods that would be visible at such a high altitude. I have very good vision, have flown quite a bit and have never seen anything like this before. I am also a skeptic but I was totally blown away by this.  After I watched these "stars" for about 5-10 minutes they simply faded up into the sky as if they were moving away and upward.  Has anyone seen anything like this?((NUFORC Note:  We spoke at length with this witness, and we found her to be quite lucid in her description of the event.  She apparently has considerable experience in the aviation industry, as well.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23231.html](http://www.nuforc.org/webreports/reports/023/S23231.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Prosper (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Perfectly round, translucent, iridescent, thin disc seen flying silently above the houses in my neighborhood.  Disappeared behind some trees next to our house.  Wife and I both saw it only 100 feet away for about a minute before it disappeared.  Around 8 feet in diameter.  “Floating” erratically but still with direction on a windless night.  Thought it was a drone, but no sound, and was very thin.  Had a shimmer across the whole round surface like an infrared camera at night when it caught the light at a certain angle, but at other angles was translucent like a jellyfish.  Very strange indeed.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141797.html](http://www.nuforc.org/webreports/reports/141/S141797.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/163/S163647.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163671.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163634.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163632.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165547.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
