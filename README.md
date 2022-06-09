@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:35 on 9 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:10:49 on 9 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Little Rock (AR) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>THE CRAFT WAS A SAUCER SHAPE WITH THE OUTER CIRCLE BEING LIT WITH A PROMINENT LIGHTING.   THERE WAS A WHISTLE NOISE WHICH CAUGHT MY REACTION TO LOOK UP JUST IN TIME TO SEE THE SWIFT LITE MAKE AN S SWOOP.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98509.html](http://www.nuforc.org/webreports/reports/098/S98509.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Auburn (WA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>3 Lights Flashing in Auburn, WashingtonI was on the phone and stepped outside for a smoke.  I looked up to see if any stars were out, and noticed a bright light.  The light was steady, and not moving from the spot I first noticed it, and began to flash.  At first I thought it was a plane, since we have the airport nearby, but this light was simply not moving.  I don't believe it was a plane.  After about 5 seconds of flashing, the light disappeared. Seconds later, two other lights appeared, roughly 3 finger's width apart (and to the left) from where the previous one appeared.  These two traveled slowly in formation (one in front of the other) for roughly 10 seconds.  The first one then slowly cut off it's lights, followed shortly thereafter by the one behind it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70416.html](http://www.nuforc.org/webreports/reports/070/S70416.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/163/S163647.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163671.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163634.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163632.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165547.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
