@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:41 on 9 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:40 on 9 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Chula Vista (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>they were very visable as if they were at the same level that planes fly at.But they moved realy fast.The light seemed to follow them!I was walking out to let my dog use the bathroom in the bushes when a bright orange/ish w/ blue lights (was very noticable) caught the corner of my eye! When i looked up the object had moved in a glimpse movement.It was in one spot, then another and then another. After those three movements,it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37523.html](http://www.nuforc.org/webreports/reports/037/S37523.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Hopewell (VA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>It was a bright sphere like objectMy kids and I were at city park swimming and my son ask how high could birds fly. Due to all the Vultures that were flying over head. I told him pretty high, as my son had seen one really high something had caught my eye. Just beyond where the bird was flying, was a stationary object that look like a sphere near the edge of the clouds. It was to the NE of where we were swimming around 30 thousand ft. I pointed it out to my kids and other kids that were with us, which everyone at this time saw it. It would get bright for a second then dim out to where you couldn’t  see it then appear again. We had watched for about 10 mins until it disappeared into some dense clouds and we couldn’t see it anymore. We had stayed another 20 mins hoping we would see it again, but nothing appeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156980.html](http://www.nuforc.org/webreports/reports/156/S156980.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/163/S163647.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163671.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163634.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163632.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165547.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
