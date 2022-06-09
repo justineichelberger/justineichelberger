@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:04:38 on 9 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:41 on 9 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1980, an anonymous witness in Pinelands (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>We were having a bonfire in the woods.  Then this light was coming towards us there was no sound or anything.  Then it just came and was right above us.  It was big it looked like nothing we’ve ever seen.  The color was a old copper with black on it.  It had no windows. It’s really hard to explain but I can remember to this day Exactly.  It looked like heavy steel it was made of.  Then it stayed over us for a good minute.  Then just took off with not a sound.  Then it was gone</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147221.html](http://www.nuforc.org/webreports/reports/147/S147221.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Chula Vista (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>they were very visable as if they were at the same level that planes fly at.But they moved realy fast.The light seemed to follow them!I was walking out to let my dog use the bathroom in the bushes when a bright orange/ish w/ blue lights (was very noticable) caught the corner of my eye! When i looked up the object had moved in a glimpse movement.It was in one spot, then another and then another. After those three movements,it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37523.html](http://www.nuforc.org/webreports/reports/037/S37523.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/163/S163647.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163671.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163634.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163632.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165547.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
