@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:42 on 9 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:04:38 on 9 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Indianapolis (IN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Acorn shaped object with light on bottomOn 6/9/11, at 9:30PM, near eastside of Indianapolis, I was outside looking toward the western sky.I observed a dark acorn shaped object moving west to east slowly.  It had a large white light on the bottom that seemed to swivel or rotate. I heard no sound.I watched it move across the sky for approx. 10 minutes before I decided to go inside my workplace and get a co-worker to see it.  When I went back outside (approx. 5 min), It was gone.I feel this object was probably explainable, but interesting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81712.html](http://www.nuforc.org/webreports/reports/081/S81712.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1980, an anonymous witness in Pinelands (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>We were having a bonfire in the woods.  Then this light was coming towards us there was no sound or anything.  Then it just came and was right above us.  It was big it looked like nothing we’ve ever seen.  The color was a old copper with black on it.  It had no windows. It’s really hard to explain but I can remember to this day Exactly.  It looked like heavy steel it was made of.  Then it stayed over us for a good minute.  Then just took off with not a sound.  Then it was gone</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147221.html](http://www.nuforc.org/webreports/reports/147/S147221.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/163/S163647.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163671.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163634.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163632.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165547.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
