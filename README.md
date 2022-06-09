@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:27:27 on 9 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:07:41 on 9 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Detroit (OR) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>While taking a scenic photo of Mt. Jefferson, looking south.  I noticed a silver sphere motionless and no sound for approx 5 minutes,  I looked away for a moment and when I looked back it was gone, I got a picture of it.((NUFORC Note:  Witness does not send photo; elects to remain totally anonymous, so we are unable to contact him/her in order to have the photo forwarded to our Center!!  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146736.html](http://www.nuforc.org/webreports/reports/146/S146736.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Tacoma (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>At about 3 PM on Sunday afternoon a friend and I were lying in the backyard doing a crossword puzzle and I just looked up into the sky, a bright, clear, blue sky, and saw what appeared to be stars.  I thought this was very strange - could they be birds, seed pods, planes, and kept asking my friend if he could see them.  He could not see anything. There were probably 40 or 50 "stars" moving slowly toward the east - they were forming different patterns as they moved (circles, chevrons, orion). At one point a plane flew across the sky below them so they were pretty high.  The movement of these objects was sideways and backwards and circular and they formed patterns.  I don't know of any birds that fly that way or seedpods that would be visible at such a high altitude. I have very good vision, have flown quite a bit and have never seen anything like this before. I am also a skeptic but I was totally blown away by this.  After I watched these "stars" for about 5-10 minutes they simply faded up into the sky as if they were moving away and upward.  Has anyone seen anything like this?((NUFORC Note:  We spoke at length with this witness, and we found her to be quite lucid in her description of the event.  She apparently has considerable experience in the aviation industry, as well.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23231.html](http://www.nuforc.org/webreports/reports/023/S23231.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/163/S163647.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163671.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163634.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163632.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165547.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
