@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:01:10 on 8 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:34 on 9 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Van Buren (AR) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright lights over ArkansasMy husband and I often look at the stars each evening providing that it is not cloudy.  Approximately 10:00 p.m. We saw two separate lights about 45000 feet in the atmosphere moving without blinking lights only a bright white light moving across the sky, just faster than an airplane.  This is the second occasionin less than a month that we have observed such an occurance.  The other occasion was on April 22, 2003 about 11:00 p.m and then we had seen three lights across the sky with each going in different direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29105.html](http://www.nuforc.org/webreports/reports/029/S29105.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Arlington (VA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Three Silent Objects with Colored Contrails in Broad Daylight over the Skys of Arlington VirginiaProceeding Eastbound on Route 66. Took Fairfax Drive/Glebe Road Exit.  While stopped in traffic at light at intersection of Fairfax Drive and Glebe Road, looking Eastward, I was surprised to see multiple objects in front of me, at an elevation of about 45 degrees and an elevation of about 1,500 feet. Ultimately, I counted three objects. Each of which was followed by a long, twisted, winding contrail, of perhaps 1,000 feet or more. The contrails were identical for each object, but were not the typical contrail from condensation of water vapor. Rather, they were brown/reddish in color. The three objects moved helter skelter, crossing each other's paths. I initially thought that they might be helicopters that had been struck by surface to air missiles (very reminiscent of a scene in "London has Fallen."  But there was no sound.  Then I saw what appeared to be a regular airplane in the nearby area--it was a mid-sized plane with what appeared to be a fi! xed (non-retracted) nose landing gear. This led me to think that perhaps the objects were "sky divers" or hang-gliders.  But the airplane was oblivious and in an instant, two of the objects--and their contrails--vanished.  Only one object remained.  Then it and its contrail also vanished.  I had a smartphone and thought of taking a picture; but I fumbled around unable to figure out how to use and it was too late anyway.  I called my friend as the matter was unfolding and asked if he was aware of what I had just seen.  He was not and said he would check the news.  Very odd as I thought the objects were in restricted airspace.  I suggested that maybe it had been a publicity stunt.  I'm reporting for what it's worth in case no one else does. This happened in broad daylight, in plain view. I would be surprised if it was not observed by many people in addition to myself.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163634.html](http://www.nuforc.org/webreports/reports/163/S163634.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/163/S163636.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163738.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163818.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163629.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163669.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
