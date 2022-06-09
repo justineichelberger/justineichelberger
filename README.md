@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:43 on 9 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:45 on 9 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Jamestown (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately minute - minute minutes.</sub><blockquote><sub>3 red lights and one white light moving fast in the clear night skyOn 06/09/2012  at approx.1055PM my Husband and I were returning home and as I got out of the car I could see 2 red lights over the neighbors garage moving quickly north east in the sky.  One was directly behind the other over the neighbors garage at about 1 o'clock.  I heard no noise or motor like a plane, jet, or helicopter.  I yelled to my husband to look and he ran closer and attempted to take a picture with his cell phone.  The 2 red lights were followed by another red light as it flew and came into view over the garage followed by a white light.  It appeared as though they were flying one behind the other in equal distance.  One by one they disappeared from my view because of the street tree line and I did not see where they went from there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89494.html](http://www.nuforc.org/webreports/reports/089/S89494.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Brooks (Canada) (AB) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1:30 - 1:30 minutes.</sub><blockquote><sub>We thought it's a Star but it is a moving Star. spinning, fast, slow, stop, wavy moving look like starI just like to report sightings here at Brooks, AB, Last Night around 11:00 pm till 12:30am.While my wife is washing our dishes before going to sleep around 11:00 pm she saw something out the window, moving flying star, then she told me while im feeding our pet fish, then she go out and check and "it was there" "come take a look quick" she said, then I go out to our deck and saw it,  it was look like a start but its twice brighter, then it stops then few minutes it moves again until it went gone for 2 minutes.  After 2-3 minutes another one on a wavy movement then it stop then move straight then stop then move again it took like 3-4 minutes on our view area but this time its thrice the briteness of the star, while seeing this second thing across it we saw another one spinning around on a circle movement then stop then again. on our back corner we saw 2 moving at the same time then stop then move, then saw another one again, the say is very clear, tried to capture it through our iphone and ipads but cant see it on a video, we tried to capture it a!so through nikon s01 but is is very small and not clear, took of my scope on my sniper rifle and look through it but it just became bigger like 5%.  Called RCMP after we saw 7 moving object in less than 30 minutes, let them saw the video from our nikon camera.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98550.html](http://www.nuforc.org/webreports/reports/098/S98550.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/163/S163647.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163671.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163634.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163632.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165547.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
