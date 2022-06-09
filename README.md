@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:36 on 9 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:35 on 9 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Atlanta (GA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Can be seen on Google maps at this location:XXXX Kings Gap Rd Hamilton GA 31811-XXXX United StatesWhile searching an address on Google maps I saw an object above the trees at this location: XXXX Kings Gap Rd Hamilton GA 31811-XXXX United States. don't know if it's been reported before but it's there for everyone to see.  just put the address in Google maps and pan around the sky</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89504.html](http://www.nuforc.org/webreports/reports/089/S89504.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Little Rock (AR) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>THE CRAFT WAS A SAUCER SHAPE WITH THE OUTER CIRCLE BEING LIT WITH A PROMINENT LIGHTING.   THERE WAS A WHISTLE NOISE WHICH CAUGHT MY REACTION TO LOOK UP JUST IN TIME TO SEE THE SWIFT LITE MAKE AN S SWOOP.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98509.html](http://www.nuforc.org/webreports/reports/098/S98509.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/163/S163647.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163671.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163634.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163632.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165547.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
