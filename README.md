@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:39:29 on 9 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:27:27 on 9 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Lucedale (MS) reported seeing craft that fit the description of some 'Flash' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>was setting on my porch last night with my daughter and wife when we heard a very loud aircraft sound to the north and then silent.   the sound was so close it made our windows shake.  I stepped off into the yard and by this time the sound was gone but i spotted 3 lights flashing  hovering i would say about 1000 feet above me.  i called my daughter and my wife over to see them flashing and the lights started to split apart and to of them moved to the left of us in the sky as one of them started moving in an unnatural way the other one started blinking bright random colors and then shot off very fast.  shortly after the dogs around our neighborhood started barking like crazy.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127786.html](http://www.nuforc.org/webreports/reports/127/S127786.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Detroit (OR) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>While taking a scenic photo of Mt. Jefferson, looking south.  I noticed a silver sphere motionless and no sound for approx 5 minutes,  I looked away for a moment and when I looked back it was gone, I got a picture of it.((NUFORC Note:  Witness does not send photo; elects to remain totally anonymous, so we are unable to contact him/her in order to have the photo forwarded to our Center!!  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146736.html](http://www.nuforc.org/webreports/reports/146/S146736.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/163/S163647.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163671.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163634.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163632.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165547.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
