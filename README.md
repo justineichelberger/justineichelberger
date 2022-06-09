@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:36 on 9 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:52 on 9 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Istanbul (Turkey) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>UFO over Blue Mosque and Theodosius Obelisks, Istanbul, TurkeyI was walking next to the Obelisk (there are three with in meters of each other there and the Mosque is where you see all the sea gulls flying) and I noticed a red ball way up in the sky.  I watched it for a minute.  It was moving erratic so I pulled out my camera to try and catch it on video.  It slowed down and then disappeared.  It was completely silent.  I heard a jet coming up behind me, and he passed right by where it disappeared, but sorry I stopped filming before that.((NUFORC Note:  Video, at the link provided below, indicates a single light, possibly orange, which appears to be hovering in a clear nighttime sky.  We do not know what the object was.      https://www.youtube.com/watch?v=yvmVEnFGocQPD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119444.html](http://www.nuforc.org/webreports/reports/119/S119444.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Adamsville (AL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Evening sighting, one spherical object, two witnesses.A UFO was sighted from the coordinates 33.59/-86.92 on the evening of June 9, 2008 8:36 pm CST in the southeastern sky, at a near distance, approximately 40 degrees above the horizon line. At first the object appeared to be an ordinary much like a planet or star in the night sky.  The spherical object was clearly visible and if estimating the size based on distance would have appeared to be the size of a quarter. The object began to move slowly south, doubled in size, and a golden constant glow began to intensify around the object. The object did not have flashing lights like other aircraft.  At first the object’s movement can be characterized as a slow pendulum swinging from side to side.  The circumference of golden light appeared to increase and decrease much like a pupil of one’s eye. Finally from a static position the object began to quickly move due east into the distance retracting immediately into a small pin point of bright light and then disappeared completely. The event lasted for approximately two minutes. Note: The weather was clear with good visibility; thunderstorms were developing with lighting present 30 miles southeast of the sighting location.((NUFORC Note:  Witness elects to remain totally anonymous, except for e-address.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63801.html](http://www.nuforc.org/webreports/reports/063/S63801.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/163/S163647.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163671.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163634.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163632.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165547.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
