@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:48 on 9 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:36 on 9 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>4 quickly moving red lights in the NW sky just to the right of Venus.I only saw 4 red lights, there may have been more.  They moved very quickly in and out of formations such as a V like geese.  Shortly went out of view perhaps moving towards the Nevada Test site?  I observed them from Buffalo and Lone Mtn intersection.  About a minute later after arriving at home, they had disappeared, but a group of 4 Nellis fighters were flying in the direction the lights were seen.  Shortly after that, another group of 4 fighters headed in the same direction.  The flashing lights of the fighters were seen to eventually head first west from the AFB, but ended up more N above the Sheep Mtn Rng. These objects appear to be the same ones I heard Peter D on Art Bell's show tonight (6/9) describe by another person(s).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07980.html](http://www.nuforc.org/webreports/reports/007/S07980.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Atlanta (GA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Can be seen on Google maps at this location:XXXX Kings Gap Rd Hamilton GA 31811-XXXX United StatesWhile searching an address on Google maps I saw an object above the trees at this location: XXXX Kings Gap Rd Hamilton GA 31811-XXXX United States. don't know if it's been reported before but it's there for everyone to see.  just put the address in Google maps and pan around the sky</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89504.html](http://www.nuforc.org/webreports/reports/089/S89504.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/163/S163647.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163671.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163634.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163632.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165547.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
