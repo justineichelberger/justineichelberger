@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:10:49 on 9 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:58 on 9 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Auburn (WA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>3 Lights Flashing in Auburn, WashingtonI was on the phone and stepped outside for a smoke.  I looked up to see if any stars were out, and noticed a bright light.  The light was steady, and not moving from the spot I first noticed it, and began to flash.  At first I thought it was a plane, since we have the airport nearby, but this light was simply not moving.  I don't believe it was a plane.  After about 5 seconds of flashing, the light disappeared. Seconds later, two other lights appeared, roughly 3 finger's width apart (and to the left) from where the previous one appeared.  These two traveled slowly in formation (one in front of the other) for roughly 10 seconds.  The first one then slowly cut off it's lights, followed shortly thereafter by the one behind it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70416.html](http://www.nuforc.org/webreports/reports/070/S70416.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Yakima (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>bright, white, star-like object, moving silently west to east in the northern sky over Ahtanum, WAAround 2:40 am on June 9, 2011, I went out on my back porch (on the north side of my house) for a smoke before bed.  I immediately saw a very bright star-like object directly in front of me, to the right (east) of the Big Dipper, below the bottom right star in the dipper part.  It was moving quickly, but not flashing like an airplane light.  I could not hear a sound from it, which I would have if it were an airplane, because this is a rural area, and it was very quiet out at the time.  It was about as high as a small plane would be flying also, so I definitely would have heard the engine.  The light moved to the east, and went behind my poplar trees, so I lost track of it after a few seconds.  I kept looking for it to come out from behind the trees, but never did see it.  It was brighter than any satellites I have ever seen, so I doubt it could have been one.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81702.html](http://www.nuforc.org/webreports/reports/081/S81702.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/163/S163647.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163671.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163634.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163632.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165547.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
