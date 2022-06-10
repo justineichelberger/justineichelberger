@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:33 on 10 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:50 on 10 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Salem (OR) reported seeing craft that fit the description of some 'Flash' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>06/10/2015, Salem, Oregon, Flash, 2-3 minutes at the most, bright flashes in the sky, 06/10/2015I saw a bright flash to the North.  I called my son out to see it and within a minute we saw another bright flash, it had moved quite far in that time, and was seen in the northeast sky.  Within 10 seconds another bright flash which would make one to believe it was heading in a northeast direction, again, a great distance from the previous flash.  After that we didn't see it anymore.These are large flashes of light and I have been seeing them for a number of years now and I have never seen anyone reporting in them.  The bright flash does not always stay "on course", I've seen many nights that it wifi start in the north, appear next to the east, then back to the northwest.Also, based on the timing of the flashes, this light is moving much faster than an airplane or satellite, or the space station.  In fact, I've seen the light on nights when the space station is not flying over our state.I marked 1-3 crafts due to the fact of distance moved between each flash.  Maybe I'm not seeing one flash flashing 3 times but maybe 3 flashes slashing 1time.  (Does that make sense?"</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119482.html](http://www.nuforc.org/webreports/reports/119/S119482.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Golden Valley (MN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Myself, my daughter and her friend were driving in our neighborhood. I was going to make a turn and while I was looking to my left to see if it was clear to make my turn, I noticed what I initially thought was a street light, but quickly discerned that this orb was moving from east to west alongside and parallel with the road I was about to make a right turn onto.  I watched as it came closer to where I was.  It was the same color and almost the same intensity as those orange street lights.  I didn't want to lose it and wanted a better look so I quickly made the turn and had to take an immediate left onto my street.  I pulled over, shut my car off and got out of my car so I could see if there was any breeze like maybe it was a lantern.  No,it wasn't.  It was approximately slightly larger than one of those exercise balls (though it's difficult to determine size and how high it was ).  It seemed to be approximately 50-100 ft in the air.  Noiseless, floating against ! the breeze turned toward the south and then the light went out as soon as it was almost directly above me and I could still see there was some structure but very dark and as it moved away from me I lost track of where it was.  My mind wanted to go to every LOGICAL explanation.  It was NOT ball lightening, swamp gas, drone, I cannot come up with anything that fits.  I should have reported it sooner, but I feel if anyone else saw it I don't want them to feel alone or like they're crazy because we saw it too!((NUFORC Note:  Source of report indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144022.html](http://www.nuforc.org/webreports/reports/144/S144022.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [420](http://www.nuforc.org/webreports/reports/163/S163767.html)
-- [419](http://www.nuforc.org/webreports/reports/163/S163768.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163821.html)
-- [417](http://www.nuforc.org/webreports/reports/163/S163655.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163651.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
