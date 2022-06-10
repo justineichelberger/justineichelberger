@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:50 on 10 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:01:05 on 10 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Evansville (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Extremely bright orange ring with yellow, fiery center seen over Southern IndianaObject was a bright orange ring with what looked like fire in the center that was bright yellow.  Object moved at same speed and height of commercial aircraft but left no contrail and made no sound.This was no comet or meteor. There was no trail or debris.I have never seen anything as bright as this! I witnessed this with my wife and 3 children.  Object traveled from South to North, seen for 5 full minutes before entering rain clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75750.html](http://www.nuforc.org/webreports/reports/075/S75750.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1966, an anonymous witness in Hickory (NC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>DISK SHAPED CRAFT IN SKYME AND MY BROTHER AND SISTER WERE WATCHING TV IN THE LIVING ROOM. MY MOTHER WAS IN THE KITCHEN TALKING TO A FRIEND ON THE TELEPHONE. THE KITCHEN LITE WAS OFF BUT IT WAS NOT DARK IN THERE. MY MOTHER CALLED FOR US KIDS TO COME INTO THE KITCHEN TO LOOK AT SOMETHING. SHE SAID SHE HAD BEEN LOOKING AT THIS SMALL LITE IN THE SKY OUT THE KITCHEN WINDOW WHILE SHE WAS TALKING ON THE PHONE. THE LITE HAD BEEN GETTING BIGGER BECAUSE IT WAS GETTING CLOSER TO THE HOUSE. IT WAS PROBABLY ABOUT 9 PM SO THE SKY WAS DARK. WHAT REALLY GOT HER INTERESTED IN THE LITE WAS IT WOULD MOVE AND THEN STOP IN THE SKY FOR A FEW MINUTES THEN MOVE AGAIN. BY THE TIME SHE CALLED US IN THE KITCHEN YOU COULD SEE ABOUT 10 WHITE LITES AROUND THE OBJECT. THE CRAFT HAD NO BLINKING LITES OR COLORED LITES ON IT LIKE A REGULAR PLANE OR HELICOPTER HAS. THE CRAFT WAS NOW JUST SITTING STILL UP IN THE SKY. IT IS HARD TO TELL HOW CLOSE IT WAS BUT I WOULD ESTIMATE ANYWHERE BETWEEN 1/4 MILE TO 1 MILE AWAY DEPENDING ON ITS SIZE. THE CRAFT THEN SLOWLY TURNED WHERE THE FRONT OR THE BRIGHTEST LITES WERE FACING US. THE ROOM FILLED WITH LITE FROM THE CRAFT AND CAST MY SHADOW ON THE BACK WALL. I GOT REALLY SCARED LIKE THIS CRAFT KNEW WE WERE WATCHING IT. IT THEN SLOWLY ROTATED A QUARTER TURN AND STARTED MOVING PARALLEL AND AWAY FROM US. WHEN IT TURNED YOU COULD REALLY TELL IT WAS CIRCULAR IN SHAPE. IT WAS OUT OF SIGHT IN A FEW MINUTES AND WE NEVER SAW IT AGAIN. MY MOTHER CALLED THE AIRPORT TO SEE IF THERE WAS A FLIGHT PLAN FOR ANY AIRCRAFT OVER OUR AREA. WE LIVED ON HUFFMAN COVE ROAD IN NORTH HICKORY. THE AIRPORT SAID THERE WAS NOT SUSPOSED TO BE ANY AIR CRAFTS IN THE AREA AT THAT TIME. IT REALLY DIDNT MATTER WHAT THEY TOLD US BECAUSE THIS WAS NO CRAFT LIKE WE HAD EVER SEEN BEFORE. I TALKED TO MY MOTHER THE OTHER NITE ABOUT THE OBJECT AND THE ONE THING THAT STANDS OUT IN OUR MINDS IS HOW WHEN IT TURNED TOWARDS US WE ALL HAD THE ERIE FEELING THAT THIS THING NEW WE SAW IT. WE WILL NEVER FORGET THIS EXPIRENCE.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12026.html](http://www.nuforc.org/webreports/reports/012/S12026.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [420](http://www.nuforc.org/webreports/reports/163/S163767.html)
-- [419](http://www.nuforc.org/webreports/reports/163/S163768.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163821.html)
-- [417](http://www.nuforc.org/webreports/reports/163/S163655.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163651.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
