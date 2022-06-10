@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:05:51 on 10 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:01:03 on 10 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Harrisonburg (VA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>June 10-12 saw bright light stopping and going;dissapearing while watching; assumed satellites changing direction6-10-08 I went out on the back porch to smoke a cigarette around 9pm and while doing that I looked up at the sky like I usually do hoping to see a shooting star because I live out in the boonies somewhat, so I can see the whole sky really good.  What caught my attention was a bright light up and southward, I said “wow that sure is a big bright star” after looking at it about 2-3 seconds it started moving south for about 3-4 seconds then it stopped for 1-2 seconds then started moving again for about 2-3 seconds then stopped again for 1-2 seconds,  at that time I was right outside the door so I rushed in to grab my binoculars, because that was just weird, which took about 3 seconds, when I came back out and looked at it was still moving south for about 4-5 seconds then got dim real quick and disappeared.  I’m not sure what it was; while looking through my weak binoculars I couldn’t really make anything out, I couldn’t get them to focus in time.6-11-08 As usual I was out on the back porch smoking, not sure probably around 9 or 10pm, and of course I looked up at the sky and I can usually see satellites often, well I spotted one heading north as I watched it for about 8 seconds, it got real bright for about 4-5 seconds still moving then got dim quickly as I followed it with my eyes until I couldn’t see it anymore lasting about 4 seconds.6-12-08 Weird enough, it was about 10:30-11pm at the time, and I was talking to my mom over the phone out on the back porch; as I was talking to her I was looking up at the sky, and saw a satellite directly overhead heading north so I followed it with my eyes for about 8 seconds while still talking on the phone and I started laughing at mom and looked down from the sky about 3 seconds then looked back up again and saw the same satellite going the opposite way southward, I am just freaked out a little from the past 3 days of weird stuff in the sky, I don’t know if this means anything , but I’ve been trying to see online if anyone has seen any of these for the past 3 days and so far I have nothing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63872.html](http://www.nuforc.org/webreports/reports/063/S63872.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1973, an anonymous witness in St. Charles (MO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Bright lights in the sky, 3 or 4 that we watched for some time before noticing in the soybean field right next to our house, a Huge sphere shaped object that hovered above the ground with a light band around the center that faded from one color to another without you realizing the color was changing until it was a different color, it made no sound but you could feel a sort of low vibration in your body, like very deep humming, it hovered there for several minutes while my mother called the local police department to report it.  It then lifted diagonally, then shot off using a zig-zag pattern at a high rate of speed, we watched the police chase it up and down Mc Clay rd for several more minutes.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15942.html](http://www.nuforc.org/webreports/reports/015/S15942.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [420](http://www.nuforc.org/webreports/reports/163/S163767.html)
-- [419](http://www.nuforc.org/webreports/reports/163/S163768.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163821.html)
-- [417](http://www.nuforc.org/webreports/reports/163/S163655.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163651.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
