@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:54 on 10 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:33 on 10 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A disk and a small cluster of strange lights.I was looking up at the night sky during a blackout, when I saw what appeared to be one disk-like shape in the sky along with a small cluster of other lights.  They were there for about 6 seconds (hardly enough time to tack a picture) and then they were gone, just disappeared in a streak of light that lingered for hardly one second.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98595.html](http://www.nuforc.org/webreports/reports/098/S98595.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Salem (OR) reported seeing craft that fit the description of some 'Flash' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>06/10/2015, Salem, Oregon, Flash, 2-3 minutes at the most, bright flashes in the sky, 06/10/2015I saw a bright flash to the North.  I called my son out to see it and within a minute we saw another bright flash, it had moved quite far in that time, and was seen in the northeast sky.  Within 10 seconds another bright flash which would make one to believe it was heading in a northeast direction, again, a great distance from the previous flash.  After that we didn't see it anymore.These are large flashes of light and I have been seeing them for a number of years now and I have never seen anyone reporting in them.  The bright flash does not always stay "on course", I've seen many nights that it wifi start in the north, appear next to the east, then back to the northwest.Also, based on the timing of the flashes, this light is moving much faster than an airplane or satellite, or the space station.  In fact, I've seen the light on nights when the space station is not flying over our state.I marked 1-3 crafts due to the fact of distance moved between each flash.  Maybe I'm not seeing one flash flashing 3 times but maybe 3 flashes slashing 1time.  (Does that make sense?"</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119482.html](http://www.nuforc.org/webreports/reports/119/S119482.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [420](http://www.nuforc.org/webreports/reports/163/S163767.html)
-- [419](http://www.nuforc.org/webreports/reports/163/S163768.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163821.html)
-- [417](http://www.nuforc.org/webreports/reports/163/S163655.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163651.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
