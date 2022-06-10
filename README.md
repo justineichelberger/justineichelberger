@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:01:03 on 10 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:44 on 10 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1973, an anonymous witness in St. Charles (MO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Bright lights in the sky, 3 or 4 that we watched for some time before noticing in the soybean field right next to our house, a Huge sphere shaped object that hovered above the ground with a light band around the center that faded from one color to another without you realizing the color was changing until it was a different color, it made no sound but you could feel a sort of low vibration in your body, like very deep humming, it hovered there for several minutes while my mother called the local police department to report it.  It then lifted diagonally, then shot off using a zig-zag pattern at a high rate of speed, we watched the police chase it up and down Mc Clay rd for several more minutes.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15942.html](http://www.nuforc.org/webreports/reports/015/S15942.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Hatteras Island (NC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>On the beach of Hatteras Island in 2001, a 30 foot disk-shaped object hovered above 2 of us for about 3 minutes.Around 9:00 pm, my girlfriend and I were on the beach and looked up and saw one disk-shaped object above us. It made no noise and was hovering. It did not move for about 3 minutes. There were lights on the object.  It was about 10 stories up. It was about 30 feet across. After about three minutes, the lights on the craft went out, but it remained above us. Some smoke came out of it, but it was not exhaust. Then it moved away slowly.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45349.html](http://www.nuforc.org/webreports/reports/045/S45349.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [420](http://www.nuforc.org/webreports/reports/163/S163767.html)
-- [419](http://www.nuforc.org/webreports/reports/163/S163768.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163821.html)
-- [417](http://www.nuforc.org/webreports/reports/163/S163655.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163651.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
