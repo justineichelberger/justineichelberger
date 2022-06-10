@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:36 on 10 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:43 on 10 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Saint Paul (MN) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>dark diamond/clover shaped objects over Saint Paul at duskAround dusk, I was looking out the window of my apartment when I noticed some dark shapes floating in the sky.  At first I assumed these were large soaring birds such as eagles or vultures, but as they moved across the sky from south to north, I could tell that they were too large and symmetrical to be birds, and that their movement was too even.As they passed by at their closest point to my view (directly to the east from my building) I was able to look at them with binoculars, and could make out what seemed to be 4 lobes, somewhat shaped like a compacted clover shape, which made an overall diamond silhouette with rounded corners.  Given the lowering light, and that the objects were backlit against a brighter sky, I couldn't see any surface details.  I called my wife in from another room, and she was able to see enough to realize that these weren't birds, or (commonly seen) aircraft.I counted 3 definite objects of this description, and a possible 4th as well.  However, this 4th object I did not see until the group had traveled much further to the north, and had become too distant (small in perspective) to be sure it was of the same type.  Of the 3 I have more certainty about, 2 were closer together, with the 3rd about double the distance again ahead and slightly above the others.The objects' movement was rather fast, but very smooth and silent and steady to the north.  While the movement of these objects seemed somewhat balloon-like, the complex shape keeps me from any definite identification.  I did some Google image searching for weather and radar balloons, but did not see anything remotely similar to what I saw in the sky.  I also have not seen any other mention or explanation in the local media. I did not witness any lights, odd movement, or other classical "UFO" behavior from these objects, but they are flying objects that are unidentified nonetheless.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57034.html](http://www.nuforc.org/webreports/reports/057/S57034.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Tybee Island (traveling toward) (GA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Blue orb moving slow but steadily across the Georgia coastline sky towards Tybee IslandMy husband and I were traveling toward Tybee Island for our honeymoon.  He was driving and I was in the passengers seat.  I spotted this brilliant blue orb moving toward us from over my right shoulder.  I immediately said to my husband, "Look!  Do you see that?!"   He replied, "What ((deleted)) is that?"  The blue "orb" with no discernible parts, only light, moved across our path and vanished.  It was wild.  I never knew there was a place I could report this where I wouldn't be completely humiliated and called crazy until now, thus the late report.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87240.html](http://www.nuforc.org/webreports/reports/087/S87240.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [420](http://www.nuforc.org/webreports/reports/163/S163767.html)
-- [419](http://www.nuforc.org/webreports/reports/163/S163768.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163821.html)
-- [417](http://www.nuforc.org/webreports/reports/163/S163655.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163651.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
