@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:11:58 on 10 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:38 on 10 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Vantage (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Three female senior citizens driving north on freeway from Vantage towards Quincy, WA.   On the right are hills.  In the valley of one of the hills we observed two huge triangular crafts in the sky, low enough to see very well, a large white light at each corner, with one of the three lights having a small blinking red light in it.  The two craft were close together hovering around slowly.  As we passed them, our view was covered up by the hills so we only observed them for a few seconds.  Turned around as quickly as we could find an exit and went back but they were gone.  One person in our car observed part of a 3rd craft before the rest of us saw the other two.  I could detect one non-smooth side on the crafts, lines like construction seams.  This happened between 10 and 10:30 pm.  So far, I haven't read any other similar descriptions in other observations.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110651.html](http://www.nuforc.org/webreports/reports/110/S110651.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Pazardjik (Bulgaria) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>red/green/white light over BulgariaGlowing with red/green/white light.  Hovering for about 10 min. and than suddenly disappear!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81714.html](http://www.nuforc.org/webreports/reports/081/S81714.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [420](http://www.nuforc.org/webreports/reports/163/S163767.html)
-- [419](http://www.nuforc.org/webreports/reports/163/S163768.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163821.html)
-- [417](http://www.nuforc.org/webreports/reports/163/S163655.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163651.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
