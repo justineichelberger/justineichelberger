@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:36 on 10 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:04:08 on 10 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Irvine (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A Circular object with bright green lights hovering over near UC Irvine campus.It was on Sunday night around 10:30 PM. I was sitting on the couch and watching TV in my apartment. I noticed something unusual hovering outside. I looked over the window and I saw a circular or oval shape object with small green or blue lights around it. Then I asked my roommate to come over to the window and she also saw it. The flying object was floating without any noise and making circular motion. It was moving slowly toward northeast direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57041.html](http://www.nuforc.org/webreports/reports/057/S57041.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1961, an anonymous witness in Carrollton (TX) reported seeing craft that fit the description of some '' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A greenish light lit up the whole area.In approximately 1960 or 1961 (I was 14 or 15 years of age), I was laying on the floor of our living room watching TV in Carrollton, Texas.  The drapes were open onto the patio.   The glass area was approximately 22 feet. It was shortly after dusk.  My mother was there too. I saw a green glow light up the whole outside.  It stayed light for about one minute and then was gone.A neighboring family (2 adults and 2 children) was up at their trailer at Lake Texhoma  (near Tanglewood and Lowe’s High Point) on this same night.  They were sitting outside and saw the same greenish glow.  A few minutes they heard and saw jets fly over.  The jets were from Perrin Air Force Base, which was located outside of Dennison, Texas.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62646.html](http://www.nuforc.org/webreports/reports/062/S62646.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [420](http://www.nuforc.org/webreports/reports/163/S163767.html)
-- [419](http://www.nuforc.org/webreports/reports/163/S163768.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163821.html)
-- [417](http://www.nuforc.org/webreports/reports/163/S163655.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163651.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
