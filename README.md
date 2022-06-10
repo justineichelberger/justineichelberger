@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:44 on 10 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:35 on 10 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Hatteras Island (NC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>On the beach of Hatteras Island in 2001, a 30 foot disk-shaped object hovered above 2 of us for about 3 minutes.Around 9:00 pm, my girlfriend and I were on the beach and looked up and saw one disk-shaped object above us. It made no noise and was hovering. It did not move for about 3 minutes. There were lights on the object.  It was about 10 stories up. It was about 30 feet across. After about three minutes, the lights on the craft went out, but it remained above us. Some smoke came out of it, but it was not exhaust. Then it moved away slowly.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45349.html](http://www.nuforc.org/webreports/reports/045/S45349.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Anthem (AZ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Several lights that moved slowly in same area for 45 minutes, flashing colors, disappearing, reappearing, splitting in two.Bright lights that would be best described as "moving stars" appeared from 5 to 20 degrees above the horizon and would dim and go out, only to return again. At maximum, there were 3 at a time. It was difficult to tell how many craft there were, because they would disappear and reappear so we were unable to discern whether they were same craft or new craft. They hovered and moved slowly in the same area for approximately 45 minutes beginning at dusk. Several times, one of the lights would become very bright and flash brilliant colors in quick pulses, in a random rhythm (unlike the steady rhythm of flashing lights on a plane). At one point when one became very bright and flashed colors for a few minutes, it then dimmed slightly and split into two separate white lights that moved slowly in separate trajectories then each dimmed out, to the point of being completely extinguished. Once it became completely dark, the activity subsided to the point where ! there was only one light visible consistently, though it did dim, fully extinguish, and come back again. At one point we also observed a faint white orb that seemed to come out of one of the brighter lights, move away, and then dim to the point of being completely extinguished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163655.html](http://www.nuforc.org/webreports/reports/163/S163655.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [420](http://www.nuforc.org/webreports/reports/163/S163767.html)
-- [419](http://www.nuforc.org/webreports/reports/163/S163768.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163821.html)
-- [417](http://www.nuforc.org/webreports/reports/163/S163655.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163651.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
