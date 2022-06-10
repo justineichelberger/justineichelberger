@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:50 on 10 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:41 on 10 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Golden Valley (MN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Myself, my daughter and her friend were driving in our neighborhood. I was going to make a turn and while I was looking to my left to see if it was clear to make my turn, I noticed what I initially thought was a street light, but quickly discerned that this orb was moving from east to west alongside and parallel with the road I was about to make a right turn onto.  I watched as it came closer to where I was.  It was the same color and almost the same intensity as those orange street lights.  I didn't want to lose it and wanted a better look so I quickly made the turn and had to take an immediate left onto my street.  I pulled over, shut my car off and got out of my car so I could see if there was any breeze like maybe it was a lantern.  No,it wasn't.  It was approximately slightly larger than one of those exercise balls (though it's difficult to determine size and how high it was ).  It seemed to be approximately 50-100 ft in the air.  Noiseless, floating against ! the breeze turned toward the south and then the light went out as soon as it was almost directly above me and I could still see there was some structure but very dark and as it moved away from me I lost track of where it was.  My mind wanted to go to every LOGICAL explanation.  It was NOT ball lightening, swamp gas, drone, I cannot come up with anything that fits.  I should have reported it sooner, but I feel if anyone else saw it I don't want them to feel alone or like they're crazy because we saw it too!((NUFORC Note:  Source of report indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144022.html](http://www.nuforc.org/webreports/reports/144/S144022.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1975, an anonymous witness in Albany (NY) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Albany NY 1975 varified sighting of multicolored flying object capable of high speed manuvers.Driving on Northway returning from Mass. picking up chemicals for my company. Wife sleeping when I noticed lights in the sky. I noticed many colors -not just red or green or white like a plane. With no other cars on the road I stopped the car and woke my wife up. There was a series of lights going from left to right on the object. It made a variety of zig zag moves and then it went up and out of sight at an incredible speed. My wife saw exactly what I saw. The air was clear.--Many years later on TV we saw another woman on a UFO show that described exactly what we saw.My wife and I are not crazy and we are highly educated professional couple.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44809.html](http://www.nuforc.org/webreports/reports/044/S44809.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [420](http://www.nuforc.org/webreports/reports/163/S163767.html)
-- [419](http://www.nuforc.org/webreports/reports/163/S163768.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163821.html)
-- [417](http://www.nuforc.org/webreports/reports/163/S163655.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163651.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
