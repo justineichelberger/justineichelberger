@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:45 on 11 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:46 on 11 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Cotati (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>White stationary dot in the skyOn Friday June 11, 2021 around 16:00 my wife brought to my attention an object in the North Eastern sky over Sonoma County, California. It was white. It was very tiny. It was way to small to describe any details. It did not appear to be moving. The sky was very clear and there were no clouds, at least in the direction we were looking. By around 16:45 the sky slowly began to cloud up and we could no longer see the object. There is not a lot to tell except it was very small, white in color, appeared stationary, appeared approximately 45 degrees relative to North.Trying to report this object was extremely difficult as the UFO center is the only place that responded and that was 3 to 4 hours after we called them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163658.html](http://www.nuforc.org/webreports/reports/163/S163658.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Cranston (RI) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Nine bright orange orbs drifted over Cranston, RI.Over the course of 15 minutes starting at 1 am 9 bright round but fuzzy orange orbs drifted by S to N in the Eastern sky.  First, a cluster of 3 followed by two twice, and then 2 singles.  I could easily glance at Mars, which has been prominent in the South.  These appeared 5 to 8 times bigger.  They have a silent drifting quality but always in a straight line.  Movement is about half the speed of a small plane.I am a retired Psychologist and my wife is an airplane buff.  She was initially in the house and only saw the last 4.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127848.html](http://www.nuforc.org/webreports/reports/127/S127848.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/163/S163661.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163659.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163665.html)
-- [301](http://www.nuforc.org/webreports/reports/163/S163819.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163668.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
