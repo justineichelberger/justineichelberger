@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:37 on 11 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:47 on 11 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Middleton (WI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orb over central WisconsinWhile sunbathing I observed an orb like object traveling at an incredible rate of speed in the sky above.  It had a dark - metallic look to it, and appeared to be extremely high in the atmosphere.  It moved in a perfect straight line across the sky, when it was towards the middle of the horizon, it looped around and made a small , perfect, circular  motion and then continued on its normal flight path.For the elevation it was at, it had to have been far faster than any aircraft, however, it wasn't so fast that it was a blur.  It cleared the entire horizon in about 60-90 seconds.  There was no blinking or flashing, no sounds, and no exhaust.  The sky was perfectly clear so I could observe it very well.  Also, although it was circular, when it was directly above my view, I notice it did have slightly contoured edges.  Kind of like a more compact, and curved boomerang, however, the "wings" or triangualr shape was very subtle and could only be observed when it was directly overhead.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57031.html](http://www.nuforc.org/webreports/reports/057/S57031.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1987, an anonymous witness in Springfield (MO) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Medium sized black disk with circular lights underneath.I was 10 years old in 1987 living in Springfield Mo.  It was a Sunday evening in June around 8pm.  I was sent to my room to go to bed but I thought it was to early to lay down since it was still so bright out.  So I opened up my blinds and began looking around outside.  At first there's nothing to exciting to look at because its woodsy all round but then as I'm laying my head sideways on my folded arms in the window...I noticed in the corner of my vision a medium sized, round very dark disk with 8 to 12 circular lights underneath slowly spinning clockwise, quiet and smooth, passing over my house.  It was so slow that I could see the lights themselves clearly.  They looked like canister lighting in kitchens, a warm yellow color that was not hurtful to look at straight on.  The underbelly was beyond black and flat. No shine no reflections.I watched for as long as I could before it was out of range . Then I ran out of my room in a flash to tell my dad. I said I saw this round flying thing that was so low to the house and all the details I mentioned. He just shook me off and said it was a helicopter or something. But I can honestly say that I saw a UFO ship. Nothing has ever looked like that during the 80s and I still see it so clearly to this day in my memory. It was real.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157766.html](http://www.nuforc.org/webreports/reports/157/S157766.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/163/S163661.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163659.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163665.html)
-- [301](http://www.nuforc.org/webreports/reports/163/S163819.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163668.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
