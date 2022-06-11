@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:38 on 11 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:52 on 11 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in New Port Richey (FL) reported seeing craft that fit the description of some 'Changing' over a period of approximately walking dogs - walking dogs minutes.</sub><blockquote><sub>phenomenal bursting lights in the sky over the gulf of mexicoat first it look like big flare but it really didnt move change different colors bursting colors i have it all on video tape zoomed in on it first it look like a disc shape then square but amazing footage of  then it slowly went down behind the tress from were we were filming in front of my neighbors house about 15 minutes of film of rmarkable bursting of lights red blue</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37608.html](http://www.nuforc.org/webreports/reports/037/S37608.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Fort A. P. Hill (military reservation) (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Super fast silent object over military base with high mobilityOur unit was at annual training and on that day we were in a patrol base pulling 30% security.  We all had night vision goggles on and our weapons of course.  But around 2:30 am a semi bright object was seen through the trees high up, the same height a jet would be.  And it took off traveling at a crazy speed faster then any F-15 or F-35. Then just changed directions without flipping and went back the other direction.  Then it went straight up then down.  After that it took off and disappeared.  It appeared an additional two times traveling at the same high speed. In terms of speed it went from my 150° to my 300°  "150°-0°-300°" in about 2-3 secounds at about 50° in the sky traveling parallel with me.  Every one that was on security saw it, but i was only able to confirm it with 4 of the 12 that were on guard.  None of us heard any sound with it.  It looked like it had an IR strobe light on it, but I took my NODs off and it was still semi visible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98671.html](http://www.nuforc.org/webreports/reports/098/S98671.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/163/S163661.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163659.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163665.html)
-- [301](http://www.nuforc.org/webreports/reports/163/S163819.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163668.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
