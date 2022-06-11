@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:01:01 on 11 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:40 on 11 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in San Leandro (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Strange Craft With Flashing Red and Green Lights Circling in the SkyI saw at around 23:00 a strange object circling over San Leandro that had lots of red and green flashing lights.  It made a strange buzzing noise and kept circling lower and lower.  I noticed whatever it was circling for about an hour and then it suddenly disappeared.((NUFORC Note:  Source of the report elects to provide no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134520.html](http://www.nuforc.org/webreports/reports/134/S134520.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Lafayette (CA) reported seeing craft that fit the description of some '' over a period of approximately ? - ? minutes.</sub><blockquote><sub>Triangle bruise - like burn - no pain, one inch on each side, on armMy husband woke up with a triangle burn? mark on his arm.  It is about an inch on each side, perfect in shape.  This makes the third triangle between he and I.  I have a triangle bruise on my right foot that appeared on 6/6/2006 and before that, I had a triangle bruise with three red horizontal lines on my back of left arm about a month ago (reported here.)  My husband reports that there is no pain, no itching, no memory of missing time, but just stumped as I am about how he got it and how I got mine.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50911.html](http://www.nuforc.org/webreports/reports/050/S50911.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/163/S163661.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163659.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163665.html)
-- [301](http://www.nuforc.org/webreports/reports/163/S163819.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163668.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
