@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:51 on 11 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:38 on 11 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Sarasota (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Second night in a row noticing large white light over neighbor's Houselijevpkanet but with binoculars noticed red might intermittedly Western sky  With two smaller hovering lights of both green and red to the left of it (north) first night gone tonight still there.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141805.html](http://www.nuforc.org/webreports/reports/141/S141805.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Fairmont (WV) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>6/11/2011 West Virginia fireballs in the evening sky.On the night of June 11, 2011, in a middle-upper class neighborhood in Fairmont, WV, my mother and I were chatting outside, when she interrupted me by jumping out of her chair running across the deck pointing.  What the heck is that, she excitedly yelped?  High on the horizon in the far off distance we observed many "fireballs" moving relatively slowly, with no sound in uninformed groups of 3-5 totaling about 15.I ran in the house to grab my camera & attempted to capture a picture of them.  After approximately 4 minutes they disappeared.  Not knowing how to change the shutter speed this is was my best shot.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81781.html](http://www.nuforc.org/webreports/reports/081/S81781.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/163/S163661.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163659.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163665.html)
-- [301](http://www.nuforc.org/webreports/reports/163/S163819.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163668.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
