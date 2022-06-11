@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:43 on 11 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:46 on 11 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Pensacola (FL) reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Strange shaped lighted beings appeared on video camera footage.Looking through camera footage that a resident said someone was outside their unit we just found all of the footage of strange shaped lights and then a larger light that seemed to project light below it on the ground and seemed to control the smaller lights.  I have sent 2 emails with 3 videos each because the footage was too long and large to send otherwise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157020.html](http://www.nuforc.org/webreports/reports/157/S157020.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Batemans Bay (NSW, Australia) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>softball size super white light very fastsuper white light much brighter than brightest star travelling north to south for approx 5 seconds fading to look like common star still continued moving couple more seconds dissappearing completely roughly ten seconds later same super bright light appeared in eastern sky while moving briskly towards the west faded out to nothing after about 2 to 3 second visual size of object size of a softball.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44355.html](http://www.nuforc.org/webreports/reports/044/S44355.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/163/S163661.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163659.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163665.html)
-- [301](http://www.nuforc.org/webreports/reports/163/S163819.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163668.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
