@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:36 on 11 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:40 on 11 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in West Bloomfield (MI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>we saw a ufo with an orange light  on it do impossible manuvers without making any noise whatsoever.me and my dad were outside talking and my dad suddenly found this bright orange light.  we watched it. at first it started going about 3x the speed of a normal plane.  the entire time we saw it there were no flashing lights like those on the side of a commercial plane so it wasnt a plane.  about 15 seconds after we first spotted it it slowed down and slowely came to a stop.  then all of the sudden it went straight up into the air above the clouds where we could not see it anymore.The entire time this was going on there was absolutely no noise. this means i a military helicopter or a plane.  Like i said earlier there were no flashing lights the only light there was was the constant orange light.  Also, i dont know how a plane or something like a plane would stop and go straight up without making any noise whatsoever.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81730.html](http://www.nuforc.org/webreports/reports/081/S81730.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Barstow (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>orange fireball, shape shifting, moves at ridiculous speed, encountered on wayt to las vegas.I just want to describe an incident that I had seen about 2 years ago; which I saw a redish orange fireball. At first it had the diameter close to the moon and was highup. Then it dropped down at such an incredible speed. At first my mom thought that it was some kind of light that was behing the mountains until it zipped right onto our leftside.  Then it receded its shape into an ellipse thinning itself out then disappear behind the mountains.  Then it would zip back up into view above the mountains. It would constantly change shape. this went on for about 4 minutes.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60158.html](http://www.nuforc.org/webreports/reports/060/S60158.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/163/S163661.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163659.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163665.html)
-- [301](http://www.nuforc.org/webreports/reports/163/S163819.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163668.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
