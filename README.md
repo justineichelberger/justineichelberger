@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:40 on 11 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:43 on 11 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Barstow (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>orange fireball, shape shifting, moves at ridiculous speed, encountered on wayt to las vegas.I just want to describe an incident that I had seen about 2 years ago; which I saw a redish orange fireball. At first it had the diameter close to the moon and was highup. Then it dropped down at such an incredible speed. At first my mom thought that it was some kind of light that was behing the mountains until it zipped right onto our leftside.  Then it receded its shape into an ellipse thinning itself out then disappear behind the mountains.  Then it would zip back up into view above the mountains. It would constantly change shape. this went on for about 4 minutes.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60158.html](http://www.nuforc.org/webreports/reports/060/S60158.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Pensacola (FL) reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Strange shaped lighted beings appeared on video camera footage.Looking through camera footage that a resident said someone was outside their unit we just found all of the footage of strange shaped lights and then a larger light that seemed to project light below it on the ground and seemed to control the smaller lights.  I have sent 2 emails with 3 videos each because the footage was too long and large to send otherwise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157020.html](http://www.nuforc.org/webreports/reports/157/S157020.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/163/S163661.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163659.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163665.html)
-- [301](http://www.nuforc.org/webreports/reports/163/S163819.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163668.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
