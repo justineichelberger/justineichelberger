@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:36:40 on 11 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:23:27 on 11 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Puyallup (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange object with other faster objects breaking away from it ...My 15 year old son and I (His mother age 40) were coming home from the store at approx. 10:30pm.  He was watching something out the back window and I assumed it was a plane since he is taking flight lessons and likes to watch them.  We got out of the car when arriving home and he said Mom, that isnt a plane.  I looked up and said what is it?  He said I dont know...  I saw an Orange colored round object above us that was moving slowly Southwest.  It had some type of an extension that seemed to circle the whole object continuousley as it moved... then it stopped and as it started again it headed more in a western direction then a bright orange object shot off of it very fast and went south and was gone.. then as it moved another bright very small object shot off of it only it went in the same direction as the main object then this happened several more times and then it all dissapeared. My son and I were just awestruck since I always thought that people were nuts when they spoke of UFO'S but we saw something strange with our own eyes... and now I believe it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18016.html](http://www.nuforc.org/webreports/reports/018/S18016.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Chesaw (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>V shaped UFO, poss. in trouble,  soundlessly flying over tree line followed by 4 jets and 1 giant cargo plane.I saw a V shaped, (more like a tulip) craft during the daytime, no lights.  It had  pearl white, pink and orange colors and the colors interchanged.  It was big, beautiful, flying low above the tree line, going slow and made no sound at all.  It seemed to be heading toward the setting sun. I got the impression it was in trouble and it was re-powering up with the suns energy.  About 1/2 to 1 mile behind it was the biggest cargo like plane I had ever seen following it along with 4 jet planes, (2 on each side of the giant plane).  I hope the UFO made it.  I said a prayer for them.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95323.html](http://www.nuforc.org/webreports/reports/095/S95323.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/163/S163661.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163659.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163665.html)
-- [301](http://www.nuforc.org/webreports/reports/163/S163819.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163668.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
