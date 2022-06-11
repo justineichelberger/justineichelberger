@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:38 on 11 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:37 on 11 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Fairmont (WV) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>6/11/2011 West Virginia fireballs in the evening sky.On the night of June 11, 2011, in a middle-upper class neighborhood in Fairmont, WV, my mother and I were chatting outside, when she interrupted me by jumping out of her chair running across the deck pointing.  What the heck is that, she excitedly yelped?  High on the horizon in the far off distance we observed many "fireballs" moving relatively slowly, with no sound in uninformed groups of 3-5 totaling about 15.I ran in the house to grab my camera & attempted to capture a picture of them.  After approximately 4 minutes they disappeared.  Not knowing how to change the shutter speed this is was my best shot.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81781.html](http://www.nuforc.org/webreports/reports/081/S81781.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Middleton (WI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orb over central WisconsinWhile sunbathing I observed an orb like object traveling at an incredible rate of speed in the sky above.  It had a dark - metallic look to it, and appeared to be extremely high in the atmosphere.  It moved in a perfect straight line across the sky, when it was towards the middle of the horizon, it looped around and made a small , perfect, circular  motion and then continued on its normal flight path.For the elevation it was at, it had to have been far faster than any aircraft, however, it wasn't so fast that it was a blur.  It cleared the entire horizon in about 60-90 seconds.  There was no blinking or flashing, no sounds, and no exhaust.  The sky was perfectly clear so I could observe it very well.  Also, although it was circular, when it was directly above my view, I notice it did have slightly contoured edges.  Kind of like a more compact, and curved boomerang, however, the "wings" or triangualr shape was very subtle and could only be observed when it was directly overhead.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57031.html](http://www.nuforc.org/webreports/reports/057/S57031.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/163/S163661.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163659.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163665.html)
-- [301](http://www.nuforc.org/webreports/reports/163/S163819.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163668.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
