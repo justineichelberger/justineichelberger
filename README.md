@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:30 on 11 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:39 on 11 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Saginaw (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Triagular hovering UFO with a rainbow of colors flashing around it has emitted a small ball of light and disappeared over head .It was approximately 10:00 P.M. on Monday, June 11th, 2001. Unfortunately, my boyfreind nor I had a watch to inquire about time. We noticed a bright yellowish ball of light in the northern part of the sky. It was much larger and brighter than the northern star.  A few seconds later it was alot closer and instead of appearing as a ball of yellow light, we saw a rainbow of colors (blue, green, red, yellow) that seemed to flash around an object that was hovering. From this object we then saw a smaller yellow ball of light descend horizontally toward the ground.  The object quickly came closer and flew above us.  I could barely make out a triangular shape with red lights below each corner.  We drove 60 mph to follow it but it disappeared within 5 seconds and it was gone.((NUFORC Note:  We spoke with this witness at length over the telephone, and found her to be very credible.  Her description of the alleged event was quite factual and unambiguous.  We have requested a report from her friend, who was with her at the time of the sighting, as well as illustrations from both parties.  We will post the illustrations, once we begin that policy of supplementing the written reports.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18085.html](http://www.nuforc.org/webreports/reports/018/S18085.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Sacramento (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>My cousin and I saw a light that looked like a star that moved very fast accross the sky and then disappeared.On June 11th at approximately 10:15PM, my cousin and I decided to go outside to smoke cigarettes. It was a calm night and the stars were clearly visible accross the night sky.  Then we saw something. It appeared to look like a star.  He asked me if it was an airplane and I told him that it was.  But it started to move really fast.  It looked like a star that was moving.  It zig-zagged a little bit and then it turned orange and disappeared right before our very eyes.  We were freaked out with what we just saw because we never saw anything like that before.  2 minutes later, we saw a real airplane.  The lights were blinking and it was moving, but it was moving very slow.  That was the normal speed of any airplane.  What we saw moved 3 times faster than that.((NUFORC Note:  ISS flew over California at 22:00 hrs. on this date.  Please see:  http://www.heavens-above.com/passsummary.asp?lat=38.582&lng=-121.493&alt=5&loc=Sacramento&TZ=PST&satid=25544&Date=37416.7916666667&Mag=PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23276.html](http://www.nuforc.org/webreports/reports/023/S23276.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/163/S163661.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163659.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163665.html)
-- [301](http://www.nuforc.org/webreports/reports/163/S163819.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163668.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
