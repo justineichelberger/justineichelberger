@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:39 on 11 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:01:01 on 11 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Sacramento (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>My cousin and I saw a light that looked like a star that moved very fast accross the sky and then disappeared.On June 11th at approximately 10:15PM, my cousin and I decided to go outside to smoke cigarettes. It was a calm night and the stars were clearly visible accross the night sky.  Then we saw something. It appeared to look like a star.  He asked me if it was an airplane and I told him that it was.  But it started to move really fast.  It looked like a star that was moving.  It zig-zagged a little bit and then it turned orange and disappeared right before our very eyes.  We were freaked out with what we just saw because we never saw anything like that before.  2 minutes later, we saw a real airplane.  The lights were blinking and it was moving, but it was moving very slow.  That was the normal speed of any airplane.  What we saw moved 3 times faster than that.((NUFORC Note:  ISS flew over California at 22:00 hrs. on this date.  Please see:  http://www.heavens-above.com/passsummary.asp?lat=38.582&lng=-121.493&alt=5&loc=Sacramento&TZ=PST&satid=25544&Date=37416.7916666667&Mag=PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23276.html](http://www.nuforc.org/webreports/reports/023/S23276.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in San Leandro (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Strange Craft With Flashing Red and Green Lights Circling in the SkyI saw at around 23:00 a strange object circling over San Leandro that had lots of red and green flashing lights.  It made a strange buzzing noise and kept circling lower and lower.  I noticed whatever it was circling for about an hour and then it suddenly disappeared.((NUFORC Note:  Source of the report elects to provide no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134520.html](http://www.nuforc.org/webreports/reports/134/S134520.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/163/S163661.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163659.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163665.html)
-- [301](http://www.nuforc.org/webreports/reports/163/S163819.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163668.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
