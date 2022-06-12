@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:46 on 12 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:42:07 on 12 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Pittsburg (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>I was happening to open my bedroom window, when a glare from a silver aircraft caught my eye.  This is to the south, towards Clayton/Mount Diablo, to be exact, over a closed  Military installation shut down after WWII.  At first glance it looked like a plane from afar, but when I looked back it was GONE.  No jet trail, no trace of anything, just plain gone.   What was strange was how sunlight seemed to really glare off of the aircraft, almost like a material I haven't seen before, which is why I took the second glace.Within 20 seconds I checked radar, I have live data provided by FAA that I pay for, there was NO aircraft anywhere near.  It was moving to slow to be a jet, and dissapeared way too fast to be human, couldn't be a military craft because the base has been closed for decades.Two weeks later, I saw it AGAIN.  This time I was walking my dog, and didn't dare take my eyes off of it.  I shouted to a neighbor I had noticed was across the street to look, and we both watched. This thing dimmed out like a light burning out, is this evidence of manipulating time to propel craft at Godly speeds?  After it, disappeared into thin air, in complete shock, I went home, not wanting to stick around a second longer.About 15 minutes later, a military style helicopter, which during my twp years I have lived here, have never seen.  It circled the area for a good twenty to thirty minutes, as if  looking for something.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98900.html](http://www.nuforc.org/webreports/reports/098/S98900.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Kenosha (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>An eerie glowing aircraft with no sound over Kenosha WisconsinI was just coming home from work.  And I was in a hurry to get into my house because there was lightning just north of me in the next county.  But when I got out of my car.  I caught this glow from the corner of my eye. I turned south toward the glow. It’s color was unusual, like if it were white, red, yellow, and soft and bright all at the same time. It came closer, very eerily. At an unusual pace. I heard no sound coming from this aircraft.  Just gliding almost felt like it was rising and moving towards me at the same time. And once it got right above my head, the glow disappeared, and all you saw were about 6 or 7 lights moving in a horizontal diamond shape.  I felt paralyzed with fear but pushed myself to get closer to my house. The colors of the lights were different and I couldn’t tell what they were, just colors.  And it quietly moved pass with no sound.  Right after it passed.  From the east a commercial plane passed quickly.  I could here the sound from its engine just fine.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63864.html](http://www.nuforc.org/webreports/reports/063/S63864.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [330](http://www.nuforc.org/webreports/reports/164/S164016.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163793.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163678.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163685.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163764.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
