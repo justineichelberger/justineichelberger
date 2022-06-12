@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:42 on 12 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:42 on 12 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Kuiper Crater  (Mars) () reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Photo found at NASA site, search Planet Mercury, Spaceship leaving bright platform, heading north.http://www.nasa.gov/mission_pages/messenger/multimedia/messenger_orbit_image20110407.html  NASA photo at Kuiper Crater -North, Planet Mercury, shows Boomerang shaped ship leaving bright spot at Crater moving north and up, with bright trail behind. Very detailed....Magnify photo to see details of ship.The ship appears to be boomerang in shape, with bright lights at the ends. It appears to have taken off from a platform in the bright spot referred to as Kuiper Crater, though further observations conclude it is not just a crater. The brightest trail moving up, or north, and to the right seems to have been produced by the ship. Though, the bright spot is producing a great deal of clouds moving out in an array as if steam were being generated, possibly through geothermal sources. The craft could merely have funneled through it's movements. a cloudy path of steam as it took off.The ship has detail on the top of it's hull, showing a symmetric pattern near the outer circular shape. The inner and front half-circle shape well lit, possibly by the bright running lights at the front tips. The shadows of the ship show layers and textures.This is a great photographic find.The bright center shows heavy shadows around the edges showing how this platform is raised high above the ground.The huge area around the bright spot appears to be a large city with streets and buildings moving outward from the bright spot. Observe the rectangular structures and lights.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89629.html](http://www.nuforc.org/webreports/reports/089/S89629.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Honolulu (HI) reported seeing craft that fit the description of some 'Disk' over a period of approximately split second - split second minutes.</sub><blockquote><sub>Smart Phone captures strange circular object in the skyYesterday morning around 5:50 am on my to work at Kahala Mall In Honolulu Hawaii, I took a picture of the sun rise and what was in my picture has left me just about speechless.  I did not even notice the object while driving however when looking through the photos this morning I noticed what you will see here.Thank for your time let me know if you have any questions or have any idea what that may be.((NUFORC Note:  Possible decal on windshield, we believe.  We have invited the source of the photo to check for an emblem or decal on the glass.  Printing seems to be evident in the middle of the decal, we observe.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110186.html](http://www.nuforc.org/webreports/reports/110/S110186.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [330](http://www.nuforc.org/webreports/reports/164/S164016.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163793.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163678.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163685.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163764.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
