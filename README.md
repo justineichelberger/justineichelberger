@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:56 on 12 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:37 on 12 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Grayling (MI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>We observed a large orange sphere in the night sky change into two. Then others were seen.Well, the best i can describe is what we saw was, at first, an orange sphere. It was quite large in the night sky and kind of blurry..and it seemed to occilate. Then another orange sphere dropped down from it. Very odd. They just floated in the same position for maybe a minute. Then two more seemed to materialize just above the first two. Then two more seemed to fall out of the second group like the first group. they stayed stationary in the same place for maybe 2 or 3 more minutes. We then went back into the cabin.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42782.html](http://www.nuforc.org/webreports/reports/042/S42782.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in New York City (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Take a look on Fox News story, &quot;How evil is Hillary and Bill Clinton&quot;, with Bret Baier which has a date of June 12, 2016.  WhTake a look on Fox News story, "How evil is Hillary and Bill Clinton", with Bret Baier which has a date of June 12, 2016.  When Mr. Baier is speaking and the outside view can be seen from a high story building that he is in, take a look on the upper right hand corner of the screen.  You will be surprised at what you see.I was!  Please let me know if this is a UFO.  I surely think so.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128180.html](http://www.nuforc.org/webreports/reports/128/S128180.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [330](http://www.nuforc.org/webreports/reports/164/S164016.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163793.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163678.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163685.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163764.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
