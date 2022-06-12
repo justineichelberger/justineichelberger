@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:40 on 12 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:44 on 12 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1991, an anonymous witness in Gaffnet (SC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>they forgot to turn the cloaking device onI was trucking in my tractor trailer and stuck in traffic on a hill at 6am in gaffney SC. the sun was just coming up it was going to be a beautiful morning sunrise..The sky where clear and I saw floating in the sky a triangle...moving west about 30 mph it was in the distance and coming towards me. All i thought was where's the ballon holding this thing up in the air, then it stop in front of me about a 1/4 mile away and about 60 degrees up. it was very shiny no windows about 60 ft long and 30ft width and it was reflecting the sun rays as the sun came up behind me....the color was orange from the sun. then  it started to dissapear in front of me. Slowly like someone was pulling a window blind up, ever foot there was nothing there and u coild see the heat coming off it as it dissapeared..until it was completely gone...I thought about this for a while now...they where flying around the night sky when the sun came up somebody forgot to turn on the cloaking devices..this seem too take forever watching this thing and i reported it...to some web site in 1991 and was emailed back saying don't tell anybody about this</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56245.html](http://www.nuforc.org/webreports/reports/056/S56245.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Walla Walla (WA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Multiple Red/Orange lights in the sky moving around in seemingly random patterns.While riding home in a taxi from a dinner party, heading NW on Myra Rd. in Walla Walla, WA, the driver suddenly stopped on a road without other traffic.  He pointed out the multiple (probably a dozen) Red/Orange lights in the NNW sky which seemed to be moving randomly about, but obviously together in one section of the sky.   All five of the vehicle's occupants got out and witnessed the lights while standing outside of the vehicle.  The sky was otherwise very dark. While the movement of the lights seemed somewhat random, there was also a cohesiveness to them that indicated that there was a connection of some sort between them.  They were not moving in any logical pattern, nor were they moving in such a way that could be explained by the normal flight paths of typical aircraft. They hovered and moved up, down and sideways across what appeared to be great distances in a very short time.((NUFORC Note:  We are not aware of a military facility near Walla Walla, but we believe that the first possibility to rule out would be airborne flares.  Just a guess.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62311.html](http://www.nuforc.org/webreports/reports/062/S62311.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [330](http://www.nuforc.org/webreports/reports/164/S164016.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163793.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163678.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163685.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163764.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
