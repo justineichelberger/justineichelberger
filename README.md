@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:44 on 12 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:46 on 12 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Walla Walla (WA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Multiple Red/Orange lights in the sky moving around in seemingly random patterns.While riding home in a taxi from a dinner party, heading NW on Myra Rd. in Walla Walla, WA, the driver suddenly stopped on a road without other traffic.  He pointed out the multiple (probably a dozen) Red/Orange lights in the NNW sky which seemed to be moving randomly about, but obviously together in one section of the sky.   All five of the vehicle's occupants got out and witnessed the lights while standing outside of the vehicle.  The sky was otherwise very dark. While the movement of the lights seemed somewhat random, there was also a cohesiveness to them that indicated that there was a connection of some sort between them.  They were not moving in any logical pattern, nor were they moving in such a way that could be explained by the normal flight paths of typical aircraft. They hovered and moved up, down and sideways across what appeared to be great distances in a very short time.((NUFORC Note:  We are not aware of a military facility near Walla Walla, but we believe that the first possibility to rule out would be airborne flares.  Just a guess.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62311.html](http://www.nuforc.org/webreports/reports/062/S62311.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 118</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157383.html](http://www.nuforc.org/webreports/reports/157/S157383.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [330](http://www.nuforc.org/webreports/reports/164/S164016.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163793.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163678.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163685.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163764.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
