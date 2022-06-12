@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:01:07 on 12 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:43 on 12 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1979, an anonymous witness in Dublin (Ireland) () reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Dublin, Ireland.  I don’t know if you could describe this as a “UFO” sighting as what I saw appeared to be with the stars (and same size) in the night sky.  As far as I remember I was around 15 years old and was looking up at the sky.  It was a very clear night and all the stars were visible.  I notice 2 stars about a finger apart as you hold out your hand from your face, one star would shoot a white object to the other and the other would in turn shoot it back.  This went on for about one minute when one of the stars went out.  The other star remained.  Neither star moved during this event.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65994.html](http://www.nuforc.org/webreports/reports/065/S65994.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Windsor (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>White light splits in two and fly in opposite directions.I was smoking a cigarette on my balcony I thought it was a star but it started to move and then broke into two.  They then went in opposite directions.  One went left and sort of curved and came directly over my apartment.  It was a white circle of light.  I could not see any other details.  I take care of my elderly father after he broke his hip,he saw the lights to.  He has also seen them on other occasions.  We both seen them one more time it was only one but it stopped dead stayed there for awhile the just blinked out.  It was gone just gone and never came back.  My cats seemed scared.  They where real jumpy I could not even pet them for a couple hours.  Never has this happened before or since.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106662.html](http://www.nuforc.org/webreports/reports/106/S106662.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [330](http://www.nuforc.org/webreports/reports/164/S164016.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163793.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163678.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163685.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163764.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
