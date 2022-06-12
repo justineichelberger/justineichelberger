@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:37 on 12 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:01:07 on 12 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in New York City (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Take a look on Fox News story, &quot;How evil is Hillary and Bill Clinton&quot;, with Bret Baier which has a date of June 12, 2016.  WhTake a look on Fox News story, "How evil is Hillary and Bill Clinton", with Bret Baier which has a date of June 12, 2016.  When Mr. Baier is speaking and the outside view can be seen from a high story building that he is in, take a look on the upper right hand corner of the screen.  You will be surprised at what you see.I was!  Please let me know if this is a UFO.  I surely think so.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128180.html](http://www.nuforc.org/webreports/reports/128/S128180.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1979, an anonymous witness in Dublin (Ireland) () reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Dublin, Ireland.  I don’t know if you could describe this as a “UFO” sighting as what I saw appeared to be with the stars (and same size) in the night sky.  As far as I remember I was around 15 years old and was looking up at the sky.  It was a very clear night and all the stars were visible.  I notice 2 stars about a finger apart as you hold out your hand from your face, one star would shoot a white object to the other and the other would in turn shoot it back.  This went on for about one minute when one of the stars went out.  The other star remained.  Neither star moved during this event.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65994.html](http://www.nuforc.org/webreports/reports/065/S65994.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [330](http://www.nuforc.org/webreports/reports/164/S164016.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163793.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163678.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163685.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163764.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
