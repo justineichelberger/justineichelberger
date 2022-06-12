@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:17 on 12 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:50 on 12 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Rochester (MN) reported seeing craft that fit the description of some 'Changing' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Wierd formation of multiple lights no soundThought I seen airplane with various flashy lights, then it stopped as it formed in to a v.  Then formed into one light.  As it hovered, I got binoculars to look closer it was a disc with white out line, but center light multiple colors real fast red,white, blue.as watching two more disc fly by object and do a big circle around the sky, cannot see second and third object with naked eye,((NUFORC Note:  Witness elects to provide no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89540.html](http://www.nuforc.org/webreports/reports/089/S89540.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Binghamton (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately Split second - Split second minutes.</sub><blockquote><sub>I was looking down at my phone walking down the sidewalk.  Of the corner of my eye I seen an orange light.  When I looked up I seen three triangles a triangular formation. It looked like the Zelda triforce.  It was an orangish red color but more on the orange side.  It shot off really quick and left a light trail like when you move a flashlight really quick.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141819.html](http://www.nuforc.org/webreports/reports/141/S141819.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [330](http://www.nuforc.org/webreports/reports/164/S164016.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163793.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163678.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163685.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163764.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
