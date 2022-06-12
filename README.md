@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:43 on 12 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:42 on 12 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Windsor (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>White light splits in two and fly in opposite directions.I was smoking a cigarette on my balcony I thought it was a star but it started to move and then broke into two.  They then went in opposite directions.  One went left and sort of curved and came directly over my apartment.  It was a white circle of light.  I could not see any other details.  I take care of my elderly father after he broke his hip,he saw the lights to.  He has also seen them on other occasions.  We both seen them one more time it was only one but it stopped dead stayed there for awhile the just blinked out.  It was gone just gone and never came back.  My cats seemed scared.  They where real jumpy I could not even pet them for a couple hours.  Never has this happened before or since.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106662.html](http://www.nuforc.org/webreports/reports/106/S106662.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Kuiper Crater  (Mars) () reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Photo found at NASA site, search Planet Mercury, Spaceship leaving bright platform, heading north.http://www.nasa.gov/mission_pages/messenger/multimedia/messenger_orbit_image20110407.html  NASA photo at Kuiper Crater -North, Planet Mercury, shows Boomerang shaped ship leaving bright spot at Crater moving north and up, with bright trail behind. Very detailed....Magnify photo to see details of ship.The ship appears to be boomerang in shape, with bright lights at the ends. It appears to have taken off from a platform in the bright spot referred to as Kuiper Crater, though further observations conclude it is not just a crater. The brightest trail moving up, or north, and to the right seems to have been produced by the ship. Though, the bright spot is producing a great deal of clouds moving out in an array as if steam were being generated, possibly through geothermal sources. The craft could merely have funneled through it's movements. a cloudy path of steam as it took off.The ship has detail on the top of it's hull, showing a symmetric pattern near the outer circular shape. The inner and front half-circle shape well lit, possibly by the bright running lights at the front tips. The shadows of the ship show layers and textures.This is a great photographic find.The bright center shows heavy shadows around the edges showing how this platform is raised high above the ground.The huge area around the bright spot appears to be a large city with streets and buildings moving outward from the bright spot. Observe the rectangular structures and lights.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89629.html](http://www.nuforc.org/webreports/reports/089/S89629.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [330](http://www.nuforc.org/webreports/reports/164/S164016.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163793.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163678.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163685.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163764.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
