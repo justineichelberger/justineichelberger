@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:36 on 12 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:33 on 12 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Walla Walla (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Strange orange-red objects flying over Walla Walla, WA.In the SW part of the sky at 23:30 there were 30 round shaped objects that were bright orange-red in color and in a pattern similar to the large dipper.  As I realized they were not stars they started to gather in a linear formation.  I ran into the house and woke up a second witness to watch what was occuring.  The second witness went and got a video recorder to film the event taking place.  The objects then started to disappear backwards into the darkness of the night sky.  The objects colors didn't flicker or change color. The whole sighting lasted approx 6 minutes until 23:36. There was no sound that humans could but the area animals were reacting , no trailers from behind the objects.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57058.html](http://www.nuforc.org/webreports/reports/057/S57058.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Wellinton (New Zealand) () reported seeing craft that fit the description of some 'Oval' over a period of approximately  -  minutes.</sub><blockquote><sub>I took a photo of the sky, then I had a look he 2 photos noticed unusual objects.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146807.html](http://www.nuforc.org/webreports/reports/146/S146807.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [330](http://www.nuforc.org/webreports/reports/164/S164016.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163793.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163678.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163685.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163764.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
