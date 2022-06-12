@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:42:07 on 12 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:26:14 on 12 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Kenosha (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>An eerie glowing aircraft with no sound over Kenosha WisconsinI was just coming home from work.  And I was in a hurry to get into my house because there was lightning just north of me in the next county.  But when I got out of my car.  I caught this glow from the corner of my eye. I turned south toward the glow. It’s color was unusual, like if it were white, red, yellow, and soft and bright all at the same time. It came closer, very eerily. At an unusual pace. I heard no sound coming from this aircraft.  Just gliding almost felt like it was rising and moving towards me at the same time. And once it got right above my head, the glow disappeared, and all you saw were about 6 or 7 lights moving in a horizontal diamond shape.  I felt paralyzed with fear but pushed myself to get closer to my house. The colors of the lights were different and I couldn’t tell what they were, just colors.  And it quietly moved pass with no sound.  Right after it passed.  From the east a commercial plane passed quickly.  I could here the sound from its engine just fine.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63864.html](http://www.nuforc.org/webreports/reports/063/S63864.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Lumberton (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Very high altitude, circular UFO, sighted in high speed maneuver about 9am, June 12, 2020 over South Jersey.Observer: male, 60, pilot, vision:  20/15 Observed:  Single U.F.O.Weather:  CAVU Size:  unknown Color:  white,  Steady (unchanging) Shape:  Circular, Steady (unchanging) Altitude, Est.  80,000 - 120,000 ft.Speed:  Est.  600 - 20,000 knots,  (changing) 1st Vector:  North by northeast 2nd Vector: radical ”Sharp V” reverse course to South by south west in 1 second Nearest Military Base:  McGuire Other Aerial Activities:  none Special Observations:  After “low” speed sighting, item disappeared from scene at extremely high rate of speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157014.html](http://www.nuforc.org/webreports/reports/157/S157014.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [330](http://www.nuforc.org/webreports/reports/164/S164016.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163793.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163678.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163685.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163764.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
