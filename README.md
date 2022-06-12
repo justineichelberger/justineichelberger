@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:45 on 12 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:56 on 12 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Lights in southern sky seen from Phoenix on 6/12/04About 9pm on 6/12/04 I witnessed a light brighter than a star in the southern sky in phoenix. The light got brighter as it moved north, then faded out. At first I dismissed the light as aircraft and was about to look away when another light appeared in the same spot the first one came from. The light appeared the same as the first and duplicated the same flight pattern, then faded out. This all happened in about 15-20 seconds. I was very interested by this point so I continued to watch this part of the sky. About 1 minute later I spotted two lights traveling side-by-side heading south. The lights were traveling at a very high speed. Faster than any aircraft I've ever seen, and faster than satallites I've seen in the sky. The light on the right veered off from the left one at a higher rate of travel in a looping turn and disappeared. I've always been a critic of people that claim to see this type of stuff. I know what I saw was real.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37604.html](http://www.nuforc.org/webreports/reports/037/S37604.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Grayling (MI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>We observed a large orange sphere in the night sky change into two. Then others were seen.Well, the best i can describe is what we saw was, at first, an orange sphere. It was quite large in the night sky and kind of blurry..and it seemed to occilate. Then another orange sphere dropped down from it. Very odd. They just floated in the same position for maybe a minute. Then two more seemed to materialize just above the first two. Then two more seemed to fall out of the second group like the first group. they stayed stationary in the same place for maybe 2 or 3 more minutes. We then went back into the cabin.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42782.html](http://www.nuforc.org/webreports/reports/042/S42782.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [330](http://www.nuforc.org/webreports/reports/164/S164016.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163793.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163678.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163685.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163764.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
