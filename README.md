@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:33 on 12 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:16 on 12 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Wellinton (New Zealand) () reported seeing craft that fit the description of some 'Oval' over a period of approximately  -  minutes.</sub><blockquote><sub>I took a photo of the sky, then I had a look he 2 photos noticed unusual objects.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146807.html](http://www.nuforc.org/webreports/reports/146/S146807.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Wolverhampton (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Just after seeing a meteorite, a small steady light (which I at first assumed was a saterlite) slowly moved in oposite direction.It suddenly veared of at a sharp angle, and rapidly vanished (as if it was moving away).As above.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08071.html](http://www.nuforc.org/webreports/reports/008/S08071.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [330](http://www.nuforc.org/webreports/reports/164/S164016.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163793.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163678.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163685.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163764.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
