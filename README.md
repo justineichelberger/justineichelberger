@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:26:14 on 12 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:05:00 on 12 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Lumberton (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Very high altitude, circular UFO, sighted in high speed maneuver about 9am, June 12, 2020 over South Jersey.Observer: male, 60, pilot, vision:  20/15 Observed:  Single U.F.O.Weather:  CAVU Size:  unknown Color:  white,  Steady (unchanging) Shape:  Circular, Steady (unchanging) Altitude, Est.  80,000 - 120,000 ft.Speed:  Est.  600 - 20,000 knots,  (changing) 1st Vector:  North by northeast 2nd Vector: radical ”Sharp V” reverse course to South by south west in 1 second Nearest Military Base:  McGuire Other Aerial Activities:  none Special Observations:  After “low” speed sighting, item disappeared from scene at extremely high rate of speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157014.html](http://www.nuforc.org/webreports/reports/157/S157014.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Redondo Beach (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Odd trio of orange lights looking north toward LAX on evening of June 12, 2016I'd just left my house to pick up a takeout order from a local restaurant.  It was just before 9 PM local time.  I looked up in the northern sky, which was dark.  Normally I see air traffic on final approach to LAX, which is only a few miles north of my home.  Traffic moves East to West on final approach for normal wind patterns, and hence traffic moves right to left as one looks North to the airport.  Tonight, I observed three bright lights, quite high in the northern sky.  They were irregularly spaced, and quite bright, of roughly the same brightness, in roughly a horizontal line (not precisely), and all were orange in color.  The color was strange to me, given the normal landing light (white) and navigation light (red and green) colors.  Usually, with LAX traffic, one can distinguish individual lights on the planes coming in for final.  These were single points as far as I could tell, and no flashing anti-collision lights.  The trio must have spanned 10 or 15 degrees from my vantage point.  Many times the size of a full moon in terms of angular separation between the leftmost and rightmost lights.  The other thing that seemed odd is that they were moving slowly from left to right - in other words Eastward.  That is very unusual for traffic at LAX.I kept my eyes on them on and off as I drove Eastward myself on Artesia Blvd (and Slausson) to the restaurant.  I pulled into the restaurant parking lot, and just as I was looking for a spot, I noticed that the lights were fading out.  No change in flight path.  Soon afterwards they disappeared entirely.  It was unclear whether there was low cloud cover in the distance that was obscuring the view to the lights - the sky was dark so it was impossible to tell.  But the lights never re-appeared.I'm a student pilot and aerospace engineer, so have a background in aircraft spotting.  These seemed very peculiar.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127856.html](http://www.nuforc.org/webreports/reports/127/S127856.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [330](http://www.nuforc.org/webreports/reports/164/S164016.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163793.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163678.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163685.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163764.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
