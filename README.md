@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:16 on 12 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:45 on 12 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Wolverhampton (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Just after seeing a meteorite, a small steady light (which I at first assumed was a saterlite) slowly moved in oposite direction.It suddenly veared of at a sharp angle, and rapidly vanished (as if it was moving away).As above.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08071.html](http://www.nuforc.org/webreports/reports/008/S08071.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Lights in southern sky seen from Phoenix on 6/12/04About 9pm on 6/12/04 I witnessed a light brighter than a star in the southern sky in phoenix. The light got brighter as it moved north, then faded out. At first I dismissed the light as aircraft and was about to look away when another light appeared in the same spot the first one came from. The light appeared the same as the first and duplicated the same flight pattern, then faded out. This all happened in about 15-20 seconds. I was very interested by this point so I continued to watch this part of the sky. About 1 minute later I spotted two lights traveling side-by-side heading south. The lights were traveling at a very high speed. Faster than any aircraft I've ever seen, and faster than satallites I've seen in the sky. The light on the right veered off from the left one at a higher rate of travel in a looping turn and disappeared. I've always been a critic of people that claim to see this type of stuff. I know what I saw was real.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37604.html](http://www.nuforc.org/webreports/reports/037/S37604.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [330](http://www.nuforc.org/webreports/reports/164/S164016.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163793.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163678.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163685.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163764.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
