@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:43 on 11 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:51 on 12 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Indian Rock Beach (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>At approx 23:00 hours, a bright white light hovered over the Gulf of Mexico.  It hovered in one spot for 10-15 min and then disappeared, only to return about an hour later for 10-15 minutes, and left.  Got up at 03:30 on 06/12/16 and it was back and still there when I went to bed.  Looked like a stationary spot light I would guess 100 yards above the water and a couple of miles off shore.((NUFORC Note:  We suspect that the witness may have been looking at a celestial body, possibly a star.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127846.html](http://www.nuforc.org/webreports/reports/127/S127846.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Clinton (AR) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>green football shaped object falling out of the western sky at a 45 degree angle on June 12th, 2007Traveling south at approximately 10:30 an object appeared in the western sky falling at about a 45 degree angle the object had a tail for a period of a few seconds and then the tail dissapeared a small shower of red sparks came off the back and the object desended slowly it appeared to slow down anyway and the object glowed green.  We watched it cross in front of us across the sky and were amazed at the color and the shape of the object.  We have watched meteor showers before and this was not like any we have ever seen,</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57426.html](http://www.nuforc.org/webreports/reports/057/S57426.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/163/S163661.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163659.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163665.html)
-- [301](http://www.nuforc.org/webreports/reports/163/S163819.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163668.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
