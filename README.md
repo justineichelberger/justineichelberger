@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:42 on 12 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:50 on 12 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Honolulu (HI) reported seeing craft that fit the description of some 'Disk' over a period of approximately split second - split second minutes.</sub><blockquote><sub>Smart Phone captures strange circular object in the skyYesterday morning around 5:50 am on my to work at Kahala Mall In Honolulu Hawaii, I took a picture of the sun rise and what was in my picture has left me just about speechless.  I did not even notice the object while driving however when looking through the photos this morning I noticed what you will see here.Thank for your time let me know if you have any questions or have any idea what that may be.((NUFORC Note:  Possible decal on windshield, we believe.  We have invited the source of the photo to check for an emblem or decal on the glass.  Printing seems to be evident in the middle of the decal, we observe.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110186.html](http://www.nuforc.org/webreports/reports/110/S110186.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Binghamton (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately Split second - Split second minutes.</sub><blockquote><sub>I was looking down at my phone walking down the sidewalk.  Of the corner of my eye I seen an orange light.  When I looked up I seen three triangles a triangular formation. It looked like the Zelda triforce.  It was an orangish red color but more on the orange side.  It shot off really quick and left a light trail like when you move a flashlight really quick.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141819.html](http://www.nuforc.org/webreports/reports/141/S141819.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [330](http://www.nuforc.org/webreports/reports/164/S164016.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163793.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163678.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163685.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163764.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
