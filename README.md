@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:39 on 12 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:36 on 13 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Socorro (NM) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>On June 13th, I was coming home from the grocery store with my daughter.  I was driving down a local Street, when I looked to my right (east) and I saw three circular objects, somewhat star shaped in the sky they were in a straight line horizontally they began flashing they were a reddish orange and then would seem like turned to White.  They started flickering on and off,then it looks like one of them moved upward and then back down and as soon as started it ended and they were gone.  I thought that it might be a plane or a falling star but the more I think about it I know it wasn't anything like that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146857.html](http://www.nuforc.org/webreports/reports/146/S146857.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Santa Cruz (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>fire that rose in the night's sky in Santa Cruz, CAI was in the backyard facing the ocean.  A big ball of flame slowly rose above the rooftops from the west, getting smaller as it rose and proceeded southwest, where my sister saw it, and headed north as it got further up and out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98625.html](http://www.nuforc.org/webreports/reports/098/S98625.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [330](http://www.nuforc.org/webreports/reports/164/S164016.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163793.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163678.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163685.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163764.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
