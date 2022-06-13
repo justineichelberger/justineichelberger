@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:48 on 13 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:35 on 13 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Casper (WY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>14yr old female sees oval shaped, distortion in sky with 3 lights on back14yr old female witnessed an object while lying on trampoline. Object dropped out of cluster of stars and stopped overhead. Hard to distinguish edges of object but looked like a transparent magnifying glass distorting the sky and stars, seemed to be oval with   3 dull oval lights in a line at back end emitting tan color.  Moved smoother than plane and slowly West.  Made a repetitive low screeching sound like a door makes when opening and closing, only lower pitched.Female climbed down from trampoline and ran to house door looking back once to see it still moving over her neighbor's house.  Female went inside and cried to parents, had about 4 nightmares in the following years of alien abductions.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75251.html](http://www.nuforc.org/webreports/reports/075/S75251.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Methuen (MA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Strange orange triangular objects.I was inside my car with my wife, when she told me to look up for what she thought to be 3 airplanes flying really close from each other,  the problem is that these did not look like airplanes the light these objects were reflecting was of orange tone and they have triangle shape forms.  There were 3 flying objects, one on front two behind one at each side, one disappear two keep flying next to the other, when these two were far from the point where the third object disappear this third object show up again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119535.html](http://www.nuforc.org/webreports/reports/119/S119535.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163691.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163705.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163787.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163689.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163688.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
