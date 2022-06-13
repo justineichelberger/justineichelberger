@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:36 on 13 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:35 on 13 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Santa Cruz (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>fire that rose in the night's sky in Santa Cruz, CAI was in the backyard facing the ocean.  A big ball of flame slowly rose above the rooftops from the west, getting smaller as it rose and proceeded southwest, where my sister saw it, and headed north as it got further up and out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98625.html](http://www.nuforc.org/webreports/reports/098/S98625.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Emerald Isle (NC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>Other people on beach (10+)  saw this too.  Two-three horizontal fireball looking circles and two vertical same shape appearing.   When the two appeared the three disappeared. Last night we saw seven all lit up at once.  There were more people on beach (12+) noting same.People on beach figure it's military?  Unable to photograph.((NUFORC Note:  Source of the report elects to remain anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135134.html](http://www.nuforc.org/webreports/reports/135/S135134.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163691.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163705.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163787.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163689.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163688.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
