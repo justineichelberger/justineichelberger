@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:12:48 on 13 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:06:23 on 13 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in La Verne/Pomona (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange stationary light which three other orange lights dropped from.As I stepped out onto my balcony at 11:22pm I lit a cigarette and looked up at the incoming jets to LAX. I noticed an orange looking light that I assumed was also an incoming jet, but it did not move. As I watched this light I could see the jets were actually flying under this light. Then I noticed another orange light drop straight down from this statioary light. The second light to fall from this light had a trail behind it. I called my girlfriend to come outside and see this light show, before see was able to get outside a third light fell from the light. When my girlfriend did arrive we watched the light flicker off then on, then fade out and on, and finally it went completely out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08036.html](http://www.nuforc.org/webreports/reports/008/S08036.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Springfield (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>bright orange reddish color object observed rising until it just disappeared.This object appeared to rise up from the ground wobbling. then proceeded to travel straight up northeast direction while elevating high into the sky. it was looking like the light was just dimming out as it was rising. until it just turned off like a light switch. but when it first started up it was really bright like a real close star but dimmed more and more as it was rising. the color of the light was an orange reddish color.although when it first lifted it was multiple colors.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70511.html](http://www.nuforc.org/webreports/reports/070/S70511.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163691.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163705.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163787.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163689.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163688.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
