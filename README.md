@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:36 on 13 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:52 on 13 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Albemarle (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Orange lights traveling N to SWas about midnight, was sitting on my porch smoking a cigarette when I was observing the night sky.  We had a major storm blow thru the region earlier that day, which caused power outage, so I was able to look at the night sky and see the stars.There was no cloud cover, and dont recall the moon being out at the time.I was looking in a northernly direction when I viewed these 2 orange colored lights traveling together in a straight line.  What struck me as odd was they stayed in a perfect 'formation', one never led or fell behind the other, it was if they were 'attached' and moving across the sky at a pretty fast rate of speed.  They seemed to be at a high altitude, as I watched them, I viewed a lower flying conventional aircraft traveling SE to NW, intersecting the lights' flight path below them.I watched the lights travel across the viewable sky for about 10 minutes until I lost sight of them behind trees in the south.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100214.html](http://www.nuforc.org/webreports/reports/100/S100214.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Oshawa (Canada) (ON) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>High Bright Round White Light - Excellent Video ClipToday, June 13, 2018, while outside on my deck Oshawa, Ontario  Having a tea and smoke looking about in the sky  Please note that we had just had a thunder storm couple hours earlier So the patches of blue sky were quite clearer than normal After about twenty minutes looking about mostly west - north and south Noticed very high in the sky directly west over neighboring Whitby, Ontario  Looked some miles away west  A very bright round white light appeared to moving across the sky Instantly, I grabbed my camera beside me on the table Looked into the camera eye viewer and started to film It appears to be racing towards the clouds  As well going through the clouds really illustrates it's brightness of the entire object.That when I lost view of this unknown in or above the clouds Please note that also the clouds were moving quite fast from the west I cannot be sure if truly this bright light could have been stationary Though just for verification waited ten - fifteen minutes for some more clear patches of blue In the same area of the sky could not see anything further So hence maybe it was not stationary As mentioned have seen two other sightings June 9 @ 9:44 am Also June 11 near 7:00 pm - two bright unknowns side by side witnessed Both these sightings have been photographed Will later file these two other reports with still shots for both Thanks again</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141824.html](http://www.nuforc.org/webreports/reports/141/S141824.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163691.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163705.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163787.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163689.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163688.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
