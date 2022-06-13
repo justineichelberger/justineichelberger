@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:28:33 on 13 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:12:48 on 13 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in St. Clairsville (OH) reported seeing craft that fit the description of some 'Flash' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Wild flight patterns6 eastbound flashing craft hig rate of speed erratic flight.  Unknown how high but higher than clouds.  2 minutes later 1 of the same southeast bound at higher rate of speed.  Very fast and erratic.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119529.html](http://www.nuforc.org/webreports/reports/119/S119529.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in La Verne/Pomona (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange stationary light which three other orange lights dropped from.As I stepped out onto my balcony at 11:22pm I lit a cigarette and looked up at the incoming jets to LAX. I noticed an orange looking light that I assumed was also an incoming jet, but it did not move. As I watched this light I could see the jets were actually flying under this light. Then I noticed another orange light drop straight down from this statioary light. The second light to fall from this light had a trail behind it. I called my girlfriend to come outside and see this light show, before see was able to get outside a third light fell from the light. When my girlfriend did arrive we watched the light flicker off then on, then fade out and on, and finally it went completely out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08036.html](http://www.nuforc.org/webreports/reports/008/S08036.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163691.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163705.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163787.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163689.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163688.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
