@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:04:58 on 13 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:36 on 13 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Weeki Wachee (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Was looking out of my bedroom window and saw these saucers.  They were bright and one of them was purple.They lasted about 45 minutes in the sky.  I was looking North from my window.  I would like to send images that I took but won't let me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157109.html](http://www.nuforc.org/webreports/reports/157/S157109.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Latrobe (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 300.0 - 300.0 minutes.</sub><blockquote><sub>sound coming from under your feet , no matter where you walk near the consumes river.this was a humming sound ,varying pitch ,you could listen on the rock formations to confirm this. after we left we could not account for a lot of time we thought we were there. we then all had head pounding for the next few days.my head hurts now.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08078.html](http://www.nuforc.org/webreports/reports/008/S08078.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163691.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163705.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163787.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163689.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163688.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
