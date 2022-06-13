@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:36 on 13 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:41 on 13 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Oshawa (Canada) (ON) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>High Bright Round White Light - Excellent Video ClipToday, June 13, 2018, while outside on my deck Oshawa, Ontario  Having a tea and smoke looking about in the sky  Please note that we had just had a thunder storm couple hours earlier So the patches of blue sky were quite clearer than normal After about twenty minutes looking about mostly west - north and south Noticed very high in the sky directly west over neighboring Whitby, Ontario  Looked some miles away west  A very bright round white light appeared to moving across the sky Instantly, I grabbed my camera beside me on the table Looked into the camera eye viewer and started to film It appears to be racing towards the clouds  As well going through the clouds really illustrates it's brightness of the entire object.That when I lost view of this unknown in or above the clouds Please note that also the clouds were moving quite fast from the west I cannot be sure if truly this bright light could have been stationary Though just for verification waited ten - fifteen minutes for some more clear patches of blue In the same area of the sky could not see anything further So hence maybe it was not stationary As mentioned have seen two other sightings June 9 @ 9:44 am Also June 11 near 7:00 pm - two bright unknowns side by side witnessed Both these sightings have been photographed Will later file these two other reports with still shots for both Thanks again</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141824.html](http://www.nuforc.org/webreports/reports/141/S141824.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Greensboro (NC) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Orange Object Pursued by Plane in Greensboro, NC  2011Viewed from second story apt window in downtown Greensboro, NC facing west.  Object was bright orange, and only object in sky.  Object was stationary.  After 5 minutes, another object which appeared to be a plane indicated by two small white lights side by side that would blink simultaneously (I think was also from the west) started getting closer towards the orange object.  As the blinking white lights got close, the orange object started moving east - south-east.  It went over my apt and out of sight.  The plane seemed to be in pursuit but could not match speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81768.html](http://www.nuforc.org/webreports/reports/081/S81768.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163691.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163705.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163787.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163689.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163688.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
