@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:39 on 13 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:55 on 13 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Salina (KS) reported seeing craft that fit the description of some 'Cone' over a period of approximately as long as it took for th - as long as it took for th minutes.</sub><blockquote><sub>I was taking Pictures out my Front porch and noticed the object in the picturesWell I was thaking pictures of storm clouds on or about the 13th or 14th of June 2000 we were in a tornado warning and I took my camera out to take pictures of the clouds to send to my Girlfriend who lives in Maine so she could see what our skys look like durning tornado season since she has never seen what it looks like and I was taking picture after picture of clouds and when i went to download the pictures from my camera and was looking at them getting ready to send them to her I noticed that Pictures 9, 10, 11, and 12 had an object coming from left to right center in the first picture I noticed it in the upper left hand corner and it was kinda faint then in number 10 it kinda dissapeared into the clouds  #11 it was coming out of the clouds and on the final picture #12 it was clear as day a white kinda cone shaped object which i am not too sure of what it is I know there was no rain at the time and nothing was on my lense even though the ground was still wet  i can try to find out the exact date I know i just didn't download them till the 16th of june I kinda wish i noticed it sooner so i could remember the exact date and time  but maybe you will enjoy looking at the photos who know it just might be something intresting and maybe not as far as i know it could be alot of things or nothing but a fluke....((NUFORC Note:  We have seen the pictures, and they do seem interesting.  We will attempt to post them to our website to accompany the report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13135.html](http://www.nuforc.org/webreports/reports/013/S13135.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Oshawa (Canada) (ON) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>High Bright Round White Light - Excellent Video ClipToday, June 13, 2018, while outside on my deck Oshawa, Ontario  Having a tea and smoke looking about in the sky  Please note that we had just had a thunder storm couple hours earlier So the patches of blue sky were quite clearer than normal After about twenty minutes looking about mostly west - north and south Noticed very high in the sky directly west over neighboring Whitby, Ontario  Looked some miles away west  A very bright round white light appeared to moving across the sky Instantly, I grabbed my camera beside me on the table Looked into the camera eye viewer and started to film It appears to be racing towards the clouds  As well going through the clouds really illustrates it's brightness of the entire object.That when I lost view of this unknown in or above the clouds Please note that also the clouds were moving quite fast from the west I cannot be sure if truly this bright light could have been stationary Though just for verification waited ten - fifteen minutes for some more clear patches of blue In the same area of the sky could not see anything further So hence maybe it was not stationary As mentioned have seen two other sightings June 9 @ 9:44 am Also June 11 near 7:00 pm - two bright unknowns side by side witnessed Both these sightings have been photographed Will later file these two other reports with still shots for both Thanks again</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141824.html](http://www.nuforc.org/webreports/reports/141/S141824.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163691.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163705.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163787.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163689.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163688.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
