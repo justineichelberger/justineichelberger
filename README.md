@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:35 on 13 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:39 on 13 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Methuen (MA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Strange orange triangular objects.I was inside my car with my wife, when she told me to look up for what she thought to be 3 airplanes flying really close from each other,  the problem is that these did not look like airplanes the light these objects were reflecting was of orange tone and they have triangle shape forms.  There were 3 flying objects, one on front two behind one at each side, one disappear two keep flying next to the other, when these two were far from the point where the third object disappear this third object show up again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119535.html](http://www.nuforc.org/webreports/reports/119/S119535.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Salina (KS) reported seeing craft that fit the description of some 'Cone' over a period of approximately as long as it took for th - as long as it took for th minutes.</sub><blockquote><sub>I was taking Pictures out my Front porch and noticed the object in the picturesWell I was thaking pictures of storm clouds on or about the 13th or 14th of June 2000 we were in a tornado warning and I took my camera out to take pictures of the clouds to send to my Girlfriend who lives in Maine so she could see what our skys look like durning tornado season since she has never seen what it looks like and I was taking picture after picture of clouds and when i went to download the pictures from my camera and was looking at them getting ready to send them to her I noticed that Pictures 9, 10, 11, and 12 had an object coming from left to right center in the first picture I noticed it in the upper left hand corner and it was kinda faint then in number 10 it kinda dissapeared into the clouds  #11 it was coming out of the clouds and on the final picture #12 it was clear as day a white kinda cone shaped object which i am not too sure of what it is I know there was no rain at the time and nothing was on my lense even though the ground was still wet  i can try to find out the exact date I know i just didn't download them till the 16th of june I kinda wish i noticed it sooner so i could remember the exact date and time  but maybe you will enjoy looking at the photos who know it just might be something intresting and maybe not as far as i know it could be alot of things or nothing but a fluke....((NUFORC Note:  We have seen the pictures, and they do seem interesting.  We will attempt to post them to our website to accompany the report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13135.html](http://www.nuforc.org/webreports/reports/013/S13135.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163691.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163705.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163787.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163689.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163688.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
