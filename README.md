@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:36 on 13 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:36 on 13 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Latrobe (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 300.0 - 300.0 minutes.</sub><blockquote><sub>sound coming from under your feet , no matter where you walk near the consumes river.this was a humming sound ,varying pitch ,you could listen on the rock formations to confirm this. after we left we could not account for a lot of time we thought we were there. we then all had head pounding for the next few days.my head hurts now.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08078.html](http://www.nuforc.org/webreports/reports/008/S08078.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Albemarle (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Orange lights traveling N to SWas about midnight, was sitting on my porch smoking a cigarette when I was observing the night sky.  We had a major storm blow thru the region earlier that day, which caused power outage, so I was able to look at the night sky and see the stars.There was no cloud cover, and dont recall the moon being out at the time.I was looking in a northernly direction when I viewed these 2 orange colored lights traveling together in a straight line.  What struck me as odd was they stayed in a perfect 'formation', one never led or fell behind the other, it was if they were 'attached' and moving across the sky at a pretty fast rate of speed.  They seemed to be at a high altitude, as I watched them, I viewed a lower flying conventional aircraft traveling SE to NW, intersecting the lights' flight path below them.I watched the lights travel across the viewable sky for about 10 minutes until I lost sight of them behind trees in the south.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100214.html](http://www.nuforc.org/webreports/reports/100/S100214.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163691.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163705.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163787.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163689.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163688.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
