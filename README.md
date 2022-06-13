@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:41 on 13 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:34 on 13 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Greensboro (NC) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Orange Object Pursued by Plane in Greensboro, NC  2011Viewed from second story apt window in downtown Greensboro, NC facing west.  Object was bright orange, and only object in sky.  Object was stationary.  After 5 minutes, another object which appeared to be a plane indicated by two small white lights side by side that would blink simultaneously (I think was also from the west) started getting closer towards the orange object.  As the blinking white lights got close, the orange object started moving east - south-east.  It went over my apt and out of sight.  The plane seemed to be in pursuit but could not match speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81768.html](http://www.nuforc.org/webreports/reports/081/S81768.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Florence (KY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>very bright very fast object moving west to eastLet the dog out back shortly after 9:00 pm, looked up and saw a very bright, very white light, like a welders spark, coming out of the western sky in a direct line do east moving extremely fast.  Covered the whole sky horizon to horizon in just a few minutes.  Altitude appeared to be lower than commercial aircraft passing through. Watched the last moments with binoculars object seemed to look triangular shape as it moved away from me.  Saw no flashing lights at all that would indicate it was aircraft.  It made no sound like an aircraft would make at similar altitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81760.html](http://www.nuforc.org/webreports/reports/081/S81760.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163691.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163705.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163787.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163689.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163688.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
