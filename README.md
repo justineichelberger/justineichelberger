@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:04:03 on 14 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:50 on 14 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Triangle  crafts  in V formation slowly flew over parking lot in Los Angeles Crenshaw shopping area3 triangle shape craft about a football field in size, flying in formation very low almost tree top level. completely silent,  I could make out the detail of the construction, grills and what not. Came in from the north over the Crenshaw shopping center heading south towards LAX. two commerical aircraft were on approach at LAX at the same time. The trianglur crafts move very slowly over the parking lot where everyone stood in total aw of what we were looking at. My cousin was standing next to me and there was  a guy in the car  in front of us on the CB radio describing the scene to some one as it happen. They floated over in a V shape formation with the lead one lower then the other two. no sound at all not even a hum. a sense of fright came over me, I was looking at something not god or man made for sure.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43697.html](http://www.nuforc.org/webreports/reports/043/S43697.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Raleigh (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Bright orange fireball with no sound.Bright orange globe flying in straight line.  Wife and I both saw it.  No sound.  No lights.  Silent.  Traveling from a North to South without changing course.  Moving at an un-known speed or altitude.  Hard to judge, since it was a bright fireball.  I'm a private pilot, and have never seen anything like this.  Traveled over the Raleigh Airspace, that isn't normal pattern for this area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119554.html](http://www.nuforc.org/webreports/reports/119/S119554.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/163/S163704.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163708.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164117.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163956.html)
-- [347](http://www.nuforc.org/webreports/reports/157/S157633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
