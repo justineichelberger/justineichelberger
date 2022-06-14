@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:38 on 14 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:44:04 on 14 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Perry (UT) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>It was a 747 are bigger flying lower than most of the time I kelp Watching It had like a White Cloud coming from the Nose of the Plane then more of the Cloud cover it the It Just Gone the Sound Stop it was What The HELL . I'm been sick Livertranplant So I'm always Out side and My Dad Worked for MC. Doulgles Cal.etc I've been A round Air Plane's All my Life I'm also a Sky Watcher Too .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163704.html](http://www.nuforc.org/webreports/reports/163/S163704.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Firebaugh (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Appeared to be the size of a large UFO with 3 perfectly round bright white lights, flying 100' off of ground, very slow & silent.While driving home from San Luis Obispo, CA at approximately 2120 at night, on interstate 5 going North between the Little Panoche Road and Firebaugh CA Exits we saw an unidentified aircraft flying at approximately 100' off the ground.  The aircraft was only visible by the 3 large, round, bright white lights that were evenly spaced in a row horizontally.  The lights seemed to be about 4 times larger than a car headlight with no other visible lights and we could not make out the shape of the body. Just by looking at the lights and how they were spread out horizontally I would guess that the span of the aircraft would be that of the wing span of a 737 aircraft. We saw the aircraft fly very slowly directly ahead of and in front of us.  As the aircraft was on the passenger side of the car, I remarked to my wife to "watch that aircraft, it looks like it is going to land, make an emergency landing", I kept on saying, "watch it, keep an eye on it....! keep on watching it".  Then as it came around to the east side of our car and crossed the highway going from the east to the west it quietly flew past and flew around on the west side of the freeway.  We thought it was an aircraft that was coming in for an emergency landing, as it was flying at an incredibly slow speed and very low to the ground.  The aircraft was silent or at least very quiet because we heard no noise as it passed overhead in front of us.  The car windows were up and the radio was on, but something flying that low and slow would have made some noise and turbulence as it passed over, we noticed no noise or abnormal movement of our car from the passing craft.  The craft then flew around on the west side of the freeway, disappeared from view and then I saw it in my side and rear view mirrors, my wife also saw the craft as she turned around to look out the back windows.  It maneuvered slowly and smoothly unlike any airliner, small aircraft or helicopter w! ould appear to fly.  We saw it for what seemed to be approxima! tely 1-2 minutes until we were somewhat farther down the highway and could no longer see the aircrafts lights.  I am an Aircraft Rescue Firefighter that has worked at an airport and around aircrafts for over 21 years and I have never seen that configuration of 3 round, large, equally space bright white lights on any aircraft and It seemed to maneuver like no other aircraft that I have seen flying.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98694.html](http://www.nuforc.org/webreports/reports/098/S98694.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/163/S163704.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163708.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164117.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163956.html)
-- [347](http://www.nuforc.org/webreports/reports/157/S157633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
