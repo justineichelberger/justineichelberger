@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:01:37 on 14 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:40 on 14 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Mechanicsville (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Large gray circular object a few hundred feet from the ground.While driving along highway 360 in Mechanicsville, near King William county line, I spotted this large grayish colored,  circular object just above the trees. I was in heavy traffic and could not stop to pull over, so I stuck my cell phone out of the window and took a picture of it with my cell phone camera.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46554.html](http://www.nuforc.org/webreports/reports/046/S46554.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Apple Valley (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 8:30-9:00 - 8:30-9:00 minutes.</sub><blockquote><sub>Dancing White Lights In The Sky During Bright DayAt 8:43 am, Saturday June 14th, in Apple Valley, Minnesota I was woken up by my mother telling me that they are seeing UFOs outside their bedroom windows. We looked out the window and there where dozens of little white lights, way for out in the sky in the South East direction. When we watched, there where a few seconds where there was nothing, then lights, some brighter then others, dancing, spinning, and shooting across the sky.  Many stopped and changed directions, shooting up, down and all around. We stood there for about 15-20 min, they where there still where dancing.  We moved to the other side of the house to see form a different window; we only saw one or two.((NUFORC Note:  Student report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63881.html](http://www.nuforc.org/webreports/reports/063/S63881.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/163/S163704.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163708.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164117.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163956.html)
-- [347](http://www.nuforc.org/webreports/reports/157/S157633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
