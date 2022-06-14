@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:47 on 14 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:36 on 14 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1972, an anonymous witness in Allentown (PA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>pink glowing boomerang[ufo]? seen moving across night sky.I have seen many strange things over the years,and I am 51 years old now.this sighting occured when I was 16 years old.I lived in a small house on a side street in Allentown Pa.it was around 10:15 pm,when I went outside to observe the stars.as usual the pleiades were almost directly overhead.the street I lived on ran east/west,so in the spring and summer pleiades seemed to rise at the east end of emmett st. and set at the west end.well this night I had been watching them for about 15 minutes and looking around the sky in the hope of sighting a meteorite or two.when to the west I spotted movement in the sky.it seemed to be very high up. if it was the size of a 747 jet my guess would be that it was flying at 30000 ft.but I didnt know the size of the thing,however what really caught my eye was not size but color and shape.I had seen many planes fly across the night sky but none like this one.boomerang shaped and glowing hot pink like poster paint.it seemed to be directly over emmett st. heading west to east.from my position I watched it approach, pass overhead and then depart.which took all of 5 minutes.it did not seem to be moving very fast.only like any other aircraft I had ever seen go across the night sky.except for that weird shape and color.I dont know if I saw a ufo or some strange military experiment.I like to think that yes,it was a UFO.((NUFORC Note:  Source of report indicates that date of the event is approximate.  PD))((NUFORC Note:  One of two reports from same source.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58515.html](http://www.nuforc.org/webreports/reports/058/S58515.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Flowery Branch (GA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Great ball of FIRE.My fiancee and I were on the lake, fishing at on Lake Lanier.  He pointed at the sky, and we both witnessed a huge fire ball hover above the water about 60 feet in the air.  I was terrified and I jumped on the dock and hid.  He yelled, "Baby what are you doing?  Come film this!"I gathered my courage, and I have a video of it but its very faint.  Compared to my horrible camera lens, this thing was HUGE.  It began to slowly go out and then just disappeared.  We knew it was still there we just couldnt see it.  There was no noise, no smoke and no smell.  It looked like a giant flame of a flickering candle.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110201.html](http://www.nuforc.org/webreports/reports/110/S110201.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/163/S163704.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163708.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164117.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163956.html)
-- [347](http://www.nuforc.org/webreports/reports/157/S157633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
