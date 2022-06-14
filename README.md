@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:11:00 on 14 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:01:37 on 14 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bradenton (northeast area of) (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Low flying orange fire like ballLooked up and saw an orange/red ball flying rather low. Lower than airplanes I see around here, or at least appeared low.  It looked like fire. Not really blinking, but sizzling would maybe describe it best. It was moving fast like if were an airplane, but would've had to be a low flying airplane.  I was at one side of the barn Znd yelled to my Freind at the other end for her to look up.  She said"that's weird, what is that".  I ran to her end to watch it, but it appeared to be smaller and s little more faint. Like it wasobing up or fading out. It looked like a flame about to die.  There was not one sound coming from the sky, nothing. It just disappeared.I watched airplanes fly Around after that, a which looked Md sounded like airplanes, even with them being much further away and much higher, I could hear them.  This orange light was moving west, towards the gulf. It looked like a flame from a hot air balloon ( the best thing I can think to describe it).  My Freind said it was much to fast for that. Did anyone see this?  I've never reported nor seen anything like this.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89643.html](http://www.nuforc.org/webreports/reports/089/S89643.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Mechanicsville (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Large gray circular object a few hundred feet from the ground.While driving along highway 360 in Mechanicsville, near King William county line, I spotted this large grayish colored,  circular object just above the trees. I was in heavy traffic and could not stop to pull over, so I stuck my cell phone out of the window and took a picture of it with my cell phone camera.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46554.html](http://www.nuforc.org/webreports/reports/046/S46554.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/163/S163704.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163708.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164117.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163956.html)
-- [347](http://www.nuforc.org/webreports/reports/157/S157633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
