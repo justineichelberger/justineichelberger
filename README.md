@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:11:22 on 14 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:01:02 on 14 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Lake Lure (NC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>I was looking into the sky and several fire red objects went across the sky, one after the other,,, in the distance was a plane beyond these,,at first I thought it was the moon shining on planes,,but they were larger and went quick lye,,,tried to grab my camera but it was too late!!!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110211.html](http://www.nuforc.org/webreports/reports/110/S110211.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1979, an anonymous witness in Wagarville (AL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Walked outside during lightening storm and a bright green light, the size of a large cigar appeared and disappeared several times.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148746.html](http://www.nuforc.org/webreports/reports/148/S148746.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/163/S163704.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163708.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164117.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163956.html)
-- [347](http://www.nuforc.org/webreports/reports/157/S157633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
