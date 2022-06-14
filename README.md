@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:34 on 14 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:38 on 14 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1972, an anonymous witness in Allentown (PA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>pink glowing boomerang[ufo]? seen moving across night sky.I have seen many strange things over the years,and I am 51 years old now.this sighting occured when I was 16 years old.I lived in a small house on a side street in Allentown Pa.it was around 10:15 pm,when I went outside to observe the stars.as usual the pleiades were almost directly overhead.the street I lived on ran east/west,so in the spring and summer pleiades seemed to rise at the east end of emmett st. and set at the west end.well this night I had been watching them for about 15 minutes and looking around the sky in the hope of sighting a meteorite or two.when to the west I spotted movement in the sky.it seemed to be very high up. if it was the size of a 747 jet my guess would be that it was flying at 30000 ft.but I didnt know the size of the thing,however what really caught my eye was not size but color and shape.I had seen many planes fly across the night sky but none like this one.boomerang shaped and glowing hot pink like poster paint.it seemed to be directly over emmett st. heading west to east.from my position I watched it approach, pass overhead and then depart.which took all of 5 minutes.it did not seem to be moving very fast.only like any other aircraft I had ever seen go across the night sky.except for that weird shape and color.I dont know if I saw a ufo or some strange military experiment.I like to think that yes,it was a UFO.((NUFORC Note:  Source of report indicates that date of the event is approximate.  PD))((NUFORC Note:  One of two reports from same source.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58515.html](http://www.nuforc.org/webreports/reports/058/S58515.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Laval (France) () reported seeing craft that fit the description of some 'Cross' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>It was around 4 PM local time, and I looked at the sky toward the North and admire the clouds  (I collect kind of lenticular clouds).  I got a picture and blown up later.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74407.html](http://www.nuforc.org/webreports/reports/074/S74407.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/163/S163704.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163708.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164117.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163956.html)
-- [347](http://www.nuforc.org/webreports/reports/157/S157633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
