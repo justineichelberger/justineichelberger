@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:38 on 14 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:19 on 14 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Laval (France) () reported seeing craft that fit the description of some 'Cross' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>It was around 4 PM local time, and I looked at the sky toward the North and admire the clouds  (I collect kind of lenticular clouds).  I got a picture and blown up later.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74407.html](http://www.nuforc.org/webreports/reports/074/S74407.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in St. Louis (Webster Groves) (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>Very bright cool white lights, 5-7 moving in PERFECT formation - no visible connection.Multiple bright “cool” bluish white lights, all in a line – not sure how many, approx. five to seven – just a short window in which to view.  Initially thought it was from fireworks, but quickly became aware that the lights were moving in unison heading west towards sunset – it was still light enough in the western sky to see there was no visible structure between the lights – the lights were not connected and were moving forward in perfect unison.We were driving south on Laclede Station Road in Webster Groves, Mo –a suburb of St. Louis, Missouri.  We tried to get to a better vantage point, but were not able to find them again.  We’re not sure about the spacing of the lights.  They did not appear to blink or strobe.  No vapor trail or tail.  Could not determine sound because we were in a car.  The overall span approx. 600 ft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110276.html](http://www.nuforc.org/webreports/reports/110/S110276.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/163/S163704.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163708.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164117.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163956.html)
-- [347](http://www.nuforc.org/webreports/reports/157/S157633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
