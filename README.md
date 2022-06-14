@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:45 on 13 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:52 on 14 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Casper (WY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>14yr old female sees oval shaped, distortion in sky with 3 lights on back14yr old female witnessed an object while lying on trampoline. Object dropped out of cluster of stars and stopped overhead. Hard to distinguish edges of object but looked like a transparent magnifying glass distorting the sky and stars, seemed to be oval with   3 dull oval lights in a line at back end emitting tan color.  Moved smoother than plane and slowly West.  Made a repetitive low screeching sound like a door makes when opening and closing, only lower pitched.Female climbed down from trampoline and ran to house door looking back once to see it still moving over her neighbor's house.  Female went inside and cried to parents, had about 4 nightmares in the following years of alien abductions.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75251.html](http://www.nuforc.org/webreports/reports/075/S75251.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Richmond (KY) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Clear, bright morning, 11:05 am, saw a pure white cylinder-shaped object in the sky above the tree lines, sailing fast.  No wings.Was heading North to home around 11:05 am..  as we were going down hill, I look to the left of me an saw a low flying white cylinder shape object sailing beside us, beyond the tree line,  told my friend to look..as we were looking it pick up fast speed, did not make any sound.. an we watched it sail northward real real fast..  it seem to turn slightly heading Northwest as it sailed fast across the sky..  it did not have any wings or tail..  it was a pure white..  the sky was clear blue with a couple of white fluffy clouds..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127881.html](http://www.nuforc.org/webreports/reports/127/S127881.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163691.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163705.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163787.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163689.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163688.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
