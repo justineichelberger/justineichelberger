@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:40 on 14 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:34 on 14 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Apple Valley (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 8:30-9:00 - 8:30-9:00 minutes.</sub><blockquote><sub>Dancing White Lights In The Sky During Bright DayAt 8:43 am, Saturday June 14th, in Apple Valley, Minnesota I was woken up by my mother telling me that they are seeing UFOs outside their bedroom windows. We looked out the window and there where dozens of little white lights, way for out in the sky in the South East direction. When we watched, there where a few seconds where there was nothing, then lights, some brighter then others, dancing, spinning, and shooting across the sky.  Many stopped and changed directions, shooting up, down and all around. We stood there for about 15-20 min, they where there still where dancing.  We moved to the other side of the house to see form a different window; we only saw one or two.((NUFORC Note:  Student report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63881.html](http://www.nuforc.org/webreports/reports/063/S63881.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1972, an anonymous witness in Allentown (PA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>pink glowing boomerang[ufo]? seen moving across night sky.I have seen many strange things over the years,and I am 51 years old now.this sighting occured when I was 16 years old.I lived in a small house on a side street in Allentown Pa.it was around 10:15 pm,when I went outside to observe the stars.as usual the pleiades were almost directly overhead.the street I lived on ran east/west,so in the spring and summer pleiades seemed to rise at the east end of emmett st. and set at the west end.well this night I had been watching them for about 15 minutes and looking around the sky in the hope of sighting a meteorite or two.when to the west I spotted movement in the sky.it seemed to be very high up. if it was the size of a 747 jet my guess would be that it was flying at 30000 ft.but I didnt know the size of the thing,however what really caught my eye was not size but color and shape.I had seen many planes fly across the night sky but none like this one.boomerang shaped and glowing hot pink like poster paint.it seemed to be directly over emmett st. heading west to east.from my position I watched it approach, pass overhead and then depart.which took all of 5 minutes.it did not seem to be moving very fast.only like any other aircraft I had ever seen go across the night sky.except for that weird shape and color.I dont know if I saw a ufo or some strange military experiment.I like to think that yes,it was a UFO.((NUFORC Note:  Source of report indicates that date of the event is approximate.  PD))((NUFORC Note:  One of two reports from same source.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58515.html](http://www.nuforc.org/webreports/reports/058/S58515.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/163/S163704.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163708.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164117.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163956.html)
-- [347](http://www.nuforc.org/webreports/reports/157/S157633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
