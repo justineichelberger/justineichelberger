@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:40 on 14 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:52 on 15 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Maitland (FL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Slender vertical craft seen disappearing behind a cloudA long slender shaped rectangle craft was seen in a vertical fashion moving across the ski very slowly. The object went behind a cloud (it was a very cloudy day) and disappeared. Pulled over into a parking lot to get a better look or picture but it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149814.html](http://www.nuforc.org/webreports/reports/149/S149814.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Yorktown (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Yorktown Beach on 6-15-12 we saw 5 or 6 lights flying seperately in the skyWe were at Yorktown Beach on 6-15-12.  The sun went down but the sky was still blue.  I looked up and saw one light very high in the sky.  The one light hovered and then in the blink of an eye there was another on beside it.  The two lights then flew over each other and went in opposite directions.  We watched them disappear into the distance and then in the original spot another light appeared.   This light hovered and appeared to swing back and forth and then moved away and disappeared.  Then another light appeared it hovered without moving and we watched until the light went completely out. It just went out like a light switch.  It was the brightest light of all lights we saw and when it went out we were amazed.  About a minute later we saw one more light hovering lower than the previous lights but it too just disappeared.  We had not been drinking or smoking anything and there were no clouds in the sky and there were no stars yet. The sky was still blue.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89621.html](http://www.nuforc.org/webreports/reports/089/S89621.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/163/S163704.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163708.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164117.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163956.html)
-- [347](http://www.nuforc.org/webreports/reports/157/S157633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
