@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:34 on 15 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:44 on 15 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Stony Brook (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately at home - at home minutes.</sub><blockquote><sub>It was circular and it had a sign on it like a star or moonIt all started when my dad took me and my sister to a party at the beach.I was with my sister and a friend and her mother was talking to someone.Anyway we were playing follow the leader until we saw a strang shipe our friend was with us to see it.Someone was in back of us and it was strang person my friend ran me and my sister we were with the strang person and he put his finger on our forheads and went to sleep soon i remeber being on a strang tabl with lights all around and i saw my sister on the other side they put a stick in us that hert a lot i heard my sister crying awhile later my dad found me and my sister in the feild sleeping the strang people might of took us off the ship.All I have left now is scars on my hands,leg and behind my ear and also my sister.Sometimes I'll have dreams of what happened and hearing my sister crying and me in pain.Thats all i remeber now.((NUFORC Note:  Date may be approximate.  We will request a report from the sister, and invite both sisters to contact local investigators, in attempt to document the facts cited.  Witness does not provide a valid return e-address, however.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27819.html](http://www.nuforc.org/webreports/reports/027/S27819.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in Warrensville (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>my friend and I were shooting pool at his home early in the morning, I belive it was a friday or saterday morning.  when we heared a low rumble and a slight shaking sensation (LFO low frequence osalation) it kinda made us sick, upset stomach ect.. he lives high on a mountian over looking the valley and several farms. we looked for a helocopter but did not see any, then he looked up and saw a triangle shaped object, nudging me to look up we watched it move slowly twards Williamsport in a south or south east direction. a couple other people in the valley saw it also.  we never discusted it with any one.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35876.html](http://www.nuforc.org/webreports/reports/035/S35876.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1278](http://www.nuforc.org/webreports/reports/163/S163748.html)
-- [1277](http://www.nuforc.org/webreports/reports/163/S163712.html)
-- [1276](http://www.nuforc.org/webreports/reports/163/S163721.html)
-- [1275](http://www.nuforc.org/webreports/reports/163/S163718.html)
-- [1274](http://www.nuforc.org/webreports/reports/163/S163785.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
