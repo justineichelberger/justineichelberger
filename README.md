@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:04:11 on 15 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:34 on 15 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Kayseri (Turkey) () reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>in summer at 8 clock morning there is no cloud it is very clearly day &#305; m looking for  sun is setup i see a flying object coming through to me  it is over me there is some shape sunder itis very big it is high abaut 1kmvery suprisedthere is no sound no gasses shine like metal money((NUFORC Note:  Report appears to have been submitted from Turkey.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24075.html](http://www.nuforc.org/webreports/reports/024/S24075.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1976, an anonymous witness in Saugerties (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>huge silent triangle full of lights moving slow just above treeshuge triangle moving very slowly making no sound.dont acually remember month or year,probably definately spring or summer 76 or 77.my friend and i were in his back yard on ulster ave.when we noticed the ufo.traffic on ulster ave.nearly came to a stop.next day my mother told me she heard about it and many people saw it and it was said to be a weather station.i guess thats possible but im not convinced .this thing was huge with no sound and moving so slowly.does anyone else remember?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114102.html](http://www.nuforc.org/webreports/reports/114/S114102.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1278](http://www.nuforc.org/webreports/reports/163/S163748.html)
-- [1277](http://www.nuforc.org/webreports/reports/163/S163712.html)
-- [1276](http://www.nuforc.org/webreports/reports/163/S163721.html)
-- [1275](http://www.nuforc.org/webreports/reports/163/S163718.html)
-- [1274](http://www.nuforc.org/webreports/reports/163/S163785.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
