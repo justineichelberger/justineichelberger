@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:02:57 on 15 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:38 on 15 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Sydney (Australia) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Multiple ships taking sample from Cooks River, SydneyI was out on my morining walk with my husband and dog when i saw 3 triangular shaped crafts landing in the Cooks River. These ships appeared to take some water and sand (possibly for a sample). We did not know what to do, so we hid behind a tree. After about five minutes the ships started flshing their lights and started to hover. Then about thirty seconds later the ships sped of with tremendous speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57079.html](http://www.nuforc.org/webreports/reports/057/S57079.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Ghanzi (Botswana) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Second time i have seen the this in 2 years in same place.I went out to switch off the generator and saw the light in the horizon.  I then went to a better spot to make sure that it wasn't a star or planet.  It was moving slowly left and right and gradually went lower, I went inside house to get camera.  When I got back it was too low in the horizon to see anymore. This happened in 5 minutes time.  THIS wasn't the first time I saw this, in December 2013 my father in law, my wife and her sister saw the same occurence, it was dancing for about 8 mins and dropped down behind the tree line in the distance.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119594.html](http://www.nuforc.org/webreports/reports/119/S119594.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1278](http://www.nuforc.org/webreports/reports/163/S163748.html)
-- [1277](http://www.nuforc.org/webreports/reports/163/S163712.html)
-- [1276](http://www.nuforc.org/webreports/reports/163/S163721.html)
-- [1275](http://www.nuforc.org/webreports/reports/163/S163718.html)
-- [1274](http://www.nuforc.org/webreports/reports/163/S163785.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
