@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:44 on 15 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:13:16 on 15 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Loveland (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Moving light stops and gets brighter, then moves faster.At first it looked like a satellite, a star-sized light moving across the sky.  But then it stopped and got brighter and brighter and then dimmed to the same brightness as it was before and started moving in a slightly altered path, but faster, disappearing under the treeline in our woods.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))((NUFORC Note:  Possible flare of reflected light from Iridium satellite??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86274.html](http://www.nuforc.org/webreports/reports/086/S86274.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1966, an anonymous witness in Cincinnati (OH) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Saucer shaped object over Crosley fieldI was living in the housing projects on a high hill in back of Cincinnati, listening to radio when the announcer came on real excited saying" everyone get your cameras and get a picture of the thing that just went over Crosley Field.  I never had a camera but I looked out of the upstairs window and saw these bright lights coming in the sky from the direction of Crosley Field.  I ran down stairs and went outside.  There was a ball field for children just over the bank from our building.  There was a saucer shape object coming over slowly It looked like two plates put together with bright white lights running around it in the middle.  It made no noise other than a swish/  My neighbor woman and I followed it up the street.  It went up to the area where the trees were  and stopped in mid air, It was too low to go over the trees. It up straight up and was out of sight in seconds.  Then later an announcement came over the same station that it was just an advertising plane.  But the plane that came over was from a different direction, looked like a regular plane,made noise like a plane and had red and green lights.  We talked about it to our selves but did not say anything to  anyone else.   Jean Dixon had made a prediction about aliens coming down to get the teenagers about that time, so all the children were hid.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28742.html](http://www.nuforc.org/webreports/reports/028/S28742.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1278](http://www.nuforc.org/webreports/reports/163/S163748.html)
-- [1277](http://www.nuforc.org/webreports/reports/163/S163712.html)
-- [1276](http://www.nuforc.org/webreports/reports/163/S163721.html)
-- [1275](http://www.nuforc.org/webreports/reports/163/S163718.html)
-- [1274](http://www.nuforc.org/webreports/reports/163/S163785.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
