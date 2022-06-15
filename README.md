@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:36 on 15 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:02:57 on 15 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1952, an anonymous witness in Luke Airforce Base (AZ) reported seeing craft that fit the description of some 'Egg' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>This was in the summer of 1951 or 1952, not sure, went to Litchfield Park, Arizona every summer to visit a girl friend, and we went to Luke AirForce Base to go swimming, while we were out by the pool, looked up and saw this silver disc moving really fast and hovering over us, everyone there was looking up to the skyand then it disappeared. When I got home to California, told my Mother and she did not believe me. It was in the L.A. Examiner that a flying saucer was spotted at the base in Arizona. Then they believed that I saw something.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36134.html](http://www.nuforc.org/webreports/reports/036/S36134.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Sydney (Australia) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Multiple ships taking sample from Cooks River, SydneyI was out on my morining walk with my husband and dog when i saw 3 triangular shaped crafts landing in the Cooks River. These ships appeared to take some water and sand (possibly for a sample). We did not know what to do, so we hid behind a tree. After about five minutes the ships started flshing their lights and started to hover. Then about thirty seconds later the ships sped of with tremendous speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57079.html](http://www.nuforc.org/webreports/reports/057/S57079.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1278](http://www.nuforc.org/webreports/reports/163/S163748.html)
-- [1277](http://www.nuforc.org/webreports/reports/163/S163712.html)
-- [1276](http://www.nuforc.org/webreports/reports/163/S163721.html)
-- [1275](http://www.nuforc.org/webreports/reports/163/S163718.html)
-- [1274](http://www.nuforc.org/webreports/reports/163/S163785.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
