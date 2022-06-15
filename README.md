@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:40 on 15 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:43 on 15 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1980, an anonymous witness in Point Mugu (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>The craft were brightly lit, had hovering ability, and were lightning fast.I was camping at Point Magoo. I was 15 at the time, and was with my boyfriend who was 22 at the time. We were walking along the beach, and had stopped to watch what we thought were buoys bouncing in the tide. There were lights on top, which we did not find unusual, as this is (was) the case with many buoys. They are frequently placed at a distance close enough for swimmers, and far out enough for boaters. I was soothed by the motion of the lights. After a few minutes, I couldn't say exactly how many, the lights lifted and hovered. They stayed in that hovering position for about 30 or 40 seconds, then flew off. It was not a lazy, slow type of flight, but very fast. They took off to the left of us and were out of sight before I could even blink an eye. I had never, and have not to this day, seen anything that fast in my life.At first I thought I must have been imagining the whole thing, but when I asked my boyfriend, he confirmed to me that he had seen the same thing. We went back to that spot the next day, just to see if the buoys were really there, which they were. But, they had no lights atop of them. I had my doubts about UFO's at the time, but they were quickly removed with that sighting. I have never had another sighting, though I would like to. I do not know the shape of the crafts, only that the lights were the predominent factor.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29393.html](http://www.nuforc.org/webreports/reports/029/S29393.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1994, an anonymous witness in Drain (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Large circle of light in the sky flashes brightly, then shrinks to star size and zig-zaggs away.My friend and I were trying out her new telescope. Couldn't get it to focus clearly. The pet cats were climbing all over us, and they usually don't want to cuddle with me, so I thought that was odd. I got up from my chair in the driveway and looked up above the tall, surrounding trees to see if I could find the moon, easier to focus on. I turned around to look behind us , and above the Douglas firs and the house was a bright white light.Complete circle, breifly thought it was the moon, but it had an electrical glow. I asked my friend"what's that?" She said she didn't know- not a lamp.She tried to focus on it with the telescope, and when she put her eye to the eyepiece the light flashed brightly. My friend jerked her head away and exclaimed that the light had hurt her eye. Then the light shrunk down to star size, zipped diagonally to the left. then took off up further into the sky and zig- zagged to the left and dissapeared.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29709.html](http://www.nuforc.org/webreports/reports/029/S29709.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1278](http://www.nuforc.org/webreports/reports/163/S163748.html)
-- [1277](http://www.nuforc.org/webreports/reports/163/S163712.html)
-- [1276](http://www.nuforc.org/webreports/reports/163/S163721.html)
-- [1275](http://www.nuforc.org/webreports/reports/163/S163718.html)
-- [1274](http://www.nuforc.org/webreports/reports/163/S163785.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
