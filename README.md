@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:12:22 on 15 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:04:11 on 15 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Waxahachie (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Sunday night, 6/15/03, Waxahachie. Moving south to northI went outside after the evening news and was enjoying the cool breeze, while looking up at the Big Dipper I noticed what I thought was a plane, since Love Field and DFW Airport are north of Waxahachie.It only took a second to realize this thing was MOVING FAST. To get a better look I shielded my eyes and looked ahead of it a bit. I don't wear glasses so there was no reflection. The object was moving from south to north and I noticed a faint blue crescent or what may have been lights around the leading edge and sides with a faint yellowish circle in what would appear to be the middle. From the few seconds that I saw this I can only estimate that it was traveling at approximately 1200 to 1500 miles per hour. Estimated altitude is rough to even estimate but I would guess it was around 10,000 to 15,000 feet. It crossed roughly 30% of the sky in about 3 to 4 seconds. What I waited for after it went out of sight was the noise of it's engines. There was none. It was absolutely silent, and there wasn't any other aircraft in the area at the time that it went overhead.I know it sounds a little nuts, it sure does to me, but I grew up around the airline industry. My father was a dispatcher for Braniff for decades and I practically cut my teeth with him when he took with him when he went out to different stations.The thing is is that I can't get it out of my head. I can't identify it.I called the Dallas Fort Worth Airport Information line and they referred me to you.The control tower at DFW Airport, or Love Field also had to have seen this on radar.That's why I called them. Please contact me</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29222.html](http://www.nuforc.org/webreports/reports/029/S29222.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Kayseri (Turkey) () reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>in summer at 8 clock morning there is no cloud it is very clearly day &#305; m looking for  sun is setup i see a flying object coming through to me  it is over me there is some shape sunder itis very big it is high abaut 1kmvery suprisedthere is no sound no gasses shine like metal money((NUFORC Note:  Report appears to have been submitted from Turkey.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24075.html](http://www.nuforc.org/webreports/reports/024/S24075.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1278](http://www.nuforc.org/webreports/reports/163/S163748.html)
-- [1277](http://www.nuforc.org/webreports/reports/163/S163712.html)
-- [1276](http://www.nuforc.org/webreports/reports/163/S163721.html)
-- [1275](http://www.nuforc.org/webreports/reports/163/S163718.html)
-- [1274](http://www.nuforc.org/webreports/reports/163/S163785.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
