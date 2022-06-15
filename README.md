@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:13:16 on 15 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:34 on 15 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1966, an anonymous witness in Cincinnati (OH) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Saucer shaped object over Crosley fieldI was living in the housing projects on a high hill in back of Cincinnati, listening to radio when the announcer came on real excited saying" everyone get your cameras and get a picture of the thing that just went over Crosley Field.  I never had a camera but I looked out of the upstairs window and saw these bright lights coming in the sky from the direction of Crosley Field.  I ran down stairs and went outside.  There was a ball field for children just over the bank from our building.  There was a saucer shape object coming over slowly It looked like two plates put together with bright white lights running around it in the middle.  It made no noise other than a swish/  My neighbor woman and I followed it up the street.  It went up to the area where the trees were  and stopped in mid air, It was too low to go over the trees. It up straight up and was out of sight in seconds.  Then later an announcement came over the same station that it was just an advertising plane.  But the plane that came over was from a different direction, looked like a regular plane,made noise like a plane and had red and green lights.  We talked about it to our selves but did not say anything to  anyone else.   Jean Dixon had made a prediction about aliens coming down to get the teenagers about that time, so all the children were hid.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28742.html](http://www.nuforc.org/webreports/reports/028/S28742.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Bel Air (MD) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Oval shaped object in sky over Bel Air, MarylandI walked my girlfriend out to her car and looked over at the W in the sky or Cassiopeia which coming out my house would be on my left.  I moved my head right going straight when standing at my house and looked up and saw a greenish gray oval disc flying away from me straight.  It was very large so I would assume it was either big or low.  There was no sound or anything, I was moving at a high rate of speed and was gone with in a min leaving a greenish gray trail behind it.  I know for a fact this was not a shooting star or anything like that since I watch the sky all the time and it did not have anything that would lead me to believe that it was.  The night sky was clear no clouds or anything.  After seeing this object in the sky my heart raced and I turned pale in the face.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75796.html](http://www.nuforc.org/webreports/reports/075/S75796.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1278](http://www.nuforc.org/webreports/reports/163/S163748.html)
-- [1277](http://www.nuforc.org/webreports/reports/163/S163712.html)
-- [1276](http://www.nuforc.org/webreports/reports/163/S163721.html)
-- [1275](http://www.nuforc.org/webreports/reports/163/S163718.html)
-- [1274](http://www.nuforc.org/webreports/reports/163/S163785.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
