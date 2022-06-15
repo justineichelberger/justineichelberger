@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:34 on 15 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:49 on 15 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Bel Air (MD) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Oval shaped object in sky over Bel Air, MarylandI walked my girlfriend out to her car and looked over at the W in the sky or Cassiopeia which coming out my house would be on my left.  I moved my head right going straight when standing at my house and looked up and saw a greenish gray oval disc flying away from me straight.  It was very large so I would assume it was either big or low.  There was no sound or anything, I was moving at a high rate of speed and was gone with in a min leaving a greenish gray trail behind it.  I know for a fact this was not a shooting star or anything like that since I watch the sky all the time and it did not have anything that would lead me to believe that it was.  The night sky was clear no clouds or anything.  After seeing this object in the sky my heart raced and I turned pale in the face.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75796.html](http://www.nuforc.org/webreports/reports/075/S75796.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in North Phoenix (AZ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Alternating bright orange and white lights flying low and eastwardly in north Phoenix.I think it was after 10:00pm.  I know it was not durring the hour of 9:00 in the evening, as I was inside for the whole hour watching tv.  I stepped outback to check on the cat.  I was facing west when I noticed a bright flashing orange light to the south east of me.  We live near a smaller airport and I like to watch the air traffic.  I have never before noticed a plane with such bright a light.  The light was alternating bright orange and white.  The lights appeared to be side by side.  The object was low in the sky, much like the planes who are turning to go in for a landing about a mile north of us.  It seemed to be lower than most small crafts in the area.  This flashing object was headed east.  It is not a usual flight direction for our area.  I noticed a second light that came from the south and turned to go east following the first set of lights.  I know the second object was a plane or hellicopter because it flashed the normal color lights and it made noise.  The first craft with orange and white lights was not making noise. I found that part strange.  The light from the first object looked much brighter and larger than any other in the sky.  I could not find information on any type of aircraft that uses bright orange and white alternating lights.  This short sighting just doesn't sit right with me.  It was rather bright and  pretty low in the sky so, I hope someone else also noticed it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75816.html](http://www.nuforc.org/webreports/reports/075/S75816.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1278](http://www.nuforc.org/webreports/reports/163/S163748.html)
-- [1277](http://www.nuforc.org/webreports/reports/163/S163712.html)
-- [1276](http://www.nuforc.org/webreports/reports/163/S163721.html)
-- [1275](http://www.nuforc.org/webreports/reports/163/S163718.html)
-- [1274](http://www.nuforc.org/webreports/reports/163/S163785.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
