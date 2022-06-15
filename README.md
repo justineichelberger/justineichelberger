@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:45 on 15 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:54 on 15 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1970, an anonymous witness in Yorktown Heights (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 30+ - 30+ minutes.</sub><blockquote><sub>Multi lights over YorktownI don't remember the exact year or month. But I do remember a LOT of lights (maybe in the East) There were maybe a dozen lights in the night sky at any one time. Could have been more. I know at one point there was a beam of light like a laser. It went straight down, and then sort of travelled back up to the light. Also one was surrounded by a pinkish smoke and a search light. At the end, they kind of went into the largest light. (mother ship?)This lasted for a long time. And neighbors came up to my mothers house to look at it. I know it must have been seen by others only because of the length of time and the numbers in the sky.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28144.html](http://www.nuforc.org/webreports/reports/028/S28144.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1976, an anonymous witness in Smithtown (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I was walking w/ my friends; we were abreast, but I was walking backwards. I was 16 yrs old. I looked up, and about 100 feet above me was a craft.  It was big enough that it was about all I could see.  It was silent. It had a row of orange rectangular windows/lights, all around the rim. The lights were taller than wider (on end). I took a few seconds to try to understand what I saw, and once I had made sure I was not looking at anything normal, I turned to my friends and said "what is that?". As I turned to show them what I was asking about, it silently moved vertically, and then just zipped off. So quickly, that all they could say is "what are you talking about?". It drives me crazy that I cannot verify this sighting. No one takes me seriously, yet I know what I saw. Anyone have any input?((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48469.html](http://www.nuforc.org/webreports/reports/048/S48469.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1278](http://www.nuforc.org/webreports/reports/163/S163748.html)
-- [1277](http://www.nuforc.org/webreports/reports/163/S163712.html)
-- [1276](http://www.nuforc.org/webreports/reports/163/S163721.html)
-- [1275](http://www.nuforc.org/webreports/reports/163/S163718.html)
-- [1274](http://www.nuforc.org/webreports/reports/163/S163785.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
