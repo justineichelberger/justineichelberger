@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:49 on 15 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:36 on 15 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in North Phoenix (AZ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Alternating bright orange and white lights flying low and eastwardly in north Phoenix.I think it was after 10:00pm.  I know it was not durring the hour of 9:00 in the evening, as I was inside for the whole hour watching tv.  I stepped outback to check on the cat.  I was facing west when I noticed a bright flashing orange light to the south east of me.  We live near a smaller airport and I like to watch the air traffic.  I have never before noticed a plane with such bright a light.  The light was alternating bright orange and white.  The lights appeared to be side by side.  The object was low in the sky, much like the planes who are turning to go in for a landing about a mile north of us.  It seemed to be lower than most small crafts in the area.  This flashing object was headed east.  It is not a usual flight direction for our area.  I noticed a second light that came from the south and turned to go east following the first set of lights.  I know the second object was a plane or hellicopter because it flashed the normal color lights and it made noise.  The first craft with orange and white lights was not making noise. I found that part strange.  The light from the first object looked much brighter and larger than any other in the sky.  I could not find information on any type of aircraft that uses bright orange and white alternating lights.  This short sighting just doesn't sit right with me.  It was rather bright and  pretty low in the sky so, I hope someone else also noticed it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75816.html](http://www.nuforc.org/webreports/reports/075/S75816.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1952, an anonymous witness in Luke Airforce Base (AZ) reported seeing craft that fit the description of some 'Egg' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>This was in the summer of 1951 or 1952, not sure, went to Litchfield Park, Arizona every summer to visit a girl friend, and we went to Luke AirForce Base to go swimming, while we were out by the pool, looked up and saw this silver disc moving really fast and hovering over us, everyone there was looking up to the skyand then it disappeared. When I got home to California, told my Mother and she did not believe me. It was in the L.A. Examiner that a flying saucer was spotted at the base in Arizona. Then they believed that I saw something.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36134.html](http://www.nuforc.org/webreports/reports/036/S36134.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1278](http://www.nuforc.org/webreports/reports/163/S163748.html)
-- [1277](http://www.nuforc.org/webreports/reports/163/S163712.html)
-- [1276](http://www.nuforc.org/webreports/reports/163/S163721.html)
-- [1275](http://www.nuforc.org/webreports/reports/163/S163718.html)
-- [1274](http://www.nuforc.org/webreports/reports/163/S163785.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
