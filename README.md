@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:34 on 15 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:40 on 15 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1976, an anonymous witness in Saugerties (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>huge silent triangle full of lights moving slow just above treeshuge triangle moving very slowly making no sound.dont acually remember month or year,probably definately spring or summer 76 or 77.my friend and i were in his back yard on ulster ave.when we noticed the ufo.traffic on ulster ave.nearly came to a stop.next day my mother told me she heard about it and many people saw it and it was said to be a weather station.i guess thats possible but im not convinced .this thing was huge with no sound and moving so slowly.does anyone else remember?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114102.html](http://www.nuforc.org/webreports/reports/114/S114102.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1980, an anonymous witness in Point Mugu (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>The craft were brightly lit, had hovering ability, and were lightning fast.I was camping at Point Magoo. I was 15 at the time, and was with my boyfriend who was 22 at the time. We were walking along the beach, and had stopped to watch what we thought were buoys bouncing in the tide. There were lights on top, which we did not find unusual, as this is (was) the case with many buoys. They are frequently placed at a distance close enough for swimmers, and far out enough for boaters. I was soothed by the motion of the lights. After a few minutes, I couldn't say exactly how many, the lights lifted and hovered. They stayed in that hovering position for about 30 or 40 seconds, then flew off. It was not a lazy, slow type of flight, but very fast. They took off to the left of us and were out of sight before I could even blink an eye. I had never, and have not to this day, seen anything that fast in my life.At first I thought I must have been imagining the whole thing, but when I asked my boyfriend, he confirmed to me that he had seen the same thing. We went back to that spot the next day, just to see if the buoys were really there, which they were. But, they had no lights atop of them. I had my doubts about UFO's at the time, but they were quickly removed with that sighting. I have never had another sighting, though I would like to. I do not know the shape of the crafts, only that the lights were the predominent factor.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29393.html](http://www.nuforc.org/webreports/reports/029/S29393.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1278](http://www.nuforc.org/webreports/reports/163/S163748.html)
-- [1277](http://www.nuforc.org/webreports/reports/163/S163712.html)
-- [1276](http://www.nuforc.org/webreports/reports/163/S163721.html)
-- [1275](http://www.nuforc.org/webreports/reports/163/S163718.html)
-- [1274](http://www.nuforc.org/webreports/reports/163/S163785.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
