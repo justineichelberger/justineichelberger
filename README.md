@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:52 on 15 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:02 on 15 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Yorktown (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Yorktown Beach on 6-15-12 we saw 5 or 6 lights flying seperately in the skyWe were at Yorktown Beach on 6-15-12.  The sun went down but the sky was still blue.  I looked up and saw one light very high in the sky.  The one light hovered and then in the blink of an eye there was another on beside it.  The two lights then flew over each other and went in opposite directions.  We watched them disappear into the distance and then in the original spot another light appeared.   This light hovered and appeared to swing back and forth and then moved away and disappeared.  Then another light appeared it hovered without moving and we watched until the light went completely out. It just went out like a light switch.  It was the brightest light of all lights we saw and when it went out we were amazed.  About a minute later we saw one more light hovering lower than the previous lights but it too just disappeared.  We had not been drinking or smoking anything and there were no clouds in the sky and there were no stars yet. The sky was still blue.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89621.html](http://www.nuforc.org/webreports/reports/089/S89621.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Patna (India) () reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>mainly at night,one f.s has always came and hurtd the people.who sleeps at their houses's roof.we are very afraid for this type of devil.it is like a monkey-man.at night a f.s came'then a robotic person has came from that f.s and a monkey-man has also came.please sir,come and investigate this. please sir,please..your faithfully.a resident…((NUFORC Note:  Many recent reports from India of some type of night event, which allegedly is harming people.  The "authorities" have reported that the phenomenon is the product of "mass hysteria," and that the "attacks" are either self-inflicted, or caused by large, flying insects.  We note that the "authorities" have not yet put a name, I.e. genus and species, to the alleged insect.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24166.html](http://www.nuforc.org/webreports/reports/024/S24166.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1278](http://www.nuforc.org/webreports/reports/163/S163748.html)
-- [1277](http://www.nuforc.org/webreports/reports/163/S163712.html)
-- [1276](http://www.nuforc.org/webreports/reports/163/S163721.html)
-- [1275](http://www.nuforc.org/webreports/reports/163/S163718.html)
-- [1274](http://www.nuforc.org/webreports/reports/163/S163785.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
