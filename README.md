@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:02 on 15 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:44:40 on 15 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Patna (India) () reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>mainly at night,one f.s has always came and hurtd the people.who sleeps at their houses's roof.we are very afraid for this type of devil.it is like a monkey-man.at night a f.s came'then a robotic person has came from that f.s and a monkey-man has also came.please sir,come and investigate this. please sir,please..your faithfully.a resident…((NUFORC Note:  Many recent reports from India of some type of night event, which allegedly is harming people.  The "authorities" have reported that the phenomenon is the product of "mass hysteria," and that the "attacks" are either self-inflicted, or caused by large, flying insects.  We note that the "authorities" have not yet put a name, I.e. genus and species, to the alleged insect.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24166.html](http://www.nuforc.org/webreports/reports/024/S24166.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1975, an anonymous witness in Caribbean Sea (Venezuela) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Moving black mass at sea level in the Caribbean.While on sailing from two ports in the Venezuelan coast (Maracaibo to Puerto La Cruz) a group of red and yellow lights were observed at sea level, moving in a collision course to my vessel. After several attempts to avoid the incoming lights, I had to steer the ship disconecting the autopilot and going hard to port. Meanwhile the steerman took the binoculars and reported (very nervously) that the object passed close to the ship (less than a 100 mts)had no specific shape, only a black mass with some red and yellow lights. There was no sound at all (engines or water movement), but the object was moving fast, estimated 20-25 knots. After passing by the stern, it faded several minutes later. There was a dark moonless night and cloud covered.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35651.html](http://www.nuforc.org/webreports/reports/035/S35651.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1278](http://www.nuforc.org/webreports/reports/163/S163748.html)
-- [1277](http://www.nuforc.org/webreports/reports/163/S163712.html)
-- [1276](http://www.nuforc.org/webreports/reports/163/S163721.html)
-- [1275](http://www.nuforc.org/webreports/reports/163/S163718.html)
-- [1274](http://www.nuforc.org/webreports/reports/163/S163785.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
