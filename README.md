@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:38 on 15 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:34 on 15 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Ghanzi (Botswana) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Second time i have seen the this in 2 years in same place.I went out to switch off the generator and saw the light in the horizon.  I then went to a better spot to make sure that it wasn't a star or planet.  It was moving slowly left and right and gradually went lower, I went inside house to get camera.  When I got back it was too low in the horizon to see anymore. This happened in 5 minutes time.  THIS wasn't the first time I saw this, in December 2013 my father in law, my wife and her sister saw the same occurence, it was dancing for about 8 mins and dropped down behind the tree line in the distance.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119594.html](http://www.nuforc.org/webreports/reports/119/S119594.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1969, an anonymous witness in Altoona (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Space ship hovered with colored lights going around not flashing just circling the shipMy sister and I were staying the weekend with our grandmother.  It was right before dusk. I was out on the porch and I looked out over the porch at the Sam Ray train shop.  Right above the shops I saw this flyng object it was hovering above the trains.  It was flashing colored lightes.  It stayed for a few minutes and left.  My sister was upstairs looking out the window at it. after it left my aunt who lived in the duplex came up the basement into our kitchen and wanted to know who screamed.  We told her nobody she said she heard a scream.  That was the only time i ever saw it.  I asked my sister back in 1997 why she never said anything?  Like you, she said I didn't want anyone to think I was crazy.((NUFORC Note:  Witness elects to provide no contact information.  Date indicated above may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81302.html](http://www.nuforc.org/webreports/reports/081/S81302.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1278](http://www.nuforc.org/webreports/reports/163/S163748.html)
-- [1277](http://www.nuforc.org/webreports/reports/163/S163712.html)
-- [1276](http://www.nuforc.org/webreports/reports/163/S163721.html)
-- [1275](http://www.nuforc.org/webreports/reports/163/S163718.html)
-- [1274](http://www.nuforc.org/webreports/reports/163/S163785.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
