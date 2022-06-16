@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:37 on 16 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:01:51 on 16 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Gilford (NH) reported seeing craft that fit the description of some 'Formation' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Driving from Anborton to Gilford and saw 4 luminous lights in sky merging together and then coming apartI was driving home from work in Sanbornton going to Gilford, NH, and saw 4 lights in the sky, 4 light formations, flying, hovering, merging together and then coming apart, seemed to be making some sort of pattern in the sky with its movements but it was not a 100% consistent pattern, it changed slightly each time they merged together and came apart.  Not sure if these lights had something to do with the motorcycle Bike Week Event going on in town of Laconia, NH.  Maybe they were just some light reflections of some sort, that I was seeing, coming from another source, I am not sure.((NUFORC Note:  The description makes us wonder whether the witness might have been observing advertising lights.  No other reports PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110306.html](http://www.nuforc.org/webreports/reports/110/S110306.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Kyburz (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Asteroid in the daytime?I was headed west on highway 50 between Ca border and Kyburz.  My fiancé was in a car just in front of me.  I saw a large bright white light streak across the sky for about a minute, which I thought was an asteroid.  I didn't know you could see asteroids in daytime so I texted my fiancé to look but alas, he never saw it. It was quite amazing to see during the daytime.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97709.html](http://www.nuforc.org/webreports/reports/097/S97709.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163968.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163470.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163955.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163716.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163996.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
