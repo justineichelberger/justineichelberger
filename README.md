@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:36 on 16 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:49 on 16 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Rapid City (SD) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Multiple Aircraft.I could not sleep, so I was sitting on my front porch, and heard a helicopter approaching at low level from the southwest and automatically assumed it was LIFE FLIGHT, our local medical transport unit, as tourist season brings more accidents.  As the aircraft got closer, I could see a large bright gold orb flying approximately 100-150 feet in front of the helicopter.  I immediately ran in to get my husband out of bed and grabbed my phone to try to record it.  As we looked up, we could also see far above the two lower aircraft in unison were two blue orbs flying and following them.  The blue orbs appeared to move both smoothly and erratically while the gold orb flew smoothly and continuously in front of the helicopter in direction toward the northeast.  We are skeptics but thought this was worth reporting as it was something we cannot explain.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127918.html](http://www.nuforc.org/webreports/reports/127/S127918.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Columbus (event observed from Reynoldsburg) (OH) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Dark colored, high altitude, hover to slow NNW to fast West. Covered approx 45 degrees in about 10-12 seconds.WEATHER: partly cloudy(mostly high cirrus) to sunny, 70 Deg w/slight breeze.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08069.html](http://www.nuforc.org/webreports/reports/008/S08069.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163968.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163470.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163955.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163716.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163996.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
