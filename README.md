@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:40 on 16 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:37 on 16 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Missoula (MT) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Bright white light moving steadily east and up, disappearing into space, over Missoula, MT.Around 1 am MST, I saw a light moving due east. It was the brightest object in the sky, brighter than Venus or Mars, white, very high. Clearly some kind of flying craft. I could not determine a particular shape, other than it resembled very bright star. It did not shoot across the sky, or flare or flash. The speed was constant. There was no sound, and no blinking lights. I spotted it at once as I walked out my back door, facing south. It was moving steadily eastward and upward. It did not disappear over the horizon. It faded from view into the night sky at about 80 degrees SE (I think that is the correct measure). If one looked straight up, then south down to about 80 degrees, then west to about 40 degrees, that is where I first spotted it. I followed it east to about 80 degrees, and that is where it faded into the clear sky fairly rapidly. I would estimate the sighting lasted roughly ten seconds. I would like to know if anyone else saw this. Thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57107.html](http://www.nuforc.org/webreports/reports/057/S57107.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Oregon (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>We saw one bright light floating through the night sky before vanishing.On the night of 6/16/15, at about 22:30 hours, my fiancé and I went outside of our apartment building to smoke a cigarette.  I looked up at the stars like I usually do looking for satellites and other astronomical features.  This night I noticed a bright single light in the evening sky.  I was looking east slightly northeast.  I realized it was a different light than is in that part of the sky this time of year.  I pointed it out to my fiancé and we both watched it as it moved slowly, almost floating but steadily to the south southeast.As it moved, I looked for any lights that would be on an aircraft, i.e., beacon strobe, red and green lights on the wings.  I figured if it was heading away from us we would not see the bright landing light if it were a plane.  In my opinion as a private pilot, the object was at least three to five thousand feet in the air and I believe it wasn’t an airplane or other typical aircraft.As we watched the object move away from us, it all of a sudden vanished.  We were amazed and awestruck that it disappeared so quickly.  Neither one of us has ever seen anything like this before and hopes this small report may help in the overall investigation of UFOs.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119600.html](http://www.nuforc.org/webreports/reports/119/S119600.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163968.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163470.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163955.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163716.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163996.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
