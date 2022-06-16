@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:41:30 on 16 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:27:23 on 16 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Disk' over a period of approximately 240.0 - 240.0 minutes.</sub><blockquote><sub>numerous objects flashing lights hovering for hoursas i stand at my friend's house at 10:30 pm i notice a disc shaped object with flashing lights but it almost looks like a plane flying away and thats what i assumed but by 1:00 am i notice what i had noticed before is still in the same place as i stare at it i can see its flashing red and green lights i look around the sky more and really start to notice there are more of these with the same effect. me and my friends check the internet for last UFO sightings in Las Vegas and the video we watch is similar to what i have been watching all night but what im looking at isnt moving but in the video everytime the UFO was idling its flashing green and red lights just like the one's im looking at are. unable to get any clear pics but as i try the objects began to fade away. there is nothing i can think of that could sit there across the sky and hover for hours.((NUFORC Note:  Twinkling star, we suspect.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89667.html](http://www.nuforc.org/webreports/reports/089/S89667.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Swindon/Didcott (UK/England) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright, static, object with tail - helicopter in possibly pursuitI was travelling home from Swindon to London on Monday evening.  The sun was setting but the sky was still blue.  Coming into to Didcott Station (1st stop from Swindon to London) my attention was drawn to a bright light in the sky.  Initially, I believed it to be the sun reflecting off a plane but noticed that the object had a very short tail (diagonally down to the right-hand side).  The tail was not long enough to be a shooting star or a high flying jet plane and the object appeared to be motionless and not streaming across the sky.  I lost track of the object soon after spotting it under cloud cover over some large chimney stacks.  I tried to take a photo of the object using my phone (5mp - pretty good) but after clicking the button repeatedly the camera would not come on.  As soon as the cloud cover came over, one click and the camera switch on.  This spooked me a little bit!  Pulling out of Didcott Station I then saw a dark coloured helicopter (not a traffic or police helicopter) fly over the train from right to left and head in the direction that I spotted the bright object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63966.html](http://www.nuforc.org/webreports/reports/063/S63966.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163968.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163470.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163955.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163716.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163996.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
