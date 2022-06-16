@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:08 on 16 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:41:30 on 16 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Milan (TN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>A  chrome, sphere shaped object  that flew into a small cloud.I had gone out to the local YMCA to walk on an outdoor track they have. As I was walking, something in the sky caught my eye. When I looked up, there was a bright silver(chrome), sphere shaped object approximatly 1000 ft. in the sky. It was moving slowly at a forty-five degree angle toward a small cloud. I just stopped to watch as the object entered the cloud. I couldn't believe what I was seeing. It was not a plane or a helicopter,and it made no sound. I stood for awhile waiting for the object to come out of the cloud, but it never did. I never saw it again. There may be a ration explaination for this,but I have never seen anything like it before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37671.html](http://www.nuforc.org/webreports/reports/037/S37671.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Disk' over a period of approximately 240.0 - 240.0 minutes.</sub><blockquote><sub>numerous objects flashing lights hovering for hoursas i stand at my friend's house at 10:30 pm i notice a disc shaped object with flashing lights but it almost looks like a plane flying away and thats what i assumed but by 1:00 am i notice what i had noticed before is still in the same place as i stare at it i can see its flashing red and green lights i look around the sky more and really start to notice there are more of these with the same effect. me and my friends check the internet for last UFO sightings in Las Vegas and the video we watch is similar to what i have been watching all night but what im looking at isnt moving but in the video everytime the UFO was idling its flashing green and red lights just like the one's im looking at are. unable to get any clear pics but as i try the objects began to fade away. there is nothing i can think of that could sit there across the sky and hover for hours.((NUFORC Note:  Twinkling star, we suspect.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89667.html](http://www.nuforc.org/webreports/reports/089/S89667.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163968.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163470.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163955.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163716.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163996.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
