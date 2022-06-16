@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:04:25 on 16 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:37 on 16 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Aledo (TX) reported seeing craft that fit the description of some 'Flash' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Bright light about 10 times a star, flashing with tint of red lights in Aledo, Texas, sky for hoursI woke up in early morning to go to bathroom as usual.  Outside the window, a bright star caught my eyes.  Then I noticed it’s not like a star, it’s about 10 times bigger than stars.  I never saw a big star at that spot.  I looked steadily at it.  It seems getting bigger and bigger and moving towards me.  There’s red lights flashing around the lower right.  This is definitely not a star.It’s on the east side of sky.  It’s just hanging in there till the sun comes up and no longer can be seen In the bright blue sky.((NUFORC Note:  Source of the report elects to remain anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134605.html](http://www.nuforc.org/webreports/reports/134/S134605.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in La Vista (NE) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>During a severe storm that night, I had been watching the clouds and saw a black square/rectangle flying over an apartment complex nearby.  The object had four light for each corner.  Three red and one yellow/orange.  It looked like there was a faint grey outline of the whole thing.  It was going over slowly, then sped up quickly and finally just faded altogether. It wasn't dark out yet, the sun was just starting to go down.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134655.html](http://www.nuforc.org/webreports/reports/134/S134655.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163968.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163470.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163955.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163716.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163996.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
