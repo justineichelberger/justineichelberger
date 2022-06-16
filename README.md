@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:52 on 16 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:34 on 16 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Calgary (Canada) (AB) reported seeing craft that fit the description of some 'Formation' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>crafts moving in formation over SW Calgary, then performing aerial stuntsI was getting back into my car from grabbing a coffee at Tim Horton's…  I was facing SW Calgary and noticed some aircraft off in the distance flying in formation.  The head formation broke off and headed in a NE direction, the crafts (5) then started to perform aerial stunts, dodging each other, moving erractically up and down.  The trailing crafts (3) continued northly for another 20 secs or so, and then headed in the same direction.  Grabbed my iphone to record event, which I thought I caught, but with the glaring sun on my screen, I never saw that the phone was not actually recording.  These craft appeared to be moving at a high rate of speed (similar to what I have seen at airshows) and probably were 10-15 km from my viewing point.  During one of its manuevers, it tilted up and it looked to be almost all wing no real tail or body...wing appeared whitish in the middle with dark grey on the ends.  I panic a bit at this point, thinking I had the event on video.  I got my car and drove off in the opposite direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134630.html](http://www.nuforc.org/webreports/reports/134/S134630.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Kitchener (Canada) (ON) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Bright white ball of light seen over Kitchener Ontario.I was on my computer, in front of an open window which faces Northeast. The object appeared towards the eastern part of the sky 20 or so degrees above the horizon. It was what appeared to be a bright white ball of light roughly the size of the moon with dim edges, although there was some light cloud cover which may have caused this effect, since it appeared to be behind the clouds. It moved extremely fast across the sky in a roughly 10 degree arc moving in a straight line from east to west before disappearing as suddenly as it appeared. It left no streaks like a meteor would, and made no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63912.html](http://www.nuforc.org/webreports/reports/063/S63912.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163968.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163470.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163955.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163716.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163996.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
