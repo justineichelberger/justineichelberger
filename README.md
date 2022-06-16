@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:37 on 16 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:38 on 16 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in La Vista (NE) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>During a severe storm that night, I had been watching the clouds and saw a black square/rectangle flying over an apartment complex nearby.  The object had four light for each corner.  Three red and one yellow/orange.  It looked like there was a faint grey outline of the whole thing.  It was going over slowly, then sped up quickly and finally just faded altogether. It wasn't dark out yet, the sun was just starting to go down.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134655.html](http://www.nuforc.org/webreports/reports/134/S134655.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Chelsea (Canada) (QC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>It was a clear blue sky.  I was looking due North, when no more than  a km away 4-500 feet up, I noticed a disk shaped craft hovering slowly towards us (me and my brother) as we sat on the back porch.  The craft was absolutely silent, circular in shape and perfectly flat on both sides with what seamed to be large rectangular windows surrounding the entire circumference of the craft.  Diameter of the craft looked to be about the length of a football field and the thickness of this craft looked to be no more than the height of a 2 story home.  After observing the craft for about 3 minutes, I ran inside to get a pair of binoculars.  I had gone inside for no more than 25 seconds (it felt like an eternity, kind of like if time had stopped or slowed down).  When I came back outside, the craft was nowhere to be seen... like it had just vanished.The strangest thing about all this was after running to get the binoculars and coming back outside, I found my brother was just sitting in a chair staring at the patio door.  I yell at him "Where did it go!!  Where ((deleted)) did it go!"  But my brother was clueless, he couldn't remember a thing.  To this day he remembers nothing.I observed this Craft at a close enough distance to know without a doubt that what I saw was real and out of this world.   I one day would like to go under hypnosis and relive those 3 minutes that still haunt me to this day every time I think of that clear blue sky in Chelsea, Quebec, 1993.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142777.html](http://www.nuforc.org/webreports/reports/142/S142777.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163968.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163470.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163955.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163716.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163996.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
