@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:34 on 16 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:42 on 16 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Kitchener (Canada) (ON) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Bright white ball of light seen over Kitchener Ontario.I was on my computer, in front of an open window which faces Northeast. The object appeared towards the eastern part of the sky 20 or so degrees above the horizon. It was what appeared to be a bright white ball of light roughly the size of the moon with dim edges, although there was some light cloud cover which may have caused this effect, since it appeared to be behind the clouds. It moved extremely fast across the sky in a roughly 10 degree arc moving in a straight line from east to west before disappearing as suddenly as it appeared. It left no streaks like a meteor would, and made no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63912.html](http://www.nuforc.org/webreports/reports/063/S63912.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in La Feria (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Shining moving light, bouncing from side to side gliding at a fast paceAs my daughter and I were leaving my neighbor's house, my daughter pointed out a shining moving white light, what seemed like a star, only it bounced from side to side and was moving faster than a plane. I went back to call my neighbors so they could witness it with us. We could not tell what shape it was because it was shiny white, bigger than the North star.  It came up from the South, moving in a northeast direction, then disappeared off into the distance. I've seen these kind of moving objects a few times before but usually witnessed them by myself or with my daughter. It was a fun experience.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50979.html](http://www.nuforc.org/webreports/reports/050/S50979.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163968.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163470.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163955.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163716.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163996.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
