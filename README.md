@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:37 on 16 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:36 on 16 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Lahaina (HI) reported seeing craft that fit the description of some 'Cross' over a period of approximately quik - quik minutes.</sub><blockquote><sub>i had no idea i was taking this when i took the picture, but i have no idea what this is over the west maui mountians...i didnt even see this when i took the picture from my car window on my way to work one morning, the shot is of the west maui mountains and when i got home and downloaded it and saw this image on it, i blew it up and i have no idea what it is, i have other shots of helicopters and small planes and when i blow them up i know what i am seeing, but not with this picture, what do you think it is?((NUFORC Note:  Date is approximate.  Object appears to us possibly to be a large bird with its wings slightly folded.  Just a guess.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42096.html](http://www.nuforc.org/webreports/reports/042/S42096.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Rapid City (SD) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Multiple Aircraft.I could not sleep, so I was sitting on my front porch, and heard a helicopter approaching at low level from the southwest and automatically assumed it was LIFE FLIGHT, our local medical transport unit, as tourist season brings more accidents.  As the aircraft got closer, I could see a large bright gold orb flying approximately 100-150 feet in front of the helicopter.  I immediately ran in to get my husband out of bed and grabbed my phone to try to record it.  As we looked up, we could also see far above the two lower aircraft in unison were two blue orbs flying and following them.  The blue orbs appeared to move both smoothly and erratically while the gold orb flew smoothly and continuously in front of the helicopter in direction toward the northeast.  We are skeptics but thought this was worth reporting as it was something we cannot explain.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127918.html](http://www.nuforc.org/webreports/reports/127/S127918.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163968.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163470.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163955.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163716.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163996.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
