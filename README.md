@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:49 on 16 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:40 on 16 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Columbus (event observed from Reynoldsburg) (OH) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Dark colored, high altitude, hover to slow NNW to fast West. Covered approx 45 degrees in about 10-12 seconds.WEATHER: partly cloudy(mostly high cirrus) to sunny, 70 Deg w/slight breeze.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08069.html](http://www.nuforc.org/webreports/reports/008/S08069.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Missoula (MT) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Bright white light moving steadily east and up, disappearing into space, over Missoula, MT.Around 1 am MST, I saw a light moving due east. It was the brightest object in the sky, brighter than Venus or Mars, white, very high. Clearly some kind of flying craft. I could not determine a particular shape, other than it resembled very bright star. It did not shoot across the sky, or flare or flash. The speed was constant. There was no sound, and no blinking lights. I spotted it at once as I walked out my back door, facing south. It was moving steadily eastward and upward. It did not disappear over the horizon. It faded from view into the night sky at about 80 degrees SE (I think that is the correct measure). If one looked straight up, then south down to about 80 degrees, then west to about 40 degrees, that is where I first spotted it. I followed it east to about 80 degrees, and that is where it faded into the clear sky fairly rapidly. I would estimate the sighting lasted roughly ten seconds. I would like to know if anyone else saw this. Thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57107.html](http://www.nuforc.org/webreports/reports/057/S57107.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163968.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163470.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163955.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163716.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163996.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
