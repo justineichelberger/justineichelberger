@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:37 on 16 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:37 on 16 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Oregon (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>We saw one bright light floating through the night sky before vanishing.On the night of 6/16/15, at about 22:30 hours, my fiancé and I went outside of our apartment building to smoke a cigarette.  I looked up at the stars like I usually do looking for satellites and other astronomical features.  This night I noticed a bright single light in the evening sky.  I was looking east slightly northeast.  I realized it was a different light than is in that part of the sky this time of year.  I pointed it out to my fiancé and we both watched it as it moved slowly, almost floating but steadily to the south southeast.As it moved, I looked for any lights that would be on an aircraft, i.e., beacon strobe, red and green lights on the wings.  I figured if it was heading away from us we would not see the bright landing light if it were a plane.  In my opinion as a private pilot, the object was at least three to five thousand feet in the air and I believe it wasn’t an airplane or other typical aircraft.As we watched the object move away from us, it all of a sudden vanished.  We were amazed and awestruck that it disappeared so quickly.  Neither one of us has ever seen anything like this before and hopes this small report may help in the overall investigation of UFOs.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119600.html](http://www.nuforc.org/webreports/reports/119/S119600.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Gilford (NH) reported seeing craft that fit the description of some 'Formation' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Driving from Anborton to Gilford and saw 4 luminous lights in sky merging together and then coming apartI was driving home from work in Sanbornton going to Gilford, NH, and saw 4 lights in the sky, 4 light formations, flying, hovering, merging together and then coming apart, seemed to be making some sort of pattern in the sky with its movements but it was not a 100% consistent pattern, it changed slightly each time they merged together and came apart.  Not sure if these lights had something to do with the motorcycle Bike Week Event going on in town of Laconia, NH.  Maybe they were just some light reflections of some sort, that I was seeing, coming from another source, I am not sure.((NUFORC Note:  The description makes us wonder whether the witness might have been observing advertising lights.  No other reports PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110306.html](http://www.nuforc.org/webreports/reports/110/S110306.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163968.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163470.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163955.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163716.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163996.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
