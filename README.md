@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:41 on 17 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:48 on 17 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Smokey Point (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>witnessed a cloaked object (like the predator movie/bent light), all the cat's in our area were following it.Arlington Airport (a former military base) in Smokey Point State of Washington (right next door to it) is a secret facility. Walk the airport trail and you'll see it (about a five mile walk. Google maps shows a big open space next to the airport, thats the spot). They are so close to our house we once witnessed a cloaked object (about the size of a person pulling a wagon) go through our neighborhood, yes cloaked, bent light like the predator movie. All the cat's in the area were following this somewhat invisible shape moving past our house. The only reason we saw it was we were gardening in our backyard. We could see the shadow it made through the slits of the fence but not when we looked directly at it over the fence. We have seen and heard cloud cover come in over the airport in minutes time and heard high pitched sounds during those cloud covered times. If you research this stuff this would be the place to check out. We have never seen actual UFO's. I hav! e no doubt something like that is going on here.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78033.html](http://www.nuforc.org/webreports/reports/078/S78033.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Geraldton (Australia) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Ufo had centre light that pulsated at irregular intervals and moved from side to side outside my window while it hovered in early morning.The ufo appeared outside my window in early morning at just after half past five. I know this as i looked at the clock several times. It was travelling at speed for a brief time then stopped and hovered. it had a central light bigger than the other lights and it pulsated at irregular intervals and at varying brightness. I could tell it was spherical by the lights on either side of the central light. After about five minutes it drifted slowly south and became a tiny star like dot as it moved. During the encounter i stood up and stared, blinked ect so as i knew i wasn't imagining. The central light also moved from side to side creating an eerie sensation. I believe that potentially i was being observed emotionally as i had aroused from a dream several minutes earlier and had been highly emotional and had cried. After this i looked out the window and there was the ufo. So perhaps they were formulating thoughts and actions however that would seem pathetic and ridiculous. However it did seem that they were attempting to get my attention for whatever reason.((NUFORC Note:  Student report.  Probable hoax.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57696.html](http://www.nuforc.org/webreports/reports/057/S57696.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/163/S163954.html)
-- [334](http://www.nuforc.org/webreports/reports/163/S163859.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163960.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163760.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163762.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
