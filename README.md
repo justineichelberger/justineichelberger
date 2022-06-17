@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:49 on 17 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:15:39 on 17 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Two white explosions in space witnessed in Orlando, looking south towards Saturn.While looking to the south and observing saturn I saw two large white explosions in the vicinity of saturn.  The second explosion was about one minute after the first.It looked like stars exploding as they both flared bright for about a second and then collapsed to black.  I am assuming this was in space due to the quickness of the collapse of spent energy.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127909.html](http://www.nuforc.org/webreports/reports/127/S127909.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Everett (WA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>I was outside on our deck and I happened to look up and saw this giant cylinder shaped object floating above our house.  At first I thought it was a banner.  It was completely silent.  It was close enough that I could make out that it was gold/silver metallic (reflective) in color.  I ran inside to grab my roommate.  When I came back out, it was silently floating up and towards the west.  It moved slowly.  It was approximately the size of a 747.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146881.html](http://www.nuforc.org/webreports/reports/146/S146881.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/163/S163954.html)
-- [334](http://www.nuforc.org/webreports/reports/163/S163859.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163960.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163760.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163762.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
