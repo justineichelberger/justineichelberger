@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:45 on 16 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:56 on 17 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Star like object traveling in straight line with consecutive burst of light then vanishes.What appeared to be a star (eastern sky/on very clear night) began to move incredibly fast, traveling south.  Ufo had consecutive bursts of white light, one second apart, and traveled in a straight line and then disappeared. Object was so far that no shape or detail of the body was visible except for the extremely bright bursts of light. Half a second  after vanishing a bright burst of light appeared a fairly large distance away and beneath UFO.  The object may have jumped that entire distance within the time it took to flash another time.  (possible connection between the two objects or two completely different objects within fairly same distance and emiting same light in both color and intensity).((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110384.html](http://www.nuforc.org/webreports/reports/110/S110384.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Romulus (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Two circular objects seen flying beneath planes, but above the vineyards with no sound, propulsion or wings of any sort.Saw to different circular objects. The first one was seen flying below several planes, but there was no visible propulsion or wings to the craft. That lasted for roughly two minutes before disappearing. The second one was about three minutes after. Again, it was also located below the flying planes. No sound could be heard, no visible propulsion yet again, and no wings. Lasted for roughly two minutes, about the same as the last time before also disappearing as well. Could've been a drone, but I don't think it was below 400 feet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163760.html](http://www.nuforc.org/webreports/reports/163/S163760.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163968.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163470.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163955.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163716.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163996.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
