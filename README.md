@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:39 on 17 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:35 on 17 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Commerce Township (MI) reported seeing craft that fit the description of some 'Flash' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Small flashing white light randomly blinking in the skyI awoke early on Sunday morning June 17th at about 4:30am, Eastern Time. I went out onto my deck to drink a cup of coffee. A small white light flashed in the distance (about the size and brightness of a star) – just a flash that lasted about ½ second. This light flashed at least 40 to 50 times and appeared almost random in the location it appeared in the eastern sky.  The duration of the time in between flashes also appeared random.  But from one blink to the next, which would have been only a few seconds, many, many miles would have been traversed. The path of the flashes was not at all straight – and it could not have been an airplane. About 5 minutes after the lights stopped, a military jet flew overhead at relatively low altitude.  Although I live on the flight path of our county airport, I have never seen a military jet fly here - it was very loud and I've never heard such a sound at 5 o'clock in the morning.((NUFORC Note:  Star or planet??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57119.html](http://www.nuforc.org/webreports/reports/057/S57119.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Los Montoyas (NM) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>10-15 miles S.E. of Las Vegas, New Mexico.  Silver disc or round,One object sighted, disc or round shaped.   Went from a fairly large object about the scale of 1/3 the size of a full moon to totally dissappearing in approxomately 20 seconds or so.  It moved incredibly fast within about 10 seconds.  It's all kind of weird, stayed the night in Roswell and then got on my Harley at 07:00 to get home about 450 miles away, came up around a bend in the hills outside of Las Vegas, New Mexico, down Highway 84 about 10-15 miles I would guess.  It held its position for about 5-10 seconds and then just tore out of there..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75820.html](http://www.nuforc.org/webreports/reports/075/S75820.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/163/S163954.html)
-- [334](http://www.nuforc.org/webreports/reports/163/S163859.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163960.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163760.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163762.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
