@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:03:05 on 17 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:01:24 on 17 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Fishers (IN) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 84</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157516.html](http://www.nuforc.org/webreports/reports/157/S157516.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Farmington Hills (MI) reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A silent flying/ hovering dark object that changed shape and lacked lights or color.We were playing catch outside and my son looked up and said "a UFO."  We watched it slowly approach us and when neither of us could identify it I sent him in to get my binoculors.  Even with the binoculors we could not make out what it was.  It seemed to change shape.  It hovered in one spot for a few minutes and then seem to make a small circle and then hover again.  It then was not there.  We thought that it may have been a flock of geese but it was too large and solid.  We also thought it may have been a parasailor/sailors but we could not identife any people plus it stayed in one spot or went up.  A Plane went by but not in the direction of the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13127.html](http://www.nuforc.org/webreports/reports/013/S13127.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/163/S163954.html)
-- [334](http://www.nuforc.org/webreports/reports/163/S163859.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163960.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163760.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163762.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
