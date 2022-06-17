@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:08:34 on 17 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:03:07 on 17 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Boulder (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>June 17, 1999 Bright capsul shaped object which I thought was a star brightened and took off, then disappeared.On June 17, 1999 at 2200hrs I stepped outside for a break with a co-worker and was making a comment on how clear the sky was because it had been cloudy all week. When I looked up in the sky exactly above my head I had my eye on bright star and a couple of others in the area one of them moved. I am not sure now that it was a star. The object was not very bright but when it started to move it grew in length and width it was the shape of a capsule like a pill, it got VERY bright and it moved a short distance and then it started to dim and just blinked out. It was moving north from south and it was straight up from where I was standing facing north. When I first saw this I said, "wow" and my co-worker looked up and saw the object disappear. I thought it may have been a shooting star but it didn't streak and it didn't look like other shooting stars I have seen before. This object moved and brightened up like it was building energy to move very fast. The object was very high in the sky and appeared to be close to the stars.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08089.html](http://www.nuforc.org/webreports/reports/008/S08089.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Newington (CT) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 106</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147084.html](http://www.nuforc.org/webreports/reports/147/S147084.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/163/S163954.html)
-- [334](http://www.nuforc.org/webreports/reports/163/S163859.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163960.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163760.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163762.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
