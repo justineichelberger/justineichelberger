@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:01:02 on 17 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:01:53 on 17 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Peshtigo (WI) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>White flashing oval or round object about the size of a dime.My friend and I were fishing at the mouth of the Peshtigo River where it empties into Green Bay.  We were facing east.  We were fishing at night for catfish.  There were dozens of fireflies present, and there was lightning off in the distance to the west, north, and south as a storm was approaching.To the south about 20 yards away and about 10 yards off the ground, a flashing light caught my attention.  At first I thought it was a firefly, but it could not have been.  It traveled off the water towards shore from east to west in a very straight line.  The line appeared to be perfectly parallel to the ground.  I think it flashed 4 times in the 3-5 seconds I saw it.  I estimate the speed at about 40 miles per hour, way too fast for a firefly.  It looked like it was shot out of a slingshot.  It looked like it was only about the size of a dime.  It was much brighter than a firefly, and the flashes were very consistent.  They went from dark to light almost immediately, like it was on a switch.I said to my fishing partner “tell me you saw that” and he said “yes, I did.”  He agreed it was too big, too fast, and too bright to be a firefly.  There were many fireflies in the area so we had them to compare.  It also seemed to appear out of nowhere and then disappear just as fast after just a few seconds. I had a cell phone with a camera on me, but it disappeared before I could film it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110374.html](http://www.nuforc.org/webreports/reports/110/S110374.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Salinas (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>20 or more white lights in 2 straight lines .I looked out my window & saw a formation of lights in 2 straight lines .No noise heard traveling east towardsFremont's Peak or  Hollister  Ca. Tried to take video but lights didn't appear on the screen Of my cell .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157074.html](http://www.nuforc.org/webreports/reports/157/S157074.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/163/S163954.html)
-- [334](http://www.nuforc.org/webreports/reports/163/S163859.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163960.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163760.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163762.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
