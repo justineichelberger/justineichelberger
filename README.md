@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:35 on 17 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:41 on 17 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Los Montoyas (NM) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>10-15 miles S.E. of Las Vegas, New Mexico.  Silver disc or round,One object sighted, disc or round shaped.   Went from a fairly large object about the scale of 1/3 the size of a full moon to totally dissappearing in approxomately 20 seconds or so.  It moved incredibly fast within about 10 seconds.  It's all kind of weird, stayed the night in Roswell and then got on my Harley at 07:00 to get home about 450 miles away, came up around a bend in the hills outside of Las Vegas, New Mexico, down Highway 84 about 10-15 miles I would guess.  It held its position for about 5-10 seconds and then just tore out of there..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75820.html](http://www.nuforc.org/webreports/reports/075/S75820.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Smokey Point (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>witnessed a cloaked object (like the predator movie/bent light), all the cat's in our area were following it.Arlington Airport (a former military base) in Smokey Point State of Washington (right next door to it) is a secret facility. Walk the airport trail and you'll see it (about a five mile walk. Google maps shows a big open space next to the airport, thats the spot). They are so close to our house we once witnessed a cloaked object (about the size of a person pulling a wagon) go through our neighborhood, yes cloaked, bent light like the predator movie. All the cat's in the area were following this somewhat invisible shape moving past our house. The only reason we saw it was we were gardening in our backyard. We could see the shadow it made through the slits of the fence but not when we looked directly at it over the fence. We have seen and heard cloud cover come in over the airport in minutes time and heard high pitched sounds during those cloud covered times. If you research this stuff this would be the place to check out. We have never seen actual UFO's. I hav! e no doubt something like that is going on here.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78033.html](http://www.nuforc.org/webreports/reports/078/S78033.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/163/S163954.html)
-- [334](http://www.nuforc.org/webreports/reports/163/S163859.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163960.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163760.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163762.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
