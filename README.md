@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:43 on 17 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:48 on 17 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Coventry (UK/England) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Train driver and other railway worker witness multicoloured cigar shape object low in the sky at night.This is from a train driver friend of mine. Note 66 is a type of locomotive -  Right Loz, This is what I saw:  Coventry Station Driving 66537  (4006)  On the up fast country end  02.10 hours on 17/06/05  About half a mile before Cov station i noticed at about a 35 degree angle from eyesight a large green light above coventry city centre. it appeared to be stationary and was a steady light.getting closer to cov stn light turned to a steady red or slightly orange glow.i couldn't remain in permanet focus with the object because i was running on to a red signal at the end of cov stn.However, the closer i got to the end of the stn platform i then observed that the light  had a shape. It appeared to be tube like and in complete darkness with a red light at the rear. i would guess that it was only about a couple of hundred feet in the sky and was moving north east over cov  towards nuneaton. there was no noise i could hear but then again i was in a 66.Also there was a railgrinding machine on the down slow platform and the driver of that was on the platform watching the ufo.maybe it was a barrage balloon ? maybe it was a zepplin type craft? but why the steady light not flashing plus i have never seen these at night and also it apperared to be thin and tube like.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44461.html](http://www.nuforc.org/webreports/reports/044/S44461.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Fishers (IN) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 84</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157516.html](http://www.nuforc.org/webreports/reports/157/S157516.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/163/S163954.html)
-- [334](http://www.nuforc.org/webreports/reports/163/S163859.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163960.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163760.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163762.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
