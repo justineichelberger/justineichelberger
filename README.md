@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:03:07 on 17 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:39 on 17 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Newington (CT) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 106</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147084.html](http://www.nuforc.org/webreports/reports/147/S147084.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Commerce Township (MI) reported seeing craft that fit the description of some 'Flash' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Small flashing white light randomly blinking in the skyI awoke early on Sunday morning June 17th at about 4:30am, Eastern Time. I went out onto my deck to drink a cup of coffee. A small white light flashed in the distance (about the size and brightness of a star) – just a flash that lasted about ½ second. This light flashed at least 40 to 50 times and appeared almost random in the location it appeared in the eastern sky.  The duration of the time in between flashes also appeared random.  But from one blink to the next, which would have been only a few seconds, many, many miles would have been traversed. The path of the flashes was not at all straight – and it could not have been an airplane. About 5 minutes after the lights stopped, a military jet flew overhead at relatively low altitude.  Although I live on the flight path of our county airport, I have never seen a military jet fly here - it was very loud and I've never heard such a sound at 5 o'clock in the morning.((NUFORC Note:  Star or planet??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57119.html](http://www.nuforc.org/webreports/reports/057/S57119.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/163/S163954.html)
-- [334](http://www.nuforc.org/webreports/reports/163/S163859.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163960.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163760.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163762.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
