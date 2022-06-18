@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:47 on 18 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:42 on 18 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Beverly Shores (IN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Bright Blue blinking light traveling around earth then going out into space.Two friends and me where at the beach and we were lying down in the sand and looking up into the sky. I was looking straight up and in the center of the sky and I saw what I thought was a meteorite, until it blinked back on a little farther down in the sky and it was moving very fast.  Faster than any satellite I’ve seen and I’ve seen a few satellites. It continued to blink about four or five times curving around the earth, than it looked like it went straight out away from earth then disappeared.  This was a very bright bluish light when it blinked on and was very, very fast.  I was the only one out of my friends who saw it but when we looked out horizon to the the beach we saw a yellowish light that was blinking on and off and it then stayed lit and moved to the left of us then it stopped and was zigzagging and looked like it was coming at us and then it appeared to turn around and disappear into the night sky.  The second UFO looked like it might have had a tail on it also.  Then we all got scared and left the beach cause we were really freaked out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89685.html](http://www.nuforc.org/webreports/reports/089/S89685.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Deerfield Beach (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Silent, moved vertically, had red and orange lights, was very bright and easy to see, moved slow and deliberately.Red and orange colors.  Ascension approximately to an 8 story building.  Moved at a slow and steady rate in a vertical motion.  Witnessed for approximately 4 to 5 minutes.  Silent.  Spotted 5 personal aircraft in vicinity.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119613.html](http://www.nuforc.org/webreports/reports/119/S119613.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/163/S163947.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163746.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163952.html)
-- [346](http://www.nuforc.org/webreports/reports/163/S163950.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164098.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
