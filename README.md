@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:32 on 18 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:01:54 on 18 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Oceanside (Orange Co.)(Riverside) (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>3 Round shaped white and bright lights.June 19, 2014Dear Mr. Davenport,  Have you heard about the reported lights in the sky last night?  This was widely reported and video taped in Southern California, beginning near Camp Pendleton Marine Base by Oceanside, and continuing over Orange County, (for your reference, near the coast/Disneyland area), and then going north to and over the City of Riverside.  I did not personally see these lights, but they reported on the lights and showed the video tape on every station in Los Angeles, Ca, that reaches the counties named above.The Marine Base and NASA states, there were no military aircraft in the area during the sighting of these lights.  The sheriff’s offices in San Diego County, Orange County, and Riverside County were contacted by several people who viewed these lights.I hope that you will look into this report.  You can view these lights and the report by going on the websites of any of our local stations, ABC Channel 7, NBC, Channel 4, CBS, Channel 2, all Los Angeles stations.Thank you</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110410.html](http://www.nuforc.org/webreports/reports/110/S110410.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Pie Town (NM) reported seeing craft that fit the description of some 'Cone' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Object the color, magnitude, size of Jupiter  appeared, was still and then moved at steady speed south to northMy friend and I were talking on the telephone, watching the Mars/Saturn conjunction in the west at sunset. My friend lives 300 miles to the North. I live in 'Clear 9' dark sky country and have unostructed horizons. I turned my head to the South and thought I saw Jupiter, which I though peculiar as the last time I had looked, it was obscured by the houseporch and I did not think it could have moved that far W/SW in the time we spoke. I got up and saw that Jupiter was indeed still behind the house and this object was a bright as Jupiter but was not Jupiter. Then it began to move, coming out of the area of the constellation Corvus, at a soundless, swift but steady speed. My friend saw it move at the same time and we both, still linked by phone, watched as it disappeared-or grew to faint to be seen- beneath the stars of Cygnus to the North. I have sky watched for years, took astronomy courses, have a computer generated planetarium so I know the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51007.html](http://www.nuforc.org/webreports/reports/051/S51007.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/163/S163947.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163746.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163952.html)
-- [346](http://www.nuforc.org/webreports/reports/163/S163950.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164098.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
