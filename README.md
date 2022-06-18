@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:48 on 18 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:39:43 on 18 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>cigar shaped bright blue light shot across the sky and a trail followedi was taking my brother to work on 107th ave heading north by 64th street,when we saw a cigar shaped blueish green thing shot across the sky it was a obvious thing it could of not been unnoticed it had a trail that followed it it was heading in a north east direction and dissapeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08122.html](http://www.nuforc.org/webreports/reports/008/S08122.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Galveston (TX) reported seeing craft that fit the description of some 'Formation' over a period of approximately 24.0 - 24.0 minutes.</sub><blockquote><sub>I went to the beach by myself.I was looking up and saw 5 U.F.O's in a bowling pin formation I looked at my watch and it was exactly 4:32p.m I timed it and it lasted 24 minutes.they kept on changing different colors</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08140.html](http://www.nuforc.org/webreports/reports/008/S08140.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/163/S163947.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163746.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163952.html)
-- [346](http://www.nuforc.org/webreports/reports/163/S163950.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164098.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
