@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:31 on 18 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:50 on 18 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2nd sighting; Metallic object rotating in the morning sky.This is the second Sunday morning in  two months that I have stepped unto my balcony, looked to the NW and observed this metallic-like sphere/triangle shaped object in the sky, very high up. Higher than a Skywriiting plane!  Each occurence has been against a crystal-clear bluesky backdrop.  You can make out that the object seems to rotate in place; the sun can been seen glinting off the object as it rotates.  With the naked eye, it appears to be oval; but in the picuture I canptured, zoomed in to 1600%, the object seems to be triangular.Each time I would call out my wife to confirm what I was seeing; she could immediately see the object, on both occasions, and it looked to be the same object, in about the same  location in the sky.I also noted commercial airliners, high flying birds (gulls) and even the Moon; these all  help reference how high the object was.  You would really have to be looking for it with the naked eye or you would simply see a clear blue sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50996.html](http://www.nuforc.org/webreports/reports/050/S50996.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Panama City (Panama) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Brightly lit almond-shaped craft static in the sky in Panama.An almond- (or oval-) shaped UFO in the sky in Panama City, Panama, was observed in a direction where no such object was observed for a whole two years prior to June 18, 2017.  Proximity to building provided reference point that the craft was static.  The object generated its own energy source as it was brightly lit.  (It recalled a previous sighting in early childhood in South America observed by the entire neighborhood which also featured an object that was similarly lit.  That object sat up in the sky but slightly higher than the horizon).  This craft was located much higher up, possibly in the Earth’s upper atmosphere.  But it was far closer than a satellite would have been and, again, it did not move.  Stars that evening were also clearly seen and looked like distant dots.  Object also appeared to have a rod-like shaft of light sticking downward out of its belly.  It is not possible to tell whether it was a light beam or a solid part of the craft.  The general impression was similar to that of a wasp in flight — except that the object did not move.  Because the craft’s shape was elongated, it could have well been a transport vehicle.  But it was too far up in the sky to make out any occupants.  It also looked rather large.  Observer does not know how long the object remained in place as it was only seen for an hour, after which the person went to bed.  Observer has seen craft with the naked eye twice before but never in this same area or country.  This object could certainly be described as having the broad characteristics of similar UFO.  Observer went out the next evening and ascertained that no such object could be seen in the clear night sky.  The object had vanished.((NUFORC Note:  Source of the report elects to remain anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134653.html](http://www.nuforc.org/webreports/reports/134/S134653.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/163/S163947.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163746.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163952.html)
-- [346](http://www.nuforc.org/webreports/reports/163/S163950.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164098.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
