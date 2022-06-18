@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:01:33 on 18 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:32 on 18 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Colorado Springs (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Metallic, triangular object spotted hovering in broad daylight near NORAD.On June 18th my girlfriend & I were driving South on highway 115 very close to the Fort Carson Base in Colorado Springs. We both independently spotted a metallic, triangular object which appeared to be "hovering" (no discernible movement or jet plumes visible)about about a 15-degree angle in the vicinity of Cheyenne Mountain, home of NORAD. We both thought it might have been a large advertising balloon/blimp, but the object appeared to be much too high in altitude (maybe 1/4 mile high) and we could see no trace of attaching ropes or attached cables. We had a very clear view of the object as the skies were very clear that afternoon. We did not see any obvious lights and did not hear any noise. There was no obvious interference on the truck radio and cell phones were not in use. We viewed the object for about 30 seconds and then lost sight of it when we passed some trees on the side of the road. When our view of the sky was restored (3 seconds time), the object had completely vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51123.html](http://www.nuforc.org/webreports/reports/051/S51123.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Oceanside (Orange Co.)(Riverside) (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>3 Round shaped white and bright lights.June 19, 2014Dear Mr. Davenport,  Have you heard about the reported lights in the sky last night?  This was widely reported and video taped in Southern California, beginning near Camp Pendleton Marine Base by Oceanside, and continuing over Orange County, (for your reference, near the coast/Disneyland area), and then going north to and over the City of Riverside.  I did not personally see these lights, but they reported on the lights and showed the video tape on every station in Los Angeles, Ca, that reaches the counties named above.The Marine Base and NASA states, there were no military aircraft in the area during the sighting of these lights.  The sheriff’s offices in San Diego County, Orange County, and Riverside County were contacted by several people who viewed these lights.I hope that you will look into this report.  You can view these lights and the report by going on the websites of any of our local stations, ABC Channel 7, NBC, Channel 4, CBS, Channel 2, all Los Angeles stations.Thank you</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110410.html](http://www.nuforc.org/webreports/reports/110/S110410.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/163/S163947.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163746.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163952.html)
-- [346](http://www.nuforc.org/webreports/reports/163/S163950.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164098.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
