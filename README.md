@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:35 on 18 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:36 on 18 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Strange object over Houston, Texas (midtown) on June 18, 2009At roughly 10:00PM last night I stepped out onto my 3rd story balcony to have a cigarette.  I happened to look up into the sky as I usually do and noticed an odd shaped object moving from South to North at a fast pace. I wouldn’t be able to give an actual figure as far as it’s height off of the ground mostly because it was a densely dark object. One thing that intrigued me is that it was running silent and had no blinking lights whatsoever.Also, due to the fact that it was dark, it was fairly invisible in the night sky. The only reason I was able to notice it and distinguish its shape (fairly triangular) was because it flew just under some glowing night-time clouds. It flew right through a known air traffic lane. So soon after it passed the clouds it became invisible once more and then a passenger aircraft flew through the same airspace at approximately the same altitude, which allowed me to guess its size as roughly that of a large truck.It all happened very fast.  It was a partly cloudy night, so had it not been for the small cloud it passed under I would guess that I wouldn’t have noticed it at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70568.html](http://www.nuforc.org/webreports/reports/070/S70568.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Gold Beach (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Round craft, bright in center, no sound, slowly moving west to east, hovered twice.Noticed a round craft moving slowly west to east fully exposed.  Resembled two pie plates, when it dipped to the side you could see the full circle it was very bright, almost a flash.  Unsure if it was a light or a very bright reflection.  Very visible with my polarized sunglasses, very difficult to see without.  At times it would hover, mostly it moved slowly - there was no sound at all.  Moved up a draw between two mountains and disappeared behind trees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127947.html](http://www.nuforc.org/webreports/reports/127/S127947.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/163/S163947.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163746.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163952.html)
-- [346](http://www.nuforc.org/webreports/reports/163/S163950.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164098.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
