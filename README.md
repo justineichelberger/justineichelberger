@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:51 on 17 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:38 on 18 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in North Myrtle Beach (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>In the clear night sky, 3 bright lights appeared in a triangle formation, moved to a line formation, and disappeared to thunder.We were on vacation in North Myrtle Beach, South Carolina.  Two of us were sitting on the balcony of our oceanfront hotel.  It was about 23:15 on June 17, 2009, and we were sitting and watching the waves and looking at the stars. All of a sudden, three bright lights appeared in the sky.  We didn't know what they were.  They started out in a triangle formation.  But after a few seconds, they all moved into a straight line.  The three lights stayed in a line for a few more seconds before disappearing.   A loud rumble of thunder followed (it was a clear night, and it was not storming).  The two who  saw the lights called the rest of our family out to the balcony, but they were too late.  All they heard was the loud rumble of thunder.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70550.html](http://www.nuforc.org/webreports/reports/070/S70550.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Bright Light heading SE over PDXMy friend noticed an object moving about the same speed as an aircraft - heading SE. The object was a single intense bright light, no other visible lights, no trail, completely silent. It suddenly just disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57139.html](http://www.nuforc.org/webreports/reports/057/S57139.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/163/S163954.html)
-- [334](http://www.nuforc.org/webreports/reports/163/S163859.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163960.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163760.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163762.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
