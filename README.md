@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:04:55 on 18 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:31 on 18 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in  () reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Young man was driving on East Business Route, I-80, in Sacramento.  He noticed an object, which at first looked like a conventional aircraft, but it had four white lights.  He could not see any shape to the object, even though it was moving toward the observers, and a bit to the right. The object looked like it was in a landing mode, very low, but there is no airport in that area.  The object then rolled to one side, and suddenly they could see it.  It then descended into a nearby neighborhood.  It did not move like a conventional aircraft. They drove toward the object, but they lost sight of it because of nearby trees.  They returned to the highway, hoping to see it, but it was no longer visible. I gave the caller the telephone number for Ruben Uriarte.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01571.html](http://www.nuforc.org/webreports/reports/001/S01571.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2nd sighting; Metallic object rotating in the morning sky.This is the second Sunday morning in  two months that I have stepped unto my balcony, looked to the NW and observed this metallic-like sphere/triangle shaped object in the sky, very high up. Higher than a Skywriiting plane!  Each occurence has been against a crystal-clear bluesky backdrop.  You can make out that the object seems to rotate in place; the sun can been seen glinting off the object as it rotates.  With the naked eye, it appears to be oval; but in the picuture I canptured, zoomed in to 1600%, the object seems to be triangular.Each time I would call out my wife to confirm what I was seeing; she could immediately see the object, on both occasions, and it looked to be the same object, in about the same  location in the sky.I also noted commercial airliners, high flying birds (gulls) and even the Moon; these all  help reference how high the object was.  You would really have to be looking for it with the naked eye or you would simply see a clear blue sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50996.html](http://www.nuforc.org/webreports/reports/050/S50996.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/163/S163947.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163746.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163952.html)
-- [346](http://www.nuforc.org/webreports/reports/163/S163950.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164098.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
