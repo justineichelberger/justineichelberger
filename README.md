@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:39:43 on 18 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:26:00 on 18 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Galveston (TX) reported seeing craft that fit the description of some 'Formation' over a period of approximately 24.0 - 24.0 minutes.</sub><blockquote><sub>I went to the beach by myself.I was looking up and saw 5 U.F.O's in a bowling pin formation I looked at my watch and it was exactly 4:32p.m I timed it and it lasted 24 minutes.they kept on changing different colors</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08140.html](http://www.nuforc.org/webreports/reports/008/S08140.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1983, an anonymous witness in Truckee (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>huge circular object with triangular shaped lite patterns on bottom humming sound bye lake outide of truckee, CAwe were camping on prossier lake rite outside of truckee california my friend and i were   in our sleeping bags in the back of a pickup truck about to go to sleep our parents and about 10 other friends were still up partying around the camp fire and table.  we were rite next to a creek that lead to the lake with a small mountain on the other side of the creek. rite when we got in our bags a very very large craft came over that mountain in complete silence except for a humm it came over the mountain and over the creek and above our heads directly it was the size of the mountain it had triangular shaped lite patterns all over the the botom I know one lite of the triangle pattern were red and the other two were blue and maybe green   it flew over and that was it no one talked about it for weeks after, and then everyone  started questioning what they saw and how they could not remember it for weeks((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90685.html](http://www.nuforc.org/webreports/reports/090/S90685.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/163/S163947.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163746.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163952.html)
-- [346](http://www.nuforc.org/webreports/reports/163/S163950.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164098.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
