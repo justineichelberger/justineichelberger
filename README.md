@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:50 on 18 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:32 on 18 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Panama City (Panama) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Brightly lit almond-shaped craft static in the sky in Panama.An almond- (or oval-) shaped UFO in the sky in Panama City, Panama, was observed in a direction where no such object was observed for a whole two years prior to June 18, 2017.  Proximity to building provided reference point that the craft was static.  The object generated its own energy source as it was brightly lit.  (It recalled a previous sighting in early childhood in South America observed by the entire neighborhood which also featured an object that was similarly lit.  That object sat up in the sky but slightly higher than the horizon).  This craft was located much higher up, possibly in the Earth’s upper atmosphere.  But it was far closer than a satellite would have been and, again, it did not move.  Stars that evening were also clearly seen and looked like distant dots.  Object also appeared to have a rod-like shaft of light sticking downward out of its belly.  It is not possible to tell whether it was a light beam or a solid part of the craft.  The general impression was similar to that of a wasp in flight — except that the object did not move.  Because the craft’s shape was elongated, it could have well been a transport vehicle.  But it was too far up in the sky to make out any occupants.  It also looked rather large.  Observer does not know how long the object remained in place as it was only seen for an hour, after which the person went to bed.  Observer has seen craft with the naked eye twice before but never in this same area or country.  This object could certainly be described as having the broad characteristics of similar UFO.  Observer went out the next evening and ascertained that no such object could be seen in the clear night sky.  The object had vanished.((NUFORC Note:  Source of the report elects to remain anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134653.html](http://www.nuforc.org/webreports/reports/134/S134653.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Marshall (MI) reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A reddish light faded in and out at different durations of time.  Another light appeared at bottom of light and looked to be attached to original light.  Moments later a third light appeared under the second light. All 3 light were vertical, and attached in nature, and then faded away.((NUFORC Note:  We suspect a sighting date of June 18, and have amended the date above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119622.html](http://www.nuforc.org/webreports/reports/119/S119622.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/163/S163947.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163746.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163952.html)
-- [346](http://www.nuforc.org/webreports/reports/163/S163950.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164098.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
