@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:42 on 18 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:45 on 18 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in West Branch (IA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>Iowa sighting.  2 discs sighted in fieldkind of a pink color.  Hovered just off surface of field. One hovered above the other for about 2 minutes and went east very fast.  Other jsut hovered and moved left to right jsut a little bit.  after about 20 minutes it sped off at estimated speed of about 120 miles per hour.  and went behind trees and faded.  was gone when went to look.  5 minutes later. off in distance there was little lights that swarmed together like gnats around light. very fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13169.html](http://www.nuforc.org/webreports/reports/013/S13169.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Monroe (NY) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Large rectangular object with bright lights, flying low, extremely loud, and moving fast above us.Although I do not recall the exact date, I was with another person.  I did not know how to report a sighting, so it has been unreported for many years.  I was younger, having a sleepover with a friend in which the lights were pitch black, with only the alarm clock luminous.   At about 11:06 P.M. there was an abrupt interruption to our sleepover, a noise that sounded like a large train above the house, we saw circular lights and it was flying extremely low.  It was not hovering, it was moving.  With the lights we could make out the rectangular shape of this huge object moving fast.  This event lasted for about a minute, and abruptly came to an end, with everything back to normal, as if nothing had happened.  But it must have felt like 5 minutes due to our fear.  We immediately recognized the event as a ufo.   We were extremely scared, but realized that we were lucky because we figured that more people would believe us since we were together at the time.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  Hoax??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56610.html](http://www.nuforc.org/webreports/reports/056/S56610.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/163/S163947.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163746.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163952.html)
-- [346](http://www.nuforc.org/webreports/reports/163/S163950.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164098.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
