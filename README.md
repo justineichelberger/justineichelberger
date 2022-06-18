@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:38 on 18 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:42 on 18 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Lubbock (TX) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>cylinder shaped object floating in the sky and then drifting offI was walking outside and just happened to look up at the moon toward the west and saw a very dark object with a cylinder shape overall. At first I thought it might be some balloons in the sky, but they did not bob and weave like balloons I've watched float away. It sat still for about 3-4 minutes, then began moving very slowly to the south. It had no lights, and as it very slowly moved it seemed to also be moving up and away so that it became smaller and smaller. I was franticly trying to get my digital camera to work, but the batteries were dead, and every time I looked down at it, I could barely find the object again against the darkening sky. Finally it just drift completely out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57240.html](http://www.nuforc.org/webreports/reports/057/S57240.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in West Branch (IA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>Iowa sighting.  2 discs sighted in fieldkind of a pink color.  Hovered just off surface of field. One hovered above the other for about 2 minutes and went east very fast.  Other jsut hovered and moved left to right jsut a little bit.  after about 20 minutes it sped off at estimated speed of about 120 miles per hour.  and went behind trees and faded.  was gone when went to look.  5 minutes later. off in distance there was little lights that swarmed together like gnats around light. very fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13169.html](http://www.nuforc.org/webreports/reports/013/S13169.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/163/S163947.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163746.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163952.html)
-- [346](http://www.nuforc.org/webreports/reports/163/S163950.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164098.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
