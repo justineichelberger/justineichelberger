@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:38 on 19 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:49 on 19 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Beaverton (OR) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>two lights traveling to the south east in Beavertonstanding on balcony looking at the moon in the west. just saw two lights traveling together at different speeds then the two lights traveled at the same speeds toward the south east lasted like five minuts. my family saw.((NUFORC Note:  Possibly an evening sighting.  We have altered the date above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57171.html](http://www.nuforc.org/webreports/reports/057/S57171.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Arlington (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright Electric Blue Light in Arlington Texas Moving Very Fast in a Short DistanceA very bright electric blue light was seen just above the houses in South East Arlington. I noticed the light and advised my entire family to come out and observe as I noticed it was moving South slowly and was a color light I have never seen on an aircraft before.  As we watched, it started moving faster to the South, only to be amazed that a helicopter was following the blue light.  This struck fear as we continued to watch, when suddenly, the light shot back in the direction it was going, and immediately dropped below the house line. I ran into the house and grabbed my video camera.  The light returned and in a similar, but not exactly the same pattern, flew the same path running at very wild speeds. I was able to capture the light but due to how dark it was, kept having to zoom in and out to get a clear example of the brightness of the blue. It finally dropped again and was never seen again.  The sky was dark and very clear so this was by no means a spotligh! t as most of us were thinking.  I have the video but am not sure who to share it with for fear or rejection, but 5 of the most honest people I know watched this light move back and forth with no idea what it was we were watching.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75877.html](http://www.nuforc.org/webreports/reports/075/S75877.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163736.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164120.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163737.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164116.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164018.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
