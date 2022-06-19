@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:47 on 19 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:01:34 on 19 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Watertown (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>At roughly 23:50 my mother, my younger sister, and I witnessed “star like” objects moving above the clouds. I had stepped out on our back porch to smoke a cigarette and I looked up in the sky and saw, what I thought at the time was a shooting star.  Then I saw one more and then another and by the forth I yelled into the house for my family to come and see these “moving stars”.  Everyone came out and saw them I looked at another part of the sky and saw four more as did everyone else.  At this point my stepfather who is an active duty military officer had stepped out to see what was happening.  He too witnessed the lights.  It was partly cloudy but we were still able to see the stars and the lights and tell the difference between the two; I witnessed about twenty-five myself.  My mother saw about 12 and my sister saw about 15. My stepfather caught the last of them and says he saw 5.  I thought at first it might have just been a meteor shower but all of the lights we! re moving in the same direction at what seemed like the same speed.  They were all roughly the same size and shape.  I checked the charts for meteor showers and it said that the last shower was May 6, and the next isn’t until August 12.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75854.html](http://www.nuforc.org/webreports/reports/075/S75854.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Pike Creek (DE) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>A jet was flying west at the normal altitude that I see jets flying everyday.  I know from visual experience how far apart jets need to be from each other.  A small silver dot was flying parallel to the jet at the same speed.  The dot was very close to the plane about 1/2 inch to scale.  I thought that it was possibly a fighter escort, but I would have heard the fighter jet.  There was no vapor trail from the dot.  There was a long vapor trail from the jet.  It was a crystal clear day.  The dot paralleled the jet for about 10 seconds.  Then the dot vanished with no change in direction.  The jet continued to fly with no change in course, on the same path that I see all jets fly every day.  I watched the jet until it was out of site.  The silver dot never returned.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127971.html](http://www.nuforc.org/webreports/reports/127/S127971.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163736.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164120.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163737.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164116.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164018.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
