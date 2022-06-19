@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:46 on 19 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:32 on 19 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Crystal Lake (IL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Shiny silver white disk vanishing out of thin air, then reappearing.We were driving home, when all of a sudden my cousin pointed out the window and we both saw this shiny silver white disk slowly moving Across the sky to the right of us and as I pulled out my camera looking away for a second my cousin saw it vanish in thin air and it kept coming back and vanishing for about 3 minutes before we couldn't find it again.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119627.html](http://www.nuforc.org/webreports/reports/119/S119627.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Bellevue (WA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>((NUFORC Note:  One of two reports from same source.  We cannot be certain whether they are intended as serious-minded reports, but we post them here, nevertheless.  PD)) LIT CIGAR SHAPE, SIDE VIEW- OVEL SPOON SHAPE ,TOP, BOTTOM VIEW- ORBED TRAILING TAIL,BELIEVED FL CRASH LANDED UFOTHIS IS AN ADDITION TO MY OCT, 2007 REPORT. A CALLER CALLED IN TO COAST 570 AM, ON MY RADIO, 1/7/06 AT AROUND 2145 AND REPORTED THIS UFO REPORT BELIEVED TO BE THE SAME ONE I SAW. WHEN I FRIST HEARD IT ON THE RADIO AFTER I HAD SEEN THE UFO ON 6/19/05-AT AROUND 0630 IT WAS REPORTED AS A SMALL PLANT CRASH IN LONGWOOD FLORIDA- 20 MINUTE OR SO LATTER IT WAS REPORTED AS A FIRE IN THE WOODS- THEN A SHORT TIME LATTER WAS REPORTED AS A CAR CRASH. THE UFO's FRIST COUSE CORRECTION WAS SO IT WOULD NOT MISS THE EARTH,IT APPEARDED TO BE GOING JUST TO FAST. IT MADE OTHER COURE CORRECTIONS WHITCH SLOWED THE CRAFT AND ALLOWED ME TO SEE THE OTHER SURFACES. THE OTHER FEATURES THERE IS NOT ENOUGH ROOM HERE TO CONTINUE. THE ADDITIONAL INFO HERE IS THE DATE,TIME AND BELIEVE CRASH LOCATION. ALREADY GIVEN WAS DIRECTION OF TRAVEL</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59597.html](http://www.nuforc.org/webreports/reports/059/S59597.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163736.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164120.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163737.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164116.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164018.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
