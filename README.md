@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:34 on 19 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:37 on 19 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Kinston (NC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Orange UFO spotted hovering above a neighbor's house, before speeding off into the distance.A 57-year-old woman saw what she believed was another shooting star as we witnessed a shooting star the other day.  She noticed the dark and bright orange object hovered above her neighbor's house, so she needed to record it.  She went to get her camera to take a video of the object in the sky.  When she returned, it glowed and sparked a bright orange, before speeding off towards the city.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134676.html](http://www.nuforc.org/webreports/reports/134/S134676.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Essex (Canada) (ON) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I went outside with a coffee. I took a drink of coffee, lit a smoke, then looked directly overhead. it was exactly 8:52 pm the sun was behind the garage to the west and I saw between the branches of the trees above me what looked like a star, "which never moved", to early for a star I thought?  I grabbed my camera CANON REBEL EOS T2i with the Canon 28-135 Ultrasonic EF, I.S. lens and ripped a few shots, then zoomed into the shot on the camera panel to see if it was a star, I saw a definite sphere, I aimed the camera and shot some more, I then decided to get my tripod and 400mm Tamron crap lens. Into the house I run, unravelling the video camera from the tripod, grabbing the 400mm then extending the tripods legs with the object still in the sky, I aimed on auto focus, it locked, so I snapped away. The object then went dim and the auto focus wouldn’t take so I switched to manual and focussed and focussed I could barely see the object through the camera when the Probe lit up and I shot again seeing it split into a few pieces, I was so pumped with my heart pounding and I could barely operate the camera.  The object then went dim and I lost it all in the camera and in visual. Just then A freand came in the driveway, I told them I was taking photos of birds.  Later I told freand, and showed her the photos.  Looking at the photos in the computer with the Canon Photo software I noticed there where five shots that were black instead of blue but the object was still visible in the photos, the most interesting thing was near the ending there seemed to be a puff of smoke in a Saturn like ring around a center object then two sets or 4 more spheres come out, here’s the 28 pics I took.  The photos are from Raw images, roughly 20 MB, I enhanced and enlarged them for detail.((NUFORC Note:  Source elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77267.html](http://www.nuforc.org/webreports/reports/077/S77267.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163736.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164120.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163737.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164116.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164018.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
