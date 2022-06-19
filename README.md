@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:10:25 on 19 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:02:44 on 19 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Lee's Summit (MO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Blue lights circling for 2 minutes.  Neighbors walking out and watching also.  Are there night drones with lights??  Unsure..((NUFORC Note:  Source of the report elects to remain anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134685.html](http://www.nuforc.org/webreports/reports/134/S134685.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Coupeville (south of) (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>UFOS that will not take snap-shots.last night I was in my back yard, With my dog.  Before we went to Bed, I saw two UFOS flying north going by the NAVY Base on Whidbey. I been wathing them for years.  And been trying to get a good photo of them.with video or a camera but every time I get the film developed I get blank photos.  The third ufo fly by was going south,  Real slow real close and real bright.I snaped 10 shots of it.And thought I finaly got a good shot.  The next day I got the film developed,and every shot was blank. So now I don't know what I can do.  I know if I had infer-red I would get a good shot.  thank you.ps I will call back soon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89741.html](http://www.nuforc.org/webreports/reports/089/S89741.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163736.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164120.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163737.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164116.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164018.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
