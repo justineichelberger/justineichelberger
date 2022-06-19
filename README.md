@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:51 on 19 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:47 on 19 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1982, an anonymous witness in Spring Valley (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Objects floating in sky, thought to be birds at first. Very before pattern, when I reviews the footage inside I was shocked to see something I didn’t see with my eyes, a darkened circle that’s when I got spooked.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162248.html](http://www.nuforc.org/webreports/reports/162/S162248.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Watertown (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>At roughly 23:50 my mother, my younger sister, and I witnessed “star like” objects moving above the clouds. I had stepped out on our back porch to smoke a cigarette and I looked up in the sky and saw, what I thought at the time was a shooting star.  Then I saw one more and then another and by the forth I yelled into the house for my family to come and see these “moving stars”.  Everyone came out and saw them I looked at another part of the sky and saw four more as did everyone else.  At this point my stepfather who is an active duty military officer had stepped out to see what was happening.  He too witnessed the lights.  It was partly cloudy but we were still able to see the stars and the lights and tell the difference between the two; I witnessed about twenty-five myself.  My mother saw about 12 and my sister saw about 15. My stepfather caught the last of them and says he saw 5.  I thought at first it might have just been a meteor shower but all of the lights we! re moving in the same direction at what seemed like the same speed.  They were all roughly the same size and shape.  I checked the charts for meteor showers and it said that the last shower was May 6, and the next isn’t until August 12.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75854.html](http://www.nuforc.org/webreports/reports/075/S75854.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163736.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164120.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163737.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164116.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164018.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
