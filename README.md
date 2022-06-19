@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:38 on 19 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:31 on 19 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Wonder Lake (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Object was moving very fast until it disappeared.  Over 60k feet</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163737.html](http://www.nuforc.org/webreports/reports/163/S163737.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Weird Light BeamI dont know, if this was an alien sighting, or if it even counts as one, but it's something I experienced several years ago, and just shrugged it off, not thinking that I could be involved in something like this. It happened during the summer, about 7 or 8 years ago, and my cousins and I were bored and so we decided to go see a movie. But before we left, I had to finish up a load of laundry. Now, our house is the middle house in a cul-de-sac, so when we open our garage door, it faces the cul-de-sac and the street that leads into it. Our washing machine and and dryer are in there, and so when we do the wash, we can see the outside world. After putting the clothes in the washer I opened the door to the house, to go back inside. The door, is the kind, that when open, it automatically shuts close, real fast. Well, I opened the door, and all of a sudden, my entire garage is flooded in a bright neon lime-green light. I turn around and see that the entire neighborhood is flooded in this light. Everywhere I looked, everything was covered in this light, as if someone was holding a light, right over our cul-de-sac. I didnt see any object, but after about 10 seconds, of being in light, this huge shadow came out of nowhere and then flew off to the western sky. And then there was this weird wind (like a suction)and the trees blew along with other debri, to the west and then stopped. The light "flew" off too, and everything turned back to normal. I turned around and started to walk back in the house. Now, all this time, the door has been opened. And if you recall, I told you that it was one of those sprung doors, that shut as quickly as it opened. Well, right then and there, the door shut, right over my left foot, ripping up my nail on my big toe. The Dr. said, the nail would never grow back, because the nerves had been lifted out, but it did, and to this day, my toe has a nail. Something, my Dr. said was a "miracle."  I dont know what it was that happened that day, but I always thought, that it had something to do with an alien. So, I was wondering if you can shed some sort of information on this, and tell me, if you have another experience such as this, recorded. Thanks.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42283.html](http://www.nuforc.org/webreports/reports/042/S42283.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163736.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164120.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163737.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164116.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164018.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
