@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:48 on 19 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:46 on 19 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>This turn was immpossible.A steady white object, altitude approx.30,000 ft., moved across the sky East to West.When approx. immediately overhead it hade an immpossibly hard 45 degree turn to the South-West and disappeared behind the skyline, all in approx. 30 to 45 seconds.There was no sound to speak of.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57203.html](http://www.nuforc.org/webreports/reports/057/S57203.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Maple Glen (PA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>low ufo followed by black helicopter.Three of us saw what looked like a rectangular balloon tumbling in the sky, about half a mile up.  we thought what a weird shape balloon and why is it flipping over and over so much.  I went to get sunglasses after a minute and it was gone.  One minute later a VERY low flying black helicopter zooms directly over our house!  No markings on the black helicopter and it was SO LOW and so fast, so weird.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81849.html](http://www.nuforc.org/webreports/reports/081/S81849.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163736.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164120.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163737.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164116.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164018.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
