@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:36 on 19 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:46 on 19 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Belle Plaine (KS) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A triangular craft with a light at each end and a slightly larger central lightParked in the the country just north of Belle Plaine, KS my friend and myself sighted the plane/craft flying at medium level. Not as high as a jet nor at a level where the size was determinable. It was dark probably black but the lights underneath it were bright enough to obscure the vision as to color but the outline of it's shape was clearly visable in the clear sky. It hovered on occasion before changing direction. This lasted for a few minutes then it flew north out of view we saw several other normal (perhaps military) planes in the area afterwords. It's worth mentioning McConnell Airforce Base is  in Wichita about 25 minutes away. I've never thought about reporting it since I've always assumed it was of military origin.((NUFORC Note:  A dramatic event was reported to NUFORC by the Cameron, MO, Police Dept. for this date, as well.))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12413.html](http://www.nuforc.org/webreports/reports/012/S12413.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Crystal Lake (IL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Shiny silver white disk vanishing out of thin air, then reappearing.We were driving home, when all of a sudden my cousin pointed out the window and we both saw this shiny silver white disk slowly moving Across the sky to the right of us and as I pulled out my camera looking away for a second my cousin saw it vanish in thin air and it kept coming back and vanishing for about 3 minutes before we couldn't find it again.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119627.html](http://www.nuforc.org/webreports/reports/119/S119627.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163736.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164120.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163737.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164116.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164018.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
