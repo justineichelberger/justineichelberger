@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:45:12 on 19 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:29:55 on 19 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Hillsborough (NJ) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Sun reflection off a stationary rectangular object in a completely clear blue sky.Small star-like stationary object, rectangular in shape, spotted while looking up at aircraft inbound to Newark International (EWR). First feeling was that it was the bright reflection of the sun off of a Mylar party balloon. However it did not move. Absolutely clear sky and no movement. Sighted and aligned the object against my deck posts as reference. It did not move. Made an assumption that it was likely the International Space Station's Solar panels reflecting the sun. It was there for a good while. Finally noticed that it was gone. A Southwest Airlines jet allowed me a point of reference and I snapped the digital image that will accompany this report. The object is to the left and above the jet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44546.html](http://www.nuforc.org/webreports/reports/044/S44546.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Pensacola (FL) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>06/19/2005 01:00 Pensacola FL  3 points of light translucent, moving North, North East @ a high rate of speed no sound.While fishing on 6/19/2005 about 300 yards from I-10 bridge my husband noticed 3 points of light, triangular in shape about the size of a football field moving across the sky going in a North, North-East direction. My 12 yr. old son, myself and a fellow fisherman watched in awe as it came closer to us then moved back without any sound.  We were amazed at its ability to manuever so quickly and with an amazing speed. It was a very clear night with good visability, the object moved rather fast but was completely translucent. As it moved across the sky we could see the stars through the object. My husband is a web designer, I am a business owner, and are friend works as a contracter for the city, so as educated people we were all in a state shock as to what we had seen.  We live very close to Crestview Florida where sightings happen on a regular basis, but until that night we were all very skeptical about such events.  We did however all agree that what we had seen was not man-made.  My husband and I both served time in the military and are quite versed on military  planes.  My husband was in the Gulf war on a carrier and has seen the many different planes up close and personal.  Whatever this was it has made believers of us all.  I am very curious to find out if others out that night have spotted the same object.  Please feel free to email me with any and all information you might have received as we would like information on that craft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44615.html](http://www.nuforc.org/webreports/reports/044/S44615.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163736.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164120.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163737.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164116.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164018.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
