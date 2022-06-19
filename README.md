@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:01:54 on 18 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:48 on 19 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Pie Town (NM) reported seeing craft that fit the description of some 'Cone' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Object the color, magnitude, size of Jupiter  appeared, was still and then moved at steady speed south to northMy friend and I were talking on the telephone, watching the Mars/Saturn conjunction in the west at sunset. My friend lives 300 miles to the North. I live in 'Clear 9' dark sky country and have unostructed horizons. I turned my head to the South and thought I saw Jupiter, which I though peculiar as the last time I had looked, it was obscured by the houseporch and I did not think it could have moved that far W/SW in the time we spoke. I got up and saw that Jupiter was indeed still behind the house and this object was a bright as Jupiter but was not Jupiter. Then it began to move, coming out of the area of the constellation Corvus, at a soundless, swift but steady speed. My friend saw it move at the same time and we both, still linked by phone, watched as it disappeared-or grew to faint to be seen- beneath the stars of Cygnus to the North. I have sky watched for years, took astronomy courses, have a computer generated planetarium so I know the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51007.html](http://www.nuforc.org/webreports/reports/051/S51007.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>This turn was immpossible.A steady white object, altitude approx.30,000 ft., moved across the sky East to West.When approx. immediately overhead it hade an immpossibly hard 45 degree turn to the South-West and disappeared behind the skyline, all in approx. 30 to 45 seconds.There was no sound to speak of.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57203.html](http://www.nuforc.org/webreports/reports/057/S57203.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/163/S163947.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163746.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163952.html)
-- [346](http://www.nuforc.org/webreports/reports/163/S163950.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164098.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
