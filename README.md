@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:01:34 on 19 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:39 on 19 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Pike Creek (DE) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>A jet was flying west at the normal altitude that I see jets flying everyday.  I know from visual experience how far apart jets need to be from each other.  A small silver dot was flying parallel to the jet at the same speed.  The dot was very close to the plane about 1/2 inch to scale.  I thought that it was possibly a fighter escort, but I would have heard the fighter jet.  There was no vapor trail from the dot.  There was a long vapor trail from the jet.  It was a crystal clear day.  The dot paralleled the jet for about 10 seconds.  Then the dot vanished with no change in direction.  The jet continued to fly with no change in course, on the same path that I see all jets fly every day.  I watched the jet until it was out of site.  The silver dot never returned.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127971.html](http://www.nuforc.org/webreports/reports/127/S127971.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Kentwood (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Fast Aircrafts Chasing Each OtherTwo aircrafts came over our home almost chasing each other at the fastest speed I have ever seen. They were what appeared to be within inches of each other in the air going south. As soon as they went out of sight then another one came from the south and was heading NE at a fast speed also then dissappeared.((NUFORC Note:  Space Shuttle w/ ISS??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57160.html](http://www.nuforc.org/webreports/reports/057/S57160.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163736.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164120.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163737.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164116.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164018.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
