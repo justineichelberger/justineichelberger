@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:47 on 19 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:38 on 19 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Buena Park (CA) reported seeing craft that fit the description of some 'Egg' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>silver thing over Buena Park, Anaheim, Fullerton.we were swimming at least 5 people saw it maybe it was a balloon but wass way too big and too high up and moving in weird directions and changing colors and I have a video send me a number i can text and i'll send it I took it on my iphne 5.  See for yourself seemed to be glowing or blinking maybe reflective it looked silver like round maybe egg shaped hovering and moving quickly in all directions then staying still my friends on other side of buena park saw it too I would think a lot of people saw this it was 430 on fathers day everyone is barb queing((NUFORC Note:  We spoke with the source of the report, and he assured us that the report is serious.  He will send links to the video he has posted to YouTube, which we will include here, when they arrive.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127977.html](http://www.nuforc.org/webreports/reports/127/S127977.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Moose (WY) reported seeing craft that fit the description of some 'Disk' over a period of approximately Unk - Unk minutes.</sub><blockquote><sub>Disc shaped object over Grand Tetons in WYDisc shaped craft seen in picture of mountains at Grand Teton National Park.  We discovered the disc in the photo after we returned home from vacation to Yellowstone National Park.  When zooming in to picture, disc appears to have a white colored halo and something protruding from the left side.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142035.html](http://www.nuforc.org/webreports/reports/142/S142035.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163736.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164120.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163737.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164116.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164018.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
