@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:32 on 19 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:38 on 19 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in San Xavier del Bac (Tucson) (AZ) reported seeing craft that fit the description of some 'Disk' over a period of approximately Snapshot - Snapshot minutes.</sub><blockquote><sub>Saucer shape photographed at San Xavier Mission, Tucson, Arizona.I was looking through the photos I took with my 5 megapixel camera of the San Xavier church 9 miles south of Tucson, Arizona and noticed an odd shape in the sky. I composed the image using the LCD back and never personally withnessed the object. Upon closer inspection, it's one of those classic at an angle saucer shaped somethings in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44642.html](http://www.nuforc.org/webreports/reports/044/S44642.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Beaverton (OR) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>two lights traveling to the south east in Beavertonstanding on balcony looking at the moon in the west. just saw two lights traveling together at different speeds then the two lights traveled at the same speeds toward the south east lasted like five minuts. my family saw.((NUFORC Note:  Possibly an evening sighting.  We have altered the date above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57171.html](http://www.nuforc.org/webreports/reports/057/S57171.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163736.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164120.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163737.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164116.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164018.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
