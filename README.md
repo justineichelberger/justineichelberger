@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:01:03 on 20 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:42 on 20 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Dover (DE) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>In the Summer on 98 Myself and 2 friends were on our way to q shore house on the Indian River in Delaware, I was driving Interstate 95 south in My convertible with the top down. It was about 2AM, and we were just approaching the Dover Airforce base, Off to our right was a clearing and about 200 feet in the air was a giant craft the only way I can explain it would be as a flying football field, being dark I could see the outline, and many lights spread out through the bottom of it. I said to my friends did you see that it looked like a UFO, they said its the Airforce base dummy.As far as I know we have no planes that size or shape. It did not move an inch, it was hovering in place.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37689.html](http://www.nuforc.org/webreports/reports/037/S37689.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Santa Barbara (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>FRONT: LARGE BRIGHT WIDE LIGHT/ THE TAIL END CIGAR/SILVER OR WHITE . ABOUT 5 MILES AWAY, VERY CLEAR NIGHTA LARGE BRIGHT ORANGE LIGHT, WITH A CIGAR END. LOOKED LIKE IT COULD HAVE BEEN A PLANE ON FIRE OR A COMET, BUT NO SMOKE . VERY CLEAR NIGHT, NO SIDE LIGHTS. ONLY ONE LARGE LIGHT AT THE FRONT, COULD ALMOST MAKE OUT THE CENTER AS A SILVER CLASSIC CIGAR SHAPE.  ALL OF US AGREE THAT IT MUST HAVE BEEN A UFO!  NOT A PLANE , ROCKET OR  COMET</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64007.html](http://www.nuforc.org/webreports/reports/064/S64007.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [482](http://www.nuforc.org/webreports/reports/164/S164090.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163777.html)
-- [480](http://www.nuforc.org/webreports/reports/163/S163998.html)
-- [479](http://www.nuforc.org/webreports/reports/164/S164017.html)
-- [478](http://www.nuforc.org/webreports/reports/164/S164112.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
