@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:40 on 20 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:37 on 20 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Essex (Canada) (ON) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I m a contactee so i feel these guys before they come.It was 11.20 am. I went out with coffee and smoke looked around in the sky and felt I should get my video camera.  So I went and got the video camera, put it on tripod, and had 28-135 lens on my camera on the chair beside me.  I then sat and looked around in the sky, I then noticed a definite silver shine to my west pretty far away, I don’t know how high it was from the ground, I was faceing north the craft was west moving slowly south, I grabbed the camera and waited to see if it was the craft, another shine off a sphere slowly moving south. I ripped some shots then grabbed the video camera and tried to aim, the object dimmed and shone reflecting light I figured from the sun.  I dropped the video camera and solely shot with the camera, it was hard to shoot because the sunlight would shine then go out, shine then go out as it traveled south each time I had to refocus and fire.  I got 19 shots in Raw Data images not the best but I got them, heres the enlarged and enhanced photos.((NUFORC Note:  Photos not of a genuine UFO, we believe.  One of four reports from same source.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77264.html](http://www.nuforc.org/webreports/reports/077/S77264.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two UFO's seen above Denver skyOn June 20th I read a little blurb in the Denver Post stating that the shuttle Atlantis would be visible that evening at 10:25pm looking NNW 13 degrees above the mountains and it would travel SSW for a minute or two. So at the appropriate time we went out side to view this spectacle and what we saw was a little different than anticipated.  We saw two bright lights much higher in the sky than anticipated, moving one behind the other at a fast pace.  We observed them for a minute or two before the first craft in line started to dim out then disappear, with the second following the exact same exapmle, dim out then disappear in the exact same place. We don't really have any idea what we saw so thats why  I decided to put this up.((NUFORC Note:  Space Shuttle w/ ISS??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57217.html](http://www.nuforc.org/webreports/reports/057/S57217.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [482](http://www.nuforc.org/webreports/reports/164/S164090.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163777.html)
-- [480](http://www.nuforc.org/webreports/reports/163/S163998.html)
-- [479](http://www.nuforc.org/webreports/reports/164/S164017.html)
-- [478](http://www.nuforc.org/webreports/reports/164/S164112.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
