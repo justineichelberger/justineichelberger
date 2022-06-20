@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:34 on 20 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:40 on 20 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Windsor (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Four balls of red light dashed across the sky from the south, stopped, then made right angled turns to the east.I was star-gazing with my boyfriend in his back yard -- I'm a pharmacy tech and he's currenty changing careers from computers to truck driving. It was a very clear night and a lot of stars were visible. Just before our u.f.o. sighting we saw what my boyfirend says were satelites moving across the sky. I also saw a shooting star (only one) in between our satelite viewings.We were starring in the section of the sky where the Northern Cross lies when all of a sudden four balls of red light dashed across the sky in front of us. I saw four lights, my boyfriend saw three -- the fourth was somewhat behind the others and farther up in the sky). The objects came from the south and were spred across the sky, they were not flying close together. They dashed in front of us, then slowed down to a stop before they darted off in a right angled turn towards the east and disappeared. I started laughing when they came to a stop because all I could think of was "Oh my God, they are flying in "military V" formation!!" Well..it wasn't a complete V shape but it was close. It might sound strange, but the lights seemed to me to be....translucent.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37688.html](http://www.nuforc.org/webreports/reports/037/S37688.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Essex (Canada) (ON) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I m a contactee so i feel these guys before they come.It was 11.20 am. I went out with coffee and smoke looked around in the sky and felt I should get my video camera.  So I went and got the video camera, put it on tripod, and had 28-135 lens on my camera on the chair beside me.  I then sat and looked around in the sky, I then noticed a definite silver shine to my west pretty far away, I don’t know how high it was from the ground, I was faceing north the craft was west moving slowly south, I grabbed the camera and waited to see if it was the craft, another shine off a sphere slowly moving south. I ripped some shots then grabbed the video camera and tried to aim, the object dimmed and shone reflecting light I figured from the sun.  I dropped the video camera and solely shot with the camera, it was hard to shoot because the sunlight would shine then go out, shine then go out as it traveled south each time I had to refocus and fire.  I got 19 shots in Raw Data images not the best but I got them, heres the enlarged and enhanced photos.((NUFORC Note:  Photos not of a genuine UFO, we believe.  One of four reports from same source.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77264.html](http://www.nuforc.org/webreports/reports/077/S77264.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [482](http://www.nuforc.org/webreports/reports/164/S164090.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163777.html)
-- [480](http://www.nuforc.org/webreports/reports/163/S163998.html)
-- [479](http://www.nuforc.org/webreports/reports/164/S164017.html)
-- [478](http://www.nuforc.org/webreports/reports/164/S164112.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
