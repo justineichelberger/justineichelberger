@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:57 on 20 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:50 on 20 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Muncie (IN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately few minutes - few minutes minutes.</sub><blockquote><sub>Triangle craft with 2 bright white lights on back points floated past then paused, lights then turned orange and the craft disapeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57606.html](http://www.nuforc.org/webreports/reports/057/S57606.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1980, an anonymous witness in Carolina (Puerto Rico) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was about 11 yrs old in Carolina, Puerto Rico had just moved from Chicago 1yr before. My whole family was at my Aunt's house in a housing project we saw a light coming towards us, we were joking around look, look a UFO, everybody's laughing also. All of a sudden as it got close we noticed tht this was not an airplane or helicopter, we saw a yellow to orange oval shape on the bottem of the craft, so everybody starts sreaming, it went over our condo, so we all ran out to the hallway, they are open hallways in Puerto Rico. we saw it again on top of us, all of a sudden it turns on to its side, and you can see its like a ball of fire but oval, then around the sides there were lights of all colors, it stays like this for about 20 seconds then it turns right and heads into El Yunque (Puerto Rico's tropical Forest) and it zooms out of sight. This also happened the next night. My father, mother sisters, aunt's, grandmother, cousina all saw this.((NUFORC Note:  Witness indicates that date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44628.html](http://www.nuforc.org/webreports/reports/044/S44628.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [482](http://www.nuforc.org/webreports/reports/164/S164090.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163777.html)
-- [480](http://www.nuforc.org/webreports/reports/163/S163998.html)
-- [479](http://www.nuforc.org/webreports/reports/164/S164017.html)
-- [478](http://www.nuforc.org/webreports/reports/164/S164112.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
