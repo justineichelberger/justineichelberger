@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:42 on 20 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:34 on 20 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Santa Barbara (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>FRONT: LARGE BRIGHT WIDE LIGHT/ THE TAIL END CIGAR/SILVER OR WHITE . ABOUT 5 MILES AWAY, VERY CLEAR NIGHTA LARGE BRIGHT ORANGE LIGHT, WITH A CIGAR END. LOOKED LIKE IT COULD HAVE BEEN A PLANE ON FIRE OR A COMET, BUT NO SMOKE . VERY CLEAR NIGHT, NO SIDE LIGHTS. ONLY ONE LARGE LIGHT AT THE FRONT, COULD ALMOST MAKE OUT THE CENTER AS A SILVER CLASSIC CIGAR SHAPE.  ALL OF US AGREE THAT IT MUST HAVE BEEN A UFO!  NOT A PLANE , ROCKET OR  COMET</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64007.html](http://www.nuforc.org/webreports/reports/064/S64007.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Windsor (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Four balls of red light dashed across the sky from the south, stopped, then made right angled turns to the east.I was star-gazing with my boyfriend in his back yard -- I'm a pharmacy tech and he's currenty changing careers from computers to truck driving. It was a very clear night and a lot of stars were visible. Just before our u.f.o. sighting we saw what my boyfirend says were satelites moving across the sky. I also saw a shooting star (only one) in between our satelite viewings.We were starring in the section of the sky where the Northern Cross lies when all of a sudden four balls of red light dashed across the sky in front of us. I saw four lights, my boyfriend saw three -- the fourth was somewhat behind the others and farther up in the sky). The objects came from the south and were spred across the sky, they were not flying close together. They dashed in front of us, then slowed down to a stop before they darted off in a right angled turn towards the east and disappeared. I started laughing when they came to a stop because all I could think of was "Oh my God, they are flying in "military V" formation!!" Well..it wasn't a complete V shape but it was close. It might sound strange, but the lights seemed to me to be....translucent.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37688.html](http://www.nuforc.org/webreports/reports/037/S37688.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [482](http://www.nuforc.org/webreports/reports/164/S164090.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163777.html)
-- [480](http://www.nuforc.org/webreports/reports/163/S163998.html)
-- [479](http://www.nuforc.org/webreports/reports/164/S164017.html)
-- [478](http://www.nuforc.org/webreports/reports/164/S164112.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
