@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:46 on 20 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:39 on 20 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Arnold (MO) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Circular with white light on underside and silent, low flyingOn Saturday night, 6/20/09, at approximately 11:30 pm, I was sitting outside on my deck having a cigarette and saw a bright light in the sky.  It was white light, bright on the bottom of the craft, but the light was not radiating downward.  It seemed be flying too low to be an airplane, and as it approached (from the southeast), it was about the height of a traffic helicopter, but it was shaped like disc and larger than a helicopter.All I could make out was the bright white light on the bottom, but I could see that it was circular in shape and had a dome on the top which was not lighted.  As it neared my subdivision, it was definitely too large to be a helicopter, but it was also silent.  There were no noises last night outside, not even the hums of air conditioning units.  I waited about a minute to see if it was going to come closer or make a noise, and then it took a northerly direction and went over the house, out of sight.I found it strange that it was flying so low for its size and that it was silent.  We are near Scott AFB, Illinois, and planes often pass over but always make a sound of some sort.  I did not wake my husband to come and see and I was afraid to run to the front of the house and keep looking for it.One other thing; we are dogsitting this weekend and the dog was out on the deck with me when I saw this object.  When the dog saw it, it ran to the sliding glass door to be let inside.  I let the dog in and sat there for about another minute.I’ve never reported anything like this, but since I did not hear of any other reportings on the local St. Louis news stations, I wanted to report it somewhere else to see if others saw what I saw.   I am a 50-year old female, married with one child, and I am a business manager at a major university in St. Louis.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70619.html](http://www.nuforc.org/webreports/reports/070/S70619.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1967, an anonymous witness in Fairfield (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I believeMy mother worked at a club outside of travis airforcebase ca., cecils.  When getting in to her car ready to leave to work the lady that lived next store started to pound on her window speaking in german her native language   when my mother got out of her car and loooked up there was a huge pink cigar shaped craft hovering silently.   After a short amount of time the object moved toward the west dissapearing in seconds not making asound.  When she arrived at work explaining what she had saw was ridicueled so she never spoke of it again outside of family. My mother was a very religious catholic woman and would never of made this up.((NUFORC Note:  Witness indicates that date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44366.html](http://www.nuforc.org/webreports/reports/044/S44366.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [482](http://www.nuforc.org/webreports/reports/164/S164090.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163777.html)
-- [480](http://www.nuforc.org/webreports/reports/163/S163998.html)
-- [479](http://www.nuforc.org/webreports/reports/164/S164017.html)
-- [478](http://www.nuforc.org/webreports/reports/164/S164112.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
