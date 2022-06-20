@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:09:34 on 20 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:38 on 20 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Boulder (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Large round, fiery looking light flying slowly from south to north over Boulder, Colorado at 21:17 MST 06-20-09.There were four of us were sitting in a hot tub enjoying the late evening of June 20, 2009 when we all noticed a very bright round light moving slowly from south to north over southern Boulder, Colorado (roughly 21:17 pm).  The light looked like it was coming from something burning.  It had a red-orange color and was not blinking or fading.  It appeared to be 20-30,000 feet high and was flying slowly.  It made a couple of small turns to the left and right, but mainly followed a path from south to north.  At one point it stopped moving and remained stationary for a minute or so.   It then appeared to fly straight vertically fairly rapidly and the large round fiery looking light grew smaller and smaller until it finally disappeared completely.  The entire viewing time was three to five minutes in length.There was not a tail of flames, just a large round light with the color of something burning.  If it was 20-30,000 feet up, the size of the object would have been very large (many hundreds of feet in diameter if not 1,000’).  It may have been closer to the ground though since all we could see was a large light, definitely not a point source.   Also, at no point could we see any other object than the light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70632.html](http://www.nuforc.org/webreports/reports/070/S70632.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Essex (Canada) (ON) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I m a contactee so i feel these guys before they come.It was 11.20 am. I went out with coffee and smoke looked around in the sky and felt I should get my video camera.  So I went and got the video camera, put it on tripod, and had 28-135 lens on my camera on the chair beside me.  I then sat and looked around in the sky, I then noticed a definite silver shine to my west pretty far away, I don’t know how high it was from the ground, I was faceing north the craft was west moving slowly south, I grabbed the camera and waited to see if it was the craft, another shine off a sphere slowly moving south. I ripped some shots then grabbed the video camera and tried to aim, the object dimmed and shone reflecting light I figured from the sun.  I dropped the video camera and solely shot with the camera, it was hard to shoot because the sunlight would shine then go out, shine then go out as it traveled south each time I had to refocus and fire.  I got 19 shots in Raw Data images not the best but I got them, heres the enlarged and enhanced photos.((NUFORC Note:  Photos not of a genuine UFO, we believe.  One of four reports from same source.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77264.html](http://www.nuforc.org/webreports/reports/077/S77264.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [482](http://www.nuforc.org/webreports/reports/164/S164090.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163777.html)
-- [480](http://www.nuforc.org/webreports/reports/163/S163998.html)
-- [479](http://www.nuforc.org/webreports/reports/164/S164017.html)
-- [478](http://www.nuforc.org/webreports/reports/164/S164112.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
