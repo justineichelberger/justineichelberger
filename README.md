@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:37 on 20 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:46 on 20 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two UFO's seen above Denver skyOn June 20th I read a little blurb in the Denver Post stating that the shuttle Atlantis would be visible that evening at 10:25pm looking NNW 13 degrees above the mountains and it would travel SSW for a minute or two. So at the appropriate time we went out side to view this spectacle and what we saw was a little different than anticipated.  We saw two bright lights much higher in the sky than anticipated, moving one behind the other at a fast pace.  We observed them for a minute or two before the first craft in line started to dim out then disappear, with the second following the exact same exapmle, dim out then disappear in the exact same place. We don't really have any idea what we saw so thats why  I decided to put this up.((NUFORC Note:  Space Shuttle w/ ISS??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57217.html](http://www.nuforc.org/webreports/reports/057/S57217.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Little Marsh (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Darkest night sky of year,moon not visible.Object traveled south-north very low,no sound,slow,two large front facing white cicles that did not emit light,one center very small dome shaped dimmer light came on with a stick like object inside circling,then went out.Object blended in perfect with background.Shape was guessed by object covering stars.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04242.html](http://www.nuforc.org/webreports/reports/004/S04242.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [482](http://www.nuforc.org/webreports/reports/164/S164090.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163777.html)
-- [480](http://www.nuforc.org/webreports/reports/163/S163998.html)
-- [479](http://www.nuforc.org/webreports/reports/164/S164017.html)
-- [478](http://www.nuforc.org/webreports/reports/164/S164112.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
