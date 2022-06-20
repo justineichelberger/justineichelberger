@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:18 on 20 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:37:29 on 20 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in West Chester (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Dark colored wing seen heading South-Southeast from Old Station Rd and Oregon Pass.  Wing executed ~120 degree turn almost instantlyThis is in posted spurred by, and possibly related to, the 6/21/08 sighting at 3:45 am in West Chester. Sighting happened some time that same week (can't remember exact day with 100% certainty, but I think it was Friday 6/20), at around dusk.  I was driving home from work.  Initially spotted craft on Old Station Rd, and kept observing it as I drove down Oregon Pass. I saw a black (or at least dark colored) wing initially heading roughly south-southeast.  Wing executed roughly 120 degree turn within an estimated few hundred feet without banking or slowing down, and proceeded over horizon line.  Light arrays looked like running lights I've seen on conventional wings (eg. B-2, Boeing's U.A.V.), but I've never seen a wing turn that fast before.  I've not even seen vectored thrust aircraft turn that fast before.  Speed was roughly similar to twin-engine private jets I've seen operating in the airspace.  No noise that I could hear, but it also appeared to be high and the engine on my truck is loud and windows were up. As a note, there is an ultralight pilot who flies regularly in the area.  He usually operates in the morning and early afternoon, but I've seen him flying around just before dusk once.  Ultralight is small, low, slow, and brightly colored (mostly white) and makes a buzzing/humming noise when it's close.  It often looks like it's hovering if viewed from a distance.  What I saw was higher, faster, darker and bigger than the ultralight.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68575.html](http://www.nuforc.org/webreports/reports/068/S68575.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Lakewood (CO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1:10 - 1:10 minutes.</sub><blockquote><sub>I was in Morrison, Colorado, (on the Littleton/Morrison line).  I was looking north at a bright red light.  It was moving slowly (similar to the speed of a commercial airliner.  By the way, there were five commercial jets surrounding the Denver metro area at the time.  I happened to be watching the sky and counting the number of jets I could see at one time.   This particular 'jet' was moving toward me, but it struck me as odd that the light of an approaching jet was red.  They are always white.  Now, I realize that is sometimes difficult to ascertain whether an object is approaching or going away from you.  That's not my point.  The point is, the speed at which this object switched directions was 10x the speed.  It was then fast flashing white.  I then video captured more of these rapid switching movements.  The video quality from my iphone is grainy, but I have video.  Was it a drone?  Not sure.  I am willing to send video if I knew how.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146967.html](http://www.nuforc.org/webreports/reports/146/S146967.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [482](http://www.nuforc.org/webreports/reports/164/S164090.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163777.html)
-- [480](http://www.nuforc.org/webreports/reports/163/S163998.html)
-- [479](http://www.nuforc.org/webreports/reports/164/S164017.html)
-- [478](http://www.nuforc.org/webreports/reports/164/S164112.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
