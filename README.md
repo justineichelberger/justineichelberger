@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:13:15 on 20 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:43 on 20 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Roseville (MI) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>rectangle shaped object standing on end, moving from east to west, wind moving west to east @10-15 miles an hour. then stopped,hovered.To whom this may concern: On the evening of 20th June 2009 a friend and I were talking in my back yard when I saw a shining light in the western sky, there was cloud cover and the wind was blowing around 10-15 miles an hour, moving from west to east. This object was rectangle in shape and standing on end, moving at around half the speed of a normal sized two setter prop plan and was traveling east to west, it would get really bright then back to silver like color, it did this the whole time we viewed it. I know what satellites look like at night as well as flares at dusk plus this was below the clouds and the clouds appeared to be at about 3000-4000 ft. I was thinking it was a balloon but how could it get so shinny on a cloudy day not to mention move against the wind??? Then the strangest thing happened and this is why I’m emailing this report… the object just stopped in mid air and hovered for about 30-45 seconds b/4 the clouds covered it…. I’ve never seen anything like this b/4 as I’m an amateur astronomer now for about 30 years and have seen some cool stuff out there b/4 but NEVER LIKE THIS!!!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70642.html](http://www.nuforc.org/webreports/reports/070/S70642.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Kansas City (MO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>2 silver/white spheres hovering/non-moving at 5000 ft. until covered by clouds after 20 minutes.2 silver/white spheres approximately 5000 feet in altitude and around 500 yds. apart.  Did not change position during the 20 minute sighting and were eventually covered by incoming clouds.  At first sight we thought they were stars but were closer and larger than a true star.  The evening sun made them shine like stars, I do not believe they were emanating light.  This was approximately 5 miles E/SE of Kansas City International airport.  There was nothing particularly significant about this other than they just didn't move at all the whole time while clouds and aircraft were crossing above.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146945.html](http://www.nuforc.org/webreports/reports/146/S146945.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [482](http://www.nuforc.org/webreports/reports/164/S164090.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163777.html)
-- [480](http://www.nuforc.org/webreports/reports/163/S163998.html)
-- [479](http://www.nuforc.org/webreports/reports/164/S164017.html)
-- [478](http://www.nuforc.org/webreports/reports/164/S164112.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
