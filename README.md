@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:37:29 on 20 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:22:44 on 20 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Lakewood (CO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1:10 - 1:10 minutes.</sub><blockquote><sub>I was in Morrison, Colorado, (on the Littleton/Morrison line).  I was looking north at a bright red light.  It was moving slowly (similar to the speed of a commercial airliner.  By the way, there were five commercial jets surrounding the Denver metro area at the time.  I happened to be watching the sky and counting the number of jets I could see at one time.   This particular 'jet' was moving toward me, but it struck me as odd that the light of an approaching jet was red.  They are always white.  Now, I realize that is sometimes difficult to ascertain whether an object is approaching or going away from you.  That's not my point.  The point is, the speed at which this object switched directions was 10x the speed.  It was then fast flashing white.  I then video captured more of these rapid switching movements.  The video quality from my iphone is grainy, but I have video.  Was it a drone?  Not sure.  I am willing to send video if I knew how.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146967.html](http://www.nuforc.org/webreports/reports/146/S146967.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Abingdon () reported seeing craft that fit the description of some '' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Never saw an airplane, helicopter or drone for that matter, that moved through the sky like this.Saw a rectangular shaped object that had blinding lights.  Was not moving through the skies very fast.((NUFORC Note:  Witness elects to provide no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120547.html](http://www.nuforc.org/webreports/reports/120/S120547.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [482](http://www.nuforc.org/webreports/reports/164/S164090.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163777.html)
-- [480](http://www.nuforc.org/webreports/reports/163/S163998.html)
-- [479](http://www.nuforc.org/webreports/reports/164/S164017.html)
-- [478](http://www.nuforc.org/webreports/reports/164/S164112.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
