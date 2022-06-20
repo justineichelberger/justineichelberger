@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:43 on 20 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:30 on 20 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Kansas City (MO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>2 silver/white spheres hovering/non-moving at 5000 ft. until covered by clouds after 20 minutes.2 silver/white spheres approximately 5000 feet in altitude and around 500 yds. apart.  Did not change position during the 20 minute sighting and were eventually covered by incoming clouds.  At first sight we thought they were stars but were closer and larger than a true star.  The evening sun made them shine like stars, I do not believe they were emanating light.  This was approximately 5 miles E/SE of Kansas City International airport.  There was nothing particularly significant about this other than they just didn't move at all the whole time while clouds and aircraft were crossing above.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146945.html](http://www.nuforc.org/webreports/reports/146/S146945.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1990, an anonymous witness in Gillett (WI) reported seeing craft that fit the description of some 'Cross' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was in my tent when is saw this very large cross shape it had a red lights on each end of the cross UFO and its was very high up I went in side to tell my mom and dad and went back out side it was gone.((NUFORC Note:  One of four brief reports from same source.  We attempted to contact the witness to confirm that the reports are sincere, but were unable to reach her by telephone.  PD))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147019.html](http://www.nuforc.org/webreports/reports/147/S147019.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [482](http://www.nuforc.org/webreports/reports/164/S164090.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163777.html)
-- [480](http://www.nuforc.org/webreports/reports/163/S163998.html)
-- [479](http://www.nuforc.org/webreports/reports/164/S164017.html)
-- [478](http://www.nuforc.org/webreports/reports/164/S164112.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
