@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:06:23 on 21 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:06:29 on 21 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Battle Ground (WA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Three orange lights flying in a single file line about one mile between each light. traveling about 1000 ft above ground turned.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110516.html](http://www.nuforc.org/webreports/reports/110/S110516.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Six oval-like objections seen flying in formation.I was up on the roof of my apartment complex, lying on my back and taking the night sky in.  I saw what I thought to be a shooting star in the sky to the east.  As I looked through my binoculars, I discovered 6 oval-like shapes moving in formation.  They emitted no light nor made any sound, and were dark brown in appearance.  The shape of the objects reminded me of the cap of a mushroom, and they moved slightly from side to side while in formation.  They moved westward through the sky, at an apparent high rate of speed, similar to that of a satellite.  As they headed toward the western horizon, the two objects on the flanks shifted away from the group and quickly fell back in formation.  This event lasted approximately one minute.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110529.html](http://www.nuforc.org/webreports/reports/110/S110529.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/164/S164078.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164109.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163791.html)
-- [374](http://www.nuforc.org/webreports/reports/163/S163780.html)
-- [373](http://www.nuforc.org/webreports/reports/163/S163805.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
