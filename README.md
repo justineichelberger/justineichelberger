@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:39 on 21 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:51 on 21 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Bensalem (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>25-30 Red/Orange lights in the sky!!!I was driving with my friend on I-95 south heading to Bensalem,PA and we saw these bright red/orange orb-like lights in the sky lined up moving very slow, and more started to appear everywhere, I remember counting how many there were and at one point there were probably 25-30 of these lights. After about ten mins they just disappeared and when we were heading back home, they appeared again but this time there was 7 of these same lights but closer and bigger and brighter, moving at the same pace in a straight line above us and lasted about 15 mins and just disappeared,, it was wild...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110509.html](http://www.nuforc.org/webreports/reports/110/S110509.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Sturgis (SD) reported seeing craft that fit the description of some '' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Multiple streaks in same spot, followed by slower oneLight that streaked extremely fast across a small portion of the night sky. Happened about 5 times in the exact same spot. Had no trail like a shooting star does. After this happened, a dimmer light went from the same spot and traveled North in a much slower fashion before disappearing suddenly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164078.html](http://www.nuforc.org/webreports/reports/164/S164078.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/164/S164078.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164109.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163791.html)
-- [374](http://www.nuforc.org/webreports/reports/163/S163780.html)
-- [373](http://www.nuforc.org/webreports/reports/163/S163805.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
