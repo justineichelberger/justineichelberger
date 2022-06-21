@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:44 on 21 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:40 on 21 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Fredericktown (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Orange light moves slowly across sky.I glanced out my kitchen window a little before 9:00 pm CST and saw an orange, glowing light moving in the sky.  The window faces north. I told my husband to follow me outside there’s a light in the sky, he followed and saw the light, quickly deciding it was a helicopter.I ran and got my camera, however being the evening the two short videos I shot I don’t think are very helpful.  The light moved fairly slowly, at one point seemed to hover for a few seconds, and move slightly up and then back to the original line of travel.  It wasn’t moving very quickly, so it seemed feasible that it may be a helicopter.  However I saw no red or green navigation lights, or strobe lights of any kind, which I have always associated with helicopters or airplanes. I have seen spotlights on helicopters and remember them being a very bright white…not this orange color.  I heard no sound that seemed to originate from it.  I thought I heard a helicopter but it was very faint and off to the west where there is a hospital with a helicopter pad here in town.  This light was almost directly over the house and helicopters that have flown over us at that altitude in the past make a lot more noise than what I was hearing. The color was solid orangish-yellow, with no blinking.  It was not perfectly round or orb like, it had a “flame like” appearance, similar to a hot air balloon flame.  It was just under the cloud cover.  I went to a weather website after the sighting and it said there were a few clouds at 12, 000 feet.My camera makes the light appear as an orb, but it wasn’t perfectly round.  Also, camera kept trying to auto-focus…I think the video is just useful to show there was some light in the sky. I will share my videos via e-mail if interested.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110506.html](http://www.nuforc.org/webreports/reports/110/S110506.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Grand Rapids (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>The way they traveled together with no sound was eerie!!I seen twelve round bright white objects all following same path going faster than a plane would travel it was calm wind conditions.  They made no sound at all 8 in perfect order then 3 together then the last one seemed to be traveling at least three times faster then the rest I watched from my balcony. It was eerie the hair was standing up on my neck gave me the chills don't know why!!!((NUFORC Note:  Witness corrected the time of the sighting to reflect a nighttime sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98965.html](http://www.nuforc.org/webreports/reports/098/S98965.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/164/S164078.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164109.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163791.html)
-- [374](http://www.nuforc.org/webreports/reports/163/S163780.html)
-- [373](http://www.nuforc.org/webreports/reports/163/S163805.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
