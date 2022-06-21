@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:38 on 21 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:34 on 21 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Hillsboro (MO) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>In my previous report is an error: there were no lights.  The object itself was lit.20 minutes after waking up and sitting on a sofa in our North facing sunroom, between the trees I saw an oblong shaped iridescent lime green light traveling West to East. 2-3 times it dropped what looked to be an orange spark off the rear.  Lasted about 15 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110458.html](http://www.nuforc.org/webreports/reports/110/S110458.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Scene in English movie (UK/England) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>UFO SPOTTED IN MOVIE OFFENDERUFO SPOTTED IN MOVIE (OFFENDER) I WOULD LIKE YOU TO WATCH A PORTION OF THE MOVIE OFFENDER.  THEIR IS A SCENE IN THE PARK WHERE THE BOYFRIEND IS TALKING TO ANOTHER MAN.  HE IS FINDING OUT WHO HURT HIS GIRLFRIEND AND WHERE THESE MEN ARE LOCATED.  THE MOVIE TIME IS 52:06 TO 51:54 LOCTION IN PARK,  LOOK AT OBJECT IN SKY DARK SHADOW MOVING ACROSS SKY WHILE FILMING.  THIS FILE (OFFENDER ) CAN BE VIEWED ON NETFLEX.((NUFORC Note:  We have not viewed the movie.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98843.html](http://www.nuforc.org/webreports/reports/098/S98843.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/164/S164078.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164109.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163791.html)
-- [374](http://www.nuforc.org/webreports/reports/163/S163780.html)
-- [373](http://www.nuforc.org/webreports/reports/163/S163805.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
