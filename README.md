@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:34 on 21 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:44 on 21 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Scene in English movie (UK/England) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>UFO SPOTTED IN MOVIE OFFENDERUFO SPOTTED IN MOVIE (OFFENDER) I WOULD LIKE YOU TO WATCH A PORTION OF THE MOVIE OFFENDER.  THEIR IS A SCENE IN THE PARK WHERE THE BOYFRIEND IS TALKING TO ANOTHER MAN.  HE IS FINDING OUT WHO HURT HIS GIRLFRIEND AND WHERE THESE MEN ARE LOCATED.  THE MOVIE TIME IS 52:06 TO 51:54 LOCTION IN PARK,  LOOK AT OBJECT IN SKY DARK SHADOW MOVING ACROSS SKY WHILE FILMING.  THIS FILE (OFFENDER ) CAN BE VIEWED ON NETFLEX.((NUFORC Note:  We have not viewed the movie.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98843.html](http://www.nuforc.org/webreports/reports/098/S98843.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Fredericktown (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Orange light moves slowly across sky.I glanced out my kitchen window a little before 9:00 pm CST and saw an orange, glowing light moving in the sky.  The window faces north. I told my husband to follow me outside there’s a light in the sky, he followed and saw the light, quickly deciding it was a helicopter.I ran and got my camera, however being the evening the two short videos I shot I don’t think are very helpful.  The light moved fairly slowly, at one point seemed to hover for a few seconds, and move slightly up and then back to the original line of travel.  It wasn’t moving very quickly, so it seemed feasible that it may be a helicopter.  However I saw no red or green navigation lights, or strobe lights of any kind, which I have always associated with helicopters or airplanes. I have seen spotlights on helicopters and remember them being a very bright white…not this orange color.  I heard no sound that seemed to originate from it.  I thought I heard a helicopter but it was very faint and off to the west where there is a hospital with a helicopter pad here in town.  This light was almost directly over the house and helicopters that have flown over us at that altitude in the past make a lot more noise than what I was hearing. The color was solid orangish-yellow, with no blinking.  It was not perfectly round or orb like, it had a “flame like” appearance, similar to a hot air balloon flame.  It was just under the cloud cover.  I went to a weather website after the sighting and it said there were a few clouds at 12, 000 feet.My camera makes the light appear as an orb, but it wasn’t perfectly round.  Also, camera kept trying to auto-focus…I think the video is just useful to show there was some light in the sky. I will share my videos via e-mail if interested.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110506.html](http://www.nuforc.org/webreports/reports/110/S110506.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/164/S164078.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164109.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163791.html)
-- [374](http://www.nuforc.org/webreports/reports/163/S163780.html)
-- [373](http://www.nuforc.org/webreports/reports/163/S163805.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
