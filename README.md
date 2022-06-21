@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:09:59 on 21 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:43 on 21 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 00:15 - 00:15 minutes.</sub><blockquote><sub>Sphere over Olympic Mountains in West.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134701.html](http://www.nuforc.org/webreports/reports/134/S134701.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Nicholasville (KY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>We seen a Black Triangle with red and yellow flashing lightsMy wife and I seen a black triangle shoting acroos the sky as we where coming in form out back. I looked up and so did my wife and we saw this black Triangle flashing red and yellow lights. It made no sound and moved faster then a plane. I say it was about 200 ft above the ground and was as big as a football feild. Then it just disaperd we have no idea where it whent.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08126.html](http://www.nuforc.org/webreports/reports/008/S08126.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/164/S164078.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164109.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163791.html)
-- [374](http://www.nuforc.org/webreports/reports/163/S163780.html)
-- [373](http://www.nuforc.org/webreports/reports/163/S163805.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
