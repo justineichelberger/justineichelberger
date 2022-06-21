@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:50 on 20 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:44 on 21 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1980, an anonymous witness in Carolina (Puerto Rico) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was about 11 yrs old in Carolina, Puerto Rico had just moved from Chicago 1yr before. My whole family was at my Aunt's house in a housing project we saw a light coming towards us, we were joking around look, look a UFO, everybody's laughing also. All of a sudden as it got close we noticed tht this was not an airplane or helicopter, we saw a yellow to orange oval shape on the bottem of the craft, so everybody starts sreaming, it went over our condo, so we all ran out to the hallway, they are open hallways in Puerto Rico. we saw it again on top of us, all of a sudden it turns on to its side, and you can see its like a ball of fire but oval, then around the sides there were lights of all colors, it stays like this for about 20 seconds then it turns right and heads into El Yunque (Puerto Rico's tropical Forest) and it zooms out of sight. This also happened the next night. My father, mother sisters, aunt's, grandmother, cousina all saw this.((NUFORC Note:  Witness indicates that date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44628.html](http://www.nuforc.org/webreports/reports/044/S44628.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Garden Grove (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>two objects, very high up. doing  criss cross formations across the sky.It was about 9:30 Pacific time and i was about to do my usual sit up routine before going out for my saturday evening. It sprinkled rain for a few minutes that evening and made the sky very clear with partial clouds.I was lying on my back staring at a 747 probably landing towards the long beach airport. Suddenly from the right side of my vision, i noticed two bright objects, extremely high up in altitude flying extremely fast side by side, then crossing each other as if they were flying some sort of formation, but almost as if the objects were playing, very organized. The objects were definetely not shooting stars or comets. The objects flew in a playful organized pattern across the sky at extrodonary speed. the way the objects criss crossed and exchanged paths was so amazing to see,lasted for 3-4 seconds,flying into in the distance.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70604.html](http://www.nuforc.org/webreports/reports/070/S70604.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [482](http://www.nuforc.org/webreports/reports/164/S164090.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163777.html)
-- [480](http://www.nuforc.org/webreports/reports/163/S163998.html)
-- [479](http://www.nuforc.org/webreports/reports/164/S164017.html)
-- [478](http://www.nuforc.org/webreports/reports/164/S164112.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
