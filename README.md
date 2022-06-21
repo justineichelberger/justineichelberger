@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:40 on 21 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:42 on 21 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Grand Rapids (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>The way they traveled together with no sound was eerie!!I seen twelve round bright white objects all following same path going faster than a plane would travel it was calm wind conditions.  They made no sound at all 8 in perfect order then 3 together then the last one seemed to be traveling at least three times faster then the rest I watched from my balcony. It was eerie the hair was standing up on my neck gave me the chills don't know why!!!((NUFORC Note:  Witness corrected the time of the sighting to reflect a nighttime sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98965.html](http://www.nuforc.org/webreports/reports/098/S98965.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Eastland (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Saw a  bright light moving in the skyIt was around dusk when I went outside with my binoculars hoping to catch a glimpes of mars. I had heard on the news that mars would be clearly visiable because it was so close to earth. As I was begining to pull out my binoculars, I looked to the east and saw a bright white light moving to the south east. At first I thought it was an airplane, then I looked at it with the binoculars. I could barely make out the objects shape, it appeared to be triangular or diamond shaped. This thing moved quickly and made no noise what so ever. I only saw the one white light at the bottom. I've seen enough aircraft, civilian and military, in my time to know this was not one of ours.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18125.html](http://www.nuforc.org/webreports/reports/018/S18125.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/164/S164078.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164109.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163791.html)
-- [374](http://www.nuforc.org/webreports/reports/163/S163780.html)
-- [373](http://www.nuforc.org/webreports/reports/163/S163805.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
