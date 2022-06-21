@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:32 on 21 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:10:27 on 21 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Issaquah (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>2 objects, irregularly-shaped, both with something extending in a straight line beneath them, quite high in the sky.At first appeared to be 2 jets, traveling at a duplicate speed on a parallel path, quite high in the sky. However, with the aid of binoculars, they were observed as being two unidentifiable objects, both with something hanging from beneath them in a straight line; perhaps metal.  However, both shapes changed frequently.  They were black and were headed in a northerly direction.  We lost sight of the first when it rapidly disappeared; the second we were able to track for the remaining time until it rose too high into the atmosphere to see.((NUFORC Note:  We spoke with this witness, and found the person to be seemingly quite credible.  Even the witness was uncertain as to what was witnessed, but we requested a brief report, nevertheless.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18129.html](http://www.nuforc.org/webreports/reports/018/S18129.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Spring Hill (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I saw a flying white ball.  Looks like a flying moon. It flew across the sky so fast. Definitely not a plane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110617.html](http://www.nuforc.org/webreports/reports/110/S110617.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/164/S164078.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164109.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163791.html)
-- [374](http://www.nuforc.org/webreports/reports/163/S163780.html)
-- [373](http://www.nuforc.org/webreports/reports/163/S163805.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
