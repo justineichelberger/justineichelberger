@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:41:05 on 21 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:28:10 on 21 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1975, an anonymous witness in Sunbury (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Traingle shaped UFO stopped in sky then accelerated at great speedMy brother and I were walking along Lenker Ave, Sunbury Pennsylvania, when a traingular craft silently came along in the night sky overhead and stopped.  It had lights on it, red, blue and green.  It angled upwards at about 45 degrees and then shot off in a flash of light and vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113323.html](http://www.nuforc.org/webreports/reports/113/S113323.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Gates (OR) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately Multiple times - Multiple times minutes.</sub><blockquote><sub>Large octagon grid patterns late night sightings.19:50 Camped the night at the Rocky Top Trail head. With a friend. Clear skies. We were both sleeping and facing South. I awoke at 3:02 and saw an octagon grid straight above me. It was made of black semitrical lines. Many octagons. Hard to see the pattern after about five seconds. Translucent. I could see through the octagon forms. The Moon was not up at the time. The grid was over 12"AL. I could not see the overall shape of the grid. I go back to sleep. No sound. 4:30 I awaken and immeadiately look straight up and see a highly visable elongated square just hovering. 4"x6" AL.It had many large and small octagons covering the bottom. The octagons were like a black frame work. For a few seconds it hovers then moves away to the NW.  In the center was a trangular shape made of small black dots or blobs. As it hovered I could see the larger grid pattern hovering above the smaller square. The larger grid was more visable at this time. I noticed the larger grid began to fade out soon after the smaller grid square left the area. The moon was to my left at about the ten O'clock position. It was less than half. Clear skies.I went back to sleep.((NUFORC Note:  We have no idea what an octagon grid is.  PD)) 5:56 I awoke and was facing East. When I opened my eyes and looked at the sky,it is dawn.  Immediately I see another square form appear in the sky in the distance. And then it passed right over our camp sight. It was an elongated square. 3" AL. It had strange curly black lines on the under side.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31707.html](http://www.nuforc.org/webreports/reports/031/S31707.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/164/S164078.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164109.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163791.html)
-- [374](http://www.nuforc.org/webreports/reports/163/S163780.html)
-- [373](http://www.nuforc.org/webreports/reports/163/S163805.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
