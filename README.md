@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:45 on 22 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:06:09 on 22 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Lights in the sky wink out in the vicinity of Turkey PointMy wife and I just got on the Turnpike at 40th St and as we looked down the highway, we saw 3 lights in the direction of SSE close together in a straight line. I got interested because In my 30+ years in aviation, I have not seen landing lights so big and strong on an airplane. I kept looking at the lights and I said, "its a bird, is it a plane."   Mi wife said:"I know what you are looking at. You better look where you drive and I will look at the lights." I said:"yes, and when you say wow, it will be too late!" Just as I said that, the middle light dimmed, left and right lights alternately blinked on and off and it disappeared.On further reflection, I realized it was very near or above the Turkey Point nuclear reactor, which fits the profile of many other sightings.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90050.html](http://www.nuforc.org/webreports/reports/090/S90050.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in East Meadow (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>It was two objects that looked like flames at first very very bright coming towards each other... then they diverged in opposite directions and the one going towards my right frame of visions disappeared, the left one remained for a while longer then went straight up and then out in to the distance</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119699.html](http://www.nuforc.org/webreports/reports/119/S119699.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/163/S163802.html)
-- [365](http://www.nuforc.org/webreports/reports/157/S157120.html)
-- [364](http://www.nuforc.org/webreports/reports/157/S157121.html)
-- [363](http://www.nuforc.org/webreports/reports/157/S157131.html)
-- [362](http://www.nuforc.org/webreports/reports/157/S157126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
