@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:57 on 22 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:12:18 on 22 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Wilhoit (north of) (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>total ..5 round objects moving in circle ...followed each other then vanished one by onewas riding motorcycle on south bound hwy89 south of Prescott,Az...8 miles or so north of wilhoit,Az...out of the corner of my eye saw something turned my head and saw three pinkish round objects moving in a circle around the circumference...I stopped in the middle of the road cause I didn't believe what i was looking at,this took all of about 15 seconds ...from the moment i turned my head took 5 seconds to stop, then watched for 10 seconds.. the circle was not straight up and down but off to an angle..then 2 more came into the circle from 2 O'clock ..total 5..all went around once then one left the circle at 2 O'clock then all followed the one that left and they Vanished about.....3 inches from were the circle was. The place where they seemed to be was about a mile or so from the road ..maybe alot closer but i could see the tops of the mountains and judge where they were in relation the the valley below..I'm a clean and sober person ..the hair on my arms is up! right now thinking about this ..never in my life have i seen anything like the color or the movment ..all were in sync even space between them...the car that came up behind me dam near ran me over, had to take off but by the time the car came it was over ,I was shocked !! look there are no roads or houses in that part of AZ.like i said it's 8 miles to wilhoit. at first glance thought it was thoose bags with a candle but  they were moving way to fast in that circle and then disappeared!!!! sorry if you don't believe me but i saw what i saw((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89915.html](http://www.nuforc.org/webreports/reports/089/S89915.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Buffalo (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>I watched 2 objects fly from east to west. Much faster than the speed of commercial jets and military jets are a rarity in this area. Also, no sound was heard.At first I thought it was a satellite, but I noticed a second object flying parallel with the first. I thought it odd that 2 satellites would fly in such proximity, when they moved farther apart, then closer together, then farther apart, then made a 45 degree turn to the South.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37727.html](http://www.nuforc.org/webreports/reports/037/S37727.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/163/S163802.html)
-- [365](http://www.nuforc.org/webreports/reports/157/S157120.html)
-- [364](http://www.nuforc.org/webreports/reports/157/S157121.html)
-- [363](http://www.nuforc.org/webreports/reports/157/S157131.html)
-- [362](http://www.nuforc.org/webreports/reports/157/S157126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
