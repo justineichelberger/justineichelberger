@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:28:28 on 22 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:10:11 on 22 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Show Low (AZ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Black disk with red and green non-flashing lights flew across the dark sky.I opened the door because it sounded like a helicopter.  I looked and I saw a circular disk shaped object with green and red lights, they weren't blinking so I knew it wasn't a helicopter or plane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70655.html](http://www.nuforc.org/webreports/reports/070/S70655.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Singapore () reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Aurora-like mysterious object floating in the sky.11:10p.m--noticed a square, white, aurora-like object drifting in the night sky at my woodlands flat. I summoned for my twin sisters to witness the event and they saw the mysterious floating light in the sky. The floating light went behind the night clouds, but it is visible when it came out of the clouds. the event lasted for ten minutes. When I looked for my binoculars and returned for the first time at 11.15p.m, it was still there. It disappeared when I returned from my second attempt to look for my binoculars. The night was sliightly cloudy, no signs of lightining. I initially mistook that for a lightning but it floated in a up to down direction. The object occupied approximately the size of 5% of the night sky. Earlier in the day, the day was sunny and a litle cloudy. No sound was emitted from the mysterious floating aurora. The light emitted from the aurora is uniformly white, like a cloud or someone shining a torchlight from the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51251.html](http://www.nuforc.org/webreports/reports/051/S51251.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/163/S163802.html)
-- [365](http://www.nuforc.org/webreports/reports/157/S157120.html)
-- [364](http://www.nuforc.org/webreports/reports/157/S157121.html)
-- [363](http://www.nuforc.org/webreports/reports/157/S157131.html)
-- [362](http://www.nuforc.org/webreports/reports/157/S157126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
