@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:39 on 22 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:37 on 22 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Montpelier (ID) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>At approximately 10 pm on June 22, 2014, I saw what appeared to be a star - (I thought it was venus for a moment)  The star was moving extremely fast across the sky; way too fast to be an aircraft.  At the speed it was traveling, It was extremely quiet.  We grabbed the binoculars and It appeared to be an asteroid.  He noticed that the object (traveling from the west to the east ) suddenly turned south east direction.  There was no sound at all coming from the object.  The light very quickly grew dimmer and awe saw 3 aircraft behind the first object.  Two had flashing green and red lights and the other had amber lights flashing.  They appeared to be chasing the first object.  None of the aircrafts we witnessed produced any sounds.  The first lighted object was incredibly fast and was almost instantly (within 15 seconds) gone from view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110543.html](http://www.nuforc.org/webreports/reports/110/S110543.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Hartland (WI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Brief, briliant, orange light to the NE.I saw a very brilliant, orange(y),  brief light to the NE.  Event lasted about 2 seconds and looked as if something had burned up entering our atmosphere.  It could have been a meteorite or a satellite?  Brightest when first seen, headed down to the horizon and appeared to be something burning out as the light was very brilliant at first and then dimmed and went out.  It resembled one of those fireworks that are so bright and fall to the ground and extinguish on the way down…other than the light being orange in color, headed towards the ground at a much greater speed than gravity, clearly much farther away and brighter than I had ever seen...including the light from the magnesium in the firework I described. I’ve never seen anything like it in my life.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89961.html](http://www.nuforc.org/webreports/reports/089/S89961.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/163/S163802.html)
-- [365](http://www.nuforc.org/webreports/reports/157/S157120.html)
-- [364](http://www.nuforc.org/webreports/reports/157/S157121.html)
-- [363](http://www.nuforc.org/webreports/reports/157/S157131.html)
-- [362](http://www.nuforc.org/webreports/reports/157/S157126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
