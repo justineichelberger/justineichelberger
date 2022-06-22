@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:12:18 on 22 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:01:45 on 22 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Buffalo (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>I watched 2 objects fly from east to west. Much faster than the speed of commercial jets and military jets are a rarity in this area. Also, no sound was heard.At first I thought it was a satellite, but I noticed a second object flying parallel with the first. I thought it odd that 2 satellites would fly in such proximity, when they moved farther apart, then closer together, then farther apart, then made a 45 degree turn to the South.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37727.html](http://www.nuforc.org/webreports/reports/037/S37727.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Chehalis (WA) reported seeing craft that fit the description of some 'Oval' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>silver object caught in photo.Noticed a silver disc/oval in the sky in a photo i took. I was at a car show with my son and his girlfriend, taking photos of cars, I looked up at the sky, which had unusual, wispy clouds, and I snapped a photo with my cellphone.On monday as i was going through the snapshots i noticed the object in the sky.As I took the picture, we saw nothing moving in the sky at all, no planes, balloons, birds.. nothing.. we would have seen it, as we were gazing up at the sky..I thought i had better report it and submit the photo in case there was some other corroborating evidence of a craft, radar or another report.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98908.html](http://www.nuforc.org/webreports/reports/098/S98908.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/163/S163802.html)
-- [365](http://www.nuforc.org/webreports/reports/157/S157120.html)
-- [364](http://www.nuforc.org/webreports/reports/157/S157121.html)
-- [363](http://www.nuforc.org/webreports/reports/157/S157131.html)
-- [362](http://www.nuforc.org/webreports/reports/157/S157126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
