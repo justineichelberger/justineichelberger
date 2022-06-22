@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:01:45 on 22 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:38 on 22 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Chehalis (WA) reported seeing craft that fit the description of some 'Oval' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>silver object caught in photo.Noticed a silver disc/oval in the sky in a photo i took. I was at a car show with my son and his girlfriend, taking photos of cars, I looked up at the sky, which had unusual, wispy clouds, and I snapped a photo with my cellphone.On monday as i was going through the snapshots i noticed the object in the sky.As I took the picture, we saw nothing moving in the sky at all, no planes, balloons, birds.. nothing.. we would have seen it, as we were gazing up at the sky..I thought i had better report it and submit the photo in case there was some other corroborating evidence of a craft, radar or another report.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98908.html](http://www.nuforc.org/webreports/reports/098/S98908.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Kingston (OK) reported seeing craft that fit the description of some 'Circle' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Twin Balls of Fire traveling south to northMy husband and I were driving around on Sunday, June 22, 2008.  We were on a mile long rode with hay fields on either side driving south.  This was about 11:15 pm when we spotted a light in the sky.  As we watched it was traveling south to north and was on a parallel path with the earth.  As it got closer, we were able to see that is was actually a ball of fire, orange in color with red center traveling at a rapid speed (guess of 40 mph) at about the height of a helicopter flying, but with absolutely no sound or smoke trail.  As it passed our position we noticed another bright object following behind, on the exact same path as the first.  This also appeared to be a ball of fire, except it was not as contained as the first one.  When it got even with us, we noticed that the object was looser in form and we could actually see embers falling from the object.  I was concerned of possible fire since it was over a hay field.  They both continued on north northeast until out of site.  I would say the object appeared to be the size of a mid-size car, and it was about 50 yards from us.  The objects looked like what I would think space debris would be like but these two objects were not falling from the sky.  They were on a distinct path.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64275.html](http://www.nuforc.org/webreports/reports/064/S64275.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/163/S163802.html)
-- [365](http://www.nuforc.org/webreports/reports/157/S157120.html)
-- [364](http://www.nuforc.org/webreports/reports/157/S157121.html)
-- [363](http://www.nuforc.org/webreports/reports/157/S157131.html)
-- [362](http://www.nuforc.org/webreports/reports/157/S157126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
