@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:44 on 22 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:29:04 on 22 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Arnold (MO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Blue orb hovered over a tree, 2 doors down from my house in Arnold, MOI was up late, as usual.  I often look out my back window at an intriguing light that I see in the distance regularly.  Sometimes it is there, other times it is not.Last night, it was there, so I watched it out my deck door.  As I watched it, it started moving closer, and fast.  It came al the way to my neightbor's house, two doors down.  It hovered over the tree.  It was a huge blue starlight orb.  It had fuzzy edges that almost appeared as a fiberoptic matter.  It stayed over the tree. It made no sounds.  It didn't really "flash lights," but the whole item appeared as one HUGE light orb...with twinkly edges. It was about the size of the top of the massive tree.  When it started moving, I ran to look out of my front window.  My visibility is awful, and I didn't see it, but I did see the reflection of flashing lights on the house across the street.I also saw what appeared to be a bunch of lights, similar the this one in the distance, all moving jaggedly--there were about 5 others straight ahead and small and distant.This morning, the tree top was a bit brown, and not green like the rest of the tree.I am not sure if this is related, or not--but this morning, my garage door closed itself.  Also, I had a V-shape in dust on my hood and strange handprints all over my car--not sure if this was related, or not--when you see what I saw, you begin to believe in anything being possible.  I took pics of the dust marks on my car...I will email them.I googled the sighting, but found no others like mine--however, there was a helicopter (this afternoon)hovering in the same path as the object was last night, over the tree and where it came from.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89941.html](http://www.nuforc.org/webreports/reports/089/S89941.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Marion (NY) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A dark bell or teardrop shaped object hovered in the sky and disappeared behind some clouds.object observed in a post rainstorm sky by itself. It was dark in color due to its distance and the weather conditions. The Object was bell or teardrop shaped and hovered for about 10 or so minutes. It then disappeared or went behind clouds. This was captured on video tape and is stored on my computer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34818.html](http://www.nuforc.org/webreports/reports/034/S34818.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/163/S163802.html)
-- [365](http://www.nuforc.org/webreports/reports/157/S157120.html)
-- [364](http://www.nuforc.org/webreports/reports/157/S157121.html)
-- [363](http://www.nuforc.org/webreports/reports/157/S157131.html)
-- [362](http://www.nuforc.org/webreports/reports/157/S157126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
