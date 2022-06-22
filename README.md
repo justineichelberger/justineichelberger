@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:50 on 22 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:46 on 22 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Mount Albert (Canada) (ON) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>7 Orange lights over Mt Albert ON Canada June 22 /2012  9:30 p.m.At around 9:30 pm on June 22 2012 I was sitting outside with my family enjoying the beautiful evening .There was no clouds in the sky and very little wind .Then there they were, 7 orange balls of light that fallowed each other in a straight line from west to east. With in about 5 or 6 minutes they one by one all disappeared .There was no sound at all .We all stood watching & wondering what the heck they were & we are still wondering. Any idea's ?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90101.html](http://www.nuforc.org/webreports/reports/090/S90101.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Eureka (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Multiple red flickering lights moving in unison.At least 7 objects, flickering bright red, about the same color as a highway flare, moving in a rough formation from east to west.Objects appeared brighter than the moon.  The rose slightly as they moved, all moved at the same speed.  The area of the sky involved was from about 30 to 45 degrees above the horizon, and they occupied about 60 degrees of arc. Compared to the almost full moon, they looked to be about 1/20 the size of it to the eye. No sudden movements.  No noise.  They all faded out in order as they reached about the same area to the left of the moon about 10 degrees, like they had changed direction at that point and moved away rapidly.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98845.html](http://www.nuforc.org/webreports/reports/098/S98845.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/163/S163802.html)
-- [365](http://www.nuforc.org/webreports/reports/157/S157120.html)
-- [364](http://www.nuforc.org/webreports/reports/157/S157121.html)
-- [363](http://www.nuforc.org/webreports/reports/157/S157131.html)
-- [362](http://www.nuforc.org/webreports/reports/157/S157126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
