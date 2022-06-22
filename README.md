@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:01:06 on 22 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:44 on 22 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Florence (AL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately  -  minutes.</sub><blockquote><sub>Me and my son were cleaning the.  Pool out in the back yard and as I was looking up at the sky because bad weather was headed our way we both noticed a cigar shaped object flying slow and not very high up in the sky ..  The Object had No sound at all... appeared up over our house coming threw the clouds and into the open clear blue sky.  It was very bright yellow in color.  And right before it disappeared out of sight, it got brighter and looked as if it was pulsating..very strange .((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  Date is flawed, but we have no means of contacting the source of the report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141910.html](http://www.nuforc.org/webreports/reports/141/S141910.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Wellington (New Zealand) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>it was high up and moved in a way that an aircraft or any other object could not. it would change course t a 45 degree sharp angle wothout slowing and kept at a high, constant speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44514.html](http://www.nuforc.org/webreports/reports/044/S44514.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/163/S163802.html)
-- [365](http://www.nuforc.org/webreports/reports/157/S157120.html)
-- [364](http://www.nuforc.org/webreports/reports/157/S157121.html)
-- [363](http://www.nuforc.org/webreports/reports/157/S157131.html)
-- [362](http://www.nuforc.org/webreports/reports/157/S157126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
