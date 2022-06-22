@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:42 on 21 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:44 on 22 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Eastland (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Saw a  bright light moving in the skyIt was around dusk when I went outside with my binoculars hoping to catch a glimpes of mars. I had heard on the news that mars would be clearly visiable because it was so close to earth. As I was begining to pull out my binoculars, I looked to the east and saw a bright white light moving to the south east. At first I thought it was an airplane, then I looked at it with the binoculars. I could barely make out the objects shape, it appeared to be triangular or diamond shaped. This thing moved quickly and made no noise what so ever. I only saw the one white light at the bottom. I've seen enough aircraft, civilian and military, in my time to know this was not one of ours.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18125.html](http://www.nuforc.org/webreports/reports/018/S18125.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Arnold (MO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Blue orb hovered over a tree, 2 doors down from my house in Arnold, MOI was up late, as usual.  I often look out my back window at an intriguing light that I see in the distance regularly.  Sometimes it is there, other times it is not.Last night, it was there, so I watched it out my deck door.  As I watched it, it started moving closer, and fast.  It came al the way to my neightbor's house, two doors down.  It hovered over the tree.  It was a huge blue starlight orb.  It had fuzzy edges that almost appeared as a fiberoptic matter.  It stayed over the tree. It made no sounds.  It didn't really "flash lights," but the whole item appeared as one HUGE light orb...with twinkly edges. It was about the size of the top of the massive tree.  When it started moving, I ran to look out of my front window.  My visibility is awful, and I didn't see it, but I did see the reflection of flashing lights on the house across the street.I also saw what appeared to be a bunch of lights, similar the this one in the distance, all moving jaggedly--there were about 5 others straight ahead and small and distant.This morning, the tree top was a bit brown, and not green like the rest of the tree.I am not sure if this is related, or not--but this morning, my garage door closed itself.  Also, I had a V-shape in dust on my hood and strange handprints all over my car--not sure if this was related, or not--when you see what I saw, you begin to believe in anything being possible.  I took pics of the dust marks on my car...I will email them.I googled the sighting, but found no others like mine--however, there was a helicopter (this afternoon)hovering in the same path as the object was last night, over the tree and where it came from.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89941.html](http://www.nuforc.org/webreports/reports/089/S89941.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/164/S164078.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164109.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163791.html)
-- [374](http://www.nuforc.org/webreports/reports/163/S163780.html)
-- [373](http://www.nuforc.org/webreports/reports/163/S163805.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
