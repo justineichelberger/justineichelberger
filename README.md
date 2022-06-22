@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:40 on 22 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:57 on 22 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Kingston (OK) reported seeing craft that fit the description of some 'Circle' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Twin Balls of Fire traveling south to northMy husband and I were driving around on Sunday, June 22, 2008.  We were on a mile long rode with hay fields on either side driving south.  This was about 11:15 pm when we spotted a light in the sky.  As we watched it was traveling south to north and was on a parallel path with the earth.  As it got closer, we were able to see that is was actually a ball of fire, orange in color with red center traveling at a rapid speed (guess of 40 mph) at about the height of a helicopter flying, but with absolutely no sound or smoke trail.  As it passed our position we noticed another bright object following behind, on the exact same path as the first.  This also appeared to be a ball of fire, except it was not as contained as the first one.  When it got even with us, we noticed that the object was looser in form and we could actually see embers falling from the object.  I was concerned of possible fire since it was over a hay field.  They both continued on north northeast until out of site.  I would say the object appeared to be the size of a mid-size car, and it was about 50 yards from us.  The objects looked like what I would think space debris would be like but these two objects were not falling from the sky.  They were on a distinct path.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64275.html](http://www.nuforc.org/webreports/reports/064/S64275.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Wilhoit (north of) (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>total ..5 round objects moving in circle ...followed each other then vanished one by onewas riding motorcycle on south bound hwy89 south of Prescott,Az...8 miles or so north of wilhoit,Az...out of the corner of my eye saw something turned my head and saw three pinkish round objects moving in a circle around the circumference...I stopped in the middle of the road cause I didn't believe what i was looking at,this took all of about 15 seconds ...from the moment i turned my head took 5 seconds to stop, then watched for 10 seconds.. the circle was not straight up and down but off to an angle..then 2 more came into the circle from 2 O'clock ..total 5..all went around once then one left the circle at 2 O'clock then all followed the one that left and they Vanished about.....3 inches from were the circle was. The place where they seemed to be was about a mile or so from the road ..maybe alot closer but i could see the tops of the mountains and judge where they were in relation the the valley below..I'm a clean and sober person ..the hair on my arms is up! right now thinking about this ..never in my life have i seen anything like the color or the movment ..all were in sync even space between them...the car that came up behind me dam near ran me over, had to take off but by the time the car came it was over ,I was shocked !! look there are no roads or houses in that part of AZ.like i said it's 8 miles to wilhoit. at first glance thought it was thoose bags with a candle but  they were moving way to fast in that circle and then disappeared!!!! sorry if you don't believe me but i saw what i saw((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89915.html](http://www.nuforc.org/webreports/reports/089/S89915.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/163/S163802.html)
-- [365](http://www.nuforc.org/webreports/reports/157/S157120.html)
-- [364](http://www.nuforc.org/webreports/reports/157/S157121.html)
-- [363](http://www.nuforc.org/webreports/reports/157/S157131.html)
-- [362](http://www.nuforc.org/webreports/reports/157/S157126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
