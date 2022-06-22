@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:43 on 22 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:50 on 22 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Wilhoit (north of) (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>total ..5 round objects moving in circle ...followed each other then vanished one by onewas riding motorcycle on south bound hwy89 south of Prescott,Az...8 miles or so north of wilhoit,Az...out of the corner of my eye saw something turned my head and saw three pinkish round objects moving in a circle around the circumference...I stopped in the middle of the road cause I didn't believe what i was looking at,this took all of about 15 seconds ...from the moment i turned my head took 5 seconds to stop, then watched for 10 seconds.. the circle was not straight up and down but off to an angle..then 2 more came into the circle from 2 O'clock ..total 5..all went around once then one left the circle at 2 O'clock then all followed the one that left and they Vanished about.....3 inches from were the circle was. The place where they seemed to be was about a mile or so from the road ..maybe alot closer but i could see the tops of the mountains and judge where they were in relation the the valley below..I'm a clean and sober person ..the hair on my arms is up! right now thinking about this ..never in my life have i seen anything like the color or the movment ..all were in sync even space between them...the car that came up behind me dam near ran me over, had to take off but by the time the car came it was over ,I was shocked !! look there are no roads or houses in that part of AZ.like i said it's 8 miles to wilhoit. at first glance thought it was thoose bags with a candle but  they were moving way to fast in that circle and then disappeared!!!! sorry if you don't believe me but i saw what i saw((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89915.html](http://www.nuforc.org/webreports/reports/089/S89915.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Mount Albert (Canada) (ON) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>7 Orange lights over Mt Albert ON Canada June 22 /2012  9:30 p.m.At around 9:30 pm on June 22 2012 I was sitting outside with my family enjoying the beautiful evening .There was no clouds in the sky and very little wind .Then there they were, 7 orange balls of light that fallowed each other in a straight line from west to east. With in about 5 or 6 minutes they one by one all disappeared .There was no sound at all .We all stood watching & wondering what the heck they were & we are still wondering. Any idea's ?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90101.html](http://www.nuforc.org/webreports/reports/090/S90101.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/163/S163802.html)
-- [365](http://www.nuforc.org/webreports/reports/157/S157120.html)
-- [364](http://www.nuforc.org/webreports/reports/157/S157121.html)
-- [363](http://www.nuforc.org/webreports/reports/157/S157131.html)
-- [362](http://www.nuforc.org/webreports/reports/157/S157126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
