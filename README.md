@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:10:11 on 22 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:04:32 on 22 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Singapore () reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Aurora-like mysterious object floating in the sky.11:10p.m--noticed a square, white, aurora-like object drifting in the night sky at my woodlands flat. I summoned for my twin sisters to witness the event and they saw the mysterious floating light in the sky. The floating light went behind the night clouds, but it is visible when it came out of the clouds. the event lasted for ten minutes. When I looked for my binoculars and returned for the first time at 11.15p.m, it was still there. It disappeared when I returned from my second attempt to look for my binoculars. The night was sliightly cloudy, no signs of lightining. I initially mistook that for a lightning but it floated in a up to down direction. The object occupied approximately the size of 5% of the night sky. Earlier in the day, the day was sunny and a litle cloudy. No sound was emitted from the mysterious floating aurora. The light emitted from the aurora is uniformly white, like a cloud or someone shining a torchlight from the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51251.html](http://www.nuforc.org/webreports/reports/051/S51251.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Pahrump (NV) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Fast moving object on NV - CA state line.I was outside at sunset looking at the moon in the western sky from Pahrump, NV at approx. 20:48 PST on 06/22/2012 and I noticed a very small object in the distance above the moon descending at an incredible rate of speed straight down from above the moon. It had no light of its own, but appeared to be reflecting light from the sunset. It was very far away and I could not make out a definite shape. It flew straight down then took a sudden turn to the south across the skyline for a great distance and then quickly turned west and disappeared across the mountains into CA. This object was definitely maneuvering, moving extremely fast and appeared to maintain a constant speed. Compared to aircraft I see frequently, this object had to be traveling several thousand miles per hour.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89960.html](http://www.nuforc.org/webreports/reports/089/S89960.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/163/S163802.html)
-- [365](http://www.nuforc.org/webreports/reports/157/S157120.html)
-- [364](http://www.nuforc.org/webreports/reports/157/S157121.html)
-- [363](http://www.nuforc.org/webreports/reports/157/S157131.html)
-- [362](http://www.nuforc.org/webreports/reports/157/S157126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
