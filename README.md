@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:04:32 on 22 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:49 on 22 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Pahrump (NV) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Fast moving object on NV - CA state line.I was outside at sunset looking at the moon in the western sky from Pahrump, NV at approx. 20:48 PST on 06/22/2012 and I noticed a very small object in the distance above the moon descending at an incredible rate of speed straight down from above the moon. It had no light of its own, but appeared to be reflecting light from the sunset. It was very far away and I could not make out a definite shape. It flew straight down then took a sudden turn to the south across the skyline for a great distance and then quickly turned west and disappeared across the mountains into CA. This object was definitely maneuvering, moving extremely fast and appeared to maintain a constant speed. Compared to aircraft I see frequently, this object had to be traveling several thousand miles per hour.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89960.html](http://www.nuforc.org/webreports/reports/089/S89960.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Red Deer (Canada) (AB) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>It was late June,  I was out on the balcony of my apartment which faces East.  I could view the night sky from northeast to southeast.  I was facing north, northeast and talking with my grilfriend at the time.  It was a warm, clear evening.  I am an amateur atronomer and I am quite familliar with the nightime sky.  It is probably due to my knowledge that I noticed a star that was not only in the wrong spot , but the brightest, celestial object I had ever witnessed. It was a bright, shiny, white light.  As soon as I focused my attention on it, the light seemed to have dissapeared.  I however was able to adjust my vision quickly enough to notice two smaller points of light where the original bright spot was.  The two smaller points seemed to be at quite a high altitude, as a rough comparason for altitude, I would figure slightly lower than most orbital ranges for satellites.  They were positioned in a 45 deg. angle (see bottom for position diagram). The points reconverged and diverged one last time.  One point went northwest and the other went south.  The point that went northwest, I lost track of when it flew in front of Orion's belt.  The point travelling south I watched for about 4 minutes until it veered southeast and it faded out of sight.  The speed seemed obviously faster compared to orbiting satellite speeds. No sound of any type was detected by anyone. Position diagram:        . (point #1)   .  (pont #2)      ____________________________________(horizon)_________________________________((NUFORC Note:  Witness indicates that the date of the event is approximate.  Formation did not survive transfer from our e-mail program to the database.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53026.html](http://www.nuforc.org/webreports/reports/053/S53026.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/163/S163802.html)
-- [365](http://www.nuforc.org/webreports/reports/157/S157120.html)
-- [364](http://www.nuforc.org/webreports/reports/157/S157121.html)
-- [363](http://www.nuforc.org/webreports/reports/157/S157131.html)
-- [362](http://www.nuforc.org/webreports/reports/157/S157126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
