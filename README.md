@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:42 on 23 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:34 on 23 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in London (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Star like, rapidly changing colours, pulsating, high speed movement, very high upI was out with my on the handle of the big dipper, hoping to catch some of the so-called surprise June meteor shower.  I was well rewarded with a few streaking meteors, and several flashes.  During a lull I started looking in the west-northwest sky and an object about the size and brightness of venus (maybe not quite as bright) caught my eye.  My initial thought was "wow, that's a really hyper twinkling star". I kept my eye on it and noticing it was changing colour rapidly.  Almost "pulsing" you could say.  Seemed like there might be a pattern to it.  Then it suddenly stopped changing colours and stated sort of a blue-ish hue.  It suddenly zoomed over to a new location.  If you extend your arm, and hold your hand up to the sky and measure approx. 3 inches from your thumb to your pointing finger, that was the distance it moved in approx. 1 second.  It left a faint streak momentarily. That move seemed to be straight towards the north.  Then it stopped and then moved again, same distance, but this time seemed to be going down, or possibly East.  It was hard to tell because it seems to be at a great distance.  I would not be surprised if it's not even in our atmosphere.  (hard to guess without having any idea of it's size)  This was my very first UFO sighting.  I have always had an open mind to the possibility, but without actually seeing one with my own eyes I could never totally believe it.  I wish they would just land on the white house lawn and end all the charades. I was out again tonight and saw the exact same object, same time of night, same general area of the sky.  Except instead of doing an upside down L in the sky, it seems to sort of just zig zag, and at one point did 2 circles.  Cloud cover obscured my view after only 5 minutes of watching it tonight. I suspect that anyone with a clear sky around 02:30 Eastern time will be able to see it.  It seems to be a regular visitor.((NUFORC Note:  We believe the possibility that the witness is observing a "twinkling" star would have to be ruled out, before we could conclude that he was observing a UFO.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37756.html](http://www.nuforc.org/webreports/reports/037/S37756.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Anderson (SC) reported seeing craft that fit the description of some 'Other' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>Was driving down 85 and saw what can only be described as a HUGE ripple of silver thin paper like material as big as a football field.  I was shocked and sped up to try and get another clear shot but trees were blocking. It was AMAZING and eerie, I have seen UFOs in the past but this thing was truly mind boggling.  It was 7pm (Approx) and still daylight.  The shine reminded me of the shine on christmas timsel.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98823.html](http://www.nuforc.org/webreports/reports/098/S98823.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/163/S163794.html)
-- [388](http://www.nuforc.org/webreports/reports/163/S163814.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161996.html)
-- [386](http://www.nuforc.org/webreports/reports/157/S157252.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
