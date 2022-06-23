@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:37 on 23 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:38 on 23 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Willow Creek Campground (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Summary : Late in the evening, just before retiring, A luminous object was spotted just above a mountain, and in between two trees. It appeared to be one mile to the south/southeast of the campground. It remained 'flickering' in a cross pattern, until I signaled with a flashlight, which caused it to abruptly change its pattern and speed; changing its location extremely quickly. and then coming back to its original spot and remain flickering once again. just above the mountain.The object appeared to be of a spherical shape, maybe 15-20ft across, from where it was observed. The object 'flickered' rapidly and it moved in a tight, 'tic tac toe' like movement, intensifying in luminensce as it moved. After 30 min. object was 'signaled' with a small flashlight, to which the object reacted by flashing brighter and moving even more erratically; much faster and farther. After, it would come back to its original position. There were no changes in color,as far as the light is concerned. I watched for about 2 hrs until I became extremely tired, even though I was very interested, and slept. Observer is an Audio Engineer, with an extensive background in Architecture, graphic design, and Acoustics. Observer is 26 yrs of age, male. Observer has witnessed similar phenomena in the past.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02706.html](http://www.nuforc.org/webreports/reports/002/S02706.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Woodland Hills-Canoga Park (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>I had 2 previous sightings back east, but this was the most incredible thing I've seen in my 47 years.At about 10PM Sunday the 23rd of June I was setting on the patio in a chase lounge looking to the North sky when I first saw it.  It was obviously a craft of some sort, light grey in color, it was difficullt to call it a specific form.  There were no lights on but it was deffinitely there in the light of the moon.  The craft was moving in a southern direction toward me.  When it got closer, it was obviously the strangest thing I had ever seen, so I called to my roommate, who was inside the house working, that he had to see something strange.  He came out and watched it with me for about ten minutes, then went back in the house to finish working.  As it went higher it became more illuminated by the moon, but the image still wasn't clear.At first it was moving slowely, but then all at once shot up toward the star South of the handle of the Big Dipper.  For at least 20 seconds it  was stationary. Then moved North toward the second star down from the top of the Big Dipper's handle. Next it moved up between the top and next to the top star of the handle, making it appear the there were 4 stars on the handle, instead of 3. It stayed stationary for 5 to 10 seconds, then it started moving North, then finally faided out of  view.((NUFORC Note:  We spoke with one of the witnesses about their sighting, and we do not know what it is they saw.  Given that the object did not have lights on it, the object almost certainly was not an aircraft.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23474.html](http://www.nuforc.org/webreports/reports/023/S23474.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/163/S163794.html)
-- [388](http://www.nuforc.org/webreports/reports/163/S163814.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161996.html)
-- [386](http://www.nuforc.org/webreports/reports/157/S157252.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
