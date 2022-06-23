@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:37 on 23 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:13:06 on 23 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Exeter (UK/England) () reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>WHAT SCARED ME WAS HOW  QUIET IT SUDDENLY BECAME.I OFTEN GO INTO MY GARDEN (WHICH FACES NORTH) TO LOOK AT THE NIGHT SKY. I WAS STANDING WITH MY BACK TO THE NORTH AND GLANCED UP TO THE NORTH/WEST AND SAW THREE PIN POINTS OF LIGHT IN POSITION RELATIVE TO A TRIANGLE. THEY WERE MOVING SLOWLY AND IN UNISON. WHAT MADE ME THINK THAT IT WAS A UFO WAS THE FACT THAT IN THE SPACE BETWEEN THE LIGHTS, NO STARS COULD BE SEEN AND IT SUDDENLY BECAME DEADLY QUIET.ALL THE NORMAL NOISES THAT THE NIGHT BRINGS, CARS FROM A DISTANCE AND THE HUM OF THE STREET LAMPS, IT WAS GONE.THE SPACE BETWEEN THE LIGHTS GAVE ME THE IMPRESSION THAT THE OBJECT WAS QUITE LOW DOWN IN THE SKY. I THOUGHT THAT MAYBE IT WAS A STEALTH AIRCRAFT, BUT I COULD NOT HEAR OR SMELL ANYTHING. IT TOOK ABOUT 30secs TO MOVE ACROSS THE SKY FROM THE NORTH/WEST TO THE SOUTH/EAST UNTILL I COULD NOT SEE IT. IM A SCEPTIC AND NEVER BELEIVED IN UFO'S BUT AFTER THAT NIGHT I KNOW THAT I SAW SOMETHING TO MAKE ME DOUBT MY DISBELIEF IN UFO'S. I HAVE 20/20 VISION, IM NOT A DRUG USER AND I DRINK VERY RARELY. I WAS NOT SUFFERING FROM FATIQUE AND I DONT HAVE AN OVER ACTIVE IMAGINATION.((NUFORC Note:  Witness enters date as "6/2362000."  We do not understand the date indicated, but we presume she implies either June 23, or June 26, 2000.  We have amended the data accordingly.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17464.html](http://www.nuforc.org/webreports/reports/017/S17464.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Swanzey (NH) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>My sister and I were trying to hunt UFOs for fun,we didn't actually think we would see one and sure enough out from a pile of trees comes a black disc with a white orb or light under it and after a few seconds a camouflaged plane chases after it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107139.html](http://www.nuforc.org/webreports/reports/107/S107139.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/163/S163794.html)
-- [388](http://www.nuforc.org/webreports/reports/163/S163814.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161996.html)
-- [386](http://www.nuforc.org/webreports/reports/157/S157252.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
