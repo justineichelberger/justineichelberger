@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:38 on 23 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:05:00 on 23 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Louisville (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>White light grew in size and disappeared.I was taking my dog out before bed when I heard this loud airplane roaring above, so I looked up in the sky and saw this solid white light passing near the plane. All of a sudden it grew about 5 times in size for about 2 seconds, turned a light bluish color and then shrank until I couldn’t see it anymore. The strange thing is it appeared to be traveling away from earth not north, south, east or west.It was a clear night sky and lots of stars were out.((NUFORC Note:  Possible flare from Iridium satellite??  We have amended the date above, in order to reflect a nighttime sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81897.html](http://www.nuforc.org/webreports/reports/081/S81897.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Sacramento (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>About 20 white circular lights that periodically turned red.  Caught some on camera doing a zig zag, then they ended up vanishing.Went outside on a clear night to see a bunch of moving white lights that were blinking red.   Was going to pass it off as a bunch of jets, or something, before they vanished while we were looking at them, my husband got a picture of some of them, in the picture two were in the middle of zigzaging and you can clearly see the red zigzag.  Also got video of them.  My father in law said one came close to an airplane then zagged around it, two other people saw this one.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134730.html](http://www.nuforc.org/webreports/reports/134/S134730.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/163/S163794.html)
-- [388](http://www.nuforc.org/webreports/reports/163/S163814.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161996.html)
-- [386](http://www.nuforc.org/webreports/reports/157/S157252.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
