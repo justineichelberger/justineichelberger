@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:38 on 23 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:42 on 23 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Rochester () reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2 sets of 3 orange orbs traveling nw 2 sets of orange orbs heading northwest.  Appeared to be low and flying in formation</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90014.html](http://www.nuforc.org/webreports/reports/090/S90014.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Tempe (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>A fireball spotted in southern Arizona 6/23/09 at about 8 pmWe are in Tempe  On the night of 6/23/09, my family and I just arrived home back from the grocery store around 8 pm or so. I looked southeast and noticed what appeared to be a shooting start only a whole lot bigger. It looked like a huge ball of fire with a tale. We were facing south and the ball was going downward in the east direction. I lost site of the ball as it went further down pass the brick wall in the parking lot of my apartments.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70686.html](http://www.nuforc.org/webreports/reports/070/S70686.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/163/S163794.html)
-- [388](http://www.nuforc.org/webreports/reports/163/S163814.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161996.html)
-- [386](http://www.nuforc.org/webreports/reports/157/S157252.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
