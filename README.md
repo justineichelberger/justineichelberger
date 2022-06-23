@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:05:00 on 23 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:53 on 23 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Sacramento (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>About 20 white circular lights that periodically turned red.  Caught some on camera doing a zig zag, then they ended up vanishing.Went outside on a clear night to see a bunch of moving white lights that were blinking red.   Was going to pass it off as a bunch of jets, or something, before they vanished while we were looking at them, my husband got a picture of some of them, in the picture two were in the middle of zigzaging and you can clearly see the red zigzag.  Also got video of them.  My father in law said one came close to an airplane then zagged around it, two other people saw this one.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134730.html](http://www.nuforc.org/webreports/reports/134/S134730.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Cloquet (MN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Three craft in a triangle shape flashing red blue and orangeWe went outside at 1:50am when I noticed to the SSW three points of light in a triangle pattern. The highest point in the triangle was flashing blue, red, and orange for about 2 minutes while the lower right and left objects remained solid white as if they were stars. It slowed and faded, when the one to the lower right and left of the triangle began to mimic the light pattern for another 2 minutes. The object on the right disappeared first and moved underneath the bottom left object and continued flashing. That object flashed for a minute and then disappeared. About a minute later, the upper middle light disappeared. The lower left light remained for an additional minute before disappearing. I am a 33 year old mother of two who works full-time. My son’s 33 year old stay at home father was also present at the time. I had asked him to tell me if I was crazy or if he was seeing what I was seeing. I am an avid stargazer that is very familiar with the differences in satellites, airplanes (commercial and military), stars, meteors, etc.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157118.html](http://www.nuforc.org/webreports/reports/157/S157118.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/163/S163794.html)
-- [388](http://www.nuforc.org/webreports/reports/163/S163814.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161996.html)
-- [386](http://www.nuforc.org/webreports/reports/157/S157252.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
