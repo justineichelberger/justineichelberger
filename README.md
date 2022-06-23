@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:28:49 on 23 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:10:50 on 23 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Quincy (IL) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Seven unusual objects passed over Quincy Illinois observed by four people two of them experienced pilots.Four friends having just finished dinner and were setting on the patio facing the north.  One of us had just went inside when I spotted what I thought to be two airplanes and alerted my friend, my friend and I are both pilots so of course they drew our interest.  We almost instantly knew they were unusual we both decided they were flying at about 3 TO 5 thousand feet and at somewhere between 2 and 3 hundred miles per hour.  They appeared to be the shape of an upside down coffee cup but quite frankly it was difficult to tell because of darkness and a bright light on the bottom front, but we all agreed thats what we saw.  We were so excited by what we saw we hollered for the one who went inside to come out, we wanted her to witness to this also.  They were going in a southwesterly direction staggarded in 2-3-1-1 without formation.  We discussed it for awhile and all agreed we had seen something unusual.  There were seven unusual aircraft relatively close going at a high rate of speed and we could not hear them.  Shortly after they passed the local air ambulance rose an seemed in slow motion in comparison.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82693.html](http://www.nuforc.org/webreports/reports/082/S82693.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Kansas City (KS) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>silent vibrating disc flashes and dissappearsThursday June 23, 1;16pm – Kansas City, KS.  I was driving to a Drs apt and I was headed west on Ruby Av from 14th st. after a stop sign at 14th & Ruby.In the sky, directly west, was a shiny white disc-shaped craft floating slowly from south to north.It had no lights of any color, and it looked as though it was vibrating at times (briefly).I slowed to watch the object, and had it in my sight for about 8 to ten seconds, then I went under an overpass, and I emerged just in time to see it flash very  brightly two times and vanish.  The object made NO sound.There were several other vehicles and pedestrians in the area, even a car in about 25ft ahead of me driving with 2 passengers, but no one else seemed to be reacting as if they saw it.It wasn’t very high in the sky: lower than most planes fly.  My heart was POUNDING! – I looked for other people’s reactions, but I don’t think anyone else saw it.Great experience, though.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128046.html](http://www.nuforc.org/webreports/reports/128/S128046.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/163/S163794.html)
-- [388](http://www.nuforc.org/webreports/reports/163/S163814.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161996.html)
-- [386](http://www.nuforc.org/webreports/reports/157/S157252.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
