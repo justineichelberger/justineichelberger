@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:38 on 23 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:38 on 23 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Woodland Hills-Canoga Park (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>I had 2 previous sightings back east, but this was the most incredible thing I've seen in my 47 years.At about 10PM Sunday the 23rd of June I was setting on the patio in a chase lounge looking to the North sky when I first saw it.  It was obviously a craft of some sort, light grey in color, it was difficullt to call it a specific form.  There were no lights on but it was deffinitely there in the light of the moon.  The craft was moving in a southern direction toward me.  When it got closer, it was obviously the strangest thing I had ever seen, so I called to my roommate, who was inside the house working, that he had to see something strange.  He came out and watched it with me for about ten minutes, then went back in the house to finish working.  As it went higher it became more illuminated by the moon, but the image still wasn't clear.At first it was moving slowely, but then all at once shot up toward the star South of the handle of the Big Dipper.  For at least 20 seconds it  was stationary. Then moved North toward the second star down from the top of the Big Dipper's handle. Next it moved up between the top and next to the top star of the handle, making it appear the there were 4 stars on the handle, instead of 3. It stayed stationary for 5 to 10 seconds, then it started moving North, then finally faided out of  view.((NUFORC Note:  We spoke with one of the witnesses about their sighting, and we do not know what it is they saw.  Given that the object did not have lights on it, the object almost certainly was not an aircraft.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23474.html](http://www.nuforc.org/webreports/reports/023/S23474.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Rochester () reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2 sets of 3 orange orbs traveling nw 2 sets of orange orbs heading northwest.  Appeared to be low and flying in formation</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90014.html](http://www.nuforc.org/webreports/reports/090/S90014.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/163/S163794.html)
-- [388](http://www.nuforc.org/webreports/reports/163/S163814.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161996.html)
-- [386](http://www.nuforc.org/webreports/reports/157/S157252.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
