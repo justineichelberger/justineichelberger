@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:47 on 23 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:49 on 23 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Bayfield (WI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Round orange lit object seemed to have been turned on like a light switch then disappears 13 seconds later.Me my girlfriend and 3 children were driving home from a late event at approx. 10:45 pm.  A dark paved rural rd.  We were driving northbound when in an instant a orange light appeared up in the sky out of nowhere as if someone turned on a light switch.  It was 3- 4 times bigger than just the biggest star the biggest star but not bright shimmering like a star more of a faint orange like with a dimple in the middle like doughnut kind of.  It stayed solid in its luminance.  Me and my girlfriend both said, "what ((deleted)) is that?"  After about 12-15 seconds, it kinda swirled out and disappeared into thin air.  We turned a corner and the object was then in the western sky above the tree line and we lost it as it went under the trees.  Very strange the kids started to get scared as me and my girlfriend absessivly talked about it. IT WAS VERY STRANGE.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133467.html](http://www.nuforc.org/webreports/reports/133/S133467.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Lakewood/Dupont (between) (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Bright red objects falling from the sky at a high rate of speed.Me and my wife were coming home from the Seattle Sounders soccer game last night and around 10:30pm when we were passing the Lakewood area, I saw red lights dropping from the sky no more than 500 feet off the ground.  I asked my wife if she saw it too and when I pointed out the direction (over Joint Base Lewis McChord), I saw 2 more lights and my wife saw 3 more lights dropping from the same location. We continued driving; discussing what we thought it was and when we were passing the Ft. Lewis/North Fort exit we saw 2 more.  This time it was really close, no more than a mile away and still from what seemed like the same altitude.  I was driving at the time so I told my wife to look up and see if there were any planes or helicopters in the area above us and she saw nothing.We got home and told our story, and my brother in law and nephew saw the same thing except from the driveway of our house, but in the direction of JBLM.  They said they saw between 8 and 11 lights dropping from the same general area.I know for a fact that these weren’t flares because I’ve seen flares being dropped before.  It seriously looked like red shooting stars that only lit up a few hundred feet off the ground before hitting the ground.  It’s really hard to describe these lights but the only way I really describe it is like red traffic lights, lighting up a few hundred feet off the ground already travelling at a high rate of speed downwards before hitting the ground.  No smoke trail and no reflecting light off the landscape where these objects fell.In all honesty, I don’t think these were anything “out of this world”, but these were really strange and I’m posting only because I know it wasn’t only us that saw these lights and hopefully somebody else who saw them reads this with an answer to what these were.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81907.html](http://www.nuforc.org/webreports/reports/081/S81907.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/163/S163794.html)
-- [388](http://www.nuforc.org/webreports/reports/163/S163814.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161996.html)
-- [386](http://www.nuforc.org/webreports/reports/157/S157252.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
