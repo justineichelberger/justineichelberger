@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:37 on 22 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:51 on 23 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Hartland (WI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Brief, briliant, orange light to the NE.I saw a very brilliant, orange(y),  brief light to the NE.  Event lasted about 2 seconds and looked as if something had burned up entering our atmosphere.  It could have been a meteorite or a satellite?  Brightest when first seen, headed down to the horizon and appeared to be something burning out as the light was very brilliant at first and then dimmed and went out.  It resembled one of those fireworks that are so bright and fall to the ground and extinguish on the way down…other than the light being orange in color, headed towards the ground at a much greater speed than gravity, clearly much farther away and brighter than I had ever seen...including the light from the magnesium in the firework I described. I’ve never seen anything like it in my life.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89961.html](http://www.nuforc.org/webreports/reports/089/S89961.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1976, an anonymous witness in Madison (NH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>sometime in the summer of 1976 i was a police officer and was on guard duty at a lumber company in madison new hampshire i was in a trailer sitting on a table where there was a lunch room i noticed a round large white light towards silver lake i went outside and watched it began to move and dime i took out my pen and wrote down what was going on  the object went over me very slowly and was very quiet but sounned something like a high speed whine it went towards mt whittier ski slope and in an instant it was gone in a red streek in a 70 degrees motion towards the state of maine the whole thing lasted 20 minutes that morning i only told my mother and father and close members of my family this object was nothing that came from this earth it left faster than a tracer bullet,, this is a true statement..((NUFORC Note:  Witness elects to remain totally anonymous.  Date of sighting may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44819.html](http://www.nuforc.org/webreports/reports/044/S44819.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/163/S163802.html)
-- [365](http://www.nuforc.org/webreports/reports/157/S157120.html)
-- [364](http://www.nuforc.org/webreports/reports/157/S157121.html)
-- [363](http://www.nuforc.org/webreports/reports/157/S157131.html)
-- [362](http://www.nuforc.org/webreports/reports/157/S157126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
