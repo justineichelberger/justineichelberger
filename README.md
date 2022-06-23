@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:53 on 23 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:38 on 23 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Centennial (CO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>3 objects flying in erratic motion high in sky observed from my 3rd floor east southeast window facing window.  After observing for several minutes, called a co-worker to help identify.  Neither of us can explain what we first thought were birds but erratic flight, altitude, and a reflection from sun discredited the thought.  Though many military jets frequent the sky, none would fly with such patterns so close.  After viewing for some time, the objects just disappeared into a cloudy sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128028.html](http://www.nuforc.org/webreports/reports/128/S128028.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Louisville (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>White light grew in size and disappeared.I was taking my dog out before bed when I heard this loud airplane roaring above, so I looked up in the sky and saw this solid white light passing near the plane. All of a sudden it grew about 5 times in size for about 2 seconds, turned a light bluish color and then shrank until I couldn’t see it anymore. The strange thing is it appeared to be traveling away from earth not north, south, east or west.It was a clear night sky and lots of stars were out.((NUFORC Note:  Possible flare from Iridium satellite??  We have amended the date above, in order to reflect a nighttime sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81897.html](http://www.nuforc.org/webreports/reports/081/S81897.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/163/S163794.html)
-- [388](http://www.nuforc.org/webreports/reports/163/S163814.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161996.html)
-- [386](http://www.nuforc.org/webreports/reports/157/S157252.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
