@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:34 on 23 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:47 on 23 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Anderson (SC) reported seeing craft that fit the description of some 'Other' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>Was driving down 85 and saw what can only be described as a HUGE ripple of silver thin paper like material as big as a football field.  I was shocked and sped up to try and get another clear shot but trees were blocking. It was AMAZING and eerie, I have seen UFOs in the past but this thing was truly mind boggling.  It was 7pm (Approx) and still daylight.  The shine reminded me of the shine on christmas timsel.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98823.html](http://www.nuforc.org/webreports/reports/098/S98823.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Bayfield (WI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Round orange lit object seemed to have been turned on like a light switch then disappears 13 seconds later.Me my girlfriend and 3 children were driving home from a late event at approx. 10:45 pm.  A dark paved rural rd.  We were driving northbound when in an instant a orange light appeared up in the sky out of nowhere as if someone turned on a light switch.  It was 3- 4 times bigger than just the biggest star the biggest star but not bright shimmering like a star more of a faint orange like with a dimple in the middle like doughnut kind of.  It stayed solid in its luminance.  Me and my girlfriend both said, "what ((deleted)) is that?"  After about 12-15 seconds, it kinda swirled out and disappeared into thin air.  We turned a corner and the object was then in the western sky above the tree line and we lost it as it went under the trees.  Very strange the kids started to get scared as me and my girlfriend absessivly talked about it. IT WAS VERY STRANGE.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133467.html](http://www.nuforc.org/webreports/reports/133/S133467.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/163/S163794.html)
-- [388](http://www.nuforc.org/webreports/reports/163/S163814.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161996.html)
-- [386](http://www.nuforc.org/webreports/reports/157/S157252.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
