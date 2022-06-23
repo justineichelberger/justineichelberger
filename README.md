@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:51 on 23 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:19 on 23 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1976, an anonymous witness in Madison (NH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>sometime in the summer of 1976 i was a police officer and was on guard duty at a lumber company in madison new hampshire i was in a trailer sitting on a table where there was a lunch room i noticed a round large white light towards silver lake i went outside and watched it began to move and dime i took out my pen and wrote down what was going on  the object went over me very slowly and was very quiet but sounned something like a high speed whine it went towards mt whittier ski slope and in an instant it was gone in a red streek in a 70 degrees motion towards the state of maine the whole thing lasted 20 minutes that morning i only told my mother and father and close members of my family this object was nothing that came from this earth it left faster than a tracer bullet,, this is a true statement..((NUFORC Note:  Witness elects to remain totally anonymous.  Date of sighting may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44819.html](http://www.nuforc.org/webreports/reports/044/S44819.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>While watching the Super Moon one craft appeared in sky and went to a point in the high southern sky and disapeared at a certain point in the sky and another appeared in the same place in the same point that the first one did and traveled to that same point where the other one did and also disapeared at the same point.  Moving about 60 mph from south to north.  Appeared to be balls of fire/orange of light.  Both were seam in sky for about 20 seconds.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98894.html](http://www.nuforc.org/webreports/reports/098/S98894.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/163/S163794.html)
-- [388](http://www.nuforc.org/webreports/reports/163/S163814.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161996.html)
-- [386](http://www.nuforc.org/webreports/reports/157/S157252.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
