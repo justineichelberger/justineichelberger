@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:19 on 23 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:42:25 on 23 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>While watching the Super Moon one craft appeared in sky and went to a point in the high southern sky and disapeared at a certain point in the sky and another appeared in the same place in the same point that the first one did and traveled to that same point where the other one did and also disapeared at the same point.  Moving about 60 mph from south to north.  Appeared to be balls of fire/orange of light.  Both were seam in sky for about 20 seconds.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98894.html](http://www.nuforc.org/webreports/reports/098/S98894.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Paulding (OH) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Dark object flying ahead of a Chinook type helicopter, then a cigar shaped, silver object trailing behindMy husband and I were sitting around a campfire in our backyard.  I looked up towards the north and saw a dark object way up in the sky.  It did not appear to be an airplane.  I could see no apparent wings, no flashing lights and there was no sound.  It was extremely high for how small it appeared to be.  I tried to point it out to my husband, but he didn’t see it.Just a minute later, in the same general area, there was a huge – what appeared to be Chinook helicopter – way up high.  It was white with a red tail.  My husband ran in and grabbed the binoculars.  It was so high up and the setting sun was hitting it just right - we both agreed it was some kind of hugemungus helicopter.  I thought then that perhaps the first dark object I saw might have been a military escort for this huge transport.The helicopter was just fading from view towards the northeast, we looked up and in the same area, at the same high altitude, was a cigar shaped object that was silver in color traveling along the same course.  My husband looked through the binoculars and could not figure it out.  It had no wings – it was not an airplane and was not a helicopter.  He just kept saying “what IS that?”  By the time he gave me the binoculars it was fading from view and I didn’t get a very good look at it.  With my naked eye, I could tell the color was shiny silver, and it had a strange shape… it was shaped like a cigar.  There was no sound.We sat and discussed what we had just witnessed and the only thing we are sure of is the gigantic Chinook-type helicopter, white with red tail.  The dark object I saw was too small for a “regular” plane to be that high up, and there were no apparent wings, no noise and no lights flashing.  Military?  Possibly.  The cigar shaped craft has left us in a state on confusion.  We have never seen anything like it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134784.html](http://www.nuforc.org/webreports/reports/134/S134784.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/163/S163794.html)
-- [388](http://www.nuforc.org/webreports/reports/163/S163814.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161996.html)
-- [386](http://www.nuforc.org/webreports/reports/157/S157252.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
