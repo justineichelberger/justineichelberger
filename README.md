@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:57 on 24 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:29:13 on 24 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Myrtle Point (OR) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>CRAFT CAME IN FROM OCEAN AT FAST PACE. CRAFT MADE NO NOISE I HAD CAMERA IN UTILITY ROOM 10 FEET AWAY GRABBED AND SHOT PICTURE.  THIS CRAFT WAS REPORTED SEEN SAME NIGHT OUTSIDE MEDFORD OREGON WHICH MATCHES THIS ONE. CALLER CALLED COAST TO COAST AND REPORTED IT.  THAT WAS SAME NIGHT I TOOK THIS PICTURE. I AM OUTSIDE AT NIGHT A LOT LETTING MY DOGS OUT.  IT LOOKED LIKE A STAR AT FIRST BUT WAS MOVING MY DIRECTION.  THIS STAR DESCRIPTION IS WHAT COAST TO COAST CALLER REPORTED SAME NIGHT.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99087.html](http://www.nuforc.org/webreports/reports/099/S99087.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Cape Girardeau (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Bright green/yellow light traveling nw to se about the speed of passenger jet, but somewhat lower than those.I observed a bright green/yellow light traveling from northwest to southeast in the sky. The object appeared to travel about the speed of a passenger jet. I observed the object for approximately 15 to 20 seconds, then changed positions so I could see it over the roof of my house. I then observed the object for approximately 5 to 10 more seconds until the object slowly dimmed and faded away. The object did not accelerate away, it's light just dimmed slowly until it couldn't be seen.(dimming process approximately 3 seconds) The object appeared to be slightly lower than other aircraft I observed this night (I had seen some passenger jets later on in the night), but this object was only one solid bright green/yellow light. No blinking lights as with passenger jets. It was a very clear night. The only object in the sky that was brighter was the 1/5 to 1/4 cresent moon in the western sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90068.html](http://www.nuforc.org/webreports/reports/090/S90068.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/163/S163816.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164248.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164107.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163815.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163853.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
