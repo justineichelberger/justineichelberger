@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:40 on 24 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:36 on 24 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Merritt Island (above) (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 ufos hovering Kennedy Space Center.3 crafts hovering over Kennedy space center last night.  It started with one bright light, very still, then all the sudden, it started hovering around.  Soon after, two smaller, dimmer, craft appeared.  The two smaller ones were hovering above and around the bigger one.  It looked almost as if they were playing with each other.  The two smaller ones were there for only a few minutes and they just disappeared.  The bigger one got super bright after the smaller ones disappeared.  It almost looked like it was coming toward us.  It then started getting dimmer until it completely disappeared.((NUFORC Note:  Source of the report elects to remain anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134768.html](http://www.nuforc.org/webreports/reports/134/S134768.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in St. Charles (MO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>Redish Orange Glow, no sound 4 witnesesIt looked like a red or Orange glow coming at outr condo.  was below 10,000 feet and made no noise at all.  I have a Video of it on my cell phone but is all you really see is a light of a cingular color coming at us.  There where 4 of us and after it went over the house we ran out back and another one must have come up because it should have been way past us but the light was not even over the Condo yet.  There had to have been two.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90077.html](http://www.nuforc.org/webreports/reports/090/S90077.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/163/S163816.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164248.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164107.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163815.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163853.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
