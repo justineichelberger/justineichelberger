@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:35 on 24 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:40 on 24 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Columbus (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately few seconds - few seconds minutes.</sub><blockquote><sub>Unknown flash of light.I was in a local park just taking pictures of the evening sky on my digital camera.  I took a few pictures in a row, the flash went off automatically for 2 of them.  The first of the 2 with the flash seemed to show an object.  I have no idea what it is, but I was hoping someone with a more experience could tell me.  It looks like a reflection of light off of an object.  Given the distance, I doubt that my camera could pick up a reflection.  I zoomed in on it as much as I could on my computer, but that did not make it any more identifiable.  The part of the sky it was in is in line with aircraft landing and taking off from the columbus airport.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29394.html](http://www.nuforc.org/webreports/reports/029/S29394.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Merritt Island (above) (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 ufos hovering Kennedy Space Center.3 crafts hovering over Kennedy space center last night.  It started with one bright light, very still, then all the sudden, it started hovering around.  Soon after, two smaller, dimmer, craft appeared.  The two smaller ones were hovering above and around the bigger one.  It looked almost as if they were playing with each other.  The two smaller ones were there for only a few minutes and they just disappeared.  The bigger one got super bright after the smaller ones disappeared.  It almost looked like it was coming toward us.  It then started getting dimmer until it completely disappeared.((NUFORC Note:  Source of the report elects to remain anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134768.html](http://www.nuforc.org/webreports/reports/134/S134768.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/163/S163816.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164248.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164107.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163815.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163853.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
