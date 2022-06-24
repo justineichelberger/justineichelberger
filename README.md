@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:05:38 on 24 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:32 on 24 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Klamath Falls (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A green seemingly silent triangle of green lights hovering over Kingsley fields</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143943.html](http://www.nuforc.org/webreports/reports/143/S143943.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in St. Bernard's (Canada) (NF) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Myself and a couple of my other friends were walking to a friends house. It was a clear summer evening, not a cloud in the sky. I looked up and seen at what I first believed to be a commercial airplane. I pointed it out to a few of my friends. It struck me strange that the aircraft was moving extremely slow for an airplane. Also, I found it pretty weird that there wernt any lights on the aircraft as well. I continued to look at it for a few more seconds, by then the aircraft was really making me curious. I continued to walk, but my eyes were brought back to the sky again out of curiosity, but this time the aircraft was nowhere to be seen. Myself and my other friends took a few minutes searching the sky trying to find it, without any luck. This ruled out the possibility of the object being an airplane, since airplanes do not magically diasppear. Also, since it was a clear ending, I also ruled out the plane flying over the clouds. Now I'm not sure what I saw...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44598.html](http://www.nuforc.org/webreports/reports/044/S44598.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/163/S163816.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164248.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164107.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163815.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163853.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
