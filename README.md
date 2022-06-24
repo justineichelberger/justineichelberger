@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:43 on 24 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:04:40 on 24 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Whitefish (MT) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>A small traveling light in the sky increased in brightness and then faded away.Between Aurora Borealis and the last star in the handle of Ursa Major, I saw a small light. I thought that it was a satellite crossing the sky when I first noticed it. It moved from left to right but then became brighter and brighter until it was as bright as a bright star.  I then thought that it might be a meteorite that was heading directly towards me.  The light then went dim again and seemed to be either traveling away from me into space or just faded out until it was just a pin prick of light and then I could not see it any more.  It only traveled about one inch from left to right. The sky was very clear.  I have never seen anything like this.  Did anyone else see it?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64137.html](http://www.nuforc.org/webreports/reports/064/S64137.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Saratoga Springs (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>UFO chased by a military helicopter at approximately 10:10 EST, near Saratoga Springs, NYTonight I witnessed a ufo being chased by a military helicopter at approximately 10:10 EST, near Saratoga Springs, NY. Ufo was traveling NW at high speeds. Daughter witnessed a black shadow like object that was tailing behind and she described it as shaped long and oval like. I did not see this as I went in my house to bring my dogs back inside.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163815.html](http://www.nuforc.org/webreports/reports/163/S163815.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/163/S163816.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164248.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164107.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163815.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163853.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
