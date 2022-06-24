@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:35 on 24 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:37 on 24 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Bobtown (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>fast moving point of light preceeds large slow triangle over Pennsylvania.June 23, 2005  The first thing we saw was flying from the east and just appeared as a small dot of light flashing erratically, it made a sharp turn towards the north and jutted back in forth in an almost square grid area, it looked almost like a strobe, on off, on off, then moved at a high rate of speed toward the NW till out of view flashing all the time, the craft appeared to be very high up, and moving far too fast to be a jet, also the 90 degree jumps it was making back and forth were in split seconds. Within about ten minutes my wife noticed what she thought were three jets coming from the sw, again, just points of light, but they were moving extremely slow towards the south, they were too far apart to be jets in formation.  As she went to get the video camera (and found that all four batteries were dead, even though we just charged them not long ago), I watched the lights "rotate" on a central axis and then could make out a dimmer fourth light, at this point I realized that the pattern formed a perfect triangle shape, similar to the "Star Destroyers" from the Star Wars movies.  I could make out one bright light at the point and three across the back, one in the center and one at either "point".  The triangle rotated towards the south and continued straight until out of sight behind haze.  It always moved at the same slow rate and there were no sounds associated with either of these events.  The first elapsed in maybe 20-30 seconds, the second probably 2-3 minutes. Of course this piqued our curiosity, so we stayed out a while longer, and I saw a "shooting star" like I have never seen before, it was large, and I could actually see the comet shape and particles falling off the back, it looked like bright orange fire, I've never seen one this large or colored before, I'm sure it's probably just coincidence but I thought I'd mention it anyway.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44544.html](http://www.nuforc.org/webreports/reports/044/S44544.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Sydney (Australia) () reported seeing craft that fit the description of some 'Light' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>pulsating lightsI was driving to work and a plane was low and flying across my sight so I looked at at as you do and then I noticed three bright lights in the background a long way from the plane I was traveling at 60ks so I couldnt see if they were moving but I did notice they got small then big like pulsating I was amazed and not realy watching the road and had to turn in the lane with other traffic and lost sight them the brightness of the lights were about as stong as a street lamp at night but these were in broad daylight I dont know of anything that could be that bright in the daytime that man has got. It coulnt be a reflection beause two were high and one was lower and the two high ones were not close to each other but aligned As for stars there were brighter than any star at night.There for my conclusion is they were unidentifieble flying objects</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70701.html](http://www.nuforc.org/webreports/reports/070/S70701.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/163/S163816.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164248.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164107.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163815.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163853.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
