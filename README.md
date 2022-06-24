@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:49 on 24 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:35 on 24 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Springfield (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two yellow orbs of light flying in formationOn 06/24/2012 at approximately 0002 I was on patrol traveling north.  I came to a complete stop at the intersection of Summit Ave./E Calhoun St. I then observed two yellow glowing orbs flying in an echelon formation to the north east of my position.  The orbs were traveling east to west at approximately 1000ft and an estimated speed of 300 knots. I observed the objects for two minutes until the tree line blocked my line of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90036.html](http://www.nuforc.org/webreports/reports/090/S90036.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Columbus (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately few seconds - few seconds minutes.</sub><blockquote><sub>Unknown flash of light.I was in a local park just taking pictures of the evening sky on my digital camera.  I took a few pictures in a row, the flash went off automatically for 2 of them.  The first of the 2 with the flash seemed to show an object.  I have no idea what it is, but I was hoping someone with a more experience could tell me.  It looks like a reflection of light off of an object.  Given the distance, I doubt that my camera could pick up a reflection.  I zoomed in on it as much as I could on my computer, but that did not make it any more identifiable.  The part of the sky it was in is in line with aircraft landing and taking off from the columbus airport.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29394.html](http://www.nuforc.org/webreports/reports/029/S29394.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/163/S163816.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164248.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164107.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163815.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163853.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
