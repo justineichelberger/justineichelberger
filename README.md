@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:37 on 24 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:39 on 24 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Sydney (Australia) () reported seeing craft that fit the description of some 'Light' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>pulsating lightsI was driving to work and a plane was low and flying across my sight so I looked at at as you do and then I noticed three bright lights in the background a long way from the plane I was traveling at 60ks so I couldnt see if they were moving but I did notice they got small then big like pulsating I was amazed and not realy watching the road and had to turn in the lane with other traffic and lost sight them the brightness of the lights were about as stong as a street lamp at night but these were in broad daylight I dont know of anything that could be that bright in the daytime that man has got. It coulnt be a reflection beause two were high and one was lower and the two high ones were not close to each other but aligned As for stars there were brighter than any star at night.There for my conclusion is they were unidentifieble flying objects</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70701.html](http://www.nuforc.org/webreports/reports/070/S70701.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Austin (area) (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>my fiancee' and i were driving to her mother's house in hutto after work for a visit at about 11 o'clock at nigt. it was clear out, which made the lightning very noticable in contrast to everything else. my girlfriend was driving, and so i watched the lightning for about a minute before i realized how odd it was that it should be occurring at such regular and frequent intervals.  we drove faster so that we could watch it better. my girlfriend noticed that there were three or four planes circling it rather  closely for the duration of the event. when we arrived, i ran upstairs to get my girlfriend's 13 year old brother and his friends to come see it. one of his friends pointed out the fact that there was no sound coming from the lightning. after we watched for about ten minutes, my girlfriend and i decided to go drive after it to see what it would look like up clse.  we were able to get closer, and it was a large spherical area of sky, and the lightning was coming from the center of it so often that it was practically a ball of light.  the airplanes were still there, and they were small, crop-duster sized aircraft. we tried to videotape this happening, but the recorder did not have a light gauge that made it possible to record it. we parked for a while, and the lightning died down and finally stopped altogether. my girlfriend's older brother saw the same thing, and he told us about it about two weeks later.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04887.html](http://www.nuforc.org/webreports/reports/004/S04887.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/163/S163816.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164248.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164107.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163815.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163853.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
