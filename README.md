@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:33 on 24 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:41 on 24 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in South Royalton (VT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3 hrs. - 3 hrs. minutes.</sub><blockquote><sub>it just appeared and stayed there flashing colors for sometime then something came off it and disappered. After sometime it came back to the bigger half and just shot off agian. This happened for a week then it just stopped.it was round like a ball. flashing all colors and it was "BIG". it also had a small counter part that would lave it. the small part was just a smaller version of the big one. it would come back after sometime it would leave as fast as it came.((NUFORC Note:  This report seems to us to be reminiscent of a sighting of a celestial body, but we have no explanation for it if an object shot off from the major body.))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08697.html](http://www.nuforc.org/webreports/reports/008/S08697.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Avenal (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Silent low flying aircraft over I-5 north.11:30 pm-ish.... There were three of us driving on the 5 north when my passenger could barely speak and told me to look up.  I must say it was very clear out and there were absolutely no lights ahead of us in the sky prior to this. When I looked up, there were 4 blue lights, and some object hoovering about 30 feet above my car.  The moon-roof shade was open and we could clearly see the whole object.  As soon as we looked up and started to point at the object, it began to fly away from the car, covering what we discussed and concluded was about a mile at most in 5-10 seconds. The object stopped and started to land.  It moved and turned in ways that we all have never seen anything do before.  I must clarify this object was bigger than a jet but smaller than a commercial plane.  About 10 seconds after it landed there was a helicopter that appeared in the sky ahead moving very fast toward the downed object.  There were many other lights in the sky that started being noticed in the next few seconds much higher up in the sky but above where the object landed.  This vehicle made absolutely no noise and covered a lot of ground in a very short time.  The passenger in the back seat, as the object landed, became obviously frightened and fell into a deep sleep 20 min after seeing the object.  The front passenger and I have had weird visions, tingling, and nervousness, nauseous, and other interesting things since seeing the object...it was like we had to fight something off inside our heads talking to us.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110608.html](http://www.nuforc.org/webreports/reports/110/S110608.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/163/S163816.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164248.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164107.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163815.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163853.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
