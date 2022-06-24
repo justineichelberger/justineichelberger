@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:12:42 on 24 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:05:38 on 24 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Athens (TN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Amazing bright light that slowly moved a crossed the sky stopped then went back the way it came.i went outside to give my girlfriend a call and smoke a cig,i was sitting facing the north and out the corner of my eye i see what i thought was a star.i thought wow that thing is bright almost thought to my self what light is that as many i havent seen it there before...it was in the eastern sky mid level not moving i seen it there for about 15 secs i would say with little to no movement then it started to move up the sky towards the top at the point when it started to move within about 5 secs it got dim too what looked like a dim star when and had what looked like a blowing up star as it flicker but not the red blue as you see when looking at them,when it got almost to the top it stopped at this point i kicked my door open to yell to my dad get out here theres something in the sky,made sure i kept my eye on it,then still watching it stopped a few degrees from the top it made a 180 not a turn but a full stop,then went down but not in the same line that it c! ame on went back down almost to where i first laid eyes on it the went towards the south this is where my dad came out to try and see it but he couldnt make out where it was but i could still see it as it became more and more dim it faded away as it got farther...i saw something else after i got off the phone from calling and making the report on the phone line i saw some thing come from the north and go toward the south but no bright light was saw with this so it could of been a satellite which i have seen before and i know they also can get bright and certain points in the sky....i don't know i never seen what i saw it brought chills to my arms thank you would like to talk to you over the phone this thing was something else</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90032.html](http://www.nuforc.org/webreports/reports/090/S90032.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Klamath Falls (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A green seemingly silent triangle of green lights hovering over Kingsley fields</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143943.html](http://www.nuforc.org/webreports/reports/143/S143943.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/163/S163816.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164248.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164107.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163815.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163853.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
