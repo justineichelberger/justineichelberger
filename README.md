@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:41 on 24 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:50 on 24 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Avenal (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Silent low flying aircraft over I-5 north.11:30 pm-ish.... There were three of us driving on the 5 north when my passenger could barely speak and told me to look up.  I must say it was very clear out and there were absolutely no lights ahead of us in the sky prior to this. When I looked up, there were 4 blue lights, and some object hoovering about 30 feet above my car.  The moon-roof shade was open and we could clearly see the whole object.  As soon as we looked up and started to point at the object, it began to fly away from the car, covering what we discussed and concluded was about a mile at most in 5-10 seconds. The object stopped and started to land.  It moved and turned in ways that we all have never seen anything do before.  I must clarify this object was bigger than a jet but smaller than a commercial plane.  About 10 seconds after it landed there was a helicopter that appeared in the sky ahead moving very fast toward the downed object.  There were many other lights in the sky that started being noticed in the next few seconds much higher up in the sky but above where the object landed.  This vehicle made absolutely no noise and covered a lot of ground in a very short time.  The passenger in the back seat, as the object landed, became obviously frightened and fell into a deep sleep 20 min after seeing the object.  The front passenger and I have had weird visions, tingling, and nervousness, nauseous, and other interesting things since seeing the object...it was like we had to fight something off inside our heads talking to us.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110608.html](http://www.nuforc.org/webreports/reports/110/S110608.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Rice (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Family witnessed multiple round lights coming from nowhere in formation until randomly separating and moving in different directions.My family and I were camping in Rice, Va 06/21/20 - 06/24/20.  Around 8pm on 06/23/20 my daughter came running to ask me to come outside and see the “creepy things in the sky!”  She, my other daughter, and son-in-law were all staring into the sky pointing at what they were seeing.  I looked up and saw multiple round lights moving higher than an airplane we saw a little while later.  I had my husband and 10 year old son join us outside to get their opinion.  The lights were moving in the same direction at first but randomly separated; my husband said it could be a meteor shower until some of them stopped and changed direction.  Then several more began to appear directly above us as if they were coming from nowhere, traveling in the same direction, at the same speed, the same distance apart from each other.  We tried capturing pictures and video but the lights didn’t appear on camera.  After several minutes in the same formation, the objects separated and began traveling in random directions, some disappearing and reappearing, others completely disappearing.  None of us have an explanation for what we saw and it’s been on my mind since that night so I decided to report it.  I hope this information is helpful.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157437.html](http://www.nuforc.org/webreports/reports/157/S157437.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/163/S163816.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164248.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164107.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163815.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163853.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
