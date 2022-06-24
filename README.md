@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:13:17 on 24 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:40 on 24 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Twin Falls (ID) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>There were 7 lights that were solid white all spaced out through the span of roughly 40 min.  Some seemed be flying straight but after focusing you could see them almost wiggling or wobbling as they went.  And four of them there trajectory took them straight out of the atmosphere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134777.html](http://www.nuforc.org/webreports/reports/134/S134777.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Fort Loudon (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Green Fireball Sighted Over Franklin County PAApproximately 10:05 (+/- 10 minutes) PM EST, I was outside when I saw what appeared to be a single firework streaking downward.  It had different colors, but the most noticeable was green.  If it would have been a firework, I would have judged it to be set off about half a mile away, but I never actually saw any upward trajectory, and there was absolutely no sound to it.  We have had fireworks set off about a mile from our house on holidays, and we can definitely hear them in our rural area.  I stayed outside approximately 5 to 10 minutes, and never heard a sound other than a passenger jet high above.The object was North of me, travelling in a roughly 45 degree angle, appearing to travel from East to West.  It traveled about the same speed as meteors I have seen before, and before it disappeared in the air, it seemed to have a great green flash, with possibly some orange and white.  If I stretched my arms out in front of me, using my hands to determine when it started and appeared to end, I would say the entire event took place within 3 feet, and the final burst or flash appeared about the size of my fist (approx 3 inch diameter), with the core being about the size of a silver dollar.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75920.html](http://www.nuforc.org/webreports/reports/075/S75920.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/163/S163816.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164248.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164107.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163815.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163853.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
