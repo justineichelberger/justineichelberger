@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:55 on 24 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:13:17 on 24 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Carol Stream (IL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Witnessed a starlike object moving around in the  night sky in various patterns.Forgive me if this seems crazy, but I saw something in the night sky I have never seen before.  I am at work in the middle of the night and went outside to have a cup of coffee.  We are a suburban area at 400 E north avenue in Carol Stream, Illinois.I looked to the sky star gazing as it is nice out and the sky is clear.  I turned to the north and high in the sky I noticed what looked like a star, but it was moving around.  I could not see a specific shape, it looked like a star to me, but it was not stationary.  The object was moving very quickly and erratically.I looked at other stars in the area and no other star was moving and I saw some obvious planes as they had the flashing lights and moved in a constant direction.  The object I observed moved like a balloon with air escaping or a kite on a string darting across the sky.  I kept waiting for the object to move out of my vision, but it stayed in the same general area.The object moved in all directions and at times made big moves, darting to another area and at other times made smaller squiggly moves like a figure eight or a letter “S”.  I called a maintenance friend of mine to verify what I was seeing and he saw the same thing I did.  The object looked way too high in the sky to be an airplane, and did not move like an airplane.I am not sure what it was that I saw, but it was not normal.  I am 56 years old and have never seen this kind of image and I grew up in the country where the sky is nearly always clear for gazing at night.  Take it for what it is worth.  I wish I knew what it was that I just witnessed.  Thanks</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128056.html](http://www.nuforc.org/webreports/reports/128/S128056.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Twin Falls (ID) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>There were 7 lights that were solid white all spaced out through the span of roughly 40 min.  Some seemed be flying straight but after focusing you could see them almost wiggling or wobbling as they went.  And four of them there trajectory took them straight out of the atmosphere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134777.html](http://www.nuforc.org/webreports/reports/134/S134777.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/163/S163816.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164248.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164107.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163815.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163853.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
