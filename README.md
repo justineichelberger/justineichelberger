@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:04:40 on 24 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:33 on 24 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Saratoga Springs (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>UFO chased by a military helicopter at approximately 10:10 EST, near Saratoga Springs, NYTonight I witnessed a ufo being chased by a military helicopter at approximately 10:10 EST, near Saratoga Springs, NY. Ufo was traveling NW at high speeds. Daughter witnessed a black shadow like object that was tailing behind and she described it as shaped long and oval like. I did not see this as I went in my house to bring my dogs back inside.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163815.html](http://www.nuforc.org/webreports/reports/163/S163815.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in South Royalton (VT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3 hrs. - 3 hrs. minutes.</sub><blockquote><sub>it just appeared and stayed there flashing colors for sometime then something came off it and disappered. After sometime it came back to the bigger half and just shot off agian. This happened for a week then it just stopped.it was round like a ball. flashing all colors and it was "BIG". it also had a small counter part that would lave it. the small part was just a smaller version of the big one. it would come back after sometime it would leave as fast as it came.((NUFORC Note:  This report seems to us to be reminiscent of a sighting of a celestial body, but we have no explanation for it if an object shot off from the major body.))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08697.html](http://www.nuforc.org/webreports/reports/008/S08697.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/163/S163816.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164248.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164107.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163815.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163853.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
