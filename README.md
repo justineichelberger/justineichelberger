@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:57 on 25 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:36 on 25 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Rough and Ready (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>column of flasshing red lights that became a triagle of red flashing light,moved to left then back to rightAs I usually do each evening just before retiring, I look at the stars out of my window.  This evening it was overcast and I couldn't see any stars.  As I was about to leave the window I saw a very large bright red flashing light, it wasn't like the usual airplane white light with smaller red one.  This flashing light soon became  a straight up and down line of red flashing lights.  I watched wonder what it could be,a satellite?  After watching it a few minutes it became  a triangle of flashing red lights, the same first column  in the same up and down position and the two other columns forming a triangle to the left.  It remained stationary for a minute and then slowly moved in a westerly direction.  I thought Oh Gosh that is a UFO, as I watched it slowly move to the left it was about to go out of my sight, I exclaimed out loud "Oh no! come back this way."  To my amazement it started back toward the direction it had just come from, all the while the large red lights are continuing to flash.  It returned to the starting point where I had first observed the light and stood still for a time.  The triangle then started to move away from me and slowly disappeared in a north West direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110671.html](http://www.nuforc.org/webreports/reports/110/S110671.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>The objects I saw were beyond our atmosphere.  The size of the cigar object had to be huge for me to see it at that distance.I observed a silver ball traveling from the  North to Southwest on a clear bright sunny morning.I watch this object moving what appeared to be slow going in a straight line. And somewhat out there at a distance. Because normal aircraft was traveling well below this small silver ball.  A military jet pasted threw this area and well below with a vapor trail.  Has I continued to watch,  then I saw IT.  In the background and way further out was a cigar shaped object,  following the silver ball. This second object was dark in color as it appeared against the bright blue morning sky.  Then the small silver ball suddenly stopped. Seconds passed.  I watched and waited.  Then the silver ball began to move.  Not backwards nor in a continueous direction had it was previously.  But was heading towards the mother ship. I continued to watch till the silver ball I lost sight of. And also the larger object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23554.html](http://www.nuforc.org/webreports/reports/023/S23554.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [398](http://www.nuforc.org/webreports/reports/163/S163837.html)
-- [397](http://www.nuforc.org/webreports/reports/163/S163849.html)
-- [396](http://www.nuforc.org/webreports/reports/157/S157173.html)
-- [395](http://www.nuforc.org/webreports/reports/157/S157153.html)
-- [394](http://www.nuforc.org/webreports/reports/157/S157157.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
