@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:28:29 on 25 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:07:31 on 25 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Newton Falls (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>1 large red orb going from north to south at approximately 9:45 p.m. on June 25th in Trumbull County, Newton Falls, Ohio.  No navigational lights, no noise</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128084.html](http://www.nuforc.org/webreports/reports/128/S128084.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Savannah (GA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Slow moving object (like a helicopter) - bean of light coming out of bottom - disappeared suddenlyThe craft was flying slowly, like a helicopter. It made no noise, and a light was shining out of the bottom like a spotlight. Suddenly the point of light disappeared, and only a diffused light beam could be seen. Seconds later, this disappeared. It could have been a helicopter, but it was strange that it disappeared so abruptly, and there was no sound!((NUFORC Note:  We believe that the cluster of reports that appear her for the evening of Monday, June 25, 2001, were caused by the launch of an ICBM by the U. S. Navy from the Kennedy Space Center at approximately 2115 hrs. (EDT).  We are grateful to the FAA Military Liason office in Jacksonville, FL; the USAF 45th RANDS unit; and the Naval Operations and Testing Unit ("NOTU") for their assistance in our attempt to determine the cause of these reports.  A similar test was conducted by the USS West Virginia submarine off the east coast of Florida on March 07, 1998, which caused similar reports.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18214.html](http://www.nuforc.org/webreports/reports/018/S18214.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [398](http://www.nuforc.org/webreports/reports/163/S163837.html)
-- [397](http://www.nuforc.org/webreports/reports/163/S163849.html)
-- [396](http://www.nuforc.org/webreports/reports/157/S157173.html)
-- [395](http://www.nuforc.org/webreports/reports/157/S157153.html)
-- [394](http://www.nuforc.org/webreports/reports/157/S157157.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
