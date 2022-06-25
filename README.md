@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:31 on 25 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:35 on 25 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Lake Arrowhead (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>large oval shaped object surrounded by lights seen over San Bernardino mountain ridgeWe live at almost 6 thousand feet in the mountains.  Object seen slowly traveling west to east over ridge of mountain (approx 5 miles from my vantage point) , turned south (slightly changing shape becoming quite thin) and appeared to descend very slowly behind mountain ridge or it could have been just traveling further away in a southerly direction, which from my vantage point would appear to be descending.  It appeared large (size of a quarter) depending upon how far away it was  (although no other craft seen, at other times aircraft in the vicinity would appear much smaller)  craft was lit all around the outside edges with with about 5 smaller lights at the top and about 4-5 very large lights around the bottom, and dim, small lights around the sides.  There was no noise at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44561.html](http://www.nuforc.org/webreports/reports/044/S44561.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Sanford (FL) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 91</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157242.html](http://www.nuforc.org/webreports/reports/157/S157242.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [398](http://www.nuforc.org/webreports/reports/163/S163837.html)
-- [397](http://www.nuforc.org/webreports/reports/163/S163849.html)
-- [396](http://www.nuforc.org/webreports/reports/157/S157173.html)
-- [395](http://www.nuforc.org/webreports/reports/157/S157153.html)
-- [394](http://www.nuforc.org/webreports/reports/157/S157157.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
