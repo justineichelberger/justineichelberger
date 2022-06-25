@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:43 on 25 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:46 on 25 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in North Port (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2-blue lights  no bigger than an egg. In the center of was a black object. Made no sound. Lots of wind.I was sitting inside in my truck it was just getting dark then I saw these very small 2 blue lights heading right for me.  As it got closer, they separate and the wind was so strong the truck shook.  I know it sounds strange but they almost look like eyes. Black spot was in the center of the blue. no bigger than an egg.  They came back around me and took off in the sky faster than any thing I have every seen.I never took any photos so it just my word.  It happen in seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134748.html](http://www.nuforc.org/webreports/reports/134/S134748.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Victorville (CA) reported seeing craft that fit the description of some 'Egg' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Blue bugish oval with insect like undercarage and leaning one side top knotBlue eliptical blimpie shape with red leaning to one side top wing like quail top not off the side. the underside has a hanging apperatus like a rocking chair bottom rocker that was a cream color or almost glow in the dark type color resembleing an insect like undercarrage. It first appeared to be an ultralight or car dealer balloon cluster but on further examination it looked like described. No noise could be heard I was close to my neighbors air conditioner motor was running. When it circles it looks thin with the top not leaning to one side. It covered the entire victorville area about 8 to 15 minutes and headed out east towards apple valley big bear. There was clouds and it was below the clouds in the valley.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51071.html](http://www.nuforc.org/webreports/reports/051/S51071.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [398](http://www.nuforc.org/webreports/reports/163/S163837.html)
-- [397](http://www.nuforc.org/webreports/reports/163/S163849.html)
-- [396](http://www.nuforc.org/webreports/reports/157/S157173.html)
-- [395](http://www.nuforc.org/webreports/reports/157/S157153.html)
-- [394](http://www.nuforc.org/webreports/reports/157/S157157.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
