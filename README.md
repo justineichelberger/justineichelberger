@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:35 on 25 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:46 on 25 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1987, an anonymous witness in Pahrump (NV) reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Unknown Cloud Around Object and changed color then vanishedmyself wife girlfriend at time and two step children were living in a small town called Crystal nevada 25 miles from the nevada test site it was about 11:00pm possibly 10pm we were walking down the towns main road when we saw a large white cloud in the clear night sky as we watched we saw what looked like a helicoptor with it's spotlight on flashing around in the cloud like it was looking for something after about 20 minets the light was gone the cloud started to get a brighter blue and then just faded away and was gone there was no sound at all it was there then it was gond i almost for got the cloud was i'de say 100 feet directly in front of us and about 100 feet in the air it was a white cloud before it turned blue and vanished there were other sightings but this is the first i reported even though it has been a while a computer was not avilible at the time  there was another where myself and some friends lost 2 hours after we went around a turn in the mountains we ended up at the end of the highway we were on wondering what happend i have not reporthd any of these sightings because i know how UFO sightings are treated when reported</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21828.html](http://www.nuforc.org/webreports/reports/021/S21828.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Cotulla (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately Work - Work minutes.</sub><blockquote><sub>Mysterious lights which seemed to have some circular movement from left to right and again right to leftClear night and bright moon was the description of the night sky, a light above the town appeared when all of a sudden the solid light broke up into multiple lights going from left to right and again from right to left this happened (3) three separate times and was followed which looked like a blink of a light (like an aircraft) at night went from right and then continued to go left at an unusual speed too fast to keep track of with binoculars.It was about (10) ten minutes later an employee asked what was going on as I described what went on, at that same time I saw a bright (red) light and and all of a sudden it happened again its like a trail of lights from (horizontal) left to right (3)three separate times at different areas top, bottom and to the left or something of that matter and again followed by this time (2) two aircraft lights which followed in the same direction and a few seconds later separated going different directions (the second encountered happened at a different location from a one a clock to a three o'clock position there were a total of five witnesses.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93076.html](http://www.nuforc.org/webreports/reports/093/S93076.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [398](http://www.nuforc.org/webreports/reports/163/S163837.html)
-- [397](http://www.nuforc.org/webreports/reports/163/S163849.html)
-- [396](http://www.nuforc.org/webreports/reports/157/S157173.html)
-- [395](http://www.nuforc.org/webreports/reports/157/S157153.html)
-- [394](http://www.nuforc.org/webreports/reports/157/S157157.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
