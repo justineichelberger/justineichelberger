@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:01:13 on 25 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:31 on 25 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Yuma (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Massive  triangle reported  to Yuma county Sherriff office over Yuma, AZ. flying south to MexicoOn Saturday, June 25, 2005 at about 10:15p.m. I was looking south from my house, which is located 10 miles south of Yuma, AZ, when I looked up and saw 2 lights proceeding south. I then noticed a third light out in front of the other 2 lights.When my eyes adjusted, I realized I was seeing a triangle-shaped object. This was not a equal-sided triangle, but long pointed one. The sides of the triangle were about 3 times as long as the base of the triangle. I noticed the object appeared blurred, like it was oscillating or vibrating at a very fast frequency. The flight characteristics appeared jerky or out of focus all along the perimeter. When the object passed between me and some of the stars, the star light was blocked out. This was something I had never seen before.I am a disabled Navy Veteran and I was stationed on the aircraft carrier U.S.S. Coral Sea for almost 6 years and I have seen a lot of different types of aircraft. I live 5 miles south of a Marine helicopter and Harrier training base. There are 2 Proving grounds within 25 miles of my house; Yuma Proving Grounds and the Barry Goldwater Test Range. So, I have seen many types or aircraft, both fixed-wing and rotary types. I have never seen anything like this before.I will not take a guess on the altitude, speed, or distance but I had the impression this object was at a very high altitude.After about a minute of observing this object going south, it just faded from view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44647.html](http://www.nuforc.org/webreports/reports/044/S44647.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Lake Arrowhead (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>large oval shaped object surrounded by lights seen over San Bernardino mountain ridgeWe live at almost 6 thousand feet in the mountains.  Object seen slowly traveling west to east over ridge of mountain (approx 5 miles from my vantage point) , turned south (slightly changing shape becoming quite thin) and appeared to descend very slowly behind mountain ridge or it could have been just traveling further away in a southerly direction, which from my vantage point would appear to be descending.  It appeared large (size of a quarter) depending upon how far away it was  (although no other craft seen, at other times aircraft in the vicinity would appear much smaller)  craft was lit all around the outside edges with with about 5 smaller lights at the top and about 4-5 very large lights around the bottom, and dim, small lights around the sides.  There was no noise at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44561.html](http://www.nuforc.org/webreports/reports/044/S44561.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [398](http://www.nuforc.org/webreports/reports/163/S163837.html)
-- [397](http://www.nuforc.org/webreports/reports/163/S163849.html)
-- [396](http://www.nuforc.org/webreports/reports/157/S157173.html)
-- [395](http://www.nuforc.org/webreports/reports/157/S157153.html)
-- [394](http://www.nuforc.org/webreports/reports/157/S157157.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
