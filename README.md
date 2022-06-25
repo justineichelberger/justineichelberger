@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:31 on 25 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:43 on 25 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Lakeland (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>2 bright objects disappeared then heard rumbling east skyGetting out my truck 2 lights caught my eye in the east sky, it was if they were drifting but they were very far away.  They were bright like a slow moving fire ball I guess.  One disappeared then seconds later the another One disappeared.  One other time 3 years ago I seen what I thought was fire balls, it was 5 perfect looking round shape rocks in formation with each other like traveling across the sky in together in with a sphere together, literally over my head.  Come out of no where. The 2 objects I seen tonight were far away but had the same color as the group of boulders, bright white and yellow and slightly orange and maybe a little red.And after they disappeared I heard rumbling like thunder in a distance the lasted several minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147060.html](http://www.nuforc.org/webreports/reports/147/S147060.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in North Port (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2-blue lights  no bigger than an egg. In the center of was a black object. Made no sound. Lots of wind.I was sitting inside in my truck it was just getting dark then I saw these very small 2 blue lights heading right for me.  As it got closer, they separate and the wind was so strong the truck shook.  I know it sounds strange but they almost look like eyes. Black spot was in the center of the blue. no bigger than an egg.  They came back around me and took off in the sky faster than any thing I have every seen.I never took any photos so it just my word.  It happen in seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134748.html](http://www.nuforc.org/webreports/reports/134/S134748.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [398](http://www.nuforc.org/webreports/reports/163/S163837.html)
-- [397](http://www.nuforc.org/webreports/reports/163/S163849.html)
-- [396](http://www.nuforc.org/webreports/reports/157/S157173.html)
-- [395](http://www.nuforc.org/webreports/reports/157/S157153.html)
-- [394](http://www.nuforc.org/webreports/reports/157/S157157.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
