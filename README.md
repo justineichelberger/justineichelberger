@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:01:56 on 25 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:38 on 25 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Object appeared in the low horizon and it looked to me to be venus, but then was moving east and rising slightly untill it was  about 4 times the size of Venus. It then started to rise, and go back in an easterly direction. It continued to rise untill it became so small it disapperd from veiw. It was the color and brightness of Venus and as it came closer it became very bright and had no other colors.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23476.html](http://www.nuforc.org/webreports/reports/023/S23476.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1967, an anonymous witness in none (MI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>daylight disk at 200 metersSighting - Late June 1967   When I was 13, I was standing on the front porch of our house in the early afternoon with my sister ((name deleted)), who was looking off the other way while I gazed across the cornfield to the north.  Suddenly an object came over the treeline along the right edge of the field at about 200 meters from me and 100 feet off the ground.It was a bright shiny silver disk about 50 feet in diameter making no sound other than that of it splitting the air.  I distinctly remember seeing a slight vapor coming off the edges of it as it moved through the air at perhaps 350 mph.It passed out of my sight over the woodlot  at the left side of the field quickly, but I had seen it and gotten a very good look at it.  I didn’t tell anyone about it for more than 30 years.  I wish I had, but then I was the only one who saw it and at that age did not expect to be believed.We need to report these things, people.((NUFORC Note:  Witness does not indication location of sighting.  Date above is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58655.html](http://www.nuforc.org/webreports/reports/058/S58655.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [398](http://www.nuforc.org/webreports/reports/163/S163837.html)
-- [397](http://www.nuforc.org/webreports/reports/163/S163849.html)
-- [396](http://www.nuforc.org/webreports/reports/157/S157173.html)
-- [395](http://www.nuforc.org/webreports/reports/157/S157153.html)
-- [394](http://www.nuforc.org/webreports/reports/157/S157157.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
