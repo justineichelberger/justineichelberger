@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:46 on 25 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:46 on 25 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Cotulla (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately Work - Work minutes.</sub><blockquote><sub>Mysterious lights which seemed to have some circular movement from left to right and again right to leftClear night and bright moon was the description of the night sky, a light above the town appeared when all of a sudden the solid light broke up into multiple lights going from left to right and again from right to left this happened (3) three separate times and was followed which looked like a blink of a light (like an aircraft) at night went from right and then continued to go left at an unusual speed too fast to keep track of with binoculars.It was about (10) ten minutes later an employee asked what was going on as I described what went on, at that same time I saw a bright (red) light and and all of a sudden it happened again its like a trail of lights from (horizontal) left to right (3)three separate times at different areas top, bottom and to the left or something of that matter and again followed by this time (2) two aircraft lights which followed in the same direction and a few seconds later separated going different directions (the second encountered happened at a different location from a one a clock to a three o'clock position there were a total of five witnesses.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93076.html](http://www.nuforc.org/webreports/reports/093/S93076.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Salt Lake City (UT) reported seeing craft that fit the description of some 'Circle' over a period of approximately Several Hours - Several Hours minutes.</sub><blockquote><sub>Viewed circular UFO through binoculars.  It remained stationary more than an hour.  It was located at approximately 11:00 in the WSW sky, viewed between 1:00 and 2:00 PM MST.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128069.html](http://www.nuforc.org/webreports/reports/128/S128069.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [398](http://www.nuforc.org/webreports/reports/163/S163837.html)
-- [397](http://www.nuforc.org/webreports/reports/163/S163849.html)
-- [396](http://www.nuforc.org/webreports/reports/157/S157173.html)
-- [395](http://www.nuforc.org/webreports/reports/157/S157153.html)
-- [394](http://www.nuforc.org/webreports/reports/157/S157157.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
