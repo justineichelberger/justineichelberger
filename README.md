@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:39 on 24 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:31 on 25 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Austin (area) (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>my fiancee' and i were driving to her mother's house in hutto after work for a visit at about 11 o'clock at nigt. it was clear out, which made the lightning very noticable in contrast to everything else. my girlfriend was driving, and so i watched the lightning for about a minute before i realized how odd it was that it should be occurring at such regular and frequent intervals.  we drove faster so that we could watch it better. my girlfriend noticed that there were three or four planes circling it rather  closely for the duration of the event. when we arrived, i ran upstairs to get my girlfriend's 13 year old brother and his friends to come see it. one of his friends pointed out the fact that there was no sound coming from the lightning. after we watched for about ten minutes, my girlfriend and i decided to go drive after it to see what it would look like up clse.  we were able to get closer, and it was a large spherical area of sky, and the lightning was coming from the center of it so often that it was practically a ball of light.  the airplanes were still there, and they were small, crop-duster sized aircraft. we tried to videotape this happening, but the recorder did not have a light gauge that made it possible to record it. we parked for a while, and the lightning died down and finally stopped altogether. my girlfriend's older brother saw the same thing, and he told us about it about two weeks later.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04887.html](http://www.nuforc.org/webreports/reports/004/S04887.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Milan (MI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Rotating object, looked at first like a star. Rotating lights  of red, white, green.Object was very high in the atmosphere.  Looked at first like a star, but then we realized the lights changed colors - red, green, white.  After watching it closely you could tell that is was rotating, but not moving.((NUFORC Note:  Twinkling star??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44559.html](http://www.nuforc.org/webreports/reports/044/S44559.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/163/S163816.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164248.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164107.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163815.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163853.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
