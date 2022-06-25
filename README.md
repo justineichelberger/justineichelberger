@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:40 on 25 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:29 on 25 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Ocean City (MD) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Orange/Red Fire Ball Sighting at Ocean City MarylandThis sighting was on the boardwalk at Ocean City MD on June 26th 2012 about 8:30 pm.  A glowing orange/red object appeared over the beach around 6th street. There was no noise comming from the object and it did not seem to have a solid shape.  My 14 year old son saw it first and he called my attention to it.  We were on the boardwalk and the object was over the beach near the ocean.  We could not determine the distance between us and the object. There were people on the beach and the object looked like it was over their heads but they did not seem to see it. I belive the object was farther behind them.  The object was moving slowly upwards for about five minutes, then it stopped rising and went out over the ocean against the wind. We watched it for about another five minutes before it was out of our sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91889.html](http://www.nuforc.org/webreports/reports/091/S91889.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Man reports seeing bizarre sighting while aboard Flight #725 enroute from Denver to Portland.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00852.html](http://www.nuforc.org/webreports/reports/000/S00852.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [398](http://www.nuforc.org/webreports/reports/163/S163837.html)
-- [397](http://www.nuforc.org/webreports/reports/163/S163849.html)
-- [396](http://www.nuforc.org/webreports/reports/157/S157173.html)
-- [395](http://www.nuforc.org/webreports/reports/157/S157153.html)
-- [394](http://www.nuforc.org/webreports/reports/157/S157157.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
