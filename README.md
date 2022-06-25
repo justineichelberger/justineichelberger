@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:46 on 25 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:50 on 25 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Salt Lake City (UT) reported seeing craft that fit the description of some 'Circle' over a period of approximately Several Hours - Several Hours minutes.</sub><blockquote><sub>Viewed circular UFO through binoculars.  It remained stationary more than an hour.  It was located at approximately 11:00 in the WSW sky, viewed between 1:00 and 2:00 PM MST.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128069.html](http://www.nuforc.org/webreports/reports/128/S128069.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Dammeron Valley (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>Multiple lights spotted North East of Dammeron Valley.Laying in bed, unable to sleep.  Looking out window towards the North East (just to the east of pine valley).  Noticed, what I believed to be star (amber/orange in color), seemed to blink often and fade in luminosity.  Focused on it, (kept track of it between blinks).Eyes are open, notice that it seems to be moving to the west.  Prop head up/readjust, “star” drops towards the earth rapidly, and then ascends to its original position.Get out of bed, walk towards window, notice three lights - “star” i originally saw was brightest.  Three lights seem to be hovering, only occasionally move back and forth.  Eyes adjust, notice smaller lights making rapid movements across great distance around larger lights.Wake girlfriend up, ask her to verify what I’m seeing.  She notices first light, but from her perspective she’s able to see 3 additional lights that were obstructed from my POV behind a tree.  They are positioned true east from my position.  These lights are darting rapidly along the ridge of Pine Mountain (back and forth).After about 20 minutes all lights fade (approximately 2:15AM).  Noticed strange static triangular formation (6 stars) shortly afterwards (NNW), but was unable to determine whether or not this was a star formation that went unnoticed during the initial event.Commercial airliner passed in the vicinity just after I awoke girlfriend, heading to the south.  Appeared to be in foreground, but was too difficult to tell.Given the dead zone in the center of my eye, looking just slightly away from the brighter lights seemed to reveal a bluish light around objects.  Sometimes things appeared to “fly-off” or away from them.  These “fly off” objects sometimes spiraled around other lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147049.html](http://www.nuforc.org/webreports/reports/147/S147049.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [398](http://www.nuforc.org/webreports/reports/163/S163837.html)
-- [397](http://www.nuforc.org/webreports/reports/163/S163849.html)
-- [396](http://www.nuforc.org/webreports/reports/157/S157173.html)
-- [395](http://www.nuforc.org/webreports/reports/157/S157153.html)
-- [394](http://www.nuforc.org/webreports/reports/157/S157157.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
