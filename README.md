@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:43:34 on 25 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:28:29 on 25 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Malaysia (at a highway) () reported seeing craft that fit the description of some 'Light' over a period of approximately 151.0 - 151.0 minutes.</sub><blockquote><sub>Playing aroundAt that time, the sky is dark. My family and I were visiting my sister in a state in Malaysia. What that I could see at that time is only the highway lights. Suddenly, only one orange coloured light seems to be 'escorting' us. I realised it when it tries to overtake us (but the light are approximately far away) and then it stopped to wait for us and than start escorting us again. It still does that for maybe couples of time, and then 'zoop' with a speed for about 225 mph or less, it speeds and dissapear.((NUFORC Note:  Witness chooses to remain anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11133.html](http://www.nuforc.org/webreports/reports/011/S11133.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Newton Falls (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>1 large red orb going from north to south at approximately 9:45 p.m. on June 25th in Trumbull County, Newton Falls, Ohio.  No navigational lights, no noise</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128084.html](http://www.nuforc.org/webreports/reports/128/S128084.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [398](http://www.nuforc.org/webreports/reports/163/S163837.html)
-- [397](http://www.nuforc.org/webreports/reports/163/S163849.html)
-- [396](http://www.nuforc.org/webreports/reports/157/S157173.html)
-- [395](http://www.nuforc.org/webreports/reports/157/S157153.html)
-- [394](http://www.nuforc.org/webreports/reports/157/S157157.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
