@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:46 on 25 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:57 on 25 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Victorville (CA) reported seeing craft that fit the description of some 'Egg' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Blue bugish oval with insect like undercarage and leaning one side top knotBlue eliptical blimpie shape with red leaning to one side top wing like quail top not off the side. the underside has a hanging apperatus like a rocking chair bottom rocker that was a cream color or almost glow in the dark type color resembleing an insect like undercarrage. It first appeared to be an ultralight or car dealer balloon cluster but on further examination it looked like described. No noise could be heard I was close to my neighbors air conditioner motor was running. When it circles it looks thin with the top not leaning to one side. It covered the entire victorville area about 8 to 15 minutes and headed out east towards apple valley big bear. There was clouds and it was below the clouds in the valley.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51071.html](http://www.nuforc.org/webreports/reports/051/S51071.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Rough and Ready (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>column of flasshing red lights that became a triagle of red flashing light,moved to left then back to rightAs I usually do each evening just before retiring, I look at the stars out of my window.  This evening it was overcast and I couldn't see any stars.  As I was about to leave the window I saw a very large bright red flashing light, it wasn't like the usual airplane white light with smaller red one.  This flashing light soon became  a straight up and down line of red flashing lights.  I watched wonder what it could be,a satellite?  After watching it a few minutes it became  a triangle of flashing red lights, the same first column  in the same up and down position and the two other columns forming a triangle to the left.  It remained stationary for a minute and then slowly moved in a westerly direction.  I thought Oh Gosh that is a UFO, as I watched it slowly move to the left it was about to go out of my sight, I exclaimed out loud "Oh no! come back this way."  To my amazement it started back toward the direction it had just come from, all the while the large red lights are continuing to flash.  It returned to the starting point where I had first observed the light and stood still for a time.  The triangle then started to move away from me and slowly disappeared in a north West direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110671.html](http://www.nuforc.org/webreports/reports/110/S110671.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [398](http://www.nuforc.org/webreports/reports/163/S163837.html)
-- [397](http://www.nuforc.org/webreports/reports/163/S163849.html)
-- [396](http://www.nuforc.org/webreports/reports/157/S157173.html)
-- [395](http://www.nuforc.org/webreports/reports/157/S157153.html)
-- [394](http://www.nuforc.org/webreports/reports/157/S157157.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
