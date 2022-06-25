@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:07:31 on 25 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:01:13 on 25 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Savannah (GA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Slow moving object (like a helicopter) - bean of light coming out of bottom - disappeared suddenlyThe craft was flying slowly, like a helicopter. It made no noise, and a light was shining out of the bottom like a spotlight. Suddenly the point of light disappeared, and only a diffused light beam could be seen. Seconds later, this disappeared. It could have been a helicopter, but it was strange that it disappeared so abruptly, and there was no sound!((NUFORC Note:  We believe that the cluster of reports that appear her for the evening of Monday, June 25, 2001, were caused by the launch of an ICBM by the U. S. Navy from the Kennedy Space Center at approximately 2115 hrs. (EDT).  We are grateful to the FAA Military Liason office in Jacksonville, FL; the USAF 45th RANDS unit; and the Naval Operations and Testing Unit ("NOTU") for their assistance in our attempt to determine the cause of these reports.  A similar test was conducted by the USS West Virginia submarine off the east coast of Florida on March 07, 1998, which caused similar reports.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18214.html](http://www.nuforc.org/webreports/reports/018/S18214.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Yuma (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Massive  triangle reported  to Yuma county Sherriff office over Yuma, AZ. flying south to MexicoOn Saturday, June 25, 2005 at about 10:15p.m. I was looking south from my house, which is located 10 miles south of Yuma, AZ, when I looked up and saw 2 lights proceeding south. I then noticed a third light out in front of the other 2 lights.When my eyes adjusted, I realized I was seeing a triangle-shaped object. This was not a equal-sided triangle, but long pointed one. The sides of the triangle were about 3 times as long as the base of the triangle. I noticed the object appeared blurred, like it was oscillating or vibrating at a very fast frequency. The flight characteristics appeared jerky or out of focus all along the perimeter. When the object passed between me and some of the stars, the star light was blocked out. This was something I had never seen before.I am a disabled Navy Veteran and I was stationed on the aircraft carrier U.S.S. Coral Sea for almost 6 years and I have seen a lot of different types of aircraft. I live 5 miles south of a Marine helicopter and Harrier training base. There are 2 Proving grounds within 25 miles of my house; Yuma Proving Grounds and the Barry Goldwater Test Range. So, I have seen many types or aircraft, both fixed-wing and rotary types. I have never seen anything like this before.I will not take a guess on the altitude, speed, or distance but I had the impression this object was at a very high altitude.After about a minute of observing this object going south, it just faded from view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44647.html](http://www.nuforc.org/webreports/reports/044/S44647.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [398](http://www.nuforc.org/webreports/reports/163/S163837.html)
-- [397](http://www.nuforc.org/webreports/reports/163/S163849.html)
-- [396](http://www.nuforc.org/webreports/reports/157/S157173.html)
-- [395](http://www.nuforc.org/webreports/reports/157/S157153.html)
-- [394](http://www.nuforc.org/webreports/reports/157/S157157.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
