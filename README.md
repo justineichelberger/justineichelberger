@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:32 on 26 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:38 on 26 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Coventry (RI) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Driving down 95 south, coming home from a friend's, passing exit 6a, I took a picture with my phone of the moon because it was eluminingating, at exit 6 a ufo was coming right above me it was about the size of a car at first I thought it was a giant drone with lights.  I took a picture of it missed my exit and when I finally got home, over a hour had passed, and it's only a 25 minute ride I always watch my odominador</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119802.html](http://www.nuforc.org/webreports/reports/119/S119802.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Camborne (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A large, well-defined glowing light. Cornwall-UKThe large, well-defined glowing light, heading NNW at a steady speed over fields at a distance of around 300 yards away from me..  The light did not change in direction and was low enough to disappear behind a bunch of trees which were closer to me.I would have shouted to my partner in the house but i knew this was going to be a short viewing due to its speed and altitude.This is not my first sighting in this area.  Whilst camping with mates in our local woods we witnessed the same kind of object.  Traveling above us, once again really low, barely above the tree line, we all assumed it was a helicopter until we realized there was no sound except for a crackling bonfire.I am an amateur astronomer and i have never seen stars or planets behave in this way.Keep your eyes on the skies brothers and sisters!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99089.html](http://www.nuforc.org/webreports/reports/099/S99089.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/164/S164111.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163839.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163841.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163861.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
