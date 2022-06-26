@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:36 on 25 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:45 on 26 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>The objects I saw were beyond our atmosphere.  The size of the cigar object had to be huge for me to see it at that distance.I observed a silver ball traveling from the  North to Southwest on a clear bright sunny morning.I watch this object moving what appeared to be slow going in a straight line. And somewhat out there at a distance. Because normal aircraft was traveling well below this small silver ball.  A military jet pasted threw this area and well below with a vapor trail.  Has I continued to watch,  then I saw IT.  In the background and way further out was a cigar shaped object,  following the silver ball. This second object was dark in color as it appeared against the bright blue morning sky.  Then the small silver ball suddenly stopped. Seconds passed.  I watched and waited.  Then the silver ball began to move.  Not backwards nor in a continueous direction had it was previously.  But was heading towards the mother ship. I continued to watch till the silver ball I lost sight of. And also the larger object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23554.html](http://www.nuforc.org/webreports/reports/023/S23554.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Leicester (MA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Craft seen zooming through the air at the blink of an eye, looked like a backwards shooting star.Last week, I saw something that flew at the blink of an eye. It looked weird but I didn't put much thought into it because I thought it was just a shooting star.Last night, I saw it again on the same spot.  This had me thinking.  This craft looked like a bright star that was still in the sky.  Out of no where, it flew away so quick.  Like a zap or something.  This object had a tail of light facing the direction it was heading, so the light was in front of the craft.  When looking at a shooting star, the tail of light is behind the star, facing the opposite direction of where it's heading.It was so weird, this thing past so quick, like at the blink of an eye and then disappeared.  I have never seen anything like this in my life.  I don't know how to explain this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119786.html](http://www.nuforc.org/webreports/reports/119/S119786.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [398](http://www.nuforc.org/webreports/reports/163/S163837.html)
-- [397](http://www.nuforc.org/webreports/reports/163/S163849.html)
-- [396](http://www.nuforc.org/webreports/reports/157/S157173.html)
-- [395](http://www.nuforc.org/webreports/reports/157/S157153.html)
-- [394](http://www.nuforc.org/webreports/reports/157/S157157.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
