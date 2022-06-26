@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:39 on 26 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:43 on 26 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Korbel (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright flashing white/red lights over our farm house.  Didn't go outside, but they flashed randomly, completely silently and seemed to move to the valley over the hill and just when we thought it was gone, it flashed over the house again moving without pattern in the sky.  So bright it looked like lighting and it's a perfectly dark moonless night.  Light moved from NE coming from ocean to 23 miles inland heading SW.  Elevation about 2400.((NUFORC Note:  Source of the report elects to remain anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134755.html](http://www.nuforc.org/webreports/reports/134/S134755.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Detroit (MI) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I saw a bright blinking white light cross the sky low enough for me to see that it was diamond shapedI was thinking about the report that I just made, and waiting on my plate of barbecue to warm in the microwave, while I stood on the porch I saw a blinking light.  It was unusual since it blinked in an abnormal pattern. It was brightly blinking.  A it traveled across the sky I stepped off of my porch tp watch this object cross the sky in a due north western direction. As it got closer to me I noticed that it didn't look nothing like an airplane.  It was diamond shape.Airplanes usually have those red and blue lights flashing on them. This was a continuous white flashing light crossing the sky. I watched it for as long as I could and even walked over towards my neighbors house to keep it in sight. It was moving fast unlike the two objects I saw earlier. For as low as it was there was a slight sound to it that should've been louder like the airplane flying over me now. at 23:34 heading into the eastern direction. I can hear that plane loud and clear. But the objec! t in question I could barely even hear and it was lower than the one heading east. They didn't even blink the same. The object in question was very bright. It blinked rapidly with only white lights. I don;t know what it was, but it wasn't a normal airlines plane. And it wasn't no meteorite either. And if you say it was a weather balloon then I'm a monkey's uncle. That's how serious I am.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90141.html](http://www.nuforc.org/webreports/reports/090/S90141.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/164/S164111.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163839.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163841.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163861.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
