@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:45 on 26 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:26 on 26 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Leicester (MA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Craft seen zooming through the air at the blink of an eye, looked like a backwards shooting star.Last week, I saw something that flew at the blink of an eye. It looked weird but I didn't put much thought into it because I thought it was just a shooting star.Last night, I saw it again on the same spot.  This had me thinking.  This craft looked like a bright star that was still in the sky.  Out of no where, it flew away so quick.  Like a zap or something.  This object had a tail of light facing the direction it was heading, so the light was in front of the craft.  When looking at a shooting star, the tail of light is behind the star, facing the opposite direction of where it's heading.It was so weird, this thing past so quick, like at the blink of an eye and then disappeared.  I have never seen anything like this in my life.  I don't know how to explain this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119786.html](http://www.nuforc.org/webreports/reports/119/S119786.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Granville Summit (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Three silent orange streaks, two in front, one behind traveling at a high rate of speed in the same path.Three orange streaks, two ahead of the third, heading in a southern path moving at a very fast speed, but no sound at all. It was clear with a partial bright moon behind where I saw the streaks. I don't beleive in UFO's, but I can't explain whay I saw!((NUFORC Note:  Possible sighting of re-entering space debris.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37803.html](http://www.nuforc.org/webreports/reports/037/S37803.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/164/S164111.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163839.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163841.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163861.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
