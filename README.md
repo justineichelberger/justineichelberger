@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:44:49 on 26 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:29:11 on 26 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Greenville (IN) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>3 spoke UFO, blue and white lights, muted jet sound heard when floating directly overheadThree spoke design (Mercedes emblem without outside circle) white lights on end of each spoke end and in middle, blue light(s) between center white and spoke end white light.  White lights got brighter and dimmer as I approached, blue lights shut down except for one on each spoke near end white lights.  UFO floated over my stopped convertible (top down)  and over trees out of my sight, turned car around and could not locate it again, full moon cloudless sky.  UFO make hushed Jet sound, could only hear it as it passed overhead.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76103.html](http://www.nuforc.org/webreports/reports/076/S76103.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Burlington (VT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Horizontal flaming metior going accross the sky.It was 01:30 on June 26, 2009 when I on Pine st. and Bank St. when I look up and saw what looked to be a metior going in a horizontal way about  5' over the buildings.  It looked like it had a flaming tail and it keeped going in a straighte line.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71602.html](http://www.nuforc.org/webreports/reports/071/S71602.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/164/S164111.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163839.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163841.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163861.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
