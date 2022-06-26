@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:43 on 26 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:35 on 26 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in San Clemente (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>I was driving the freeway 5 south when I saw big lights in form of triangle very large so I got to my house and I was able to take couple pictures .((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110672.html](http://www.nuforc.org/webreports/reports/110/S110672.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Batavia (IL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Orb sited under cloud,disappears, then a minute later see it falling out of the sky like a metorite, jet chasing it.On 06/26/10 at 15:22 hrs, I observed a ufo. I was laying out at the pool, with friends, I was looking at the clouds, wondering if it was going to rain, patchy cloud cover,with a giant clear blue sky in center of clouds.  I noticed one cloud had to holes in it, and could see sky through them, as I went from cloud to cloud just looking at how wonerful the sky was.  I noticed a brown comtrail heading east,that was well above the clouds, I followed the comtrail to another cloud, and as my eye met that cloud an Orb appeared from nowhere under the clouds, it was grey and spherical in shape it was moving west at a speed of an airliner, it seem to spin and catch the sun it went from dull grey to shinny metalic,with a gold like rim on the forward front of sphere,then it became pure white, it blinked one time a larger whitness, then I thought to myself it see's me,maybe 5 seconds I saw it, it traveled apx 1 mile, and just then it disappeared into the pure blue sky.Well I told my friend sitting next to me I just saw a ufo, he said yeah right, well as he was cracking jokes, I kept looking up to the sky, about 1 minute latter in the open blue sky, away from all the clouds, what now appears to be a metorite stars to fall towards earth,apx 100,000 ft, I yell to my friend thats no jet, and he yelled hell no, it's moving way to fast. It was a pure white short comtrail, I noticed a redish point small like a pixtel, as we watch it free fall, it turned off the comtrail for a second then back on, leaving a dash in the sky, it's comtrail maybe a mile long, I thought maybe it's a metorite, but it leveled off and went west, 50000 ft, about a minute later, as were watching, a jet flying so high and fast had same brown color comtrail as I observed earlier,now was chasing after this object,west, but the object had to be 50 miles if not more ahead of him. I watched ufo until I could no longer see tail, it faded into the blue sky, but I would guess it w! as in Iowa by then.The comtrail from jet was 10miles long,but this orb, its tail was very short and pure white.I know what I saw, I am self taugh in many things, I have studied ufo's and never, ever wanted to see one.  I am reporting this because it's my duty as an American citizen, I swear to what I am saying to be true.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75960.html](http://www.nuforc.org/webreports/reports/075/S75960.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/164/S164111.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163839.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163841.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163861.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
