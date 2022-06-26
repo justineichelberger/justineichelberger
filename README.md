@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:46 on 26 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:21 on 26 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Flathead Lake (MT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Saucer w/colored lights underneath shooting colored lazersWe were camped at the State Park on Flathead Lake and woke up around 3:30 AM to see a distinct saucer shaped noiseless craft hovering about a mile across the lake (East).  It would only move on right angles and underneath were large circular colored lights that emitted colored lazer beams that would sparkle when they reached the ground or sometimes in the air.  Watched this saucer move around for about an hour and fell asleep about 4:30. Woke at 5:30 and it was gone.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83288.html](http://www.nuforc.org/webreports/reports/083/S83288.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Dripping Springs (AZ) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>My father, mother, and I were traveling north on Arizona HWY 77, about 20 miles from Winkelman, AZ.  As we climbed the to the Pinal mountain pass, we saw a series of seven bright lights aproachinv from the southwest.  There were flying in erratic patterns, circling and zooming around each.  They were flying only a couple hundred feet above us.  We watched wondering what they were.  As we turned a bend around a rock face, we lost sight of them.  Then I saw them come flying through a canyon just off the southeast side of the highway, and they accelerated towards the Pinal Mountain peaks, and disappeared on the other side.  The lights were blue like LED lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147459.html](http://www.nuforc.org/webreports/reports/147/S147459.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/164/S164111.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163839.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163841.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163861.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
