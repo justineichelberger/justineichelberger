@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:21 on 26 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:46 on 26 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Dripping Springs (AZ) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>My father, mother, and I were traveling north on Arizona HWY 77, about 20 miles from Winkelman, AZ.  As we climbed the to the Pinal mountain pass, we saw a series of seven bright lights aproachinv from the southwest.  There were flying in erratic patterns, circling and zooming around each.  They were flying only a couple hundred feet above us.  We watched wondering what they were.  As we turned a bend around a rock face, we lost sight of them.  Then I saw them come flying through a canyon just off the southeast side of the highway, and they accelerated towards the Pinal Mountain peaks, and disappeared on the other side.  The lights were blue like LED lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147459.html](http://www.nuforc.org/webreports/reports/147/S147459.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Texarkana (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I saw this object once before at night from the side and app. 1/2 mile away about 6 months ago, but it was right over head this time (1,000' or less) in day light! It's huge and it's silent!!! I beleive it to be a secret aircraft or a real UFO. I'm familiar with milary a commercial aircraft shapes and behavier what i saw Thursday June 26th 2008 is the oddest shape craft i've ever seen. It looked like a B-1 bomber and an F-16 rammed together. The sun was setting but there was plenty of light so could clearly see the shape and get an idea of it's size. The front of the craft had a standard 'high speed' fighter jet shape swept wing (30'wide) without a tail section a very long fuesalage and a large main swept-wing. I would estimate the overall length to be 90'-100'(feet), and the wing-span of the main wing to be 80'-90'(feet). The color was dark non-refective gray almost ceramic looking. This craft was moving very slowly towards the South East at around 8:30pm. I watched it for about 3 minutes then it faded out. App. 60 minutes later it came back from the South East on a North Western heading moving much faster but still silent. By this time the sky was dark and could clearly see lights on it. This craft was totally 'silent' and it had a delta (triangle shape) pattern of cream colored lights on the front half of the craft, with duller, dimmer cream colored lights on the tips of the main wing. I had seen this craft once before after dark from the side and i could tell that the front delta pattern of lights were slightly lower and a little brighter than the others. All of the lights on this craft are constant, they don't 'blink' and there are no traditional aircraft green or red running lights. This craft is odd, it's huge and it's silent!!!. I beleive a few other people in this area ( Texarkana, Hooks, Lake Wright Patman Texas,: Foreman, Fouke Arkansas, and Idabel Oklahoma.) have seen it but only after dark. I know some have reported as a UFO.  ???((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64868.html](http://www.nuforc.org/webreports/reports/064/S64868.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/164/S164111.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163839.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163841.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163861.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
