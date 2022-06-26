@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:31 on 26 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:41 on 26 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Republic (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Light in sky moving in different directions changing colors.Looking to the north of Republic, MO.  Ball of light that sat still for about 7 min.  Then it started moving away, while moving away slowly, it was changing colors from red to white.  Then it seems to get lower in the sky.  I only saw one light.  The shape was circle.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75961.html](http://www.nuforc.org/webreports/reports/075/S75961.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Filley (NE) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>This object lit up like a miniature sun several miles across and then shot off into space.While fishing at a pond north of Filley Nebraska we observed a strange light in the sky.  This light was very high and far away to the northeast.  Suddenly the light expanded to a very bright ball that must have been several miles across and looked like a miniature sun.  This only lasted about 10 seconds.  In the center of the light was the small lighted object which then headed east and up at a very high rate of speed and was gone from sight in 2-3 seconds.Three professional people observed this object. No drugs or alcohol were involved.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70754.html](http://www.nuforc.org/webreports/reports/070/S70754.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/164/S164111.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163839.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163841.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163861.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
