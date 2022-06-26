@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:49 on 26 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:40 on 26 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Korbel (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright flashing white/red lights over our farm house.  Didn't go outside, but they flashed randomly, completely silently and seemed to move to the valley over the hill and just when we thought it was gone, it flashed over the house again moving without pattern in the sky.  So bright it looked like lighting and it's a perfectly dark moonless night.  Light moved from NE coming from ocean to 23 miles inland heading SW.  Elevation about 2400.((NUFORC Note:  Source of the report elects to remain anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134755.html](http://www.nuforc.org/webreports/reports/134/S134755.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Port Townsend (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright white orb in mid afternoon while flying kites.On June 26th, my husband, daughter and myself went to Ft. Warden in Port Townsend, WA, to fly kites.  My husband and daughter were flying two separate kites and I decided to lay on the grass directly under them and take photos because the sky was amazing!  The cloud formations and sun would make for a stunning bavk drop.  I took multiple pictures within a 5 min period and did not see the white orb like structure until a couple days ago when I finally looked back at my photos I had taken.  Out of 23 photos 6 photos show a white orb to the right of our kites.  We did not see them at the time of taking pictures because quite frankly the sun was blinding when I snapped them.  I showed them to a fellow we met at the fireworks show on the 4th and he was blown away and a follower of this site and insisted I submit them to be debunked.  If you notice in the pictures that I'm sending in exact sequence as they were taken, they show up in different locations slightly.  (I was s! hooting in a NW direction with my IPhone)((NUFORC Note:  Objects in photos are camera lens flares.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128332.html](http://www.nuforc.org/webreports/reports/128/S128332.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/164/S164111.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163839.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163841.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163861.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
