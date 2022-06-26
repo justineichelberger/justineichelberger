@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:45 on 26 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:31 on 26 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Albany (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 orange moving lights in the sky, not aircraft.((name and address of witness deleted)) Second Street ((deleted)) Albany, New York 12206  ((telephone number deleted))  	About me:  I am a former ((deleted--military)) trained and with other skills including observation.  I later reenlisted in the ((deleted)) and stood watches looking for anything approaching and around the ships I was on at sea; this was in the water and air.  After the military, I trained as a civilian pilot, but stopped my flight school during 2001 on 9/11.  I watch the sky and know what I see.	On 6/26 at approximately 2100 hours, I was southbound in Albany on route 787 on the ramp to interstate I- 90’s, the arterial.  About 30 degrees north of the horizon and due south I saw three orange pinpoint spots in the sky.  This was different from normal air traffic. There were no standard aviation lights which are green, white, and red.  The spots went from two and one behind at a third.  They were traveling at a high rate of speed and not on a normal flight path, usually in this part of the sky in the landing path to Albany Airport.  They were far in the distance.	Their path was from east to west.	I was into a turn and couldn’t keep my eyes on them due to traffic.  When I was out of traffic they were gone.  They were not stars there were two planets in the low sky to the west that might be Venus and Jupiter, maybe Mars and they were white in color.  I saw no stars. This was not glare or a reflection.These were moving and orange.  The first two were about five degrees apart and the third back at ten degrees from the second and a little lower in the sky maybe by one or two degree.	I do not believe they were any form of meteor (falling stars) because there was no trail or streak and they weren’t bright enough.  They were traveling at the same rate of speed paralleled to the horizon.((name of witness deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119817.html](http://www.nuforc.org/webreports/reports/119/S119817.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Republic (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Light in sky moving in different directions changing colors.Looking to the north of Republic, MO.  Ball of light that sat still for about 7 min.  Then it started moving away, while moving away slowly, it was changing colors from red to white.  Then it seems to get lower in the sky.  I only saw one light.  The shape was circle.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75961.html](http://www.nuforc.org/webreports/reports/075/S75961.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/164/S164111.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163839.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163841.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163861.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
