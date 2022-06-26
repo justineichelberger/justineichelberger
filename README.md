@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:01:56 on 26 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:43 on 26 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Toronto (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>The same two objects of light reappeared twice, morning and evening in the same day.I saw two star-like lights both twice in the same day. Once at 11am, than again at 8pm. At 11am, they were moving inconspicuously with the clouds, slightly moving back and forth around each other, moving East. Later at 8pm, they both re-appeared in the West, moving back and forth and up and down. They appeared with "wish" or /pre-dandelion plant-like objects, but I quickly noticed the far distance between the two, and thought that the ufos were trying to distract possible viewers. Than one of them increased in size and brightness, than a short time later reduced itself to its original size. A short time after that, they both disapeared into the East.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37807.html](http://www.nuforc.org/webreports/reports/037/S37807.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in San Clemente (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>I was driving the freeway 5 south when I saw big lights in form of triangle very large so I got to my house and I was able to take couple pictures .((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110672.html](http://www.nuforc.org/webreports/reports/110/S110672.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/164/S164111.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163839.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163841.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163861.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
