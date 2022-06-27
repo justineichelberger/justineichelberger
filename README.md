@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:44 on 27 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:39 on 27 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Elko (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>strange light in the night skyI was pulling carts in garden center at 3:50am and I saw what was a dim light, appearing to be satillite in nature but after watching it and i thought it would continue straight on but veered sharply away westerly direction toward jackpot Nevada I just looked for a minute and shrugged my shoulders and went back to what i was doing, From garden center Walmart I could see loads of stars at this time of morning, so one indeed going in a straight line then suddenly changing direction is puzzling at best</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64162.html](http://www.nuforc.org/webreports/reports/064/S64162.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Monterey (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>two lights with a glow around them twenty feet in front of a carI work nights at a collage and we get off work at 4:30 in the morning, at 3:20 on wed. morning I walk out of our main office building and my buddy that I work with pulls up in his car and stops, his headlights are on he rolls down the passener window and we start talking. A minute later he says what is that? I say where? he says in front of the car, and about twenty feet in front of the car were two lights shaped like two cylinders about three inches long with a glow around them and one on top of the other with about two inches between them. I start walking towards them with my arm outstrethed trying to touch them the lights did not move they were completely still until I seemed to get too close and they disapeared and in a blink of an eye and they were ten feet away. I walked towards them again trying to touch them and they disapeared again and were ten feet away again. My buddy got out of the car and laughed and said, it must be a reflection off of my glas! ses, and I said but I can see them too and in a blink of an eye they were off onto the drivers side of the car and in a flash they were in front of us again and in a blink of an eye they were off on the drivers side of the car again and then they were gone. I know this was not a bug or insect because bugs and insects are not in two pieces, they do not light up and stay motionless they fly, not disapear and reappear ten feet away. The only thing I have ever seen that moves as fast as these things did is a hummingbird and this was not a bird, a hummingbird will move even while staying in one place and they are not in two pieces and they do not light up. I don't know if this was a small UFO but, I have never seem anything as strange or move as fast as these things did. When you looked at these lights you were mesmerized you could not take your eyes off of them, they looked like a hologram but they were very real.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90157.html](http://www.nuforc.org/webreports/reports/090/S90157.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/163/S163826.html)
-- [319](http://www.nuforc.org/webreports/reports/163/S163831.html)
-- [318](http://www.nuforc.org/webreports/reports/163/S163867.html)
-- [317](http://www.nuforc.org/webreports/reports/163/S163830.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163835.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
