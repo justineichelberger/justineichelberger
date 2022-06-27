@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:47 on 27 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:41 on 27 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Live Oak (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Red and green lights about trees 100 yards from houseAbout 100 yards from my house, there was red and green lights flashing right above trees. It was hovering for about 2-3 minutes, then it slowly lifted up and flew away.  It was making a weird noise and was pretty large in size.  I could not see the shape or anything, however.  My dogs started barking and were acting weird.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128101.html](http://www.nuforc.org/webreports/reports/128/S128101.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Vista (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2 hrs. - 2 hrs. minutes.</sub><blockquote><sub>Oval, spotlight, UFO or UFOsObject was seen in the Nothern sky, there could have been a possible number of one to three crafts in the area, they were low to the ground when first sighted and seemed to shine a red light onto the ground of the surrounding hills, they were aprox. 160-300 feet above the ground and then began to slowly decend to the North and disapear into the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51165.html](http://www.nuforc.org/webreports/reports/051/S51165.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/163/S163826.html)
-- [319](http://www.nuforc.org/webreports/reports/163/S163831.html)
-- [318](http://www.nuforc.org/webreports/reports/163/S163867.html)
-- [317](http://www.nuforc.org/webreports/reports/163/S163830.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163835.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
