@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:48 on 27 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:47 on 27 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Roswell (GA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Very high speed fly over.No sighting, rather something flew over my house at a VERY HIGH rate of speed without engine noise.  The wind noise was piercing and woke my wife and I up out of deep sleep at 3:17 AM.  It startled us big time and we both asked "what the hell was that"...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141955.html](http://www.nuforc.org/webreports/reports/141/S141955.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Live Oak (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Red and green lights about trees 100 yards from houseAbout 100 yards from my house, there was red and green lights flashing right above trees. It was hovering for about 2-3 minutes, then it slowly lifted up and flew away.  It was making a weird noise and was pretty large in size.  I could not see the shape or anything, however.  My dogs started barking and were acting weird.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128101.html](http://www.nuforc.org/webreports/reports/128/S128101.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/163/S163826.html)
-- [319](http://www.nuforc.org/webreports/reports/163/S163831.html)
-- [318](http://www.nuforc.org/webreports/reports/163/S163867.html)
-- [317](http://www.nuforc.org/webreports/reports/163/S163830.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163835.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
