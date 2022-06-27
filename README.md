@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:05:45 on 27 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:38 on 27 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Broxburn (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>These were not craft they were two bright flashes lasting between 30 seconds and 1 minute they equaled mars in brightness and sat one on top of each other with a small gap.  not satallites not iridum flares.  Non moving at an elevation of 30 degrees and due south.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37800.html](http://www.nuforc.org/webreports/reports/037/S37800.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Dripping Springs (TX) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>An oval, chartreuse and white, very bright object moving from south to east parelling the horizon with a long, bright tail.In the southeastern sky there was an egg-shaped, bright chartreuse green object with a very bright white halo that was thin in front and forming a thick, single contrail to the back that extended a long distance across the sky. It moved very rapidly parallel with the horizon from south to east and disappeared behind a large thunder storm cloud. It did not reappear on the other side of the cloud. The duration of the event was only a few seconds. The light emitted by the object was greater than that of a full moon and lit up the bedroom. A parrot screamed from another part of the house having been awakened by the bright light. The residence is in a remote, country setting with no street lights or nearby house lights or through roads. It almost seemed like a meteor except that it was a relatively large bright green oval and moved across the sky parallel to the ground as opposed to intersecting it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37821.html](http://www.nuforc.org/webreports/reports/037/S37821.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/163/S163826.html)
-- [319](http://www.nuforc.org/webreports/reports/163/S163831.html)
-- [318](http://www.nuforc.org/webreports/reports/163/S163867.html)
-- [317](http://www.nuforc.org/webreports/reports/163/S163830.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163835.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
