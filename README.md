@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:49 on 27 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:54 on 27 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Basingstoke (UK/England) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>bright red fireball flew across the sky at high speedAs I stood in my garden I saw a glowing bright red fireball shape flew across the sky at very high speed  it was very low but as it proceeded across the sky it rose and shoot off over the houses opposite and banked to the right  As this object moved past us its colour changed to a light yellow and slowly became smaller before eventually leaving our sight</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75955.html](http://www.nuforc.org/webreports/reports/075/S75955.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Eugene (OR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I walked outside to smoke a cigarette and mess around on my cell phone when out of the corner of my eye I seen a massive fireball falling to the Earth it was bright red orange with a blue outline I waited to see if I could hear a sound if it hit the Earth but nothing came seemed to just disappear over the tree line in the Santa Clara area of Eugene I was looking West near Beltline I've never seen anything like it but it shocked me and it seemed too massive to be a comet or meteor</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128089.html](http://www.nuforc.org/webreports/reports/128/S128089.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/163/S163826.html)
-- [319](http://www.nuforc.org/webreports/reports/163/S163831.html)
-- [318](http://www.nuforc.org/webreports/reports/163/S163867.html)
-- [317](http://www.nuforc.org/webreports/reports/163/S163830.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163835.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
