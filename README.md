@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:41 on 27 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:14:34 on 27 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1963, an anonymous witness in Mansfield (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>It was dark, and my sister and I heard a low humming deep sound. She was ,eight,I was six. This wasnt our first time hearing the humming low roar soft sound. My mother said to ignore it,but we insisted on her to open the door, to prove to her, again, what was (is) out there. When she opened the door she, feel with astonishment, against the the door. See, I said,I was calm, but my sister wasn't.The hover,over the roof,no wind, but a low rumblel noise,huge light,under neath.It dropped off two people in the neigber hood.One adult, and one teenager.Both on either side of subdivision.He cried out, saying where am I, and she screamed, running towards her house.My mother walked him home, My sister and I knew theyll be back, again.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53932.html](http://www.nuforc.org/webreports/reports/053/S53932.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Trenton (Hamilton Township) (NJ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>The craft hovered over a neighbors home.The object was  circular, dark and the bottom of the craft appeared to be hollowed out or scooped out and dark.  It appeared to have 3 visible dark windows at the top and made no sound at all.  Only one craft was observed. The observer is a professional and does not wish to be inplicated in any investigation for fear for her position. 'She is a ((deleted)) for a ((deleted))..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04184.html](http://www.nuforc.org/webreports/reports/004/S04184.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/163/S163826.html)
-- [319](http://www.nuforc.org/webreports/reports/163/S163831.html)
-- [318](http://www.nuforc.org/webreports/reports/163/S163867.html)
-- [317](http://www.nuforc.org/webreports/reports/163/S163830.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163835.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
