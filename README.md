@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:14:34 on 27 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:02:33 on 27 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Trenton (Hamilton Township) (NJ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>The craft hovered over a neighbors home.The object was  circular, dark and the bottom of the craft appeared to be hollowed out or scooped out and dark.  It appeared to have 3 visible dark windows at the top and made no sound at all.  Only one craft was observed. The observer is a professional and does not wish to be inplicated in any investigation for fear for her position. 'She is a ((deleted)) for a ((deleted))..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04184.html](http://www.nuforc.org/webreports/reports/004/S04184.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Gresham (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately ? minute(s) - ? minute(s) minutes.</sub><blockquote><sub>Clear night & sky - no other aircraft.  Saw strange lights in NE not like regular aircraft. Am trucker, kept catching glimpse of lights thru trees as driving east. Not much traffic.  Looked over toward trees just as the bottom of the aircraft turned down to face me with one corner, just across the lanes of the westbound freeway.  Huge, silent w/laser type red rays emitted from opening that went deep inside craft. I could have parked my truck in that opening with a 2-3 others. Never heard anyone discribe one this close, nor the "lasers" from nose before. This is not my first UFO - but it was definately of the "Closest" Kind and felt ominous, not friendly as if trying to intimidate - following my movement in a slow turn (I was almost at a crawl by then)No other traffic. Then it slowly turned to the west and I could only make out the big dark triangular shape - no lights, or sound but it was out west of Portland's PDX in no time. More/next night and one month later. I couldn't get your number from the Seattle operator at the time - I tried when I got home.  They are out there often, but have lights in the shape of an airplane turned on underneath so you can barely make out the triangle shape against the sky, for the brightness of those lights. They always are headed West,NW.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11928.html](http://www.nuforc.org/webreports/reports/011/S11928.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/163/S163826.html)
-- [319](http://www.nuforc.org/webreports/reports/163/S163831.html)
-- [318](http://www.nuforc.org/webreports/reports/163/S163867.html)
-- [317](http://www.nuforc.org/webreports/reports/163/S163830.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163835.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
