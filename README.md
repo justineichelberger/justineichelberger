@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:35:35 on 27 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:19:39 on 27 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Rockville (MD) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Triangular object silhouetted against moon - digital photographPhotographing moon with Fuji S1 Pro digital camera and 1000mm f/11 Mead mirror lens. Took a series of perhaps ten photographs - two show the anomalous shape. I heard no sound, in fact I didn't even see the object until I downloaded the images to my computer. The object has moved to the far edge of the moon in the second image, which was taken approximately 30 seconds after this one.((NUFORC Note:  We presume the witness means June 27th, 2001, and we have changed the date here.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18226.html](http://www.nuforc.org/webreports/reports/018/S18226.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Mamaroneck (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>UFO sighting in June 2014As I went to take out my dog in my backyard, I noticed an object floating in the sky, stationary in a location known to have no lights or anything like that should be in the area.  It was about 300 to 500 meters away from my location.  I took two pictures one at 00:58 and 01:00 hours.  Around 01:30 the object was not in the area.  At first, I thought the objects were construction lights by the train tracks but the UFO wasn't even close to the tracks.  There are many white lights on the UFO with a hint of blue on top of the oval shape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116454.html](http://www.nuforc.org/webreports/reports/116/S116454.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/163/S163826.html)
-- [319](http://www.nuforc.org/webreports/reports/163/S163831.html)
-- [318](http://www.nuforc.org/webreports/reports/163/S163867.html)
-- [317](http://www.nuforc.org/webreports/reports/163/S163830.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163835.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
