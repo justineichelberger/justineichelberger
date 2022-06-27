@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:46 on 27 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:30:05 on 27 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Union (MO) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A red glowing craft spotted over Union.A glowing craft of red light moved slowly across the sky at low altitude (below the clouds) from the south to the north just west of Union, Mo.  When the craft passed our house with no sound.  It continued north for a very short time, then it disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110716.html](http://www.nuforc.org/webreports/reports/110/S110716.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Missoula (MT) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>fastest craft must be hugestanding out side our hotel room smoking a cigg.before we sleep,the hotel is to our back and to the left was a ridge or mountain i think and the moon was near entering the well foud out the moon was up any way from the left of the sky i spoted a s-lite well it was not and franticly trying to get my friend to see it he spotted it ,started as bright s-lite ,think it my have mbeen moving slow when it cought my eye ,well it was super fast,crazeist thing out many awy inspireingthings ive seen !!!!????????sorry.. moving acrossthe sky fast fast fast arround or before mid sky abbout 5 o-clock from zienth it took the shape of a bright gold triangle and sort of a flash or somthing there it is .allmost glowing but more moon lit and some srt of heat distortion w/vopor trails out of the atmosphere,closet resembleance is the space shuttle on tv when srb sepp. occ. any way it hard to discribe all this and grasp what happend in less than 4or5sec. for some reason we bolth got a strong bird impreasion. ithad entered or somthing and i also seemed it may have rolled over ?seeming to wabble a little the prophile was falcon shape,head only,then rotated looking like a hunched over bird?????all wile on same path and speed but that half second we actually saw IT it like zoomed in i got the impression it looked at us because changing how it did and the rotation seemed to pause and so visible for that fraction it was gone .triangle sattlelite horizon wow((NUFORC Note:  Witness indicates the event occurred on June 27, 2004.  Hence, we do not know the date of the incident.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18599.html](http://www.nuforc.org/webreports/reports/018/S18599.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/163/S163826.html)
-- [319](http://www.nuforc.org/webreports/reports/163/S163831.html)
-- [318](http://www.nuforc.org/webreports/reports/163/S163867.html)
-- [317](http://www.nuforc.org/webreports/reports/163/S163830.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163835.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
