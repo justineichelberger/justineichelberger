@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:38 on 27 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:01:31 on 27 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Dripping Springs (TX) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>An oval, chartreuse and white, very bright object moving from south to east parelling the horizon with a long, bright tail.In the southeastern sky there was an egg-shaped, bright chartreuse green object with a very bright white halo that was thin in front and forming a thick, single contrail to the back that extended a long distance across the sky. It moved very rapidly parallel with the horizon from south to east and disappeared behind a large thunder storm cloud. It did not reappear on the other side of the cloud. The duration of the event was only a few seconds. The light emitted by the object was greater than that of a full moon and lit up the bedroom. A parrot screamed from another part of the house having been awakened by the bright light. The residence is in a remote, country setting with no street lights or nearby house lights or through roads. It almost seemed like a meteor except that it was a relatively large bright green oval and moved across the sky parallel to the ground as opposed to intersecting it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37821.html](http://www.nuforc.org/webreports/reports/037/S37821.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in East Amwell Township (NJ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>the craft seemed to float parallel to the hills very very slowly and at a constant speed then it seemed to turn or "widen" so that one of the flatter sides was visible. then it became very bright. so i am fit to assume that there were many bright lights on that side of the craft. then it proceeded to go behind the trees.Upon first sighting of the huge light, it looked like a large lit ball going westward in the sky above the Sourland Mountains.  After calling my 15 yr old daughter and getting a pair of binoculars, we took turns looking at the craft in the sky as it floated or slowly moved along the tree tops.  Then, before it came to a larger group of trees it seemed to turn south, still at the tree tops, and away from our view.  As it turned away, the shape of the craft changed from an oval with a bright, almost gold, lite in the center, to a more concave shape which we lost in the trees as it went south or fell slighty in the sky. Self-employed, my husband owns his own Mechanical Contracting business (he was out-of-town, called him by phone) college educated, two children, oldest attends an ivy league college, youngest (the 15 yr old, also witnessed) attends an exclusive prep school, a strong Christian family.  Own our home from which we saw the craft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04131.html](http://www.nuforc.org/webreports/reports/004/S04131.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/163/S163826.html)
-- [319](http://www.nuforc.org/webreports/reports/163/S163831.html)
-- [318](http://www.nuforc.org/webreports/reports/163/S163867.html)
-- [317](http://www.nuforc.org/webreports/reports/163/S163830.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163835.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
