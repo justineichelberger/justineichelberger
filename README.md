@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:09:34 on 27 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:49 on 27 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Detroit (MI) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>AMAZING DAY OVAL UFOThis is my third sighting. First one in the day time. I have an amazing HD image that can be zoomed in quite a bit and looks great....I also have several seconds of HD video.....It was moving qickly and rotating, I had seconds to act</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90190.html](http://www.nuforc.org/webreports/reports/090/S90190.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Basingstoke (UK/England) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>bright red fireball flew across the sky at high speedAs I stood in my garden I saw a glowing bright red fireball shape flew across the sky at very high speed  it was very low but as it proceeded across the sky it rose and shoot off over the houses opposite and banked to the right  As this object moved past us its colour changed to a light yellow and slowly became smaller before eventually leaving our sight</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75955.html](http://www.nuforc.org/webreports/reports/075/S75955.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/163/S163826.html)
-- [319](http://www.nuforc.org/webreports/reports/163/S163831.html)
-- [318](http://www.nuforc.org/webreports/reports/163/S163867.html)
-- [317](http://www.nuforc.org/webreports/reports/163/S163830.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163835.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
