@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:36 on 27 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:48 on 27 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Colorado Springs (CO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately Still happening - Still happening minutes.</sub><blockquote><sub>White orb to the north west above pikes peak has not moved still visableWhite orb to the north west above pikes peak has not moved.  Been told it is a weather balloon but it has not moved in 1 hour.  I have many witnesses.  I made report to police and nothing happen.  It is still visible now and has not moved.  Cannot be captured on cam.((NUFORC Note:  Our Center has received a number of similar reports, both from Colorado, and from surrounding states.  We suspect that the object may have been a helium-filled balloon, carrying a scientific package, but we have not been able to confirm that possibility.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128090.html](http://www.nuforc.org/webreports/reports/128/S128090.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in St. Peters (MO) reported seeing craft that fit the description of some 'Formation' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Colored lights assembled into diamond shape then gave off a very bright lightObserved small lights of different colors red, green, blue and maybe purple south-southwest, toward Cottleville.  Initially, separate they approached each other and assembled into a close diamond shape and proceeded toward the south-southwest.  Just as they approached the treeline they became a very bright white/yellow light and stayed bright enough to see through the trees.There were fireworks going off at the time in the direction of the UFO but closer to the ground.  These were clearly different.  Duration of observation was a few minutes, maybe 2 or 3.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119794.html](http://www.nuforc.org/webreports/reports/119/S119794.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/163/S163826.html)
-- [319](http://www.nuforc.org/webreports/reports/163/S163831.html)
-- [318](http://www.nuforc.org/webreports/reports/163/S163867.html)
-- [317](http://www.nuforc.org/webreports/reports/163/S163830.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163835.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
