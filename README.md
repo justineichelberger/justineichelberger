@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:13:46 on 28 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:45 on 28 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Azle (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.21666666666666667 - 0.21666666666666667 minutes.</sub><blockquote><sub>Strange triangular craft with bright light on the nose.I was watch the stars in my backyard with my brother when we see this bright star. We stared at it for about ten seconds when, all of a sudden, it started to move and what appeared to be venus was a strange craft. It had a bright light on the nose and several Mars surface looking lights. It made a low, barely audible hum but its wasn`t even three hundred feet in the air.((NUFORC Note:  Source of report indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68824.html](http://www.nuforc.org/webreports/reports/068/S68824.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Dallas (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>I was in the car driving home when my friend asked me what some lights in the night sky are.  It was in the general area of Love Field, so I assumed the lights came from landing lights. There were two lights in the sky one was much brighter and lower than the other.  The lights were white like a star,  but much too close to be venus or any star..... to me they looked like meteors coming in.   they didn't move at all for over an hour and a half.  I checked later in the night to see if they were still there.  It had become cloudy,  high clouds and I could not see any stars anymore.Any one else see this?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119887.html](http://www.nuforc.org/webreports/reports/119/S119887.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/164/S164052.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163823.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163937.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163883.html)
-- [323](http://www.nuforc.org/webreports/reports/157/S157376.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
