@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:14:47 on 28 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:07:59 on 28 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Monticello (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright White LightA bright white light traveled across the sky from southwest to northeast. It was directly south of me when I first saw it.  I called for my daughter to bring binoculars.  By then the object was in the east.  Viewed through binoculars the object did not display the normal light configuration of an airplane. There were no red or green or flashing white lights. The object was at an estimated altitude of 20,000 feet and traveled at a speed comparable to that of a Lear Jet traveling at that altitude.  It made no manuvers, and did not make ANY sound. The object passed south and east of my location (2 miles North of Monticello) It appeared to pass directly over the town and flew northeast on a course that would have carried it near the town of Quitman, Georgia.  As it passed though an area of light cloud it gave off the kind of aura that is usually seen when car headlights move through fog. I am a retired USAF NCO with 25 years aircraft maintenance experience. I am also an astonomy enthusiast.  The Object was not an airplane that I could identify and was not a star, or meterior.  This report is not very timely, but may corrobarate some other sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13269.html](http://www.nuforc.org/webreports/reports/013/S13269.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Gila Bend (AZ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Number of Craft: on or more dont know we saw many lights and the seemed to randomly turn on as if the lites were going around the disc and one light in the middle was very bright it lite up the dessert as if it was a sunset((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45519.html](http://www.nuforc.org/webreports/reports/045/S45519.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/164/S164052.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163823.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163937.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163883.html)
-- [323](http://www.nuforc.org/webreports/reports/157/S157376.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
