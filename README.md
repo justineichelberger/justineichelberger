@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:41 on 28 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:51 on 28 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Henderson (NV) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.025 - 0.025 minutes.</sub><blockquote><sub>Meteor?walked to jacuzzi at my apt around 3:50 am... just as soon as I look up at the stars a really cool comet looking thing went through the sky…looked as close as a plane…anyone else see this in Henderson?((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81959.html](http://www.nuforc.org/webreports/reports/081/S81959.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Warrenton (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>4 bright orange lights over Warrenton VAMy wife and I were housesitting / babysitting over a weekend for her parents (my inlaws).  We went outside to share a cigarette close to midnight.  We were talking when I saw a strange orange light over her shoulder.The closest airport to us is Dulles International Airport to the North, but this thing was going East to West from the more rural area of the county, farms and such.  The thing was like a super bright flare but not flickering like one, and it was under power of some sort.There were no blinking lights on it and it was about the same color as a fire.  No flickering, no smoke, no sound and it was moving "casually" from East to West as I said.  After about 10 seconds another identical light appeared traveling in the same direction at the same speed.I lost sight of it after it passed over the houses in the neighborhood so my wife and I ran out front taking her grandfather and younger brother with us.  He says he was an engineer or something for the air force and he has no idea what it is.  After those 2 lights eventually left sight in the distance we were laughing about it and joked it off.I decided to go back to the back and finish the cigarette we started.  While out there I saw 2 more identical lights traveling the same path as before, got everyone outside and we watched them for a while going off to the distance.None of us is sure what it is but several of the neighbors saw it too and told us so when my wife posted about it on Facebook.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111617.html](http://www.nuforc.org/webreports/reports/111/S111617.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/164/S164052.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163823.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163937.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163883.html)
-- [323](http://www.nuforc.org/webreports/reports/157/S157376.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
