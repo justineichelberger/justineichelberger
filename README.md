@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:33 on 28 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:43:42 on 28 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Forsyth (MO) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I saw several red light in the sky .I was grilling some pork chops outside and in the corner of my eye I saw a red light in the sky.  I looked into and saw what looked like an air balloon on fire.  I pulled out my phone and started to record it moving.  It was moving slowly across the sky a little bit faster than a plane would.  It continued to the left and I saw it move over towards a star pattern that was completely red.  As it moved to the top of the pattern they all formed into a vertical line.  They proceeded to disappear from top to bottom.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99010.html](http://www.nuforc.org/webreports/reports/099/S99010.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in New Providence (NJ) reported seeing craft that fit the description of some '' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Dentist witnesses large craft w/ 15-20 windows or lights.  Light beamed at ground; whooshing sound.  Excellentt report.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00612.html](http://www.nuforc.org/webreports/reports/000/S00612.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/164/S164052.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163823.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163937.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163883.html)
-- [323](http://www.nuforc.org/webreports/reports/157/S157376.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
