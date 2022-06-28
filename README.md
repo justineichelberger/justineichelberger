@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:47 on 28 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:39 on 28 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Sioux Falls (SD) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately East 63rd street - East 63rd street minutes.</sub><blockquote><sub>The Ufo was white and a cylinder shapeIt was 11:42 am in Sioux Falls near E 63rd street 57108.  The ufo was silent.  It was a cylinder shape.  I show one of my neighbor of the ufo.  It was flying 575-600 mph.  It had no wings, no tail section, or propellers.  I'm started to be a believer of ufos.  Years ago my cousins saw a ufo too in Hartington, Nebraska.  It was unbelievable that I saw one.  It was 10,000-20,000 feet above the ground.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120463.html](http://www.nuforc.org/webreports/reports/120/S120463.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Columbus (OH) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Several red orange lights in arch formation.Several round red orange circles in an arch.  Slowly separated and dimmed and brightened.  Some at very high altitude.  Lights disappeared as we got closer.  As we followed the last light it faded out and wevcould see the oval silhouette as it moved away slowly and then took off at a high rate of speed.  One of the other lights went straight up when we drove under  and then took off very quickly in the other direction.  Asked locals at a nearby store on the west side about the lights. They told us friends frontage east side had also seen lights earlier in the night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110839.html](http://www.nuforc.org/webreports/reports/110/S110839.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/164/S164052.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163823.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163937.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163883.html)
-- [323](http://www.nuforc.org/webreports/reports/157/S157376.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
