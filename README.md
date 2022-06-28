@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:39 on 28 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:01:08 on 28 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Mission Viejo (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>this was a ufo triing to blend in with the stars, and nothing to be in the way not to make it  a planewell for the past several day's (about one week from today 06/21/01). i have been getting home real late in the night between 12:00-1:00am the night sky has been really clear with little or no clouds at all. well beeing that i live in city it's really hard to see any stars out at night, well our street light has been out so now im able to see all of stars now that the light is out. well both a friend and i just took a couple of minuets to enjoy the site, all of a sudden i had looked compleatly around to see others starsand thats when i noticed a plane or something to that fact and thinking to myself that it really was'nt on the normal flight patterns that i have ever noticed before. thats when i told my friend to look at it to see what he thought of it? he at first said it's a planet,thats when i told him than why is it moving and at that time we both started to find a stationary point to see if it was moving. well useing the roofline as our point it took about 2-3 minuets to appearour roof point. thats when we knew it was nothing from our world. no plane is that slow, that bright, and can pretty much stay that stationary for that long without any fluxuation in direction or alt. we both observed a bright light in a perfect circle as if it was triing to blend in with the stars occasionaly moving l/r and up/down. at that time we went inside and my father happen to be awake we told him about it. and with both of us he seen it too. there was only one of them i beleive and seem to be either observing or or just watching over the canyon. well later that morning my father seen it again but closer, and i rechecked my refrence point when the sun was out and nothing was in the way just clear sky. and thats when i knew for a fact it was a ufo. and remembered that i didsee about 2-3 more earlier that week as well as another neighbor of mine did too last week.((NUFORC Note:  We will invite the witness to look in the southern sky on the next clear night, to ensure that he is not observing Mars.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18229.html](http://www.nuforc.org/webreports/reports/018/S18229.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Lake Havasu City (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Three red and orange lights in arc formation above Lake Havasu, AZ.My fiancé and I were relaxing on the back patio of his Aunt’s house in Lake Havasu, Arizona, at about 10:30 pm. We were taking a final look at the stars before going to bed, and I noticed a bright red and orange light below the moon.  I pointed it out to my fiancé, and just as he saw it too, another blinked on diagonally above the first, followed by another, forming a small arc of red and orange lights.  They hovered there without movement or sound for about thirty seconds before they all disappeared together.  I ran inside to get my camera, but they never returned.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76038.html](http://www.nuforc.org/webreports/reports/076/S76038.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/164/S164052.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163823.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163937.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163883.html)
-- [323](http://www.nuforc.org/webreports/reports/157/S157376.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
