@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:46 on 28 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:42 on 28 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Billings (MT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately Getting off work - Getting off work minutes.</sub><blockquote><sub>Red fire balls over Billings, Montana,I was just getting off of work and as I look up I see these red fireballs moving around. These fire balls I seen were flying between the highway and the Sugar beet company.  These  fire balls lasted about a few mins.  I tried to drive closer to these orbs and they disappeared.  I call the police and made a report and asked if anyone has reported these orbs because they were so noticeable and the dispatch stated no one made the report.  I live in Laurel, Montana, and I have seen the star orbs in the sky that move and there is a lot of activity around here.  I have made one other report a few years ago in Laurel where across the street from where I live I saw a UFO triangle with seven red lights hovering over the trees.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110818.html](http://www.nuforc.org/webreports/reports/110/S110818.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Waterloo (IA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Strange triangle like plane that moved really really fast!My family and I where at the park and we saw a flashing thing in the sky.  It was really weird I've never seen a plane move the way that that one did.  It took off and went super fast up then stopped on a dime then went straight.  My sister was freaked out.((NUFORC Note:  Witness elects to remain totally anonymous.  May not be a serious report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38239.html](http://www.nuforc.org/webreports/reports/038/S38239.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/164/S164052.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163823.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163937.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163883.html)
-- [323](http://www.nuforc.org/webreports/reports/157/S157376.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
