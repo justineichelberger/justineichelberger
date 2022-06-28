@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:39 on 28 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:05:55 on 28 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Cedar Rapids (IA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>2 bright lights with flashing lights on sides.  Hovering in western sky.West of Cedar Rapids, two lights. One appeared to be lower and closer than second.  They were both very bright and looked to have flashing lights on sides.  Hovered 15-20 minutes then clouds covered them.((NUFORC Note:  Venus and Jupiter.  PD))((NUFORC Note:  Witness provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119891.html](http://www.nuforc.org/webreports/reports/119/S119891.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Parkersburg (WV) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Large bright white light traveling quicky in the Northwest skyI was getting ready for bed and around 1:15 my dog wanted to go outside.  I let her out and waited about 15 minutes then started for the back door and noticed a big white light through the window.  My first thought was that it was a street light and maybe the storm had knocked down trees that normally block them on the next street over.  When I opened the door I saw the light was over the trees and moving very fast traveling East in the Northwest sky making no sound.  It was as large and bright as a streetlight!  I watched it for several seconds until it was blocked by a neighbor's tree.I ran inside to grab my phone and headed out the front door but it was gone.  I went back in and out the backdoor to get my dog and she would not come to me.  She was crying and would not come out from underneath the house.  I finally had to coax her to come out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98998.html](http://www.nuforc.org/webreports/reports/098/S98998.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/164/S164052.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163823.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163937.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163883.html)
-- [323](http://www.nuforc.org/webreports/reports/157/S157376.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
