@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:30 on 28 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:47 on 28 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Platteville (WI) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>While driving home we saw a Cigar/Oval shape, silver object reflecting off the sun in Southwestern Wisconsin.On Monday, June 28th, 2010, approximately 7pm (1900 hours) we where on our way home from Platteville, Wisconsin southbound on Hwy. 151.  I saw something reflecting in the sky that caught my attention and pointed it out to my husband.  It was traveling from East to West, was silver, and cigar or oval shape.  We kept discussing what we thought it could be, since we were intrigued by this "thing" in the sky.  There was no contrail from a jet/airplane and it seemed to be hovering at times, so we ruled out that option.  My husband then thought it could be the Space Station reflecting off the sun, so we called a friend who then went to the Space Station Tracking site.  He called us back and said the Space Station was not in our area at that particular time and the Space Station only travels from West to East.  During this time, my husband pulled over the truck so I could look through our binoculars, but I could never find the object when I used them.  My husband tried! as well, but our binoculars must not be that magnified.  We then continued on our way home, while following this object in the sky.  It seemed to move very slowly and would stop and hover.  We could still see the object slowly moving when we turned and pulled over on Cty. Rd. O towards home.  While traveling on Cty. Rd. O, we lost sight of this silver bright object due to the valley, bluffs and trees.  We never saw it again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76012.html](http://www.nuforc.org/webreports/reports/076/S76012.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Sioux Falls (SD) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately East 63rd street - East 63rd street minutes.</sub><blockquote><sub>The Ufo was white and a cylinder shapeIt was 11:42 am in Sioux Falls near E 63rd street 57108.  The ufo was silent.  It was a cylinder shape.  I show one of my neighbor of the ufo.  It was flying 575-600 mph.  It had no wings, no tail section, or propellers.  I'm started to be a believer of ufos.  Years ago my cousins saw a ufo too in Hartington, Nebraska.  It was unbelievable that I saw one.  It was 10,000-20,000 feet above the ground.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120463.html](http://www.nuforc.org/webreports/reports/120/S120463.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/164/S164052.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163823.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163937.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163883.html)
-- [323](http://www.nuforc.org/webreports/reports/157/S157376.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
