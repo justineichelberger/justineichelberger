@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:33 on 28 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:33 on 28 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Duluth (MN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>White light above the trees  at the end of Park Point in Duluth, MNEarly on the morning of June 28, 2017, I was awake at 3:30 a.m. and looking out my window from a townhouse on Barker’s Island in Superior, WI.  My view looks across the water to the area in Duluth, MN, known as Park Point.  I saw a bright shining object hovering in the sky some distance over the tree tops.  It was just past the pump house beyond the small airport that is at the end of the point.  It did not move in the sky as a plane or helicopter would do. I checked my Night Sky App to see if it was a satellite or planet, and found that there were none in that area of the sky.  It was too big to be a distant star.  The object had flickering white lights and stayed very stationary in its position for about 20 minutes, then it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134809.html](http://www.nuforc.org/webreports/reports/134/S134809.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Forsyth (MO) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I saw several red light in the sky .I was grilling some pork chops outside and in the corner of my eye I saw a red light in the sky.  I looked into and saw what looked like an air balloon on fire.  I pulled out my phone and started to record it moving.  It was moving slowly across the sky a little bit faster than a plane would.  It continued to the left and I saw it move over towards a star pattern that was completely red.  As it moved to the top of the pattern they all formed into a vertical line.  They proceeded to disappear from top to bottom.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99010.html](http://www.nuforc.org/webreports/reports/099/S99010.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/164/S164052.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163823.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163937.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163883.html)
-- [323](http://www.nuforc.org/webreports/reports/157/S157376.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
