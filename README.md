@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:35:09 on 29 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:15:56 on 29 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Belmar (NJ) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>UFO camouflage with sky folllowed by two fighter jetsOne UFO moving NNE over ocean high altitude steady fast speed like a plane, but object was camouflage with the sky.  No light reflection like a normal white plane.  Saw cigar like shape with no wings.  Again, transparent with sky/cloud color.  A couple minutes later two fighter jets came from the west and circled back out over ocean.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142227.html](http://www.nuforc.org/webreports/reports/142/S142227.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Stoninigton (CT) reported seeing craft that fit the description of some 'Changing' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Single stationary object, gradually dimmed.Noticed from my deck to the south over Long Island sound at about 10:30 PM in the evening.  About 10 o'clock high, excellent visibility.  At first 2 lights side by side, quite bright. appeared to be stationary.  After about 10 minutes merged into one and gradually got dimmer but stayed in the same location.  Checked for it on subsequent nights to see if it was a satellite that is always present.  Nothing visible on other nights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142992.html](http://www.nuforc.org/webreports/reports/142/S142992.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/163/S163887.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163862.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163868.html)
-- [352](http://www.nuforc.org/webreports/reports/157/S157223.html)
-- [351](http://www.nuforc.org/webreports/reports/157/S157219.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
