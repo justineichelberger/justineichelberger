@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:01:11 on 29 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:46 on 29 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Philadelphia (PA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>lastnite i saw a cylinder in the sky orange in color no tail  06/29/08last nite at 12:10 i saw something.It was a cylinder in shape it was not spinning just going across the sky .It took about 10 seconds to go across the sky.It was NOT AN AIRCRAFT i have worked at phila international airport fo over 10 years i know airplanes.Please did anybody ealse see it ?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64190.html](http://www.nuforc.org/webreports/reports/064/S64190.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in South Myrtle Beach Pier (SC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two oval objects with orange/red colors flying over the ocean while at Myrtle Beach 2nd Ave. PierI was with my wife, Mother-in-Law and three children waiting for the fireworks to begin.  This was around 9:00pm.  I noticed the objects appear on the ocean horizon (probably closest point of approach around 4 miles).  While looking at the end of the pier, the two orange/red oval objects appeared to the right (south/southwest-40 degrees from the end of the pier).  I instantly showed my wife and Family.  The other witnesses (about 15 other people saw it as well, including the waitress at the open air restuarant).  The objects were flying in formation and stopped on a dime.  They were hovering when my son shined his lasar pointer on one of the objects.  The lights in both craft cut off instantly (you could see the laser on it) and when he stopped with the lasar, the lights to the craft came BACK ON and the two objects zipped 2 miles south (estimate), stopped on a dime again and then shot STRAIGHT up towards the atmosphere.  These objects were manuvering in a manner unlike any aircraft known to me and defied the laws of physics.  Note: the objects portrayed more of an orange color than the red color that was witnessed.  I am a trained US Navy Veteran who worked with radar and many aircraft operations (honorably discharged) and I am a Project  Manager for a Mechanical Engineering firm.  I will be glad to talk with someone and to sign any statements (thanks for talking with me today Mr. Davenport!).Best regards,</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82962.html](http://www.nuforc.org/webreports/reports/082/S82962.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/163/S163887.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163862.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163868.html)
-- [352](http://www.nuforc.org/webreports/reports/157/S157223.html)
-- [351](http://www.nuforc.org/webreports/reports/157/S157219.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
