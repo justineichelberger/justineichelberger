@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:40 on 29 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:41 on 29 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Star-Like UFO Flying Over S. CA (night)Saw star-like object flying at nine O'clock.  Slowly disappeared after flying west to east for about 1 full minute.  One other witness with me at the time.((NUFORC Note:  Interestingly, the witness indicates that the date of the sighting is approximate.  ISS was visible at 22:16 hrs. on this date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82021.html](http://www.nuforc.org/webreports/reports/082/S82021.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>a rectangular craft with glowing engines flew across the sky at about 22:15 in the end of July or begining of August.me and my sister were visiting our aunt in Phonix Arizonia. we decided to take a swim in her pool at about 18:00. at about 22:15 a rectangle shaped craft appeared from behind a house, it appeared to be a land vehicle with no tires and jet engines or rockets in there place, and lights right next to the engines. we watched it fly across the sky flying about 5000-7000feet altitude. and then it disapeared behind another house and we never saw it again during our visit. we were startled and never reported it to anyone except our parents when we got home. we failed to contact anyone else who may have seen this UFO.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28237.html](http://www.nuforc.org/webreports/reports/028/S28237.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/163/S163887.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163862.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163868.html)
-- [352](http://www.nuforc.org/webreports/reports/157/S157223.html)
-- [351](http://www.nuforc.org/webreports/reports/157/S157219.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
