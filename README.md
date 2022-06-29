@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:50 on 29 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:49 on 29 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Fredericksburg (VA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>There was a circle of green lights, followed by orange lights.  It looked like there was an emission.  The lights went out and there seemed to be a light colored residue in the sky. Hard to explain but looked like a combustion cloud, but it a a faint glow.  Wife came out and took pictures.  The owls were freaking out and getting loud which brought me outside to witness this event.  The craft made no sound.((NUFORC Note:  Rocket launch from Wallops Island.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134828.html](http://www.nuforc.org/webreports/reports/134/S134828.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Milton (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright Yellow Orange Sphere travelling under the moon, from right to left..It was about 8:32pm Friday, June 29th 2012.I was taking my dog for a walk out my front yard. I looked up and saw dark twilight coming on and I could see the moon thru the trees then I saw a bright orange yellow sphere silently trans-versing the sky, it was smooth in movement and very straight, from right to left on it's travel. At the point I saw it, it was at the 7o'clock position as the Moon is at 12 o'clock. It never wavered and there are very few dim stars appearing as it's getting darker, at count only saw 5 stars. I tried to take a cell phone photo, but it was to far away and it didn't seem to appear in the photos, will download to see better. Will submit if I have anything. I figured it might be a VERY large or Close Satellite or even The Space Station with the Sun Shining Upon it...I am still excited to have seen it, it was VERY VERY BRIGHT. UFO? hopefully!! But with the array of Satellites up there, it was probably one of um.. :D</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90224.html](http://www.nuforc.org/webreports/reports/090/S90224.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/163/S163887.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163862.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163868.html)
-- [352](http://www.nuforc.org/webreports/reports/157/S157223.html)
-- [351](http://www.nuforc.org/webreports/reports/157/S157219.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
