@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:15:56 on 29 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:09:26 on 29 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Stoninigton (CT) reported seeing craft that fit the description of some 'Changing' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Single stationary object, gradually dimmed.Noticed from my deck to the south over Long Island sound at about 10:30 PM in the evening.  About 10 o'clock high, excellent visibility.  At first 2 lights side by side, quite bright. appeared to be stationary.  After about 10 minutes merged into one and gradually got dimmer but stayed in the same location.  Checked for it on subsequent nights to see if it was a satellite that is always present.  Nothing visible on other nights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142992.html](http://www.nuforc.org/webreports/reports/142/S142992.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Markham (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>white star shaped light moving around in the sky at speeds too slow to be a plane or moving star.At about 3:00 am i left through my back door into my backyard too have a cigarette.  As i lit my cigarette and casually smoked it i glanced into the sky.  There was a star shaped light that was illuminating brighter then anything else in the sky.  The reason i found this odd was because about a week earlier i saw something very similar with two of my friends.  The light was moving too slowly to be a shooting star.  If it were an airplane i would have seen some sort of red and blue lights ( as in safety hazard lights) which were not seen.  The light will slowly weave though star formations and will gradually decrease in illumination until it finally disappears.  I was amazed and bedazzled, which made me stay outside and watch the skies.  I was kindly rewarded with this ufo returning again following the exaxt same pattern.  If ANYONE can give me ANY kind of explanation please do so.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57364.html](http://www.nuforc.org/webreports/reports/057/S57364.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/163/S163887.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163862.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163868.html)
-- [352](http://www.nuforc.org/webreports/reports/157/S157223.html)
-- [351](http://www.nuforc.org/webreports/reports/157/S157219.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
