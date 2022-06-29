@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:41 on 29 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:33 on 29 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in D'Iberville (MS) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>saw 2 orange/copper color glowing objects trailing each other just over tree line headed south!  They were not moving very fast.  As they cleared the tree line it appeared they turned 90 degree to the east and began to move away at a high rate of speed till they disappeared! This took place just north of the I-110 and I-10</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99109.html](http://www.nuforc.org/webreports/reports/099/S99109.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Waretown (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>It was triangular shape, with odd sound coming from it, and had flashing white and orange lights.We were in the pool and happened to see something in the sky.  It was very close to the ground and when you looked at it closely it was definitely not an airplane or jet of any type. The lights were bright orange and white.  Not only was the object a triangular shape, the noise differed completely then airplanes and jets.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81978.html](http://www.nuforc.org/webreports/reports/081/S81978.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/163/S163887.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163862.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163868.html)
-- [352](http://www.nuforc.org/webreports/reports/157/S157223.html)
-- [351](http://www.nuforc.org/webreports/reports/157/S157219.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
