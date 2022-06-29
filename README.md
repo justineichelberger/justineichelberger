@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:36 on 29 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:41 on 29 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Olathe (KS) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>3 red/orange pulsating orbs in triangle formation before storm as lightning started.3 orange/red pulsating orbs seen in night sky before storm	  I was just getting off work, heading home when I was on my routine way home I started to notice lights in the sky.   They were odd, I didn’t realize at first what I was seeing, but in the back of my mind something was telling me to keep checking them out.  I am an aviation buff, love all things that fly, and also know my town pretty well and it didn’t add up that there were lights where they were, and that they didn’t fit anything I had seen before.This is my second sighting, the first being a single green orb UFO I reported back in 06’ and was with about 10 people who could verify what we saw..These lights were a pulsating/light flickering type that change from orange to red, or were red and had an orange hazy light that would come on and overpower the red...hard to explain.I noticed 1, then I saw 2, then the third as I came into an area that they were in a clearing and could see them.. at that point my jaw dropped and I fumbled to get my cell out and get it in camera mode.. of course it had to pop up with a ton of different warnings about wifi being on so no flash.. blah blah blah.. all those crummy photo messing up blurbs that in this case REALLY cost me some good footage.  I was trying to get to video mode and actually accidentally took a shaky picture of them.  they can be seen in it.Okay they were in a triangular formation in the sky, and before or during my trying to take the picture, one I thought had vanished, in the picture it shows the two lower lights coming together more closely.. so that explains that..A car came up behind me and I HAD to deal with that, I didn’t want to as I was going to miss the event.. errr.. bad dang luck.. so I drove toward them and quickly pulled into a post office parking lot.There I get the truck stopped and jump out...by that time they were a dim flicker in the sky, they had turned a more metallic shimmer and all together vanished :(  I will be keeping my eyes peeled to the sky even more than before.I think those of us who are star/sky/nature gazers probably see things that others are too busy in their tech filled lives to notice.  Sad really.I want to see more!  Thanks for reading.  I plan on sending in the picture i have to this site along with this report.One last thing, they were not "close" but there was also no sound, I had my windows open and no music playing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110793.html](http://www.nuforc.org/webreports/reports/110/S110793.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in D'Iberville (MS) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>saw 2 orange/copper color glowing objects trailing each other just over tree line headed south!  They were not moving very fast.  As they cleared the tree line it appeared they turned 90 degree to the east and began to move away at a high rate of speed till they disappeared! This took place just north of the I-110 and I-10</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99109.html](http://www.nuforc.org/webreports/reports/099/S99109.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/163/S163887.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163862.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163868.html)
-- [352](http://www.nuforc.org/webreports/reports/157/S157223.html)
-- [351](http://www.nuforc.org/webreports/reports/157/S157219.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
