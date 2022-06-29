@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:44:42 on 29 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:35:09 on 29 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Kettleman City (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Slow moving triangular craft travelled NW across southbound I-5... made aircraft landing 2000 ft. W and parallel to I-5Approximately 01:00 from northbound land of I-5 - from pitch black night, three equidistant white discs of light turned on at 10 o'clock to our car's position and less than 1000 ft up.  Slow moving triangular craft travelled northwest across southbound I-5, banked and proceeded approx. 2000 feet parallel to I-5.  Appeared to make aircraft landing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29652.html](http://www.nuforc.org/webreports/reports/029/S29652.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Belmar (NJ) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>UFO camouflage with sky folllowed by two fighter jetsOne UFO moving NNE over ocean high altitude steady fast speed like a plane, but object was camouflage with the sky.  No light reflection like a normal white plane.  Saw cigar like shape with no wings.  Again, transparent with sky/cloud color.  A couple minutes later two fighter jets came from the west and circled back out over ocean.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142227.html](http://www.nuforc.org/webreports/reports/142/S142227.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/163/S163887.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163862.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163868.html)
-- [352](http://www.nuforc.org/webreports/reports/157/S157223.html)
-- [351](http://www.nuforc.org/webreports/reports/157/S157219.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
