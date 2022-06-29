@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:49 on 29 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:10 on 29 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Clifton (ME) reported seeing craft that fit the description of some 'Cross' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Cross shaped object was stationary over Route 9 going east in Clifton, ME emitted lights from various point on bottomWe were driving to New Brunswick, Canada, from Boston, MA, on June 29th, 2017.  Around 8:45 PM, as we were driving East on Route 9 in the town of Clifton, ME, when we spotted a very bright stationary light emitting from the sky approximately several miles ahead of us, we were driving along at about 60 to 65 MPH.  As we proceeded East on Route 9 we noticed that the light was not moving,  My wife was driving, I was in in the passenger seat, my 20 year old daughter was directly behind me.  When we were directly underneath the object, I wanted to get a better look, so I stuck my complete head out of the window looking straight up at the bottom of the object, my daughter did the same.  As we passed underneath we noticed that it shape was in the form of a cross….the very bright light was in the direct center but it was flanked by lights above below and to either side, there was no sound.  We remained outside the vehicle for about 20 seconds and then came in and discusse! d what we saw for about another 10 seconds and when I went back out through the window to take another look, it was gone,  When I looked around to see if I could see it, I noticed it was about a couple miles away again in a stationary position to the south, all in the manner of seconds. I did not take a picture, but I did draw a picture of what the underneath of the craft looked like</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136903.html](http://www.nuforc.org/webreports/reports/136/S136903.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Orange and yellow orb over portland moved northeast.At first thought it might be a firework, looked like it was a burning balloon.Moved northeast while gaining altitude.  Made no sound.One of the observers captured cell phone video of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90249.html](http://www.nuforc.org/webreports/reports/090/S90249.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/163/S163887.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163862.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163868.html)
-- [352](http://www.nuforc.org/webreports/reports/157/S157223.html)
-- [351](http://www.nuforc.org/webreports/reports/157/S157219.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
