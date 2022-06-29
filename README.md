@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:46 on 29 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:33 on 29 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in South Myrtle Beach Pier (SC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two oval objects with orange/red colors flying over the ocean while at Myrtle Beach 2nd Ave. PierI was with my wife, Mother-in-Law and three children waiting for the fireworks to begin.  This was around 9:00pm.  I noticed the objects appear on the ocean horizon (probably closest point of approach around 4 miles).  While looking at the end of the pier, the two orange/red oval objects appeared to the right (south/southwest-40 degrees from the end of the pier).  I instantly showed my wife and Family.  The other witnesses (about 15 other people saw it as well, including the waitress at the open air restuarant).  The objects were flying in formation and stopped on a dime.  They were hovering when my son shined his lasar pointer on one of the objects.  The lights in both craft cut off instantly (you could see the laser on it) and when he stopped with the lasar, the lights to the craft came BACK ON and the two objects zipped 2 miles south (estimate), stopped on a dime again and then shot STRAIGHT up towards the atmosphere.  These objects were manuvering in a manner unlike any aircraft known to me and defied the laws of physics.  Note: the objects portrayed more of an orange color than the red color that was witnessed.  I am a trained US Navy Veteran who worked with radar and many aircraft operations (honorably discharged) and I am a Project  Manager for a Mechanical Engineering firm.  I will be glad to talk with someone and to sign any statements (thanks for talking with me today Mr. Davenport!).Best regards,</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82962.html](http://www.nuforc.org/webreports/reports/082/S82962.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Ashby (MA) reported seeing craft that fit the description of some 'Other' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Looked like heat lightning.  Stayed in sky like a light house.  But didn't repeat as a light house.   And no noise sky is clear.  Crazy weird.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147157.html](http://www.nuforc.org/webreports/reports/147/S147157.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/163/S163887.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163862.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163868.html)
-- [352](http://www.nuforc.org/webreports/reports/157/S157223.html)
-- [351](http://www.nuforc.org/webreports/reports/157/S157219.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
