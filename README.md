@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:01:09 on 29 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:19:35 on 29 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Klamath Falls (OR) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Man repts. bright obj. overhead, "brighter than Jupiter."  Moves slowly to SE, enters haze at 15' K, disappears from view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00602.html](http://www.nuforc.org/webreports/reports/000/S00602.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Lake City (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I observed a very brightly lit object traveling very slowly and silently.  It was so bright I couldn’t make out the shape of it.  In its wake, was a relatively smaller and less brightly-lit orb maintaining the same distance the whole 3 minutes I observed it.  The sun hadn’t risen yet and the leading object was lighting a large patch of the sky and leaving a luminescent trail behind.  When I first began watching it, it appeared to be heading east and made a gradual arc toward the south southeast and seemed to be maintaining the same altitude.((NUFORC Note:  Rocket launch from Cape Kennedy at 05:57.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141990.html](http://www.nuforc.org/webreports/reports/141/S141990.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/163/S163887.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163862.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163868.html)
-- [352](http://www.nuforc.org/webreports/reports/157/S157223.html)
-- [351](http://www.nuforc.org/webreports/reports/157/S157219.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
