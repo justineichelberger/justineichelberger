@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:41 on 29 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:50 on 29 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>a rectangular craft with glowing engines flew across the sky at about 22:15 in the end of July or begining of August.me and my sister were visiting our aunt in Phonix Arizonia. we decided to take a swim in her pool at about 18:00. at about 22:15 a rectangle shaped craft appeared from behind a house, it appeared to be a land vehicle with no tires and jet engines or rockets in there place, and lights right next to the engines. we watched it fly across the sky flying about 5000-7000feet altitude. and then it disapeared behind another house and we never saw it again during our visit. we were startled and never reported it to anyone except our parents when we got home. we failed to contact anyone else who may have seen this UFO.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28237.html](http://www.nuforc.org/webreports/reports/028/S28237.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Fredericksburg (VA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>There was a circle of green lights, followed by orange lights.  It looked like there was an emission.  The lights went out and there seemed to be a light colored residue in the sky. Hard to explain but looked like a combustion cloud, but it a a faint glow.  Wife came out and took pictures.  The owls were freaking out and getting loud which brought me outside to witness this event.  The craft made no sound.((NUFORC Note:  Rocket launch from Wallops Island.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134828.html](http://www.nuforc.org/webreports/reports/134/S134828.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/163/S163887.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163862.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163868.html)
-- [352](http://www.nuforc.org/webreports/reports/157/S157223.html)
-- [351](http://www.nuforc.org/webreports/reports/157/S157219.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
