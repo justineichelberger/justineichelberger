@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:38 on 29 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:01:11 on 29 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Farmington (Approx. 3 miles N of) (NM) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Saw what appeared to be two satellites flying in formation, but don't believe that objects were satellites or airplanes.On June 29, 1997, I was parked approximately 3 miles north of town on a deserted oilfield road.  At the time, I was looking to the west at the Big Dipper when I noticed what appeared to be a satellite out of the corner of my eye, moving to the south.  The altitude was right for a satellite.  As I was about to dismiss the object as a satellite, I noticed another object trailing the first at the exact same speed, and in the same path.  The distance between the two objects had to be incredible.  As I watched these objects for a minute or so, the second object accelerated.  At the point the second object overtook the first, both objects were lost from view due to the city lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09567.html](http://www.nuforc.org/webreports/reports/009/S09567.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Philadelphia (PA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>lastnite i saw a cylinder in the sky orange in color no tail  06/29/08last nite at 12:10 i saw something.It was a cylinder in shape it was not spinning just going across the sky .It took about 10 seconds to go across the sky.It was NOT AN AIRCRAFT i have worked at phila international airport fo over 10 years i know airplanes.Please did anybody ealse see it ?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64190.html](http://www.nuforc.org/webreports/reports/064/S64190.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/163/S163887.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163862.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163868.html)
-- [352](http://www.nuforc.org/webreports/reports/157/S157223.html)
-- [351](http://www.nuforc.org/webreports/reports/157/S157219.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
