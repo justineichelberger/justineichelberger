@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:33 on 29 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:13:04 on 29 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Ashby (MA) reported seeing craft that fit the description of some 'Other' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Looked like heat lightning.  Stayed in sky like a light house.  But didn't repeat as a light house.   And no noise sky is clear.  Crazy weird.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147157.html](http://www.nuforc.org/webreports/reports/147/S147157.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Please review the show of "American Monster" S1 / E5 "Shooting Phoenix."  This show has absolutely nothing to do w/ UFOs.Please review the show of "American Monster " S1 / E5 "Shooting Phoenix"   This show has absolutely nothing to do with UFO sightings, but around 40 to 45 minutes in the hour long show there is a scene that is suppose to be a night view of the skyline somewhere over Phoenix, Arizona.  I noticed as I was watching the show an unexplained occurrence with a fast traveling light coming from the left right above the city lights at an extremely fast speed compared to the traffic on the highway below it traveled quickly towards the right of the tv screen then came to an abrupt stop and dropped to the road level slowly did a complete 360 and traveled back towards the left at a southwest angle.  I and several others have watched this footage over and over the only explanation we can figure out is that it could truly be a sighting! Granted I know that only the producers and editors of this show know when and where this footage they used was really captur! ed on tape and was used at this particular time on the making of Season One / Episode Five of "American Monster. Please give this a moment of your time and check it out it might be worth investigating further either way I would love to hear your opinion on this. Thank-you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128152.html](http://www.nuforc.org/webreports/reports/128/S128152.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/163/S163887.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163862.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163868.html)
-- [352](http://www.nuforc.org/webreports/reports/157/S157223.html)
-- [351](http://www.nuforc.org/webreports/reports/157/S157219.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
