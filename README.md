@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:34 on 30 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:13:43 on 30 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1988, an anonymous witness in Becej (Serbia) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>i was a kid and had a window at my bed and often i would stare out the window at night from the bed and look at the stars until i fell asleep.  one night i noticed one of the stars was brighter than the othersand a bit orange and was moving around slowly,  i thought it was a sattelite but it abruptly changed directions in very sharp angles,  it went on for many minutes and then i called my parents to check it out.  they also saw it but could not offer me an explanation.  i kept watching it for an hour but fall asleep eventually.((NUFORC Note:  Source of the report elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Source of report indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133405.html](http://www.nuforc.org/webreports/reports/133/S133405.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Lebanon (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Witnessed four bright red orbs hovering in the sky on Rte 20 near Lebanon Valley SpeedwayWhile driving on Rte 20 heading East.  I rounded the corner onto a long stretch of road where Lebanon Valley Speedway is.  My wife an I noticed 4 red orbs hovering in the night sky on the opposite side of the road from Lebanon Valley Speedway  Objects had no blinking lights or other indication that they were helicopters or airplanes.Originally thought possible flares, but objects were clustered together, with no smoke trails or indication of flame. Two of the objects started slowly drifting south.  Remaining objects stayed stationary. I rounded the corner and lost site of the objects.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90701.html](http://www.nuforc.org/webreports/reports/090/S90701.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1187](http://www.nuforc.org/webreports/reports/163/S163878.html)
-- [1186](http://www.nuforc.org/webreports/reports/163/S163880.html)
-- [1185](http://www.nuforc.org/webreports/reports/164/S164131.html)
-- [1184](http://www.nuforc.org/webreports/reports/157/S157229.html)
-- [1183](http://www.nuforc.org/webreports/reports/158/S158894.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
