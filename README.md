@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:30:06 on 30 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:13:14 on 30 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in Salinas (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>UFO fly's over houses and lands a couple blocks away in a school baseball field.I was outside playing with my dog and it flew over my street Toro Blvd. towards the school down the road. I ran in told my mom and we walked together down to the school, the whole time my dog was going nuts I remember I could barely hold him, when we got there it was gone but it left a burnt smell and apparently where it landed it left a ring around the school field where it landed. I remember it clearly. The ring was incredibly big meaning the craft was big..guessing at the size now 40 years later I'd say it was 100 ft in diameter, was a perfect circle and was still warm to the touch. When it flew over it had blue to greenish lights underneath it and thinking about it now because I was young it could have been it's propulsion emiting the colors. It was only above the roofs of the houses by about 20 feet if that. It was close enough you could hear it. For lack of a better word it sounded Sonic, metallic whistle? Hard to explain and more people than me had se! en it that day. I remember people standing in the street looking the direction of the school. There was actually a Salinas newspaper clipping that my mom saved for years talking about the UFO sighting. Many people seen it that day but I don't see any mention of it anywhere now. Must of been real otherwise we would see media on the sighting. It can be hidden from the people but I know what I seen and will never forget it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154722.html](http://www.nuforc.org/webreports/reports/154/S154722.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Donegal County (Republic of Ireland) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was standing outside our hoilday home looking towards the sea i looked at the sky when isaw 2ball shaped objects sliver in color allmost touching each other then move across the sky and out of sight in 4 or 5 seconds at the same time my wife who was down walking on the beach about quater of a mile from me looked up and saw the same objects  i was talking to my son and his friend a few weaks ago and and telling them about the objects i had seen they told me they had seen the same silver balls objects that day i asked them why they did not tell me about it at the time they though nobody would belive them((NUFORC Note:  Witness indicates that the date of the event in 2002 is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52957.html](http://www.nuforc.org/webreports/reports/052/S52957.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1187](http://www.nuforc.org/webreports/reports/163/S163878.html)
-- [1186](http://www.nuforc.org/webreports/reports/163/S163880.html)
-- [1185](http://www.nuforc.org/webreports/reports/164/S164131.html)
-- [1184](http://www.nuforc.org/webreports/reports/157/S157229.html)
-- [1183](http://www.nuforc.org/webreports/reports/158/S158894.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
