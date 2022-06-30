@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:13:43 on 30 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:43 on 30 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Lebanon (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Witnessed four bright red orbs hovering in the sky on Rte 20 near Lebanon Valley SpeedwayWhile driving on Rte 20 heading East.  I rounded the corner onto a long stretch of road where Lebanon Valley Speedway is.  My wife an I noticed 4 red orbs hovering in the night sky on the opposite side of the road from Lebanon Valley Speedway  Objects had no blinking lights or other indication that they were helicopters or airplanes.Originally thought possible flares, but objects were clustered together, with no smoke trails or indication of flame. Two of the objects started slowly drifting south.  Remaining objects stayed stationary. I rounded the corner and lost site of the objects.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90701.html](http://www.nuforc.org/webreports/reports/090/S90701.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1979, an anonymous witness in Nile River (Egypt) () reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>I was on a boat on the river nile sailling to the Sudan it was a clear night and the stars were very clear to see  I saw a star which looked no different from the other stars going in between and round the other stars and then after looking away and back again  this star was now zigzaging between the other stars  Thats what I saw and it has  puzzeled me ever since Kind regards ((name deleted))((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58322.html](http://www.nuforc.org/webreports/reports/058/S58322.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1187](http://www.nuforc.org/webreports/reports/163/S163878.html)
-- [1186](http://www.nuforc.org/webreports/reports/163/S163880.html)
-- [1185](http://www.nuforc.org/webreports/reports/164/S164131.html)
-- [1184](http://www.nuforc.org/webreports/reports/157/S157229.html)
-- [1183](http://www.nuforc.org/webreports/reports/158/S158894.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
