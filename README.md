@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:07:06 on 30 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:38 on 30 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Oro Valley (AZ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Disk shaped UFO with center lights hovers over mountains before lights go out in rapid succession.Three days after first sighting of UF0, I saw disk shaped UFO in a different area over mountains.  It was rather large.  Close together smaller circular lights at the center.  It was rotating but hovering or moving very slowly.  Suddenly, each light strung like pearls on a necklace went out in rapid succession before either disappearing or going completely dark.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147229.html](http://www.nuforc.org/webreports/reports/147/S147229.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Algonac (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>there were three lights which made a triangle in the skys over Canada. the light would grow bright enuff to light up the sky and then dim to almost nothing.I was awoken by my sisters at 4:15 in the morning, to look at the strange light inthe sky.  There in the eastren sky over Canada, their was three lights which apeared to be toghter, that formed a trangle. within only a few seconds its lights decreased in intensity and faded into the intensity of a normal star.  Then faded completely. Then it came back never geting as bright as the frist time I seen it, but was brighter than any star in the sky. It contined to do this over and over until it tolaly faded away.((NUFORC Note:  Flaw in date.  There is no June 31st.  We have amended the date above.  Report May be a hoax, we wonder.  PD)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04189.html](http://www.nuforc.org/webreports/reports/004/S04189.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1187](http://www.nuforc.org/webreports/reports/163/S163878.html)
-- [1186](http://www.nuforc.org/webreports/reports/163/S163880.html)
-- [1185](http://www.nuforc.org/webreports/reports/164/S164131.html)
-- [1184](http://www.nuforc.org/webreports/reports/157/S157229.html)
-- [1183](http://www.nuforc.org/webreports/reports/158/S158894.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
