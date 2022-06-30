@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:46 on 29 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:48 on 30 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Albany (KY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>It was a mind blowing experience.Me, my brother, and my friend saw what looked to be 2 spheres circling the sky with a shining light on the bottom of them.  We sat and watched this go on for about 10 minutes, and then all of a sudden, they disappeared into the night sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134883.html](http://www.nuforc.org/webreports/reports/134/S134883.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1986, an anonymous witness in New Brunswick (Canada) (ON) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>enormous black triangular low and slow moving ufo over trans canada high way observed for 30 minutes and very closeWhat I have encountered is nothing anyone I know has ever seen so close ever..it was the largest ship I have ever witnessed and through searching through the web..I have not ever documented anyone being so close to an air born..slow moving ..and so silent object ever..its been almost 32 years and what I cannot understand..is why it so perfectly planted in my mind as if it happened yesterday..I feel I was meant too see this and remember this so clearly to this day....during the month of July we my friend a d I were asked by a resident in our home town to deliver furniture to her new location in new Brunswick canada...on our journey there we traveled the transfer Canada hwy..in a small cube van to deliver furnitre from a move from Toronto canada to her new address..we drove for aprox 1 day and a half...and there was not any vehicles around at this night stated...very dark roads no illumination of road lights for there were none...as we were driving I took noti! ce of a light on the left of me in between the trees..and was not sure if it was traveling at the same speed we were driving or I was imaginating it was ...for it seemed to be traveling at aprox the same speed we were..so we pulled over to observe this strange. Light...it slowly seemed to deminish away...but the next event was the biggest event of my life...the stars above us disappeared and this object aprox 4 football fields...lenght and width slowly inch up owarss the direction where we pulled over...it was all black and very triangular with lights on its underside I cannot describe to this day for the colors were breathtaking....we noticed also when it was approaching us we could faintly see figures something moving...it was almost like we were viewing a large cockpit or something....it enormous.... Mass and flying capabilities are not of this world...the thing is as it cleared the other end of the hwy the engine mass or propaltion was enormous and within a cackle. It t! ook of off at unearthly speed......I reported this when we arr! ived to our destination and was told that if it was reported and I persisted on telling what we seen..it was liklet that we could disappear as well...by military...I cannot forget what happened...and I know what I seen as well as my friend ..we are not alone I'm personally tired of the UFO cover ups....I was told to keep quiet then but..no more...I believe we are..being conditioned and betrayed by our governents to the truth...I would bet my  life on my report and experience..I tell you now its not a matter if UFOs exist or not....because they do .....thank you((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87005.html](http://www.nuforc.org/webreports/reports/087/S87005.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/163/S163887.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163862.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163868.html)
-- [352](http://www.nuforc.org/webreports/reports/157/S157223.html)
-- [351](http://www.nuforc.org/webreports/reports/157/S157219.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
