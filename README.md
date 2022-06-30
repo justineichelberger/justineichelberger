@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:13:14 on 30 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:07:06 on 30 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Donegal County (Republic of Ireland) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was standing outside our hoilday home looking towards the sea i looked at the sky when isaw 2ball shaped objects sliver in color allmost touching each other then move across the sky and out of sight in 4 or 5 seconds at the same time my wife who was down walking on the beach about quater of a mile from me looked up and saw the same objects  i was talking to my son and his friend a few weaks ago and and telling them about the objects i had seen they told me they had seen the same silver balls objects that day i asked them why they did not tell me about it at the time they though nobody would belive them((NUFORC Note:  Witness indicates that the date of the event in 2002 is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52957.html](http://www.nuforc.org/webreports/reports/052/S52957.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Oro Valley (AZ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Disk shaped UFO with center lights hovers over mountains before lights go out in rapid succession.Three days after first sighting of UF0, I saw disk shaped UFO in a different area over mountains.  It was rather large.  Close together smaller circular lights at the center.  It was rotating but hovering or moving very slowly.  Suddenly, each light strung like pearls on a necklace went out in rapid succession before either disappearing or going completely dark.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147229.html](http://www.nuforc.org/webreports/reports/147/S147229.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1187](http://www.nuforc.org/webreports/reports/163/S163878.html)
-- [1186](http://www.nuforc.org/webreports/reports/163/S163880.html)
-- [1185](http://www.nuforc.org/webreports/reports/164/S164131.html)
-- [1184](http://www.nuforc.org/webreports/reports/157/S157229.html)
-- [1183](http://www.nuforc.org/webreports/reports/158/S158894.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
