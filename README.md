@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:07:02 on 30 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:01:29 on 30 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Topsham (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>1996 encounter with bright lights on country road in Topsham MaineAt 9:00pm my boyfriend left work in Brunswick, Maine, on a Sunday night, summer of 1996. He should have been home 15 mins later.  He came home 2 hours later, drove into yard and fell out of the car.  I helped him up.  He was white as a sheet, no energy, and told me he was driving the River Road by open field when extreme colored lights of such intensity blinded him from behind the trees, he had to pull over. (blue, red, white; etc. )  He next found himself on the ground next to car and it was 10:30 pm.  He had no recollection of what happened.  He made it home  under great difficulty.  He never seemed the same again did not want to be reminded of incident and died at 66 in 1999. His health was not A-1, but his health suddenly declined.  He did say the colored lights were still there when he awakened and they flashed straight down into in the field.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113947.html](http://www.nuforc.org/webreports/reports/113/S113947.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Amherst (VA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately many hours - many hours minutes.</sub><blockquote><sub>In 2010, my family and my friend saw a ufo (ufos) on the ground and in the air at close range.  We had interaction with it and very few reports are anything more than someone seeing strange lights in the sky.See all of my reports of Amherst, Va in 2010.  These sightings continue to be in my families' minds, and I can't stop wondering what it would look like in the day light.  It/they had two bright lights visible and we think they were triangular in shape.  I caught a pic from video, lightened it up and blew it up and it is no question what it was..I don't know why no one has ever reported this ufo sighting on Braxton Ridge Rd in Amherst county, Va, from 2010.Please do tell here if anyone saw what we saw.Thanks.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128302.html](http://www.nuforc.org/webreports/reports/128/S128302.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1187](http://www.nuforc.org/webreports/reports/163/S163878.html)
-- [1186](http://www.nuforc.org/webreports/reports/163/S163880.html)
-- [1185](http://www.nuforc.org/webreports/reports/164/S164131.html)
-- [1184](http://www.nuforc.org/webreports/reports/157/S157229.html)
-- [1183](http://www.nuforc.org/webreports/reports/158/S158894.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
