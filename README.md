@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:46 on 30 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:43 on 30 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Lancaster County (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Orange Lights Dissapear Into Thin Air.Driving into the Shady Maple parking lot, and saw three orange lights emitting from something hovering off in the distance that seemed to have a dark haze emitting from it for a few seconds, until it disappears into thin air.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134867.html](http://www.nuforc.org/webreports/reports/134/S134867.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Kearsley/Bolton (UK/England) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>a white orb that moved like nothing of this planet, withinn seconds insight it had gone !well the occurance is hard to document when the exact time was but it was around 2010 one late night mid year,that night was clear and cold,me and bro was having a cigarette at the back door,looking at the night sky,the stars and suggesting we aint alone its impossible for us humans be only living things in space,and usually do same thing every night before bed,up until we had moved.We have seen alot things wierd in sky and falling from atmosphere,but this night was unforgetable as we gazed in sky looking for brightest star we both debated on one,which i said that be satelite,the brightest star was in another direction then out of blue my bro said whats that then if we debunked were each satelite and north star is,i said to him n both looked at each other i dont know. So we continued to stare at this object it was bright and just as big as north star from were i stood,so still like a ball of magnesium,very strange because to our left a incoming plane was com! ing in,to land at manchester airport and within seconds this ball of light vanished horizontally to our left leaving a slight trail like moving from A TO B at high speed past this plane but the funny thing about this,nothing on this planet can move like that,like speed of light,it was there clear as day within seconds it shot off i was amazed my cigarette fell out of my mouth i was gobsmacked i laughed and said to brother did i just see that and the speed it left this atmosphere he said yes and i think the plane did too,cos it circled within the same area for almost 30 mins before it flew towards airport.I believe it was a UFO there is no other explanation i also believe they seem too appear in well open terriotories these sighting or places of lesser population,to this day i still think of that night pity i live in more urban enviroment now,i like answers like why was it so still and then left so quickly and why wasnt this mentioned and kept hush hush, which is wrong cause! its interesting and if thier was an invasion thats big if peo! ple shou ld prepare and be told of such things more publically,the amount of destruction and mayhem this earth as sustained its no wonder we get sneak peeks of UFO's because even they are not stupid enough to stay and land lol</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94338.html](http://www.nuforc.org/webreports/reports/094/S94338.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1187](http://www.nuforc.org/webreports/reports/163/S163878.html)
-- [1186](http://www.nuforc.org/webreports/reports/163/S163880.html)
-- [1185](http://www.nuforc.org/webreports/reports/164/S164131.html)
-- [1184](http://www.nuforc.org/webreports/reports/157/S157229.html)
-- [1183](http://www.nuforc.org/webreports/reports/158/S158894.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
