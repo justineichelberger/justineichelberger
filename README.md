@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:34 on 30 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:34 on 30 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Matlock (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I am not posting an official report.  I am curious as to why I never heard any report of this sighting on any media, or from any other person.I cannot place the date accurately as it was a deer hunting trip with my two sons a good many years ago.  My guess would be sometime in November around 1993.I was returning to camp around 08:00 and noticed what I thought was the sun.  But I quickly noticed it was moving horizontal from my right to my left.  I hollered to my one son to turn and look at it.  He did see it.As I said it looked to be the size of the sun, but a dull orange color and took maybe 10 seconds before disappearing behind some trees at the far side of a large clearing in the woods.  It appeared to be a good distance away.I simply would like to know if anyone else saw this object.  I can't imagine so many people between us and Seattle area during the morning commute not seeing the same thing we did.  But, no report and I never made one myself.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107451.html](http://www.nuforc.org/webreports/reports/107/S107451.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1988, an anonymous witness in Becej (Serbia) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>i was a kid and had a window at my bed and often i would stare out the window at night from the bed and look at the stars until i fell asleep.  one night i noticed one of the stars was brighter than the othersand a bit orange and was moving around slowly,  i thought it was a sattelite but it abruptly changed directions in very sharp angles,  it went on for many minutes and then i called my parents to check it out.  they also saw it but could not offer me an explanation.  i kept watching it for an hour but fall asleep eventually.((NUFORC Note:  Source of the report elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Source of report indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133405.html](http://www.nuforc.org/webreports/reports/133/S133405.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1187](http://www.nuforc.org/webreports/reports/163/S163878.html)
-- [1186](http://www.nuforc.org/webreports/reports/163/S163880.html)
-- [1185](http://www.nuforc.org/webreports/reports/164/S164131.html)
-- [1184](http://www.nuforc.org/webreports/reports/157/S157229.html)
-- [1183](http://www.nuforc.org/webreports/reports/158/S158894.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
