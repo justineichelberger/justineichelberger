@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:37 on 30 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:07:02 on 30 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1968, an anonymous witness in Burien/Vancouver (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>2 differnt people 47  years  later  aggreing   meeting  on  a  game  and  chat sight  seeing  the  same  thingback  in  1968  me  and  a  friend  were  sleeping  in  my  back  yard... was   looking  up  and  saw  a  blue  streak  with  no  sound   head   south  mov eing  at extream   speed  i  was  just  a  kid  then  now  i'm  51  and  heres  the  exfile  case   about  this  which  u  didnt  wanna  listen  to  me  i  am   playing  my  bolwing  game  on  pogo    its  a  game  and  chat  sight  and   it  just  so  happins this  other  person   who  i  dont  even   no  who  at  the  time  lived  in  vancouver  washington  saw  the   exact  same  thing   on  the  same  night it  made  no  sound   i  am  just  finding  this  other  person  what  a  quincidence  u  ask  omg  i  said     we    saw  the  same  thing im  in  burien   and   hes  there  now  is  that  incredible  or  what  i  told  u((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118204.html](http://www.nuforc.org/webreports/reports/118/S118204.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Topsham (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>1996 encounter with bright lights on country road in Topsham MaineAt 9:00pm my boyfriend left work in Brunswick, Maine, on a Sunday night, summer of 1996. He should have been home 15 mins later.  He came home 2 hours later, drove into yard and fell out of the car.  I helped him up.  He was white as a sheet, no energy, and told me he was driving the River Road by open field when extreme colored lights of such intensity blinded him from behind the trees, he had to pull over. (blue, red, white; etc. )  He next found himself on the ground next to car and it was 10:30 pm.  He had no recollection of what happened.  He made it home  under great difficulty.  He never seemed the same again did not want to be reminded of incident and died at 66 in 1999. His health was not A-1, but his health suddenly declined.  He did say the colored lights were still there when he awakened and they flashed straight down into in the field.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113947.html](http://www.nuforc.org/webreports/reports/113/S113947.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1187](http://www.nuforc.org/webreports/reports/163/S163878.html)
-- [1186](http://www.nuforc.org/webreports/reports/163/S163880.html)
-- [1185](http://www.nuforc.org/webreports/reports/164/S164131.html)
-- [1184](http://www.nuforc.org/webreports/reports/157/S157229.html)
-- [1183](http://www.nuforc.org/webreports/reports/158/S158894.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
