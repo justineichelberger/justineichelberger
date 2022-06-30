@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:43 on 30 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:37 on 30 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Falun (Sweden) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Flying object that just vanished mysteriously.The object was standing still, in the air.  Like 5 meters over the roof, at the entrance in to our house. I was like 9 years old the.  But I remember it like it was yesterday.The flying object was just "floating" still in the air over our entrance to our yard and house.It was a triangle shape.  Like a capital A in shape, with lights around it.  It was hovering there for a while.  Finally it started to move slowly.  Further down the street.  I was following.The I could see it going all the way down to the bigger Main Street.... went faster and faster.  But when it came to the Main Street it just vanished.  Like totally gone. And with that size of the UFO it wouldn't be logic because you would see a normal car from that distance.... crossing the street and even further.((NUFORC Note:  Witness indicates that the date of the sighting in 1996 is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142828.html](http://www.nuforc.org/webreports/reports/142/S142828.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1968, an anonymous witness in Burien/Vancouver (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>2 differnt people 47  years  later  aggreing   meeting  on  a  game  and  chat sight  seeing  the  same  thingback  in  1968  me  and  a  friend  were  sleeping  in  my  back  yard... was   looking  up  and  saw  a  blue  streak  with  no  sound   head   south  mov eing  at extream   speed  i  was  just  a  kid  then  now  i'm  51  and  heres  the  exfile  case   about  this  which  u  didnt  wanna  listen  to  me  i  am   playing  my  bolwing  game  on  pogo    its  a  game  and  chat  sight  and   it  just  so  happins this  other  person   who  i  dont  even   no  who  at  the  time  lived  in  vancouver  washington  saw  the   exact  same  thing   on  the  same  night it  made  no  sound   i  am  just  finding  this  other  person  what  a  quincidence  u  ask  omg  i  said     we    saw  the  same  thing im  in  burien   and   hes  there  now  is  that  incredible  or  what  i  told  u((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118204.html](http://www.nuforc.org/webreports/reports/118/S118204.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1187](http://www.nuforc.org/webreports/reports/163/S163878.html)
-- [1186](http://www.nuforc.org/webreports/reports/163/S163880.html)
-- [1185](http://www.nuforc.org/webreports/reports/164/S164131.html)
-- [1184](http://www.nuforc.org/webreports/reports/157/S157229.html)
-- [1183](http://www.nuforc.org/webreports/reports/158/S158894.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
