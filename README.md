@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:38 on 30 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:42 on 30 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Algonac (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>there were three lights which made a triangle in the skys over Canada. the light would grow bright enuff to light up the sky and then dim to almost nothing.I was awoken by my sisters at 4:15 in the morning, to look at the strange light inthe sky.  There in the eastren sky over Canada, their was three lights which apeared to be toghter, that formed a trangle. within only a few seconds its lights decreased in intensity and faded into the intensity of a normal star.  Then faded completely. Then it came back never geting as bright as the frist time I seen it, but was brighter than any star in the sky. It contined to do this over and over until it tolaly faded away.((NUFORC Note:  Flaw in date.  There is no June 31st.  We have amended the date above.  Report May be a hoax, we wonder.  PD)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04189.html](http://www.nuforc.org/webreports/reports/004/S04189.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Olean (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>silver dot,tuns into redish/orange type thingit was a silver dot at first.it was moving in different directions,soit caught my attention.i work at a store and there was a guy who pumped gas.it was visable for a couple of minutes then went behind a cloud.i asked him if he really saw it, and he said yeah.it was in the south sky.after about a minute it reappeared from behind the canopy at work.this is when it gets kinda stupid,it transformed into a yellow/orange type of thing going north.it went out of sight,icouldn't beleive it.no camera no nothing.it changed directions.inthe south sky couple minutes later going northand chaning shape and color!((NUFORC Note:  Witness indicates that the date of the incident is approximate.  We have assigned an arbitrary date above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55278.html](http://www.nuforc.org/webreports/reports/055/S55278.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1187](http://www.nuforc.org/webreports/reports/163/S163878.html)
-- [1186](http://www.nuforc.org/webreports/reports/163/S163880.html)
-- [1185](http://www.nuforc.org/webreports/reports/164/S164131.html)
-- [1184](http://www.nuforc.org/webreports/reports/157/S157229.html)
-- [1183](http://www.nuforc.org/webreports/reports/158/S158894.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
