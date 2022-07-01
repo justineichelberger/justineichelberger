@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:01:02 on 30 June 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:50 on 1 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Elk Grove (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Fast moving star like ufo stops its course, lights up bright then shoots straight up.Sitting outside watching the night sky when I noticed what I thought at first was a sattelite.  This thing appeared and was moving rather swiftly toward the South West.  The altitude seemed pretty high which is why I thought at first it was a sattelite but it was moving too fast.  A few seconds after I began watching this thing it stopped, zig zagged back and forth a couple times then lit up extremley bright with a very white light which made it also appear larger in size.  Right after it lit up all bright it changed direction and quickly started heading back in the direction it had just came from, stopped again then shot straight up and out of sight at incredible speed.  This was absolutly not a sattelite or any conventional air craft.  It was also silent and made no noise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110758.html](http://www.nuforc.org/webreports/reports/110/S110758.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1990, an anonymous witness in Corte Madera (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>stationary fireball changes color and redefines speed as it moves northAt first , it was just a high altitude stationary fireball. But three small dots emerged ( I'm assumming they might be Foo Fighters) and flew north. The fireball remained static until the dots(Foo Fighters?) returned. Then the high altitude stationary object turned from a fireball into an extremelly blue light and flew north at a speed that made the atmosphere burn in its wake.When I say I have seen 4 crafts , it must be understood that I saw all crafts in one experience.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52627.html](http://www.nuforc.org/webreports/reports/052/S52627.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1187](http://www.nuforc.org/webreports/reports/163/S163878.html)
-- [1186](http://www.nuforc.org/webreports/reports/163/S163880.html)
-- [1185](http://www.nuforc.org/webreports/reports/164/S164131.html)
-- [1184](http://www.nuforc.org/webreports/reports/157/S157229.html)
-- [1183](http://www.nuforc.org/webreports/reports/158/S158894.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
