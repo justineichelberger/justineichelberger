@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:43 on 1 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:41 on 1 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1975, an anonymous witness in Browns Mills (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>This is an event that has haunted me most of my life. I remember it like it was yesterday.A summer night a friend and I were sitting on a bridge just talking, enjoying a beautiful evening. It was just about twilight.  We heard a significant blast of wind even though there wasn't any wind.We looked up in the sky to see a hole punched in a cloud that was glowing iridescent Green Blue.As we were wondering what it was, a man, Long beard, mustache, dressed in the strangest garb, it looked like a red satin kimono, approached us from our right.He was carrying what appeared to be a child, sleeping or unconscious, wrapped in a quilt, an arm dangling out of the quilt.  With a strange gaze in his eyes, almost hypnotic, he asked us where Pepper road was.  We directed him and off he went.To this day I can't imagine why this guy  was walking around in this odd dress with a child in a quilt, and above us this strange hole in the clouds.After talking a minute or so my friend and I, went after the guy to see if we could follow him, but he was gone.  A strange story I know but its true.  I cant help but think that perhaps the child he was carrying was an abductee being returned...I remember it like it was yesterday.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152484.html](http://www.nuforc.org/webreports/reports/152/S152484.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Bangor (ME) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A formation of slow flying objects with a haze apperance with no sound being omitted. Formation was a semi circle type and too flawlessOn a late afternoon to early evening summer day around dinner time in the Capeheart apartment complexes (formerly the DOW Air Force base military homes for service personnel) on the Finson Road a strange formation was witnessed by myself and my mother and some neighbors.  While watching TV in the living room my mother who was in the kitchen washing dishes hollered for me to come to the front door.  She was outside pointing to the sky and what I saw that evening has haunted me ever since.  A formation of a couple unidentified objects were flying or more like hovering in the low skyline.  At first my thought was I was watching a couple helicopters except there was absolutely no sound being emitted at all.  They had a flare or bright slightly reddish exhaust in the rear except no smoke was coming out.  The exact shape is hard for me to remember but they were not overly large and had a shape unlike any I had ever seen in a military or domestic aircraft.  What I remember like it was yesterday, though is how the formation was too perfect and why was there no sound being emitted if they were so low in the sky.  Some of my neighbors' children started to yell UFO mom UFO's.  I looked at mom who was white as a ghost and at the same time we uttered to each other frigging UFO's.  Our neighbors' parents came outside and the father uttered holy shit!  What the hell are those.  The objects slowly and in perfect exact formation started to drift out of sight. I remember wanting to call the police or the Air National Guard base to report this sighting, because it absolutely spooked the hell out of us, but I decided not to, out of fear of not being believed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110128.html](http://www.nuforc.org/webreports/reports/110/S110128.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [850](http://www.nuforc.org/webreports/reports/163/S163884.html)
-- [849](http://www.nuforc.org/webreports/reports/163/S163882.html)
-- [848](http://www.nuforc.org/webreports/reports/164/S164073.html)
-- [847](http://www.nuforc.org/webreports/reports/163/S163866.html)
-- [846](http://www.nuforc.org/webreports/reports/164/S164590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
