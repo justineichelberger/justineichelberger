@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:40:20 on 1 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:22:23 on 1 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Garrettsville (OH) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 64</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157607.html](http://www.nuforc.org/webreports/reports/157/S157607.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1994, an anonymous witness in Indianapolis (IN) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>A multi-titled, multi-colored possibly foursided pyramid seen before I entered 2nd grade, brother saw same thing years later.My parents still tell a story about how when I was about to start 2nd grade during our family prayers I jumped up crying and hid in the closet in the room that me and my sister shared.  I told them that I was afraid to go to 2nd grade when in fact I was scared of what I had just seen out my window.  My bed was right next a large, nearly full wall window that faced our backyard in the room that I shared with my older sister.  My parents sat on the floor and my sister was in her bed and I was in mine. I remember being bored, per usual, and staring out the window when this...pyramid I suppose floated casually past the window.  It wasn't like any of the pyramid's I've looked up online.  I guess those are like black triangles with lights on their corners?  This was covered in little metallic/chrome-ish rectangles that were either silver or lighting up different colors.  I remember pinks and yellows and blues so nearly primary colors, but you could tell they were still metallic silver underneath.  It was weird and seemed to lazily float past.  It didn't seem to be propelled by anything and didn't seem to be in any sort of hurry. Ok and I get it, I was little could have just been my mind messing with me and I can't remember if it was four sided (feel like it was) or three because I only saw it in profile and in my memory it looks like it floated right between my house and the gazebo on our deck which is only about 25 feet or so, so there are clearly some missing pieces.  Also I remember it was completely silent. The thing that has finally brought this up in my mind again after 15 years is that my brother is a sophomore in college now and lives in my house here and we were talking about random weird stuff that happened in our old house (which was a lot...I don’t know if that relates either) when he told me that when he'd been in about 2nd grade he'd been woken up two nights in a row by multi colored lights outside his window on the 2nd story but facing the street not the yard. He said he didn't see any object making them the 1st night because it'd been so bright but that the 2nd he'd seen a pyramid type object. I'd never told anyone about what I'd seen and neither had he till we had this conversation.  Now we just want to know if there’s anyone else who possibly has seen something like this because after looking it up forever and all over the internet I can’t find anything.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70349.html](http://www.nuforc.org/webreports/reports/070/S70349.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [850](http://www.nuforc.org/webreports/reports/163/S163884.html)
-- [849](http://www.nuforc.org/webreports/reports/163/S163882.html)
-- [848](http://www.nuforc.org/webreports/reports/164/S164073.html)
-- [847](http://www.nuforc.org/webreports/reports/163/S163866.html)
-- [846](http://www.nuforc.org/webreports/reports/164/S164590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
