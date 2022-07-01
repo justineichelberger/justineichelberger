@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:36 on 1 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:40 on 1 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Santa Monica (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Cluster over Santa Monica, CA.Today I was walking back from lunch with a friend when I saw a cluster of white or silver round objects behind a cloud. They were very far away. At first they were clustered up, then the formation moved out almost like duplicating the Big Dipper. They were moving away from the area and hard to see without sunglasses.  My friend, who is a skeptic, agreed she saw something out of the ordinary.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57392.html](http://www.nuforc.org/webreports/reports/057/S57392.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1958, an anonymous witness in Muncie (IN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A star sized object circled the sky and then shot straight out of sight at very great speed.It was in the summer and I am not  sure of the year. It could have been l958 or 59.  I was outside and looked at the sky, which was full of stars.  I noticed that one of the stars was moving in a very large circle around the sky.  For as high as it must have been, it must have been moving at a great speed. It continued this for  awhile and then it shot off straight out of sight at a much greater speed.  It was about the size of one of the stars, but brighter.  Other people outside saw it also.  I called the Civil Defense call line and found that it was busy for quite awhile.  When I finally got through, they said that they had many calls about the same thing.  I am a high school teacher((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36163.html](http://www.nuforc.org/webreports/reports/036/S36163.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [850](http://www.nuforc.org/webreports/reports/163/S163884.html)
-- [849](http://www.nuforc.org/webreports/reports/163/S163882.html)
-- [848](http://www.nuforc.org/webreports/reports/164/S164073.html)
-- [847](http://www.nuforc.org/webreports/reports/163/S163866.html)
-- [846](http://www.nuforc.org/webreports/reports/164/S164590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
