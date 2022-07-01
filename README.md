@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:58 on 1 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:34 on 1 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Bellevue (NE) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Silent craft flying extremely low dropping flaming embersI was located less than a mile north of Offutt AFB (Nebraska) in a grocery store parking lot on Highway 370 when I noticed 'fire' in the sky to the north of my location. Upon further inspection, it appeared to be moving very slowly with flaming embers falling from the bottom. There was not any sound associated with the craft and I feared it was a jet crashing. However, it didnt lose any altitude and continued traveling westward until I couldnt see it. I never heard any crash sound and there were no reports of downed aircraft from the base. The details of the event are sketchy for me because I didn't write them down. I didn't really think much about it until I heard another report describing the flaming embers. I dont remember any lights associated with the craft other than the embers. It was flying lower than the top of a water tower to the west of my location. I am certified as a weather observer/forecaster and have extensive experience watching the night time sky, though this is what I would consider my first UFO encounter. I just assumed it was an unannounced military aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12420.html](http://www.nuforc.org/webreports/reports/012/S12420.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Montgomery (IL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>I was standing in front of my yard playing with my kids.  In the distance I noticed a red light in the sky.  It was still day time the light was in the same spot but you could notice it was still but it had a slight movement as it was hovering in the same spot but could not be completely still.  Few more second one red light appears to exit the  main red light thru the button.  It exit then headed west rite after that another red light exit the main red light and headed east and both red lights disappeared.  As I went to pull my phone to record it the main red light just disappeared.  I didn't see it fly away it was gone. It looked like someone hit a switch and it turned off.  When the two lights where flying off they had a streak to it.  Like when people draw comet with the streak of light as it passes by or a shooting star.  It was not a comet or shooting star.  It was day time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144192.html](http://www.nuforc.org/webreports/reports/144/S144192.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [850](http://www.nuforc.org/webreports/reports/163/S163884.html)
-- [849](http://www.nuforc.org/webreports/reports/163/S163882.html)
-- [848](http://www.nuforc.org/webreports/reports/164/S164073.html)
-- [847](http://www.nuforc.org/webreports/reports/163/S163866.html)
-- [846](http://www.nuforc.org/webreports/reports/164/S164590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
