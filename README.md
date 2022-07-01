@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:42 on 1 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:40 on 1 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1968, an anonymous witness in Cincinnati (OH) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Fast moving craft over downtown Cincinnati riverfrontWe were driving home on I-75 South in the vicinity of Crosley Field when we noticed a strange acting light over downtown.  It would be on the far east side then in a flash would be over the far west side or north of us. It finaly hovered directly over our vehicle for a time.  I was driving and could not really look at it, but the rest of the people in my car were hanging out the windows.  I suddenly realized I was only going about 30-35 miles an hour and was worried about getting run down until I noticed every other car was doing the same because they were looking at this craft, too. This was a Friday night....all of us took such a ribbing over the week= end from family, etc., I decided not to tell anyone else about what we had seen.  When I arrived at work on Monday at Federated Dept. Stores Area Research Dept. in downtown Cincinnati, a co-worker, Karen, came in a said "Guess what we saw out at Tri-County Drive-In Friday night?" Well, the conversation went on from there. She told us they had even shut the drive-in down to watch the craft!  (By the way, there was a game playing at Crosley Field that night.) The craft looked like a saucer, the windows were rectangular with rounded corners and located around the perimeter.  The light was a "strange" color, sort of a blue-ish white, and we could see silhouettes in some of the "windows". I know this sounds a little crazy, my husband still asks me what we were drinking that night at the baby shower we had been to! (The answer is NOTHING) But we all know what we saw. The craft made no sound at all.....totaly silent as it moved. What I really would like to know is this, are there any other reports concerning this particular sighting?  If so, what are they?  Could I have access to this information?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08002.html](http://www.nuforc.org/webreports/reports/008/S08002.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Saint Louis (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Bright blue orb of light high in sky and within seconds it took off and created a streak of light that faded to green before completely disappearing.  Happened on 2 occasions. Once standing in the walmart parking lot facing west towards 270/Saint Charles.  The other incident was very close in proximity occurring a few months prior while driving east on 270 between st charles rock road and 370/missouri bottom.  It was directly ahead of me looking east. Both occurrences were brief and photos were unable to be captured.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149472.html](http://www.nuforc.org/webreports/reports/149/S149472.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [850](http://www.nuforc.org/webreports/reports/163/S163884.html)
-- [849](http://www.nuforc.org/webreports/reports/163/S163882.html)
-- [848](http://www.nuforc.org/webreports/reports/164/S164073.html)
-- [847](http://www.nuforc.org/webreports/reports/163/S163866.html)
-- [846](http://www.nuforc.org/webreports/reports/164/S164590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
