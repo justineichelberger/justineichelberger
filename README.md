@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:13:26 on 1 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:42 on 1 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Muttontown (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>2 stars switched positions in proximity and one slowly left, shooting star followed immediately thereafterCame home from work got mail stared at the night sky.  Two stars in part of the constellation I was looking at (don't know but it looks like a chair) over my house switched positions and one moved slowly till it was gone.  3 to four seconds later a shooting star headed North overhead same direction</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76078.html](http://www.nuforc.org/webreports/reports/076/S76078.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Crestone (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately not sure - not sure minutes.</sub><blockquote><sub>Continued white light presence in Crestone, Colorado  I'm letting you know about a report in our local paper (Crestone Eagle), a couple reported a white light coming thru their cabin walls and moving about in their living space, there was also some type of established communication with the light via a series of electronic beeps from their fire alarm system.((NUFORC Note:  We have received several such sighting reports, in which shafts of light are alleged to penetrate the walls of buildings.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71449.html](http://www.nuforc.org/webreports/reports/071/S71449.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [850](http://www.nuforc.org/webreports/reports/163/S163884.html)
-- [849](http://www.nuforc.org/webreports/reports/163/S163882.html)
-- [848](http://www.nuforc.org/webreports/reports/164/S164073.html)
-- [847](http://www.nuforc.org/webreports/reports/163/S163866.html)
-- [846](http://www.nuforc.org/webreports/reports/164/S164590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
