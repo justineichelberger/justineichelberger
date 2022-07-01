@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:06:16 on 1 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:50 on 1 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Bellevue (NE) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Silent craft flying extremely low dropping flaming embersI was located less than a mile north of Offutt AFB (Nebraska) in a grocery store parking lot on Highway 370 when I noticed 'fire' in the sky to the north of my location. Upon further inspection, it appeared to be moving very slowly with flaming embers falling from the bottom. There was not any sound associated with the craft and I feared it was a jet crashing. However, it didnt lose any altitude and continued traveling westward until I couldnt see it. I never heard any crash sound and there were no reports of downed aircraft from the base. The details of the event are sketchy for me because I didn't write them down. I didn't really think much about it until I heard another report describing the flaming embers. I dont remember any lights associated with the craft other than the embers. It was flying lower than the top of a water tower to the west of my location. I am certified as a weather observer/forecaster and have extensive experience watching the night time sky, though this is what I would consider my first UFO encounter. I just assumed it was an unannounced military aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12420.html](http://www.nuforc.org/webreports/reports/012/S12420.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Cuyahoga Falls (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>it was friday night 11:30.  i was in my back yard looking at the stars and i saw one that was moving very slowly.  it came from the south heading north,         it went what looked like a short distance and split into two stars, they went a short distance and they began to wobble back and forth,                it was slightly east about 40 degrees from the4 ground((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82141.html](http://www.nuforc.org/webreports/reports/082/S82141.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [850](http://www.nuforc.org/webreports/reports/163/S163884.html)
-- [849](http://www.nuforc.org/webreports/reports/163/S163882.html)
-- [848](http://www.nuforc.org/webreports/reports/164/S164073.html)
-- [847](http://www.nuforc.org/webreports/reports/163/S163866.html)
-- [846](http://www.nuforc.org/webreports/reports/164/S164590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
