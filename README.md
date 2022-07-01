@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:46 on 1 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:34 on 1 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Dansville (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Witnessed an object in the night sky while camping that was orange like the sun fly overhead two times in a span of twenty minutesIn the early hours of July 1st 2011 while camping in Dansville, NY, my friend and I observed something quite spectacular in the night sky.  I was on the telephone with my girlfriend standing about 30 ft from our campfire when out of nowhere in the clear sky above me appeared a bright orange ball shaped object moving quite swiftly to the north.  My first thought was it might be an airplane that caught fire, I quickly yelled to my friend to look up in the sky and turn the music off. We both watched intently and listened for any noise but could here none. The object travel to the north for about 1 minute and then took a sharp turn in the sky and began heading south south east at the Sam rate of speed as before.  I hung up the phone and attempted to turn my video camera on to film the object but the screen was scrambled and looked as though it had been submerged in water. I had to take the battery out to reset the phone. While this was going on the objects light began to fade away and after about 1 minute in the new direction it completely burned out or disappeared. My friend who was with me is an 8th grade science teacher and owns several telescopes I began quizzing him as to what we may have just seen and he was literally speachless.  Neither of us had ever seen anything like it in our lives and it was very clearly in our atmosphere and was not an airplane or a meteor.  As we were discussing the possible origin of the "UFO"  we had just witnessed and the strange thing that happened to my cell phone, the object reappeared in the sky just over our heads, it took what appeared to be a near identical course and it had renewed brightness this time.  It looked like a moving fire ball that changed shape before our eyes.  This time I managed to get a picture of it and both of us got video on our phones of the UFO.  It made the same turn in the sky and slowly lost it's brightness in the same part of the sky.  In my 14 years in law enforcement and his 8 as a teacher neither of us have ever encountered anything! like this, it seemed to have a clear path and I am just really happy it came back and let us catch it on video.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82027.html](http://www.nuforc.org/webreports/reports/082/S82027.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Rohnert Park (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately  -  minutes.</sub><blockquote><sub>CHANGING FIGURE  AND LOTS OF COLORSTHE FLYING OBJECT LOOKED LIKE A STAR FROM FAR AWAY BUT UPCLOSE WITH A VIDIO CAMARA IT LOOKED LIKE  A CIRCLE WHICH CHANGE THE FORM EVER FEW MINUTES IT MOVED IN DIFFRENT DERECTIONS THE  COLOR IN THE MIDDLE  WAS A SMALL BLACK DOT WHICH SPINED REALLY FAST AND  AROUD THE DOT WAS A FAST MOVING SORT LIKE A RAIAN BOW BUT A LITTLE BIT DARKER</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23567.html](http://www.nuforc.org/webreports/reports/023/S23567.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [850](http://www.nuforc.org/webreports/reports/163/S163884.html)
-- [849](http://www.nuforc.org/webreports/reports/163/S163882.html)
-- [848](http://www.nuforc.org/webreports/reports/164/S164073.html)
-- [847](http://www.nuforc.org/webreports/reports/163/S163866.html)
-- [846](http://www.nuforc.org/webreports/reports/164/S164590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
