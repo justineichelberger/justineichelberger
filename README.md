@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:50 on 1 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:29:37 on 1 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1990, an anonymous witness in Corte Madera (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>stationary fireball changes color and redefines speed as it moves northAt first , it was just a high altitude stationary fireball. But three small dots emerged ( I'm assumming they might be Foo Fighters) and flew north. The fireball remained static until the dots(Foo Fighters?) returned. Then the high altitude stationary object turned from a fireball into an extremelly blue light and flew north at a speed that made the atmosphere burn in its wake.When I say I have seen 4 crafts , it must be understood that I saw all crafts in one experience.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52627.html](http://www.nuforc.org/webreports/reports/052/S52627.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bath (Canada) (ON) reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Orange Lights in the skyOrange glowing flickering lights, round moving from left to right across the sky in a straight line some in a crooked S formation and some in a triangle, their were 11 in all, they appeared to come from nowhere out of the left and float across the sky and disappear to the right toward horizon, it was a clear night with no wind</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90332.html](http://www.nuforc.org/webreports/reports/090/S90332.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [850](http://www.nuforc.org/webreports/reports/163/S163884.html)
-- [849](http://www.nuforc.org/webreports/reports/163/S163882.html)
-- [848](http://www.nuforc.org/webreports/reports/164/S164073.html)
-- [847](http://www.nuforc.org/webreports/reports/163/S163866.html)
-- [846](http://www.nuforc.org/webreports/reports/164/S164590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
