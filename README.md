@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:34 on 1 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:13:26 on 1 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Montgomery (IL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>I was standing in front of my yard playing with my kids.  In the distance I noticed a red light in the sky.  It was still day time the light was in the same spot but you could notice it was still but it had a slight movement as it was hovering in the same spot but could not be completely still.  Few more second one red light appears to exit the  main red light thru the button.  It exit then headed west rite after that another red light exit the main red light and headed east and both red lights disappeared.  As I went to pull my phone to record it the main red light just disappeared.  I didn't see it fly away it was gone. It looked like someone hit a switch and it turned off.  When the two lights where flying off they had a streak to it.  Like when people draw comet with the streak of light as it passes by or a shooting star.  It was not a comet or shooting star.  It was day time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144192.html](http://www.nuforc.org/webreports/reports/144/S144192.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Muttontown (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>2 stars switched positions in proximity and one slowly left, shooting star followed immediately thereafterCame home from work got mail stared at the night sky.  Two stars in part of the constellation I was looking at (don't know but it looks like a chair) over my house switched positions and one moved slowly till it was gone.  3 to four seconds later a shooting star headed North overhead same direction</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76078.html](http://www.nuforc.org/webreports/reports/076/S76078.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [850](http://www.nuforc.org/webreports/reports/163/S163884.html)
-- [849](http://www.nuforc.org/webreports/reports/163/S163882.html)
-- [848](http://www.nuforc.org/webreports/reports/164/S164073.html)
-- [847](http://www.nuforc.org/webreports/reports/163/S163866.html)
-- [846](http://www.nuforc.org/webreports/reports/164/S164590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
