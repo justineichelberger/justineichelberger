@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:29:37 on 1 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:50:29 on 1 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bath (Canada) (ON) reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Orange Lights in the skyOrange glowing flickering lights, round moving from left to right across the sky in a straight line some in a crooked S formation and some in a triangle, their were 11 in all, they appeared to come from nowhere out of the left and float across the sky and disappear to the right toward horizon, it was a clear night with no wind</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90332.html](http://www.nuforc.org/webreports/reports/090/S90332.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Crown Point (IN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>I had stepped out on my porch to smoke a cigarette and I always look up to the stars then from my right side view I see a fireball coming across the sky below the cloud line going in a straight path to the left I called my wife to come look grabbed my phone and took 2 pictures</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134880.html](http://www.nuforc.org/webreports/reports/134/S134880.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [850](http://www.nuforc.org/webreports/reports/163/S163884.html)
-- [849](http://www.nuforc.org/webreports/reports/163/S163882.html)
-- [848](http://www.nuforc.org/webreports/reports/164/S164073.html)
-- [847](http://www.nuforc.org/webreports/reports/163/S163866.html)
-- [846](http://www.nuforc.org/webreports/reports/164/S164590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
