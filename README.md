@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:50 on 1 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:38 on 1 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Cuyahoga Falls (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>it was friday night 11:30.  i was in my back yard looking at the stars and i saw one that was moving very slowly.  it came from the south heading north,         it went what looked like a short distance and split into two stars, they went a short distance and they began to wobble back and forth,                it was slightly east about 40 degrees from the4 ground((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82141.html](http://www.nuforc.org/webreports/reports/082/S82141.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Lone Pine (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Camouflaged bird shaped object in the eastern sierras.Myself, my wife and 3 teenage sons were on our way home from Lake Tahoe, traveling south on highway 395 at approximately Noon on July 1st.  I was driving while my wife was watching a movie on her phone.  My 3 boys were either sleeping or on their phones at the time.  There was very little traffic on the highway and I had a habit of looking over to my left at the mountains, as I am a landscape artist and love to paint the area.   As I glanced towards the mountains something caught my eye.The best way I can describe it is this way.  I saw what looked like a “glitch” In The scenery.   As I looked closer I could make out a shape but could not see any details.  Because I saw the slight “glitch” I could see now that I was looking at what I can only describe as some sort of object that was shaped almost like a bird but the odd thing about it was that it was camouflaged with the mountain in the background, almost as if it were clear.I would look at the road, then look back to see it still there.  I got the feeling that I wasn’t supposed to be seeing it but because I saw what looked like a “glitch” on the front of it almost like the camouflage disappeared for a split second I could make it out every time I looked back at it.I am guessing that it was approximately 1-2 mile away from me between the highway and the mountain range.  After just a couple minutes of watching the road and looking back at it (keep in mind that I was traveling about 80mph and it was pacing me), it turned quickly and I watched it gain altitude and disappear into the sky after turning 180 degrees.  It was gone in almost a blink of an eye.Now the strange thing about it is that I got the feeling it knew I was watching it yet I wasn’t supposed to be seeing it.  Sounds odd I know but that’s how I felt.Anyway,  I didn’t tell my wife about it until tonight and I was researching sightings in the area and that’s what brought me here.Thanks for reading.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148700.html](http://www.nuforc.org/webreports/reports/148/S148700.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [850](http://www.nuforc.org/webreports/reports/163/S163884.html)
-- [849](http://www.nuforc.org/webreports/reports/163/S163882.html)
-- [848](http://www.nuforc.org/webreports/reports/164/S164073.html)
-- [847](http://www.nuforc.org/webreports/reports/163/S163866.html)
-- [846](http://www.nuforc.org/webreports/reports/164/S164590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
