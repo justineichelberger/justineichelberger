@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:40 on 1 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:36 on 1 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Saint Louis (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Bright blue orb of light high in sky and within seconds it took off and created a streak of light that faded to green before completely disappearing.  Happened on 2 occasions. Once standing in the walmart parking lot facing west towards 270/Saint Charles.  The other incident was very close in proximity occurring a few months prior while driving east on 270 between st charles rock road and 370/missouri bottom.  It was directly ahead of me looking east. Both occurrences were brief and photos were unable to be captured.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149472.html](http://www.nuforc.org/webreports/reports/149/S149472.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Santa Monica (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Cluster over Santa Monica, CA.Today I was walking back from lunch with a friend when I saw a cluster of white or silver round objects behind a cloud. They were very far away. At first they were clustered up, then the formation moved out almost like duplicating the Big Dipper. They were moving away from the area and hard to see without sunglasses.  My friend, who is a skeptic, agreed she saw something out of the ordinary.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57392.html](http://www.nuforc.org/webreports/reports/057/S57392.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [850](http://www.nuforc.org/webreports/reports/163/S163884.html)
-- [849](http://www.nuforc.org/webreports/reports/163/S163882.html)
-- [848](http://www.nuforc.org/webreports/reports/164/S164073.html)
-- [847](http://www.nuforc.org/webreports/reports/163/S163866.html)
-- [846](http://www.nuforc.org/webreports/reports/164/S164590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
