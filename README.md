@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:40 on 2 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:40 on 2 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Colton (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Faint red star orbits Saturn and flies rapid sawtooth pattern.While standing in my yard looking 30 degrees up from the horizon due west at what I think was Saturn, a very close fainter "star" suddenly moved and made a full orbit of saturn in about 2 seconds. It then moved about, performing rapid sawtooth patterns and "normal" linear movements and pauses. I called a family member to bring some binoculars. With them the object still looked like a star, red in color and of constant radiance. I lost the object as it moved lower in the sky and blended with the haze of the city lights. Having a masters in physics, and having worked 7 years in aerospace on missile programs, I know of nothing man made that could have flown the pattern this thing did, pulling tremendous G's to reverse direction the way it did.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37910.html](http://www.nuforc.org/webreports/reports/037/S37910.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Whitby (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Strange bright light hanging low in the night sky (not a planet) moved very slow and pulsing orange/yellow and changed its shape.Witnessed a strange very bright light that "hung" in the sky to the north-west, low just above the horizon (no other stars visible in the sky).  The object moved very very slowly left-to-right back and forth.  I had an HD camera and filmed this object for approx 15 minutes.  Digital zoom to 200x and saw bright strobing colours of orange-yellow with pulsing reddish centre and green outine.  Diamond shaped (but this might be caused by my camera aperature).  Object appeared to change shape a number of times and alter its brightness (I have this on film).  I watched it until it eventually faded out of vision.  Very strange and I have no idea what I saw.((NUFORC Note:  Venus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76480.html](http://www.nuforc.org/webreports/reports/076/S76480.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164394.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163891.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163893.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163886.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
