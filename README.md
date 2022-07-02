@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:36 on 2 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:40 on 2 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Redlands (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>orange orbs  in sky Redlands ca6 orange orbs seen coming from southwest sky which came into view and dissapeared. Followed by 3 more orbs which made a v formation before disappearing one by one.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110873.html](http://www.nuforc.org/webreports/reports/110/S110873.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Colton (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Faint red star orbits Saturn and flies rapid sawtooth pattern.While standing in my yard looking 30 degrees up from the horizon due west at what I think was Saturn, a very close fainter "star" suddenly moved and made a full orbit of saturn in about 2 seconds. It then moved about, performing rapid sawtooth patterns and "normal" linear movements and pauses. I called a family member to bring some binoculars. With them the object still looked like a star, red in color and of constant radiance. I lost the object as it moved lower in the sky and blended with the haze of the city lights. Having a masters in physics, and having worked 7 years in aerospace on missile programs, I know of nothing man made that could have flown the pattern this thing did, pulling tremendous G's to reverse direction the way it did.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37910.html](http://www.nuforc.org/webreports/reports/037/S37910.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164394.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163891.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163893.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163886.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
