@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:31 on 2 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:31 on 2 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Northridge (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Dark Object with orbiting lights acting as some sort of fieldObject was first noticed 45 degrees above the horizon North-West of our location.  It was around dusk and with about 15 min. or so left of light we noticed a black object in the sky.  Object was first noted moving east and north (was getting smaller).  It stopped moving east and thats when we noticed a red light not blinking, but "scrolling" across it.  After staring at it for a few more minutes it was confirmed from multiple people all observing that there were flashes of light, almost like fire flies dancing around it.  It was hard to count since they were not constant in their luminescence, however we did note their patterns etc.  They seemed to be all around it and the lights formed a larger sphere orbiting around the object which seemed to be some kind of EM field.  Everyone confirmed they saw this sphere of lights around the object.  The object made a sudden arc of altitude as it moved west.  The arc that it made in the sky would be about the size of the moon or so (.5-1 Deg).  After about another minute or 2 the object became smaller as it apparently moved north and gained altitude and it was finally lost in the incoming darkness.  During the entire time 3-4 planes with contrails were all seen flying in different directions which all seemed to closely intersect with the location of the UFO. All parties agree to the aspects of the summary and were all coherent and sober at the time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51196.html](http://www.nuforc.org/webreports/reports/051/S51196.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in East Windsor (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Yellow light hovering in the skyYellowish bright light, appeared to be several hundred feet in the air, slightly bobbing in the sky.  Very slight movements.  No sound.  Very irregular.  Maintained position for at least 30 min, possibly longer.((NUFORC Note:  Assuming a nighttime sighting, we have amended the time above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128199.html](http://www.nuforc.org/webreports/reports/128/S128199.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164394.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163891.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163893.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163886.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
