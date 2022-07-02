@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:52 on 2 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:43 on 2 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Bakersfield (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Extraordinary sighting of cigar shape craft over Bakersfield.Past three years have seen many things in the skies.  Yet nothing I feel confident enough to say is a ufo.  Until the morning of July 2, 2014, approximately at 3:14 am.What I saw is something I have never seen before.  It was so amazing it sent chills down my spine.  As real and dramatic as my experience was to me.  I was hesitant to make a report.  I changed my mind because when I arrived at home and turned on the news like every other day.  One of the first segments was a segment on ufo sightings.  Followed by a segment about the rocket luanch the night before.  I felt that the local news was trying to discredit what was clearly a dramatic sighting.  That meant I was not the only one to see it.  I wanted to go ahead and report my sighting and hopefully find out if there are more reports in my area.At 3:14 a.m., I noticed a bright red Orange ball of light coming in to visibility.  Much like an approaching plane that is going to soon land.  Then it came to complete stop.  This was extremely bright orange red light about the height that police helicopters fly in a city.  Then it made what look like a right turn yet when it did this, it went from being a ball of light.  To what seemed to me to be a long cigar shape with three lights in the middle...orange, red, orange.  Then it slowly moved in what I can only described as a snake slithering.  Then it slowly faded to a flashing light.  That stayed stationary for about another 45 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110871.html](http://www.nuforc.org/webreports/reports/110/S110871.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Grand Rapids (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>I WAS SITTING ON MY PORCH, I WAS FACING EAST.  AT 23:54 I HAD SEEN A SLOW MOVING LIGHT OFF IN THE DISTANCE.  THIS IS NOT UNUSUAL SINCE YOU CAN SEE AIRCRAFT COMING IN FOR A LANDING WITH THIER LANDING LIGHTS ON.  AFTER STARRING AT THE OBJECT FOR SEVERAL SECONDS I NOTICED THERE WAS NO SOUND AND THE OBJECT BEGAN TO DECREASE IN SPEED. AT THAT TIME THE LIGHT BEGAN TO INTINSIFY FOR ABOUT FIVE TO SEVEN SECONDS.  THEN ALL OF A SUDDEN IT TOOK OFF AT AN ANGLE OR A CURVE INTO THE SKY UNTIL IT WAS NO LONGER VISABLE.((NUFORC Note:  Date is approximate.  Two identical reports submitted for June 2, 1999, and July 2, 1999.  We will attempt to clarify with the witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23315.html](http://www.nuforc.org/webreports/reports/023/S23315.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164394.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163891.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163893.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163886.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
