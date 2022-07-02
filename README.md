@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:34:01 on 2 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:13:16 on 2 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1977, an anonymous witness in Don't remember (NH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was young at the time maybe 12ish,we always go camping every summer,I live in Rhode Island,and we were camping in New Hampshire it was was two days before the 4th of july, I remember it well because everybody was doing all kinds of fireworks "so its kind of hard to forget something  like that" The campground was called, I don't remember the name but it was something with the 7 DWORFS. Well 1 of the nights about 8:30-9:00PM "because it just about dark" when my sister and I seen a group of people looking and pointing up in the air taking excitedly so went over there we look up" it was just over the tree line, like 20 of the trees at about the 10 oclock posision beybe 1000 feet in front of us it was a round shape gray in color what I could see looked gray in color just sitting up there then there was some flashes I guess something like a camera flash I can only guess at the size of because I think anything in the sky is hard to jugde the size,but itwasmaybe like size of a olimpic size pool, Then slowly moved on forward and out of our sights.  Sorry for it being a boring story, but thats about it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19316.html](http://www.nuforc.org/webreports/reports/019/S19316.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Fort Payne (AL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>It was bright red and move before it disappeared.Myself, my fiancé, and my son saw this red ball of light for about 20 minutes in the western part of the sky of our city during a 4th of July fireworks celebration for the city of Fort Payne.  It did not move and it was red, red and round like a laser pointer.  It did not have any other colors blinking at all like a radio or cell tower.  I have the video.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157273.html](http://www.nuforc.org/webreports/reports/157/S157273.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164394.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163891.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163893.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163886.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
