@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:50 on 2 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:40 on 2 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Shelby (NC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Small UFO craft landed in my Garden at night leaving landing impressions like stands.This happened just after dark around 22:30.  I saw a flash of light on my TV screen that was connected to an outside security camera.  Which caught my attention.  There were two lights on the ground in my garden that was about 100 feet from my house.  I watched the light rise up to about 10 feet and the two turn into lights moving counter clockwise direction around a craft.  The craft was not big. Probably less than 10 feet across. Couldn't see a shape for the lights.  It hovered up, back and forth, and then drifted off to the east into the wooded area and up into the sky.The next morning, I went to investigate any damage done to my garden and you could see some mashed vines and leaves where it had been sitting or hovering.  Large round impressions about 12 inches, but not deep.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157333.html](http://www.nuforc.org/webreports/reports/157/S157333.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Scarborough (Canada) (ON) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Translucent Craft mile/s in diameter witnessed in the daytimeOn the date of Friday, July 2,2004,around the time 5:45pm.At the location of Scarborough,Ontario Near the intersection Birchmount/Kingston Rd.About 500 yards north from Lake Ontario.I was walking through the park admiring a nice clear, hot day.While walking westward through large trees in the landscape park.I stopped in the shade of a tree for a moment.Looking now and deliberately to block the sun.I looked up to the west in the sky and instantly become stunned of what I was witnessing in those 5-8 seconds.I can only describe in words that is simply incredible to imagine for any human.What I witnessed was semi-circular in shape.The size had to be at least one mile to even miles in diameter.Attitude looked quite high at 10,000 ft It's appearance was translucent like a jellyfish-bluish-white in color tone.It definately had a outside rim - Added by two smaller circles on the left side of this thing.Scale size to the larger 10:1 Each of these two smaller circles also had a outer rim.Showed the same trait of a thin rim around that appeared like one very LARGE outer  rim of semi-circle outline I watched it glide silently overhead from sound to north.It was a very freaky feeling those seconds witnessing this thing.I was after 5-8 seconds.that I became curious to see the wholeness of this craft.I wanted to know if there were two other smaller circles on the right side.I could not tell,due to blockage of tree to the right side.I instantly looked into the sun and was blinded by the sun's rays.I again looked up by blocking sun's direct rays, after about 10 seconds.I could not see it anymore.I cannot express to you what the emotions play in witnessing something so incredible.I thought it now important to report something that changes a person's life in thinking.Composite Drawing attached</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76105.html](http://www.nuforc.org/webreports/reports/076/S76105.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164394.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163891.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163893.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163886.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
