@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:37 on 2 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:41 on 2 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Mishawaka (IN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Bright orange sphere over Mishawaka, INOn the night of July 2, 2010, my wife, three kids, and a neighbor, and myself witnessed something extraordinary.  It was a glowing orange ball (orb?) heading on a north by northwest trajectory and was about 200-300 feet in the sky.  It was totally silent, was going very straight and swift, and was quite bright.  The light intensity was steady, never flickered or changed intensity at all.  It never deviated in elevation as it came overhead and passed over us. We were almost under it.My one daughter was actually crying it was so odd.  The thing that baffles me most....I never saw anything like it before.  I really wanted to say it was a Chinese sky lantern or a homemade hot-air balloon....but I never saw one ever like this.I used to make and fly model hot-air balloons....I even sold plans on how to build one in the classifieds of a particular magazine.  I've made them out of clear dry cleaner bags and tissue paper, etc.  I've flown probably 60-70 model hot-air balloons in my lifetime (I'm 43) and never seen anything like what we saw on the night of July 2.  Me and my wife are avid sky watchers and definitely know what meteors, satellites, planes, ISS etc looks like. This defies explanation to us.What we saw, and we were CLOSE to it.... was a bright round orange light inside what seemed to be a perfectly round glass sphere...  I guess that would be my best description.  I would guess...and this is just a guess based on my experience...to be around 7-8 ft in diameter.  Perhaps what seemed to be a glass sphere surrounding the ball of light could've actually been just the "flare" effect of the bright light.Also.... we had a county fair going on that night.....but this came from a direction that it couldn't possibly have came from the fair...I'm puzzled to explain it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76320.html](http://www.nuforc.org/webreports/reports/076/S76320.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Cle Elum (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Disc seen near mining area at Cle Elum, WA.This disc was noticed by myself while driving east on Highway #90 between Cle Elum and Ellensburg WA. in July of 2008.  This disc was close to highway #97 near Liberty, WA. at an altitude of approximately 5,000 feet.  The horizontal distance was several miles.  I watched it off and on for about 1-2 minutes while driving.  It began to move south toward the highway and climb.  I pointed it out to my wife, but she was unable to identify it before it disappeared.  This disc was not far from a mining claim that we owned in that region where we had numerous big foot encounters over a 15 year period.  Interesting.  Shortly thereafter, I became obsessed with preparing for disaster by stockpiling food.  This disc has not been the subject of a specific regression.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80075.html](http://www.nuforc.org/webreports/reports/080/S80075.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164394.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163891.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163893.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163886.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
