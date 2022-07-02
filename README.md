@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:32 on 2 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:02:07 on 2 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Longmont (CO) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>a large orange orb that divided into 6 and lasted low on the horizon for 1-2 minutesI saw a large. yellow-orange circle-too large for a star in the south west. I watched for a while then went outside. I called my husband who felt it was too slow for fire works. It slowly turned into 2 then 4 then five then six large flattened ovals but did not move. Then after a minute it started moving slowly south then decended slightly and disappeared instantly.There were fireworks in the area but none at the time of the sighting. aerials are not allowed in or area.There was no sound accompanying the orbs.We are medical professionals and have good vision and have never seen a strange object we cold not identify. From our prospective this was 50 times larger than a local airplane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70809.html](http://www.nuforc.org/webreports/reports/070/S70809.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Palatine (IL) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A grayish square shaped structure floating through the sky in Palatine, Illinois.I was stopped at a red light in Palatine, Illinois, and looked up at the sky and saw this grayish square shaped structure flying through the air above.  It was not an airplane.  The way it moved through the clouds was something I have never seen before.  I tried following it with my eyes but the red light changed to green and I had to keep moving with traffic.  I knew I had just seen a UFO.I stopped off to get some gasoline for my car and as I was driving home I saw another grayish square shaped structure in the sky.  I doubt if it was the same one.  This one was seen in Buffalo Grove, Illinois.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119964.html](http://www.nuforc.org/webreports/reports/119/S119964.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164394.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163891.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163893.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163886.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
