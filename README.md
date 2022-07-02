@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:53 on 2 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:50 on 2 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>On a walk through the neighborhood I glanced up at the sky and noticed a small circle heading west.  It went behind some trees and disappeared.  Further along the walk I thought I saw it heading east but it turned out to be a plane.  Though, once the plane gave  shape to its formation three circles very close to the plane appeared.  They were smaller than the plane and stacked on top of each other with some given space.  They floated in the air moving back and forth. West and East. Y ou could only see them when the sun reflected on their surface.  They’re either white or silver.  Hard to distinguish.  I could only see them while wearing sunglasses.  The sky was too bright.  After about three minutes they disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157375.html](http://www.nuforc.org/webreports/reports/157/S157375.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in Kansas City (PA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>The craft I witnessed was saucer shape and there were lights laminating around the bottom.  It was very large and right above a drive-in movie which was having a (swap & Shop) where there were at least 100 people.  I was two blocks away in my front yard and watched with amazement.  I ran up the block and watched the craft as long as I could till it finely went out of site.  I asked people at the swap & shop if they had seen the saucer and know one had seen anything.  I couldn't understand why or how this could be because it was about as big as the drive in itself.  The saucer was hovering over the drive in for five minutes or so then moved on west slowly.  My thoughts were it was a blimp or something like that but it looked too real to be a blimp.  It was very real and I seem to be the only one who saw it.  Now that is strange.  But true!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39092.html](http://www.nuforc.org/webreports/reports/039/S39092.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164394.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163891.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163893.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163886.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
