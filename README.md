@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:45 on 2 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:36 on 2 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Nashville (TN) reported seeing craft that fit the description of some 'Diamond' over a period of approximately  -  minutes.</sub><blockquote><sub>Huge Diamond shaped object full of lights and flying very low to the tree tops with no sound emittingI was driving home from work about 9:45 on HWY 40W between mile marker 191 and 192 when a huge object caught my eye hovering over the tree tops in front of me, going in the opposite direction.  It was almost right above me.  It moved slowly and I followed it as long as I could before I had to get my attention back on the road, about one min.  I didn't pull over, I really didn't know what to do, I just immediately started calling people.  It was way too big & way to lit up and much to low to the tree tops to be an airplane.   It was in the shape of a diamond, almost a triangle but much wider.  It had lights all along the wide base and up the sides that met together into a point.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76076.html](http://www.nuforc.org/webreports/reports/076/S76076.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Redlands (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>orange orbs  in sky Redlands ca6 orange orbs seen coming from southwest sky which came into view and dissapeared. Followed by 3 more orbs which made a v formation before disappearing one by one.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110873.html](http://www.nuforc.org/webreports/reports/110/S110873.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164394.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163891.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163893.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163886.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
