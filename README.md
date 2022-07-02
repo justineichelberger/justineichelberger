@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:43 on 2 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:50 on 2 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Grand Rapids (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>I WAS SITTING ON MY PORCH, I WAS FACING EAST.  AT 23:54 I HAD SEEN A SLOW MOVING LIGHT OFF IN THE DISTANCE.  THIS IS NOT UNUSUAL SINCE YOU CAN SEE AIRCRAFT COMING IN FOR A LANDING WITH THIER LANDING LIGHTS ON.  AFTER STARRING AT THE OBJECT FOR SEVERAL SECONDS I NOTICED THERE WAS NO SOUND AND THE OBJECT BEGAN TO DECREASE IN SPEED. AT THAT TIME THE LIGHT BEGAN TO INTINSIFY FOR ABOUT FIVE TO SEVEN SECONDS.  THEN ALL OF A SUDDEN IT TOOK OFF AT AN ANGLE OR A CURVE INTO THE SKY UNTIL IT WAS NO LONGER VISABLE.((NUFORC Note:  Date is approximate.  Two identical reports submitted for June 2, 1999, and July 2, 1999.  We will attempt to clarify with the witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23315.html](http://www.nuforc.org/webreports/reports/023/S23315.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Shelby (NC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Small UFO craft landed in my Garden at night leaving landing impressions like stands.This happened just after dark around 22:30.  I saw a flash of light on my TV screen that was connected to an outside security camera.  Which caught my attention.  There were two lights on the ground in my garden that was about 100 feet from my house.  I watched the light rise up to about 10 feet and the two turn into lights moving counter clockwise direction around a craft.  The craft was not big. Probably less than 10 feet across. Couldn't see a shape for the lights.  It hovered up, back and forth, and then drifted off to the east into the wooded area and up into the sky.The next morning, I went to investigate any damage done to my garden and you could see some mashed vines and leaves where it had been sitting or hovering.  Large round impressions about 12 inches, but not deep.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157333.html](http://www.nuforc.org/webreports/reports/157/S157333.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164394.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163891.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163893.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163886.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
