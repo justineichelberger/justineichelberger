@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:41 on 2 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:32 on 2 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Cle Elum (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Disc seen near mining area at Cle Elum, WA.This disc was noticed by myself while driving east on Highway #90 between Cle Elum and Ellensburg WA. in July of 2008.  This disc was close to highway #97 near Liberty, WA. at an altitude of approximately 5,000 feet.  The horizontal distance was several miles.  I watched it off and on for about 1-2 minutes while driving.  It began to move south toward the highway and climb.  I pointed it out to my wife, but she was unable to identify it before it disappeared.  This disc was not far from a mining claim that we owned in that region where we had numerous big foot encounters over a 15 year period.  Interesting.  Shortly thereafter, I became obsessed with preparing for disaster by stockpiling food.  This disc has not been the subject of a specific regression.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80075.html](http://www.nuforc.org/webreports/reports/080/S80075.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Longmont (CO) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>a large orange orb that divided into 6 and lasted low on the horizon for 1-2 minutesI saw a large. yellow-orange circle-too large for a star in the south west. I watched for a while then went outside. I called my husband who felt it was too slow for fire works. It slowly turned into 2 then 4 then five then six large flattened ovals but did not move. Then after a minute it started moving slowly south then decended slightly and disappeared instantly.There were fireworks in the area but none at the time of the sighting. aerials are not allowed in or area.There was no sound accompanying the orbs.We are medical professionals and have good vision and have never seen a strange object we cold not identify. From our prospective this was 50 times larger than a local airplane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70809.html](http://www.nuforc.org/webreports/reports/070/S70809.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164394.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163891.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163893.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163886.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
