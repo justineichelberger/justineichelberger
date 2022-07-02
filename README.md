@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:14 on 2 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:44:10 on 2 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Santa Fe (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>A series of  red light flew overheadJuly 2, 2011. Santa Fe, TX.  At about 10:00pm I was in my front yard,  I looked up and directly overhead were four bright red lights.  Very pretty,  I went in and called my wife to come out and look.  We watched as they slowly moved off toward the northeast.  Then we looked  back and four more red lights were over us.  They were not flashing of rotating.  The night was clear and starry and the red lights were low enough to be seen very clearly.  They flew away in single file following the first lights.  Then we looked back and four more red lights were coming overhead, they were slightly north of the first lights but going in the same general direction.  No noise, moving slow, and we watched until they went out of sight.  They seemed to be getting higher as they flew away.I am 73 years old, a retired firefighter, arson investigator and I flew airplanes for 30 years.  I am well aware of what aircraft lights look like and these lights were not any kind of aircraft that I have ever heard of.  They were too far apart to be a single aircraft or three large aircraft.  They were just individual lights following each other across the sky.  I would really like to know what they were.  This has been on my mine a great deal and I have no answer.  Maybe you can tell me what this was.I talked to other people in my neighborhood who said that they say the lights also.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83479.html](http://www.nuforc.org/webreports/reports/083/S83479.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Firestone (CO) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Four to Five Diamond Shaped Objects in Formation with Strange MovementsDriving north on I-25 just south of the Firestone exit, I looked out the window and to the north-northwest I saw four to five diamond-shaped objects -- white and gray -- moving in formation in strange patterns in the sky. I pointed them out to my wife, who saw them as well. They were so odd in their shape and movement, I almost pulled to car over to look, but since there was heavy traffic, I just slowed down. My wife watched through the sunroof and window, then the back window, and then the object disappeared from view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163943.html](http://www.nuforc.org/webreports/reports/163/S163943.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164394.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163891.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163893.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163886.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
