@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:44:10 on 2 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:34:01 on 2 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Firestone (CO) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Four to Five Diamond Shaped Objects in Formation with Strange MovementsDriving north on I-25 just south of the Firestone exit, I looked out the window and to the north-northwest I saw four to five diamond-shaped objects -- white and gray -- moving in formation in strange patterns in the sky. I pointed them out to my wife, who saw them as well. They were so odd in their shape and movement, I almost pulled to car over to look, but since there was heavy traffic, I just slowed down. My wife watched through the sunroof and window, then the back window, and then the object disappeared from view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163943.html](http://www.nuforc.org/webreports/reports/163/S163943.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1977, an anonymous witness in Don't remember (NH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was young at the time maybe 12ish,we always go camping every summer,I live in Rhode Island,and we were camping in New Hampshire it was was two days before the 4th of july, I remember it well because everybody was doing all kinds of fireworks "so its kind of hard to forget something  like that" The campground was called, I don't remember the name but it was something with the 7 DWORFS. Well 1 of the nights about 8:30-9:00PM "because it just about dark" when my sister and I seen a group of people looking and pointing up in the air taking excitedly so went over there we look up" it was just over the tree line, like 20 of the trees at about the 10 oclock posision beybe 1000 feet in front of us it was a round shape gray in color what I could see looked gray in color just sitting up there then there was some flashes I guess something like a camera flash I can only guess at the size of because I think anything in the sky is hard to jugde the size,but itwasmaybe like size of a olimpic size pool, Then slowly moved on forward and out of our sights.  Sorry for it being a boring story, but thats about it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19316.html](http://www.nuforc.org/webreports/reports/019/S19316.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164394.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163891.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163893.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163886.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
