@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:02:07 on 2 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:51 on 2 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Palatine (IL) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A grayish square shaped structure floating through the sky in Palatine, Illinois.I was stopped at a red light in Palatine, Illinois, and looked up at the sky and saw this grayish square shaped structure flying through the air above.  It was not an airplane.  The way it moved through the clouds was something I have never seen before.  I tried following it with my eyes but the red light changed to green and I had to keep moving with traffic.  I knew I had just seen a UFO.I stopped off to get some gasoline for my car and as I was driving home I saw another grayish square shaped structure in the sky.  I doubt if it was the same one.  This one was seen in Buffalo Grove, Illinois.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119964.html](http://www.nuforc.org/webreports/reports/119/S119964.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Vergas (MN) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>During a vacation with my son on a lake in Minnesota we went for a late night cruise and had a couple beers while looking at the stars in the clear night sky.  After seeing what we thought where satellites and watching them along with planes pass by I noticed a light coming over the trees from the south.  The light was white and moving fast and what appeared to be very high, as high as the satallites.  The light would get bright and dim very slowley and seem to disappear but only got dim.  You could still see it through the binoculars while it was dim.  Then as it got overhead we were both surprised to notice at the same time there where more than one and all going in formation and all getting bright and dim at different times.  No noise, no trails and thay kept going north until thay disappeared in the sky.  At that point we saw two aircraft lights coming from the west (Fargo) and head north as if looking for something.  We agreed there must have been 8 object but, they where difficult to count because of the dimming and brightening.((NUFORC Note:  Source of the report indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71714.html](http://www.nuforc.org/webreports/reports/071/S71714.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164394.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163891.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163893.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163886.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
