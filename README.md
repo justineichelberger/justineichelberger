@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:44 on 3 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:51 on 3 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Riverside (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Red lights to the North during Patriot High fireworksWatching fireworks display I saw a red light to my NW thought it was a helicopter until it stopped on a dime and hovered for a few minutes then moved in a manner uncharacteristic of a helicopter back to the SW a 100 feet then it continued to hover and move in a very smooth manner a number of times. It then went towards the NE and I lost sight behind trees as it moved from the area.  Too high for a drone too smooth for a helicopter and the manner of flight did not indicate a plane (which were in the area since we are on the flight path into Ontario airport)  Multiple people viewed and exclaimed that it was extraordinary.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128240.html](http://www.nuforc.org/webreports/reports/128/S128240.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Gastonia (NC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>rustic brown sphere spotted in gastonia n.c. traveling over apartment complex.I walked outside to smoke a cigarette out on my third story apartment deck and was admiring the pink clouds as the sun was setting. I saw an object that was out of the ordinary. The first thing i thought of was a hot air ballon but it was too low for a landing because of all the power lines and buildings in the area. Note there was a dead wind on the ground. I would estimate the object was about 300 feet off the ground. Let me add that i have spent my whole life at airports. I am a pilot and a regular skydiver with over 600 jumps. With that said i am trained to know distances of objects and wind conditions. This was no hot air ballon because there was not a basket underneath. I would also know this because i have many ballon flights as well. The object was flying at about 35 to 40 mph. The object was orbiting in a clock wise rotation from ground view. I would say that the object was turning at 10 rpm. The color of the object was a light rustic brown. I could! tell the object was rotating because there were three indentations on the bottom half, much like a golf ball would have. The object was about 30 meters in diameter. The object maintained heading until out of site. The object was silent. This object was nothing i have ever seen and let me say that in all my years in aeronautics it baffled me. I dont know what else to say i just want answers.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83940.html](http://www.nuforc.org/webreports/reports/083/S83940.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [580](http://www.nuforc.org/webreports/reports/163/S163910.html)
-- [579](http://www.nuforc.org/webreports/reports/163/S163916.html)
-- [578](http://www.nuforc.org/webreports/reports/163/S163906.html)
-- [577](http://www.nuforc.org/webreports/reports/164/S164063.html)
-- [576](http://www.nuforc.org/webreports/reports/164/S164033.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
