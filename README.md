@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:42 on 3 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:47 on 3 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Tacoma area (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>was wondering if anyone reported a craft in the sky about this time -- i was talking on the phone with with my sister who lives near Tacoma and she told me she was watching a strange phenomena hovering in the sky -- i live in tillamook oregon. no sound from the craft((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44734.html](http://www.nuforc.org/webreports/reports/044/S44734.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in McDonough (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Me and my friend were playing tennis, when i saw the ufo. My friend saw the ufo over my head and didnt think much of it. It first appeared like a airplane, a slow moving light, almost a cylinder shape. i saw the light it was very bright and very white. It was moving slow, the speed of a aircraft. Although the ufo wasnt very high off the ground, possibly a mile to 2miles high max. The slow moving light got brighter and shaped more like a cylinder and sped away at a extremely fast speed. The ufo was only in my sight for about 3seconds. The light was bright enough and big enough to know it wasnt a plane, and it wasnt a shooting star because the object was moving slow, then sped away at a very fast pace. It was a awesome sighting, my first sighting i could say without a doubt it was a ufo, very cool. key points about the ufo, it made no sounds. The ufo was very low, and it was very bright. The bright light was white in color, and the ufo changed it shape into a more cylinder shape when it started to speed away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57428.html](http://www.nuforc.org/webreports/reports/057/S57428.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [580](http://www.nuforc.org/webreports/reports/163/S163910.html)
-- [579](http://www.nuforc.org/webreports/reports/163/S163916.html)
-- [578](http://www.nuforc.org/webreports/reports/163/S163906.html)
-- [577](http://www.nuforc.org/webreports/reports/164/S164063.html)
-- [576](http://www.nuforc.org/webreports/reports/164/S164033.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
