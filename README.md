@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:52 on 3 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:43:35 on 3 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Salem (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright light seen in western sky below the planet Jupiter. Brighter than Jupiter.Bright light seen just below (about 2 inches at arms length) and to the right of Jupiter, the planet. It did not move. It was brighter than Jupiter and did not blink. It went out in 4 or 5 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38004.html](http://www.nuforc.org/webreports/reports/038/S38004.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Bartlesville (OK) reported seeing craft that fit the description of some 'Changing' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Two sightings in Bartlesville, OKWell, I had stepped outside to smoke a cigarette and looking west and upward I saw what looked like a star.  I My girlfriend comes out to stands next to me and I say  " is that Venus?" She doesn't know, I see that it is brighter than a normal star and flashing green, orange, and white.  I was crown shaped yet the thing changed it shape. Then to our surprise it slowly and I mean slowly moves to the right, then quickly back.  It did this several times... slow at first, then decisively going back.  Staying for 40 minutes or so we know the position has changed in the sky way to the right.  It was as high that I mistook it for a star. Seemed as if tiny white lasers were leaving it or crossing it's path. 7 months ago I was driving home at 3 pm or so northward here in town. I saw in the sky from way high several flashing white lights descend toward earth each flashed at different times yet at the same speed. They were arranged like this.Imaging an upside down pointing rack of bowling pins set them apart wider, and add two more on the top row:((NUFORC Note:  Orientation of objects did not survive transfer to database.  PD))Their position to each other did not change but it fell at such a high rate of speed I sped through residential streets to get to a place to catch it again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51209.html](http://www.nuforc.org/webreports/reports/051/S51209.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [580](http://www.nuforc.org/webreports/reports/163/S163910.html)
-- [579](http://www.nuforc.org/webreports/reports/163/S163916.html)
-- [578](http://www.nuforc.org/webreports/reports/163/S163906.html)
-- [577](http://www.nuforc.org/webreports/reports/164/S164063.html)
-- [576](http://www.nuforc.org/webreports/reports/164/S164033.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
