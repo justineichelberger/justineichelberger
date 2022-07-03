@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:59 on 3 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:52 on 3 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Puerto Rico/Ft. Lauderdale (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Objects began to appear in the night sky next to our airplaneI was on a plane leaving Puerto Rico (San Juan) at around 9:30, going to Ft. Lauderdale, Florida.  This was my first time on an airplane so I was taking many pictures and videos of the night sky through my window to see all the stars and what not. When I got home, I connected my camera to my computer to see if the pictures came out any good, since I was using Hand held Twilight mode on my camera to capture the stars.  When I began to look through the pictures (about 50) I noticed 5 pictures that were odd, 1 which showed 3 circular lighted objects flying by the plane.  The next picture, a fourth UFO joins the group, and in the last 3 pictures u see them going further away. I haven’t checked any of the videos yet because my computer isn’t letting me play them on it.  I have the original pictures and the ones on my computer were only changed in brightness and contrast to see the objects better.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82372.html](http://www.nuforc.org/webreports/reports/082/S82372.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Glendale (AZ) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Woman repts. multiple red bright lights hovering, maneuvering "over the mountains."  Objects reptd. to ascend "pretty fast."</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00596.html](http://www.nuforc.org/webreports/reports/000/S00596.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [580](http://www.nuforc.org/webreports/reports/163/S163910.html)
-- [579](http://www.nuforc.org/webreports/reports/163/S163916.html)
-- [578](http://www.nuforc.org/webreports/reports/163/S163906.html)
-- [577](http://www.nuforc.org/webreports/reports/164/S164063.html)
-- [576](http://www.nuforc.org/webreports/reports/164/S164033.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
