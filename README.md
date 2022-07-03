@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:33 on 3 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:40 on 3 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Castle Rock (CO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>3 red/amber orbs observed travelling seperatley about 1 minute apart with a Denver headingTotal of three objects seen individually coming from the same location (South/Southwest of my location) travelling in a north and slightly easterly direction.  They came in about 1 minute apart travelling in the same direction with a slightly different flight path, speed and altitude – no anomalous flight characteristics.  Each was an orb with a strong red light on the perimeter with an amber orange center.  The third object stopped illuminating red/amber lights just overhead and was a dull grey round object that then began to illuminate a small red light that then began to circle the object in a rotating fashion.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128433.html](http://www.nuforc.org/webreports/reports/128/S128433.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Champions Gate (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two sphere long fire behind it.Walked outside have a smoke and i see two sphere objects flying very fast no sound one in front of the other the second one had a long tail of fire.  The were flying east to west.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147327.html](http://www.nuforc.org/webreports/reports/147/S147327.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [580](http://www.nuforc.org/webreports/reports/163/S163910.html)
-- [579](http://www.nuforc.org/webreports/reports/163/S163916.html)
-- [578](http://www.nuforc.org/webreports/reports/163/S163906.html)
-- [577](http://www.nuforc.org/webreports/reports/164/S164063.html)
-- [576](http://www.nuforc.org/webreports/reports/164/S164033.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
