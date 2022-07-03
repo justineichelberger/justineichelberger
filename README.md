@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:31 on 2 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:38 on 3 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in East Windsor (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Yellow light hovering in the skyYellowish bright light, appeared to be several hundred feet in the air, slightly bobbing in the sky.  Very slight movements.  No sound.  Very irregular.  Maintained position for at least 30 min, possibly longer.((NUFORC Note:  Assuming a nighttime sighting, we have amended the time above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128199.html](http://www.nuforc.org/webreports/reports/128/S128199.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Ponte Vedra Beach (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Orange ball of light not moving for more than 20 minutesI looked in the sky and saw an orange ball of light with no movement.  I called my brother out to see it as well.  I took pictures and it looks like a rocky shape surrounds the ball of light.  It looked to be above the edge of the coast.  We watched for about 20 minutes and it did not move.  My brother wanted to go to bed and I was afraid to stay out there by myself, so I could not see what it did from there.   Last night, July 4th, it was there again in the same spot and not moving.((NUFORC Note:  Possibly a sighting of a planet?  Mars?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142073.html](http://www.nuforc.org/webreports/reports/142/S142073.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164394.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163891.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163893.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163886.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
