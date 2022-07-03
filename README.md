@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:48 on 3 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:35 on 3 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Bena (MN) reported seeing craft that fit the description of some 'Other' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>The black vehicle was there in front of me, then in a puff of smoke and it was gone.I was driving west on US Hwy 2 between the City of Ball Club and Bena MN. I was approaching a black vehicle and as I got closer it increased it's speed keeping pace with me. I was within 100 yards of the vehicle. It went into the oncoming lane of traffic and accelerated causing the rear of the vehicle to drop slightly. At that instant a VERY large cloud of white smoke filled the highway. I slowed my vehicle and turned toward the shoulder on the North side of the highway. As I went thru the cloud I expected to see the vehicle stopped or black marks on the road. Once I was in the Cloud I could see out, but it was still thick. I watched the ditch on the South side of the highway as well, but saw no evidence of the vehicle leaving the roadway. I expected to smell burnt rubber from the tires skidding or spinning on the highway, but there was no smell. As I came out of the Cloud I could see for a couple of miles as the highway was straight. There were vehicles ap! proaching from some distance to the front but no one going in my direction. I looked in my rear view mirror and there was another vehicle coming around the cloud on the north side also. I wanted to stop that vehicle to see what they saw and thought of the encounter, but I didn't feel comfortable with that of know how to get them to stop. All I can tell you about the vehicle is that it was a midsize black sedan. Nothing special at all about it. I couldn't rap my head around what I had just seen and for nearly an hour the hair on my arms stood straight on end. It was a very strange experience!! I didn't see it in the air or anything so maybe not connected to a UFO. The only other explanation I can conclude would be spiritual or a ghost if you will. No matter what I am still very freaked out and bothered by what I witnessed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147303.html](http://www.nuforc.org/webreports/reports/147/S147303.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Green light fades into the night.I was driving, out of the top left corner of my eye I noticed something.  I look and for a second I see a stationary green light, then once my eyes can focus on it, it rapidly moved east and faded out.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119981.html](http://www.nuforc.org/webreports/reports/119/S119981.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [580](http://www.nuforc.org/webreports/reports/163/S163910.html)
-- [579](http://www.nuforc.org/webreports/reports/163/S163916.html)
-- [578](http://www.nuforc.org/webreports/reports/163/S163906.html)
-- [577](http://www.nuforc.org/webreports/reports/164/S164063.html)
-- [576](http://www.nuforc.org/webreports/reports/164/S164033.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
