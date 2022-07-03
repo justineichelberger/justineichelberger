@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:07:50 on 3 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:59 on 3 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Pawtucket (RI) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Possible UFO or military aircraft above McCoy Stadium after the Pawtucket Red Sox - Scranton Willkes-Barre Rail Riders baseball game.I was in attendance at the Pawtucket Red Sox baseball game on July 3, 2015, and the fireworks display afterwards.  During the fireworks display, there was in the sky what appeared to be an aircraft with a steady red light and flashing green light hovering above and the west of the fireworks.  My sister and brother in-law both witnessed the phenomenon as well.  On no less than three occasions the aircraft began to accelerate at a high rate of speed and then suddenly stop after a short distance.  The moment the fireworks stopped after the grand finale, the aircraft did what appeared to be a U-turn in the sky, zig-zagged a bit as though it were drunk, and then shot off at a high rate of speed.  I have seen military aircraft perform similar aerial maneuvers, such as the F-22 Raptor.  Therefore, I did not immediately assume that it was a UFO.  Nevertheless, it certainly was not any kind of commercial or private aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120018.html](http://www.nuforc.org/webreports/reports/120/S120018.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Puerto Rico/Ft. Lauderdale (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Objects began to appear in the night sky next to our airplaneI was on a plane leaving Puerto Rico (San Juan) at around 9:30, going to Ft. Lauderdale, Florida.  This was my first time on an airplane so I was taking many pictures and videos of the night sky through my window to see all the stars and what not. When I got home, I connected my camera to my computer to see if the pictures came out any good, since I was using Hand held Twilight mode on my camera to capture the stars.  When I began to look through the pictures (about 50) I noticed 5 pictures that were odd, 1 which showed 3 circular lighted objects flying by the plane.  The next picture, a fourth UFO joins the group, and in the last 3 pictures u see them going further away. I haven’t checked any of the videos yet because my computer isn’t letting me play them on it.  I have the original pictures and the ones on my computer were only changed in brightness and contrast to see the objects better.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82372.html](http://www.nuforc.org/webreports/reports/082/S82372.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [580](http://www.nuforc.org/webreports/reports/163/S163910.html)
-- [579](http://www.nuforc.org/webreports/reports/163/S163916.html)
-- [578](http://www.nuforc.org/webreports/reports/163/S163906.html)
-- [577](http://www.nuforc.org/webreports/reports/164/S164063.html)
-- [576](http://www.nuforc.org/webreports/reports/164/S164033.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
