@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:52 on 3 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:46 on 3 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Glendale (AZ) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Woman repts. multiple red bright lights hovering, maneuvering "over the mountains."  Objects reptd. to ascend "pretty fast."</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00596.html](http://www.nuforc.org/webreports/reports/000/S00596.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in West Lafayette (IN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orange-amber fireball observed, passing above cloudsI was walking out of a university building and was talking on the phone.  I then saw an almost steady bright orange-amber ball in the sky, like a fireball.  I first suspected a still incandescent remnant of a firework of some type.  It was not falling in a parabolic manner though, but was traveling linearly instead.  I was hearing sparse firecracking so I naturally suspected firework. It then appeared much higher than expected for a firework and seemed to last unusually long.  I dismissed the possibility of a plane as no blinking lights were seen.  The ball was steadily traveling linearly, like a meteor, but a little slower.  It was like traveling across the sky from a north-east to full west direction and seemed to pick up speed. Only as I saw it approaching a cloud that I realized the cloud looked to be beneath it?!?  The light was covered by the cloud.  I could still see a orange light through it.  It seemed at this point to follow a slow rotation, the light started fading a little.  The weather was not hazy and only a few trails of clouds were scattered in the sky.  Could it have been a (new type) of fireworks?  The fact it passed over the cloud made me doubt.  I then had the surely exaggerated thought of a plane possibly on fire. It continued its course until it went full west then behind a building.  As I took my car i then saw it (or maybe rather another one) again up in the sky in the west direction in the horizon.  It was glowing amber, seemed to stand still and slowing faded as it slowly moved further in the horizon.   Firecracking and fireworks rare noises were much closer to me than was this light which seemed to be much further away.  I suspected a new type of fireworks but having seen recently meteor, (not a meteorite nor shooting star), crossing the entire sky near this place this spring, it looked more like this.  A fireball traveling linearly from north north-east to west and above the clouds as it went close to it?  I suspect the ridiculousness of the situation for something that might just be a so-called "Chinese lantern" you most recently mentioned and that I never saw.  I, at first, just got appalled by the recent postings on your site as I came to check it, out of curiosity (and for the first time).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82115.html](http://www.nuforc.org/webreports/reports/082/S82115.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [580](http://www.nuforc.org/webreports/reports/163/S163910.html)
-- [579](http://www.nuforc.org/webreports/reports/163/S163916.html)
-- [578](http://www.nuforc.org/webreports/reports/163/S163906.html)
-- [577](http://www.nuforc.org/webreports/reports/164/S164063.html)
-- [576](http://www.nuforc.org/webreports/reports/164/S164033.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
