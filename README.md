@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:47 on 4 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:31 on 4 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Lexinton (KY) reported seeing craft that fit the description of some 'Formation' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Several "star objects"; in groups of 6-1 at approximately  8 minute intervals.  No sound.  No navigation.Watching fireworks on residential hill, we saw, low in the sky (10-15 degrees above horizon) a group of 4 - 6 very bright like a stars (no navigation lights) traveling N.E. to S.W. at a moderately slow speed.  They were visible for about 3 -7 minutes, then they dimmed and disappeared.  That's not all.About 4 '8 minutes later, a smaller group, 4 - 6 did the exact same thing.  Brightens, route, degree above horizon etc.They too dimmed out at same area as previous group.We kept watching the area, where they first appeared, and another two appeared and began their "flight" exactly the same.Finally, a lone "star object" appeared as the others.  This one was brighter, and followed same flight path.These objects displayed NO navigation lights whatsoever.  No sound.  Nada.   Just bizarre.I did take one picture and one short phone video.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142068.html](http://www.nuforc.org/webreports/reports/142/S142068.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>A matte black aircraft with a large red light on the back hovers for 5 minutes then flys away at insane speed into space.It was 4th of July and I was watching fireworks with a friend of mine from my car out in a cow pasture. I began to notice one bright red light that appeared to be hovering about 3 miles away and approximately a quarter mile off the ground. I stopped looking at it until my friend pointed it out to me which made me inspect it more closely. It appeared at first to be a bright red football shaped light  hovering in one spot but by its light I could see a matte black object in the shape of a large oddly shaped airplane. From the point I had first noticed until we both started inspecting it maybe 5 minutes had elapsed with this object which appeared to be at least 50 feet long and wide hovering in one place but as soon as we both looked closer it appeared to get dimmer until we realized it was because it had left at such an amazing speed that the bright light just appeared to get dimmer. it took off at a 30 degree angle headed directly away from us and up into a completely clear sky until it disappeared from distance.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70878.html](http://www.nuforc.org/webreports/reports/070/S70878.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [2106](http://www.nuforc.org/webreports/reports/163/S163902.html)
-- [2105](http://www.nuforc.org/webreports/reports/165/S165727.html)
-- [2104](http://www.nuforc.org/webreports/reports/164/S164061.html)
-- [2103](http://www.nuforc.org/webreports/reports/163/S163929.html)
-- [2102](http://www.nuforc.org/webreports/reports/164/S164389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
