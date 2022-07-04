@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:35 on 4 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:36 on 4 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Holland (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I saw the bright light slowly streak in the sky and it turned around and went back in to space and disappeared.We were lighting off fireworks and I looked in the sky and saw a bright light moving very slow and I said look a UFO and two other people saw it and we watch it turn around and move away slowly disappearing into space! I would say that it was very far away!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04203.html](http://www.nuforc.org/webreports/reports/004/S04203.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Burke (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Silent, non-blinking red orbs in sky.We were on our back deck night of July 4, 2014, when I noticed a strange round red light in the sky.  It made no noise and did not blink like helicopters or airplanes.  It was a constant light moving at a casual pace across the night sky.  Time was about 9:10 or 9:15 PM.  There were 2 other people with me and I pointed it out to them.  It was moving from North to South.   Then 2 more of these "orbs" appeared.  Several more after that ... they were following each other.   And then 3 or 4 more appeared.  I believe I saw a total of 8 to 10 of them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111378.html](http://www.nuforc.org/webreports/reports/111/S111378.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [2106](http://www.nuforc.org/webreports/reports/163/S163902.html)
-- [2105](http://www.nuforc.org/webreports/reports/165/S165727.html)
-- [2104](http://www.nuforc.org/webreports/reports/164/S164061.html)
-- [2103](http://www.nuforc.org/webreports/reports/163/S163929.html)
-- [2102](http://www.nuforc.org/webreports/reports/164/S164389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
