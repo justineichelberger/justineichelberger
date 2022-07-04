@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:43 on 4 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:40 on 4 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Cherry Hill (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Daughter asked me what was that in clear night sky. I along with 5 other people saw three orange lights that were shaped in a triangle.  They moved very slowly yet evenly across the sky then vanished. Right before vanishing we swore we saw a circle appear quickly then it was over.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76440.html](http://www.nuforc.org/webreports/reports/076/S76440.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Northport (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately :45 - :45 minutes.</sub><blockquote><sub>object observed in rural setting; one very bright rounded light with sharp crisp rays (one observer did not see rays); through binnoculars red and green smaller lights observed-no rays; very slow moving; seemed to ascent & desend (oberved through trees so not positive)then disappeared (perhaps behind trees); seen a few minutes later(by 2 people only) from open field and described as not being visable at first then turning on like a dimmer switch; yellow ball moving fast across sky with no rays observed and no sound; then disappearingObject first seen by visitors leaving rural home after dinner.  Property located in NW corner of Tuscaloosa County, AL.  Direction of object would be to west of property.  As first observers turned notherly and drove .2 miles to a paved road they continued to see the object to the west.  They returned to the home and object was observed by 4 adults for approximately 45 minutes before disappearing from view (perhaps behind trees & hills).  One observer called 911 to report and asked for telephone number to Columbus Air Force Base (Columbus, MS). I was given number to Command Post 601-((number deleted)) and I think the person I talked with was named Brady.  He told me they were not and could not launch aircraft to check out situation because of holiday weekend and the fact they had no aircraft were presently flying.  He called me back with telephone number to the UFO Center (206-722-3000).  I could not reach a person due to holiday but was given web site address.  Therefore I am reporting it  via that site on July 5, 1999.  You may contact me with questions via e-mail but I cannot accept collect telephone calls.  You may call at your expense if you are interested in doing so.((2nd message))Thank you for your quick reply.  I have a typo correction to make.  The question #240 address state should be AL (Alabama) not GA (Georgia).Also, I will be forwarding a map to you to identify the location where the sighting occurred and a sketch of what the object looked like to 2 of the 4 observers.I will look at the other "new reports" with interest.I must admit that I was uneasy and a little frightened by what I saw.Sincerely,((Name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08258.html](http://www.nuforc.org/webreports/reports/008/S08258.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [2106](http://www.nuforc.org/webreports/reports/163/S163902.html)
-- [2105](http://www.nuforc.org/webreports/reports/165/S165727.html)
-- [2104](http://www.nuforc.org/webreports/reports/164/S164061.html)
-- [2103](http://www.nuforc.org/webreports/reports/163/S163929.html)
-- [2102](http://www.nuforc.org/webreports/reports/164/S164389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
