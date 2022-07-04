@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:12:18 on 4 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:05:43 on 4 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Redmond (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Light above Redmond, WA, moving rapidy making infinity signA light appeared and was moving in an infinity sign moving very fast and right above us.  The light was coming from above the clouds.  After about 20 rotations, it disappeared and then came back, but was still then disappeared</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142074.html](http://www.nuforc.org/webreports/reports/142/S142074.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Beloit (WI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>While watching fireworks on the 4th of July, I was treated to more than just fireworks -- a couple red glowing orbs passed overhead.While watching private fireworks in the neighborhood, while in my mother's back yard, she and I observed and unusual light traveling from the ESE to WNW, traveling nearly directly overhead.  The light was reddish and seemed to did not blink.I immediately began to record the object on video using my phone camera. I have attached the link to the videos in a separate email to ufocntr@nwlink.com.  There are two videos on my cell phone, which I've upload to my Amazon photos account.Twenty minutes after the first observation, I witnessed a second object, identical to the first. It is possible that I observed the same object twice. The second object was traveling the same trajectory as the first, just a few hundred feet to the north of the first path.Though not clear in the video (at least on my phone screen), the object(s) appeared spherical, especially the first sighting after it passed over my position (was headed away).  At first, it appeared to be just a reddish light in the sky, but then clearly had a size that was not illuminated.  When reviewing the video, as it retreated to the WNW, the first object has an interesting pattern visible in its structure upon my zooming in with the camera functions.Unfortunately, the microphone on my phone's camera was disabled, but the objects produced no sound, although they appeared to be only a few hundred feet in altitude above my position.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157301.html](http://www.nuforc.org/webreports/reports/157/S157301.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [2106](http://www.nuforc.org/webreports/reports/163/S163902.html)
-- [2105](http://www.nuforc.org/webreports/reports/165/S165727.html)
-- [2104](http://www.nuforc.org/webreports/reports/164/S164061.html)
-- [2103](http://www.nuforc.org/webreports/reports/163/S163929.html)
-- [2102](http://www.nuforc.org/webreports/reports/164/S164389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
