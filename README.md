@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:47:45 on 4 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:33:21 on 4 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1976, an anonymous witness in Waubay (SD) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>My cousin and I were fishing. Lake Minnewasta in Day County, SD on a small lake  with very few cabins (5?, on the opposite side of the lake).  We were on a sandbar surrounded by private farmland.  We had our lines tangled and we were arguing about it.  It was a clear night.  We swear that the water got rougher after we had our encounter.  This object came over our heads from the south and stayed right over us for some time.  We could hold our arms out to explained how large it was, tell you that it had a humming sound and took off fast in almost straight up in a NW direction. It was big.  The catch is that we could not see it, but it was there.  We were so shaken  we could hardly stand up.  We have thought about hypnosis over the years to see if we could recall anything. We know that it was not man made techlogy and I have never heard anything like it since. I don't know if we were misiing time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158083.html](http://www.nuforc.org/webreports/reports/158/S158083.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Panama City Beach (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Orange spheres over Panama City Beach Florida	On July 4th, 2014, at approximately 8:30 pm, I witnessed a ufo fly over me.  I was standing on the beach between the Sandpiper Beacon Beach Resort located at 17403 Front Beach Road in Panama City Beach, Fl. 32413 and Landmark Holiday Beach Resort 17501 Front Beach Rd, Panama City Bch, FL 32413.  	I was facing the gulf (south) watching fireworks that were on both sides of me.  I was watching the ones to the left of me when a friend said "look at that".  I turned to my right and saw a ufo approximately 20 feet in diameter, spherical, glowing orange, the outside surface texture was not frozen solid, but had small waves on it.  However it was not transparent.  It was traveling from west to east.  The ufo was between me and Emerald Isle Beach Resort (Emerald Isle Resort stands 23 stories tall) when I first saw it.  I judged its size and speed (about 60 mph) against the Emerald Isle Resort and Landmark Holiday Beach Resort, and Sandpiper Beacon Beach Resort.  I saw it large for about 3 seconds, (from the Emerald Isle Resort  and Sandpiper Beacon Beach Resort.) then in about one second it traveled about 2 miles east to around pier park (approximately 7,200 mph) and stopped.  It seemed to go straight along the coastline.	After that initial sighting, there were multiple lights in the sky (not from the fireworks).  The spherical lights were orange and red.  They would sometimes fly in formation, and other times go away or towards each other.  There is no way they can be lanterns or airplanes.  They moved to fast and quickly went in opposite directions.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111292.html](http://www.nuforc.org/webreports/reports/111/S111292.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [2106](http://www.nuforc.org/webreports/reports/163/S163902.html)
-- [2105](http://www.nuforc.org/webreports/reports/165/S165727.html)
-- [2104](http://www.nuforc.org/webreports/reports/164/S164061.html)
-- [2103](http://www.nuforc.org/webreports/reports/163/S163929.html)
-- [2102](http://www.nuforc.org/webreports/reports/164/S164389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
