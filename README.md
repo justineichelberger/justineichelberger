@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:55 on 4 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:47:45 on 4 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Minneapolis (MN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A fireball/spherical kind of orange glove floating and it's July 4th but it's no mere fireworkOne would thing this orange fireball/globe was a firework but it just kept moving north never exploding or making noise it was moving at a steady pace at first we glanced and saw it and were like cool then 10 seconds past then 20 before we knew it a person said that's not fireworks we watched it leave our sight in 10 minutes I always used to shrug people on this website as conspiracy theorist but now I know there's something out there and it's not an airplane a balloon a cheap firework, but something of the unknown</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110954.html](http://www.nuforc.org/webreports/reports/110/S110954.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1976, an anonymous witness in Waubay (SD) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>My cousin and I were fishing. Lake Minnewasta in Day County, SD on a small lake  with very few cabins (5?, on the opposite side of the lake).  We were on a sandbar surrounded by private farmland.  We had our lines tangled and we were arguing about it.  It was a clear night.  We swear that the water got rougher after we had our encounter.  This object came over our heads from the south and stayed right over us for some time.  We could hold our arms out to explained how large it was, tell you that it had a humming sound and took off fast in almost straight up in a NW direction. It was big.  The catch is that we could not see it, but it was there.  We were so shaken  we could hardly stand up.  We have thought about hypnosis over the years to see if we could recall anything. We know that it was not man made techlogy and I have never heard anything like it since. I don't know if we were misiing time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158083.html](http://www.nuforc.org/webreports/reports/158/S158083.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [2106](http://www.nuforc.org/webreports/reports/163/S163902.html)
-- [2105](http://www.nuforc.org/webreports/reports/165/S165727.html)
-- [2104](http://www.nuforc.org/webreports/reports/164/S164061.html)
-- [2103](http://www.nuforc.org/webreports/reports/163/S163929.html)
-- [2102](http://www.nuforc.org/webreports/reports/164/S164389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
