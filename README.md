@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:33:21 on 4 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:18:55 on 4 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Panama City Beach (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Orange spheres over Panama City Beach Florida	On July 4th, 2014, at approximately 8:30 pm, I witnessed a ufo fly over me.  I was standing on the beach between the Sandpiper Beacon Beach Resort located at 17403 Front Beach Road in Panama City Beach, Fl. 32413 and Landmark Holiday Beach Resort 17501 Front Beach Rd, Panama City Bch, FL 32413.  	I was facing the gulf (south) watching fireworks that were on both sides of me.  I was watching the ones to the left of me when a friend said "look at that".  I turned to my right and saw a ufo approximately 20 feet in diameter, spherical, glowing orange, the outside surface texture was not frozen solid, but had small waves on it.  However it was not transparent.  It was traveling from west to east.  The ufo was between me and Emerald Isle Beach Resort (Emerald Isle Resort stands 23 stories tall) when I first saw it.  I judged its size and speed (about 60 mph) against the Emerald Isle Resort and Landmark Holiday Beach Resort, and Sandpiper Beacon Beach Resort.  I saw it large for about 3 seconds, (from the Emerald Isle Resort  and Sandpiper Beacon Beach Resort.) then in about one second it traveled about 2 miles east to around pier park (approximately 7,200 mph) and stopped.  It seemed to go straight along the coastline.	After that initial sighting, there were multiple lights in the sky (not from the fireworks).  The spherical lights were orange and red.  They would sometimes fly in formation, and other times go away or towards each other.  There is no way they can be lanterns or airplanes.  They moved to fast and quickly went in opposite directions.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111292.html](http://www.nuforc.org/webreports/reports/111/S111292.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Strong (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10:40pm-12:27 - 10:40pm-12:27 minutes.</sub><blockquote><sub>A comit like spacecraft.It was sort of like a comit, but it wasn't. It was like it was flying in a circle and it had a yellow and orangeish tail like a comit an when it gt to this one point in the sky it completely vanished</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23600.html](http://www.nuforc.org/webreports/reports/023/S23600.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [2106](http://www.nuforc.org/webreports/reports/163/S163902.html)
-- [2105](http://www.nuforc.org/webreports/reports/165/S165727.html)
-- [2104](http://www.nuforc.org/webreports/reports/164/S164061.html)
-- [2103](http://www.nuforc.org/webreports/reports/163/S163929.html)
-- [2102](http://www.nuforc.org/webreports/reports/164/S164389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
