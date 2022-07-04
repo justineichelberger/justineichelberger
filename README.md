@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:49 on 4 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:47 on 4 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in San Anselmo (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>07-04-13  Luminous object  seen at close range for 10 minutes in hills of Marin CountyI was walking up a steep hill near one of the foothills of Mt. Tamalpais when a mysterious black object came from behind one of the hills and came to a dead stop and continued to hover to the right of me approximately 100 yards away.  This object made absolutely no sound and from where I was at on this hill was eye level with me and below treetop level.  I stood there and watched it for a solid 10 minutes as it changed colors from green to red to a yellowish orange.  It was mostly dimmed down and black for a few minutes but then started glowing like a lit up Christmas tree as I continued to observe it.  It was oblong, taller than it was wide and took on the shape of a bell or lampshade with a brim on the bottom much like a hat.  Finally after 10 minutes it turned a solid white color like a lit up lightbulb and lifted up and took off to the east at a fairly high rate of speed.  There was a couple of people walking their dog down the hill from me that I tried to get! their attention to witness this but I did not want to yell and wake up the neighbors and I don't think they even noticed this object even though they were almost right under it.  It was dimmed down so low that I really could not see much detail except that it was definitely oblong and seemed to be pointed at the top and slightly curved on the sides and like I said to myself this looks like a lit up Christmas tree glowing like the object itself was luminous.  The colors were kind of blended together like they were coming off a hot grill on a black glass like surface.  Although I have seen many of these luminous objects at quite some distance away through the binoculars, this is the first time I was able to see something this close up.  I always see them to the east of San Rafael over the Bay and consider it a hot spot for sightings as well as Tiburon at a place called Blackies Pasture which is another hot spot.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108430.html](http://www.nuforc.org/webreports/reports/108/S108430.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Lexinton (KY) reported seeing craft that fit the description of some 'Formation' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Several "star objects"; in groups of 6-1 at approximately  8 minute intervals.  No sound.  No navigation.Watching fireworks on residential hill, we saw, low in the sky (10-15 degrees above horizon) a group of 4 - 6 very bright like a stars (no navigation lights) traveling N.E. to S.W. at a moderately slow speed.  They were visible for about 3 -7 minutes, then they dimmed and disappeared.  That's not all.About 4 '8 minutes later, a smaller group, 4 - 6 did the exact same thing.  Brightens, route, degree above horizon etc.They too dimmed out at same area as previous group.We kept watching the area, where they first appeared, and another two appeared and began their "flight" exactly the same.Finally, a lone "star object" appeared as the others.  This one was brighter, and followed same flight path.These objects displayed NO navigation lights whatsoever.  No sound.  Nada.   Just bizarre.I did take one picture and one short phone video.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142068.html](http://www.nuforc.org/webreports/reports/142/S142068.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [2106](http://www.nuforc.org/webreports/reports/163/S163902.html)
-- [2105](http://www.nuforc.org/webreports/reports/165/S165727.html)
-- [2104](http://www.nuforc.org/webreports/reports/164/S164061.html)
-- [2103](http://www.nuforc.org/webreports/reports/163/S163929.html)
-- [2102](http://www.nuforc.org/webreports/reports/164/S164389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
