@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:36 on 4 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:04:34 on 4 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Burke (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Silent, non-blinking red orbs in sky.We were on our back deck night of July 4, 2014, when I noticed a strange round red light in the sky.  It made no noise and did not blink like helicopters or airplanes.  It was a constant light moving at a casual pace across the night sky.  Time was about 9:10 or 9:15 PM.  There were 2 other people with me and I pointed it out to them.  It was moving from North to South.   Then 2 more of these "orbs" appeared.  Several more after that ... they were following each other.   And then 3 or 4 more appeared.  I believe I saw a total of 8 to 10 of them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111378.html](http://www.nuforc.org/webreports/reports/111/S111378.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Excelsior (MN) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Formation of 10 to 12 square shaped objects observed over Excelsior, MNJuly 4, 2008 10:35 Central Time   Large formation of square objects observed over Excelsior, MN, moving from southern horizon to the north straight overhead.  Objects had four white lights on each corner which gave the appearance that they were square shaped.  Objects seemed to be very high in altitude, perhaps in Earths orbit.  Some were in pairs or groups of 3 and 4 and would rapidly change position in their formation.  Objects disappeared when they got directly overhead.Altogether, there were approximately 10 to 12 objects total.  This event happened at 2235 local time and lasted about 5 minutes.  This was after the July 4 fireworks show on the lake.  There were thousands of people out there.  We were on a boat and there were many witnesses.  The fact that the objects were changing positions in their formation proves to me that they were not satellites.  And they were not aircraft as I know them.I am an airline pilot and amateur astronomer and feel that I know what is not normal in the sky.  I have seen many strange things at night in the sky but have always been able to find an explanation.  Not this time!((NUFORC Note:  Please see illustration by witness on NUFORC homepage.  We spoke with this witness, and we were left with the impression that he is an exceptional witness, and quite credible.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64323.html](http://www.nuforc.org/webreports/reports/064/S64323.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [2106](http://www.nuforc.org/webreports/reports/163/S163902.html)
-- [2105](http://www.nuforc.org/webreports/reports/165/S165727.html)
-- [2104](http://www.nuforc.org/webreports/reports/164/S164061.html)
-- [2103](http://www.nuforc.org/webreports/reports/163/S163929.html)
-- [2102](http://www.nuforc.org/webreports/reports/164/S164389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
