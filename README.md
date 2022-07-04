@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:37 on 3 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:51 on 4 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Seffner (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>I was taking a picture over my neighbor house. Then was going to send to them.  When I looked at picture saw a weird image.  Blew it up on cell phone camera.  Looks like 3 objects and first one in the line is clear, second is shadow, third is clear.  Second picture is facing other way towards neighbor hs.  Another image and blown up looks like same object.  See pictures attached.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128238.html](http://www.nuforc.org/webreports/reports/128/S128238.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1979, an anonymous witness in Syracuse (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>3 LIGHTS IN THE SKY FORM A TRIANGLEI WAS WALKING HOME AT 11P.M.ESTERN I SAW A LIGHT IN THE SKY ABOVE ME THAT WAS BRIGHTER AND SEEMED CLOSER THAN ANY OTHER STAR IN THE SKY.AS I WALKED IT SEEMED TO FOLLOW ME,THEN I NOTICED TWO MORE LIGHTS COMING TOWARD ME FROM THE TEN AND TWO O'CLOCK POSITION.THE THREE CAME TOGETHER IN A TRIANGLE SHAPE.I STOPPED TO STARE FOR WHAT I THOUGHT WAS A MINUTE ,THEN THE THREE LIGHTS TOOK OFF IN THREE DIFERENT DIRECTIONS AT A SPEED I CAN ONLY DESCRIBE AS LIKE A SHOOTING STAR.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43493.html](http://www.nuforc.org/webreports/reports/043/S43493.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [580](http://www.nuforc.org/webreports/reports/163/S163910.html)
-- [579](http://www.nuforc.org/webreports/reports/163/S163916.html)
-- [578](http://www.nuforc.org/webreports/reports/163/S163906.html)
-- [577](http://www.nuforc.org/webreports/reports/164/S164063.html)
-- [576](http://www.nuforc.org/webreports/reports/164/S164033.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
