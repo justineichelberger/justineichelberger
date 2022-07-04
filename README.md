@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:33 on 4 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:39 on 4 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Madison (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Object darted across the sky and would stop on a dime and dart in another directionOn July 4th, ~9:30 pm, while watching a fireworks show in Madison,  Alabama, my sister, my mother, I myself along with a few other people all noticed a moving object in the sky.  It appeared to look like any other star in the sky, but this object darted, danced, and even went in circles.I am not aware of any aircraft that could make such movements in the sky as this object did.    We watched this object dart back and forth across the sky for over an hour.   It was still darting and zig zagging around when I left to go home so for how long this object actually appeared I really do not know.  I have never witnessed anything like this before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82873.html](http://www.nuforc.org/webreports/reports/082/S82873.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Auburn (NE) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>White or yellowish solid lighted objects, seven in a row seen traveling across the night sky.We were at Fourth of July event when these objects started flying from our South sky and headed North West.  They kept coming one after another up to about seven of them. Then a few minutes later, one came across the sky from East to West.  They were a solid white or yellowish light all the way past us.  Seemed odd for that many planes in a row to be passing over at night?  No sound at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120118.html](http://www.nuforc.org/webreports/reports/120/S120118.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [2106](http://www.nuforc.org/webreports/reports/163/S163902.html)
-- [2105](http://www.nuforc.org/webreports/reports/165/S165727.html)
-- [2104](http://www.nuforc.org/webreports/reports/164/S164061.html)
-- [2103](http://www.nuforc.org/webreports/reports/163/S163929.html)
-- [2102](http://www.nuforc.org/webreports/reports/164/S164389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
