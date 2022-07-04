@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:39 on 4 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:43 on 4 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Burleson (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>Object flying then disappearsI was outside and seen something glowing in the sky looked like fire but then I noticed it started to move...  It started flying towards us.  I started to record it on my cell phone.  I'm watching this start to fly away and record it at the same time when I notice the light disappears on my phone?  But I can see it right In front of me, I look down to fix my phone and look back up and it's gone....  I rewatched the video and I seen the "light" UFO whatever it was do like a circle motion and then disappears ...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90434.html](http://www.nuforc.org/webreports/reports/090/S90434.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Cherry Hill (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Daughter asked me what was that in clear night sky. I along with 5 other people saw three orange lights that were shaped in a triangle.  They moved very slowly yet evenly across the sky then vanished. Right before vanishing we swore we saw a circle appear quickly then it was over.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76440.html](http://www.nuforc.org/webreports/reports/076/S76440.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [2106](http://www.nuforc.org/webreports/reports/163/S163902.html)
-- [2105](http://www.nuforc.org/webreports/reports/165/S165727.html)
-- [2104](http://www.nuforc.org/webreports/reports/164/S164061.html)
-- [2103](http://www.nuforc.org/webreports/reports/163/S163929.html)
-- [2102](http://www.nuforc.org/webreports/reports/164/S164389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
