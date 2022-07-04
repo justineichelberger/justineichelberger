@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:18:55 on 4 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:09:02 on 4 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Strong (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10:40pm-12:27 - 10:40pm-12:27 minutes.</sub><blockquote><sub>A comit like spacecraft.It was sort of like a comit, but it wasn't. It was like it was flying in a circle and it had a yellow and orangeish tail like a comit an when it gt to this one point in the sky it completely vanished</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23600.html](http://www.nuforc.org/webreports/reports/023/S23600.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three distinct orange lights moving silently very near to the Lake Union fireworks display.Let me preface this by saying I have had these images for over a year now without thinking much about them, but it was reading Leslie Kean's book, UFOs:  Generals, Pilots, and Government Officials Go on the Record that gave me a clear understanding of the reality of this phenomenon.  After seeing the HUGE number of reports of objects similar to what I saw I felt I needed to report this.I was at Gas Works Park for the fireworks display last year and I had my iPhone out to try and take pictures of the Chinook helicopter that carries the American flag on a lap around Lake Union before the fireworks start.  As I was looking around the sky I noticed three bright orange lights moving around slowly making no noticeable noise.  I took three photos of the lights over the course of 1 or 2 minutes while I was pointing them out to my friends.There were aircraft in the air and skydivers coming down from them as part of the show, but I am convinced these lights were something different altogether.  I have gone skydiving and live next to a small airport and I know the sound of those small planes fairly well. As bright as these objects were they would have been making some kind of sound if they were small planes or helicopters.After watching them for maybe 5 minutes the fireworks show started and I don't remember seeing them during or after the show.Sending the three photos of the objects as well as a shot of downtown looking south from the same location.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120174.html](http://www.nuforc.org/webreports/reports/120/S120174.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [2106](http://www.nuforc.org/webreports/reports/163/S163902.html)
-- [2105](http://www.nuforc.org/webreports/reports/165/S165727.html)
-- [2104](http://www.nuforc.org/webreports/reports/164/S164061.html)
-- [2103](http://www.nuforc.org/webreports/reports/163/S163929.html)
-- [2102](http://www.nuforc.org/webreports/reports/164/S164389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
