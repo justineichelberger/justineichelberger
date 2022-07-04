@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:52 on 4 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:36 on 4 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in La Mesa (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Single small bright red stationary object in southern skyObserved a single, very small, bright red object in the southern sky near Jupiter and Antares. Flickered similarly to a star but more slowly and with more variation in brightness. The shape was indeterminate due to the flickering and small size.Object remained stationary for about four minutes after initial observation and then appeared to slowly move lower in the sky, suddenly blinking out after 1 minute of motion at about 15° elevation.Object did not resemble a plane due to it remaining very still for four minutes, and due to the slow, irregular flicker. The color was a brilliant red, similar to that of a laser pointer.Although this occurred on the fourth of July, it did not resemble fireworks in any way.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57452.html](http://www.nuforc.org/webreports/reports/057/S57452.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Lackawanna County (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>3 orange lights vivid but vauge hovering over whole valley of Lackawanna county,PA  My father and I were sitting on our patio on the Fourth of July. First we saw what looked like and orange light just hovering. We thought it was a plane but planes don't hover. Suddenly it appeared to be going in an upward direction,just up into space. In seconds it was gone. After five minutes it was back again. This time the light and shape got more vivid but still vauge. We called my mother out and she saw it too. It was like a triangle with one orange light in the front. In seconds it hovered upward and disappeared. My mother said it might be back so I grab my camera. Only this time there were three! One in each section of the valley we live in. In seconds they hovered up and were gone. I caught a glipse of it on my camera but it was too late. Later my mother thought since it's Fourth of july and eveyone was blowing firworks off and there were lights in the sky, maybe the "aliens" thought we were having a war and were trying to help. That calmed me down a bit, but I'm still skeptical.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64316.html](http://www.nuforc.org/webreports/reports/064/S64316.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [2106](http://www.nuforc.org/webreports/reports/163/S163902.html)
-- [2105](http://www.nuforc.org/webreports/reports/165/S165727.html)
-- [2104](http://www.nuforc.org/webreports/reports/164/S164061.html)
-- [2103](http://www.nuforc.org/webreports/reports/163/S163929.html)
-- [2102](http://www.nuforc.org/webreports/reports/164/S164389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
