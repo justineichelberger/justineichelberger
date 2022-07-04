@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:44 on 4 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:52 on 4 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Milford (NE) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>A red fireball hovered over Milford Nebraska.We were watching fireworks when a red fireball appeared in the sky.  At first we thought it was fireworks but it just hovered in the eastern sky and came over the top of us.  Then it went straight up in the sky out of sight.  Then we saw it in the western sky. It was much higher this time and it went across the sky and was gone.  This lasted for about 30 minutes and it didnt make any noise.  It was simply amazing the way it bounced around in the sky.  It made moves that unlike any aircraft Ive seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76291.html](http://www.nuforc.org/webreports/reports/076/S76291.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in La Mesa (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Single small bright red stationary object in southern skyObserved a single, very small, bright red object in the southern sky near Jupiter and Antares. Flickered similarly to a star but more slowly and with more variation in brightness. The shape was indeterminate due to the flickering and small size.Object remained stationary for about four minutes after initial observation and then appeared to slowly move lower in the sky, suddenly blinking out after 1 minute of motion at about 15° elevation.Object did not resemble a plane due to it remaining very still for four minutes, and due to the slow, irregular flicker. The color was a brilliant red, similar to that of a laser pointer.Although this occurred on the fourth of July, it did not resemble fireworks in any way.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57452.html](http://www.nuforc.org/webreports/reports/057/S57452.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [2106](http://www.nuforc.org/webreports/reports/163/S163902.html)
-- [2105](http://www.nuforc.org/webreports/reports/165/S165727.html)
-- [2104](http://www.nuforc.org/webreports/reports/164/S164061.html)
-- [2103](http://www.nuforc.org/webreports/reports/163/S163929.html)
-- [2102](http://www.nuforc.org/webreports/reports/164/S164389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
