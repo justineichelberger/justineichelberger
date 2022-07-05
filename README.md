@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:01:03 on 5 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:06:32 on 5 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Warren (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>3 orange lights in a triangle not blinking no sound, moving slowly and dissapeared, saw twice in one week,nothing like a plane?I was walking my dog 07/05/2013 and saw 3 orange lights not blinking in a triangle formation,  it was cloudy but spotty could still see through them, it was the only thing I saw in the sky and moved along slowly and just disappeared into the clouds, and then I saw it again for a second or two and it was gone no sound.I then saw it again a day later or two same thing, it was clear and some clouds, three orange lights in a triangle formation not blinking just moving silently and disappeared into the clouds, didn’t see it again, this was in the northern sky and I still look to see it every night , I’ve seen lots of planes at night , this didn’t look like a plane, and it wasn’t fireworks, I was thinking it could be someone playing with laser lights, I really don’t know.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100527.html](http://www.nuforc.org/webreports/reports/100/S100527.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in West Reading (PA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately Continuous - Continuous minutes.</sub><blockquote><sub>Orange oblong light hovering what seems to be above the moon.  There is a haze causing the moon to appear blurry.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111106.html](http://www.nuforc.org/webreports/reports/111/S111106.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [551](http://www.nuforc.org/webreports/reports/163/S163920.html)
-- [550](http://www.nuforc.org/webreports/reports/165/S165585.html)
-- [549](http://www.nuforc.org/webreports/reports/163/S163926.html)
-- [548](http://www.nuforc.org/webreports/reports/164/S164021.html)
-- [547](http://www.nuforc.org/webreports/reports/163/S163921.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
