@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:43 on 5 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:34 on 5 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Mulberry (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Sighting that appeared to be an airplane at first but moved too quickly and darted back and forth to be an airplane.I had stepped out onto my patio at night, around 10 pm, and noticed a light in the sky.  At first it looked like an airplane because it was blue with a red blinking light to the left side of the craft.  However, it was moving very quickly straight upwards, a lot faster than any aircraft I had ever seen, so I watched it because it was quite unusual.  Then it stopped completely and suddenly.  It then moved towards the left very quickly, then stopped.. I was then calling for my boyfriend to come and look at this since he is an aircraft inspector and what I was seeing was quite bizarre.  He came out as soon as he could.  When he got there, the craft had moved back into it's original position, but then the blue light changed to green but the red light was still blinking and then it slowly started to descend in the sky and disappeared behind the tree tops.  Some other people were lighting fireworks off in the neighborhood, but not in that area that the craft was i! n and I've never seen a firework or anything of that nature perform these maneuvers or blink in the way it was blinking because it looked just line any other airplane.  But I've never seen an aircraft or helicopter move as quickly as this did and perform these impossible feats either. My boyfriend saw it for the last 10 seconds and when I told him what it had done he told me that it would be impossible for any aircraft to do that and I agreed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99757.html](http://www.nuforc.org/webreports/reports/099/S99757.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Harrison (ID) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Balloon shaped white sphere.  Moved slow then dissapeared</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157564.html](http://www.nuforc.org/webreports/reports/157/S157564.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [551](http://www.nuforc.org/webreports/reports/163/S163920.html)
-- [550](http://www.nuforc.org/webreports/reports/165/S165585.html)
-- [549](http://www.nuforc.org/webreports/reports/163/S163926.html)
-- [548](http://www.nuforc.org/webreports/reports/164/S164021.html)
-- [547](http://www.nuforc.org/webreports/reports/163/S163921.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
