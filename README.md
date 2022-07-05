@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:06:32 on 5 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:45 on 5 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in West Reading (PA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately Continuous - Continuous minutes.</sub><blockquote><sub>Orange oblong light hovering what seems to be above the moon.  There is a haze causing the moon to appear blurry.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111106.html](http://www.nuforc.org/webreports/reports/111/S111106.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Chelan (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Orange light traveling over Lake Chelan WA at 20,000 MPH with a course change.On 5 July 2013 shortly before 2200 hours six adult witnesses including one Deputy Sheriff from Washington State were at a residence in Chelan Washington on the back deck of the residence overlooking Lake Chelan.  The deck of the residence faces northwest and looks out across Lake Chelan with an unobstructed view.  The weather was clear and about 75 degrees with some light haze to the north from a forest fire about 20 miles away but the sky was clear directly over the residence.The group of six adults were all together when we observed an orange light in the shape of a circle or orb.  The relative size of the object was difficult to determine but our estimation is that it was about the size of a Boeing 747.  We believe the object was at an estimated altitude of between 20,000 to 50,000 feet traveling from the northwest to the southeast.  We believe the object was moving about twice as fast as a visible satellite so a rough estimated speed may be 10,000 to 20,000 miles per hour.  The object made no noise as it passed overhead.  As the object passed over the house the group ran to the front of the residence facing southeast and observed the object make a course change from a southeast direction to a south direction.  The course change was obvious but not instant (more gradual like an airplane might make).The glow of the object was that of a yellow orange steady color.  The relative light being emitted by the object stayed steady as the object came into and went out of view.  It did not fade like a satellite does as it passes into and out of the shadow of the earth. Again the size of the object was difficult to determine but the speed was about twice that of a typical satellite viewing.  Just to be safe we did check where ISS was using the iPad app Starwalk and it was not in view at the time.  In terms of size if you were to hold a dime out at arms length the diameter would have been a little more then half the size of the dime. The observers included four people in their mid-30's, and two in their mid-60's.  The group includes a business banker, deputy sheriff, retired medical assistant, a business owner, and two stay at home moms.  3 of the 6 have bachelors degrees. The word that comes to mind on this one is "unbelievable."  We did some research and are aware of the Boeing X51 but we are pretty firm on our minimum speed estimates of at least 10,000 MPH (that is a very conservative estimate).  The X51 is only at 4,000 MPH. About 30 minutes after the sighting and the initial call into the UFO Center giving the above information we did observe a commercial jet liner pass overhead traveling west.  Estimating that the jet was at 30,000 feet at about 400 MPH to 500 MPH this helped confirmed the above stated speed, size, and altitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99853.html](http://www.nuforc.org/webreports/reports/099/S99853.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [551](http://www.nuforc.org/webreports/reports/163/S163920.html)
-- [550](http://www.nuforc.org/webreports/reports/165/S165585.html)
-- [549](http://www.nuforc.org/webreports/reports/163/S163926.html)
-- [548](http://www.nuforc.org/webreports/reports/164/S164021.html)
-- [547](http://www.nuforc.org/webreports/reports/163/S163921.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
