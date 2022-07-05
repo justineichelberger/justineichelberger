@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:34 on 5 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:39 on 5 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Harrison (ID) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Balloon shaped white sphere.  Moved slow then dissapeared</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157564.html](http://www.nuforc.org/webreports/reports/157/S157564.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1991, an anonymous witness in East Troy (WI) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Shiney meatalic (stainless steel) with many lines on bottom.  rounded in front & squared off in back.  UFO was traveling due South at approximately 200 fett in altitude.  We were in backyard at 1940 Center St., East Troy WI.  Object appeared over tree tops in front of house.  It made no noise what so ever.   Object was circular with a squared off back (We estimated it to be around 200' from side to side & front to back.  It was approximately 25'-35' tall. It had windows on side facing us and we could see 2-3 humainoids standing in window looking down at us.  Someone shouted Oh My God what is that & pointed at the object.  About 5 seconds later the object took off due south at an incredible speed with the squared off rear of craft lighting up.  It traveled with gradual increase in altitude as far as the eye could see and then increased significantly in altitude & out of sight.  Once the craft took off we were only able to track the rear lighting until it disappeared.  It only took 2-3 seconds for the lights to disappear from view as the object increased in altitude a number of miles away.  Assuming the object was seen for approximately 4 miles & I am calculating correctly, the craft was traveling around 4,800 miles/hr., when it took off.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138968.html](http://www.nuforc.org/webreports/reports/138/S138968.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [551](http://www.nuforc.org/webreports/reports/163/S163920.html)
-- [550](http://www.nuforc.org/webreports/reports/165/S165585.html)
-- [549](http://www.nuforc.org/webreports/reports/163/S163926.html)
-- [548](http://www.nuforc.org/webreports/reports/164/S164021.html)
-- [547](http://www.nuforc.org/webreports/reports/163/S163921.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
