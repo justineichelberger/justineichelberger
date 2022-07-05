@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:45:59 on 5 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:30:04 on 5 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Silverdale (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>Circling lights of multiple colors that turned into a solid color of orange then white.Driving to 7/11 in Silverdale, I witnessed a circle of rotating lights that consisted of red, blue, and white flashing at a steady pace.  After I went in and made my purchase, I entered my vehicle to look back in the same direction and I sad a glowing orange circle in the same location I had seen the previous lights.  As I began to drive and sat at the light the object begin to move.  When I reached my residence I called my wife to see the orange object which was still there and she saw it but right before our eyes it turned a bright white brighter than all the stars.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142101.html](http://www.nuforc.org/webreports/reports/142/S142101.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Canton/Plymouth (MI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Orange-Red Spherical object sighted over Plymouth/Northville, MI @ 23:00 EDTWas out on my back deck watching neighbors set off commercial grade fireworks, 22:45 Hrs EDT.  An orange-orange red spherical object appeared from nowhere, in the North Western sky. I cannot say how far this was from me (see below), actually, or at what altitude with any assurance, but, it was a Half Dollar size by approximation to my eye.  ~22:50 Hrs. EDT  During the fireworks display, the object moved with instantaneous motions. (ie. moved from place to place in a blink of your eye.  Moving horizontally.Object seemed to be over Northern Plymouth / Northville, MI Townships during this observation.The object moved several times at instantaneous speed then remained stationary for the last aprox. 2 mins of observation then accelerated vertically, (very fast)-Eye blink speed and vanished.I took no pictures as I supposed, at a distance, they would just another meaningless  blurry image.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99761.html](http://www.nuforc.org/webreports/reports/099/S99761.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [551](http://www.nuforc.org/webreports/reports/163/S163920.html)
-- [550](http://www.nuforc.org/webreports/reports/165/S165585.html)
-- [549](http://www.nuforc.org/webreports/reports/163/S163926.html)
-- [548](http://www.nuforc.org/webreports/reports/164/S164021.html)
-- [547](http://www.nuforc.org/webreports/reports/163/S163921.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
