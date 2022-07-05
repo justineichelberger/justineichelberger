@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:46 on 5 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:43 on 5 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Crete (NE) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Summary : A bright light seen in the sky, when observed through binoculars seen as a bright light surrounded by three to five others, hovering and then moving to another spotMy friend and I were observing stars andsatellites after lighting our fireworks.After tracking a satellite for severalminutes, we observed a growing light in thesky.  It seemed far away, and looked likethe landing lights of a plane.  Werealized, however, that that was impossiblewhen we realized that it was not moving, andcouldn't be a helo that was hovering as itbeen there several minutes and was soundless.I am a pilot and would have been able toidentify whether or not it was a plane whenI looked at it through my binoculars.  Itappeared as a bright, central white lightsurrounded by smaller lights, not like thewingtip lights of a plane but completelyaround the central light, being of blue,green, and red color.  I noticed throughthe binoculars that the object would moveslowly, stop, then move again.  I sawsomething like this earlier (around July 2nd)and read in the paper about observers inLincoln on a lake and how the UFO they sawput out their campfires before taking offin the realtive direction of my town.  I ama very scientific, rational person, and justwant to know what it is I have been seeing.I would appreciate any and all the help youcan offer.  Thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02339.html](http://www.nuforc.org/webreports/reports/002/S02339.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Athens (TX) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>6 orange orbs moving east to west, sighted over a 10 minute period, in North Texas.About 22:15 (10:15 pm cdt) on July 5, my family and I were sitting outside.  When I looked up into the sky, I saw a fairly large orange glowing orb moving rapidly overhead right about 90 degrees of elevation. It moved from East to West (retrograde, so was not a satellite) and lasted about a minute.  The brightness did not seem to change other than dimming as it moved away from us.  The visual angle subtended an arc of about 120 degrees across the sky.  About one or two minutes later, we saw a group of three similar objects along the same flight path as the first one.  My daughter used an iphone to take video, but it is fairly dark and hard to distinguish the objects.  About 3 minutes later two more objects passed overhead, again on the same flight path. There was no sound from the objects.  It appeared as if they were glowing from heating up the atmosphere.  They moved much faster than orbital satellites (International Space Station, for example) or airplanes, but much slower than meteors and did not change brightness as a meteor would upon entering the atmosphere. I am a retired military fighter pilot, retired commercial airline pilot and former astronaut.  I have no explanation for what we saw.((NUFORC Note:  Report submitted by former U. S. astronaut.  We spoke via telephone with the source of the report, and we suspect that he is a superlative, and highly qualified, witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99797.html](http://www.nuforc.org/webreports/reports/099/S99797.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [551](http://www.nuforc.org/webreports/reports/163/S163920.html)
-- [550](http://www.nuforc.org/webreports/reports/165/S165585.html)
-- [549](http://www.nuforc.org/webreports/reports/163/S163926.html)
-- [548](http://www.nuforc.org/webreports/reports/164/S164021.html)
-- [547](http://www.nuforc.org/webreports/reports/163/S163921.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
