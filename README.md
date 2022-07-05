@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:13:54 on 5 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:11:55 on 5 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Very bright white light following a southern trajectory seen 5 minutes prior to Falcon-9 launch from Cape CanaveralI was heading out to my front porch, here in East Orlando, about 5 minutes prior to a Space-X Falcon-9 launch of the Intelsat 35e.  I am about 37-miles west of the Space X complex at Cape Canaveral, and can see the rockets quite clearly when they launch.  As I went out the door, facing east, I noticed a very bright light to the northeast rising upward, about a third of the way off the horizon, initially almost exactly the same speed and curved trajectory a rocket launch would follow to the southeast.  I was upset because I thought I had missed the initial launch.  I tried to shoot a digital movie of the bright light, but it did not come out as far as I can see.  I visually followed the light as it climbed and got smaller and smaller, finally vanishing at high altitude.  I was puzzled because the light was an intense white color, and usually rockets at low altitude display a bright orange flame, as I was thinking I had been watching the Falcon-9 launch, and I’ve seen many launches from the Cape over the last 10-years, and what I thought was the launch just didn’t add up.  A few minutes later, a 7:37 pm (1937 hours) I saw the bright orange flame of the Falcon-9 booster appear just to the southwest, as it climbed and started to leave a contrail as it went into the upper atmosphere.  What really puzzled me, is that I had the impression that the bright light seen a few minutes earlier had been moving a whole lot faster than the rocket after it gained some altitude, I’d say about 4-times faster.  I know they prohibit aircraft in the immediate launch area, and the bright light flew directly through it only a few minutes prior to the actual launch.  I thought maybe an Air Force jet had left the skid strip on afterburner or something, but I was in the Air Force and never saw an afterburner as bright as that.  It was odd, because I really thought I had been watching the launch, and only after I saw the actual launch did I find the whole episode strange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134956.html](http://www.nuforc.org/webreports/reports/134/S134956.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1986, an anonymous witness in Bayside (NY) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Dimond shape, with what appeared to be a ball located in the center of the ships underbelly.Dimond shape, with what appeared to be a ball located in the center of the ships underbelly.  the ball seemend to move, as if it was rolling in place.  I remeber a very slight humming sound, almost inaudable.((NUFORC Note:  We presume the witness implies Bayside, NY.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25884.html](http://www.nuforc.org/webreports/reports/025/S25884.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [551](http://www.nuforc.org/webreports/reports/163/S163920.html)
-- [550](http://www.nuforc.org/webreports/reports/165/S165585.html)
-- [549](http://www.nuforc.org/webreports/reports/163/S163926.html)
-- [548](http://www.nuforc.org/webreports/reports/164/S164021.html)
-- [547](http://www.nuforc.org/webreports/reports/163/S163921.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
