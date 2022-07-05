@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:05:44 on 5 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:01:03 on 5 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1973, an anonymous witness in Dryden (Canada) (ON) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>silver ball with a yellow ring at the mid piont of the sphere  hovering and then departing south at a fantastic rate.My father was doing yard work and I was playing somewhere close by when he drew my attention to a silver ball with a yellow ring encompasing it. It hovered for a short time then headed south at a fantastic rate of speed. no sound, no exhaust, no lights, no windows, no landing gear just the yellow ring at ate midpoint of the sphere.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37094.html](http://www.nuforc.org/webreports/reports/037/S37094.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Warren (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>3 orange lights in a triangle not blinking no sound, moving slowly and dissapeared, saw twice in one week,nothing like a plane?I was walking my dog 07/05/2013 and saw 3 orange lights not blinking in a triangle formation,  it was cloudy but spotty could still see through them, it was the only thing I saw in the sky and moved along slowly and just disappeared into the clouds, and then I saw it again for a second or two and it was gone no sound.I then saw it again a day later or two same thing, it was clear and some clouds, three orange lights in a triangle formation not blinking just moving silently and disappeared into the clouds, didn’t see it again, this was in the northern sky and I still look to see it every night , I’ve seen lots of planes at night , this didn’t look like a plane, and it wasn’t fireworks, I was thinking it could be someone playing with laser lights, I really don’t know.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100527.html](http://www.nuforc.org/webreports/reports/100/S100527.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [551](http://www.nuforc.org/webreports/reports/163/S163920.html)
-- [550](http://www.nuforc.org/webreports/reports/165/S165585.html)
-- [549](http://www.nuforc.org/webreports/reports/163/S163926.html)
-- [548](http://www.nuforc.org/webreports/reports/164/S164021.html)
-- [547](http://www.nuforc.org/webreports/reports/163/S163921.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
