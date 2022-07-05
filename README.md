@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:13:40 on 5 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:04:16 on 5 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Little Rock (AR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Huge moon shaped object appears during or before and during power outageOn July 5th, the power went out, and I just happened to look out at the sky.  There were no lights as far as I could see, no street lights either.  Saw what I thought was the moon but it seemed 3 to four times larger than normal and had a much more yellow tint.  Thought it was odd. Went out 20 or so minutes later and what I thought had been the moon had changed position drastically and in my perspective was now behind the tree line.  This really confused me.  About 30 minutes later I looked for the object again and it was completely gone.  The object looked like a full moon and upon checking i found it was only a quarter moon on the 5th and i have never seen the moon so large or to change place in the sky so quickly and drastically and then disappear.  I checked several more times that night and it never re appeared. I also wonder if whatever it was caused the power outage for there were no storms or even any rain that night here.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111396.html](http://www.nuforc.org/webreports/reports/111/S111396.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Newport (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Sighted two orange rectangles above treetops while driving on a county road.While a passenger in a vehicle being driven by a friend, we were driving on a country road in a wooded area after dark.  We first saw a stationary orange rectangle on a ridge line about a quarter mile away.  As we drove along the base of the ridge about 20 seconds later we noticed an orange reflection in the windshield, and at that point I rolled down the window and stuck my head out the door to look straight up.  What  I saw at that point was a pair of rectangular orange panels moving in sync directly above our vehicle, just above the treetops, mirroring our path along the winding road.  This conitnued for about two miles.  The objects made no noise, and there was no wash of air hitting us from above.  I believe the panels were part of one object, located at the rear of it.  I kept my eyes fixed on it the entire time and when we came to a stop sign I jumped out of the vehicle and it shot straight away from us, slightly gaining altitude, but made no noise.  It did not disappear over a horizon line, but disappeared from view in the distance in less than two seconds.  I estimate each orange rectangle to have been about 15 by 20 feet and about 20 feet apart, with the outer edges angled slightly forward.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))((NUFORC Note:  Source of report elects to remain anonymous; provides e-mail address only.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55945.html](http://www.nuforc.org/webreports/reports/055/S55945.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [551](http://www.nuforc.org/webreports/reports/163/S163920.html)
-- [550](http://www.nuforc.org/webreports/reports/165/S165585.html)
-- [549](http://www.nuforc.org/webreports/reports/163/S163926.html)
-- [548](http://www.nuforc.org/webreports/reports/164/S164021.html)
-- [547](http://www.nuforc.org/webreports/reports/163/S163921.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
