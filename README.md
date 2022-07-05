@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:37 on 5 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:44 on 5 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Mapleton (nearby) (UT) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Grey Oval over interstate 15, Utah CountyWhile driving on Interstate 15 near my parents house in Mapleton, Utah, me, my brother and two of my friends were returning from a week in Lewiston, Idaho. Then my brother pointed out what he thought was a Chinook, around a two miles away, but soon realized it was traveling too fast. Then it seemed to change direction and turn west and started to pull towards us at quite high speed, perhaps around 400-450 mph.  It then shot over some houses and fields in nearby Springville and over the interstate about 250 ft. behind our truck. I clearly saw it, it was dark gray and was an oval shape.  When it crossed the interstate, it was probably only 400 or so ft' above ground.  Also, the disk made no noise and on the bottom of the disk there was a blue-metalic cross.When it crossed the interstate, the car radio changed frequency and ever since this accident, the radio keeps playing up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57825.html](http://www.nuforc.org/webreports/reports/057/S57825.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Lake Leelanau (MI) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two low bright lights coming toward me that shattered into thousands of bright points as they passed me with great speed.I was sitting in my car on a driveway on a farm, facing north and uphill toward a trail on a bluff, several hundred feet away.  It was very dark out there in the country.  I think there was no moon and the weather was clear to a little hazy.  Suddenly two lights that looked like headlights appeared at the top of the bluff where the trail was, bright with a fuzzy aura.  They continued to come toward me, about the same height off the ground as headlights, getting brighter but not necessarily clearer.  When they were about 50 feet away, they began to break up into many, many points of light, as if they were tiny stars shooting toward me.  Feeling suddenly frightened, I put my head down on the steering wheel as they soundlessly shot past me and all around me.  I picked my head up and checked behind me, but they were completely gone.  I checked the time on the car and about the right amount of time had passed on the clock.  I felt completely normal if a bit shaken, and got out of the car.  It is the only experience of this type that I have ever had, and I still can't find an explanation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134404.html](http://www.nuforc.org/webreports/reports/134/S134404.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [551](http://www.nuforc.org/webreports/reports/163/S163920.html)
-- [550](http://www.nuforc.org/webreports/reports/165/S165585.html)
-- [549](http://www.nuforc.org/webreports/reports/163/S163926.html)
-- [548](http://www.nuforc.org/webreports/reports/164/S164021.html)
-- [547](http://www.nuforc.org/webreports/reports/163/S163921.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
