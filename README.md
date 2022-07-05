@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:44 on 5 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:55 on 5 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Lake Leelanau (MI) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two low bright lights coming toward me that shattered into thousands of bright points as they passed me with great speed.I was sitting in my car on a driveway on a farm, facing north and uphill toward a trail on a bluff, several hundred feet away.  It was very dark out there in the country.  I think there was no moon and the weather was clear to a little hazy.  Suddenly two lights that looked like headlights appeared at the top of the bluff where the trail was, bright with a fuzzy aura.  They continued to come toward me, about the same height off the ground as headlights, getting brighter but not necessarily clearer.  When they were about 50 feet away, they began to break up into many, many points of light, as if they were tiny stars shooting toward me.  Feeling suddenly frightened, I put my head down on the steering wheel as they soundlessly shot past me and all around me.  I picked my head up and checked behind me, but they were completely gone.  I checked the time on the car and about the right amount of time had passed on the clock.  I felt completely normal if a bit shaken, and got out of the car.  It is the only experience of this type that I have ever had, and I still can't find an explanation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134404.html](http://www.nuforc.org/webreports/reports/134/S134404.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Stellenbosch (South Africa) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I PERSONALLY HAVE SEEN  8 U.F.O'S IN STELLENBOSCH R.S.A. IN THE PAST 4 YEARS.THE CRAFT USUALLY APPEARS AS A BRIGHT LIGHT FLOATING SLOWLY ACROSS THE SKY, THEN SUDDENLY IT WILL STOP,HOVER FOR A SECOND THEN SHOOT OFF INTO SPACE AT A PHENOMENAL SPEED IN A UPWARDS LOOP,AND WITHIN A SECOND OR TWO YOU CANT KEEP TRACK OF IT AND LOSE SIGHT OF THE OBJECT. I HAVE OBSERVED THE SAME U.F.O. APPEARING TWICE NEAR THE BOTTOM POINTER OF THE SOUTHERN CROSS,1ST FROM THE RIGHT SIDE THEN FROM THE LEFT(not in the same year approx.97 aug-sept 1st sighting,98 june 2nd sighting) I HAVE SEEN ELONGATED SHAPES FLYING IN PAIRS DOING ARIAL MANUVERS ACCROSS THE NIGHT SKY IN OCT 97, THEN AGAIN A FEW WEEKS AGO -JULY 01.(these craft were orange in colour) IN THE SAME WEEKS OF JULY 01 I WITNESSED 3 SIGHTINGS(one each day),19:05 APPROX. ONE OF WICH A FRIEND WITNESSED.((NUFORC Note:  We will invite the witness to submit a separate report for each of his alleged sightings.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19237.html](http://www.nuforc.org/webreports/reports/019/S19237.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [551](http://www.nuforc.org/webreports/reports/163/S163920.html)
-- [550](http://www.nuforc.org/webreports/reports/165/S165585.html)
-- [549](http://www.nuforc.org/webreports/reports/163/S163926.html)
-- [548](http://www.nuforc.org/webreports/reports/164/S164021.html)
-- [547](http://www.nuforc.org/webreports/reports/163/S163921.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
