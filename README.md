@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:03:50 on 6 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:33 on 6 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Tel Aviv (Israel) () reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>One to four strange unusual lights appear then dim, disappear, and reappear over Jaffa/Tel Aviv, Israel.Shortly before 22:00 my spouse and I were on patio, 12 stories above street. I noticed two lights about 2000 feet above Jaffa Port, which is located 3 miles south of us. At first we assumed it was helicopters, but the light had pink and blue pale color,did not move, and dimmed before disapearing! One light at 12 o'clock the other at 6 o'clock position, moved very slowly to a 1 and 7 o'clock position, got dimmer and disappeared and immediately one appeared hundreds of feet above where the first two were. Over time that light dimmed and another two appeared, one of those dimmed and disappeared then the second disappeared. No lights observed for a few minuets, then two appeared and moved very slowly to the east and behind a neighboring tall building, and view obstructed. It was about 22:40.During this episode of 45 min, a small four passenger plane flew past our location,on the coast heading south toward Jaffa,where lights would be visable to pilot. During this episode there also were a total of two passenger airlines that decended from the west,that is from over the Mediterranean Sea to approach Tel Aviv airports.No photos taken, second observer, my spouse, went to bed, and I did not want to miss any changes in lights. I never thought it would last for 45 minuets. Sorry!((ADDENDUM FROM WITNESS))I put incorrect date on my UFO report.My sighting was 6th July 2004 not the 7th. It was the evening of the 6th that I viewed lights above Tel Aviv/Jaffa. I reported event on the 7th via online report sheet. The event was tuesday evening at 2155.It is now on list of sightings, and I feel that it should be corrected, if possible.Is there something we can do to correct this?((END ADDENDUM))((NUFORC Note:  Date is corrected above to July 06, 2004.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37957.html](http://www.nuforc.org/webreports/reports/037/S37957.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Yreka (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Two very large, very bright lights arcing across the horizon in succession...At about 22:41 I was looking westward from my car on a street in Yreka.  Above the hill that borders the town to the west I saw an extrememly bright spherical object travel very rapidly across the sky in a gentle arc, and disappear behind that hill.  The object appeared to be about half the size of my fist when held out at arms length, and was surrounded by a larger haze, making the exact determination of the shape difficult.  Shortly after seeing this, I yelled to two of my friends who were about 10 yards away.  They had not seen the object, but as I was telling them to look to the west, the three of us saw the event repeat itself, nearly exactly the same as before.  The dual nature of this event makes me suspicious of what I would have otherwise regarded as a rather spectacular meteorite...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26967.html](http://www.nuforc.org/webreports/reports/026/S26967.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [409](http://www.nuforc.org/webreports/reports/163/S163930.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164129.html)
-- [407](http://www.nuforc.org/webreports/reports/163/S163927.html)
-- [406](http://www.nuforc.org/webreports/reports/157/S157661.html)
-- [405](http://www.nuforc.org/webreports/reports/157/S157436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
