@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:10:50 on 6 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:14:34 on 6 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Montoursville (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately ? - ? minutes.</sub><blockquote><sub>I saw an object with mutiple lights near Williamsport, PA on 7/06/2009I stepped out on my front porch to smoke a cigarette around 2:00am on Monday 07/06/2009.  I looked up in the sky and noticed a light.  It was much brighter than any star I had ever seen and there were no stars visible that night.  I then noticed that it was hovering and moving slightly in a circular pattern.  It was not an airplane or a helicopter.  It made no audible noise.I watched the object for about 15 minutes.  I don't have any idea how long it was there before I noticed it or how long it was there after I stopped watching it.  I could see that the object had at least 3 different lights though at first it appeared to be a single light.  I got my digital camera and attempted to take photos but they wouldn't come out.  The glare from a streetlight was the only thing that would show up on a camera.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70948.html](http://www.nuforc.org/webreports/reports/070/S70948.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Columbia (MD) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Light solid blue semi-circle of light projecting onto bedroom floor.On July 6, 2009, around 1:00am, I woke up to tend to my infant son in another room who was crying.  When I returned to my bedroom, there was a bright light solid blue light shining onto the carpet on the floor in my bedroom.  It was in the shape of a semi-circle.  It almost looked like a half of a spotlight shining on the floor. I am not good with measurements but I think the diameter was probably 8 inches long (maybe the size of the top half of a small personal pizza.) The light was still and did not move.  I did not hear any noise outside.  At first I thought maybe it was a car headlight.  Then I realized that this explanation was not possible since our bedroom backs up to a heavily wooded area and there are no cars around.  Our bedrooms are also on the second floor (we live in a townhome) and the blinds  were halfway down so there was no way a light could project into our room and shine onto the floor in the shape of a semi-circle. I began looking around to see if I could find the source of the light.  I could not see any blue light coming in through the window, but I decided to look out of the window anyway.  As I took a step forward, the light on the floor disappeared.   When I looked outside I did not see anything or hear anything.  I looked for planes and or helicopters that might have had search lights but I saw nothing in the sky.  The whole episode lasted approximately 30 seconds or less.  Today I called the non-emergency police number to see if there had been any other sightings of this light or if there had been any search helicopters in the area. I was told there were no other reportings of any lights but it was a possibility a helicopter was in the area.  However, the dispatcher was unable to confirm whether there was a helicopter in the area at that time.  I found the incident VERY unsettling!((NUFORC Note:  We spoke via telephone with this witness, and she sounded to us to be quite sober minded.  She was shaken by the experience.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70916.html](http://www.nuforc.org/webreports/reports/070/S70916.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [409](http://www.nuforc.org/webreports/reports/163/S163930.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164129.html)
-- [407](http://www.nuforc.org/webreports/reports/163/S163927.html)
-- [406](http://www.nuforc.org/webreports/reports/157/S157661.html)
-- [405](http://www.nuforc.org/webreports/reports/157/S157436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
