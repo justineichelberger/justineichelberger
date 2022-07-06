@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:35:54 on 6 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:18:56 on 6 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Horseshoe Lake (AR) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>bright light in the skyI was out night fishing Friday night around 12:30am I seen what appeared to be a shooting star it was traveling southeast headed northwest what lead me to believe it was not a shooting star is when it got to my 10 o'clock position it abruptly stopped! It stayed motionless for about 20 seconds then it shot almost straight up.  Soon after I noticed a light which I didn’t really pay attention to because where I was fishing its across the Mississippi river and you can see the casinos across the river in the distance.  The casinos usually are brightly lit and on occasions will have the big spotlights going back and forth in the sky. The light I seen I thought at the time was one of those lights from the casinos until the light came over the tree tops and slowly just faded away. Im not sure what I seen but I knew nobody would believe me.((NUFORC Note:  Witness provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100421.html](http://www.nuforc.org/webreports/reports/100/S100421.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Peru (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>My daughter and her husband we parked listening to an outside Tim McGraw concert playing at our little airport.  My daughter noticed a red ball of light south of her location moving north making the red ball larger.  It stopped and two other red balls of light were generated. They all moved in a row then became one again, and soon disappeared. I can not recall if they were directly over the concert goers’ but she was excited when she called me.  I had seen my own UFO Aug of 2012 when it went right over my house.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101604.html](http://www.nuforc.org/webreports/reports/101/S101604.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [409](http://www.nuforc.org/webreports/reports/163/S163930.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164129.html)
-- [407](http://www.nuforc.org/webreports/reports/163/S163927.html)
-- [406](http://www.nuforc.org/webreports/reports/157/S157661.html)
-- [405](http://www.nuforc.org/webreports/reports/157/S157436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
