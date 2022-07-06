@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:38 on 6 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:44 on 6 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Columbus (OH) reported seeing craft that fit the description of some 'Changing' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>4 orange lights moving quickly forming different shapes in the skyAs we were driving home I noticed out of the corner of my eye something that looked like a firework.  It was one orange dot in the sky that separated into 3 all of a sudden after separating the objects started circling eachother And moving pretty fast.  They dissappeared once and when it came back there were four.  They started making a constellation shape straight up and down and the after about 4 minutes disappeared altogether. Never a believer until 9:50 tonight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99847.html](http://www.nuforc.org/webreports/reports/099/S99847.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Portsmouth (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Bright yellow light would dim and brighten itself. Hovered quickly across the sky back and forth.Me and my friends were on our way back from Columbus, OH to Portsmouth, OH driving south on 23. When almost to Chillicothe, my friend with me in the back seat mentioned that he had been watching a strange light in the sky for a couple of minutes. Out of curiosity, we all looked. It was a bright, yellowish light, far brighter than any star in the sky. It seemed to be at high altitude, but I can't be positive as we could easily see it move back and forth ahead of us. During the first 10 minutes of observing, it would be bright and then dim itself until you could not see it anymore. It would then light itself back up in a different area of the sky than it was before. After the 'cycles' it stayed brightly lit and hovered around. We seemed to get fairly close to it at times while driving, but not close enough to identify a shape. My friends claimed to see a seperate light protude from it at one point, but I did not witness this as I was sitting on the other side of the backseat during that time. We lost it when we got into town and it was too foggy to see the sky.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64354.html](http://www.nuforc.org/webreports/reports/064/S64354.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [409](http://www.nuforc.org/webreports/reports/163/S163930.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164129.html)
-- [407](http://www.nuforc.org/webreports/reports/163/S163927.html)
-- [406](http://www.nuforc.org/webreports/reports/157/S157661.html)
-- [405](http://www.nuforc.org/webreports/reports/157/S157436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
