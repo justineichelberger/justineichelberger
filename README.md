@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:54 on 6 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:47:48 on 6 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Amity (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately hours - hours minutes.</sub><blockquote><sub>strange lights in evening skyIt is sitting stationary above at small plane level in altitude it is a britght light that changes in shape There are others far above that are a prism blue and red in color They have appeared every night for the last four nights and are there till down occasionally changing their positions ascending and descending</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18327.html](http://www.nuforc.org/webreports/reports/018/S18327.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Strongsville (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Circle of red lights flying smoothly and low with no sound and hovered for a bit before moving onMy fiancé and I were just getting home from seeing a movie Saturday night on July 16, 2011.  It was approximately 10:20.  My fiancé was parking the car in the garage.  I had gotten out of the car in the driveway before he pulled into the garage, as it is a tight fit.As he was parking the car, I saw from the southwest direction, something flying in sky with red lights.  Whatever it was was flying at the same constant speed like a plane would and was smoothly flying like a plane would.  It was flying low.  At first, I thought it was something like how a small plane would fly with advertisement attached to it, but at night.  However, when it was approaching nearer and then overhead, it was a circle of red lights with no advertisement.  I could not make out a shape or form as it was at night, but could make out a circle of red lights.  My fiancé then came out onto the driveway after parking the car.  We stood and watched the lights wondering what we were seeing. We watched these lights for probably a couple of minutes.  There was no sound at all.The lights didn’t change color as far as I could tell.  The lights looked constant to me.  They looked like a blur of red lights…like the glare you would have after coming home from the eye doctor after dark and after having your eyes dilated.The lights moved steady at a normal plane speed for awhile going into the northeast direction.  Before it got past the trees where we could no longer see it, it seemed to hover for a while before moving on again and out of our site beyond the trees that obstructed the rest of our view.We have no clue what we saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82578.html](http://www.nuforc.org/webreports/reports/082/S82578.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [409](http://www.nuforc.org/webreports/reports/163/S163930.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164129.html)
-- [407](http://www.nuforc.org/webreports/reports/163/S163927.html)
-- [406](http://www.nuforc.org/webreports/reports/157/S157661.html)
-- [405](http://www.nuforc.org/webreports/reports/157/S157436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
