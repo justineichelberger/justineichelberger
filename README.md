@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:02:14 on 6 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:51 on 6 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Cohasset (MA) reported seeing craft that fit the description of some 'Other' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>UFO report  Hello, I have seen several UFOs over the past few days. I typically use my energy to call them in. They come and I just take pictures when they say to. I have several images I can send if needed. I have only harnessed energy to call them in for 2 days so far. Most of them are grey, white, dark grey, and silver. All are in the sky and all were taken at the front of large thunder storms. Some of them are traveling together, but most are individuated. If I did separate reports, I would have to write several of them. I’m very new to harnessing energy. My spiritual abilities did not kick in until January 2021. I started channeling my energy after watching the new Dr. Greer documentary a month ago. I mostly use my energy for other abilities such as psychic, medium, green magic, and reiki work. Once I saw the documentary I decided to try using it to speak to them. It’s very cool and seems to work fine. I don’t mind doing this and only call them in to help inform the general public and other beings, that we need help as a planet. I don’t mind having communication with them for this reason, but other reasons for contact such as ego based reasons, I do not contact them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163930.html](http://www.nuforc.org/webreports/reports/163/S163930.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Dawsonville (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>3 stationary points of light, looked like stars in a constellation, started moving, then disappearedI did see a UFO once!  Or something definitely unexplainable.  The date was the night of July 5, 2000, I had just turned 40.  I was at my sister's house my nephew who had just turned 10 was begging me to camp out with him in their field behind the barn.  It sounded like fun and a good bonding moment so we did.We were laying in our sleeping bags talking and staring straight up at the star filled sky.  All of a sudden about midnight, directly overhead in this star filled constellation, 3 of the stars in a triangle shaped pattern, that had been stationary, started moving!  My nephew said, "Did you see those 3 stars start to move?"  They slowly moved in unison in the direction of the front point of the triangle for a few seconds and then the front star disappeared followed by the rear 2.  As if the nose of a craft lifted up and then took off.  Since they looked like stars (points of light) it was most definitely outside of the atmosphere.We were so rattled by it and excited, neither of us could sleep and we stayed up until 5am talking about it and searching the sky hoping to see it again.((ADDENDUM FROM WITNESS))I submitted this report yesterday and wanted to add that's it's okay to read my name on the radio.((name deleted))((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156723.html](http://www.nuforc.org/webreports/reports/156/S156723.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [409](http://www.nuforc.org/webreports/reports/163/S163930.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164129.html)
-- [407](http://www.nuforc.org/webreports/reports/163/S163927.html)
-- [406](http://www.nuforc.org/webreports/reports/157/S157661.html)
-- [405](http://www.nuforc.org/webreports/reports/157/S157436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
