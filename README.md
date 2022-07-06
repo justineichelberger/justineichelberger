@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:18:56 on 6 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:08:27 on 6 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Peru (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>My daughter and her husband we parked listening to an outside Tim McGraw concert playing at our little airport.  My daughter noticed a red ball of light south of her location moving north making the red ball larger.  It stopped and two other red balls of light were generated. They all moved in a row then became one again, and soon disappeared. I can not recall if they were directly over the concert goers’ but she was excited when she called me.  I had seen my own UFO Aug of 2012 when it went right over my house.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101604.html](http://www.nuforc.org/webreports/reports/101/S101604.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Clarkesville (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Clarkesville, GA 3 lights flashing red and green float and seem to bounce in the skyOn July 4th, my husband pointed out what seemed to be a very bright star that was flashing intermittently red and green lights.  The object hovered in the sky and seemed to bounce.  It would move up and down and then sideways with no pattern to it and then it darted off. After about 20 mins it returned with 2 more that were exactly like it and bounced around some more.  The objects floated in a triangle pattern.  I took video with my phone but it is not the best quality although you can see the objects flashing of colors.On July 5th the objects returned only this time they were floating over our house and this time in a straight line.  Two of them darted off after about ten mins which left one bouncing alone.  He vanished after 5 more mins.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111172.html](http://www.nuforc.org/webreports/reports/111/S111172.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [409](http://www.nuforc.org/webreports/reports/163/S163930.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164129.html)
-- [407](http://www.nuforc.org/webreports/reports/163/S163927.html)
-- [406](http://www.nuforc.org/webreports/reports/157/S157661.html)
-- [405](http://www.nuforc.org/webreports/reports/157/S157436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
