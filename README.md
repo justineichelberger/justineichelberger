@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:37 on 5 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:41 on 6 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Caldwell (ID) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Orange/red, low flying spherical craft seen 200 yards away from 10th ave S. and Castle Way.12:00AM-While entering my subdivision I  observed in the sky a low flying spherical fireball looking craft(roughly the size of a one man helicopter) no more than 200 yards away moving south toward a nearby lake.  My friend turned the vehicle around and it back on the main road.  I quickly exited the vehicle to get a better look and the craft performed a strange maneuver as it rapidly reversed directions (without turning around) then shot straight up and continued south toward Lake Lowell where I lost sight of it after about 30 seconds.Observer 1: Student at University of Idaho Observer 2: Employee at Jackson Oil Headquarters</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90488.html](http://www.nuforc.org/webreports/reports/090/S90488.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Beachwood (NJ) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>bright red flickering light in SW, white ball of light seperates into 2 , other lights appeared in formation.First I noticed red star in SW, placed star finding app with phone on it - there was no identification.  while watching 20 minutes later a bright ball of light appeared below red star and split into two other balls of light that moved into positions above and below red star. then 5 other lights flickered on to the right in a bow shape. one of the 5 slowly moved away leaving 4. they stayed there for at least an hour, when I went inside to check internet for reports and went back outside they were gone. My wife did not see the ball of light separate into 2, but after I got her attention she saw the other "stars moving into position" and "flickering on."</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99901.html](http://www.nuforc.org/webreports/reports/099/S99901.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [551](http://www.nuforc.org/webreports/reports/163/S163920.html)
-- [550](http://www.nuforc.org/webreports/reports/165/S165585.html)
-- [549](http://www.nuforc.org/webreports/reports/163/S163926.html)
-- [548](http://www.nuforc.org/webreports/reports/164/S164021.html)
-- [547](http://www.nuforc.org/webreports/reports/163/S163921.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
