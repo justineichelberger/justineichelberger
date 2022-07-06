@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:55 on 6 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:39 on 6 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Rockford (IL) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>small orange light suddenly changed shape and disappeared!on thursday july 6th i observed a small orange point of light.it was not real bright at first,but then moved north a short distance then,suddenly,brightened and elongated and disappeared.the time was around 8:15 and the sun was setting,and not overcast as i could see the moon clearly.the elongation was about 15 times as long as the object was originally.only lasted for couple of seconds.i've never seen anything like this before!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13340.html](http://www.nuforc.org/webreports/reports/013/S13340.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Moose Mountain (Canada) (NB) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>NEW BRUNSWICK FARMERSIX LIGHTS IN A TRIANGLE,BLINKING,ORANGE,MOVED CLEAR ACROSS THE SKY IN A BLINK OF AN EYE.NEXT DAY ARMY CHOPPERS,CAN@US@RCMP COMBED AREA.((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39985.html](http://www.nuforc.org/webreports/reports/039/S39985.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [409](http://www.nuforc.org/webreports/reports/163/S163930.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164129.html)
-- [407](http://www.nuforc.org/webreports/reports/163/S163927.html)
-- [406](http://www.nuforc.org/webreports/reports/157/S157661.html)
-- [405](http://www.nuforc.org/webreports/reports/157/S157436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
