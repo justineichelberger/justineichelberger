@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:40 on 6 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:05:19 on 6 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Tulsa (OK) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>it changed colers it went from bule to red to green to yellow i thot it wus a airplane but it wus silent but not like a night hawki wus siting on my roof when i saw a object come from the S i thot it wus a airplane but i could not hear n e thing when it started to spead up then it went over my head it changed colers it wus a triangerler shaped object the colers changed 2 bule red green and yellow the went back to blue.((NUFORC Note:  No other reports received from this area to confirm this student's report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29568.html](http://www.nuforc.org/webreports/reports/029/S29568.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Mount Eden (KY) reported seeing craft that fit the description of some 'Changing' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Object moving slowly and then becoming stationary in eastern sky in Shelby County, Ky, then speeding away.Early in the morning of July 6, 2014, an object hovered in the eastern sky over Shelby County, Ky.  It was very bright, glowing almost to a white color and partially turning red at times.  It would move slowly east and west and then bounce around and become still again.  Once it seemed to break apart and join back together.  It made no sound.I know where Venus appears in the morning sky and this was not Venus.  Venus appeared at the appropriate time.  From my observation in my back yard it could have been several thousand feet up.  I viewed it through binoculars, and when it left, it shot across the sky at an incredible speed and was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111273.html](http://www.nuforc.org/webreports/reports/111/S111273.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [409](http://www.nuforc.org/webreports/reports/163/S163930.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164129.html)
-- [407](http://www.nuforc.org/webreports/reports/163/S163927.html)
-- [406](http://www.nuforc.org/webreports/reports/157/S157661.html)
-- [405](http://www.nuforc.org/webreports/reports/157/S157436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
