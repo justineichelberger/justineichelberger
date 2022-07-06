@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:38 on 6 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:10:50 on 6 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Columbus (OH) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>4 glowing lights in skyJust south of Columbus near 71.  Four glowing objects in the sky.  One disappeared, second disappeared then all four appeared together again.  Then vanished.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99827.html](http://www.nuforc.org/webreports/reports/099/S99827.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Montoursville (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately ? - ? minutes.</sub><blockquote><sub>I saw an object with mutiple lights near Williamsport, PA on 7/06/2009I stepped out on my front porch to smoke a cigarette around 2:00am on Monday 07/06/2009.  I looked up in the sky and noticed a light.  It was much brighter than any star I had ever seen and there were no stars visible that night.  I then noticed that it was hovering and moving slightly in a circular pattern.  It was not an airplane or a helicopter.  It made no audible noise.I watched the object for about 15 minutes.  I don't have any idea how long it was there before I noticed it or how long it was there after I stopped watching it.  I could see that the object had at least 3 different lights though at first it appeared to be a single light.  I got my digital camera and attempted to take photos but they wouldn't come out.  The glare from a streetlight was the only thing that would show up on a camera.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70948.html](http://www.nuforc.org/webreports/reports/070/S70948.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [409](http://www.nuforc.org/webreports/reports/163/S163930.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164129.html)
-- [407](http://www.nuforc.org/webreports/reports/163/S163927.html)
-- [406](http://www.nuforc.org/webreports/reports/157/S157661.html)
-- [405](http://www.nuforc.org/webreports/reports/157/S157436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
