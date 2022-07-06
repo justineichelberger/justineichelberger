@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:33 on 6 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:50 on 6 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Yreka (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Two very large, very bright lights arcing across the horizon in succession...At about 22:41 I was looking westward from my car on a street in Yreka.  Above the hill that borders the town to the west I saw an extrememly bright spherical object travel very rapidly across the sky in a gentle arc, and disappear behind that hill.  The object appeared to be about half the size of my fist when held out at arms length, and was surrounded by a larger haze, making the exact determination of the shape difficult.  Shortly after seeing this, I yelled to two of my friends who were about 10 yards away.  They had not seen the object, but as I was telling them to look to the west, the three of us saw the event repeat itself, nearly exactly the same as before.  The dual nature of this event makes me suspicious of what I would have otherwise regarded as a rather spectacular meteorite...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26967.html](http://www.nuforc.org/webreports/reports/026/S26967.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in richmondville (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Traveling west on highway 88 near richmondville, ny friday morning 7/6/18 saw a semi truck with trooper and military escort traveling east on hwy88.On the flatbed was a craft that resembled a somewhat flattened bullet, with the back end flatter and 3 or 4 round things inside the back end for possible propulsion or exhaust function.  no windows. no wings.  object was as long and wide as the flatbed, which are usually 48 feet by 6 feet.it was tied down with ropes and rope netting.  it was silver with army camo painted on it.  i've never seen anything like it, and find no images like it anywhere on the internet.  since I was traveling I only saw it briefly.((NUFORC Note:  Nice illustration provided by witness.  We suspect that the object probably was some type of military platform.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142141.html](http://www.nuforc.org/webreports/reports/142/S142141.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [409](http://www.nuforc.org/webreports/reports/163/S163930.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164129.html)
-- [407](http://www.nuforc.org/webreports/reports/163/S163927.html)
-- [406](http://www.nuforc.org/webreports/reports/157/S157661.html)
-- [405](http://www.nuforc.org/webreports/reports/157/S157436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
