@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:51 on 6 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:35 on 6 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Bainbrodge (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Fire ball out of no where still at first then took off extremely fast in a streak of light.The fireworks at our local school had just finished so everyone was still looking in the direction they were being blown off. Suddenly a fireball erupted out of no where and it seemed to glow entensely.  It seemed to ignite then take off towards the west in an exactly straight line that also was very bright.  It was traveling extremely fast, too fast to be a plane or helecopter.  It just vanished into thin air after that. The fire works were not being shot off and it was very clear and still.  6 of us all saw the same thing and had explaination for what we saw.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  We have changed the time, to reflect an evening sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111298.html](http://www.nuforc.org/webreports/reports/111/S111298.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1985, an anonymous witness in Kona (HI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>The green light was brighter than any nav light on an aircraft or boat.My wife , two week old daughter and I were camping on the beach at Pine Trees. It had been raining off and on most of the night. A squall had just passed and we were settling down for another half hour of sleep before the next squall came through. My wife, in a very excited voice said to me "what are those lights." I would like to say that the next thing we knew it was July 10th, and we could not account for the last five days, but what I saw was 3 very bright green lights in a triangle pattern, with a light at each point. They were moving very rapidly from South to North at eye level. There was no sound.  They were in view for about 10 seconds and dissapeared from view. I don't think an aircraft would be flying on the deck under those conditions, wind shear, and a boat could not go that fast. The green light was so bright it left a retnal print in our vision for several minutes.  I was working as a Telescope Operator on Mauna Kea at the time.  I have seen many strange lights on Mauna Kea in the 15 years I worked there,  but can usually explain them away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34519.html](http://www.nuforc.org/webreports/reports/034/S34519.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [409](http://www.nuforc.org/webreports/reports/163/S163930.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164129.html)
-- [407](http://www.nuforc.org/webreports/reports/163/S163927.html)
-- [406](http://www.nuforc.org/webreports/reports/157/S157661.html)
-- [405](http://www.nuforc.org/webreports/reports/157/S157436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
