@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:38 on 7 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:42 on 7 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>I have a couple pictures to prove what I seen I seen 3 bright lights at first the were moving slowly I was able to pull out my phone to get pictures of it then I took off really fast I followed it park in a parking lot zoomed in and try to take better pictures but then one light shot off to the left then one to the right and the last just remained flying slowing to make it seem like 3 planes but my pictures show it couldn't have been 3 different air craft just one</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99996.html](http://www.nuforc.org/webreports/reports/099/S99996.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Johnstown (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Fireball like object across Cambria county in Pennsylvania, US.Single notably bright 'fireball' like circular/ball object through sky traveling from roughly directly west to directly east (give/take a few degrees), deep red center with white bordering light radius.Effectively caused a slight glow or haze (aura?) around its main mass as it moved almost as if it was entering atmosphere or just moving fast at high altitude (No clouds in the sky for reflection that I could see, was a star filled night)  There was some form of plane/airliner as well in the sky at a normal elevation I would guess near the object, yet the glow and 'size' of the object was effectively at least 7x larger and more notable)  Thought it might just be some form of shooting star or debris until it made 4 roughly 90 degree looking movements, once to the south, then east, then north again, then continuing eastwards.Was -no- sound from it, could not hear anything from the sky at all (no sounds of any planes/jets/etc)  Could not see any changes/deviations of the light on the object, it stayed pure red at the center with it's white radius and the faint light/haze around it just flickered lightly as it moved straight across.Lasted roughly 7 minutes, from one mountain side to the other (middle of a large valley town).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90642.html](http://www.nuforc.org/webreports/reports/090/S90642.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [485](http://www.nuforc.org/webreports/reports/163/S163936.html)
-- [484](http://www.nuforc.org/webreports/reports/163/S163939.html)
-- [483](http://www.nuforc.org/webreports/reports/163/S163932.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164124.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
