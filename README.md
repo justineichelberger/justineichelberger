@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:12:50 on 7 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:01:55 on 7 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Burlington (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I observed a series of bright lights following trajectory of a falling star(close range), and a erratically  moving light(long range )First observed a falling star, followed by a series of lights travelling on what appeared to be an identical trajectory as the falling star.  It was difficult to discern a shape for the lights, but each was visible for about 3 seconds, then disappeared, afterwhich another one appeared, travelled along the falling star trajectory, then disappeared.   I went to search for my camera and when I finally found it, these shapes we're no longer appearing.  I focused the camera in the general vicinity where we saw the observation and noticed a bright light that was far up in the sky...possibly near the stars.  It was moving erratically and rapidly...travelling across the field of view of several stars in only seconds and changing direction rapidly. I captured this observation on videotape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44912.html](http://www.nuforc.org/webreports/reports/044/S44912.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Conway (SC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Orange balls of light going from beach area toward Loris area, seen from downtown Conway.I was heading toward the beach on business 501 in downtown Conway just before the bridge over the waccama river around 8:40 pm when I saw about 7-9 glowing orange balls of light move from directly in front of my vehicle and covered a space of ninety degrees as heading to Loris direction so as to end up on my left side before they disappeared.  They were in a weird formation that did not change as they flew by, and kept same spacing the whole time.  This is not my first time seing these orange  balls of light, I had seen them about a half a year ago as well, so this would interest if we can figure out what they are.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111353.html](http://www.nuforc.org/webreports/reports/111/S111353.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [485](http://www.nuforc.org/webreports/reports/163/S163936.html)
-- [484](http://www.nuforc.org/webreports/reports/163/S163939.html)
-- [483](http://www.nuforc.org/webreports/reports/163/S163932.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164124.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
