@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:56 on 7 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:43 on 7 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Blue floating orb.Blue orb floating over Windsor Park. Behaved like a balloon in the wind but was glowing blue from a central light source. Could not detect altitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111325.html](http://www.nuforc.org/webreports/reports/111/S111325.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Hartlepool (UK/England) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Soundless bright light seen over North East coast of EnglandWe had just left our local cinema, the sky was extremely clear and visibilty was excellent. We saw an extremely bright light in the sky travelling from West to East, It looked to be quite low, but there was no sound at all before or after its passing. There were no flashing lights at the extremities of the object. After it passed over it seemed to accelerate away very quickly or shrink in size.We are both professional people and have never witnessed anything like this before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57505.html](http://www.nuforc.org/webreports/reports/057/S57505.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [485](http://www.nuforc.org/webreports/reports/163/S163936.html)
-- [484](http://www.nuforc.org/webreports/reports/163/S163939.html)
-- [483](http://www.nuforc.org/webreports/reports/163/S163932.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164124.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
