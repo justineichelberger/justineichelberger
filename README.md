@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:33 on 7 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:12:50 on 7 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Stamford (CT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Several bonfire like things moving Northbound, same speed, no noise.Analogy would be bonfires in the sky.  Looking through trees, first there where 3 together.  Then 4 more, one at a time moving from Long Island Sound, Northward.   All were same speed and same distance apart.  Listened carefully for noise of possible engine, but completely silent.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90627.html](http://www.nuforc.org/webreports/reports/090/S90627.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Burlington (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I observed a series of bright lights following trajectory of a falling star(close range), and a erratically  moving light(long range )First observed a falling star, followed by a series of lights travelling on what appeared to be an identical trajectory as the falling star.  It was difficult to discern a shape for the lights, but each was visible for about 3 seconds, then disappeared, afterwhich another one appeared, travelled along the falling star trajectory, then disappeared.   I went to search for my camera and when I finally found it, these shapes we're no longer appearing.  I focused the camera in the general vicinity where we saw the observation and noticed a bright light that was far up in the sky...possibly near the stars.  It was moving erratically and rapidly...travelling across the field of view of several stars in only seconds and changing direction rapidly. I captured this observation on videotape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44912.html](http://www.nuforc.org/webreports/reports/044/S44912.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [485](http://www.nuforc.org/webreports/reports/163/S163936.html)
-- [484](http://www.nuforc.org/webreports/reports/163/S163939.html)
-- [483](http://www.nuforc.org/webreports/reports/163/S163932.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164124.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
