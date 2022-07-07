@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:38 on 7 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:45 on 7 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Oxford (AL) reported seeing craft that fit the description of some 'Other' over a period of approximately 16.0 - 16.0 minutes.</sub><blockquote><sub>Our dog began frantically barking, and we walked outside to see three giant glowing dots that changed formation and left a trail.At 10:03 PM on Thursday July 7th, 2016, our dog started to bark and growl at the window with what we thought was a bird.  Curious, we went outside so as to see what started as three glowing orange dots in the sky and grew into one larger formation.  They lingered around the sky moving slightly up and down before breaking into two, then splitting and fading away.  During the sighting we grabbed a recorder and got a shot of it but the batteries died afterward, which was strange as how it was at half battery, and the image looked warped.  We, my grandmother and I, looked at it through binoculars.  There appeared to be a blinking in the bottom of the crescent shape with a lingering, short trail that looked to be a smoldering orange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128357.html](http://www.nuforc.org/webreports/reports/128/S128357.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Newark (NJ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Red orange fireball traveling slowly East to West, then dropped and disappeared, like it burst apart.  No trail left behind it at first, until it dropped in a controlled manner.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128379.html](http://www.nuforc.org/webreports/reports/128/S128379.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [485](http://www.nuforc.org/webreports/reports/163/S163936.html)
-- [484](http://www.nuforc.org/webreports/reports/163/S163939.html)
-- [483](http://www.nuforc.org/webreports/reports/163/S163932.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164124.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
