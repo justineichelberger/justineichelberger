@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:10:55 on 7 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:42 on 7 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Cluster of 15-16 bright lights traveled from East to South over Puget Sound from Lake UnionHello Peter,  This is an addition to my previous report, per your request.  I wanted to copy and paste the picture on your site to show you this is a lot like what we saw, but the picture did not get pasted.  I will add the text that refers to that picture on your site.  I also wanted to let you know we saw this at the address below, on our deck, facing East towards Lake Union, we can see the Locks on the right, and the lights were coming from the horizon on the East, going up, like being shot from a center and spreading apart, then, while travelling, they formed some sort of constellation. They went above the train bridge and the view of the locks, and towards the south. The image on your site that looks a lot like what we saw is below the following text: BARNESVILLE, OHIO, SUNDAY, MAY 08TH, 2011 @ 21:23 HRS. (Eastern) -A group of thirteen people witness a strange cluster of 12 bright orange lights move across the sky at high speed.  Full Report   See Image Below.   (We express our gratitude to the Times Leader newspaper for use of the photograph.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90731.html](http://www.nuforc.org/webreports/reports/090/S90731.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Livermore (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>A star-like object inscribed rectangles in the sky and then vanished!.I have avoided telling this for fear of ridicule.  Even my wife is not aware.  If it ever gets out, I will be an outcast!  But I know what I saw. At about 9PM on the 7th of July, 1998 while watching TV, I heard what sounded like a distant explosion. Seemed to have come from the Southeast (toward my back-yard).  Thinking it might be some illicit fireworks left over from the 4th (fireworks are VERBOTEN in California), I stepped out into the back yard to watch.  I saw some 4 or 5 more explosions (rockets) with the traditional red-white-blue streamers coming down.  After the 4th or 5th rocket there was a long pause.  I didn't know if that was the last rocket or not so I just waited. While I was waiting I glanced around the sky.  It was very clear and the stars were bright.  Looking up at about a 45 degree angle to the North, I saw a particularly bright star which I glanced at for a second or two and moved on to other stars.  But before it was out of my field of view, I caught a movement and I glanced back.Thinking it might be a satellite, I continued to watch as it slowly moved toward the south.But, After 15 or 20 seconds it made a sharp 90 degree turn!  Then at about 30 to 45 seconds more another 90 degree turn!  As I watched, it inscribed a perfect rectangle.  It made almost 2 complete trips in this rectangular pattern while I watched.  I estimated it took about 2 minutes to complete a rectangular trip, and made approximately two of these trips while I watched.  Then there was a split second when it streaked off at about a 45 degree angle which led away from the rectangle it had been making.  In about 1/10th of a second the light just went out.  That was the last I saw of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33025.html](http://www.nuforc.org/webreports/reports/033/S33025.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [485](http://www.nuforc.org/webreports/reports/163/S163936.html)
-- [484](http://www.nuforc.org/webreports/reports/163/S163939.html)
-- [483](http://www.nuforc.org/webreports/reports/163/S163932.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164124.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
