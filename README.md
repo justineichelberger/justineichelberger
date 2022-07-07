@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:42 on 7 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:49 on 7 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Johnstown (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Fireball like object across Cambria county in Pennsylvania, US.Single notably bright 'fireball' like circular/ball object through sky traveling from roughly directly west to directly east (give/take a few degrees), deep red center with white bordering light radius.Effectively caused a slight glow or haze (aura?) around its main mass as it moved almost as if it was entering atmosphere or just moving fast at high altitude (No clouds in the sky for reflection that I could see, was a star filled night)  There was some form of plane/airliner as well in the sky at a normal elevation I would guess near the object, yet the glow and 'size' of the object was effectively at least 7x larger and more notable)  Thought it might just be some form of shooting star or debris until it made 4 roughly 90 degree looking movements, once to the south, then east, then north again, then continuing eastwards.Was -no- sound from it, could not hear anything from the sky at all (no sounds of any planes/jets/etc)  Could not see any changes/deviations of the light on the object, it stayed pure red at the center with it's white radius and the faint light/haze around it just flickered lightly as it moved straight across.Lasted roughly 7 minutes, from one mountain side to the other (middle of a large valley town).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90642.html](http://www.nuforc.org/webreports/reports/090/S90642.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Tampa (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 46.0 - 46.0 minutes.</sub><blockquote><sub>I have a video tape, I was taping lightning and played it back and saw alot of unusual fireballs and things such as that.I was videotaping lightning and when I went to playback the tape, I found numerous flashes of light and odd things that happened to appear in the lense's sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08284.html](http://www.nuforc.org/webreports/reports/008/S08284.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [485](http://www.nuforc.org/webreports/reports/163/S163936.html)
-- [484](http://www.nuforc.org/webreports/reports/163/S163939.html)
-- [483](http://www.nuforc.org/webreports/reports/163/S163932.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164124.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
