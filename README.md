@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:50 on 6 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:56 on 7 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in richmondville (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Traveling west on highway 88 near richmondville, ny friday morning 7/6/18 saw a semi truck with trooper and military escort traveling east on hwy88.On the flatbed was a craft that resembled a somewhat flattened bullet, with the back end flatter and 3 or 4 round things inside the back end for possible propulsion or exhaust function.  no windows. no wings.  object was as long and wide as the flatbed, which are usually 48 feet by 6 feet.it was tied down with ropes and rope netting.  it was silver with army camo painted on it.  i've never seen anything like it, and find no images like it anywhere on the internet.  since I was traveling I only saw it briefly.((NUFORC Note:  Nice illustration provided by witness.  We suspect that the object probably was some type of military platform.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142141.html](http://www.nuforc.org/webreports/reports/142/S142141.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Huddersfield (UK/England) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Multi lighted saucer shape doing zigzag flights over English deserted moorWas driving with friend in a westerly direction (from Huddersfield to Manchester) direction when I got to grid reference 53 34'09.47N    1 50'33.28w , my passenger pointed out 2 or 3 orange lights in the sky from the south near the horizon among the white stars but looked totally different to them. It was shining a search light down at the gound like a police helicopter. Despite the fact that this high point (nearly 2000 ft above sea level) never getting any air traffic, we assumed that this was a plane, until we saw how quickly the object was approaching. (horizon to 5 miles away in 10 seconds. I stopped the car on the road got out and noticed the object go straight up thousands of feet then went about 1 mile to the right and up a few thousand feet again all in 2 seconds. It stayed still for 30 seconds and did the same manouvre again, just higher in the sky, and then vanished like an extinguised light. The object was easy to see as it was in the countryside with no visual pollution from nearby houses or street lighting as it is in the middle of desolate wasteland moors. The object seemed to be triangular or saucer shaped, with one big yellow light and a small smaller light either side. The base had many small lights which were moving and gave the impression that the object was spinning. I am very nervous about describing the object because it appeared to change it's form a few times as it drew closer. Maybe because the eye sees what it wants to see to compare with items it already knows and imagination fills in the spaces ?. I have no idea what it was but I do know that it is impossible that anything from this planet to travel at this speed or change direction so easily. Estimated speed 5000 mph ?  My friend lives near there and noticed it come back after 15 minutes to repeat the actions previously listed. It was hovering around for about 30 minutes this time presumably because there were no car headlights around ?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64399.html](http://www.nuforc.org/webreports/reports/064/S64399.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [409](http://www.nuforc.org/webreports/reports/163/S163930.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164129.html)
-- [407](http://www.nuforc.org/webreports/reports/163/S163927.html)
-- [406](http://www.nuforc.org/webreports/reports/157/S157661.html)
-- [405](http://www.nuforc.org/webreports/reports/157/S157436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
