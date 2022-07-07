@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:48:25 on 7 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:33:50 on 7 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Fireball objects appeared in the sky almosy serpent like movement .Me and my friend were sitting in the car waiting to pick up a friend.  My friend said hey look a shooting star.  I looked, and all of a sudden, this fireball like object started moving irratically, and the a second one appeared in a up down motion, and then a 3rd appeard and it moved irratacly as well.  The object formed a perfect triangle then they all moved up and down and one swooped across the sky and dissapeared and the rest did the same . It happend on the hills above otay mesa .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135025.html](http://www.nuforc.org/webreports/reports/135/S135025.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Vienna (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>The small circular orange object was silent and not moving in the direction that the planes normally do in this area.  Because there is an airport & military base within 5 miles of this sighting,  I can assure you that it was not an airplane or helicopter. It was moving slowly away from HWY 82 (away from I-80 in direction and crossed over HWY 82) and then curved over the small horse race track in Vienna and headed toward over Brookfield. I think it was a military drone because it was completely silent and very slow; however I don't know. I just know living near the airport for 30 years that this was not a manned civilian or military aircraft, because they all have a engine sound and are not this specific color orange.  This was not a Chinese lantern either. It flew smoothly as if it were a slow silent drone or unknown aircraft. It appeared to be about 500-1000' off the ground, but it was hard to tell.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111306.html](http://www.nuforc.org/webreports/reports/111/S111306.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [485](http://www.nuforc.org/webreports/reports/163/S163936.html)
-- [484](http://www.nuforc.org/webreports/reports/163/S163939.html)
-- [483](http://www.nuforc.org/webreports/reports/163/S163932.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164124.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
