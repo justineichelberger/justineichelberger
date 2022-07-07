@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:44 on 7 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:51 on 7 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in San Bernardino (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Stationary,high altitude, bright pulsing lightI never had any reason to look up at the stars unless there was a meteor shower going on.  I am a maintenance technician and that changed when I got stuck working the graveyard shift about a year and a half ago.  At work we can't smoke in the break room so me and the guys have to go outside to burn one.  That's when one of the maintenance guys said that recently he saw a bright light in the sky that was turning off and on and it never moved.  Another one of the maintenance guys said he saw something like that too, he said it was weird almost like it was taking pictures because the light would get bright then turn off.  They both agreed that that the light was stationary and turned off and on a total of 2 to 3 times.  Well I have seen this bright light in the sky a total of 3 times since then.The first time it was about 2:30 am located in the western sky ,thats when a bright light caught my attention from the corner of my eye.  I kept looking in that direction and saw nothing but a few seconds later there it was again, got real bright then dimmed out. The second time I was with a friend he said hey look over there it's one of those bright lights again.  It was in the northern sky about 3:00 am and it was there for about a good 2 minutes turning on and off about 6 times in 30 second intervals.The most recent sighting is July 7,2009 at 4:45 am I was outside setting up my tripod for my telescope, I was excited to see Jupitor for the first time through a telescope, the skys were clear and Jupitor was really bright. As I was getting lined up with the spotting scope there it was a bright light that would dim out for about 30 seconds then reappear. It repeated this process about 3 times.This bright light doesn't give off that gleem like Venus and Jupitor give off, but the size and brightness are about the same.It does give a pulse like affect as it seems to grow in brightness then dims out and then repeats that cycle about 3 times. It seems to be stationary I have never seen it move.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71051.html](http://www.nuforc.org/webreports/reports/071/S71051.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Helixville (PA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>cigar shaped neon green objectI seen a neon green cigar shaped object it was about 3 to 4 feet long and flew about 2 feet above the ground it went about 100 yards acrossed the field untill it vanished seeming to go into the ground it moved in a zig zag pattern</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82316.html](http://www.nuforc.org/webreports/reports/082/S82316.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [485](http://www.nuforc.org/webreports/reports/163/S163936.html)
-- [484](http://www.nuforc.org/webreports/reports/163/S163939.html)
-- [483](http://www.nuforc.org/webreports/reports/163/S163932.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164124.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
