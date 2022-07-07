@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:29:05 on 7 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:48:25 on 7 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Dallas (TX) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>fireball over DallasIt seemed more like a meteorite, or a fireball than a craft, but I thought I'd report it just in case. It was heading North, and we were looking to the east from Garland TX (basically Dallas).  The front was a big orange and red fireball followed by a blue and green tail, bigger than a comet's tail.  I thought at first some one was shooting off fire works close by till I realised the distance and apparent speed, and then I thought it was a big meteor and when it went behind the trees, my friend and I both waited a second, holding our breaths, for the impact. It seemed really close.  Then I said, do you know how few people get to see something that cool?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37976.html](http://www.nuforc.org/webreports/reports/037/S37976.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Fireball objects appeared in the sky almosy serpent like movement .Me and my friend were sitting in the car waiting to pick up a friend.  My friend said hey look a shooting star.  I looked, and all of a sudden, this fireball like object started moving irratically, and the a second one appeared in a up down motion, and then a 3rd appeard and it moved irratacly as well.  The object formed a perfect triangle then they all moved up and down and one swooped across the sky and dissapeared and the rest did the same . It happend on the hills above otay mesa .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135025.html](http://www.nuforc.org/webreports/reports/135/S135025.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [485](http://www.nuforc.org/webreports/reports/163/S163936.html)
-- [484](http://www.nuforc.org/webreports/reports/163/S163939.html)
-- [483](http://www.nuforc.org/webreports/reports/163/S163932.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164124.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
