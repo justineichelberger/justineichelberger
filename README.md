@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:08:45 on 7 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:35 on 7 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Grissom AFB (approx. 20 south of) (IN) reported seeing craft that fit the description of some 'Egg' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>as (craft) ? travelled S. it's narrow end was forward, it was a shinny metallic in tone.Clear skies, 12 noon. I was glancing about the tree tops at my home and noticed this shinny metallic object, I live near a Reserve Air base so seeing aircraft is typical we have a stelth here and many tankers. This object was just not right, it was silent, and travelled at a altitude that was upper mid levels, to low to be commercial and to high to be leaving the base. It's speed was not extremely fast. ( if you held a quarter up to the sky, it would travel the span in 3 or 4 seconds at upper mid levels about 15 to 20 thousand ft.) It had no contrails and with a passing of a cold front it should be cold enough at that elevation to produce them. It had no propellers as in Heicopter, nor did I view it to have wings. It also made a no banking turn to the south east. Than out of my sight range. I had a son run to get my camera but was to late. At these levels I could see that the ( craft) was a egg shaped more short than long. My observation skills are good, I am a meteorology student, working on METAR. I am open minded, I believe I have had a several spanning year contact beginning at the age of 7, and have never told anyone till this moment.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08283.html](http://www.nuforc.org/webreports/reports/008/S08283.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1955, an anonymous witness in UK/England (rural) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>1955+/-, multiple identical circular saucers in formation, spinning, slow-moving, low,  30' dia.?, visual only.Rural area, near RAF Great Rissington, Gloucestershire, U.K.I was an avid plane-spotter, was watching-out for planes, with binocs. This was an area frequented by test-planes and many U.S.A.F. bombers (I think I saw the U2 at extreme altitude before it got any publicity.) That day, one circular saucer rose above hilly wooded horizon, about 2 miles away, edge on, travelling not very fast in hztl. plane, banked away, clearly spinning (about 50-60 r.p.m., I'd guess), rose a little above the horizon, then fell away below horizon, TO BE FOLLOWED BY 8 MORE IN LINE ASTERN. I had the binoculars on it (them) in turn and I can't remember if there were two visible at any one time, but the timing and motion was such that it wd be highly unlikely if it were one repeating the manoeuvre another 8 times. Colour was aluminium grey.  Dia. about 25-40', I'd guess -- at that distance it was difficult to tell. I didn't get a long look edge-on but I think I glimpsed a bulge at the centre.Have spoken about this for years and, of course, everyone dismisses it. Got my Dad to report it to R.A.F., but .... you know the rest!((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54261.html](http://www.nuforc.org/webreports/reports/054/S54261.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [485](http://www.nuforc.org/webreports/reports/163/S163936.html)
-- [484](http://www.nuforc.org/webreports/reports/163/S163939.html)
-- [483](http://www.nuforc.org/webreports/reports/163/S163932.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164124.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
