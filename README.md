@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:16:40 on 7 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:36 on 7 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Carlbad (NM) reported seeing craft that fit the description of some 'Sphere' over a period of approximately SECONDS - SECONDS minutes.</sub><blockquote><sub>phone camera captured as quick as we could see the object in the camera.using phone camera for the first time.Took a picture of the sky really quick to test the camera and photo of the space craft appeared on the phone.Never acually saw the space craft but have it on film.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41403.html](http://www.nuforc.org/webreports/reports/041/S41403.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Huddersfield (UK/England) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Multi lighted saucer shape doing zigzag flights over English deserted moorWas driving with friend in a westerly direction (from Huddersfield to Manchester) direction when I got to grid reference 53 34'09.47N    1 50'33.28w , my passenger pointed out 2 or 3 orange lights in the sky from the south near the horizon among the white stars but looked totally different to them. It was shining a search light down at the gound like a police helicopter. Despite the fact that this high point (nearly 2000 ft above sea level) never getting any air traffic, we assumed that this was a plane, until we saw how quickly the object was approaching. (horizon to 5 miles away in 10 seconds. I stopped the car on the road got out and noticed the object go straight up thousands of feet then went about 1 mile to the right and up a few thousand feet again all in 2 seconds. It stayed still for 30 seconds and did the same manouvre again, just higher in the sky, and then vanished like an extinguised light. The object was easy to see as it was in the countryside with no visual pollution from nearby houses or street lighting as it is in the middle of desolate wasteland moors. The object seemed to be triangular or saucer shaped, with one big yellow light and a small smaller light either side. The base had many small lights which were moving and gave the impression that the object was spinning. I am very nervous about describing the object because it appeared to change it's form a few times as it drew closer. Maybe because the eye sees what it wants to see to compare with items it already knows and imagination fills in the spaces ?. I have no idea what it was but I do know that it is impossible that anything from this planet to travel at this speed or change direction so easily. Estimated speed 5000 mph ?  My friend lives near there and noticed it come back after 15 minutes to repeat the actions previously listed. It was hovering around for about 30 minutes this time presumably because there were no car headlights around ?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64399.html](http://www.nuforc.org/webreports/reports/064/S64399.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [485](http://www.nuforc.org/webreports/reports/163/S163936.html)
-- [484](http://www.nuforc.org/webreports/reports/163/S163939.html)
-- [483](http://www.nuforc.org/webreports/reports/163/S163932.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164124.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
