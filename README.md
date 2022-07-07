@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:37 on 7 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:56 on 7 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Gaston (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Glowing orange orb in skyMy family and I walked outside to say goodbye to my dad.  As we were saying goodbye we looked over to our orchards.  There was a orange orb in the sky we watched it for about two minutes as it was coming near us.  Our first instincts was it was a plane without it's flashers on but as it came closer we heard no sound and the object was far to big to be a plane.  As it came over our heads and passed it shot off into the distance (approx) 15 seconds and it glowed red and dissapeared.  There was no sound and it was a orb the sky.  There was no way it could be a fire work or a plane, to low to be a sattilte.  I have never seen anything move so fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76367.html](http://www.nuforc.org/webreports/reports/076/S76367.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Blue floating orb.Blue orb floating over Windsor Park. Behaved like a balloon in the wind but was glowing blue from a central light source. Could not detect altitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111325.html](http://www.nuforc.org/webreports/reports/111/S111325.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [485](http://www.nuforc.org/webreports/reports/163/S163936.html)
-- [484](http://www.nuforc.org/webreports/reports/163/S163939.html)
-- [483](http://www.nuforc.org/webreports/reports/163/S163932.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164124.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
