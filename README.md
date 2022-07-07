@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:35 on 7 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:38 on 7 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1955, an anonymous witness in UK/England (rural) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>1955+/-, multiple identical circular saucers in formation, spinning, slow-moving, low,  30' dia.?, visual only.Rural area, near RAF Great Rissington, Gloucestershire, U.K.I was an avid plane-spotter, was watching-out for planes, with binocs. This was an area frequented by test-planes and many U.S.A.F. bombers (I think I saw the U2 at extreme altitude before it got any publicity.) That day, one circular saucer rose above hilly wooded horizon, about 2 miles away, edge on, travelling not very fast in hztl. plane, banked away, clearly spinning (about 50-60 r.p.m., I'd guess), rose a little above the horizon, then fell away below horizon, TO BE FOLLOWED BY 8 MORE IN LINE ASTERN. I had the binoculars on it (them) in turn and I can't remember if there were two visible at any one time, but the timing and motion was such that it wd be highly unlikely if it were one repeating the manoeuvre another 8 times. Colour was aluminium grey.  Dia. about 25-40', I'd guess -- at that distance it was difficult to tell. I didn't get a long look edge-on but I think I glimpsed a bulge at the centre.Have spoken about this for years and, of course, everyone dismisses it. Got my Dad to report it to R.A.F., but .... you know the rest!((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54261.html](http://www.nuforc.org/webreports/reports/054/S54261.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Oxford (AL) reported seeing craft that fit the description of some 'Other' over a period of approximately 16.0 - 16.0 minutes.</sub><blockquote><sub>Our dog began frantically barking, and we walked outside to see three giant glowing dots that changed formation and left a trail.At 10:03 PM on Thursday July 7th, 2016, our dog started to bark and growl at the window with what we thought was a bird.  Curious, we went outside so as to see what started as three glowing orange dots in the sky and grew into one larger formation.  They lingered around the sky moving slightly up and down before breaking into two, then splitting and fading away.  During the sighting we grabbed a recorder and got a shot of it but the batteries died afterward, which was strange as how it was at half battery, and the image looked warped.  We, my grandmother and I, looked at it through binoculars.  There appeared to be a blinking in the bottom of the crescent shape with a lingering, short trail that looked to be a smoldering orange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128357.html](http://www.nuforc.org/webreports/reports/128/S128357.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [485](http://www.nuforc.org/webreports/reports/163/S163936.html)
-- [484](http://www.nuforc.org/webreports/reports/163/S163939.html)
-- [483](http://www.nuforc.org/webreports/reports/163/S163932.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164124.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
