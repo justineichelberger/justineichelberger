@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:01:55 on 7 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:10:55 on 7 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Conway (SC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Orange balls of light going from beach area toward Loris area, seen from downtown Conway.I was heading toward the beach on business 501 in downtown Conway just before the bridge over the waccama river around 8:40 pm when I saw about 7-9 glowing orange balls of light move from directly in front of my vehicle and covered a space of ninety degrees as heading to Loris direction so as to end up on my left side before they disappeared.  They were in a weird formation that did not change as they flew by, and kept same spacing the whole time.  This is not my first time seing these orange  balls of light, I had seen them about a half a year ago as well, so this would interest if we can figure out what they are.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111353.html](http://www.nuforc.org/webreports/reports/111/S111353.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Cluster of 15-16 bright lights traveled from East to South over Puget Sound from Lake UnionHello Peter,  This is an addition to my previous report, per your request.  I wanted to copy and paste the picture on your site to show you this is a lot like what we saw, but the picture did not get pasted.  I will add the text that refers to that picture on your site.  I also wanted to let you know we saw this at the address below, on our deck, facing East towards Lake Union, we can see the Locks on the right, and the lights were coming from the horizon on the East, going up, like being shot from a center and spreading apart, then, while travelling, they formed some sort of constellation. They went above the train bridge and the view of the locks, and towards the south. The image on your site that looks a lot like what we saw is below the following text: BARNESVILLE, OHIO, SUNDAY, MAY 08TH, 2011 @ 21:23 HRS. (Eastern) -A group of thirteen people witness a strange cluster of 12 bright orange lights move across the sky at high speed.  Full Report   See Image Below.   (We express our gratitude to the Times Leader newspaper for use of the photograph.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90731.html](http://www.nuforc.org/webreports/reports/090/S90731.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [485](http://www.nuforc.org/webreports/reports/163/S163936.html)
-- [484](http://www.nuforc.org/webreports/reports/163/S163939.html)
-- [483](http://www.nuforc.org/webreports/reports/163/S163932.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164124.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
