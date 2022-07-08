@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:32 on 8 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:46 on 8 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Allentown (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Round very bright orange object traveling west to east, turned south, ascended quickly, getting smaller then  disappeared into blackness.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157450.html](http://www.nuforc.org/webreports/reports/157/S157450.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Arizona (rural) (AZ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Saw a saucer after a plan spining w/ lights and other events followed.While on a camping trip in Arizona, I was awake in the middle of the night and witnessed a flying disc following a plane. I thought the plane might just be pulling something as a joke, but then I asked myself how could it spin and have lights? I was sure of what I saw after a person fishing saw it and yelled "Look a UFO!" About 15 minutes after I saw it, a orange light shot up behind a mountian in the same area (lasted less than 3 seconds). About 2-3 hours later, I witnessed an object falling and buringing up in a blue flame. I could feel the heat from it and was far away. Today (7-10-03) I heard that it was on the news and lots of people saw it. I Tried to find a copy of the Arizona for 7-9-03 in which the article was supposedly in. Track it down, and it may prove this story.((NUFORC Note:  Witness provides a paucity of personal and contact data.  We would like to have him forward a copy of the article he alludes to above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29663.html](http://www.nuforc.org/webreports/reports/029/S29663.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/164/S164020.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164065.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163935.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163933.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
