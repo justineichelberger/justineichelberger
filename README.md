@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:07:30 on 8 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:36 on 8 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Saint Augustine (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Very bright, white stationary object for approx. 2 min. then moved eastward.At first, it was so bright, I thought it was a star.  It remained stationary for approximately two minutes then began to move east.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111337.html](http://www.nuforc.org/webreports/reports/111/S111337.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1981, an anonymous witness in Christiansburg (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Summary : Observed light only, first slowly moving, appeared to be small private plane.Then stationary, moved in circle while changing colors ( can't recall all colors).Vacated the area at a speed too fast for jet.I was 14 years old at the time, and my father and I were out for a walk. Upon sighting the object, my dad asked "Wonder what that guy is doing?", since at first it appeared to be just an ordinary light from a private plane. Then, as it began to circle and change colors, I asked ,"How is he changing colors?". Dad said "I don't know" and as the object left at great speed my dad said, "I don't think we have anything that goes that fast.". I am now 30 years old, a former army officer (medical) and former army intelligence SGT. My dad is currently military intelligence, and has, shall we say, some difficulty publicly confirming my recollection of this event.This is of course very troubling to me since he does acknowledge it in private (with me), so to share the story without his verification (since I was a kid at the time), makes me look like a liar, or at best possessing a false recollection of an ordinary event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02758.html](http://www.nuforc.org/webreports/reports/002/S02758.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/164/S164020.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164065.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163935.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163933.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
