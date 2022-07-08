@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:44 on 8 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:57 on 8 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Carol Stream (IL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orange pulsing light over Carol StreamOrange colored sphere traveling from west to south east.  Light from object was 3-4 times brighter than a satellite and had a long pulse to it.  No sound as it passed almost over head at the speed of a normal airplane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111347.html](http://www.nuforc.org/webreports/reports/111/S111347.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1973, an anonymous witness in Greensboro (NC) reported seeing craft that fit the description of some 'Cigar' over a period of approximately  -  minutes.</sub><blockquote><sub>Young boy spots UFO in North Carolina.The craft was Huge and cigar shaped and covered in multi colored lights. The craft it self was a metalic or silver grey. At that time I was about 6 or 7 years old at the time. I was in my second floor bedroom at time looking out the window,it looked bigger than the house.  I was scared to death I have never seen anything like before or since. I never told anybody before until recently because I was afraid nobody would beleave me. I was also fasinated by it a lot but I did not Know to do about it. Thank you for hearing my story it is a relief to finally be able to tell some one who might beleave me.  I am sorry if it is not detailed enough but that was along time ago and I was just a boy.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19531.html](http://www.nuforc.org/webreports/reports/019/S19531.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/164/S164020.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164065.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163935.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163933.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
