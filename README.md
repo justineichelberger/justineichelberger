@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:36 on 8 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:41 on 8 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Sayville (NY) reported seeing craft that fit the description of some 'Flash' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Five UFO's seen travelling over L.I, NYat 23:13 hours, two witnesses saw multiple flying crafts over Sayville, Long Island, New York.  That were not travelling in the direction of McArthur airport and were flying much faster than any aircraft ever viewed in the vicinity.   UFO was seen flying well above cloud cover, and McArthur aiport had no outgoing flights at said time.  Witnesses saw one triangular flashing object with white and red flashing lights, and two craft lights completely disappeared from view.   Stars were visible at the time of the sighting, and no stars were seen disappearing underneath cloud cover, and were visible throughout the entire sighting of UFO's.  Five UFO's were seen within a half hour's time, and then no sightings after.  Sightings ended at 11:35 pm EST.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76329.html](http://www.nuforc.org/webreports/reports/076/S76329.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Asbury Park (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Flickering lights at edges of what appeared to be a triangle form.  Was stationary at first and lights kept coming close and then getting farther or move away.  After a couple minutes, it started rotating around together.  The lights appeared about 60 feet in the air and were over the Atlantic Ocean.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147431.html](http://www.nuforc.org/webreports/reports/147/S147431.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/164/S164020.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164065.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163935.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163933.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
