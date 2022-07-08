@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:45 on 8 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:32 on 8 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in West Valley City (UT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A white sphere flew north to south over West Valley City, Utah in about 10 seconds timeSunday July 8th 2012,I was talking to my neighbor and he told me he saw a white sphere flying from north to south.  I told him to report it but he said he would not.  So I am reporting what he told me.  About 5:50 PM he was sitting in a chair just outside his garage when he saw a white sphere flying north to south. he described it as a white, sharp ball flying at about the same altitude that the planes flying on final approach to Salt Lake International airport.  He said the sphere was about the size of a Volks-Wagon Beetle.(his words)  He said to compare the speed, from his perspective, it was moving about twice the speed as he sees planes fly at altitude.  I don't know if you can use second hand reports, but I know you said on the radio that you would like all UFO's reported.  Use this report if you get any more from the West Valley City area.  I don't think he was lying to me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90672.html](http://www.nuforc.org/webreports/reports/090/S90672.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Allentown (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Round very bright orange object traveling west to east, turned south, ascended quickly, getting smaller then  disappeared into blackness.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157450.html](http://www.nuforc.org/webreports/reports/157/S157450.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/164/S164020.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164065.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163935.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163933.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
