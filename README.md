@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:51 on 7 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:57 on 8 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Helixville (PA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>cigar shaped neon green objectI seen a neon green cigar shaped object it was about 3 to 4 feet long and flew about 2 feet above the ground it went about 100 yards acrossed the field untill it vanished seeming to go into the ground it moved in a zig zag pattern</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82316.html](http://www.nuforc.org/webreports/reports/082/S82316.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Woodbridge (VA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Four red glowing lights in a formation (lined up).Me and my cousin were on our way to Wall mart when we were close to the traffic light we spotted four glowing lights floating in the sky in a formation (lined up).  The lights were red. I took my cellphone and started recording them, then I kept driving and recording but I thought that I might crash if I kept driving so I stop in a shopping center where another person was recording as well (a 40 yrs lady).  When I got out of the vehicle I started recording but three of them had disapeared but one was still flying over us. then at the end the last one just dissaperead as if it was going to the outer space.  I took a video with a samsung galaxy s2, the quality is not the best but is real. here is the link http://www.youtube.com/watch?v=6zpPPlrdTNA&feature=g-upl</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90683.html](http://www.nuforc.org/webreports/reports/090/S90683.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [485](http://www.nuforc.org/webreports/reports/163/S163936.html)
-- [484](http://www.nuforc.org/webreports/reports/163/S163939.html)
-- [483](http://www.nuforc.org/webreports/reports/163/S163932.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164124.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
