@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:57 on 8 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:29:12 on 8 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Woodbridge (VA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Four red glowing lights in a formation (lined up).Me and my cousin were on our way to Wall mart when we were close to the traffic light we spotted four glowing lights floating in the sky in a formation (lined up).  The lights were red. I took my cellphone and started recording them, then I kept driving and recording but I thought that I might crash if I kept driving so I stop in a shopping center where another person was recording as well (a 40 yrs lady).  When I got out of the vehicle I started recording but three of them had disapeared but one was still flying over us. then at the end the last one just dissaperead as if it was going to the outer space.  I took a video with a samsung galaxy s2, the quality is not the best but is real. here is the link http://www.youtube.com/watch?v=6zpPPlrdTNA&feature=g-upl</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90683.html](http://www.nuforc.org/webreports/reports/090/S90683.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Ocala (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>red/green sphere doing helicopter like moves except performing them extemely quick then flying off into spaceWhile arriving back at our home from a long trip, 5 of us were all getting out of the car when one of us pointed out a red/green sphere doing helicopter like moves except performing them extemely quick.  And then all of a sudden while attempting to take pictures, all of our phones died and  We had no idea what it was but after a few minutes of watching it,  it zip off upwards and disappeared.  It was a clear night in a dark area so a lot was visible</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76333.html](http://www.nuforc.org/webreports/reports/076/S76333.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/164/S164020.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164065.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163935.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163933.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
