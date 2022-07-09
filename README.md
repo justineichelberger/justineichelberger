@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:45 on 9 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:39 on 9 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Park Ridge (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>!5-20 orange light over NW suburbs of Chicago.I was taking a walk down a busy street heading northwest, when I saw aprox 15 orange lights in the sky to the north.  At first they were in a straight line, so I thought they might be planes lining up to land at OHare airport.  I've lived near the airport my entire life, and quickly realized this was not the case.  The color of the light as not right and the quickly left the in line formation and became jumbled in a random pattern.  5 of the lights then seemed to form a circle, before the rest of them disappeared one by one until there was only one left in the sky for about 30 more seconds and it too disappeared.  I have never made a claim like this before and am hoping someone else saw this.  It would be hard to believe that with the brightness, the number of objects, and the residential area, this happened in that no one else did.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120261.html](http://www.nuforc.org/webreports/reports/120/S120261.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Bound Brook (NJ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>ufos on bound brookme, my wife my son and my sister in law,  walking out  the dog, when we see this red lights  on top of the house, acroos the street,moving forward and back slowly and then move faster and vanish.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44958.html](http://www.nuforc.org/webreports/reports/044/S44958.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164978.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164036.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164128.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163931.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
