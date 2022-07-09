@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:01:52 on 9 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:53 on 9 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Oak Forest (IL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>unusual  stationary object above Crestwood IllinoisMy Wife and I witnessed a strange looking object in the sky on Saturday 7-9-05 between about 1-3pm. It appeared to be stationary (not moving)and had a very shiney appearance. The object was above the crestwood area (Northern Sky) looking North out my front door in Oak Forest, It seemed to be over Cicero Ave. or a couple blocks West of Cicero Ave. No Contrails from the object as well. THIS IS FROM A WRITTEN REPORT GIVE TO SAM MARANTO,SSD ILLINOIS MUFON ON 07/13/05 UNDER INVESTIGATION</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45085.html](http://www.nuforc.org/webreports/reports/045/S45085.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Flatwoods (WV) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Observed Start-shaped object over Flatwoods, WVFlatwoods, West Virginia.  At approximately 4:15 am this morning, I happened to be looking out my bedroom window admiring the clarity of the early morning sky.  No clouds in sight, so visibility was crystal clear.  Because the sky was unusually clear, I was looking to see if I could locate the brightest star that was showing.  One star caught my eye as it was a somewhat brighter than the surrounding stars.  It was early morning and as such, my eyes weren’t focusing just then.  I thought at first that this star was simply twinkling hints of blue and red mixed in with white.  After a few minutes of mindlessly watching this star, I start to notice what I thought was movement.  At first, I thought it was just my imagination, but I couldn’t take my eyes off from it.  I reached for my glasses and once I had them on I could see that indeed this star was moving ever so slightly.I understand that the atmosphere can make stars appear to shimmer, so I didn’t become excited.  After approximately 10 minutes of my continual star gazing, I noticed that this same star was beginning to move about more.  The best way I can describe its movement is comparing it to a gnat flying about.  This was not flying like an airplane and I considered that perhaps it was a helicopter, however I quickly ruled this out because there is no way a helicopter could make those kinds of maneuvers without crashing to the ground.I woke my wife up and asked her to confirm what I was seeing, and she observed this object as well. I decided to step outside to see if there was any sound, but I didn’t hear anything unusual.  I took this opportunity to take in more of the sky to see if there were any more of the objects around.  There were no others in my area of sight.  We live in the mountains and there are lots of trees.I was looking NNE and I will approximate the object was at about 30 – 35 degrees above the horizon. I really have no accurate way of estimating the altitude.  I was watching the object through a large gap between trees in my yard and continued to do so until the object was no longer in line of sight.  This entire time was approximately 45 minutes.  I concluded that the object was basically stationary over one area of the sky and due to the rotation of the earth, my view of the object became obstructed by the trees.I am very interested to see if there are any other reports about this incident.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142165.html](http://www.nuforc.org/webreports/reports/142/S142165.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164978.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164036.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164128.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163931.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
