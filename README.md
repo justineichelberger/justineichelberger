@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:48 on 9 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:39 on 9 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Harrison Township (MI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2 objects slowly heading east in sky then changed direction heading westward.When getting into my truck leaving for work I noticed 2 bright large objects bluish/white in color moving across sky eastern in direction, objects stopped and headed westward in direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90836.html](http://www.nuforc.org/webreports/reports/090/S90836.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Prilep (Macedonia) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>A light has been appearing for the past two weeks ago and 3am at the same spot each morning.  First it moves closer and looks like a shining letter 'T', but after 30 minutes or so it's moving away from Earth and forms a circle.  As it moves closer the light increased, and it diminished as it moved away.  It also avoided clouds constantly.In summary it looks like a small street lamp has been hung in the sky.P.s. I have photographic evidence but I can't attach anything on your website.((NUFORC Note:  Source of the report elects to remain anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135037.html](http://www.nuforc.org/webreports/reports/135/S135037.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164978.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164036.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164128.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163931.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
