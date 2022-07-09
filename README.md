@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:36 on 9 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:38 on 9 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Morristown/Ogdensburg (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>Three bright ,blinking lights oval in shape.Three crafts hovered over a wooded area slowly moveing in centripical motion,while fading in and out.Although the crafts shapes were obvious and eaisly desifered the most obvious sight was the bright red,yellow and white light they were giving off. when trying to capture this on a digital camera,that was brand new in all aspects and an empty film disk, the camera simple would not work.As soon as the sighting had completed the camera went back to its original state.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18349.html](http://www.nuforc.org/webreports/reports/018/S18349.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in I-5 (California (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>UFO spotted on HWY 5 in CA near LA  500 Lights On Object0: YesOn this night my wife and I were driving south on Hwy 5 and it was early in the morning. We were approximately 150 North of LA.  Over the farmland we thought we saw a plane doing a crop dusting.  But the closer we came to it we realized this was not a crop duster. We thought it was some kind of pole with lights on it.  But when we finally got close enough to see what it was, we noticed that it was a black triangle UFO.This craft follwed along side of our car for thirty minutes or more.  And it did all kinds of amazing flips and flew back and forth. It would do this light show.  One side of the craft would light up and then it would flip. Then another side of the triangle would light up, and it would do another flip. It did this probably a half a dozen times.  It had One bright light in the middle, which was also surrounded by three smaller lights. And these would light up, almost like it was trying to talk to us. It reminded me of Close Encounters of the Third Kind, when the scientist were using lights to try and communicate.The UFO finally jumped accross the Highway and got behind our car, which was when I started to feel fear from amazement. The strange thing about this story was that when this whole event started there were all kinds of cars on the highway with us. In front of us, behind us. And when the UFO got behind us and finally disappeared all the traffic was gone. And there was no one in front of us or behind us, and then suddenly there was. There were two hours that dissapeared. The clock went from two am to four am just like that.The lights and beam were brighter than anything you've ever seen. Bright as the sun.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97235.html](http://www.nuforc.org/webreports/reports/097/S97235.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164978.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164036.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164128.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163931.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
