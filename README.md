@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:24:07 on 9 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:03:52 on 9 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Yosemite (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>bright oval object in YosemiteI was sitting with some friends eating about 10 minutes away from the entrance to Yosemite (from Hwy 49) when I looked up into the dark sky and saw this oval shaped object moving across the sky from my right to left into the park.  I didn't look like a plane (no flashing warning lights) and there was no sound.  It was eluminated in a white glow (not to bright) but very clear. It keept moving towards the park and all of a sudden it disapeared (it was like turning off a light).Eariler in the day we were up at Glacier Point and before leaving we saw many people (15-20) with telescopes that were planning to stay late into the night.  I'm sure someone else saw this object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38055.html](http://www.nuforc.org/webreports/reports/038/S38055.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Folsom (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>A bright, big circular object over Folsom, CaliforniaI was taking out the trash at my job when i looked up in the sky and saw a very bright circular flying object.  It was very close to the ground to be a plane and was moving at speeds that were unthinkable.  It was brighter than a full moon and about half the size.  It flew over me then stopped in mid-air.  It waited for 15 seconds, then abruptly moved very fast to the left.  It floated for another 10 seconds and then miraculously the light when dark.  It vanished just like that.-Another thing i found odd was i was in a back parking lot with only two cars in it and when the object disappeared both of the car alarms went off without any outside interference.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68633.html](http://www.nuforc.org/webreports/reports/068/S68633.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164978.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164036.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164128.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163931.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
