@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:39 on 9 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:01:52 on 9 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Like an airplaneIt was an orange light with red and green flashing lights on both sides.  It almost had the shape of an airplane, left a cloud-like trail, and made a noise like "ZHHHHH".((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82358.html](http://www.nuforc.org/webreports/reports/082/S82358.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Oak Forest (IL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>unusual  stationary object above Crestwood IllinoisMy Wife and I witnessed a strange looking object in the sky on Saturday 7-9-05 between about 1-3pm. It appeared to be stationary (not moving)and had a very shiney appearance. The object was above the crestwood area (Northern Sky) looking North out my front door in Oak Forest, It seemed to be over Cicero Ave. or a couple blocks West of Cicero Ave. No Contrails from the object as well. THIS IS FROM A WRITTEN REPORT GIVE TO SAM MARANTO,SSD ILLINOIS MUFON ON 07/13/05 UNDER INVESTIGATION</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45085.html](http://www.nuforc.org/webreports/reports/045/S45085.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164978.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164036.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164128.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163931.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
