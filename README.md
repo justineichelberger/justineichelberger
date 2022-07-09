@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:39 on 9 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:16 on 9 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Jefferson (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Strange flashing light, no rhythm, and wildly varying intensity, moving west to east.I went out to have a smoke at around 4:30 AM.  I do this often, and am always looking up for shooting stars, satellites, etc.  I saw a slightly yellowish/white light in the Western sky flash dimly then go out.  I kept watching the same area of the sky, and several seconds later, the light appeared again, but about 5 times as bright, and the light stayed on for at least 3 seconds, and had moved some distance toward the east.  It then flashed dimly several seconds later, then again dimly, then very brightly and for a longer duration.  There was no rhythm to this flashing at all, it was very random, and definitely was not a plane.  I’ve seen many satellites, and this was very different.  For one, it was much slower, and secondly, on a strange west to east path, thirdly, satellites don’t flash. The strangest thing though, I went out the very next night, and saw the exact same object, same trajectory, only slightly further south in the sky.  I don’t know what it was, but it was definitely unidentified by this long time sky watcher.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135177.html](http://www.nuforc.org/webreports/reports/135/S135177.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Altoona (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>There was a unknow never seen befor light in the woods by my house that was to close to be real.My friends and I were walking throught the woods bye my house. My Cousin told us that he thought he saw some lights comming out of the trees behind us. Me and another kid looked back and there was nothing. A few minutes past and the lights that my cousin clameded to see had rison out of the tree's about 25 feet or more in front of us. after we seen it a wind gust blow through wich was strange cause it was one of those dead hot days and, the lights shout striaght up in the air. The lights seemed to disfigure as it rose makeing different shapes. But the shapes were solid curcle sqare etc. They made no noise other then the wind gust blowing the trees and it was extremely bright. We could see it rise up in to the sky for about 10min or so and it just cept getting smaller and smaller. When it first rose out of the trees it looked to be the size of a small one floor house. After a wile if it getting small and going in the air it took a what seemed to be a turn and vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38081.html](http://www.nuforc.org/webreports/reports/038/S38081.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164978.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164036.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164128.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163931.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
