@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:34 on 9 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:48 on 9 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Bel Air (MD) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Me and my friends each 12-14  were talking when we suddenly spotted three stars in the sky flashing and then they moved away.I was talking to my friends and i look over and i see 3 stars standing still flashing and they all made up the shape of a triangle in the sky.  It was about 9:50 p.m. when me and my friends first saw them.  I assumed they were just stars so i went back to talking but when i looked back the top one moved next to the bottom tight one and then moved away.  I kept my eye on them and at about 9:55 the two bottom ones started moving in different directions.  The 3 things were in the south direction, right behind a house.  They looked like they were out in space.  This happened 7/06/02, 7/08/02, 7/09/02 and I believe will happen tonight.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24336.html](http://www.nuforc.org/webreports/reports/024/S24336.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Harrison Township (MI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2 objects slowly heading east in sky then changed direction heading westward.When getting into my truck leaving for work I noticed 2 bright large objects bluish/white in color moving across sky eastern in direction, objects stopped and headed westward in direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90836.html](http://www.nuforc.org/webreports/reports/090/S90836.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164978.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164036.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164128.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163931.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
