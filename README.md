@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:47 on 9 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:07:07 on 9 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Richland (WA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>5 bright lights in the sky over the Columbia RiverLooking west from our backyard last night, there were anywhere between 2 to 5 oval shaped white lights going in various patterns above us in the sky.  One would go right, while 4 may go to the left.  Two would stay lower, while the other two would shoot up and join the singular one.  Sometimes some would blink off & on, while others stayed white.  At times they would go in a complete circle.  There was no noise with their presence.  The only thing we had to try and get a picture was, an IPad.  They did not come out well as there is no zoom lens on it.  The other person observing this went to get his LED flashlight that is very bright, to see if he could replicate the lights in the sky.  They could not.  What was in the sky was far beyond the capability of our flashlight.  But within 30 seconds of shining our light towards the sky, they came together, stopped all motion, and then vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128415.html](http://www.nuforc.org/webreports/reports/128/S128415.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Hatteras (NC) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Observed a large, bright light in night sky descend then zip off.  The flight path resembled that of the Nike swoosh emblem.  Three witnesses.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157506.html](http://www.nuforc.org/webreports/reports/157/S157506.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164978.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164036.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164128.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163931.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
