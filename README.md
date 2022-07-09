@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:42 on 9 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:36 on 9 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Mountain View (OK) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.8333333333333334 - 0.8333333333333334 minutes.</sub><blockquote><sub>Reddish-Orange concentration of light that stood still within the cloud line west of Mountain View, OKI was driving home and saw a reddish-orange cluster of light in the clouds out towards the countryside around 7 miles west of Mountain View, Oklahoma.  This was a medium sized light almost cylindrical in shape where the brightest concentration of red was.  This light did not move anywhere and was clearly staying still in position within the cloud line.  After about 50 seconds the light concentration began to fade out and disappear completely while never moving.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128373.html](http://www.nuforc.org/webreports/reports/128/S128373.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Morristown/Ogdensburg (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>Three bright ,blinking lights oval in shape.Three crafts hovered over a wooded area slowly moveing in centripical motion,while fading in and out.Although the crafts shapes were obvious and eaisly desifered the most obvious sight was the bright red,yellow and white light they were giving off. when trying to capture this on a digital camera,that was brand new in all aspects and an empty film disk, the camera simple would not work.As soon as the sighting had completed the camera went back to its original state.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18349.html](http://www.nuforc.org/webreports/reports/018/S18349.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164978.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164036.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164128.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163931.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
