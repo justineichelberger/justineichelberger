@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:07:07 on 9 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:38 on 9 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Hatteras (NC) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Observed a large, bright light in night sky descend then zip off.  The flight path resembled that of the Nike swoosh emblem.  Three witnesses.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157506.html](http://www.nuforc.org/webreports/reports/157/S157506.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in San Jacinto (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Object moving in an S shape at a high  rate of speedAn object was sighted above the San Jacinto Mountains for only a few seconds. The witness was laying down on the sidewalk faced towards the mountains. The object was moving at a very high rate of speed. It moved in an S shape and then continued in an Easterly direction and then it became impossible to see any further. The observation lasted  about 20 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51277.html](http://www.nuforc.org/webreports/reports/051/S51277.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164978.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164036.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164128.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163931.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
