@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:46 on 8 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:39 on 9 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Arizona (rural) (AZ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Saw a saucer after a plan spining w/ lights and other events followed.While on a camping trip in Arizona, I was awake in the middle of the night and witnessed a flying disc following a plane. I thought the plane might just be pulling something as a joke, but then I asked myself how could it spin and have lights? I was sure of what I saw after a person fishing saw it and yelled "Look a UFO!" About 15 minutes after I saw it, a orange light shot up behind a mountian in the same area (lasted less than 3 seconds). About 2-3 hours later, I witnessed an object falling and buringing up in a blue flame. I could feel the heat from it and was far away. Today (7-10-03) I heard that it was on the news and lots of people saw it. I Tried to find a copy of the Arizona for 7-9-03 in which the article was supposedly in. Track it down, and it may prove this story.((NUFORC Note:  Witness provides a paucity of personal and contact data.  We would like to have him forward a copy of the article he alludes to above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29663.html](http://www.nuforc.org/webreports/reports/029/S29663.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Jefferson (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Strange flashing light, no rhythm, and wildly varying intensity, moving west to east.I went out to have a smoke at around 4:30 AM.  I do this often, and am always looking up for shooting stars, satellites, etc.  I saw a slightly yellowish/white light in the Western sky flash dimly then go out.  I kept watching the same area of the sky, and several seconds later, the light appeared again, but about 5 times as bright, and the light stayed on for at least 3 seconds, and had moved some distance toward the east.  It then flashed dimly several seconds later, then again dimly, then very brightly and for a longer duration.  There was no rhythm to this flashing at all, it was very random, and definitely was not a plane.  I’ve seen many satellites, and this was very different.  For one, it was much slower, and secondly, on a strange west to east path, thirdly, satellites don’t flash. The strangest thing though, I went out the very next night, and saw the exact same object, same trajectory, only slightly further south in the sky.  I don’t know what it was, but it was definitely unidentified by this long time sky watcher.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135177.html](http://www.nuforc.org/webreports/reports/135/S135177.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/164/S164020.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164065.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163935.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163933.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
