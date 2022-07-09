@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:56 on 9 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:44 on 9 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Hollywood (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Just standing out back, looking into the sky and saw what seemed to be a ball of fire moving slowly through the sky.  It was moving at a slower pace than nearby aircraft and looked like the fire was pulsating. It also seemed to slow down then speed up.  After about 3 minutes, the fire extinguished and the ball disappeared.  I don't know what it was but I looked up other reports of this sort of thing and came across this website.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90743.html](http://www.nuforc.org/webreports/reports/090/S90743.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Brookhaven (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Strange noise bothering my dogs came from a hovering triangular lightI just left my one little dog, 'Bear' inside and put my German Sheppard, 'Boss' out between 12:10 - 12:15. That is when Bear came tearing into the house..Boss and I went outside and she quickly retreated to the door as she whimpered to go back inside. I notice a strange noise and looked around to see where it was. Then I saw it, it was one triangular shaped, white light, it seemed large, although it was pretty high up, I could still hear the terrible high-pitched noise it was making. It hovered there for only a few seconds and then it took off, and I mean ''Took Off !!'' It went straight up until it disappeared out of site.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23670.html](http://www.nuforc.org/webreports/reports/023/S23670.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164978.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164036.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164128.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163931.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
