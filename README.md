@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:41 on 10 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:34 on 10 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Brightwood (OR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Shimmering orange fireball seen near Brightwood, Oregon.While checking the mail with my wife we noticed a singular shimmering round orange fire color orb in the sky below the clouds.  A very dark night with overcast clouds.  The area that it was in was all sky with no mountains or trees or buildings in the background.As we were walking away it faded out to a small dot and disappeared.  The object stayed stationary the whole time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128436.html](http://www.nuforc.org/webreports/reports/128/S128436.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Rabwah (Pakistan) () reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>The Big Black BirdIt is quite a long time ago when one night in Rabwah (Pakistan), we were sleeping in our garden that i and my uncle saw a huge black shadow above us which floated in the air like a bird but without wings. I heard a little swish of its wings too but i am sure that it had no wings. The sky was clear that night and stars were shining but when the object flew right over us (around 5 meters high), it blocked the view of the stars for 15 seconds. It was not a bird (owl or bat etc) because we don't have animals of such a huge diameter. It was really a UFO!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32207.html](http://www.nuforc.org/webreports/reports/032/S32207.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165073.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164041.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164406.html)
-- [490](http://www.nuforc.org/webreports/reports/164/S164050.html)
-- [489](http://www.nuforc.org/webreports/reports/164/S164027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
