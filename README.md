@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:28:37 on 10 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:07:34 on 10 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Mastic Beach (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Approximately 9 pm I spotted a reddish orange ball shaped object.  At first i thought is was a firework, but the object began to rise slowly from the ground.Approximately 9pm, I spotted a reddish orange ball shaped object.  At first, I thought is was a firework, but the object began to rise slowly from the ground in a diagonal direction.  It rose about 300 feet or so and appeared to stop, then it slowly faded away to a speck.  This was on the south side of Smith Point Park Beach.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120302.html](http://www.nuforc.org/webreports/reports/120/S120302.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bevington (IA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>triangular object with yellow lights hovering in air, along the roadI was traveling south bound on Interstate 35 near Des Moines, IA, and saw a very noticeable light shining on a cellular tower along the interstate.  As I became parallel with it I realized it was not moving, it was simply hovering in the air, the object was almost as high as the tower and roughly 100 feet to the south of the tower,  I could see a triangular shape with approximately 3 yellow lights and a head/spotlight.I exited off the interstate ¼ mile later to turn around and get a better look.  Soon as I got off the exit I looked back and it was gone,  I spent the following half hour driving the roads around the area to see if I could see it anywhere, but saw nothing.  The time between me exiting off the interstate and turning around to see the object was about 30 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90771.html](http://www.nuforc.org/webreports/reports/090/S90771.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165073.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164041.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164406.html)
-- [490](http://www.nuforc.org/webreports/reports/164/S164050.html)
-- [489](http://www.nuforc.org/webreports/reports/164/S164027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
