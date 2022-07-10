@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:34 on 10 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:43 on 10 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Rabwah (Pakistan) () reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>The Big Black BirdIt is quite a long time ago when one night in Rabwah (Pakistan), we were sleeping in our garden that i and my uncle saw a huge black shadow above us which floated in the air like a bird but without wings. I heard a little swish of its wings too but i am sure that it had no wings. The sky was clear that night and stars were shining but when the object flew right over us (around 5 meters high), it blocked the view of the stars for 15 seconds. It was not a bird (owl or bat etc) because we don't have animals of such a huge diameter. It was really a UFO!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32207.html](http://www.nuforc.org/webreports/reports/032/S32207.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Millville (PA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>A formation of red lights seen over Millville PA.I was standing at the only stop light in Millville PA, when i noticed three red lights that were lined up vertically high in the sky.  The red lights closely resembled cell phone tower lights but were far to high and far to be cell phone tower lights.  After about ten minutes the middle light started flickering faster and faster until it fell a short distance then disappeared. I continued watching and after about 5 minutes after the middle light vanished the upper most light began flashing and fell.  The upper most light continued to fall until it reached the bottom light once it arrived directly across form the bottom light the both fell rapidly until they went behind the tree line.Starting at midnight millville pa. put on a fireworks show which was located in the opposite direction of the lights seen.Approximately one third of the way through the fireworks show (20 minutes) my girlfriend and I started walking to the car, back in the direction of the stop light where they were originally seen.  I looked to my right and i seen two red lights in the sky much bigger and closer then the first time.  The red lights were moving away from the fireworks going towards their original spot.  The lights were moving horizontally and in a strange fashion.  The one in front would move a bit then stop as the one behind would move the same amount before stopping and the front one move again.The movement was much like that of an inch worm.  Once the lights arrived back at the place where i first seen them they stopped and just hovered untill they gradually faded away.I believe that they were nor still but moving in the direction away from earth causing the illusion of stillness and them fading out of sight.There was a family of 3 and two crossing guards which i know saw the lights along with me and my girlfriend.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76426.html](http://www.nuforc.org/webreports/reports/076/S76426.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165073.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164041.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164406.html)
-- [490](http://www.nuforc.org/webreports/reports/164/S164050.html)
-- [489](http://www.nuforc.org/webreports/reports/164/S164027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
