@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:46 on 10 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:55 on 10 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Hedgesville (WV) reported seeing craft that fit the description of some 'Light' over a period of approximately 240.0 - 240.0 minutes.</sub><blockquote><sub>Bright star-like craft flying over the valley just about every night and posted web info on it just seems to disappear.About every night for the past month I have seen a bright statlike aircraft flying through the valley.  I ussually notice it in the sky right before it gets dark and it seems to be stationary.  After dark it drops altitude and stays low to the ground.  It shines a very bright lite and makes very weird patterns through the night skies.  I have noticed that when vehicles are passing through the valley it will get real dim and almost dissapear so it is not spotted.  After the vehicles pass it gets bright again. It also dims when it is changing its location.  My wife and kids have also seen this.  Nobody seems to know what it is and everything I've googled on it in the last week has magically disappeared on the web.  I believe it's top secret and it's also a way for the government to invade peoples privacy.  Like a said, everything I've read about it just seems to disappear off the web the next day.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76541.html](http://www.nuforc.org/webreports/reports/076/S76541.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Mt. Lassen (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Sinlge white light  with varying course and speed heading west to east over Mt. LassenWe were camping at North Summit Lake and were looking up the stars. We noticed what appeared to be an Irridium flare, we've seen several in the past, but this one never changed in intensity. Its course and speed varied during the approximate one minute viewing time, it eventually went behind the trees. General direction of travel was West to East. This was a single white light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38051.html](http://www.nuforc.org/webreports/reports/038/S38051.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165073.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164041.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164406.html)
-- [490](http://www.nuforc.org/webreports/reports/164/S164050.html)
-- [489](http://www.nuforc.org/webreports/reports/164/S164027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
