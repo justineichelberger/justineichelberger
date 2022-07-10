@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:36 on 10 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:41 on 10 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Redington Beach (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Small white circle flying faster than an airplane, and hovering in one spot for 9 minutes.A white circle seen from my hotel on the beach.  Hovered in same place for about 9 minutes.  Then it flew faster than an airplane westward until lost from sight.  No other blinking lights or anything.  At first, it looked like a planet, but then took off.  Hotel guests on other balcony witnessed it as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58864.html](http://www.nuforc.org/webreports/reports/058/S58864.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Brightwood (OR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Shimmering orange fireball seen near Brightwood, Oregon.While checking the mail with my wife we noticed a singular shimmering round orange fire color orb in the sky below the clouds.  A very dark night with overcast clouds.  The area that it was in was all sky with no mountains or trees or buildings in the background.As we were walking away it faded out to a small dot and disappeared.  The object stayed stationary the whole time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128436.html](http://www.nuforc.org/webreports/reports/128/S128436.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165073.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164041.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164406.html)
-- [490](http://www.nuforc.org/webreports/reports/164/S164050.html)
-- [489](http://www.nuforc.org/webreports/reports/164/S164027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
