@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:43 on 10 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:39 on 10 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1977, an anonymous witness in Calumet City (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Perfectly round with blue and orange perimeter lights. Windows all around the perimeter.In the summer of Approx. 1977 my wife and I were in the Venture parking lot on 159th and Torrence when I notice lights on the hood of my car. I realized the lights were a reflection so I looked up and saw it. No more than 200 ft. directly above us was a UFO about 50 yards in diameter, orange and blue rotating lights around the perimeter. Absolutely no noise at all. It was not moving. Inside the perimeter looked like the bottom of a truck or car with lots of pipes. Windows all around the edge with the lights rotating. after a few seconds it started floating west of Torrence ave. When I went around the Ventures buildind it was gone. I would gladly be hypnotized for proof. Has anyone ever reported this besides me?((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54108.html](http://www.nuforc.org/webreports/reports/054/S54108.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Oak Forest (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 300.0 - 300.0 minutes.</sub><blockquote><sub>red ligths in the sky 3 of themmyself my son his friend his girlfriend at the time and her dauther were siting on our balcony when three red lights appeared in the southwest sky approx 10:00 they were in a triangle shape first then went to a horizontal line then the center one moved to the right so to form two on one side and one on the other side then to a virtical line.it was close to the 4th of july so at first i thought it was skydivers but after about 10 min they started to rise and one by one faded out.approx 1hr later they reapeared in a horizontal line and faded out after about 10 min. i called 911 and was told they were checking it out. i called the police station the next day to if they found out anything and was told they knew nothing about it.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46808.html](http://www.nuforc.org/webreports/reports/046/S46808.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165073.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164041.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164406.html)
-- [490](http://www.nuforc.org/webreports/reports/164/S164050.html)
-- [489](http://www.nuforc.org/webreports/reports/164/S164027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
