@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:45 on 10 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:36 on 10 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Silverado (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Unidentifiable lights that have no visible body. Daytime.On Saturday afternoon 7/9/04 at approx. 4:45pm, I was standing in my front yard watering my grass and I looked up into the cloudless sky as I often do. I clearly saw what looked like a star towards the south. I noticed the light was very bright and was moving very slowly towards the south. At first I was a bit excited, but I thought quickly that someone else should see this because I could not belive it. I knew I didnt have any film for my camera but I did have a monoscope with 25x sight. I raced into my house, got the monoscope and told my daughter and my friend inside to come out. We all saw what looked like the type of light one would see on the front of a plane coming in for a landing however when I looked through the monoscope, I could see no visible body nor could I see any type of wing, balloon or rotor. What I did see was 2 lights, 1 red on top and 1 light on the bottom whith nothing between them. There seemed to be a faint pink glow around it only visible through the monoscope. This was very exciting to me. We watched for another 7-8 minutes while this light moved very slowly away from us towards the south. I noticed while we watched 3 airplanes come into view with one in close proximaty the this light. The light was noticeably higher that the plane which seemed to be at about 8000 - 10000 ft and asscending eastward. We have John Wayne Airport at about 15 miles to the west with aircraft flying over all the time. This took place in the afternoon in a beautiful cloudless sky. Visibility was high. The light did not appear to be a reflection of the afternoon sun. It ws much brighter. I took about 10- 12 minutes to move approximatly 25 degrees in the sky until visiblity was lost over the canyon wall where I live. One interesting note is there is nuclear power plant approx. 25 miles to the south of where I live. I have never seen anything like this before and I thought very much before writing this report. I am eager to see if anyone else saw what we saw. I am truly regretful I didnt! have any film. I wont be with out again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38059.html](http://www.nuforc.org/webreports/reports/038/S38059.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Redington Beach (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Small white circle flying faster than an airplane, and hovering in one spot for 9 minutes.A white circle seen from my hotel on the beach.  Hovered in same place for about 9 minutes.  Then it flew faster than an airplane westward until lost from sight.  No other blinking lights or anything.  At first, it looked like a planet, but then took off.  Hotel guests on other balcony witnessed it as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58864.html](http://www.nuforc.org/webreports/reports/058/S58864.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165073.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164041.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164406.html)
-- [490](http://www.nuforc.org/webreports/reports/164/S164050.html)
-- [489](http://www.nuforc.org/webreports/reports/164/S164027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
