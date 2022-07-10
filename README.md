@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:42 on 10 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:30 on 10 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Clark (NJ) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Cigar shaped brightly lit craft glided well below a departing airplane.At 10:17 pm (est.), a cigar-ish shaped, oddly lit UFO passed south to north.  The UFO had red, white and blue lights.  They were in no particular pattern or familiar arrangement.  Some of the lights were elongated, some were simply points of light.  The craft did not bob or weave or change course at all.  It glided perfectly in a straight line until out of view.An airplane taking off from nearby Newark International Airport was heading sort of east to west, and passed over the UFO.  The plane, even though still low from departing off from Newark, flew much higher than this UFO.  The only sound I heard was that of the plane accelerating.I'm hoping the plane flying above the UFO reported it, or maybe ground control asked the pilots if they saw anything?  The two witnesses are male adults, mid-30's in age.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76438.html](http://www.nuforc.org/webreports/reports/076/S76438.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1957, an anonymous witness in Baltimore (MD) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>ON THE ABOVE DATE,MYSELF AND THREE OTHER BOYS HAD ENTERED THE BACK GATE OF THE CARLINS DRIVE INN THEATER TO SEE A MOVIE.  WE HAD BEEN THERE APPROXIMATELY AN HOUR BEFORE I NOTICED THE SOUND OF LOUD ROARING.  I LOOKER ALL AROUND AND DID NOT SEE ANYTHING UNTIL I LOOKER UP.  I OBSERVED HUNDREDS OF WHAT APPEARED TO BE AIR CRAFT LIGHTS.  THE CRAFT APPEARED TO BE FLYING IN A TRIANGLE FORMATION.  THER WERE APPROMATELY 100 CRAFT IN EACH TRIANGLE. EACH TRIANGLE WAS ATTACHED TO THE OTHER, APPROXIMATELY 3 IN ALL.  I GOT THE ATTENTION OF THE OTHER BOYS THAT WERE WITH ME, WHO WERE BUSY TALKING ABOUT OTHER THINGS.  THE OTHER BOYS SAW WHAT I SAW WHICH VALIDATED TO ME THAT I WAS NOT SEEING THINGS.  WE SPECULATED THAT THEY MUST BE MILITARY.  BUT I WAS NEVER ABLE TO FIGURE OUT WHY THAT MANY US.PLANES WERE FLYING OVER U.S. AIR SPACE AT THAT HOUR.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05443.html](http://www.nuforc.org/webreports/reports/005/S05443.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165073.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164041.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164406.html)
-- [490](http://www.nuforc.org/webreports/reports/164/S164050.html)
-- [489](http://www.nuforc.org/webreports/reports/164/S164027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
