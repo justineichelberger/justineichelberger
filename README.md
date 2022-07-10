@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:31 on 10 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:55 on 10 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Canadian (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>there were three lites traveling across the sky in formation exactly the same distance from one another and it was huge and there was no sound, the lights were white and it was very low to the ground (under 10,000 ft). it was traveling very slowly.((NUFORC Note:  Report is consistent with the three satellites that are reported to NUFORC fairly frequently.  We believe they are the satellites put into space by the U. S. Navy, under the N.O.S.S. system.  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24150.html](http://www.nuforc.org/webreports/reports/024/S24150.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Willow Grove (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>3 bright orange lights that blinked out of existenceI had walked my sister to her friends house and was waiting for her and her friend to come back out. While waiting I started to take in my surroundings. It was a clear summer day, wasn't windy, sky was extremely blue, but there were 3 lights in the sky. They were very bright because I was able to clearly see them in broad daylight. I didn't think anything of it at first until the one to my right started to flash but not move then disappeared. I tried to take my phone out to take pictures but the other 2 followed it suite and blinked out of the sky. I was facing South when this occurred.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165842.html](http://www.nuforc.org/webreports/reports/165/S165842.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165073.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164041.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164406.html)
-- [490](http://www.nuforc.org/webreports/reports/164/S164050.html)
-- [489](http://www.nuforc.org/webreports/reports/164/S164027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
