@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:46 on 10 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:49 on 10 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Marietta (GA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>The object looked like a small Sun, but not as bright.  It did not have a trail but did have a wide tail the same width as the front.  It looked like it might have moved so fast that it gave the appearance of length to itself.  It was in the eastern sky, moved up and slightly swerved to the left.  I saw it for a few seconds before it vanished.  I could see that it was far from me but it had to have been huge and close to Earth.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120441.html](http://www.nuforc.org/webreports/reports/120/S120441.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1984, an anonymous witness in Lake Skinner (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>a bright blue glowing orb that shot out of space made a 90 degree turn shot accross a mountain range then another 90It was summer in the mid 80s myself and 3 freinds were waiting at the gate to lake skinner to go fishing. It was 3-4 am on a crystal clear california summer night. There were many bright stars in the sky. My friend and I were facing the mountains behind lake Skinner and were looking at the stars in the sky. We both saw a bright blue glowing orb come out of space moving very very rapidly i thought it was a shooting star at first.  It came out of space from the size of a pinprick to a larger size made a 90 degree turn over the mountains shot accross 10-20 miles of mountains in a second then made another 90 dergee turn and shot back out into space and dissapeared. There is no airplane that i know of that can move that fast, shooting stars and comets don't make right angle turns. I never believed on UFOs or any of that stuff until i saw what i saw. My friend was disturbed about the sighting and after a short disscussion confirming that we both saw the same thing he refused to ever talk about it again. The other person that was there never saw it since it all happened very very quickly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42308.html](http://www.nuforc.org/webreports/reports/042/S42308.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165073.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164041.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164406.html)
-- [490](http://www.nuforc.org/webreports/reports/164/S164050.html)
-- [489](http://www.nuforc.org/webreports/reports/164/S164027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
