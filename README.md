@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:42 on 10 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:43 on 10 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Coventry (RI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Orange balls, flying very fast, seen over CoventryI saw 2 orange balls of light traveling very fast, almost parallel, on top of each other.  One disappeared behind a tree and one disappeared in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90764.html](http://www.nuforc.org/webreports/reports/090/S90764.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1977, an anonymous witness in Calumet City (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Perfectly round with blue and orange perimeter lights. Windows all around the perimeter.In the summer of Approx. 1977 my wife and I were in the Venture parking lot on 159th and Torrence when I notice lights on the hood of my car. I realized the lights were a reflection so I looked up and saw it. No more than 200 ft. directly above us was a UFO about 50 yards in diameter, orange and blue rotating lights around the perimeter. Absolutely no noise at all. It was not moving. Inside the perimeter looked like the bottom of a truck or car with lots of pipes. Windows all around the edge with the lights rotating. after a few seconds it started floating west of Torrence ave. When I went around the Ventures buildind it was gone. I would gladly be hypnotized for proof. Has anyone ever reported this besides me?((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54108.html](http://www.nuforc.org/webreports/reports/054/S54108.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165073.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164041.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164406.html)
-- [490](http://www.nuforc.org/webreports/reports/164/S164050.html)
-- [489](http://www.nuforc.org/webreports/reports/164/S164027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
