@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:39 on 10 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:02:12 on 10 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Oak Forest (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 300.0 - 300.0 minutes.</sub><blockquote><sub>red ligths in the sky 3 of themmyself my son his friend his girlfriend at the time and her dauther were siting on our balcony when three red lights appeared in the southwest sky approx 10:00 they were in a triangle shape first then went to a horizontal line then the center one moved to the right so to form two on one side and one on the other side then to a virtical line.it was close to the 4th of july so at first i thought it was skydivers but after about 10 min they started to rise and one by one faded out.approx 1hr later they reapeared in a horizontal line and faded out after about 10 min. i called 911 and was told they were checking it out. i called the police station the next day to if they found out anything and was told they knew nothing about it.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46808.html](http://www.nuforc.org/webreports/reports/046/S46808.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in New Bern (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Bright Light in the SkyMy son asked me pick him up from second shift.  I left the house and he called my cell phone to say he wasn't ready.  My husband was grouchy and sitting next to me in the car.  As I was talking to my son I felt a pang in my eyes from an extremely bright light.  I looked ahead on the road to see if I needed to dim my headlights for another car but the angle was wrong so I looked up.  There was a bright white circle jetting across the sky. It wasn't too close but I could tell it was large.  The light did not blink and it moved amazingly fast at a curved angle.  I could not distinguish any rotation.  There was no trail behind it and I didn't hear any noise.  It wasn't any kind of spotlight.  I was talking to my son and I pointed to my husband urgently.  I asked did you see that light but he hadn't seen me pointing because it was dark.There was complete cloud cover over the road I was traveling.  You couldn't see any stars.  It was a good bit above the tree line but it had to be flying low enough to be under the cloud cover.  I looked in the local paper to see if anyone else had noticed it or written about it but I haven't heard anything.  It made me so excited but also made my stomach ache.  I know I saw something AMAZING.  I was really disappointed my husband didn't see it because I would have liked to share the excitement with him...so I'm sharing it with you guys instead.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120421.html](http://www.nuforc.org/webreports/reports/120/S120421.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165073.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164041.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164406.html)
-- [490](http://www.nuforc.org/webreports/reports/164/S164050.html)
-- [489](http://www.nuforc.org/webreports/reports/164/S164027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
