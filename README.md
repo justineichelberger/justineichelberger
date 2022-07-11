@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:02:38 on 11 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:41 on 11 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in St. Paris (OH) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>My 15 yr old daughter and my 11 year old niece were walking in the Evergreen cemetery around 9:15 pm with a friend of theirs.  They seen a red light approaching from above some pine trees.  My daughter turned around and it turned bright red and hovered over a dirt pile right i front of her.  She started screaming at my neice to turn around and when she did the object spun in circles and got brighter.  They told their friend to look and when he raised his phone to take a picture it was gone.  They all started running towards the drive in the cemetery to go home when they seen my neices dad coming to pick them up.  They were crying and really scared and he asked what was wrong.  When the kids told him, he said he seen the red light in the sky too and wandered what the hell it was...my daughter told me that when she seen it that her arm went numb and she started to run...my niece said her leg went numb and she started to run also.  My neices mom lives in a rural area! about 10 miles from st paris.  And when my neice told her about what she seen...her mom said she seen a red object circling around her home too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157469.html](http://www.nuforc.org/webreports/reports/157/S157469.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1994, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I just turned around for 1/2 a second, and it was GONE!!I was walking home from work, it was a very clear day out. And just over a building,  about 4 stories high, I saw this object. It was  mettalic colored and it had flashing lights on the bottom of it. I can't quite recall the color of the lights, but I remember lights flashing. It was just hovering there for what seemed about 5-7 seconds. I froze, almost like I couldn't move even if I wanted to! Walking behind me, was a man in a 3 piece suit with a briefcase. So I turned and asked him "did you just see that?"  But he acted as if I wasn't even there. Like he didn't see me! By the time I turned around to see the UFO, it was gone. I mean GONE! As I mentioned earlier, there were no clouds in the sky at all that day. So where could it have gone in the half a second that I turned to talk to that man? And how could something that was just hovering, build up that kind of speed so quickly? I kept walking home, not taking my eyes off the sky. I remember being very frightened.  Like when you think you've seen a ghost. When I walked in the door, my cousin said I was very pale. The 1st thing she and her husband said was "you look like you've seen a ghost!" I don't drink or do drugs! So I know that I saw something that day! I just can't understand why that man didn't it, or ME at that!!!!((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45641.html](http://www.nuforc.org/webreports/reports/045/S45641.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164022.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164031.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164023.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157583.html)
-- [412](http://www.nuforc.org/webreports/reports/157/S157541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
