@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:49 on 11 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:36 on 11 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Clearlake (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>I was outside bbq.  When I observed in the direction of lower lake a ball in the sky very bright.  That did not move.  It was in the sky for 30 minutes when my family came home and got binoculars out.  My son and I saw a disc.  I have pic and short vid.  It was in the sky for about an hour.  When I came outside after dinner it was gone.  It's not a planet or a satellite.  I really have no idea</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147777.html](http://www.nuforc.org/webreports/reports/147/S147777.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Aidrie (Canada) (AB) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Flashed it remained A bright light hovered 20+ minutes very bright red and green lightsA bright light hovered in the west sky, it had red and green lights that blinked It slowly moved away westward the lights were many times brighter than any plane  On occasion there could be seen a very small light approach it’s it faded into the far distance it appeared to zig zag fast but slightly</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157487.html](http://www.nuforc.org/webreports/reports/157/S157487.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164022.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164031.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164023.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157583.html)
-- [412](http://www.nuforc.org/webreports/reports/157/S157541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
