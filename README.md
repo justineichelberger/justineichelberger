@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:32 on 11 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:13:51 on 11 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Sayreville (NJ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I saw a glowing orange oval shaped craft hovering in the southern sky.I hope this information can be of use to you. Sorry for the delay in filing a report. I live in central NJ in Middlesex County. As I am an avid skywatcher, and we are on the flight path of Newark Airport, I see many airplanes at various levels of the sky. (Not to mention the chemtrails.) On Sunday July 11, 1999, in Sayreville, NJ, travelling south on a local road in my car I glanced at the wide open sky and saw slightly to my right, a light, obviously a plane. Scanning left, almost in front of me, I saw another light, again, obviously a plane. (Both were high in the sky.) I continued to look and slightly to my left (almost due south) when I saw the 'object'. It was like, plane, plane, "Oh, my god, what is that??" The 'object' was a large roundish oval. It was about the length of a bic lighter held at arm's length, maybe a little longer. It glowed with an orange glow. The glow sort of looked like the glow of a light bulb when there isn't enough power going to it. On the top of the oval was some sort of cabin-like structure that sat close to the top of the object and closely matched the curve of the oval. It could have been easily missed as it was the same glowing orange color. There were possibly windows or something on this 'cabin' but it was hard to see as it was so close to the main body of the object. There were three lights on the bottom, one at the 'front' one in the 'middle', and one at the 'end' that lit quickly in sequence, the first one on/off, the second one on/off, then the third one on/off. I remember red and green but I don't recall the middle light's color. I have seen many blimps fly over and it was not a blimp or any other type of flying vehicle I had ever seen before. Also there were no 'tail fins' and it had a smooth bottom with no cabin. I didn't notice any noise, but if it made any I was probably to far away to hear it anyway. It didn't have a distinct outline like a blimp, but you could see the roundish-oval shape clearly. It hovered and didn't seem to be moving. Unfortunately, I was moving. I glanced in my mirror and saw I couldn't pull over and the driver behind me didn't seem to be looking at it. I was alone at the time. It was about 6:30 or 7 pm and the sun was just starting to set. It would have been easy to miss the object, despite it's size I guess because of the dull glow and the color of the sky. I lost sight of it in a cluster of trees and couldn't see it again because of them. This is my first sighting despite many hours of skywatching and I hope you can use this.If you need to contact me e-mail me a number and I can call back during the day as I work nights. If possible I will try to send a drawing via snail mail.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08466.html](http://www.nuforc.org/webreports/reports/008/S08466.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Lelystad () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>I never believed in it. But I just saw 2 lights at incredible speed passing my backyard. I live close to the Oostvaardersplassen in The Netherlands and the lights went up to Northeast.It was in the clouds so I coldn't have a clear sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38025.html](http://www.nuforc.org/webreports/reports/038/S38025.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164022.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164031.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164023.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157583.html)
-- [412](http://www.nuforc.org/webreports/reports/157/S157541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
