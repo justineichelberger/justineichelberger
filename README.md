@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:43 on 11 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:36 on 11 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 red lights flying in the sky from different directions, disappearing in the same spot.Standing on my porch in the back yard and saw a red light flying in the sky that dissapeared to the west..  Then saw another, and another, all flying from different directions, at different times but disappeared in the same spot..  I'm in a spot where its dark and all the stars can be seen very clearly..  It was not a plane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120319.html](http://www.nuforc.org/webreports/reports/120/S120319.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in West Warwick (RI) reported seeing craft that fit the description of some 'Light' over a period of approximately 2880.0 - 2880.0 minutes.</sub><blockquote><sub>several flying objects surrounding one bright light that moves in different directions slightlyDear NUFORC, I was awoken last night at about three a.m by my mother and roommate. They asked me to come look outside; that they have seen a UFO. I rolled off the couch and when I looked, there was a bright light, that looked like a star... The problem?  It was moving in circular, diagonal, vertical and horizontal motions.  It is sort of difficult to see, but if stared at long enough it is possible to see the movement.  Also, it seemed to have smaller red dots sort of behind it, but still part of the same craft.  Not only did we see this moving object but we saw a much smaller, and less dim, object come from the larger UFO and fly through the sky and disappear! I cannot even explain the amazement we all shared.Now, tonight, I decided to follow up on what I had seen last night and it is there again! It isn't even that far over in the sky as it previously was before..  Maybe a foot or so from my point of view. Tonight already I have seen about five flying objects around this light. They fly around it and then seem to disappear out of nowhere.  One my boyfriend pointed out and because before disappearing a blue beam of light shot from it.  Please look into this.. I feel as if my family cannot be the only ones who are witnessing this.P.S my boyfriend, a skeptic beyond all belief, even agreed that there were flying objects and that the white light in the sky was moving! I still remain amazed as I write this letter to you.Sincerely, An Interested Viewer</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76456.html](http://www.nuforc.org/webreports/reports/076/S76456.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164022.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164031.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164023.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157583.html)
-- [412](http://www.nuforc.org/webreports/reports/157/S157541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
