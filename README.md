@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:29:32 on 11 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:43:00 on 11 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Static object observed in clear skies in high commercial air traffic area.On 07-11-08/ 1730 hours, two adults witnessed an unidentified object near the 7300 block West Seattle.  The object was described as being directly overhead.  Weather conditions were very clear, estimated tempature was low 70's.  Witnesses reported a light wind from the southwest.  Due to the clarity of the skies, witnesses had difficulty in determining scale and altitude. It was estimated to be about the size of a quarter coin when compared against a human hand held up in comparison. The witnesses were quite certain that the object remained motionless for several minutes, as if hovering. During the event, they saw what appeared to be a commercial airliner flying near the object at a much higher altitiude. The object was a third smaller than the aircraft as it transited the area. The object displayed no movement, appeared to be light colored, with a haze around it. The object reportedly changed from round to a tubular or cigar shape.  No noise could be associated with the object.  Witnesses appeared to be credible, lucid and sober. This area is very populated with commercial aircraft.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64474.html](http://www.nuforc.org/webreports/reports/064/S64474.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Westford (MA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Bright object in sky suddenly switched direction, faded and dissapeared.ISS went over head about 21:20 EST.  Approx two minutes later another large bright light decended from a Westerly direction.  It was coming toward the earth and it grew larger and brighter very quickly.  So much so that I was nervous that it might strike the earth.  It had no shape we could see just a very bright light that was similar in size and brightness to the ISS that had just gone past minutes earlier (from a WNW direction.)   This object was as bright if not brighter than the ISS.  Suddenly it switched direction back out into space and faded very very quickly and finally dissapeared out of site.I know it was not a metorite or other debris burning up because of this change in direction.  I know it was not the ISS as that had just passed two minutes prior to seeing this.  I know it was not a satellite passing by as we have seen those many many times before.  This was not any of these things and both my husband and I  witnessed it.  Thanks for looking into it as we are curious as to what it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76463.html](http://www.nuforc.org/webreports/reports/076/S76463.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164022.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164031.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164023.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157583.html)
-- [412](http://www.nuforc.org/webreports/reports/157/S157541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
