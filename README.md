@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:12:50 on 11 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:06:33 on 11 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Boulder (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Triangular "constellation" of star-like objects float silently across the sky at very high altitude.I was sleeping in my car on a hot summer night. I folded down the backseat and pressed the top of my head against the rear window, staring at the stars around Orion and across the Milky Way. Suddenly, there was a bright zip of light across the sky, it was a large meteor, leaving a beautiful contrail. a minute or two passed, still staring straight up. I thought I saw a starr moving, I thought it was just my eyes playing tricks on me. I squinted a couple times and focused more intently, there were three. They wwere the exact same magnitude, size and appeared to be distant stars, a constellation like that of Pisces. But, they glided slowly across the sky from south to north, never breaking formation. I got out of the car and stood in the middle of the dark street gazing to the north as the objects slowly disappeared on the horizon. I was so frightened, I drove straight home and climbed in bed((NUFORC Note:  We suspect the witness observed what are presumed to be the triplet of U.S. Navy "NOSS" satellites, which are often reported to NUFORC.  They fly in formation for several weeks, and them disappear, only to return months later.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29678.html](http://www.nuforc.org/webreports/reports/029/S29678.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Burbank (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Saw 2 UFOs flying opposite directions, glowing.Saw one round object colored red flying with trail behind it.  Flew above moon on clear early evening around sunset.Was glowing red and traveling fast.Then noticed another one headed in opposite direction,this was glowing white/silverish.  Took picture from phone of this one.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147524.html](http://www.nuforc.org/webreports/reports/147/S147524.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164022.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164031.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164023.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157583.html)
-- [412](http://www.nuforc.org/webreports/reports/157/S157541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
