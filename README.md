@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:01:35 on 11 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:10:51 on 11 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Whitby (New Zealand) () reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Zig-zagging lightsTwo lights were seen by myself and my Father,above water (sea inlet) they were approx 150-300 ft in the air and appeared about the size of dinner plates, they moved like no other vessel I have seen (zig-zagging and spiraling etc) The lights hovered now and then darted around randomly but in formation. One light gained terrific speed and disapeard from sight to return about 0ne minute later only to escort its accompanying light back out of sight. This encounter is like no other I have ever experienced, I thought of all the possibilities eg. remote helicopters (too fast) flares (too bright) aeroplane (monuvering too primitave) birds? (not likely) My experience is special to me, I have told very few others about it and swear that I am telling the truth.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13592.html](http://www.nuforc.org/webreports/reports/013/S13592.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Dorval (Canada) (QC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>3 lights, nothing outside the normal UFO claim I guess.I was on my balcony having a cigarette and having a glass of wine, I lived near an international airport and was an aviation enthusiast for some time in my teens, I am familiar with all forms of aircraft, what they look like in holding patterns, landing, take-off, hazard light reflections in a neighbor's windows, etc.I looked towards the south and I saw what I believed to be a meteor, but as I observed it, the velocity was wrong, too steady, heading straight down from a high altitude, paused, and then it changed direction and broke in two before making a 90 degree turn north-east, as it passed parallel to the ground I noticed a third, before it dawned on me to record this they were out of sight.  Nearly 0 acceleration, or extremely rapid if it did in fact accelerate.In appearance, they were a strange hazy glowing soft yellowish maybe orange colour similar to an old incandescent light-bulb in a smokey room, with almost a form of blackness around them, highlighting their presence, they wobbled or tumbled rather than flew or fell, awkwardly. which indicates some variation in velocity or relative velocity rather, or observed velocity.  I'm no physicists but I'm vaguely familiar with the concept, if not then perhaps an optical effect, photons behaving strangely.At this point, I was not yet entirely convinced I was even looking at anything more than an inanimate object, a meteor, my rationalizations kicked in, swamp gas, HAARP, maybe water-fowl that picked up fresh road paint.  Some new high-tech urban drone programme, though, when comparing the variables, these lights remained unidentifiable, living, sentient, intelligent? I could not yet tell, but soon enough over the following days, months, years, I would.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132595.html](http://www.nuforc.org/webreports/reports/132/S132595.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164022.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164031.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164023.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157583.html)
-- [412](http://www.nuforc.org/webreports/reports/157/S157541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
