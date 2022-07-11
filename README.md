@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:07:14 on 11 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:01:35 on 11 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Niagara Falls (Canada) (ON) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>a balck aircraft floated high in the sky was weaving in and out  and was travelling very fasti was sitting in my front yard when i looked up and saw a black coloured object i studied it closer, at first i thought it was a kite or balloon. when i later looked it was on the other side of the sky,  i decided its shape wasn't anything like a balloons it seemed to be much larger, i thought this was to wierd and i grabbed my camera and took pictures.  then suddenly it started moving sharply and it started to seem like it was weaving in and out of pylons. i watched it until it finally was out of sight</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44895.html](http://www.nuforc.org/webreports/reports/044/S44895.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Whitby (New Zealand) () reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Zig-zagging lightsTwo lights were seen by myself and my Father,above water (sea inlet) they were approx 150-300 ft in the air and appeared about the size of dinner plates, they moved like no other vessel I have seen (zig-zagging and spiraling etc) The lights hovered now and then darted around randomly but in formation. One light gained terrific speed and disapeard from sight to return about 0ne minute later only to escort its accompanying light back out of sight. This encounter is like no other I have ever experienced, I thought of all the possibilities eg. remote helicopters (too fast) flares (too bright) aeroplane (monuvering too primitave) birds? (not likely) My experience is special to me, I have told very few others about it and swear that I am telling the truth.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13592.html](http://www.nuforc.org/webreports/reports/013/S13592.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164022.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164031.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164023.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157583.html)
-- [412](http://www.nuforc.org/webreports/reports/157/S157541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
