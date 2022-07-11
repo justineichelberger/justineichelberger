@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:10:41 on 11 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:07:14 on 11 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Fort Morgan (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>The object appeared from the ground and started to rise straight into the air at a slow rate. I thought it was a helicopter at first until the object stopped its ascent around 1,000 to 1,200 feet.  The object remained stationary for about 3 mins.  When I switched my phone from the camera mode to the video mode the object shot off at an alarming rate.  The object was over water the entire time.  I have multiple pictures if anyone is interested.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100050.html](http://www.nuforc.org/webreports/reports/100/S100050.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Niagara Falls (Canada) (ON) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>a balck aircraft floated high in the sky was weaving in and out  and was travelling very fasti was sitting in my front yard when i looked up and saw a black coloured object i studied it closer, at first i thought it was a kite or balloon. when i later looked it was on the other side of the sky,  i decided its shape wasn't anything like a balloons it seemed to be much larger, i thought this was to wierd and i grabbed my camera and took pictures.  then suddenly it started moving sharply and it started to seem like it was weaving in and out of pylons. i watched it until it finally was out of sight</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44895.html](http://www.nuforc.org/webreports/reports/044/S44895.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164022.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164031.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164023.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157583.html)
-- [412](http://www.nuforc.org/webreports/reports/157/S157541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
