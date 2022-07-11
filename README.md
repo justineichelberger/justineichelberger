@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:06:33 on 11 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:38 on 11 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Burbank (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Saw 2 UFOs flying opposite directions, glowing.Saw one round object colored red flying with trail behind it.  Flew above moon on clear early evening around sunset.Was glowing red and traveling fast.Then noticed another one headed in opposite direction,this was glowing white/silverish.  Took picture from phone of this one.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147524.html](http://www.nuforc.org/webreports/reports/147/S147524.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Auckland (New Zealand) () reported seeing craft that fit the description of some 'Egg' over a period of approximately ongoing - ongoing minutes.</sub><blockquote><sub>Constant movement of erratic bahaving Yale Blue coloured semi transparent egg like a nite-lite... I have to admit I have been a stargazer for many years and have hoped to see something, however I never expected a spacecraft to look like this!!!  or have a sense of humor  It just keeps dissapearing and reappearing in my nite sky</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44874.html](http://www.nuforc.org/webreports/reports/044/S44874.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164022.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164031.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164023.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157583.html)
-- [412](http://www.nuforc.org/webreports/reports/157/S157541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
