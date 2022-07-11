@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:01:07 on 10 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:57 on 11 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Downers Grove (IL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>The gaurd of the building I work in was called by the gaurd of teh sister building asking what the "lights " were.  he proceded outside and said he saw an object "8 buses long, almost as high, looked like it was gonna land in the souht parking lot" he said the object was silver/blue with a goldish stripe and concave on the bottom, with emmitting a blue light.  Several tenants in the building saw this since it was outside thier windows, as wellas teh cleaning crew.  They said it made no sould, and that it shot upinthe air faster than anyhtign they have ever seen, and headded west.  No report was made, no calls to the authories, no pictures.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13489.html](http://www.nuforc.org/webreports/reports/013/S13489.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Sunderland (UK/England) () reported seeing craft that fit the description of some 'Egg' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Me and my dad were sitting in the garden because it was a nice day when we heard a whistling sound we then saw three egg shaped crafts in a triangula formation fly across the sky in a westerly direction then we saw military aircraft chaseing it the UFOs glowed green and then dissapered up into the air</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38310.html](http://www.nuforc.org/webreports/reports/038/S38310.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165073.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164041.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164406.html)
-- [490](http://www.nuforc.org/webreports/reports/164/S164050.html)
-- [489](http://www.nuforc.org/webreports/reports/164/S164027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
