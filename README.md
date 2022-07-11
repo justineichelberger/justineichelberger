@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:13:51 on 11 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:02:38 on 11 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Lelystad () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>I never believed in it. But I just saw 2 lights at incredible speed passing my backyard. I live close to the Oostvaardersplassen in The Netherlands and the lights went up to Northeast.It was in the clouds so I coldn't have a clear sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38025.html](http://www.nuforc.org/webreports/reports/038/S38025.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in St. Paris (OH) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>My 15 yr old daughter and my 11 year old niece were walking in the Evergreen cemetery around 9:15 pm with a friend of theirs.  They seen a red light approaching from above some pine trees.  My daughter turned around and it turned bright red and hovered over a dirt pile right i front of her.  She started screaming at my neice to turn around and when she did the object spun in circles and got brighter.  They told their friend to look and when he raised his phone to take a picture it was gone.  They all started running towards the drive in the cemetery to go home when they seen my neices dad coming to pick them up.  They were crying and really scared and he asked what was wrong.  When the kids told him, he said he seen the red light in the sky too and wandered what the hell it was...my daughter told me that when she seen it that her arm went numb and she started to run...my niece said her leg went numb and she started to run also.  My neices mom lives in a rural area! about 10 miles from st paris.  And when my neice told her about what she seen...her mom said she seen a red object circling around her home too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157469.html](http://www.nuforc.org/webreports/reports/157/S157469.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164022.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164031.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164023.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157583.html)
-- [412](http://www.nuforc.org/webreports/reports/157/S157541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
