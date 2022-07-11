@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:57 on 11 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:29:32 on 11 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Sunderland (UK/England) () reported seeing craft that fit the description of some 'Egg' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Me and my dad were sitting in the garden because it was a nice day when we heard a whistling sound we then saw three egg shaped crafts in a triangula formation fly across the sky in a westerly direction then we saw military aircraft chaseing it the UFOs glowed green and then dissapered up into the air</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38310.html](http://www.nuforc.org/webreports/reports/038/S38310.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Static object observed in clear skies in high commercial air traffic area.On 07-11-08/ 1730 hours, two adults witnessed an unidentified object near the 7300 block West Seattle.  The object was described as being directly overhead.  Weather conditions were very clear, estimated tempature was low 70's.  Witnesses reported a light wind from the southwest.  Due to the clarity of the skies, witnesses had difficulty in determining scale and altitude. It was estimated to be about the size of a quarter coin when compared against a human hand held up in comparison. The witnesses were quite certain that the object remained motionless for several minutes, as if hovering. During the event, they saw what appeared to be a commercial airliner flying near the object at a much higher altitiude. The object was a third smaller than the aircraft as it transited the area. The object displayed no movement, appeared to be light colored, with a haze around it. The object reportedly changed from round to a tubular or cigar shape.  No noise could be associated with the object.  Witnesses appeared to be credible, lucid and sober. This area is very populated with commercial aircraft.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64474.html](http://www.nuforc.org/webreports/reports/064/S64474.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164022.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164031.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164023.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157583.html)
-- [412](http://www.nuforc.org/webreports/reports/157/S157541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
