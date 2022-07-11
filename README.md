@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:39 on 11 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:34 on 11 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Philadelphia (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Bright light in sky seen in PhiladelphiaMy wife & I were sitting out back in our yard as we also try to do.  We were sitting in our chairs facing south.  To the south/southwest she noticed a big shing light.  At first we thought it might be a satelite, but after further inspection, there is no way it's a satellite.  It was not a helicopter or plane either. We noticed numerour helicopters going to the area it was in, one at a time.  I do not know if they could see it.  We took pictures & a short video (a little dark though).  It was a pretty good night to see the stars, but this light was not nearly high enough to be a star.  Plus it had a cleary visible haze around it.  I would be suprised if no one reports this.......it was THAT noticable & unusual.  I do not know if it was "alien", but it is definately "unidentifiable" to me, making it a U.F.O. for just that reason.C-((NUFORC Note:  Possible sighting of Venus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76444.html](http://www.nuforc.org/webreports/reports/076/S76444.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Wilson (NC) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Myself and two others witnessed a strange object over North Carolina skies.My girlfriend and I were going home from an event and as we arrived home we noticed a object in the sky. We first thought it may have been a blimp but the more we watched this object move we knew it was not. This object moved slow at times then fast with sudden stops and would hover for a few seconds then move out of sight then back again. The object was for the most part dark but it was a clear night and we could see the object clearly against the night sky. I would say that it was no more than 500 yards away during the time we saw it. It most surely had a metalic look to it but not very shiney. We watched this for a good two minutes or so and as fast as it came it was gone. The object to me looked to be more of a tube shape like a paper towel roll. This left both of us speachless for several minutes. We live in a small city but at that time of night there were few people out. We were in a well lit parking area and our front yard at the time of the sighting. My friend who was visiting from out of state also witnessed this but for only a few seconds as he arrived at our apartment after we did. He was awstruck with the object and had many questions but we were just as puzzled.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46017.html](http://www.nuforc.org/webreports/reports/046/S46017.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164022.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164031.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164023.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157583.html)
-- [412](http://www.nuforc.org/webreports/reports/157/S157541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
