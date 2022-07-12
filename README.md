@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:15:44 on 12 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:33 on 12 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Duluth (MN) reported seeing craft that fit the description of some 'Oval' over a period of approximately Total? Maybe around 10 mi - Total? Maybe around 10 mi minutes.</sub><blockquote><sub>A minor amber color trail, (from where we were) extremely slow movement, and an odd amber coloration like the "Phoenix Lights".Well. After just hearing about the "Phoenix Lights" on March 13th 1997, my father and myself recall sitting outside one clear summer night in 2009 maybe around 9:30 (Your ZULU time or Military time confuses me a little bit, so might as well be sure on this.)  We saw only one oval shaped Amber colored... object, in lack of a better word, about 4-5 miles west of where we were.  It had sat in one spot for a minute or two, then we noticed it was slowly moving around, and from where we were sitting it was almost not even noticeable.  Then, it disappeared for about two minutes, slowly fading into the night sky.  All of a sudden it slowly reappears, and does literally the same exact movement we saw.  It was almost like a deja vu moment.  After a few more minutes it had disappeared again, and that was the last we saw of it. Oddly enough  (This really doesn't matter, but my father and I had found it rather amusing since what we had seen prior to walking into the house.) the! film "Contact" was on our television.  I hope you do not find this report a "fake" or a "joke", due to it being as real as anything we have seen or felt or even heard today. If you want to do an interview my email is here: ((e-address deleted))  If you decide to read this, I do hope to hear back from someone, maybe someone from Minnesota, preferably in town, but oh well if not. Thank you for taking this time to read this. - ((name deleted))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  There is not much that could be gained by conducting an interview, we feel, approximately three years after the incident.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87322.html](http://www.nuforc.org/webreports/reports/087/S87322.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Lombard (IL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Round craft flying low over Unincorporated LombardI was standing in the backyard with the dog when what appeared to be a sphere of flame rose out of the neighbors yard. I lost it behind the trees, then saw a sphere shaped object coming towards me from the same area. It was round and nearly silent, and was maybe 100 ft in the air, so even though it was fairly dark I was able to get a decent look at it.It had blinking lights on it, and would have looked like a high flying plane had I not seen it come from between the tree scape instead of over them, and paid enough attention to it so I could make out the round shape of it.There was just the one craft, but was spotted in the same 5 minute time span as an extremely high flying plane (I thought it was a satellite at first, this thing was flying way over commercial altitudes) and a what looked to be a low flying fighter jet (noticed him because he was perpendicular to the typical flight path of this area and the shape of the plane body)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57620.html](http://www.nuforc.org/webreports/reports/057/S57620.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164045.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164043.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164048.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164058.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
