@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:33 on 12 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:48 on 12 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Lombard (IL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Round craft flying low over Unincorporated LombardI was standing in the backyard with the dog when what appeared to be a sphere of flame rose out of the neighbors yard. I lost it behind the trees, then saw a sphere shaped object coming towards me from the same area. It was round and nearly silent, and was maybe 100 ft in the air, so even though it was fairly dark I was able to get a decent look at it.It had blinking lights on it, and would have looked like a high flying plane had I not seen it come from between the tree scape instead of over them, and paid enough attention to it so I could make out the round shape of it.There was just the one craft, but was spotted in the same 5 minute time span as an extremely high flying plane (I thought it was a satellite at first, this thing was flying way over commercial altitudes) and a what looked to be a low flying fighter jet (noticed him because he was perpendicular to the typical flight path of this area and the shape of the plane body)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57620.html](http://www.nuforc.org/webreports/reports/057/S57620.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Lr. Sackville (Canada) (NS) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>fighter jets with unknown objecti was outside on a chair smoking a cigarette with my girlfriend right next to me. we suddenly heard what sounded like a bi-plane, cessna, or a similar single engine aircraft. there was no build-up of sound it wasjust suddenly right there. it sounded like the plane was flying in a circle right above us for some time. at least 3 to 4 mins we heard it clear as day. then the sound dissapeared. just like that. it didnt really click in to our heads until about 2 mins after the sound dissapeared when we heard a low rumble. it came closer and closer. i knew it was fighter jets. suddenly my attention was all about the sky. i jumped out of my chair, went to the middle of my back yard, looked up and i could see 2 fighter jets (about 20,000 to 40,000 feet up), one on either side of something that i have never seen before in my life. it had a large orange circular light in front, a very long oval shaped orange light in the middle, and another circular light in the back. this object had no blinking lights at all like you would see on an airplane. i watched it until it went beyond sight behind the trees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51354.html](http://www.nuforc.org/webreports/reports/051/S51354.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164045.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164043.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164048.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164058.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
