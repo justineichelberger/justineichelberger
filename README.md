@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:52 on 12 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:37 on 12 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Nacogdoches (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>A bottle rocket type look that shot across the sky and then split and into 2.  Each were neon green in colorIt looked like a bottle rocket at first.  It maintained the same fast speed at the same height above the earth's surface. It was about 220 feet above the tree tops.  It then split in half and made 2 of a green ball of some sort.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111484.html](http://www.nuforc.org/webreports/reports/111/S111484.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Mishawaka (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>two craft cicled one another for a short while, then stopped, and rapidly ascended upward out of view.Myself and three friends were outside playing basketball late one night.  I stopped playing for a while and rested on the lawn.  As I was laying on my back, I noticed a bright circular/oval shape hovering back and forth over the area.  It was about the size of a nickle hald at arms length; about as high as a helicopter might fly.  As I called my friends over to watch, another craft appeared.  They (the craft) flew overhead and circled one another for about two or three minutes, then stopped momentarily, and shot skyward at a very high speed.  The objects were, as I said, circular and had a bright, but not illuminating, light cast from them.They did not move too quickly before dissapearing. Maybe at a rate of 40 to 45 mph (est.).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04423.html](http://www.nuforc.org/webreports/reports/004/S04423.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164045.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164043.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164048.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164058.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
