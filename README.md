@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:36 on 12 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:05:59 on 12 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>the object was very illuminated in the night sky much brighter then the brightest star in the dipper it was passing by.On July 12, 2008 at 22:20 my wife our son, nephew and myself witnessed an oval shaped object in the night sky. When we first sighted the object it was heading in a Northwesterly direction crossing in front of the Big Dipper.While we watched the object, it intensified in brightness continuing in its path for about the distance from the bottom of the dipper ladle to the middle top of the ladle. About an inch in the night sky past the ladle of the dipper the object made an abrupt 90 degree turn and shot out of the Earths orbit.Approximately 10 second later an airplane “this one we new by the flashing beacon lights” flew across the night sky at about 35,000 feet but it continued on its path like it was going to Seattle Washington.I can’t tell you if the plane was following it but I don’t know how he could have not seen it because it was so bright.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64493.html](http://www.nuforc.org/webreports/reports/064/S64493.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Gilbert (AZ) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>It look like a red diamond in the sky......((NUFORC Note:  Anonymous report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13405.html](http://www.nuforc.org/webreports/reports/013/S13405.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164045.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164043.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164048.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164058.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
