@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:38 on 12 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:33 on 12 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in North Tonawanda (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Red pulsing lights in triangular shape moving in northeastern skySaw what appeared as a red light in the northern sky, travelling south east.  It stopped and started periodically.  It stopped in the northeastern sky and as I focused on it I realized there were three lights tightly grouped in a triangle shape.  The lights pulsed but did not blink.  I know called into the house for my family to come out to see this, as I called the lights seemed to fade quickly and just disappeared.  Odd coincidence, - we saw three shooting stars later that night.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120428.html](http://www.nuforc.org/webreports/reports/120/S120428.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Winston-Salem (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>My boyfriend and I was pullin in our drive way when we saw two lights which looked almost as spotlights moving in a circular motion above our house and then as we pulled into the top of the driveway it moved very fast across the sky to the left and then we seen four moving in circular motions very fast to form one then again and again that is how they were traveling.  My boyfriend got out of the car to make sure he was not tripping an we both seen the lights moving in circular motion over and over and so we pulled out the drive way and followed it and it seemed as if it was running away we followed it for almost a mile and a half and it was no spotlights, we turned around and it was following us back.  I got kinda freaked out and it was no more then 50-75 feet high and I know that it was there and when we got home took the baby inside and walked back out it was gone. We walked back to the end of the driveway (with the baby) and no lights moving in the sky. Someone also said on my Facebook they had seen the same thing not far from where I live. Idk that it was UFOs but I do know we followed it and the closer we got to it the more it would move away, and I know it followed us home as well. Does anyone have an explanation for this because I feel like my whole life just changed it was amazing and the most weirdest thing I ever seen in my life.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100043.html](http://www.nuforc.org/webreports/reports/100/S100043.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164045.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164043.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164048.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164058.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
