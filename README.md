@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:55 on 12 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:29:49 on 12 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Charlotte (MI) reported seeing craft that fit the description of some 'Oval' over a period of approximately 23:09 pm - 23:09 pm minutes.</sub><blockquote><sub>remeniscent of the mass arizona ufo sighting.the craft appeared in the distance. first it looked like a jet chasing another smaller object. the chasing object had two apparent lights. they continously blinked. the object being chased looked like a flashing light.as  the objects grew closer it became apparent that it was not one chasing the other, but one entire craft. we emeidiatly pulled over to the side of the road and viewed the craft. we had been driving west on Kalamo Hwy.  it flew closer, about 500 yards or a little lower above us. it flew even closer and an outline and some detail were clearly visible to us. we agree that the craft had to have been at the most 100 yards long no shorter than 5o yards. the width was not as clear, but appered to be about a quarter of the total length. we could not clearly tell the hight, as the object started traveling northeast, instead of north as it had started. the craft did not make any sound, and was traveling fast enough, and due to its mass, it should have had a noise or a jetstream.(none of these apparent) the craft then executed a move that made it a true ufo. as it passed us it turned counterclockwise from our perspetive, but continued to travel in a straight line, the turn was flawless, smooth. it continued in its path, turning still toward us, but still getting further away northeast. the front of the craft pointed toward us and a few seconds later it turned back toward northeast, again in a smooth transition, and no change of course, still going northeast. the craft reflected a little light from the moon, which was metalic in color. this relection only occured for a moment, and the rest of the craft was hidden in the night sky(except for a thin outline.)  the craft had to be solid because all objects on the other side were not visible. Note: about four minutes later we were on an adjacent road and viewed a jet, clearly visible against the moon, heading southwest, the opposite of the craft. the jet picked up speed and we have agreed that it had to have been going at least mock 1, because of the jetstream and the length of time it took to clear our view(at least a four mile radious, we stopped by a field) we contiued to watch the sky for a moment and about 1 to 2 minutes later two more jets were visibly seen goin! g northeast toward the craft. they too were flying exeptionally fast. one came from the southwest, the other from the west. getting closer to each other, then they left our line of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29690.html](http://www.nuforc.org/webreports/reports/029/S29690.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Jonesboro (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Slow moving light from East to West about 70 degrees up, Blinking very slowly, then dissappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76585.html](http://www.nuforc.org/webreports/reports/076/S76585.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164045.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164043.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164048.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164058.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
