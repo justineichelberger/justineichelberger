@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:48:37 on 12 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:42:32 on 12 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Chico (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Plane chasing lights moving oddlyWe saw a plane blinking and what looked like a satalitte folling behind it.  After a second or two it started blinking green, after that appeared to go straight up then down while staying solid green.  It started moving back up but changed to blinkning red. We lost sight of it after that.  After 10-20 mins 2 of us saw another plane and a green light moving like a shooting star diaganoly down away from plane.  All four of us saw the same thing witch kinda freaked us out.  Was definatly something wierd.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57636.html](http://www.nuforc.org/webreports/reports/057/S57636.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1987, an anonymous witness in White Bear Lake (MN) reported seeing craft that fit the description of some 'Disk' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>True Minnesota Sighting July 1987Was at camp and walking down gravel driveway (Jasmine Trl N) toward paved road (110th St N) with a friend. Walked all the way to the road which took about 20 minutes, and turned around to walk back to camp. About halfway back I feel like something was watching me, I scanned the field then the sky and there it was. It looked just like the older ufo footage of the saucer type ones, it was silver in color but the bottom was dark. It was to the south of us and a guess would be 1,500-3,000 feet, object was at least 20-40 feet round in diameter.  It was a perfect still day with no clouds, all blue. It had a mirage effect to it, like when your on a road when its steaming hot out and you get that wavey heat effect when you look in the distance, I could sense a type of energy coming from it.  From the time we first saw it until the time we walked back to camp, it did not move or make a sound. Bear in mind this is a very wooded area but about 5 minutes into the walk the woods clear and there is nothing but sky and fields forever. The ufo was not in the sky when we were walking toward the road, so I know it was moving and stopped sometime after we turned around to walk back.  We walked and then ran back to camp after we had observed it for about 20 minutes, this was a mistake. We got back and told a counselor and we ran with him to the clearing and it was gone, and I knew it would be, one of us should have stayed with it until we got another person to see it, or at least one of us would have seen it move, who believes two teenagers. This is the only time I have seen a ufo in person and I regret not waiting it out. I was 15 then 33 now and I will always remember this because I know it was real, I have a camcorder on hand at all times now since the mid-90s and have never seen one again.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48230.html](http://www.nuforc.org/webreports/reports/048/S48230.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164045.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164043.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164048.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164058.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
