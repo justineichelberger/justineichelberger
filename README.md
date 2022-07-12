@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:05:59 on 12 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:04:44 on 12 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Gilbert (AZ) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>It look like a red diamond in the sky......((NUFORC Note:  Anonymous report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13405.html](http://www.nuforc.org/webreports/reports/013/S13405.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Lafayette (LA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>brightest fastest thing i have ever seen in the sky, around lafayette, la area.the sky was grey just after sunset. was heading back to Lake Charles from baton rouge after taking a state test. was on the phone with a friend and I saw it.  It was so bright and so fast it was unreal.  There was a thin cloud horizontally it was maybe 6" thick in my view but probably quite large in reality.  I saw it for about one second going so fast into the cloud and a split second later was on the other side of the cloud and within 2 to 3 seconds later it was out of the atmosphere.  I could tell that it wasnt following the curvature of the earth.  Instead, it faded into the atmosphere.  I really cannot stress how fast and how bright this thing was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111713.html](http://www.nuforc.org/webreports/reports/111/S111713.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164045.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164043.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164048.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164058.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
