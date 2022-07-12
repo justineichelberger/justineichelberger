@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:45 on 12 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:40 on 12 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Hickory (NC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10:25 - 10:25 minutes.</sub><blockquote><sub>it is not the first time the passed 2 weeks that we have seen this object.We say the same thing last week and a plane flew by it and the craft followed the plane.  Then, last night, we saw it and it dissapeared and came back. Tonight we went out side and looked up and it was on the oppisite side of the sky then what we saw it last week, it was really bright then a plane flew close to it and it got so dim u could bearly see it.  As the plane flew away from it it got twice as bright as it was when the plane passed.  As all of this was going on it did move down a little and to the right.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Venus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76483.html](http://www.nuforc.org/webreports/reports/076/S76483.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Chautaqua Road (NY) reported seeing craft that fit the description of some 'Egg' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>me and my friend (who was driving) were traveling up chautaqua road when we noticed a light just ahead in the sky and very low.  It was yellowish orangeish in color and it was just hovering there about 2 telephone poles heights high.  i told him we needed to get out of there but he insisted we stay we then noticed it was traveling towards us so he pulled in a driveway and took of back to my other friends house about two miles away. i had my head out the window with my eyes glued on the object it was moving faster and faster trying to catch us.  we were traveleing 107 mph down the road and i was yelling you got to go dude it is right on top of us.  Finally we made it back to my friends house unscaved.  we reported our sigthing to everyone there but of course no one believed us.  Thanx and good luck with your researchi have always been a believer but have never seen one.  my friend however never believed and used to think i was nuts but now he believes and is deathly afraid of what could be out there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08350.html](http://www.nuforc.org/webreports/reports/008/S08350.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164045.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164043.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164048.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164058.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
