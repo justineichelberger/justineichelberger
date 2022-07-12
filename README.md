@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:33 on 12 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:13:30 on 12 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Winston-Salem (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>My boyfriend and I was pullin in our drive way when we saw two lights which looked almost as spotlights moving in a circular motion above our house and then as we pulled into the top of the driveway it moved very fast across the sky to the left and then we seen four moving in circular motions very fast to form one then again and again that is how they were traveling.  My boyfriend got out of the car to make sure he was not tripping an we both seen the lights moving in circular motion over and over and so we pulled out the drive way and followed it and it seemed as if it was running away we followed it for almost a mile and a half and it was no spotlights, we turned around and it was following us back.  I got kinda freaked out and it was no more then 50-75 feet high and I know that it was there and when we got home took the baby inside and walked back out it was gone. We walked back to the end of the driveway (with the baby) and no lights moving in the sky. Someone also said on my Facebook they had seen the same thing not far from where I live. Idk that it was UFOs but I do know we followed it and the closer we got to it the more it would move away, and I know it followed us home as well. Does anyone have an explanation for this because I feel like my whole life just changed it was amazing and the most weirdest thing I ever seen in my life.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100043.html](http://www.nuforc.org/webreports/reports/100/S100043.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Mishawaka (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>two craft cicled one another for a short while, then stopped, and rapidly ascended upward out of view.Myself and three friends were outside playing basketball late one night.  I stopped playing for a while and rested on the lawn.  As I was laying on my back, I noticed a bright circular/oval shape hovering back and forth over the area.  It was about the size of a nickle hald at arms length; about as high as a helicopter might fly.  As I called my friends over to watch, another craft appeared.  They (the craft) flew overhead and circled one another for about two or three minutes, then stopped momentarily, and shot skyward at a very high speed.  The objects were, as I said, circular and had a bright, but not illuminating, light cast from them.They did not move too quickly before dissapearing. Maybe at a rate of 40 to 45 mph (est.).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04423.html](http://www.nuforc.org/webreports/reports/004/S04423.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164045.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164043.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164048.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164058.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
