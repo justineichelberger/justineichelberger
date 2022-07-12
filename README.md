@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:46 on 12 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:45 on 12 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Camano Island (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>dancing lightsWatched these circles go from one side of the island to the other.  Went straight up and shot down.  They moved together then separated.  Also heard loud booms in air like fireworks but no fireworks in sight.  Saw a few airplanes right after.  We had binoculars and they moved not like normal airplanes.  They also looked like they where lit only on one side of the object.  I tired video taping but really hard to see.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111497.html](http://www.nuforc.org/webreports/reports/111/S111497.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Hickory (NC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10:25 - 10:25 minutes.</sub><blockquote><sub>it is not the first time the passed 2 weeks that we have seen this object.We say the same thing last week and a plane flew by it and the craft followed the plane.  Then, last night, we saw it and it dissapeared and came back. Tonight we went out side and looked up and it was on the oppisite side of the sky then what we saw it last week, it was really bright then a plane flew close to it and it got so dim u could bearly see it.  As the plane flew away from it it got twice as bright as it was when the plane passed.  As all of this was going on it did move down a little and to the right.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Venus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76483.html](http://www.nuforc.org/webreports/reports/076/S76483.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164045.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164043.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164048.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164058.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
