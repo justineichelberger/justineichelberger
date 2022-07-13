@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:38 on 13 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:13:16 on 13 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Waunakee (WI) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Car-type headlights near tree-line, with shadows.We were walking on the opposite viewing area of our garage.  We were facing the opposite direction, facing towards a car.  When we both saw a shadow moving towards us.  One of us looked back as soon as she saw the moving shadow and what looked like to be a car-type headlights in the sky, about the highth of a medium sized tree.  Then the other looked back in time to see it flying away faster than the speed of light.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73517.html](http://www.nuforc.org/webreports/reports/073/S73517.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1986, an anonymous witness in Waynesburg (outside of) (PA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>3 orange discs witnessed by 4 people in Greene County, western Pa. in the summer of 1986Adult friends were babysitting us. I was 16. My sister was 14. 3 orange objects were spotted off of our deck as the sun set. They were east of our location. (east of Waynesburg, Pa. ). They were near the horizon some 4-5 miles distant. They were lined up horizontally above a distant hill. I ran into house to give our male adult babysitter binoculars because he couldn't believe his eyes. when I returned, the objects were gone. He said they took off in a northerly direction. Just miniutes later 2 Apache military helicopters flew right over our home in the direction of the sighting. It was very exciting. They were at a very low altitude. I will never forget the events of this evening and will forever be inclined to believe that something was out there very wierd and otherworldly. I was prompted to file this report because I was told there is the slight chance that some one else, perhaps one of my neighbors also saw what we did that evening and so I decided to write this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63840.html](http://www.nuforc.org/webreports/reports/063/S63840.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164066.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164072.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165892.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164401.html)
-- [432](http://www.nuforc.org/webreports/reports/157/S157590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
