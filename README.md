@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:46 on 13 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:34 on 13 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Corona (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Triangular shaped object flying erratically yet fluid in the sky.I was walking out the house with my grandma and i saw in the sky towards the hills "skyline" a strange light or lights the color of tourquise and green flying eratically yet in a fluid motion.  We watched for a few minutes in amazment because it was so high up in the sky and moved so fast. We then called my aunt and it was still flying all over the place then we saw i plane fly towards it and the weird object started following it in a straight line and just as fast.  It finally stopped and went backwards but slower this time.  It floated around some more then it almost seemed like it flipped sides and looked like a regular star in the sky and dropped and it was out of vision.  My aunt and i stood outside for about ten minutes after that but we saw nothing.  I have to say i have never believed in ufos and never in my life thought something would come to earth and ive even had arguments with my boyfriend over the subject but this was something i just couldnt explain and it was amazing.  And im also very sorry for the poor writing but im a little shaken up at the moment.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71091.html](http://www.nuforc.org/webreports/reports/071/S71091.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Naperville (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bubbling clouds, black triangle ufo, possible cloud manipulation.it was a dull day, eeriely calm with no wind , nor calling from birds. they clouds are what drew our attention outside, which, looked like nothing ive ever seen before, bubbles , erupting downward like spheres, followed by uprising lines that resembeled a fire shortly later.  We did not see this ufo with our eyes, because we were focusing on the clouds. I was taking pictures of the clouds, and as i went over them , i noticed a strange silloette of a black triangle, and thought to report it here.  I know its not dust or nicks on the lens, for it was extremely humid that day, and as i walked out of the house with my camera, the lens fogged up, twice. I thenfor cleaned the lens outdoors looking at the clouds, twice.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38123.html](http://www.nuforc.org/webreports/reports/038/S38123.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164066.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164072.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165892.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164401.html)
-- [432](http://www.nuforc.org/webreports/reports/157/S157590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
