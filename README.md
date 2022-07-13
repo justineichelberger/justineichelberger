@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:34 on 13 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:47 on 13 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Naperville (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bubbling clouds, black triangle ufo, possible cloud manipulation.it was a dull day, eeriely calm with no wind , nor calling from birds. they clouds are what drew our attention outside, which, looked like nothing ive ever seen before, bubbles , erupting downward like spheres, followed by uprising lines that resembeled a fire shortly later.  We did not see this ufo with our eyes, because we were focusing on the clouds. I was taking pictures of the clouds, and as i went over them , i noticed a strange silloette of a black triangle, and thought to report it here.  I know its not dust or nicks on the lens, for it was extremely humid that day, and as i walked out of the house with my camera, the lens fogged up, twice. I thenfor cleaned the lens outdoors looking at the clouds, twice.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38123.html](http://www.nuforc.org/webreports/reports/038/S38123.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Lancaster (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>I was in the backyard watching from a portable dvd and turned my head toward the sky, not sure why.  And I saw seven to eight objects in the sky, they were floating ever so gently and I was spellbound.  They were like an amber color and sort of round but a definite shape could not be held because of the beautiful glow.  I ran for my parents and they came out to see the fading out and complete disappearance of these strange but wonderful objects.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82453.html](http://www.nuforc.org/webreports/reports/082/S82453.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164066.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164072.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165892.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164401.html)
-- [432](http://www.nuforc.org/webreports/reports/157/S157590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
