@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:04:28 on 13 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:59 on 13 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Beloit (WI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Perfectly still, silent, brightly lighted object suspended in skyWe were driving in a neighborhood and both of us see a very large object above the tall tree line. There were two very large, really bright, white rectangular lights facing forward illuminating the sky.  One smaller red light was at the back of the object.  The thing was absolutely silent and suspended (no movement whatsoever.  Seemed more like “parked” than hovering).  After a couple minutes, it very quickly moved away in a linear fashion and was just gone.  We were also surprised to see that the time was 15-30 minutes later than we thought it should be (though we cannot verify this for sure).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157580.html](http://www.nuforc.org/webreports/reports/157/S157580.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>lit circle travling south to north across sky in 10-15 seconds in houstoni've been looking up a lot lately, with the new purchase of a 6" telescope.If you had any reports from Houston last night (July 13 2008) of an object traveling directly northbound, I saw an unidentifiable object. Bare eyes, no scope obviously.Completely circular, traveling straight north. (I am on the west side of houston texas).This object seemed to be uniformly spherical, it seemed to have a glow to it, but not a bright one. But it was a consistently uniform light.The light did not change brightness, did not have any sort of beacon or blinking as a plane or copter would. And It seemed to move from the southern most point of the horizon to the northern most pointin about 10-12 seconds. (this has to be an incredibly fast speed, as planes and jets take many minutes to pass the entire sky.Definitely not a satellite, as they are much slower. And definitely not a meteorite as I have seen many, and they seem to disappear half way across or down the skyline w/ a greenish color.I have been looking to the sky's for many of years for something regardless, and I told my wife, that if i had ever seen a ufo in my life, that last night was it. She just thinks I'm crazy.  Are you the one guy who takes reports from his home in washington or something like that, the guy I saw on tv.I never thought I would contact you thinking I saw an anomaly like this.This is a serious inquiry. (report)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64541.html](http://www.nuforc.org/webreports/reports/064/S64541.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164066.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164072.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165892.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164401.html)
-- [432](http://www.nuforc.org/webreports/reports/157/S157590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
