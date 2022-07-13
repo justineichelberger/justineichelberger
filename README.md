@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:47 on 13 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:55 on 13 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Lancaster (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>I was in the backyard watching from a portable dvd and turned my head toward the sky, not sure why.  And I saw seven to eight objects in the sky, they were floating ever so gently and I was spellbound.  They were like an amber color and sort of round but a definite shape could not be held because of the beautiful glow.  I ran for my parents and they came out to see the fading out and complete disappearance of these strange but wonderful objects.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82453.html](http://www.nuforc.org/webreports/reports/082/S82453.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Bakersfield (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Electrical interference (TV/lights), massive, fast-moving shadow covering whole yard and more. Silent.At home that afternoon my brother and I were disturbed by some electrical interference. Our flourescent and incandescent lights dimmed, our TV displayed odd patterns, and the A/C stopped for a moment. I looked outside into the yard to see a gigantic shadow with a curved leading edge race across the ground outside in the backyard. I ran outside to see if I could see anything but there was nothing visible (our yard is partly covered by trees). We heard no sounds out of the ordinary, felt no motion, and do not live in a flight path (in fact, the shadow moved the wrong direction for our local aiport's typical takeoff or landing routes). The shadow moved an an incredible speed. As it passed over the whole yard became dark. Please contact me if & only if this corroborates other reports. Thank you for your time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04247.html](http://www.nuforc.org/webreports/reports/004/S04247.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164066.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164072.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165892.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164401.html)
-- [432](http://www.nuforc.org/webreports/reports/157/S157590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
