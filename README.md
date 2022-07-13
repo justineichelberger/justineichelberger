@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:45 on 13 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:35 on 13 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Sarnia (Canada) (ON) reported seeing craft that fit the description of some 'Other' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>Super white ackward shaped object jetting across the skyWas fishing the St. Clair River, when a bright super white object flew over the sky at an alarming rate of speed..  Then disappeared without a trace..there was nothing else in the sky.it went straight across no up or down movements.  this is the second time ive seen something similar tp this in the last two weeks..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111553.html](http://www.nuforc.org/webreports/reports/111/S111553.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Andrews (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>a bright blue light doing teleporting right by us or moving very fast blinking on and off the light and then kept going east and was not able to be seen after 3 seconds</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48211.html](http://www.nuforc.org/webreports/reports/048/S48211.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164066.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164072.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165892.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164401.html)
-- [432](http://www.nuforc.org/webreports/reports/157/S157590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
