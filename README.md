@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:13:06 on 13 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:04:28 on 13 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in North Bend (OR) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Very bright sphere shaped orange light tracking along Hwy 101 on the oregon coast.On 7-13-2014 at around 9:30 pm, I was driving north on highway 101 on the Oregon coast, just outside of North Bend, almost to the area known as Houser.   I saw a small but very bright orange sphere shaped light about a half mile north of my location.  I kept my eye on it trying to figure out exactly what it was. As I approached it I realized that it was following HWY 101 about 200 feet above moving south.  I passed another car that looked to be recording the light. I found the first safe place to pull over and managed to get a few seconds of video with my phone as it passed over me then disappeared in the fog.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111616.html](http://www.nuforc.org/webreports/reports/111/S111616.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Beloit (WI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Perfectly still, silent, brightly lighted object suspended in skyWe were driving in a neighborhood and both of us see a very large object above the tall tree line. There were two very large, really bright, white rectangular lights facing forward illuminating the sky.  One smaller red light was at the back of the object.  The thing was absolutely silent and suspended (no movement whatsoever.  Seemed more like “parked” than hovering).  After a couple minutes, it very quickly moved away in a linear fashion and was just gone.  We were also surprised to see that the time was 15-30 minutes later than we thought it should be (though we cannot verify this for sure).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157580.html](http://www.nuforc.org/webreports/reports/157/S157580.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164066.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164072.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165892.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164401.html)
-- [432](http://www.nuforc.org/webreports/reports/157/S157590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
