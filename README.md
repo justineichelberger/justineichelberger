@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:02:51 on 13 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:05:48 on 13 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Chatsworth (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright star like object with red flashing lightsIt was 1:30 am last night when i let my dog out in the backyard.  I looked up to the west and saw a bright light about as big as the biggest star in the sky.  i would say that the object was anywhere from 15-20 thousand feet in the sky. The object was bright like a star with red lights flashing around it. After watching the object for about 10 minutes i went back into the house and got my sister to come outside to witness what i was seeing.  When we came back outside, the object was about 2000 feet lower than when i first saw it. As we both watched the light slowly get farther away until it disapered behind the neighboring mountains to the west.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100093.html](http://www.nuforc.org/webreports/reports/100/S100093.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Stedman (NC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Silver Cigar Shaped Object SeenThe sky was clear, the moon was out and it was still daylight in the early evening.  I saw a craft at a high altitude moving in the area of the moon at a very fast rate of speed. I was facing south. It had no vapor trail and did not make any noticeable noise.  The object appeared to be at an altitude of 30-40 thousand feet.  My friend was outside with me and I pointed it out to him.  I ran inside and got my binoculars, which are 8X50.  My friend looked first and he described an object which appeared to have no fixed wings, and he said it was an all silver cigar shaped object.  I looked next, and what I saw was a silver bottom and sided saucer with a small top in the center of it, the top side appeared to be white.  The craft appeared to be banking at an angle when I looked at it. There were no wings, no tailfin, and no exhaust that I could see. I ran back inside to get my camcorder, which took me about 20 seconds and when I returned, it was gone.  The craft moved across the entire horizon in less than one minute.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64505.html](http://www.nuforc.org/webreports/reports/064/S64505.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164066.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164072.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165892.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164401.html)
-- [432](http://www.nuforc.org/webreports/reports/157/S157590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
