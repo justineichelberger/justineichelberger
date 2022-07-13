@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:37 on 13 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:05:46 on 13 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Hobe Sound (FL) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>White cylinder object flying south over Atlantic Ocean just off coastal South Florida near Hobe Sound heading towards MiamiDriving South on US Hwy 1 at the stop light on Bridge Road we noticed what we thought was a white plane. There was plenty of daylight.  The object was east of us coming toward us on a diagonal from the north east and then turned south paralleling the coast over the Atlantic Ocean.  It had NO wings or tail and not markings.  It had a blunted point on the southern end and a circular back end.  There was no combustion of any kind, noise or condensation trail. It moved out of sight in less than 20 seconds heading due south towards Miami.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64647.html](http://www.nuforc.org/webreports/reports/064/S64647.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Centreville (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>A dot in the night sky directly above, too large to be a star caught my attention and then it moved (fast), paused, and disappearedObserved a still light in the sky, larger than a star but not as bright it appeared closer below cloud level, and then it quickly moved and dissapeared.  No trail like a shooting star would have</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147540.html](http://www.nuforc.org/webreports/reports/147/S147540.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164066.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164072.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165892.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164401.html)
-- [432](http://www.nuforc.org/webreports/reports/157/S157590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
