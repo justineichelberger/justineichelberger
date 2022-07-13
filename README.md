@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:13:16 on 13 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:02:51 on 13 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1986, an anonymous witness in Waynesburg (outside of) (PA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>3 orange discs witnessed by 4 people in Greene County, western Pa. in the summer of 1986Adult friends were babysitting us. I was 16. My sister was 14. 3 orange objects were spotted off of our deck as the sun set. They were east of our location. (east of Waynesburg, Pa. ). They were near the horizon some 4-5 miles distant. They were lined up horizontally above a distant hill. I ran into house to give our male adult babysitter binoculars because he couldn't believe his eyes. when I returned, the objects were gone. He said they took off in a northerly direction. Just miniutes later 2 Apache military helicopters flew right over our home in the direction of the sighting. It was very exciting. They were at a very low altitude. I will never forget the events of this evening and will forever be inclined to believe that something was out there very wierd and otherworldly. I was prompted to file this report because I was told there is the slight chance that some one else, perhaps one of my neighbors also saw what we did that evening and so I decided to write this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63840.html](http://www.nuforc.org/webreports/reports/063/S63840.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Chatsworth (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright star like object with red flashing lightsIt was 1:30 am last night when i let my dog out in the backyard.  I looked up to the west and saw a bright light about as big as the biggest star in the sky.  i would say that the object was anywhere from 15-20 thousand feet in the sky. The object was bright like a star with red lights flashing around it. After watching the object for about 10 minutes i went back into the house and got my sister to come outside to witness what i was seeing.  When we came back outside, the object was about 2000 feet lower than when i first saw it. As we both watched the light slowly get farther away until it disapered behind the neighboring mountains to the west.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100093.html](http://www.nuforc.org/webreports/reports/100/S100093.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164066.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164072.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165892.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164401.html)
-- [432](http://www.nuforc.org/webreports/reports/157/S157590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
