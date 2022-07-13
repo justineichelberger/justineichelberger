@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:40 on 13 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:39 on 13 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Livingston/Atwater (between) (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Cylindrical objects in morning skyI was driving in Livingston when I saw two cylinder shaped objects in the sky.  I first noticed them when the sun was reflecting off them.  They were both shiny.  At first I thought it was a plane with a glider plane following.  The second object was trailing behind the first object.  Suddenly the object that was following the first, glided under the first object.  I followed them to try to get a photo but they disappeared when I reached a clear area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147532.html](http://www.nuforc.org/webreports/reports/147/S147532.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Van Buren (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>My girlfriend and I were laying facing up in our tent camping at Watercress Campground.  My girlfriend said she saw a falling star.  I dismissed it as falling stars shoot across the sky and fade out.  Then a few minutes later she said there it is again...I looked up and saw a star like light moving slow then suddenly it got VERY bright and faded away in a circular fashion and disappeared.  I will never forget it.  It was a strange night because although the sky was completely clear I kept seeing bright flashes of light that was exactly like lightning lighting up entire sky and rumble of thunder but it was clear with zero clouds.  So weird. Never rained or clouded up or anything.  Cannot explain it and I am a skeptic.  It was amazing.  After that happened I grabbed my GoPro and aimed it at the sky and set it to night time lapse. I left it all night.  I have the photos it took but I do not know how to plug the still night photos into editing software to see it in action.  It recorded for a few hours at least maybe more before battery ran out.  It will be fun to watch if I can highlight the stars...at least to see the weird flashes like lightning.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142278.html](http://www.nuforc.org/webreports/reports/142/S142278.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164066.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164072.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165892.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164401.html)
-- [432](http://www.nuforc.org/webreports/reports/157/S157590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
