@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:59 on 13 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:52 on 13 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>lit circle travling south to north across sky in 10-15 seconds in houstoni've been looking up a lot lately, with the new purchase of a 6" telescope.If you had any reports from Houston last night (July 13 2008) of an object traveling directly northbound, I saw an unidentifiable object. Bare eyes, no scope obviously.Completely circular, traveling straight north. (I am on the west side of houston texas).This object seemed to be uniformly spherical, it seemed to have a glow to it, but not a bright one. But it was a consistently uniform light.The light did not change brightness, did not have any sort of beacon or blinking as a plane or copter would. And It seemed to move from the southern most point of the horizon to the northern most pointin about 10-12 seconds. (this has to be an incredibly fast speed, as planes and jets take many minutes to pass the entire sky.Definitely not a satellite, as they are much slower. And definitely not a meteorite as I have seen many, and they seem to disappear half way across or down the skyline w/ a greenish color.I have been looking to the sky's for many of years for something regardless, and I told my wife, that if i had ever seen a ufo in my life, that last night was it. She just thinks I'm crazy.  Are you the one guy who takes reports from his home in washington or something like that, the guy I saw on tv.I never thought I would contact you thinking I saw an anomaly like this.This is a serious inquiry. (report)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64541.html](http://www.nuforc.org/webreports/reports/064/S64541.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Florence (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>stationary bright object changing colors in sky over AzI couldn't sleep so I went outside to sit in our spa.  I'm sitting facing the west and there was this bright light that was stationary but to me it was flashing. There is alot of air traffic out here, so I thought it might be a plane coming in my direction.  But it never moved. I called my wife out to observe it and she said that flashing was actually changing colors(I'm color blind)from red to blue to white, we watched for about an hour and it just got smaller and smaller and then disappeared.  From where we are I'd say it was just a little bit north of west and maybe 15-20 degrees above horizon.  I 1st observed it about 12:30, it disappeared about 1:30am.  We did get out an old pair of binoculars, my wife said the red light was circling around whatever it is.  As I am writing this about1:42am, there is another object with same characteristics sw of us only it appears to be farther away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64497.html](http://www.nuforc.org/webreports/reports/064/S64497.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164066.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164072.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165892.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164401.html)
-- [432](http://www.nuforc.org/webreports/reports/157/S157590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
