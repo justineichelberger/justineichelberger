@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:45:15 on 13 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:29:41 on 13 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Tacoma (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>We were outside at around 11:20 - 11:30 pm and I happen to look up and see a light in the sky that as you look you could tell that it was really high up.  It was heading in a straight direction when all of the sudden a bright flash of light appeared from where it light was moving in the sky.  All of the sudden it took off in another direction and as you watch it it became dimmer and dimmer as if it was flying higher until you could not see any longer.  My wife witnessed it as well and suprised by it as well.  I checked all of the online schedules for many of the different space agencies and did not see anything that was scheduled for taking off that night.  I also did the research to see if it was an iridium satellite flare as you suggested peter.  It definitely did not look like that at all.  This was definitely different than anything I have seen happen in the night sky.  I see objects in the sky that appear to be most likely satellites and the space station that move in a constant speed in the sky on the same path.  Never have seen something like this going one direction then moving in another after the flash.  Very strange.  My wife was speaking with her boss and she and her husband just so happen to see the same thing.  I have never reported anything before and this is my first time.  I definitely will continue looking up!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64558.html](http://www.nuforc.org/webreports/reports/064/S64558.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Pocono Lake (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Red/Orange lights over Pocono Lake, Pa.When I saw this with my wife we both were stunned.We were both standing on my deck smoking cigarettes.  I saw 4 red lights. flying slow over the mountain in a straight line they were flying south to north and perfectly spaced apart from each other.I googled it and checked you tube later that day to see if anyone else saw it and nothing until I found this site.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111734.html](http://www.nuforc.org/webreports/reports/111/S111734.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164066.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164072.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165892.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164401.html)
-- [432](http://www.nuforc.org/webreports/reports/157/S157590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
