@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:44 on 13 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:38 on 13 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1982, an anonymous witness in Alexandria (VA) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Finished playing kickball with my friends in our court and noticed a silver object flying at house/roof top level thru Stonebridge Road.  Some how object saw me and turned left behind the homes to confront me.  I ran from the object until it cornered me behind the Bell's car.  The object hovered above me for one minute and raised its antenna.  It seemed the object was studying me, and I was scared!  It retracted its antenna and at the speed of light (I can only say) left for outer space.  The object was a silver shaped hat.  It was approximately 1 to 2 feet high.  It made no sounds as it flew thru the air.  No air was disturbed.  Finally, when it did leave, it made no sounds and did not disturb the air.  I did watch a show on UFO Hunters, on the History Channel, covering a UFO sighting in August 1982 in Brazil.  It was the same hat shaped UFO that attacked me that was playing with Brazil's air force.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155536.html](http://www.nuforc.org/webreports/reports/155/S155536.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Waunakee (WI) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Car-type headlights near tree-line, with shadows.We were walking on the opposite viewing area of our garage.  We were facing the opposite direction, facing towards a car.  When we both saw a shadow moving towards us.  One of us looked back as soon as she saw the moving shadow and what looked like to be a car-type headlights in the sky, about the highth of a medium sized tree.  Then the other looked back in time to see it flying away faster than the speed of light.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73517.html](http://www.nuforc.org/webreports/reports/073/S73517.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164066.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164072.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165892.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164401.html)
-- [432](http://www.nuforc.org/webreports/reports/157/S157590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
