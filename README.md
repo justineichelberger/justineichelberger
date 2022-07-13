@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:45 on 12 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:01:00 on 13 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in New York City (Yonkers) (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Mind Controlled by AliensOne day I was driving home from work. I spotted a light following my car. My dog in the back seat was barking and then the light suddenly stopped and the dog stopped barking. I tried to get out of my car but the door wouldn't open. The car then suddenly shut off and I felt paralized. The light came towards me and I could only blink. They talked to me through telepathic waves and could read my mind. There was about three of them and they took me to there ship, I could only see them as shadows. Thats all I can remember but I woke up two days later in my car and I now have a scar on the back of my neck in a checker formation.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43244.html](http://www.nuforc.org/webreports/reports/043/S43244.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Olympia (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Evergreen State College, Strange lit up sky with no noiseFriday July 13 2007  Location: Evergreen State College. Olympia WA. At approximately 2:05PM the entire night sky became lighted briefly in microsecond bursts as during thunder or lightning. This situation has unusual because their was no noise. I looked as if a giant flash bulb went off in the sky  This event intermittently at 30 second intervals for around five or six minutes  The source seemed to be at a Southwesterly direction. I went walking in the direction of the event and it stopped suddenly. Neighbor independently claimed hearing indistinct booms and "grumbling sounds" from the Southwestern direction.((NUFORC Note:  Witness indicates dates of August 12 and July 13.  We have changed the date above to reflect Friday, July 13, 2007.  Many lightning storms in Washington State on this date.  PD))((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57625.html](http://www.nuforc.org/webreports/reports/057/S57625.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164045.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164043.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164048.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164058.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
