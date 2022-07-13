@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:01:00 on 13 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:21 on 13 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Olympia (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Evergreen State College, Strange lit up sky with no noiseFriday July 13 2007  Location: Evergreen State College. Olympia WA. At approximately 2:05PM the entire night sky became lighted briefly in microsecond bursts as during thunder or lightning. This situation has unusual because their was no noise. I looked as if a giant flash bulb went off in the sky  This event intermittently at 30 second intervals for around five or six minutes  The source seemed to be at a Southwesterly direction. I went walking in the direction of the event and it stopped suddenly. Neighbor independently claimed hearing indistinct booms and "grumbling sounds" from the Southwestern direction.((NUFORC Note:  Witness indicates dates of August 12 and July 13.  We have changed the date above to reflect Friday, July 13, 2007.  Many lightning storms in Washington State on this date.  PD))((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57625.html](http://www.nuforc.org/webreports/reports/057/S57625.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in League City (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Two identical UFO's spotted, one appeared to lose power and altitude.I'll just come right out and say it, we saw two UFO's right at about 2100 Central.  The first one appeared to be basically traveling from South to North as if possibly heading for Ellington AFB.  It had a solid reddish/orange light and no normal flashing navigation lights. Just a solid glow.  We, with our best guesses, estimated it to be flying at about 500-600 feet and it didn't appear to be traveling very fast.  Maybe 75 - 100 MPH or so.  There was very little if any wind at the time.  It was hard to really gauge how big it was because it was hard to tell how far away it was.  It flew completely silent, no noise at all.  It continued on its course until it went out of sight behind the trees.  The second one appeared about a minute later on the same heading as if a carbon copy of the first but as soon as this one got almost directly in front of us the light flickered a few times and went completely out then we could see the roundish or maybe octagonal shape of 'what! ever' it was. As soon as the light went out it began a gradual descent and it appeared to have gone down due to loss of power.  I drove around for a while to see if I could spot any suspicious vehicles or objects in the area and I didn't see any.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100188.html](http://www.nuforc.org/webreports/reports/100/S100188.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164066.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164072.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165892.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164401.html)
-- [432](http://www.nuforc.org/webreports/reports/157/S157590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
