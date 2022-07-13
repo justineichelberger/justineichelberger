@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:39 on 13 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:44 on 13 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Wilmington (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>orange sphere shot straight into the sky very fastMy wife and I were driving south on interstate 71.  we saw a bright orange sphere shoot from the ground straight up and into the sky and disappear into the atmosphere.  It was so fast.  Nothing of this world could have went as fast as it did.  Makes me nervous to report this because the littl greys took me from my room when i was ten in Yellow Springs, Ohio.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111526.html](http://www.nuforc.org/webreports/reports/111/S111526.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1982, an anonymous witness in Alexandria (VA) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Finished playing kickball with my friends in our court and noticed a silver object flying at house/roof top level thru Stonebridge Road.  Some how object saw me and turned left behind the homes to confront me.  I ran from the object until it cornered me behind the Bell's car.  The object hovered above me for one minute and raised its antenna.  It seemed the object was studying me, and I was scared!  It retracted its antenna and at the speed of light (I can only say) left for outer space.  The object was a silver shaped hat.  It was approximately 1 to 2 feet high.  It made no sounds as it flew thru the air.  No air was disturbed.  Finally, when it did leave, it made no sounds and did not disturb the air.  I did watch a show on UFO Hunters, on the History Channel, covering a UFO sighting in August 1982 in Brazil.  It was the same hat shaped UFO that attacked me that was playing with Brazil's air force.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155536.html](http://www.nuforc.org/webreports/reports/155/S155536.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164066.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164072.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165892.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164401.html)
-- [432](http://www.nuforc.org/webreports/reports/157/S157590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
