@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:05:46 on 13 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:46 on 13 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Centreville (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>A dot in the night sky directly above, too large to be a star caught my attention and then it moved (fast), paused, and disappearedObserved a still light in the sky, larger than a star but not as bright it appeared closer below cloud level, and then it quickly moved and dissapeared.  No trail like a shooting star would have</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147540.html](http://www.nuforc.org/webreports/reports/147/S147540.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Corona (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Triangular shaped object flying erratically yet fluid in the sky.I was walking out the house with my grandma and i saw in the sky towards the hills "skyline" a strange light or lights the color of tourquise and green flying eratically yet in a fluid motion.  We watched for a few minutes in amazment because it was so high up in the sky and moved so fast. We then called my aunt and it was still flying all over the place then we saw i plane fly towards it and the weird object started following it in a straight line and just as fast.  It finally stopped and went backwards but slower this time.  It floated around some more then it almost seemed like it flipped sides and looked like a regular star in the sky and dropped and it was out of vision.  My aunt and i stood outside for about ten minutes after that but we saw nothing.  I have to say i have never believed in ufos and never in my life thought something would come to earth and ive even had arguments with my boyfriend over the subject but this was something i just couldnt explain and it was amazing.  And im also very sorry for the poor writing but im a little shaken up at the moment.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71091.html](http://www.nuforc.org/webreports/reports/071/S71091.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164066.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164072.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165892.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164401.html)
-- [432](http://www.nuforc.org/webreports/reports/157/S157590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
