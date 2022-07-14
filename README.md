@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:32 on 14 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:45 on 14 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Modesto (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 16.0 - 16.0 minutes.</sub><blockquote><sub>rectangular light changed colors to half circle as well as shape in eastern sky from northern CaliforniaNot sure what it was or if it was a craft. It was sighted in the southeast sky staying stationary. To the naked eye it looked like a rectangular light. Upon investigating further and using binoculars it was illuminated  and changing shape. From a half circle with something in the background that looked like a sheet blowing in wind behind it. It changed color from yellow to red orange light then yellow again.  It slowly drifted north staying in the eastern sky.  It gradually disappeared from view.  changing shape size and color.  Aircraft were flying in the vincinity but were NOT chasing it! The object was a light in itself almost</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23767.html](http://www.nuforc.org/webreports/reports/023/S23767.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Parkville (MD) reported seeing craft that fit the description of some 'Formation' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>up to 50 flashing lights moving togetherUp to 50 flashing lights the size of Stars were clustered together moving in unison.  They were white or gold in color with one to 2 flashing red ones.  They moved against  the wind and were gone in about 15mins. I have never seen anything like it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100182.html](http://www.nuforc.org/webreports/reports/100/S100182.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164055.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164146.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164468.html)
-- [414](http://www.nuforc.org/webreports/reports/157/S157634.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157663.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
