@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:18:15 on 14 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:12:10 on 14 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Orange (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5833333333333334 - 0.5833333333333334 minutes.</sub><blockquote><sub>blue and red row of lights flying unusaul pattern over orange county, califoniaTuesday July 14 th at 11:35 pm pst, city of orange California .I witnessed an unexplained craft flying a very unusual pattern in the sky. I am close to a flight path for a local airport but orange county airport (sna) closes for in coming flights at 11 pm pst.I am used to seeing jets, helicopters, and other small planes, and know their decent patterns. And I know what their landing lights and beacon lights look like. I have never witnessed anything that could fly this pattern so quickly and fly off into the horizon so fast.The craft resembled a police car light bar but instead of flashing lights , had steady on blue on each end with a row of steady red in the center.I had a clear view and there was no cloud cover, no other signs of aircraft, I was facing east with  a big bright moon to my right  towards the south at 2  o clock in the sky, and telephone lines in front of me so it was clear to see the unusual pattern.The craft was over head flying to my 12 o clock position, I then flew a 90 degree turn to the south at the 3 o’clock position, then diagonally  down to the 7 o’clock position, then quickly straight up to the 12 o clock position, then it flew a big arc, from 12 o’clock to 9 o’clock, then another arc from 9 o’clock to the horizon straight in front of me, disappearing. I called to my wife to come out and see as It was happening.The incident lasted about 35 seconds , it was gone by the time she came out the door. All off this was here in the city, so maybe someone else saw it I hope.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71203.html](http://www.nuforc.org/webreports/reports/071/S71203.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Aylett (VA) reported seeing craft that fit the description of some 'Flash' over a period of approximately  -  minutes.</sub><blockquote><sub>sitting on my front porch and looked up, thought it was a plane but it kept flashing super bright every minute or so across the sky in a different place -vertical line</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157645.html](http://www.nuforc.org/webreports/reports/157/S157645.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164055.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164146.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164468.html)
-- [414](http://www.nuforc.org/webreports/reports/157/S157634.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157663.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
