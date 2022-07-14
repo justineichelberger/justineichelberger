@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:40 on 14 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:48 on 14 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1979, an anonymous witness in Honeoye Falls (NY) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Cigar shape ufo with gatewayMy parents had started leaving my brother and I alone as I had recently turned 16 a few months before and had my own car.  They were away for the weekend and my brother and I were awakened by a loud rumble which was almost causing the house to shake.  It was a sunday morning and the date listed above is approximate as this was a long time ago.  We both ran to different windows in the house looking to see if we could find the cause of the rumbling when we looked out the eastward facing windows we saw a large cigar shape craft at least 200 ft long heading slowly from south to north towards a glowing triangle shaped doorway (for lack of a better word) with the rumbling and shaking being very loud, when it got to within a few hundred yards of the triangle it shot into it at incredible speed and the triangle collapsed on itself closing like a iris of an eye.  Then complete silence nothing dead quiet, we stared at each other and said what the hell was that he said no bodys gonna believe us if we tell em.  We told our parents and they didnt believe us, still dont.  I waited years and we felt it was time to at least report this as i have never heard of another report like this((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87170.html](http://www.nuforc.org/webreports/reports/087/S87170.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Highlands (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>bright white cigar shaped object/bright white light over Atlantic Ocean/Sandy Hook BeachWhile at Sandy Hook Beach (Beach D) a long bright cigar shaped object could be seen.  It almost looked like the long side of an airplane when the sun shines on it but it wasn't.  It was over the ocean.  There were planes coming in and even flying below this object but the object was stationary for about 20 minutes when it was first noticed.  At one point it seemed like it was flying in the same direction, parallel to the plane but then it stopped.  It just stayed in place.  Afterwards it started to move south.  Still it was not moving as fast as the airplanes passing (en route to Newark or La Guardia).  It was also much higher than the airplanes because it only looked like a bright white line.  After a few minutes moving south it stopped again.  Then it became the shape of a ball.  A bright white ball and then started moving Northwest towards the beach.  Then when it was over land it looked like it had a long straight gray extension which didn't shine bright like the bright white ball shaped light it was attached to.  Maybe it was a satellite.  I don't know, but it was odd.  Also from the angle I was seeing this, it didn't look like it was at the same altitude as the airplanes because it was higher, looked smaller, and the planes sometimes passed below it.  This object didn't make any noise.  You could hear the planes approaching and if you didn't hear them, you could see the white trails behind.  The way this object followed, hovered,changed direction and made no noise just seemed odd.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51364.html](http://www.nuforc.org/webreports/reports/051/S51364.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164055.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164146.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164468.html)
-- [414](http://www.nuforc.org/webreports/reports/157/S157634.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157663.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
