@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:41 on 14 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:42 on 14 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Saint John (Canada) (NB) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>2 feet long disked shape saucer , multiple sightings  It all started in the summer of 2003, one night after having a hard time to sleep because i had the flu, i heard a loud hovering noise as a bright light flashed and covered most of my room, during the flash i tried to yell however i couldnt manage to get any sound to come out...probably due to shock ...when i focused to look to my window i seen a typical disk shaped object spining only a few feet away from my window...i closed my eyes and pulled my sheets over my face ( i was only 14 at the time) the next thing i remember is waking up the next morning.  I just figured it was a dream however my curtains were still open as well as my window which i keep shut...as time went on i convinced myself it was just a dream til about a year later i heard the same hovering noise outside my window ...this happened a few times over the next few months and evertime i open my curtains to look out i heard the noise become faint and sometimes in the distance i can see i star like object quickly flying away...after this happened so many times and i was tired of my parents laughing at me i waited to hear the noise again ..when i did , rather than open my window i woke my parents up and told them to look out the window..when they did theyt seen and object flying away ..it was furhter this time but they did see it , they just assumed it had nothing to do with me..after that sighting , i never had any problems of such again and once again i question what really happened((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56653.html](http://www.nuforc.org/webreports/reports/056/S56653.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Lino Lakes (MN) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I was sitting in my bed, listening to my iPod when I looked out the windo and saw what at first I thought was an airplane.  So, I looked back at the other wall, and thought, "Since when does an airplane have a huge glowing yellow light across it and three glowing blue lights?", so I looked again and sure enough it was still there, flying to low to be an airplane, but moving at a moderate speed, making a low soothing humming sound.  By my window there are no streets at all, and this was up in the sky.  I saw it go behind some trees, and I saw it fully again.  I rushed to the kitchen to get my camera phone, but I didn't look and the door was shut, so I ran into it.  I ran back to the window to see if it was still there, but it was gone.((NUFORC Note:  Student report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51351.html](http://www.nuforc.org/webreports/reports/051/S51351.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164055.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164146.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164468.html)
-- [414](http://www.nuforc.org/webreports/reports/157/S157634.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157663.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
