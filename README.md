@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:47 on 14 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:56 on 14 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Temecula (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>flashing lights in the sky  well i don't know if it was a UFO because it was cloudy. but my friends and i were driving and saw flashing in the sky. we started driving towards it, and then we saw the same thing happening on the other side of the sky.  our friend forest called us saying he heard something in the sky. and there were tons of helicopters that were flying really low with a ton of search lights.((NUFORC Note:  We assume that the sighting occurred at night, and have amended the time above to reflect a nighttime sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90894.html](http://www.nuforc.org/webreports/reports/090/S90894.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Great Cacapon (WV) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright disappearing lights in sky near Great Cacapon, WV 7/14/01My wife and I were sitting outside on the evening of 7/14/01 at around 9 pm near Great Cacapon, WV.  I was looking down into the Potomac River valley to the north towards Little Orleans, Maryland.  I noticed what I first believed to be a bright star or planet well above the horizon line.  It caught my attention, either because of its unusual brightness or a vague perception of movement.  While I was watching it, it suddenly disappeared.  My wife had not been watching, and I described to her what I had seen, and commented on its oddity.  A few minutes later, I observed the same light.  I pointed towards it, and said "there!"  My wife looked up and saw the light.  It remained for approximately 3-5 seconds, then again suddeny disappeared.  It was too large and bright to be an airplane, and the suddeness of its disappearance was its most remarkable feature.  It was also well-above the horizon and could not have been an object on the ground.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18469.html](http://www.nuforc.org/webreports/reports/018/S18469.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164055.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164146.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164468.html)
-- [414](http://www.nuforc.org/webreports/reports/157/S157634.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157663.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
