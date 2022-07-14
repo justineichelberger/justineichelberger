@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:44 on 14 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:32 on 14 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Pasquag (RI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2:40 - 2:40 minutes.</sub><blockquote><sub>it was 40 yards in diameter round had to bright white lights  in the front and back to flashing lights on each side that randomly changed colors like red yellow blue and a really sharp white it made a loud high pitch humming as it got closer the noise got louder and after that i ran back into the woods</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13528.html](http://www.nuforc.org/webreports/reports/013/S13528.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Modesto (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 16.0 - 16.0 minutes.</sub><blockquote><sub>rectangular light changed colors to half circle as well as shape in eastern sky from northern CaliforniaNot sure what it was or if it was a craft. It was sighted in the southeast sky staying stationary. To the naked eye it looked like a rectangular light. Upon investigating further and using binoculars it was illuminated  and changing shape. From a half circle with something in the background that looked like a sheet blowing in wind behind it. It changed color from yellow to red orange light then yellow again.  It slowly drifted north staying in the eastern sky.  It gradually disappeared from view.  changing shape size and color.  Aircraft were flying in the vincinity but were NOT chasing it! The object was a light in itself almost</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23767.html](http://www.nuforc.org/webreports/reports/023/S23767.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164055.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164146.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164468.html)
-- [414](http://www.nuforc.org/webreports/reports/157/S157634.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157663.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
