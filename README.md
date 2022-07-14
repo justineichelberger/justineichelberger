@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:01:12 on 14 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:13:28 on 14 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Litchfield Beach (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>We're sitting on porch at 9 pm when a total of six orange glowing objects appeared/disappeared for an hour.  Each sighting 10 min apartWe were sitting outside Looking out on beach horizon at 9 pm and initially we noticed two glowing orange balls in the sky.  They glowed and then like a light went out.  The next time another orange glow appeared over to the right of the horizon, still over the ocean. It too glowed for five seconds and went out.  About ten minutes later, to the left of the ocean horizon, another blinked on that orange glow and then subsequently went off. After that point,about 10 minutes later right in front of the beach house,another orange glow appeared and then turned off.  Here is where all 7 of our mouths fell open.  Back to the the left of the ocean horizon six orange glows appeared in a diagonal line.  Each came on separately stayed lit and then one by one it turned each orange glow off.  It was truly the most unbelievable event I have ever seen.  One last glow was seen again directly in front of the beach house.((NUFORC Note:  We suspect the correct date is July 14, not June 14, and we have changed the date above.  We are awaiting confirmation on the date from the source.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111603.html](http://www.nuforc.org/webreports/reports/111/S111603.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Missoula (MT) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>We just witnessed a blue light above the peak of the house.  Said light then began to fly East stop then West multiple times until disappearing into a very active lighting storm.  Waited for movement and nothing from the storm but over head a bright white light flew directly vertical of the cloud the cloud grew to about 3 times the size and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147560.html](http://www.nuforc.org/webreports/reports/147/S147560.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164055.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164146.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164468.html)
-- [414](http://www.nuforc.org/webreports/reports/157/S157634.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157663.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
