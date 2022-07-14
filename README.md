@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:45 on 14 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:31 on 14 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Parkville (MD) reported seeing craft that fit the description of some 'Formation' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>up to 50 flashing lights moving togetherUp to 50 flashing lights the size of Stars were clustered together moving in unison.  They were white or gold in color with one to 2 flashing red ones.  They moved against  the wind and were gone in about 15mins. I have never seen anything like it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100182.html](http://www.nuforc.org/webreports/reports/100/S100182.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Apopka (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Red and green flashing orb above tree line followed by bizarre humming noise and overwhelming fear.I walked outside to get my cigarettes from my car, when suddenly, I felt a strange feeling.  I looked up and just beside the trees was a red and green flashing light, moving erratically in a zig-zag fashion, only to stop and hover for some time, leading me to conclude it was not a plane and could not be a star due to it's various flashing colors.  A hazy beam of light could then be seen emanating from it as if searching for something.  I stood there for nearly 10 minutes until I heard a dull humming noise coming from the direction of the UFO.  I felt suddenly overwhelmed with fear and ran back inside.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128486.html](http://www.nuforc.org/webreports/reports/128/S128486.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164055.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164146.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164468.html)
-- [414](http://www.nuforc.org/webreports/reports/157/S157634.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157663.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
