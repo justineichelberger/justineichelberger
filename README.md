@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:12:10 on 14 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:40 on 14 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Aylett (VA) reported seeing craft that fit the description of some 'Flash' over a period of approximately  -  minutes.</sub><blockquote><sub>sitting on my front porch and looked up, thought it was a plane but it kept flashing super bright every minute or so across the sky in a different place -vertical line</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157645.html](http://www.nuforc.org/webreports/reports/157/S157645.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1979, an anonymous witness in Honeoye Falls (NY) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Cigar shape ufo with gatewayMy parents had started leaving my brother and I alone as I had recently turned 16 a few months before and had my own car.  They were away for the weekend and my brother and I were awakened by a loud rumble which was almost causing the house to shake.  It was a sunday morning and the date listed above is approximate as this was a long time ago.  We both ran to different windows in the house looking to see if we could find the cause of the rumbling when we looked out the eastward facing windows we saw a large cigar shape craft at least 200 ft long heading slowly from south to north towards a glowing triangle shaped doorway (for lack of a better word) with the rumbling and shaking being very loud, when it got to within a few hundred yards of the triangle it shot into it at incredible speed and the triangle collapsed on itself closing like a iris of an eye.  Then complete silence nothing dead quiet, we stared at each other and said what the hell was that he said no bodys gonna believe us if we tell em.  We told our parents and they didnt believe us, still dont.  I waited years and we felt it was time to at least report this as i have never heard of another report like this((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87170.html](http://www.nuforc.org/webreports/reports/087/S87170.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164055.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164146.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164468.html)
-- [414](http://www.nuforc.org/webreports/reports/157/S157634.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157663.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
