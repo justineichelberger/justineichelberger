@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:13:28 on 14 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:02:09 on 14 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Missoula (MT) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>We just witnessed a blue light above the peak of the house.  Said light then began to fly East stop then West multiple times until disappearing into a very active lighting storm.  Waited for movement and nothing from the storm but over head a bright white light flew directly vertical of the cloud the cloud grew to about 3 times the size and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147560.html](http://www.nuforc.org/webreports/reports/147/S147560.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1976, an anonymous witness in Wahataka (Puerto Rico) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>orange- red fire in the sky at family get together...on one visit to Puerto Rico the families decided to plan a large get together and fishing trip to the native indian encampment called wahataka lake, we stayed up late that night by a campfire while my aunts & uncle's spoke, when all of a sudden one of my uncle's pointed up to the sky, it was like a shock went through everyone no one said or did anything but look at it. I would say it was about the size of three (3) tralier-trucks one behind the other, it was orange-red it kept blending those two colors it didn't make a sound, everybody was quite it was about at a height of a hundread feet (100) just over the tree-lines, I remember at first thinking it was a blimp but it wasn't. after about ten minutes we couldn't see it anymore, it drifted slowly on over the next mountain ridge. we were asked to leave by the army at 7am...((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54316.html](http://www.nuforc.org/webreports/reports/054/S54316.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164055.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164146.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164468.html)
-- [414](http://www.nuforc.org/webreports/reports/157/S157634.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157663.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
