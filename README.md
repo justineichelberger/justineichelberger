@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:06:23 on 15 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:42 on 15 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1963, an anonymous witness in Mantua (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>it was 1963 during a baseball game. I had hit a single and was on first base. The first baseman ((name deleted))) and I were looking in toward home plate anticipating the next pitch. Off in the distance Above the head of the batter was a tiny light like a star. It came from the horizon at an unimaginable speed. the sky was clear except for a cloud right above our heads. The height of the cloud was unknown and covered an area the size of a pizza pie held at arms legnth. this thing came at such a speed as to be beyond anything we have ever seen. It entered the cloud and was the size of a dime held at arms length. It did not exit the cloud as expected rather it sped off in the same direction that it came.the reverse direction only took 2 seconds and took off in the same direction that it came in at such a speed that by the time we started yelling the other players missed seeing it as it disapeared in the distant horizon.Later that night we were all playing hide and go seek. ((name deleted)) and i chose a hidin place together. what happened to ((name deleted)) and myself is too bizzare to tell on paper. I am afraid if i explain it you will think of me as crazy.I have not seen or heard from Jimmy since about 1965 however his wife came to my office around 1985. she was helping a friend but asked me if anything strange happened to Jimmy and myself. i said yes i didn't elaborate and neither did she i knew she was talking about what happened that night.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45343.html](http://www.nuforc.org/webreports/reports/045/S45343.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Oxford (ME) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A Disk shape object spinning slowly with lights around it.  Hoovering over some trees...it was a disk shape with lights around it, and it looked as though it was spinning slowly, it was hoovering over the trees, i was stunned, i was looking at it and could not move, i wanted to go tell someone, but i was unable to move, i did tell someone the other day, but they just laughed at me, so i felt unable to tell anyone else. until now...there is a sight i can vent..thank-you((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54211.html](http://www.nuforc.org/webreports/reports/054/S54211.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1172](http://www.nuforc.org/webreports/reports/164/S164123.html)
-- [1171](http://www.nuforc.org/webreports/reports/164/S164079.html)
-- [1170](http://www.nuforc.org/webreports/reports/164/S164662.html)
-- [1169](http://www.nuforc.org/webreports/reports/164/S164054.html)
-- [1168](http://www.nuforc.org/webreports/reports/164/S164095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
