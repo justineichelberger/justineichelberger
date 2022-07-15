@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:01:04 on 15 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:37 on 15 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1982, an anonymous witness in Christiansburg (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>large orange disc or ball travelling at a great speed making no sound and not disturbing surrounding area.on the above approximate date and time i observed while walking west bound on main street a large orange circular shaped object travelling west bound at a great speed making no sound. i also observed that this object seemed to be as large as the village and as it passed in what seemed to be less than a second it did not move any trees or leaves which i thought was abnormal. at this time i proceeded to my grandparents house and advised them what i witnessed and they advised me not to say anything due to the fact my peers would think i was abnormal. while at my grandparents in the living room a news broadcast was aired and the broadcast stated that an unidentified object matching the discription i gave my grandparents was sighted in texas. note: a few years before this while sleeping i was awakened by two white objects which appeared to have no extremities, one at the foot of my bed and one beside my bed with sunken eyes and a round mouth that seemed to be rotating. i tried to move and scream but was unable. the next thing i remember is waking in the morning. a few years before this at a seperate location i was awakened in the night by a tug on my leg and then being pulled to the floor at the same time my brother was pulled to the floor. at this same time my mother in a different room was screaming and as my brother and i entered the room and observed the bed shaking and her stating a presence in the room making impressions in the bed. im not sure if these incidents are related but its something i have lived with my whole life and would like some feed back if possible. i would also like to say as a juvenile i was inflicted with nose bleeds that stopped after these strange occurances stopped.((NUFORC Note:  Date is approximate.  Witness is public employee, and elects to remain semi-anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33972.html](http://www.nuforc.org/webreports/reports/033/S33972.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Carlton (MN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Extremely low UfO with lights on outer perimeter, in Blackhoof by berry farm.  It was frightening to see.I seen a very very low UFO hovering over the field across from Finkes Berry farm in the Blackhoof area in Carlton.  I was on my way home after work in Carlton and when I was coming down the hill I could see the huge ufo hovering over the field and I could see all the lights around the base of the circle ufo.  If seemed like is was just 30 feet off the ground.  It was very frightening to drive by on county road 5/6 and to stare straight at it.  I just kept driving and hoping nothing would follow.  It was a nerve racking evening once i got home.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133426.html](http://www.nuforc.org/webreports/reports/133/S133426.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1172](http://www.nuforc.org/webreports/reports/164/S164123.html)
-- [1171](http://www.nuforc.org/webreports/reports/164/S164079.html)
-- [1170](http://www.nuforc.org/webreports/reports/164/S164662.html)
-- [1169](http://www.nuforc.org/webreports/reports/164/S164054.html)
-- [1168](http://www.nuforc.org/webreports/reports/164/S164095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
