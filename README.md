@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:44 on 15 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:38 on 15 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Larose (LA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>four white ball shape objects moveing slitelyI am a 46yr old boat capt. on this day the sky clear blue as can be i had step outside to have a cigarette while waiting for my girlfriend to return from work an i just happen to look up. an there at about 1200 to 1500 feet celing i saw four white ball shape objects in an angle of 45 degrees moveing towards the west south west no sound what so ever i open the door an called to my girlfriends dauther an nephew to come an see they did an i ask do yall see that an they said yes at about that time the first object moved back to the second one an made like a v shape it stayed there for about 2 to 3 mins than moved back in line.  at first i didnt think it was nothing until that happen than i knew i was seeing something not of this world i didnt get a since of danger from this just a peacefull one i watch as the objects went out of sight my first sighting !((NUFORC Note:  Witness elects to provide no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84958.html](http://www.nuforc.org/webreports/reports/084/S84958.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1955, an anonymous witness in Ringold (LA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>As a young boy at church summer camp my friend and I were sitting on the steps of the main dining hall talking. I looked up in the sky and saw three small lights, only slightly larger than stars moving across the sky at a speed not much faster than a plane would move one behind the other fairly close together. First we thought they must be planes but thought they were moving a little to fast. While watching them they stopped. This really got our attention and while watching them sit there they suddenly took off as if shot from a gun and in a flash was gone. I know this is a boring story as there was no large craft to take us on board or anything like that but I guess that's why I'm reporting after 50 years. I saw what I saw and it was not any kind of plane. I'm reporting because I belive there are thousands of people like me who have seen similar incidents and never told or had the opportunity to tell their story, but now we have the internet and I hope you will get the word out asking people to report even the simple sightings like mine. I saw a similar thing again about 12 years later and I'll report on it using another form. My son has also seen interesting lights but never told anyone but ma and perhaps his brother.((NUFORC Note:  Date of incident may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52404.html](http://www.nuforc.org/webreports/reports/052/S52404.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1172](http://www.nuforc.org/webreports/reports/164/S164123.html)
-- [1171](http://www.nuforc.org/webreports/reports/164/S164079.html)
-- [1170](http://www.nuforc.org/webreports/reports/164/S164662.html)
-- [1169](http://www.nuforc.org/webreports/reports/164/S164054.html)
-- [1168](http://www.nuforc.org/webreports/reports/164/S164095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
