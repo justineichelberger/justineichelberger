@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:32:13 on 15 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:50:56 on 15 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Monterey (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Ball lightning in California, time gateway, heavenly orb.The children and I went to the San Carlos beach in Monterey during sunset  we were playing with the sand and taking pictures we uncovered a lobster in the sand that was orange in color as if baked but it was alive, at the moment I didn’t think of the color of the lobster, my son asked me what is that in the sky?  pointing to a big light ball as if it’s an open orb or tunnel that was 200 meters far.  My son said that is heaven, I said as I stood mesmerized that this is grandparents watching over us.  I was mesmerized that even me a communication professor that loves media and has been taking pictures of everything small or big I was able to snap one single picture only, but it was so beautiful that I believe it is my diamond star picture.I took the kids afterwards for a small walk took some pictures and walked to the car and home contemplating to what I saw.Ever since I feel I have a mission that is heavier than me, but God keeps sending me helping signs.It is heaven.  And yes, God is everywhere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136774.html](http://www.nuforc.org/webreports/reports/136/S136774.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Airdrie (Canada) (AB) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Three lights in triangular formation.  Swarmed by 3-5 singular lights moving at varying speeds and directions around triangular light formation.  Silent.  Traversed the sky from above Calgary, to NE of Airdrie, Alberta, Canada, in roughly 4-5 seconds.  Lights were solid and all approximately same brightness (dim star).((NUFORC Note:  We spoke via telephone with the witness, and he seemed to us to be quite sincere and sober-minded.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142241.html](http://www.nuforc.org/webreports/reports/142/S142241.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1172](http://www.nuforc.org/webreports/reports/164/S164123.html)
-- [1171](http://www.nuforc.org/webreports/reports/164/S164079.html)
-- [1170](http://www.nuforc.org/webreports/reports/164/S164662.html)
-- [1169](http://www.nuforc.org/webreports/reports/164/S164054.html)
-- [1168](http://www.nuforc.org/webreports/reports/164/S164095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
