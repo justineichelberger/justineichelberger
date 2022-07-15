@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:01:09 on 15 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:34 on 15 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Spokane (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Driving on interstate 90 going east towards Post Falls, Idaho a huge disc shaped object of many changing colors seen over Stateline,  Idaho area.  Pulled off freeway for a while to look at huge object at fixed location in sky.Wasn't moving as a plane would be, and didn't appear to be very high up in sky.  I finally drove on after looking at this object for what seemed like a very long time.  Looked like colors were changing, or the object was rotating in fixed position.  I would guess object was only 1000 feet high over area it was hovering.  There had to be other people who saw this,  as it was hovering over a residential  area,  I believe.  Very striking sighting and has puzzled me ever since- my only sighting as far as I know.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36200.html](http://www.nuforc.org/webreports/reports/036/S36200.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1975, an anonymous witness in Summerside (Canada) (PE) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A silent, floating, rectangular object the size of a football field, skimming the tops of buildings.It was a clear summer evening, and I was riding my bike with a friend to accompany her part-way home before dark.As we approached the intersection, I turned left to see if anything was coming - and there it was, slowly "floating" noiselessly over the trees toward us.  It looked to be only skimming the top of the school and the mall,  and was at least the size of a football field.  It was rectangular in shape, dark grey, dull metallic appearance. Seemed to have many compartments or components on the bottom, and had one red light following behind it.  It had a peaceful feeling, and I felt no fear.  My friend however, was terrified and wouldn't look at it. I haven't been in touch with this person for years, and she would never talk about it.  It was travelling from the east in a northwest direction... directly toward the local air base.  Although it seemed to be barely moving, it was getting out of sight rather quickly.  I raced home and called the control tower at the base, and they said they had seen nothing.  They told me I had likely seen the "Thunderbirds" who were there at the time ! for an air show.  Even though other sightings had been reported the same week of a "flying door" less than 30 miles from where I saw it,  the reaction of most people was disbelief and/or mockery.  After coming across this site more than 30 years later, I feel somewhat vindicated.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73243.html](http://www.nuforc.org/webreports/reports/073/S73243.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1172](http://www.nuforc.org/webreports/reports/164/S164123.html)
-- [1171](http://www.nuforc.org/webreports/reports/164/S164079.html)
-- [1170](http://www.nuforc.org/webreports/reports/164/S164662.html)
-- [1169](http://www.nuforc.org/webreports/reports/164/S164054.html)
-- [1168](http://www.nuforc.org/webreports/reports/164/S164095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
