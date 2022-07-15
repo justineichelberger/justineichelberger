@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:47 on 15 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:06:23 on 15 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1972, an anonymous witness in Chesterfield (NH) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Large Cigar Shaped Object Chased By The Airforce In  Chesterfield, New HampshireI was about 12 years old and visiting a neighbor up the hill. My sister was 11 y.o. The neighbor was 30 ish and her son was 19 years old. My sister and I were leaving to go home around 8:00 pm. We all walked outside, as we always did, and her son pointed to an object in the sky. We saw a large 'cigar shaped object' emitting light and hovering above us in the sky. It made no sound. We moved toward the back yard (which was a small field) in order to see it better. It started to decend right over us, like it saw us looking at it.  It got larger and larger but there was no way to really judge the size or how close it was, but it seemed bigger than the neighbor's house. It decended slowly and blocked out the stars in the sky. It felt like it was right on top of us. Then, without warning, the Object shot straight up in the sky at a speed that was astounding. It became the size of a Softball and bright white in the sky.  It stopped and angled right and zipped away so fast that you could only follow it for a few seconds. Then it was gone. A minute or so later, we heard and saw several 'Airforce Jets' from 'Pease Airforce Base' flying in the same direction the object retreated. The sound of the Jets made us realize that the object that we had just witnessed had no sound to it at all.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63281.html](http://www.nuforc.org/webreports/reports/063/S63281.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1963, an anonymous witness in Mantua (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>it was 1963 during a baseball game. I had hit a single and was on first base. The first baseman ((name deleted))) and I were looking in toward home plate anticipating the next pitch. Off in the distance Above the head of the batter was a tiny light like a star. It came from the horizon at an unimaginable speed. the sky was clear except for a cloud right above our heads. The height of the cloud was unknown and covered an area the size of a pizza pie held at arms legnth. this thing came at such a speed as to be beyond anything we have ever seen. It entered the cloud and was the size of a dime held at arms length. It did not exit the cloud as expected rather it sped off in the same direction that it came.the reverse direction only took 2 seconds and took off in the same direction that it came in at such a speed that by the time we started yelling the other players missed seeing it as it disapeared in the distant horizon.Later that night we were all playing hide and go seek. ((name deleted)) and i chose a hidin place together. what happened to ((name deleted)) and myself is too bizzare to tell on paper. I am afraid if i explain it you will think of me as crazy.I have not seen or heard from Jimmy since about 1965 however his wife came to my office around 1985. she was helping a friend but asked me if anything strange happened to Jimmy and myself. i said yes i didn't elaborate and neither did she i knew she was talking about what happened that night.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45343.html](http://www.nuforc.org/webreports/reports/045/S45343.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1172](http://www.nuforc.org/webreports/reports/164/S164123.html)
-- [1171](http://www.nuforc.org/webreports/reports/164/S164079.html)
-- [1170](http://www.nuforc.org/webreports/reports/164/S164662.html)
-- [1169](http://www.nuforc.org/webreports/reports/164/S164054.html)
-- [1168](http://www.nuforc.org/webreports/reports/164/S164095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
