@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:50:56 on 15 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:40:21 on 15 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Airdrie (Canada) (AB) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Three lights in triangular formation.  Swarmed by 3-5 singular lights moving at varying speeds and directions around triangular light formation.  Silent.  Traversed the sky from above Calgary, to NE of Airdrie, Alberta, Canada, in roughly 4-5 seconds.  Lights were solid and all approximately same brightness (dim star).((NUFORC Note:  We spoke via telephone with the witness, and he seemed to us to be quite sincere and sober-minded.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142241.html](http://www.nuforc.org/webreports/reports/142/S142241.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Twin Falls (ID) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>White, triangular object over Twin Falls, IDI was driving on I-84 eastbound when I briefly saw a white, triangular object in the sky (fairly distant). There were no clouds, and the object left no con-trail. When I looked at the road to pass another vehicle and looked back, the object was gone. I had my attention off the object for less than 30 seconds, and there was no way a conventional aircraft could have disappeared so quickly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64611.html](http://www.nuforc.org/webreports/reports/064/S64611.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1172](http://www.nuforc.org/webreports/reports/164/S164123.html)
-- [1171](http://www.nuforc.org/webreports/reports/164/S164079.html)
-- [1170](http://www.nuforc.org/webreports/reports/164/S164662.html)
-- [1169](http://www.nuforc.org/webreports/reports/164/S164054.html)
-- [1168](http://www.nuforc.org/webreports/reports/164/S164095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
