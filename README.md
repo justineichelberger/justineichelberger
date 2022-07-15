@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:42 on 14 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:43 on 15 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Lino Lakes (MN) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I was sitting in my bed, listening to my iPod when I looked out the windo and saw what at first I thought was an airplane.  So, I looked back at the other wall, and thought, "Since when does an airplane have a huge glowing yellow light across it and three glowing blue lights?", so I looked again and sure enough it was still there, flying to low to be an airplane, but moving at a moderate speed, making a low soothing humming sound.  By my window there are no streets at all, and this was up in the sky.  I saw it go behind some trees, and I saw it fully again.  I rushed to the kitchen to get my camera phone, but I didn't look and the door was shut, so I ran into it.  I ran back to the window to see if it was still there, but it was gone.((NUFORC Note:  Student report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51351.html](http://www.nuforc.org/webreports/reports/051/S51351.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Salina (KS) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>My grandma and I had left her friend's house in Salina.  We drove from Choctaw Ave to Walnut Street, pulled into her driveway and when she turned her car off I noticed a V formation of white dots.  I know it wasn't a flock of birds or anything because they were bright lights.  Slowly gliding North.  We watched as they slowly passed and never heard anything about it.  Salina is a relatively good size city for Kansas, so I imagine there are other witnesses.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156157.html](http://www.nuforc.org/webreports/reports/156/S156157.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164055.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164146.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164468.html)
-- [414](http://www.nuforc.org/webreports/reports/157/S157634.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157663.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
