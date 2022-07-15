@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:40 on 15 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:44 on 15 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1983, an anonymous witness in Edison (NJ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>while driving, my friends girlfriend said, hey, look at that! we all looked out the window and into the sky ,where we saw a sphere shaped object with green pulsating lights.  the craft seemed to be moving along with our car , probably about one thousand feet up, maybe more. it moved very erratic zig-zaging as well as flying level. it made no apparent sound. we proceeded back to her house where she went inside to call the police.  the police dispatcher said, they already have had several people who previously called about the same sighting.  as we watched this ufo, sometimes it would implode and show up on the other side of the sky. then return in the same manner.  after about twenty more minutes of watching this craft, two military helicopters attempted to fly close to it. when they got close the ufo ,once again, imploded .then appearing on the other side of the sky .  it came back once , then the chppers tried another attempt to get close . this time the ufo dissapeared for good. also wanted to mention while all this was happening our car radio would not work. just a bunch of static. really weird stuff, that night!!! if anyone else saw this please report it to this sight so we can compare notes. also if my friend and his girlfriend remember this event , please leave a sighting report. you know who you are. he was from fanwood , like myself, and she was from edison.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64062.html](http://www.nuforc.org/webreports/reports/064/S64062.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Larose (LA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>four white ball shape objects moveing slitelyI am a 46yr old boat capt. on this day the sky clear blue as can be i had step outside to have a cigarette while waiting for my girlfriend to return from work an i just happen to look up. an there at about 1200 to 1500 feet celing i saw four white ball shape objects in an angle of 45 degrees moveing towards the west south west no sound what so ever i open the door an called to my girlfriends dauther an nephew to come an see they did an i ask do yall see that an they said yes at about that time the first object moved back to the second one an made like a v shape it stayed there for about 2 to 3 mins than moved back in line.  at first i didnt think it was nothing until that happen than i knew i was seeing something not of this world i didnt get a since of danger from this just a peacefull one i watch as the objects went out of sight my first sighting !((NUFORC Note:  Witness elects to provide no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84958.html](http://www.nuforc.org/webreports/reports/084/S84958.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1172](http://www.nuforc.org/webreports/reports/164/S164123.html)
-- [1171](http://www.nuforc.org/webreports/reports/164/S164079.html)
-- [1170](http://www.nuforc.org/webreports/reports/164/S164662.html)
-- [1169](http://www.nuforc.org/webreports/reports/164/S164054.html)
-- [1168](http://www.nuforc.org/webreports/reports/164/S164095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
