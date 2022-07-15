@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:14:37 on 15 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:06:21 on 15 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1990, an anonymous witness in Arizona (northern location) (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>UFO sighting on route 93 between Arizona & Nevada?In 1990, my wife, brother-in-law & my son, we were driving along route 93, in Northern Arizona, Heading to Las Vegas. It was about 02:30am, I was driving our van, my brother-in-law was sitting in the front passenger seat and my wife and son were asleep in the back. In my rear-view mirror I saw a very bright light behind me, like a car with high beams on at a very far distance. A few seconds later, 20-30 seconds, I looked in my sideview mirror again and this light lit up the whole van and roadway and all I heard was a "swish" the whole van shoock as if we were hit with very strong sidewinds. The radio died, all we heard was static for the next 15-20 minutes.My brother in-law, who was dosing off in the passenger seat jumped right after the bright light and " swish" and yelled, What the hell.  He thought that I was falling asleep. I said, hell no, did you see that, holy smokes.  Even though this happened quite a few years ago, I have retold it countless times and remember it as if it happened yesterday. I have always felt a presence of something ever since that event. I'm not sure what, but it's like I've/we've been "watched"  I am a professional, married family man. Not a weirdo. I just wanted to shares this with everyone.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49525.html](http://www.nuforc.org/webreports/reports/049/S49525.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Louisville (outside of) (KY) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>I think it could have been what some of us hope it was Or it could have been an illusion on my part. I hope it was them up there^I just looked up one night and seen a Very small, Very high in the sky shape it was a lil Diamond like in appearance, and it was moving very fast for its elevation (It must have been near the higher end of the atmoshpere) and it did not have any real lights on it but a lil shine and I think a redish hint on or around it.  I really just assumed it was an air force related craft or possibly even nasa,...  Until.... it changed directions,    it was heading northwest then it Instantly headed southwest,  then south, it was very exiting when this happened because I knew ofcourse I was witnessing something special.It was like an Old computer icon/mouse arrow (whatever those are called)that was just Constantly moving in total different directions. I have witnessed this twice actually but the first was vague and I lost it soon,  the latter one was this one and it was clear. It did these weird maneuvers for about 10 to 15 minutes then it stayed on a northwest heading and it was gone after about 1 1/2 minutes.I want to believe!((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39908.html](http://www.nuforc.org/webreports/reports/039/S39908.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1172](http://www.nuforc.org/webreports/reports/164/S164123.html)
-- [1171](http://www.nuforc.org/webreports/reports/164/S164079.html)
-- [1170](http://www.nuforc.org/webreports/reports/164/S164662.html)
-- [1169](http://www.nuforc.org/webreports/reports/164/S164054.html)
-- [1168](http://www.nuforc.org/webreports/reports/164/S164095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
