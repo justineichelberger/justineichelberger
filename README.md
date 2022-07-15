@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:38 on 15 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:14:37 on 15 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1955, an anonymous witness in Ringold (LA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>As a young boy at church summer camp my friend and I were sitting on the steps of the main dining hall talking. I looked up in the sky and saw three small lights, only slightly larger than stars moving across the sky at a speed not much faster than a plane would move one behind the other fairly close together. First we thought they must be planes but thought they were moving a little to fast. While watching them they stopped. This really got our attention and while watching them sit there they suddenly took off as if shot from a gun and in a flash was gone. I know this is a boring story as there was no large craft to take us on board or anything like that but I guess that's why I'm reporting after 50 years. I saw what I saw and it was not any kind of plane. I'm reporting because I belive there are thousands of people like me who have seen similar incidents and never told or had the opportunity to tell their story, but now we have the internet and I hope you will get the word out asking people to report even the simple sightings like mine. I saw a similar thing again about 12 years later and I'll report on it using another form. My son has also seen interesting lights but never told anyone but ma and perhaps his brother.((NUFORC Note:  Date of incident may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52404.html](http://www.nuforc.org/webreports/reports/052/S52404.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1990, an anonymous witness in Arizona (northern location) (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>UFO sighting on route 93 between Arizona & Nevada?In 1990, my wife, brother-in-law & my son, we were driving along route 93, in Northern Arizona, Heading to Las Vegas. It was about 02:30am, I was driving our van, my brother-in-law was sitting in the front passenger seat and my wife and son were asleep in the back. In my rear-view mirror I saw a very bright light behind me, like a car with high beams on at a very far distance. A few seconds later, 20-30 seconds, I looked in my sideview mirror again and this light lit up the whole van and roadway and all I heard was a "swish" the whole van shoock as if we were hit with very strong sidewinds. The radio died, all we heard was static for the next 15-20 minutes.My brother in-law, who was dosing off in the passenger seat jumped right after the bright light and " swish" and yelled, What the hell.  He thought that I was falling asleep. I said, hell no, did you see that, holy smokes.  Even though this happened quite a few years ago, I have retold it countless times and remember it as if it happened yesterday. I have always felt a presence of something ever since that event. I'm not sure what, but it's like I've/we've been "watched"  I am a professional, married family man. Not a weirdo. I just wanted to shares this with everyone.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49525.html](http://www.nuforc.org/webreports/reports/049/S49525.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1172](http://www.nuforc.org/webreports/reports/164/S164123.html)
-- [1171](http://www.nuforc.org/webreports/reports/164/S164079.html)
-- [1170](http://www.nuforc.org/webreports/reports/164/S164662.html)
-- [1169](http://www.nuforc.org/webreports/reports/164/S164054.html)
-- [1168](http://www.nuforc.org/webreports/reports/164/S164095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
