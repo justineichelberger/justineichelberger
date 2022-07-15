@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:42 on 15 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:50 on 15 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Oxford (ME) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A Disk shape object spinning slowly with lights around it.  Hoovering over some trees...it was a disk shape with lights around it, and it looked as though it was spinning slowly, it was hoovering over the trees, i was stunned, i was looking at it and could not move, i wanted to go tell someone, but i was unable to move, i did tell someone the other day, but they just laughed at me, so i felt unable to tell anyone else. until now...there is a sight i can vent..thank-you((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54211.html](http://www.nuforc.org/webreports/reports/054/S54211.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Orange (TX) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Fire and fast moving object in the sky.I was driving near the intersection of Texas Hwy 1130 and 3247 in Orange, TX facing west when this event occured. The object to the far right in the picture showed first. The brightness of it is what got my attention. That spot appeared followed by two more bright white objects in rapid succession. Grabbed my camera and took 4 shots. The sequence of events was from right to left. That was it at the time; they seemed to be dissipating so I drove on. A few days later I downloaded the picture and found when I blew up the 1st two pictures it appears to be fire in the sky with a diamond shape object (the first one to appear) in the cloud to the right and the smaller object (last object) disappearing to the left. The last two shots when blown-up look like smoke rings where in the shots just seconds before appeared fire.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45187.html](http://www.nuforc.org/webreports/reports/045/S45187.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1172](http://www.nuforc.org/webreports/reports/164/S164123.html)
-- [1171](http://www.nuforc.org/webreports/reports/164/S164079.html)
-- [1170](http://www.nuforc.org/webreports/reports/164/S164662.html)
-- [1169](http://www.nuforc.org/webreports/reports/164/S164054.html)
-- [1168](http://www.nuforc.org/webreports/reports/164/S164095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
