@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:34 on 15 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:01:09 on 15 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Wheaton (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>2 White circles playing with each otherAlrighty, we were in my buddies back yard where we usually relax on summer nights, and it just so happened one of my friends and I were rocking on one of those rocking chair thingys. Well anyways, i looked towards the South in the sky, and saw 2, what i thought to be stars. Except they were bobbling way to much, and were far too close to be stars. The white circles spun in small circles while bobbling, and got real close to each toehr, almost touching, and then backing to their original position. I have no clue what this was, but it gave me goosebumps, and it was very strange. I continually look into the sky all the time now, for UFOs((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48085.html](http://www.nuforc.org/webreports/reports/048/S48085.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Spokane (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Driving on interstate 90 going east towards Post Falls, Idaho a huge disc shaped object of many changing colors seen over Stateline,  Idaho area.  Pulled off freeway for a while to look at huge object at fixed location in sky.Wasn't moving as a plane would be, and didn't appear to be very high up in sky.  I finally drove on after looking at this object for what seemed like a very long time.  Looked like colors were changing, or the object was rotating in fixed position.  I would guess object was only 1000 feet high over area it was hovering.  There had to be other people who saw this,  as it was hovering over a residential  area,  I believe.  Very striking sighting and has puzzled me ever since- my only sighting as far as I know.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36200.html](http://www.nuforc.org/webreports/reports/036/S36200.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1172](http://www.nuforc.org/webreports/reports/164/S164123.html)
-- [1171](http://www.nuforc.org/webreports/reports/164/S164079.html)
-- [1170](http://www.nuforc.org/webreports/reports/164/S164662.html)
-- [1169](http://www.nuforc.org/webreports/reports/164/S164054.html)
-- [1168](http://www.nuforc.org/webreports/reports/164/S164095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
