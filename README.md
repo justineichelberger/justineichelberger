@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:46 on 16 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:45 on 16 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 00:05 - 00:05 minutes.</sub><blockquote><sub>It was triangular with three large circular lights one in each corner, and a smaller red light in the center the object was dark colored and had raised features each of the three sides may have been about 60 to 80 yards.  I'm submitting a photo that I found online of the exact object in detail.((NUFORC Note:  We spoke via telephone with the source of the report, and he sounded to us to be sincere and serious-minded.  We suspect that he is a highly reliable witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131611.html](http://www.nuforc.org/webreports/reports/131/S131611.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Plymouth (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Quiet, low-flying triangle shaped, with red and white lights.On July 16, 2010, at approximately  2:45 am, my sister and I went outside while she smoked a cigarette.  While talking, we noticed something in the sky that did not look like a plane.  As it flew closer, we noticed the shape of the object and that it was extremely  quiet.  It didn’t make a sound at all and was flying so low that we thought it was going to hit our house.   It was a triangle shape and had a few lights on it.  A white light and two red slow blinking lights. Shortly after this flew out of sight, we noticed another one of these aircrafts flying towards us.  It looked exactly like the other one with all the same descriptions as the last one.  I definitely believed in UFO’s before this experience and now I REALLY truly believe there is something out there.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76689.html](http://www.nuforc.org/webreports/reports/076/S76689.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164194.html)
-- [388](http://www.nuforc.org/webreports/reports/164/S164144.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164093.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164089.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157863.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
