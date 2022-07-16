@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:06:27 on 16 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:01:54 on 16 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Oakwood (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Bright red object drifts slowly an then fades outAprox. 1 mile south of Oakwood, TX off of FM 542, looking south from a stationary vehicle, my friend and I observed an interesting object. About 15 degrees above the horizon a very noticeable deep reddish orange light with a diffuse haze around it approximately 3 times brighter than Venus (which was visible in the southeastern sky at the time)was moving slowly in a western direction. Motion was determined as this object was drifting slowly in relation to the rest of the star field nearby. Object was viewed for about 20 seconds then it slowly began to fade out over a time frame of about 5 seconds. The brightness, hue and motion of this object preclude it from being a satellite or meteor. Object could not have been an aircraft either, as 2 planes were seen in the area about a minute after the object disappeared and had a vastly different appearance than the unknown object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71140.html](http://www.nuforc.org/webreports/reports/071/S71140.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Upminster (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Light flashing then a number of smaller light around it flying around the original pointIts was 10 at night I took the dog for a walk and I had seen a very bright light in the sky flashing a number of times then the light went out. I went inside and then come back out to check and I see a number of lights whiz across the sky at very very high speeds.  I tried to video but the camera quality is poor. It all happened from the origonal point of the flashing whizzing lights in all directions.  I'm not stupid or under the influence or anything at the time and I couldent explain it. I went inside and called for my brother who then come out and verified what I saw.  I then called for my mother who also verified what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101355.html](http://www.nuforc.org/webreports/reports/101/S101355.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164194.html)
-- [388](http://www.nuforc.org/webreports/reports/164/S164144.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164093.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164089.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157863.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
