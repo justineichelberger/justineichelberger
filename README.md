@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:33 on 16 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:43 on 16 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Carter Lake (IA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>One brilliantly illuminating ball of light that float over our heads and shorty afterwards, vanished before our eyes.On July 16, 2010, a few of my co-workers and I had just gone to lunch break at 22:00.  Down the street from where I work is a gas station/Subway and that particular night I bought my friend lunch.  We had just returned to the parking lot, we got out and my friend dropped the rear gate on the truck and we sat there to eat our lunch.  I was sitting there looking up at the Little Dipper constellation. We started talking about dreams that we’ve remembered or that had made a strong impression.  Right after I took a second bite of my sandwich, we all noticed it.Right above us, approximately 250 to 300 feet was this extremely bright object, spherical in shape. It was about the size of a soccer ball, as far I could tell.  I immediately called out to the others behind me. The object seemed to just float and was moving south east, but as it did so, it slowly zigzagged and even paused a couple times.  I observed this object for no more than 5 minutes, when suddenly it stopped moved moving.  It rotated and as it did so the light was turned off. It almost seemed like it had a shudder that rotated over the light. But just as the light went out, the object vanished right before our very eyes.The four of us just stood there staring up at the sky in awe of what we had just witnessed.  The others tried to come up with some logical explanation as to what it was. I knew right away, that whatever it was, it was not made by humans.  One person said “maybe it was helicopter.” 	In 2000, shortly after I graduated, I joined the U.S. Army.  I went into the infantry and for the next three years of my life (2000-2003) I served as a parachute infantryman in the 1/501st Parachute Infantry Battalion, B co. I’ve been around quite a few aircraft, many different models both civilian and military.  So when I heard “it could have been a helicopter.” I stated “if that were a helicopter, why did it not make a sound?”  This thing was absolutely silent as it flew.  But mostly, what vehicles do you know of, that have the ability to just vanish before your very eyes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77273.html](http://www.nuforc.org/webreports/reports/077/S77273.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Carson City (NV) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I was sitting outside, looking toward the mountains, Carson in almost 5k ft, Mts. 7k to 8k, object appeared and shot off in a straight line and than disappeared.As I said above I was sitting outside it was late 23:00 to 24:00. I was looking up toward the mountains and light blue/white sphere just appeared, it looked like it was going in a NE to SW direction parallel to the mountain. Almost thought it was shooting Star, but it slowed down and than shot off and disappeared. I know it was not a plane because a big jet was flying over the mountain at the same time. The only reason I am reporting now because it was being talked about on Art Bell last night 09/23/98. Just thought you would like to know, thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03922.html](http://www.nuforc.org/webreports/reports/003/S03922.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164194.html)
-- [388](http://www.nuforc.org/webreports/reports/164/S164144.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164093.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164089.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157863.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
