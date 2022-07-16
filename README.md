@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:40 on 16 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:44 on 16 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Matthews (NC) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Hovering line of lights in formation.At 9:10PM on July 16th of 2014, a son, his mother, and fiancé sat down to eat a quiet dinner in their suburban home.  Approximately five minutes later, his fiancé heard a faint sound and asked what it was.  They muted the TV and everyone stopped in their tracks.  The two family dogs had their ears perked up and  started growling.  He went outside and not a moment sooner he came rushing in frantically telling them to come outside.	It was reaching dusk and as they went outside in the middle of the street they looked in the sky and instantly brought out their phones to capture a once in a lifetime moment.  In the sky, six to eight lights were blinking randomly in a straight line over their street.  The lights never moved, staying over the small suburban neighborhood hovering.  His mother was quick to point out that whatever was in the sky had blocked the clouds near it.  A few seconds later a small airplane was taking flight and was headed in their direction.	The plane went under the unidentifiable flying object missing it.  At around 9:25PM the object had flown west and never seen after that.  The family stayed outside after to try and see if it would come back and to further study the formations of the stars.  Three bright stars were in the formation of a large triangle, but later became unidentifiable because of neighboring stars during the night.  Whatever it was never came back, but it sure was one scary yet exciting experience.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111635.html](http://www.nuforc.org/webreports/reports/111/S111635.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Zebulon (GA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Series of lights moving in a straight line across the sky.There were 6 equally spaced lights flashing in sequence in the southern sky.  At a glance they appeared to be stars until further examination showed them to be flashing in sequence and in a straight line.  They covered an area (depending on their distance away) of 2 miles to 50 mi.  We heard no sound and then they moved slowly from east to west.   We observed this for about ten minutes.I questioned others who live south of us and no one had heard any helicopters or anything else around this time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111657.html](http://www.nuforc.org/webreports/reports/111/S111657.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164194.html)
-- [388](http://www.nuforc.org/webreports/reports/164/S164144.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164093.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164089.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157863.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
