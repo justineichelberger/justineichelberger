@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:41:21 on 16 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:27:31 on 16 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Mount Gilead (NC) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Loud humming with flashing lightsHeard a loud humming that varied from low to high in bass sounds...looked up and seen a cigar shaped craft with 4-5 pulsing lights</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111824.html](http://www.nuforc.org/webreports/reports/111/S111824.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Nanaimo (Canada) (BC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright orange... thought it was the space station... drifted east and then dipped a bit south and flickered... no jet noise, faded out and disappeared</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157671.html](http://www.nuforc.org/webreports/reports/157/S157671.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164194.html)
-- [388](http://www.nuforc.org/webreports/reports/164/S164144.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164093.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164089.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157863.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
