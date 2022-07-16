@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:59 on 16 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:41:21 on 16 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Schaumburg area (IL) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Vertical rotating rectangle in sky over ChicagoIn relation to the 2006 Schaumburg, IL sightings, I am quite stunned because I thinkI saw the same aerial phenomenon the following July.I was leaving a tradeshow in Chicago in a cab with maybe four other people and a driver. I was next to the driver taking the highway from downtown Chicago to the O’Hare Airport. It was around 5:00 PM, and everyone who was in the cab with me was, like myself, tired and relatively quiet. We had just finished taking our booths down and mostly wanted to just go home to our own cities.I sat in the front passenger seat (we crammed in and split the fare to the airport… very economical…..) and just watched local traffic when off to the north, which was to my right, I spotted something hovering in the sky.  The object may well have been moving slowly or even stationary, and was clearly rotating very slowly, and after a few minutes of mentally triangulating (admittedly not terribly accurate…) I gathered it was approx. one to two miles away, located probably a thousand or so feet in the air, and was solid and dark.The sky was blue and calm, with only occasional clouds. Periodically planes could be seen flying, and they were very easy to identify. There was no sign of a balloon supporting this object, nor of a plane pulling it, or for that matter a pole holding it up.The very curious aspect to me was that the three or four times that it completed a rotation it would be so thin as the edge appeared that it would actually disappear, and then the other side would become visible. It would be like holding up a rectangular piece of cardboard in landscape orientation, but vertical, and rotating it counter-clock-wise. The rectangle had to be at least a few hundred feet long and maybe a hundred feet high, with almost no thickness.After seven or eight minutes I remembered I had a digital camera with me and I fished it out of my briefcase. I took a few seconds of video (I accidentally clicked “off” too soon and didn’t realize it…) and the object appears there, but very distant and not clear enough to make any useful analysis of. All it does is confirm to myself that I actually saw something.At this point the driver asked me what I had been looking at and I told him and the other passengers, but no one else had seen it, and by this point it had faded below the line of site of the buildings and trees.For my own experience I can't believe I was so ill-prepared to think to grab the camera when there was a much better shot of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68578.html](http://www.nuforc.org/webreports/reports/068/S68578.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Mount Gilead (NC) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Loud humming with flashing lightsHeard a loud humming that varied from low to high in bass sounds...looked up and seen a cigar shaped craft with 4-5 pulsing lights</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111824.html](http://www.nuforc.org/webreports/reports/111/S111824.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164194.html)
-- [388](http://www.nuforc.org/webreports/reports/164/S164144.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164093.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164089.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157863.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
