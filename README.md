@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:42 on 16 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:34 on 16 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Ft. Pierce (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>A  hovering, blueish light falls from the early morning sky like a meteor, before disappearing.In Ft. Pierce, Summer, July ? 2015.  Early morning, around 2:30am or 3:00am.  I was facing EAST.  I turned my head to the south looked up in the sky, I saw a greenish or blueish light in the sky.  This light then started to fall QUICKLY like a meteor.  Then DISAPPEARED before reaching the horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121018.html](http://www.nuforc.org/webreports/reports/121/S121018.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Fullerton (CA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Black chevron shaped object seen over Fullerton Ca., travelling in a N/E direction, very slowly.  It would stop completely at times.My cousin and I were sitting out in the front yard of my mother's residence when he suddenly asked to look to the south and up into the sky.When I did, I saw what appeared to be a black, chevron shaped object slowly moving in a north easterly direction.  It was just below the cloud cover so I estimated that it was approximately around 20,000 feet and about 5-10 miles from us.  I retrieved a pair of binoculors from my truck and focused in on the object.  It was still moving in the same direction and I noted that it was occasionally stopping and turning from side to side.  It was a solid object, no portals could be seen and it was a dark grayish black.  It's body was solid and it was completely flat surfaced.  It continued in a N/E direction and was almost upon us, still about 20-25 thousand feet and suddenly it disappeared into the clouds.  A neighbor who lives across the street also witnessed the object both with his naked eye and with use of my binoculars.  There was no sound from the object whatsoever.  The neighbors age is around 71 years old.  I am 60 years old and my cousin in 40 years old.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45274.html](http://www.nuforc.org/webreports/reports/045/S45274.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164194.html)
-- [388](http://www.nuforc.org/webreports/reports/164/S164144.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164093.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164089.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157863.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
