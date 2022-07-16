@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:43 on 16 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:31 on 16 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Carson City (NV) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I was sitting outside, looking toward the mountains, Carson in almost 5k ft, Mts. 7k to 8k, object appeared and shot off in a straight line and than disappeared.As I said above I was sitting outside it was late 23:00 to 24:00. I was looking up toward the mountains and light blue/white sphere just appeared, it looked like it was going in a NE to SW direction parallel to the mountain. Almost thought it was shooting Star, but it slowed down and than shot off and disappeared. I know it was not a plane because a big jet was flying over the mountain at the same time. The only reason I am reporting now because it was being talked about on Art Bell last night 09/23/98. Just thought you would like to know, thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03922.html](http://www.nuforc.org/webreports/reports/003/S03922.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Manzanita (OR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright orange globe light over Oregon Coast7-16-11  At approximately  10:30pm, 7-16-11, we approached  the Oregon Coastline south of Cannon Beach, OR.  We came around a curve and between the trees saw a very bright, orange globe of light.Originally we suspected it was street light shining through the tree limbs.  As we came to the street which parallels the coast, we stopped to examine the light. It appeared to be low to the ground, hovering over the water, but with no sound.  We watched for probably about one minute and it seemed to lift back into the sky, westward, without a sound.The orange light appeared to change to more of a white as it vanished into the night sky.7-17-11 9:30pm, 7-17-11.  From the deck we again saw the same type of orange light in the sky. It went up into the sky and then lower towards the ground.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82569.html](http://www.nuforc.org/webreports/reports/082/S82569.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164194.html)
-- [388](http://www.nuforc.org/webreports/reports/164/S164144.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164093.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164089.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157863.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
