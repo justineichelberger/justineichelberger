@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:01:54 on 16 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:31 on 16 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Upminster (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Light flashing then a number of smaller light around it flying around the original pointIts was 10 at night I took the dog for a walk and I had seen a very bright light in the sky flashing a number of times then the light went out. I went inside and then come back out to check and I see a number of lights whiz across the sky at very very high speeds.  I tried to video but the camera quality is poor. It all happened from the origonal point of the flashing whizzing lights in all directions.  I'm not stupid or under the influence or anything at the time and I couldent explain it. I went inside and called for my brother who then come out and verified what I saw.  I then called for my mother who also verified what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101355.html](http://www.nuforc.org/webreports/reports/101/S101355.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Van Nuys (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 240.0 - 240.0 minutes.</sub><blockquote><sub>hovering lights flickering in the sky at tree level moving fast from left to right some landed others flew above usflickering lights were seen from the doorway of the house and as we walked along our front yard we saw many strange trianguler formed lights in the sky there was a significant difference between the stars the planes and the helicopters in the sky as we continued to watch these lights they seemed to move from left to right and hover above the sky.we stood watching closely as we noticed one of the figures rapidly moving downwards toward us.We watched in horror as it flew over our heads and we clearly saw it was no plane or any other normal flying craft.it had three bright rotating lights under it and moved faster than a regular flying aircraft as it flew above us it quickly disappeared.it lasted all night and there were many of them in the sky going up and down or left to right few actually lowered close enough to the earth that seemed to actually land.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51413.html](http://www.nuforc.org/webreports/reports/051/S51413.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164194.html)
-- [388](http://www.nuforc.org/webreports/reports/164/S164144.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164093.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164089.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157863.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
