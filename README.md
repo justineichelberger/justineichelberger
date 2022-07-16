@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:27:31 on 16 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:06:27 on 16 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Nanaimo (Canada) (BC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright orange... thought it was the space station... drifted east and then dipped a bit south and flickered... no jet noise, faded out and disappeared</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157671.html](http://www.nuforc.org/webreports/reports/157/S157671.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Oakwood (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Bright red object drifts slowly an then fades outAprox. 1 mile south of Oakwood, TX off of FM 542, looking south from a stationary vehicle, my friend and I observed an interesting object. About 15 degrees above the horizon a very noticeable deep reddish orange light with a diffuse haze around it approximately 3 times brighter than Venus (which was visible in the southeastern sky at the time)was moving slowly in a western direction. Motion was determined as this object was drifting slowly in relation to the rest of the star field nearby. Object was viewed for about 20 seconds then it slowly began to fade out over a time frame of about 5 seconds. The brightness, hue and motion of this object preclude it from being a satellite or meteor. Object could not have been an aircraft either, as 2 planes were seen in the area about a minute after the object disappeared and had a vastly different appearance than the unknown object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71140.html](http://www.nuforc.org/webreports/reports/071/S71140.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164194.html)
-- [388](http://www.nuforc.org/webreports/reports/164/S164144.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164093.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164089.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157863.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
