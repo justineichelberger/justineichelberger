@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:31 on 16 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:59 on 16 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Manzanita (OR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright orange globe light over Oregon Coast7-16-11  At approximately  10:30pm, 7-16-11, we approached  the Oregon Coastline south of Cannon Beach, OR.  We came around a curve and between the trees saw a very bright, orange globe of light.Originally we suspected it was street light shining through the tree limbs.  As we came to the street which parallels the coast, we stopped to examine the light. It appeared to be low to the ground, hovering over the water, but with no sound.  We watched for probably about one minute and it seemed to lift back into the sky, westward, without a sound.The orange light appeared to change to more of a white as it vanished into the night sky.7-17-11 9:30pm, 7-17-11.  From the deck we again saw the same type of orange light in the sky. It went up into the sky and then lower towards the ground.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82569.html](http://www.nuforc.org/webreports/reports/082/S82569.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Methuen (MA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Two white cigar shaped ufos cross over methuenMe and by boyfriend, who had come back to my hometown from college, were going out for ice cream, when we saw two bright white cigar shaped objects hovering around each other, going from the southern horizon to the northern horizon, ducking behind clouds.  This is like the fifth time I'm filling out this report because my phone keeps shutting off whenever I finish writing the report (coincidence? Maybe)  After we noticed the strange flying objects and they had gone, we saw two grey small planes flying around the area.  A few years ago I saw about thirty of the same exact ufos going the same way a few at a time ducking behind clouds.  This is why I noticed them and knew what they were so abruptly.  The first time I saw them, about ten others in my neighborhood did, as well.  (flying from Lowell street in Methuen to Forest Street/the Methuen water tower)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135192.html](http://www.nuforc.org/webreports/reports/135/S135192.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164194.html)
-- [388](http://www.nuforc.org/webreports/reports/164/S164144.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164093.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164089.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157863.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
