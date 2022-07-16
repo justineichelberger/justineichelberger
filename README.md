@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:41 on 16 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:40 on 16 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Homestead (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Silent Ball of Light going at fast speeds.It was 5:40 AM Friday I was on my way to the car, to head to work. I went to the back area of my house and then saw the ball of light flying south, I noticed it made no sound and there was no indication of flashing light from a plane or helicopter. I ran inside and told my father to look at the object, it flew pretty close to my area at pretty fast speeds he shrugged it off as a satellite but it looked too close to the ground to be a satellite. There is the Homestead Air Reserve Base nearby so I thought it could be a military plane but the object kept flying south, also planes fly in the outskirts of my town in both flight patterns south or north depending on the wind direction but fly rarely above residential areas.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164089.html](http://www.nuforc.org/webreports/reports/164/S164089.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>roof-top UFO sightingwas on the roof of my building and was looking at the sky in the east (towards atlantic ocean) when i saw what i thought was a satellite,i know what they look like and how they move, this was NO SATELLITE. i watched the thing for about 10 seconds getting closer overhead. it was heading in a northwest direction(towards manhattan). then the thing stops in mid air, pauses for a second then takes off in the other direction, back towards the ocean. also noticed it changed color from white, to light blue.the color change could have been the atmosphere as it is very humid out tonight. 85 F. moved slow at first, after it stopped , it took off at a high speed. im just wondering if anyone elce saw this thing. i also live in busy airspace i can see out going and incoming air traffic from JFK ,LaGurdia, and Newark airports. this was way to high and not behaving like the usual air traffic.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51381.html](http://www.nuforc.org/webreports/reports/051/S51381.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164194.html)
-- [388](http://www.nuforc.org/webreports/reports/164/S164144.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164093.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164089.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157863.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
