@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:59 on 16 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:45 on 16 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Methuen (MA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Two white cigar shaped ufos cross over methuenMe and by boyfriend, who had come back to my hometown from college, were going out for ice cream, when we saw two bright white cigar shaped objects hovering around each other, going from the southern horizon to the northern horizon, ducking behind clouds.  This is like the fifth time I'm filling out this report because my phone keeps shutting off whenever I finish writing the report (coincidence? Maybe)  After we noticed the strange flying objects and they had gone, we saw two grey small planes flying around the area.  A few years ago I saw about thirty of the same exact ufos going the same way a few at a time ducking behind clouds.  This is why I noticed them and knew what they were so abruptly.  The first time I saw them, about ten others in my neighborhood did, as well.  (flying from Lowell street in Methuen to Forest Street/the Methuen water tower)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135192.html](http://www.nuforc.org/webreports/reports/135/S135192.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Van Nuys (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 240.0 - 240.0 minutes.</sub><blockquote><sub>hovering lights flickering in the sky at tree level moving fast from left to right some landed others flew above usflickering lights were seen from the doorway of the house and as we walked along our front yard we saw many strange trianguler formed lights in the sky there was a significant difference between the stars the planes and the helicopters in the sky as we continued to watch these lights they seemed to move from left to right and hover above the sky.we stood watching closely as we noticed one of the figures rapidly moving downwards toward us.We watched in horror as it flew over our heads and we clearly saw it was no plane or any other normal flying craft.it had three bright rotating lights under it and moved faster than a regular flying aircraft as it flew above us it quickly disappeared.it lasted all night and there were many of them in the sky going up and down or left to right few actually lowered close enough to the earth that seemed to actually land.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51413.html](http://www.nuforc.org/webreports/reports/051/S51413.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164194.html)
-- [388](http://www.nuforc.org/webreports/reports/164/S164144.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164093.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164089.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157863.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
