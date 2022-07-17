@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:06:36 on 17 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:33 on 17 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Fort Irwin (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Small orange triangle making impossible high speed maneuversAs written by my son who was the witness of this incident.At approximately 0145 the morning of July 17, 2007, I witnessed an  object traveling at great speed move west to east across the nights sky.This object would then come to a complete stop without slowing down,  turn 90 degrees, and move north to south at a slow speed. The object would  pick up speed, and then would start making very tight, perfect spirals  while traveling very fast. In the center of the spiral, this object  came to a complete stop again, turned 90 degrees, and then head east to  west at a slow speed, then disappeared. It did this a few times while I  observed this object for about 4 minutes.The object was made up of three orange lights that formed a small  triangle. The maneuvers I witnessed were things that I have never seen  before. The high rate of speed, the sudden complete stops, the 90 degree  turns, and the tight, perfect spirals led me to believe that what I saw  was a UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58067.html](http://www.nuforc.org/webreports/reports/058/S58067.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Boone (IA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>flying obects in ia skymy family and i were driving one day in des moines ia on i 30 and saw i huge black line in the sky and as it was fading away an airplane soon followed suite im guessing to say "oh that was just an air plane..." if anyone reported it which i would say someone would have because it wasnt at all a cloud it was a huge straight black line not a cloud. Then about a week later my family and i were walking nearing when our sun was setting there were no stars out yet but  my family and i love the sky and were admiring the clouds and sun when we see a moving object just gradully moving along the sky it slows down the stops moving my husband and i are saying omg ! its to far away to see the shape of it though but i do not think there is flying objects humans have ccreated that can just stop then it is going moving faster now then simply fades away no where near our horizon 2 weeks later which would be today i see the samething around 2 30 pm on my way home from work th! en after i take my son to eat dinner we play outside its roughly 8pm and i see 5 more objects that move slowly dont create plumes behind it if thats what it is called this objects can stop speed up and move backwards as i figured out today 2 of them that were going the same directon today were closer (finally!!!) so i got to see a shape there smaller in front the back is bigger there are no wings and seem to be reflecting the suns light so no diffent color but looks silver and they all just fade away not towards the horizon and not behind clouds i just would like to know whats going on in the skys i dont believe the goverment should have a say in what mankind gets to know and for us normal humins that want to live in peace and just want to celebrate life with other living things its not fair to hold that information away from us</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76613.html](http://www.nuforc.org/webreports/reports/076/S76613.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164083.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164175.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164084.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164223.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164148.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
