@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:44 on 16 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:40 on 17 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Zebulon (GA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Series of lights moving in a straight line across the sky.There were 6 equally spaced lights flashing in sequence in the southern sky.  At a glance they appeared to be stars until further examination showed them to be flashing in sequence and in a straight line.  They covered an area (depending on their distance away) of 2 miles to 50 mi.  We heard no sound and then they moved slowly from east to west.   We observed this for about ten minutes.I questioned others who live south of us and no one had heard any helicopters or anything else around this time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111657.html](http://www.nuforc.org/webreports/reports/111/S111657.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Huntington Beach (CA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Still diamond shape craft in So. Cal. northern sky.Me and my mom were saying good-bye to a friend at around 9:45 at night.When I go out at night I always look up in the sky to see if I can see any stars or planets. That is kind of hard when you live pretty close to Los Angeles.On this night my mom and I looked up into the sky and saw a dimond shaped craft that was brighter than a star and not as bright as a planet. It was not moving and I am positive that it was not an air plane or helicopter because of the lack of noise. Me and my mom watched it for a few  minutes and then we went in. I looked out again at ten o'clock and it was still there.It also hadn't moved an inch from where it had been before. Then by chance I looked out the window into the Northern sky where it had always been. I was going to go to sleep so I just looked for a couple of seconds and when I was looking it suddenly vanished and I have never seen it again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18736.html](http://www.nuforc.org/webreports/reports/018/S18736.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164194.html)
-- [388](http://www.nuforc.org/webreports/reports/164/S164144.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164093.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164089.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157863.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
