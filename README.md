@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:31 on 17 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:02:12 on 17 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Washington, D.C. (DC) reported seeing craft that fit the description of some 'Flash' over a period of approximately Split second - Split second minutes.</sub><blockquote><sub>Bright flash of light exploding off the horizon into space - Washington, DCTraveling south down 13th Street NW in Washington DC (a few blocks north of U street), I saw a an amazing flash of white light explode off the ground from the horizon upwards into the air/space and disapear. The entire affair lasted about 1/4 of a second but I am confident I saw something - what it is that I saw, I have no idea.  I am confident it was not some reflection off of the car window. The size of the flash was quite narrow - if I had to guess the distance, it would be five to ten miles away from where we were driving. The size of the flash might be the equivilant of a nail in the wall viewed from five feet away. I was traveling in the passenger's seat and the driver unfortunatly did not see the flash.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38188.html](http://www.nuforc.org/webreports/reports/038/S38188.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Little Rock (AR) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Flying Giant Red Ball of Light.Walking home last night from my job in the SOMA district, the moon was big, bright and beautiful.  Zipping back and forth past the moonscape appeared what I believe was a helicopter.  It seemed to be following this gigantic bright red ball of light.  At first sight, I thought it was a planet, like Venus, or even a traffic light.  Oddly enough, the ball of light’s starting position was to the west side of the moon and gradually moved to the east side and then back again.  Maybe there’s an obvious and logical explanation for this phenomenon, but for the life of me, I could not think of one.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147644.html](http://www.nuforc.org/webreports/reports/147/S147644.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164083.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164175.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164084.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164223.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164148.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
