@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:38 on 17 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:48:53 on 17 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Indio (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>IT FIRST SEEM LIKE A DYING STAR FLASHING ..IT WOULD DIM THEN BRIGHTEN THEN IT STARTED MOVING UP DOWN IN A CIRCLE IT WOULD GO FRONTWARD THEN GO BACK JUST AS FAST AS IT WOULD TO THE FRONT DIAGNOL IT THEN WENT DOWN UNDER THE MOUNTAIN LINE THEN A SECOND ONE APPEARD BUT FOR LIKE A MIN   IT ALSO WAS IDENTICAL TO THE FIRST ONE AND THEY ALSO HAD THIS WEIRD LIGHT BRIGHT LIGHT THAT MADE IT SEEM LIKE IF THE CRAFT WAS SPINNING  ALMOST LIKE A BEACON LIGHT SIMILAR BUT NO QUITE IT</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82579.html](http://www.nuforc.org/webreports/reports/082/S82579.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in New Richmond (WI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Dark sphere seen in twilight sky with amber light on the bottom.At approximately 21:00 hours 2 Black/dark colored spheres seen aloft.  The objects had amber light on the bottom.  Wind was out of the south west, the objects were moving south south-west slowly.  Near the end of the sighting, the lights extinguished, and the speres slowly moved out of sight.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90956.html](http://www.nuforc.org/webreports/reports/090/S90956.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164083.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164175.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164084.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164223.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164148.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
