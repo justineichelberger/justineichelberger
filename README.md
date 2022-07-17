@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:39 on 17 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:32 on 17 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1:00-3:00am - 1:00-3:00am minutes.</sub><blockquote><sub>looking due east at !0 high bright round object bouncing about the clear skies from 2:am-5:amwe are standing in our parking lot at 10302 e brown road due east looking up at about 10:00 with the four of us and a movie camera.we are looking at a round object very big and very bright at about 2:00am and this object seems to be bouncing around the sky can you explain maybe a star or a planet?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38167.html](http://www.nuforc.org/webreports/reports/038/S38167.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Three Rivers (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 270.0 - 270.0 minutes.</sub><blockquote><sub>On the night of June 16, I watched and recorded a UFO (for 4.5 hours) in the skies over the Giant Sequoia National Forrest.On the evening of July 16, 2010, I witnessed an Unidentified Flying Object over the Giant Sequoia Forrest in the Southern Sierra Nevada Mountains.  The object resembled a star, although this particular light was twice as bright as any star in the sky, and the light emitted was not consistent with the other stars in the sky.  The object began to move in various directions (upward, free-fall, diagonal, side to side on a perfectly level plane.)   The craft also had the ability to stop and remain perfectly still in the sky.The craft moved through the sky coming very close to my position.  Throughout the evening I recorded the craft with my iPhone video camera.  While the details of the videos are not recognizable, the movements and lights from the craft are visible on my footage.  To my knowledge, there is no current man-made craft capable of maneuvering like the craft I watched.  What I saw is unlike anything that I have ever experienced in my life.((NUFORC Note:  Venus or Jupiter?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76630.html](http://www.nuforc.org/webreports/reports/076/S76630.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164083.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164175.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164084.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164223.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164148.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
