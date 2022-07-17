@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:40 on 17 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:38 on 17 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Huntington Beach (CA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Still diamond shape craft in So. Cal. northern sky.Me and my mom were saying good-bye to a friend at around 9:45 at night.When I go out at night I always look up in the sky to see if I can see any stars or planets. That is kind of hard when you live pretty close to Los Angeles.On this night my mom and I looked up into the sky and saw a dimond shaped craft that was brighter than a star and not as bright as a planet. It was not moving and I am positive that it was not an air plane or helicopter because of the lack of noise. Me and my mom watched it for a few  minutes and then we went in. I looked out again at ten o'clock and it was still there.It also hadn't moved an inch from where it had been before. Then by chance I looked out the window into the Northern sky where it had always been. I was going to go to sleep so I just looked for a couple of seconds and when I was looking it suddenly vanished and I have never seen it again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18736.html](http://www.nuforc.org/webreports/reports/018/S18736.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Indio (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>IT FIRST SEEM LIKE A DYING STAR FLASHING ..IT WOULD DIM THEN BRIGHTEN THEN IT STARTED MOVING UP DOWN IN A CIRCLE IT WOULD GO FRONTWARD THEN GO BACK JUST AS FAST AS IT WOULD TO THE FRONT DIAGNOL IT THEN WENT DOWN UNDER THE MOUNTAIN LINE THEN A SECOND ONE APPEARD BUT FOR LIKE A MIN   IT ALSO WAS IDENTICAL TO THE FIRST ONE AND THEY ALSO HAD THIS WEIRD LIGHT BRIGHT LIGHT THAT MADE IT SEEM LIKE IF THE CRAFT WAS SPINNING  ALMOST LIKE A BEACON LIGHT SIMILAR BUT NO QUITE IT</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82579.html](http://www.nuforc.org/webreports/reports/082/S82579.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164083.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164175.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164084.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164223.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164148.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
