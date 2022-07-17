@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:42 on 17 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:53 on 17 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in West Jordan (UT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>12-15 Orbs in the sky just before a small stormI was not feeling good, so I had been laying down and listening to a storm coming in over the mountains. I got up and went to my deck door to see the cat and look up at the storm clouds coming in. There was a really dark huge cloud about 75-80 degrees up from my view. I noticed some silvery white orbs things moving around, and at first I thought they were seagulls. As I watched and looked closer there were no wings. There were about 12-15 of them moving around (even thought there was a storm, there was no wind). I looked at the trees to see if they were moving at all and the leaves were not moving. It was a slow moving storm. But the things I saw were moving as if they were floating around dodging each other. Then a few went into the high dark cloud and then the rest did. I watched for 10 more minutes but nothing ever came out. It's like they all disappeared into the cloud. It was strange and I didn't tell my husband who was downstairs painting. I was going to yell for him but he wouldn't have heard me. And I didn't want to leave and miss out on what I was watching.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57713.html](http://www.nuforc.org/webreports/reports/057/S57713.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Kocevje (Russia) () reported seeing craft that fit the description of some 'Egg' over a period of approximately  -  minutes.</sub><blockquote><sub>Hello. me with my father hade direct contact with them.  they research us.  we had 3.3mm micro chip from them under the skin.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138691.html](http://www.nuforc.org/webreports/reports/138/S138691.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164083.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164175.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164084.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164223.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164148.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
