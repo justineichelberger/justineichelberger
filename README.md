@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:32 on 17 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:38 on 17 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Three Rivers (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 270.0 - 270.0 minutes.</sub><blockquote><sub>On the night of June 16, I watched and recorded a UFO (for 4.5 hours) in the skies over the Giant Sequoia National Forrest.On the evening of July 16, 2010, I witnessed an Unidentified Flying Object over the Giant Sequoia Forrest in the Southern Sierra Nevada Mountains.  The object resembled a star, although this particular light was twice as bright as any star in the sky, and the light emitted was not consistent with the other stars in the sky.  The object began to move in various directions (upward, free-fall, diagonal, side to side on a perfectly level plane.)   The craft also had the ability to stop and remain perfectly still in the sky.The craft moved through the sky coming very close to my position.  Throughout the evening I recorded the craft with my iPhone video camera.  While the details of the videos are not recognizable, the movements and lights from the craft are visible on my footage.  To my knowledge, there is no current man-made craft capable of maneuvering like the craft I watched.  What I saw is unlike anything that I have ever experienced in my life.((NUFORC Note:  Venus or Jupiter?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76630.html](http://www.nuforc.org/webreports/reports/076/S76630.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in South Nags Head (NC) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Greenish light, in cylindrical shape, moving across night horizon, making erratic maneuvers.We were sitting on the beach enjoying a beach fire and looking out over the ocean.  Across the horizon, from north to south and about 100 ft above the horizon, a bright, almost neon green object, moved across the sky paralell with the ocean.  It looked almost like a cylindrical glow stick.  It moved quite fast along the horizon, made an almost 90 degree upward turn, looped around, aproached the shore, and then zig-zaged out to sea, or into the water.  There was no sound, just bright blinking light and quick movement.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90933.html](http://www.nuforc.org/webreports/reports/090/S90933.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164083.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164175.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164084.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164223.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164148.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
