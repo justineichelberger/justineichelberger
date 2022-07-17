@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:50 on 17 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:37 on 17 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Asheville (NC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>I saw a round sphere pop out of a low lying cloud then slightly adjust direction and go back into the cloud.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147661.html](http://www.nuforc.org/webreports/reports/147/S147661.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Menomonee Falls (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Pulsing light near comet NeowiseOn the evening of July, 17th around 10pm I was outside my house observing comet Neowise with binoculars as well as taking photos with my phone’s camera.  The comet was north-northwest of my position and about 10 degrees above the horizon, slightly to the north of the big dipper, which was roughly 25-35 degrees above the horizon.  The sky was cloudless and very clear.At approximately 10:15pm I observed a pinpoint light moving from the horizon, just west of the comet, towards the bowl of the big dipper. This light was white/yellow and brighter than the background stars. To the naked eye it appeared to be slowly pulsing, or varying in brightness. It also was not travelling in a straight line, it meandered a few degrees to the left and to the right.I used trained the binoculars on it which did not further resolve any features but enhanced the pulsing, giving the impression that perhaps the object was tumbling.When it reached the middle of the bowl of the big dipper it changed directions entirely and started moving due east from my position, parallel to the horizon. My impression was that it was moving at the approximate speed of a plane at distance, or of a satellite, which are often easily observed from my location. I checked my plane tracking app and there were no planes flying in the area. Obviously due to the path of the object I knew it was not an artificial satellite.The object dimmed as it moved east but was still easily visible to the naked eye. Though I was tracking it with binoculars. In several minutes it moved about 30 degrees due east, at which point it came to a complete stop and I observed, through the binoculars, a much dimmer and smaller point of light approach it from the north, moving very rapidly. This second light passed “right” in front of the first object and quickly disappeared, and the first light then proceeded due east. At this point, approximately 10:15-10:20 pm I lost visual entirely due to my tree line.I texted an abbreviated version of the above to my wife who was camping with family 120 miles west of my position. She and another family member has observed the same light move in the same path, including going through the bowl of the big dipper. Meaning that the object must have been at significant altitude, ruling out planes and low earth orbit satellites.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161430.html](http://www.nuforc.org/webreports/reports/161/S161430.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164083.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164175.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164084.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164223.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164148.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
