@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:48:53 on 17 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:30:35 on 17 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in New Richmond (WI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Dark sphere seen in twilight sky with amber light on the bottom.At approximately 21:00 hours 2 Black/dark colored spheres seen aloft.  The objects had amber light on the bottom.  Wind was out of the south west, the objects were moving south south-west slowly.  Near the end of the sighting, the lights extinguished, and the speres slowly moved out of sight.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90956.html](http://www.nuforc.org/webreports/reports/090/S90956.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Apache (OK) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Thought it may have been a satellite  but idk had no flashing lights just looked like 1 or possibly  2 bright lights but it could have been sun reflected also but it traveled  from SE to NW and went out of site not super fast but fast enough to travel across a quarter of my visible  sky but I didn't  notice  till I was looking at what I think is the big dipper to the SE of here anyway it made no sound like an airplane would after passing so idk maybe they are flying space shuttles or something  it may be nothing  serious just seen it and asked my kiddo to come verify it didnt have flashing lights or make sounds</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147635.html](http://www.nuforc.org/webreports/reports/147/S147635.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164083.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164175.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164084.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164223.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164148.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
