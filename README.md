@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:53 on 17 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:06:36 on 17 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Kocevje (Russia) () reported seeing craft that fit the description of some 'Egg' over a period of approximately  -  minutes.</sub><blockquote><sub>Hello. me with my father hade direct contact with them.  they research us.  we had 3.3mm micro chip from them under the skin.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138691.html](http://www.nuforc.org/webreports/reports/138/S138691.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Fort Irwin (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Small orange triangle making impossible high speed maneuversAs written by my son who was the witness of this incident.At approximately 0145 the morning of July 17, 2007, I witnessed an  object traveling at great speed move west to east across the nights sky.This object would then come to a complete stop without slowing down,  turn 90 degrees, and move north to south at a slow speed. The object would  pick up speed, and then would start making very tight, perfect spirals  while traveling very fast. In the center of the spiral, this object  came to a complete stop again, turned 90 degrees, and then head east to  west at a slow speed, then disappeared. It did this a few times while I  observed this object for about 4 minutes.The object was made up of three orange lights that formed a small  triangle. The maneuvers I witnessed were things that I have never seen  before. The high rate of speed, the sudden complete stops, the 90 degree  turns, and the tight, perfect spirals led me to believe that what I saw  was a UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58067.html](http://www.nuforc.org/webreports/reports/058/S58067.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164083.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164175.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164084.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164223.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164148.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
