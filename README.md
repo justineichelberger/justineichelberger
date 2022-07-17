@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:43 on 17 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:31 on 17 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Milford (CT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Saw bright white flash, so thought it was a star, but then it flashed again and I could see it faintly, so I got my phone and took a video of it.  What was really weird was on the video you could hear crickets and frogs clear as day, then when the flash happens, you could hear a strange sound as soon as it flashes it is kinda like a buzzing sound or like an electrical buzzing sound.  AGAIN ONLY WHEN IT FLASHED ITS LIGHT and it was moving very very slow in a zigzag line.?????  I'm stumped because I just don't understand how my phone could pick up sound coming from a light, unless it was some kind of propulsion.  Anybody have an explanation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135778.html](http://www.nuforc.org/webreports/reports/135/S135778.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Washington, D.C. (DC) reported seeing craft that fit the description of some 'Flash' over a period of approximately Split second - Split second minutes.</sub><blockquote><sub>Bright flash of light exploding off the horizon into space - Washington, DCTraveling south down 13th Street NW in Washington DC (a few blocks north of U street), I saw a an amazing flash of white light explode off the ground from the horizon upwards into the air/space and disapear. The entire affair lasted about 1/4 of a second but I am confident I saw something - what it is that I saw, I have no idea.  I am confident it was not some reflection off of the car window. The size of the flash was quite narrow - if I had to guess the distance, it would be five to ten miles away from where we were driving. The size of the flash might be the equivilant of a nail in the wall viewed from five feet away. I was traveling in the passenger's seat and the driver unfortunatly did not see the flash.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38188.html](http://www.nuforc.org/webreports/reports/038/S38188.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164083.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164175.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164084.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164223.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164148.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
