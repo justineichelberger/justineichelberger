@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:43 on 17 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:39 on 17 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Roan Mountain (TN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 17.0 - 17.0 minutes.</sub><blockquote><sub>ufo1.black triangle w/3 white lights on corners no strobe.#2Glassy oval gem w/ all colors purple gold mostly closeMy dog was insisting he had to go outside, since I love my dog and hate to mop I put him on his leash and stepped out with him. in an instant I noticed the stars looked strange overhead and east I saw three triangle shaped stars, suddenly they began to rotate and move east blotting out stars in their path. I yelled out to the wife who was in bed when she didn't come I did a 360 about face and stunned stupid is how I describe my condition as I saw the most beautiful set of colors coming out of a house sized glassy and very flamboyant flying machine. It was under intelligent control, went up like a skyrocket about 2000 ft.  Then put on a high altitude show danced in the sky then returned to the ridge top and hovered.  I ran and got my wife after she came out she said "I finally got to see one a UFO" we watched together for another 12 minutes through binoculars at only a mile away, phone wasn't good enough to take a picture, we tried but the c! olors this left will last in our minds until we leave this world.  No strobe lights anywhere but every color of light was laminating from this sky diamond finally at 22:10 hrs.  I went to call a classmate from my cell as I hit the last digit she said "where did it go? I felt sick. gone hello....  Do you see anything to the west?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101125.html](http://www.nuforc.org/webreports/reports/101/S101125.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1:00-3:00am - 1:00-3:00am minutes.</sub><blockquote><sub>looking due east at !0 high bright round object bouncing about the clear skies from 2:am-5:amwe are standing in our parking lot at 10302 e brown road due east looking up at about 10:00 with the four of us and a movie camera.we are looking at a round object very big and very bright at about 2:00am and this object seems to be bouncing around the sky can you explain maybe a star or a planet?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38167.html](http://www.nuforc.org/webreports/reports/038/S38167.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164083.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164175.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164084.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164223.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164148.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
