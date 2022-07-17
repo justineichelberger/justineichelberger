@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:33 on 17 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:43 on 17 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Boone (IA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>flying obects in ia skymy family and i were driving one day in des moines ia on i 30 and saw i huge black line in the sky and as it was fading away an airplane soon followed suite im guessing to say "oh that was just an air plane..." if anyone reported it which i would say someone would have because it wasnt at all a cloud it was a huge straight black line not a cloud. Then about a week later my family and i were walking nearing when our sun was setting there were no stars out yet but  my family and i love the sky and were admiring the clouds and sun when we see a moving object just gradully moving along the sky it slows down the stops moving my husband and i are saying omg ! its to far away to see the shape of it though but i do not think there is flying objects humans have ccreated that can just stop then it is going moving faster now then simply fades away no where near our horizon 2 weeks later which would be today i see the samething around 2 30 pm on my way home from work th! en after i take my son to eat dinner we play outside its roughly 8pm and i see 5 more objects that move slowly dont create plumes behind it if thats what it is called this objects can stop speed up and move backwards as i figured out today 2 of them that were going the same directon today were closer (finally!!!) so i got to see a shape there smaller in front the back is bigger there are no wings and seem to be reflecting the suns light so no diffent color but looks silver and they all just fade away not towards the horizon and not behind clouds i just would like to know whats going on in the skys i dont believe the goverment should have a say in what mankind gets to know and for us normal humins that want to live in peace and just want to celebrate life with other living things its not fair to hold that information away from us</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76613.html](http://www.nuforc.org/webreports/reports/076/S76613.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Milford (CT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Saw bright white flash, so thought it was a star, but then it flashed again and I could see it faintly, so I got my phone and took a video of it.  What was really weird was on the video you could hear crickets and frogs clear as day, then when the flash happens, you could hear a strange sound as soon as it flashes it is kinda like a buzzing sound or like an electrical buzzing sound.  AGAIN ONLY WHEN IT FLASHED ITS LIGHT and it was moving very very slow in a zigzag line.?????  I'm stumped because I just don't understand how my phone could pick up sound coming from a light, unless it was some kind of propulsion.  Anybody have an explanation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135778.html](http://www.nuforc.org/webreports/reports/135/S135778.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164083.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164175.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164084.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164223.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164148.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
