@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:35 on 18 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:35 on 18 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1990, an anonymous witness in Ames (IA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>At a stadium concert, I and others saw a disk silently hover directly overhead, and then accelerate away at great speed.Watching a Paul McCartney concert at the Iowa State football stadium, I noticed a flying object slowly approach, thinking at first it was an advertising airplane or a helicopter trying to get a look at the show.  It came directly overhead and hovered completely silently for 3 minutes.  It was a clearly visible disk, 20-foot diameter, with multi-colored lights ringing the underside.  Then it tilted and revealed its top side, which had a solid white light ring around it.  Then it flew away continuing in the direction it had been moving, rapidly accelerating until it was out of sight within a few seconds.  I would estimate the speed to be greater than that of a conventional jet. Several people in the seats around me also witnessed this and all believed it to be a UFO.  Some of them borrowed my binoculars for a better look.  Interestingly, immediately afterward, no one was willing to talk about it or acknowledge what they had just seen.  The person I was at the show with also saw it but has been unwilling to discuss it since. Footnote: Although I was at a rock concert, I did not drink or take any drugs that night.((NUFORC Note:  Date may be approximate, although the witness may have been able to establish  the exact date of the concert from a ticket stub, check book, etc..  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29499.html](http://www.nuforc.org/webreports/reports/029/S29499.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1990, an anonymous witness in Red Deer (Canada) (AB) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Object traveled back on itself.My first sighting was when I was living in Red Deer, Alberta and I was working in 2 group homes with persons with physical and mental disabilities. I didn't have a car at that time so I rode my mountain bike back and forth to work. One night I was riding up to one of the homes after a fairly tough uphill ride to do a sleep - over shift from 11:00 p.m. until 7:00 a.m. the next morning. As I approached the house I rested back on my seat an noticed on my right a bright white star-like object traveling from the bottom left star of the big dipper to the right bottom star of the pot on the big dipper. As quick as it arrived to the star on the right it traveled back to the star on the left at the end of the handle. It did this one more time then disappeared. Brian Vike, Director HBCC UFO Research Home - Phone 250 845 2189 email: hbccufo@telus.net Website: http://www.hbccufo.com((NUFORC Note:  Date is approximate.  We express our gratitude to Brian Vike for this report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35502.html](http://www.nuforc.org/webreports/reports/035/S35502.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164137.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164086.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164081.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165835.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164130.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
