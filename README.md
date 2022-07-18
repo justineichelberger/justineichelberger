@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:38 on 18 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:35 on 18 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Hoover (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A point of light starting moving very fast then vanished. I saw the same thing a few minutes later.I was out with the dog looking at the stars when I noticed a point of light looking just like a star moving very fast almost directly above. No trail, sound, blinking lights, just a point of light. I thought it was a satellite or the space station and went inside to tell the wife to hurry outside. I then went back outside looking for it but did not see anything. I knew it was moving so fast it would already be past the trees. Then from the same point in the sky I saw a point of light take off in the same direction. This time I watched it till is vanished overhead. It got very dim and disappeared. From my experience it was nothing like a meteor. I did not think it was strange at the first time, but when I went back outside and saw the same thing again that was weird. I just wished I had watched it the first time to see if it slowly disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23817.html](http://www.nuforc.org/webreports/reports/023/S23817.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1990, an anonymous witness in Ames (IA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>At a stadium concert, I and others saw a disk silently hover directly overhead, and then accelerate away at great speed.Watching a Paul McCartney concert at the Iowa State football stadium, I noticed a flying object slowly approach, thinking at first it was an advertising airplane or a helicopter trying to get a look at the show.  It came directly overhead and hovered completely silently for 3 minutes.  It was a clearly visible disk, 20-foot diameter, with multi-colored lights ringing the underside.  Then it tilted and revealed its top side, which had a solid white light ring around it.  Then it flew away continuing in the direction it had been moving, rapidly accelerating until it was out of sight within a few seconds.  I would estimate the speed to be greater than that of a conventional jet. Several people in the seats around me also witnessed this and all believed it to be a UFO.  Some of them borrowed my binoculars for a better look.  Interestingly, immediately afterward, no one was willing to talk about it or acknowledge what they had just seen.  The person I was at the show with also saw it but has been unwilling to discuss it since. Footnote: Although I was at a rock concert, I did not drink or take any drugs that night.((NUFORC Note:  Date may be approximate, although the witness may have been able to establish  the exact date of the concert from a ticket stub, check book, etc..  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29499.html](http://www.nuforc.org/webreports/reports/029/S29499.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164137.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164086.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164081.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165835.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164130.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
