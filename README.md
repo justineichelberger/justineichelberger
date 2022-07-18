@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:44 on 18 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:01:03 on 18 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>TRIANGLE SHAPED PHOSFLORESANTLY LIGHTED STRINGRAY SHAPED CRAFTHELLO, I SAW WHAT LOOKED LIKE A STINGRAY FLING THROUTH A DARK CLOUDLESS SKY RIGHT OVER MY TOWNHOUSE, I WAS A RATHER LARGE OBJECT, A LITTLE LARGER THAN MY THUMB AT ARMS LENGTH. IT TRAVELED FROM SOUTH TO NORTH AT A HIGH RATE OF SPEED(SLIGHTLY SLOWER THAT A SHOOTING STAR) IT HAD A WHITE/GREEN/YELLOW/CLEAR GAS FLOWING LOOK TO IT AND HAD NO VISABLE LIGHT SOURCES, BUT HAD A DIM GLOW TO IT AND SEEMED TO SWIM THROUGHT THE AIR.HAD A HAZE AROUD IT TOO. LISA  WHAT I SAW WAS THE SAME THING BUT FROM THE BACK OF IT AS IT DISSAPEARED LIKE A SHOOTING STAR, I SAW IT FOR ABOUT 8 SECONDS..IT LOOKED JUST LIKE MY GIRLFRIEND DESCRIBED, BUT FROM THE BACK, YOU COULD SEE THE WINGS OF IT SORT OF SWAYING THROUGHT THE SKY LIKE A STINGRAY, OR A LARGE HAND GLIDER IN VERY VERY HEAVY WINDS AT TIMES (IT SEEMED TO SHUTTER AT TIMES) DANNY</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29814.html](http://www.nuforc.org/webreports/reports/029/S29814.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Vancouver (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Strange blinking red, blue, and green lights moving in the sky.At approximately 10:00 PM on July 18, 2011, my husband was closing the curtains before heading up to bed.  He noticed a multi-color blinking object in the sky to the west of us.  We (myself, my husband, and our son) went out our front door and continued to watch and take pictures/videos of the moving object.  It appeared to be a clear sky and we didn’t notice any stars in the sky.  This object had lights/blinking lights of green, blue, and red.  It appeared to be circular but in some angles of the video looks like a triangular/cone look to one side.  We only saw one object.  It appeared to be at least as high as a plane would be flying.The next morning after still not seeing anything reported on the news or online  I called the local law enforcement agency.  They connected me to a dispatcher and according to the records she saw no other reports of strange lights in the sky that night.I am not sure who else to contact to get answers of what this actually was that we saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82585.html](http://www.nuforc.org/webreports/reports/082/S82585.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164137.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164086.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164081.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165835.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164130.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
