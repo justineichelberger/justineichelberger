@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:38 on 18 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:36 on 18 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Marysville (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>The object rose from the invertion covered horizon as if it was using the combined smog and partial cloud layer for concealment.  The craft was thumb nail size at arms length.  It rose and advanced slightly, appreaing to blink in and out.  The clouds and smog were stationary,  and it seemed as though the craft was moving to position it's self behind them.  The distance and altitude are as follows.  At the horizon ,clear line of sight it rose approx. two inches ,moved forward one inch, rose slightly and rapidly disappeared as though the clouds were moving in front of the shape, reappeared and continued this for approx. five minutes, at which time I lost sight. The object was a saucer shape ,with  the highth approx. one third the length.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13520.html](http://www.nuforc.org/webreports/reports/013/S13520.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Oakville (Canada) (ON) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Glad to have come across this site so I can recount what I and two other guys saw last year. I was at work and I stepped out for a cigarette and it was a beautiful blue cloudless sky.  I looked up to the sky and off in the northwest direction I could see a glimmering (looked like a sun reflection, rather than lights) and slow moving object in the sky.  It was very small from the distance away, so this object was very hard for me to determine any shape or relative size. It moved so slowly and occasionally would ascend and descend rapidly at what seemed a thousand feet or so, but would then fall back into it's snail pace travel across the sky. Two other guys came out or the building and noticed me looking up, so they inquired what I was looking at and I pointed it out.  One fellow grabbed onto the object immediately, while the other could not seem to fixate on it. Again..It was pretty high up and small. Anyway...as we were looking up, we saw two orange and black chevron shaped objects fly across the sky into our felid of viewing from the west and turn into an eastern direction at a super rate of speed and a much lower elevation than the other object. The two objects then made a sharp turn toward the west and did not separate or lose any ground to each other during this maneuver.  It was incredible to watch at the speed they were moving.  Total precision is the best way to describe it. Then they ascended to a little higher altitude and made another minor turn (again, perfect precision) and climbed and headed toward the first object that I originally spotted at the higher altitude. These two black and orange chevron objects made zero noise that I or the other two could detect and we looked at each other stunned after and the looks on our faces related pretty much the same question..."What Was That"?  All three objects then vanished from our naked eyes, once the chevron objects appeared to re-unite with the first object. Anyway..The duration from beginning to end was about 5 minutes..With the "chevron objects" event lasting only about 20 to 25 seconds of the total event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50933.html](http://www.nuforc.org/webreports/reports/050/S50933.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164137.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164086.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164081.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165835.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164130.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
