@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:10:53 on 18 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:38 on 18 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Kiawah Island (SC) reported seeing craft that fit the description of some 'Formation' over a period of approximately several minutes - several minutes minutes.</sub><blockquote><sub>Small bright pulsing lights and several more smaller less bright pulsing lights moving rapidly.Strange small very bright lights seen from Folly Island towards Kiawah Island - about 9pm.3 very bright lights pulsing for several seconds near each other.  Then lots of less bright lights pulsing all around - no specific shape or connection to each other.  Moving rapidly.Lasted several minutes, observed by about 20 people.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100307.html](http://www.nuforc.org/webreports/reports/100/S100307.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Marysville (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>The object rose from the invertion covered horizon as if it was using the combined smog and partial cloud layer for concealment.  The craft was thumb nail size at arms length.  It rose and advanced slightly, appreaing to blink in and out.  The clouds and smog were stationary,  and it seemed as though the craft was moving to position it's self behind them.  The distance and altitude are as follows.  At the horizon ,clear line of sight it rose approx. two inches ,moved forward one inch, rose slightly and rapidly disappeared as though the clouds were moving in front of the shape, reappeared and continued this for approx. five minutes, at which time I lost sight. The object was a saucer shape ,with  the highth approx. one third the length.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13520.html](http://www.nuforc.org/webreports/reports/013/S13520.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164137.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164086.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164081.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165835.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164130.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
