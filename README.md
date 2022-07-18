@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:47 on 18 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:31 on 18 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Sullivan (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I submitted a report earlier but have since found a reasonable explanation from a fellow camper at the same campground, when I posted it on social media: “ As I was leaving Saturday at 10:30 I saw a group of people launching one of those “memorial” hot air mini balloons that you light a fire on a pan suspended under a paper “balloon” over by the little pond. Sounds like that’s what you saw.”</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157709.html](http://www.nuforc.org/webreports/reports/157/S157709.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Holden Beach (NC) reported seeing craft that fit the description of some '' over a period of approximately :05 - :05 minutes.</sub><blockquote><sub>Holden Beach sightingGlowing, orange, stationary orbs...six or eight of them...followed by a grouping of small, equally spaced flashing white lights that moved first north, then east, then west, then disappeared.We saw the orange orbs two more times during this week but never saw the flashing white lights again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76779.html](http://www.nuforc.org/webreports/reports/076/S76779.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164137.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164086.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164081.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165835.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164130.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
