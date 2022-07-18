@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:05:45 on 18 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:35 on 18 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Pawleys Island (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Bright lights seen off Pawleys Island SCJuly 18 2012  Nine of us were on the beach at Pawley’s Island, SC around 2200 hrs.  We were sitting in a circle at the people facing the ocean saw several bright lights that came on suddenly, stayed on for 5-10 seconds and then faded.  Those of us with our backs to the ocean turned around and watched.  Over the next 30 minutes we saw them repeatedly. Sometimes there was just one and other times 2- 4 at a time.  One time three of them came on in a sequence moving left to right and then faded in the same pattern.  We probably saw 15-20 of them during that 30 minutes.The light was reddish yellow and came on intensely, stayed on for several seconds and then faded. There were some low clouds on the horizon and one time one lit up behind the cloud and gave the impression that it was a VERY intense light. These were located due east of the beach at about 25 degrees off the horizon. It was hard to tell how far away they were but probably 5-10 miles would be my guess.No aircraft were visible anywhere near the lights.  The nearest air bases are Shaw Air Force Base and Charleston Navel Air Station.  There was a southeasterly wind of about 15 mph. The lights did not appear to move in any direction while they were visible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91057.html](http://www.nuforc.org/webreports/reports/091/S91057.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Expanding and Disappearing LightWas waiting on a bus in the Ravenna Park area.  Something in my peripherial vision casued me to look up.  I saw what appeared to be a point of light that grew extremely bright over about a second or a second and a half then it dimmed over approx. 3 or 4 seconds to absolutely nothing.((NUFORC Note:  Probably the flare from an Iridium satellite.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45084.html](http://www.nuforc.org/webreports/reports/045/S45084.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164137.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164086.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164081.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165835.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164130.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
