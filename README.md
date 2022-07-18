@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:13:31 on 18 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:13:43 on 18 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in La Grande (Union County Airport) (OR) reported seeing craft that fit the description of some 'Changing' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright light traveled from North to South, decended as if to land, approached landing strip--disappeared.At 21:10 (dusk) on 7/18/99 my husband and myself observed a bright light resembling that of a Boing 737 traveling from North to south at an altitude of aprox. 1500'.  We could not see a craft or hear engine noise of a craft.also there were no red or blue lights observable on the wirngs.  We were traveling north on Pierce Rd.by the airport at this time.  The light fluctuated from dim to bright a number of times then made a 180 degree turn while decending toward the south end of the runway.  We pulled into the parking lot to watch it land....there was nothing on the runway, no noise of an engine and no activity anywhere.  I called the Union County airport today to inquire of any flights that might have landed at this hour.  The reply was that the airport closes at 7:00 pm and that there was no activity there that they would have known of.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08396.html](http://www.nuforc.org/webreports/reports/008/S08396.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in New Milford (CT) reported seeing craft that fit the description of some '' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Yellow blinking glow emanating from a clearing surrounded by wetlands in a sparsely populated area over a 3 hour period.At 0:30, my son was frightened by a glow emanating approximately 100 yards behind and 300 yards to the right of where we were.  It was of a yellowish hue, similar to a headlight.  It was of variable intensity, on occasion only illuminating the area it was in and other times brightening the entire back yard.  I had my son go to sleep while I promised to watch it to make sure there was nothing wrong.  It was in a clearing in the forested wetlands behind my parents' house.  There was no visible source for the light.  Only one car drove down the road the entire time I watched.  It was obviously an artificial source of light, as it would blink on 1-3 times in a one or two second period, then turn off.  I counted the intervals in my head and although it sometimes blinked after a three or nine count, it usually was after a fifteen one thousand or sixteen one thousand count. It wasn't fire or an electrical discharge of some kind, and was far too bright at times to ! have been a flashlight.  I would describe it as a glow, because we never saw a lightsource.  I am physically disabled and was unable to investigate.  There was no reaction from the dog or cats in the house.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100544.html](http://www.nuforc.org/webreports/reports/100/S100544.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164137.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164086.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164081.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165835.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164130.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
