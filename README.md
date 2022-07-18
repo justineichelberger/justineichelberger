@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:36 on 18 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:41 on 18 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Darlington (MD) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Space photographer??Bright ball of white light looked like a satellite flew straight across horizon but gave a huge flash similar to a camera flash but created a circle of light as bright the moon.  Afterwords appeared to put on afterburners to gain speed as it flew off straight into the horizon.  My question is flash photography necessary or used with our satellites or military recon aircraft?  If not that may leave me with more questions...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157736.html](http://www.nuforc.org/webreports/reports/157/S157736.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Port Orford (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Low flying, Humming, Triangular, Flashing red lights, Low speed2 triangular shaped craft making a very faint humming sound. 3 flashing red lights a piece flying in formation at an extremely low speed and altitude. Right after dark flying from north to south across Garrison lake and over Coast Guard hill. Stealth Blimps??</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74465.html](http://www.nuforc.org/webreports/reports/074/S74465.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164137.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164086.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164081.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165835.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164130.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
