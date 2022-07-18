@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:31 on 18 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:45:31 on 18 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Holden Beach (NC) reported seeing craft that fit the description of some '' over a period of approximately :05 - :05 minutes.</sub><blockquote><sub>Holden Beach sightingGlowing, orange, stationary orbs...six or eight of them...followed by a grouping of small, equally spaced flashing white lights that moved first north, then east, then west, then disappeared.We saw the orange orbs two more times during this week but never saw the flashing white lights again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76779.html](http://www.nuforc.org/webreports/reports/076/S76779.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Surfside Beach (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>There were numerous white flickering lights very bright and flashed very quickly looked like blinking halogen stars.  The object was moving and was very low.....it would stop in place and the white lights would stop blinking and then red disc shapes would light up.  F-16s were flying over as this object was going over and then went out over the ocean and then south. It was very close and was def some kind of craft.  There is a video from one yr ago the exact same date of a very similiar set of lights moving on the coast.  Only the ones that happened last night were not in a line they were a huge area of lights almost like a giant stop sign shape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91000.html](http://www.nuforc.org/webreports/reports/091/S91000.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164137.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164086.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164081.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165835.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164130.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
