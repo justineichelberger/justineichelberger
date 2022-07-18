@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:37 on 17 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:47 on 18 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Brooks (GA) reported seeing craft that fit the description of some 'Oval' over a period of approximately  -  minutes.</sub><blockquote><sub>Driving home from work and witnessed 3 lights on a triangular formation while two of the other objects were nearby.  The two other objects appeared to be the shape of an arrow head and have multi colored flashing lights on them.  The ones in the triangular formation were just bright lights almost like headlights.  Almost arriving home, I noticed they had formed a straight line as if they were following each other and looked like the were heading North toward ATL.  They stayed in my sight until I got home.  My boyfriend also called asking if I had seen the same thing and he was in a county over from me.  Also my two friends from work called asking if I had seen the strange lights when I left work.  They were pretty obvious and out there.  Almost looking like the lights over Phoenix.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100263.html](http://www.nuforc.org/webreports/reports/100/S100263.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Sullivan (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I submitted a report earlier but have since found a reasonable explanation from a fellow camper at the same campground, when I posted it on social media: “ As I was leaving Saturday at 10:30 I saw a group of people launching one of those “memorial” hot air mini balloons that you light a fire on a pan suspended under a paper “balloon” over by the little pond. Sounds like that’s what you saw.”</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157709.html](http://www.nuforc.org/webreports/reports/157/S157709.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164083.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164175.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164084.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164223.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164148.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
