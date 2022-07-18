@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:38 on 18 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:46 on 18 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Jacksonville (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Eight silvery relflective objects. Six stationary and two moving near the others. All faded from view in 7 minutes.Eight total silvery objects were sighted together by my wife and I. Two of those objects moved near to and relative to the other six objects. All the object were to our Northeast, at about 75 degrees from the horizon and fairly close to each other. We were located at about University and Atlantic Blvds in Jacksonville, Fl. The objects were reflective of the setting sunlight behind us and had enough definition to determine they were objects in our atmosphere although they had only about the same brilliance as medium bright stars. Several jet planes flew through our view of those objects but may have been at a different altitudes. The eight objects were not in a formation but rather in the same general area of the sky. During about 7 minutes of watching them, they gradually faded from view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45165.html](http://www.nuforc.org/webreports/reports/045/S45165.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Middletown (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I was pulling down my friends drive way when i saw four bright lights about a quarter the size of the moon.  The lights was sorta round in shape and would blink.  The four lights would appear to have been chasing one another, then all of a sudden they where gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71174.html](http://www.nuforc.org/webreports/reports/071/S71174.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164137.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164086.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164081.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165835.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164130.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
