@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:45:31 on 18 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:32:28 on 18 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Surfside Beach (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>There were numerous white flickering lights very bright and flashed very quickly looked like blinking halogen stars.  The object was moving and was very low.....it would stop in place and the white lights would stop blinking and then red disc shapes would light up.  F-16s were flying over as this object was going over and then went out over the ocean and then south. It was very close and was def some kind of craft.  There is a video from one yr ago the exact same date of a very similiar set of lights moving on the coast.  Only the ones that happened last night were not in a line they were a huge area of lights almost like a giant stop sign shape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91000.html](http://www.nuforc.org/webreports/reports/091/S91000.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Wrexham (UK/England) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Teenager awoken by strange sounds and lights.My 14 year old son heard a strange noise and looked out of his bedroom window, he describes seeing a red light in a circular shap over what seemed like the woods at the back of our garden. These lights then appeared to follow hin into his bedroom becoming blue and green rays? He then blinked to ensure he was awake got pretty frightened and ran into my room, I followed him back and looked out of the window also but there was nothing there. My son then left the light on all night I asked him if it was possible he may have been dreaming but he asured me the noise woke him up and he was wide awake? He has never shown any interest in ufo s in the past and is quite level headed so im unsure of how to address this ...? Thanks B.Mathias</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51415.html](http://www.nuforc.org/webreports/reports/051/S51415.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164137.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164086.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164081.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165835.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164130.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
