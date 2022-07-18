@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:01:03 on 18 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:13:31 on 18 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Vancouver (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Strange blinking red, blue, and green lights moving in the sky.At approximately 10:00 PM on July 18, 2011, my husband was closing the curtains before heading up to bed.  He noticed a multi-color blinking object in the sky to the west of us.  We (myself, my husband, and our son) went out our front door and continued to watch and take pictures/videos of the moving object.  It appeared to be a clear sky and we didn’t notice any stars in the sky.  This object had lights/blinking lights of green, blue, and red.  It appeared to be circular but in some angles of the video looks like a triangular/cone look to one side.  We only saw one object.  It appeared to be at least as high as a plane would be flying.The next morning after still not seeing anything reported on the news or online  I called the local law enforcement agency.  They connected me to a dispatcher and according to the records she saw no other reports of strange lights in the sky that night.I am not sure who else to contact to get answers of what this actually was that we saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82585.html](http://www.nuforc.org/webreports/reports/082/S82585.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in La Grande (Union County Airport) (OR) reported seeing craft that fit the description of some 'Changing' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright light traveled from North to South, decended as if to land, approached landing strip--disappeared.At 21:10 (dusk) on 7/18/99 my husband and myself observed a bright light resembling that of a Boing 737 traveling from North to south at an altitude of aprox. 1500'.  We could not see a craft or hear engine noise of a craft.also there were no red or blue lights observable on the wirngs.  We were traveling north on Pierce Rd.by the airport at this time.  The light fluctuated from dim to bright a number of times then made a 180 degree turn while decending toward the south end of the runway.  We pulled into the parking lot to watch it land....there was nothing on the runway, no noise of an engine and no activity anywhere.  I called the Union County airport today to inquire of any flights that might have landed at this hour.  The reply was that the airport closes at 7:00 pm and that there was no activity there that they would have known of.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08396.html](http://www.nuforc.org/webreports/reports/008/S08396.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164137.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164086.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164081.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165835.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164130.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
