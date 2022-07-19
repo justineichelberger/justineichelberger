@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:39 on 19 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:56 on 19 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Santa Fe (NM) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>I saw a bright light it was green circle shape falling from the sky very bright and 15 minutes after that there was a UFO kind a look like it hovering right Behind the green light((NUFORC Note:  We suspect a nighttime sighting, and we have amended the time above, to reflect that fact.  The source of the report elects to remain totally anonymous, and provides no contact information, so the report may be a hoax.  PD))((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120523.html](http://www.nuforc.org/webreports/reports/120/S120523.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Poughkeepsie (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Fireball hovering in the night skyIt was around 10 pm, I was leaving my job with my co-worker as I noticed something in the sky.  It was a amber- orange colored light that looked like a large fireball.  We both stopped in our tracks to look at it and I noticed that it seemed to be hovering.  At the same time that we were looking at it a plane passed by so that's how we both knew it couldn't of been a plane. After about 5 minutes of watching it I noticed it started moving very slowly straight up.  I found it weird because it didn't move at an angle at all, it was moving directly north.  I wish I stayed longer to watch it, but I felt like staring at the sky in the middle of a mall parking lot was long enough  lol((NUFORC Note:  Source of report indicates that the date of the sighting is approximate, which we do not understand, given that it had occurred only 34 hours before the report was submitted.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82615.html](http://www.nuforc.org/webreports/reports/082/S82615.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/164/S164097.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164092.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164094.html)
-- [339](http://www.nuforc.org/webreports/reports/164/S164096.html)
-- [338](http://www.nuforc.org/webreports/reports/164/S164283.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
