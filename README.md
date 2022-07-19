@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:01:44 on 19 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:55 on 19 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Montgomery (AL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Massive UFO event in Montgomery, AlabamaI am a huge astronomy buff and view the sky every evening, weather permitting. I make it a habit to turn all of the outdoor lighting off for better viewing with my telescope. The event began at 3:30 am in Montgomery, Alabama with a single, low altitude object arriving from the northwest and becoming stationary. I immediately realized the craft was not a plane, helicopter or anything I recognized because of it's coloration and behavior. Minutes later, other objects began to eminate from the first object in all directions at different intervals. All of the other objects were similar in shape and light features to the first object, just smaller. Then the show began. The objects in total were too numerous to count and performed spectacular aerial manuevers for two solid hours. My wife, who also witnessed the event, and I were exhilerated beyond description. Neither of us have ever witnessed such a massive UFO event before and I can assure you that we were completely mesmerized. We simply sat down on the ground and watched in total awe the magnificent display that was occuring right in our own backyard! We did not lose sight of the objects until the sun rose, and only then because they just seemed to "fade away"!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51453.html](http://www.nuforc.org/webreports/reports/051/S51453.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Madrid (Spain) () reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>5 strange lights flying in the sunny sky of Spain, Madrid.It was a warm and sunny evening in Sapin, Madrid, my mom her two friends and me were just talking whiles laying down at the roof part of the house, which was like a big balcony. Then my mom's friend, the husband, noticed a few bright yellowy orangy lights floating very close to each other.  We noticed one was in the middle and the other four circled it. Then the light moved for a bit and in a couple of seconds all flew away in diferent directions, in a couple of miliseconds they were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108300.html](http://www.nuforc.org/webreports/reports/108/S108300.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/164/S164097.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164092.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164094.html)
-- [339](http://www.nuforc.org/webreports/reports/164/S164096.html)
-- [338](http://www.nuforc.org/webreports/reports/164/S164283.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
