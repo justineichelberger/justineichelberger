@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:55 on 19 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:37 on 19 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Madrid (Spain) () reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>5 strange lights flying in the sunny sky of Spain, Madrid.It was a warm and sunny evening in Sapin, Madrid, my mom her two friends and me were just talking whiles laying down at the roof part of the house, which was like a big balcony. Then my mom's friend, the husband, noticed a few bright yellowy orangy lights floating very close to each other.  We noticed one was in the middle and the other four circled it. Then the light moved for a bit and in a couple of seconds all flew away in diferent directions, in a couple of miliseconds they were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108300.html](http://www.nuforc.org/webreports/reports/108/S108300.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Gowen (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>single white light 7 witnesses from horizon to over head disappears then streaks across sky like shooting starSitting at a bonfire with wife children and buddy and his wife i noticed a bright white light in the distance coming from west heading east at first thought it was plane but had no red or blue flashers the size was about the size of a dime when first noticed as it came closer the size grew smaller object then over top of us disappeared as we sat looking up where the object was a flash like a shooting star from where the object disappeared shot directly to the north at an indescribable rate of speed</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111839.html](http://www.nuforc.org/webreports/reports/111/S111839.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/164/S164097.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164092.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164094.html)
-- [339](http://www.nuforc.org/webreports/reports/164/S164096.html)
-- [338](http://www.nuforc.org/webreports/reports/164/S164283.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
