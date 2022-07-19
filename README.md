@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:48 on 19 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:42 on 19 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Fairdale (WV) reported seeing craft that fit the description of some 'Egg' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I glanced up at the sky and noticed a very shiny silver, egg shaped object, moving very slowly like it was gliding.  There was no sound and no contrail.  Just before it reached the mountain line it flashed brighter and just disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157761.html](http://www.nuforc.org/webreports/reports/157/S157761.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Renton (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2hrs+ - 2hrs+ minutes.</sub><blockquote><sub>SPEACHLESS NOT KNOWING WHAT THIS IS.FIRST ONE SEEN IN THE WEST.SECOND IN THE NORTHEAST. AND THIRD IN THE SOUTHWEST. VERY HIGH IN THE SKY. HAD FLASHING LIGHTS THAT APPEARED TO BE HELECOPTER. USED TELESCOPE AND SAW THE LIGHTS WERE MUCH SHARPER AND DANCED WITH A RED YELLOW BLUE GREEN WHITE PATTERN THAT HAD NO PATTERN JUST BOUNCED AND VIBRATED IN ONE PLACE. ALL DID SAME THING. THE ONE IN WEST WAS CLOSEST AND WAS VERY CLEAR. AND ONGOING AS I'M TYPING THIS.GOING BACK TO LOOK SOME MORE.NOTE:THEY ARE SEVERAL THOUSAND MILES APART IN SKY (SPACE)AND ALL DISPLAYED SAME LIGHTS.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29807.html](http://www.nuforc.org/webreports/reports/029/S29807.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/164/S164097.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164092.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164094.html)
-- [339](http://www.nuforc.org/webreports/reports/164/S164096.html)
-- [338](http://www.nuforc.org/webreports/reports/164/S164283.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
