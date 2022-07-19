@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:20:37 on 19 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:02:32 on 19 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Haelen (Netherlands) () reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>4 flying dots seen over Holland.We saw 4 dots (lights) flying with high speed, moving north. One of the four crafts made sudden movements through the formation. We don't think they were aircrafts because of their altitude and movements.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29813.html](http://www.nuforc.org/webreports/reports/029/S29813.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Kirkland (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>bright white circle moving very fast north to southAt 10:30 pm approximately, on July 19th in Kirkland, Washington, my wife and I were out on the front porch of our house.  I stepped out onto the lawn and looked up towards the big dipper when a bright white light looking exactly like the brightest star in the sky, was moving in a north to south direction following the handle of the big dipper at a speed like I’ve never seen.  It covered the whole sky in maybe 4 seconds.  No tail or burn like a meteor but just a bright white orb.  It appeared to be very high. It didn’t flicker or change colors but was moving extremely fast. It looked like a star.  It was definitely not a satellite.  It was moving at least 20 times as fast as one.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76678.html](http://www.nuforc.org/webreports/reports/076/S76678.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/164/S164097.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164092.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164094.html)
-- [339](http://www.nuforc.org/webreports/reports/164/S164096.html)
-- [338](http://www.nuforc.org/webreports/reports/164/S164283.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
