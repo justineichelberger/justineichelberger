@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:57 on 19 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:45 on 19 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in New Milford (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Bright white light hoveringThere was a star like, white light hovering in the sky.  It wasn't a plane, nor a planet, because it was too close.  This was confirmed for my sight, because I could see a commercial airliner way up past the object in the sky, I could see the stars.  Whatever this was it looked to be just over our town, looked like it was just observing.  It would sway out slightly then back to it's original position, as it did this I also noticed the light casting  out  lines onto a diamond shaped craft.  It also seemed to move closer, then back again, each time it moved I could see the shape of it. I watched it for about an hour and a half, it was still there when I went to bed, and it was still changing it's position.  No sound was present, no blinking lights.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76677.html](http://www.nuforc.org/webreports/reports/076/S76677.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in North Myrtle Beach (Crescent Beach) (SC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Three orange yellow orbes triangular formation over ocean at 15th ave became brighter then extinguished  One top orb and two on bottom equal distance.  Suddenly appeared became brighter and then disappeared like light shutting off.  About 1/3 above the sea level.  Calm nite no moon a few stars.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158741.html](http://www.nuforc.org/webreports/reports/158/S158741.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/164/S164097.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164092.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164094.html)
-- [339](http://www.nuforc.org/webreports/reports/164/S164096.html)
-- [338](http://www.nuforc.org/webreports/reports/164/S164283.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
