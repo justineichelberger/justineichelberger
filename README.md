@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:38 on 19 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:29:35 on 19 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Wellington (New Zealand) () reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>BELL SHAPED UFO WITH STATIONARY YELLOW LIGHT AND FADING IN AND OUT RED BRIGHT LIGHTI was on the motorway heading towards plimmerton coming from pukerua Bay when I saw a Bell Shaped Object in the Sky. Had a Constant Yellow bright light on it and also had a bright red light which was fading in and out very slowly.... The light could have been rotating like a Light House.... Im not to sure if it was because I was driving ...... Ive seen a planes lights before and this didnt look anything like a planes lights And I know it wasnt a satellite cos Ive seen one of them crash before.... I was coming back from delivery some pizzas in pukerua bay. It was not very far away from the motorway. It was sitting stationary in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13518.html](http://www.nuforc.org/webreports/reports/013/S13518.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Yarmouth Port (MA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three red and orange fireballs in formation about Yarmouth Port Village area.Driving west down 6A in Yarmouth Port, just before the green, I saw one, then two, fireball objects in the sky in front of us.  I shouted, "What is that?" He said, "A plane." I said, "That's no plane I've ever seen." He said, "Look, there's a third one!"  I turned down a side street so we would be driving but they disappeared into the clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111700.html](http://www.nuforc.org/webreports/reports/111/S111700.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/164/S164097.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164092.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164094.html)
-- [339](http://www.nuforc.org/webreports/reports/164/S164096.html)
-- [338](http://www.nuforc.org/webreports/reports/164/S164283.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
