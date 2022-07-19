@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:56 on 19 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:57 on 19 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Poughkeepsie (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Fireball hovering in the night skyIt was around 10 pm, I was leaving my job with my co-worker as I noticed something in the sky.  It was a amber- orange colored light that looked like a large fireball.  We both stopped in our tracks to look at it and I noticed that it seemed to be hovering.  At the same time that we were looking at it a plane passed by so that's how we both knew it couldn't of been a plane. After about 5 minutes of watching it I noticed it started moving very slowly straight up.  I found it weird because it didn't move at an angle at all, it was moving directly north.  I wish I stayed longer to watch it, but I felt like staring at the sky in the middle of a mall parking lot was long enough  lol((NUFORC Note:  Source of report indicates that the date of the sighting is approximate, which we do not understand, given that it had occurred only 34 hours before the report was submitted.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82615.html](http://www.nuforc.org/webreports/reports/082/S82615.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in New Milford (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Bright white light hoveringThere was a star like, white light hovering in the sky.  It wasn't a plane, nor a planet, because it was too close.  This was confirmed for my sight, because I could see a commercial airliner way up past the object in the sky, I could see the stars.  Whatever this was it looked to be just over our town, looked like it was just observing.  It would sway out slightly then back to it's original position, as it did this I also noticed the light casting  out  lines onto a diamond shaped craft.  It also seemed to move closer, then back again, each time it moved I could see the shape of it. I watched it for about an hour and a half, it was still there when I went to bed, and it was still changing it's position.  No sound was present, no blinking lights.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76677.html](http://www.nuforc.org/webreports/reports/076/S76677.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/164/S164097.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164092.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164094.html)
-- [339](http://www.nuforc.org/webreports/reports/164/S164096.html)
-- [338](http://www.nuforc.org/webreports/reports/164/S164283.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
