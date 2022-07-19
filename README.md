@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:41 on 18 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:38 on 19 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Port Orford (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Low flying, Humming, Triangular, Flashing red lights, Low speed2 triangular shaped craft making a very faint humming sound. 3 flashing red lights a piece flying in formation at an extremely low speed and altitude. Right after dark flying from north to south across Garrison lake and over Coast Guard hill. Stealth Blimps??</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74465.html](http://www.nuforc.org/webreports/reports/074/S74465.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Wellington (New Zealand) () reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>BELL SHAPED UFO WITH STATIONARY YELLOW LIGHT AND FADING IN AND OUT RED BRIGHT LIGHTI was on the motorway heading towards plimmerton coming from pukerua Bay when I saw a Bell Shaped Object in the Sky. Had a Constant Yellow bright light on it and also had a bright red light which was fading in and out very slowly.... The light could have been rotating like a Light House.... Im not to sure if it was because I was driving ...... Ive seen a planes lights before and this didnt look anything like a planes lights And I know it wasnt a satellite cos Ive seen one of them crash before.... I was coming back from delivery some pizzas in pukerua bay. It was not very far away from the motorway. It was sitting stationary in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13518.html](http://www.nuforc.org/webreports/reports/013/S13518.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164137.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164086.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164081.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165835.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164130.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
