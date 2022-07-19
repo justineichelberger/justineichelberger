@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:42 on 19 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:43 on 19 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Renton (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2hrs+ - 2hrs+ minutes.</sub><blockquote><sub>SPEACHLESS NOT KNOWING WHAT THIS IS.FIRST ONE SEEN IN THE WEST.SECOND IN THE NORTHEAST. AND THIRD IN THE SOUTHWEST. VERY HIGH IN THE SKY. HAD FLASHING LIGHTS THAT APPEARED TO BE HELECOPTER. USED TELESCOPE AND SAW THE LIGHTS WERE MUCH SHARPER AND DANCED WITH A RED YELLOW BLUE GREEN WHITE PATTERN THAT HAD NO PATTERN JUST BOUNCED AND VIBRATED IN ONE PLACE. ALL DID SAME THING. THE ONE IN WEST WAS CLOSEST AND WAS VERY CLEAR. AND ONGOING AS I'M TYPING THIS.GOING BACK TO LOOK SOME MORE.NOTE:THEY ARE SEVERAL THOUSAND MILES APART IN SKY (SPACE)AND ALL DISPLAYED SAME LIGHTS.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29807.html](http://www.nuforc.org/webreports/reports/029/S29807.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Nampa (ID) reported seeing craft that fit the description of some 'Other' over a period of approximately Short - Short minutes.</sub><blockquote><sub>Strange object in photoI'm a Realtor and was taking pictures of a house to put on the flyer and internet. I never noticed anything at all until I looked at the pictures on my computer. The pictures are taken with a digital camera that records information about the pictures so it tells what date they were taken and time. The one picture has a strange object in the sky above the house. When I looked at it the first time I never thought anything about it. I thought maybe it was on the lens, but none of the rest of the pictures taken at the same time have that object in them. I'm not saying it's anything, but you can look at the photo and the others taken at the same time and decide for yourself. I was looking north east when the picture was taken.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52902.html](http://www.nuforc.org/webreports/reports/052/S52902.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/164/S164097.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164092.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164094.html)
-- [339](http://www.nuforc.org/webreports/reports/164/S164096.html)
-- [338](http://www.nuforc.org/webreports/reports/164/S164283.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
