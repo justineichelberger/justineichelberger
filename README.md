@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:42:51 on 19 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:26:56 on 19 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Adams (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Four large bright orange lights in straight horizontal line off of Hyw 13, three miles north to AdamsFour large orange balls of lights in a straight horizontal line off of Hyw 13 going north to Adams. "Very Bright" It lasted for 30 seconds in the sky. They were perfectly spaced apart. No tails or smoke trails of any sort. they appeared, then disappeared</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18956.html](http://www.nuforc.org/webreports/reports/018/S18956.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Santa Barbara (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Yellowish orange, odd circular object observed over Santa Barbara, Ca.Leaving Santa Barbara airport, watched aircraft on aprouch to land when daughter noticed a odd object some distance behind.  At first thought it another plane.  Object was circular, a yellowish orange color and much larger then plane on aprouch.  As plane came in on glide slope to land, we noticed object drop straight down to about level of plane and get brighter as it got closer.  After about 2 min., object then changed direction (without turn or other movement) and went east.  We noticed a long comet like tail for several seconds before it quickly disapeared.  A few minutes later we saw the object again towards northwest as we headed north on hwy 101.  Object was higher in sky, brighter and quite large, about the size of a nickel held at arms length.  Watched object for about twenty more seconds till clouds obscured it.  Object was circular and brighter towards the edges.  No navigation or other lights observed.  Very odd looking thing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120509.html](http://www.nuforc.org/webreports/reports/120/S120509.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/164/S164097.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164092.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164094.html)
-- [339](http://www.nuforc.org/webreports/reports/164/S164096.html)
-- [338](http://www.nuforc.org/webreports/reports/164/S164283.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
