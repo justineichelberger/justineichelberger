@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:45 on 19 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:13:30 on 19 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in North Myrtle Beach (Crescent Beach) (SC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Three orange yellow orbes triangular formation over ocean at 15th ave became brighter then extinguished  One top orb and two on bottom equal distance.  Suddenly appeared became brighter and then disappeared like light shutting off.  About 1/3 above the sea level.  Calm nite no moon a few stars.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158741.html](http://www.nuforc.org/webreports/reports/158/S158741.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Fulton (looking toward Rochester) (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>While out side I looked up in the sky noticed 4 black speck like objects in sky then I saw some lights go on them red in color to more objets joined in all moving very randum . called my wife to see these to conferm what I was seeing .  these objects were the same as reports filed in 2010 looks the same as what we saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111714.html](http://www.nuforc.org/webreports/reports/111/S111714.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/164/S164097.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164092.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164094.html)
-- [339](http://www.nuforc.org/webreports/reports/164/S164096.html)
-- [338](http://www.nuforc.org/webreports/reports/164/S164283.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
