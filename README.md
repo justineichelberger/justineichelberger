@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:29:35 on 19 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:52:53 on 19 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Yarmouth Port (MA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three red and orange fireballs in formation about Yarmouth Port Village area.Driving west down 6A in Yarmouth Port, just before the green, I saw one, then two, fireball objects in the sky in front of us.  I shouted, "What is that?" He said, "A plane." I said, "That's no plane I've ever seen." He said, "Look, there's a third one!"  I turned down a side street so we would be driving but they disappeared into the clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111700.html](http://www.nuforc.org/webreports/reports/111/S111700.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Winter (WI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Triangular shaped brilliant light above roofThere was an extremely bright light coming from the top of our neighbor's house (they are not living there right now). There are trees between our houses, but what I could see was a triangular shaped light (it reminded me of a window right at the peak of a roof, with the light shining from behind it). The light was so bright that it cast shadows in our yard. We have never seen a light that bright that it would light up our yard from that distance. We did not go over to our neighbor's yard to investigate it, but should have. We wish we would have taken a photo of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164092.html](http://www.nuforc.org/webreports/reports/164/S164092.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/164/S164097.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164092.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164094.html)
-- [339](http://www.nuforc.org/webreports/reports/164/S164096.html)
-- [338](http://www.nuforc.org/webreports/reports/164/S164283.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
