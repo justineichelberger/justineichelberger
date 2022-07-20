@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:40 on 20 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:39 on 20 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Hampstead (NH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright lighted object zigzagging through the sky.A circular object shot across the sky in about 3 minutes it disappeared.  While it was moving it had a zigzagged motiton to it.  It was very bright and did not flicker.  Three men saw it and were amazed.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91029.html](http://www.nuforc.org/webreports/reports/091/S91029.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Sun City (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>2 lights following each other really high in the sky, and really fast.It was in summer of 1998, me and my friend we're in my house watching TV, and my Dad came in from the garage and told me and my friend to hurry outside and to look at something in the north-east sky. We then went outside to see what he was talking about and we saw a light flying in the sky from south-east to north-east, and then another follwing it. After watching this finally go out of site, my Dad then looked way into space to look at the stars and then noticed 2 more light flying REALLY high up and traveling VERY fast for being how high they were. They were following each other perfectly and were headed in the same direction the other object had gone to. The next day I heard that the spaceship challenger had been conecting with a russian sattelite. We heard that the same exact place in the sky we saw the first two were exaclty were the news had said it was seen that night. We then knew what the first lights were, but what really got us was the other two which were way out in the atmosphere, and it was impossible for the ship and the satelite to get that high and to go that fast. We also heard of the same report from other people. I still think about it and cant see an explanation other than it being two UFO's chasing it, and they were quickly catching up with it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08102.html](http://www.nuforc.org/webreports/reports/008/S08102.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [515](http://www.nuforc.org/webreports/reports/164/S164105.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164115.html)
-- [513](http://www.nuforc.org/webreports/reports/159/S159852.html)
-- [512](http://www.nuforc.org/webreports/reports/158/S158195.html)
-- [511](http://www.nuforc.org/webreports/reports/158/S158404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
