@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:03:21 on 20 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:49 on 20 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Gretna (NE) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>At approximataly 1:18 pm, I was taking a short break from work.  I lay next to a corn field for shade.  Looking up at the clouds, I noticed a ball of light traveling straight across the sky.  It came to a full stop, and made a strange maneuver.  I looked away for a brief second, and when I looked for it again, the UFO was gone.((NUFORC Note:  We spoke via telephone with the witness, who telephoned our Hotline, and we found him to be seemingly sober-minded, and apparently sincere about his sighting.  Some of his co-workers saw the same object, although we have not received report from them.  Source of this report forwards photos of discoloration on his hands.  We cannot imagine how the sighting of an object in the sky could cause the discolorations.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135270.html](http://www.nuforc.org/webreports/reports/135/S135270.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Yakima (WA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Three delta shaped objects flying in a "v" formation passed over Yakima, Wash. at22:10 on 07/20/01I was in my hot tub watching airliners traveling generally on a s.east to n.west course when I saw three object traveling in a v formation on the same general heading but at a much lower altitude.  These objects were difficult to see against the dark night sky, but were more visible when they passed below scattered clouds.  They gave off no light,made no sound and could be mistaken for night flying birds if they were nit so fast.  The two outboard objects came close together and then return to their original posions.  The object did not seem to oscillate ,flap or vibrate.  My best guess as to the altitude was 3000-4000 feet.((NUFORC Note:  Three reports of these objects, seen on this night, and also several nights later.  We do not know what they are, but they seem to fly like transport a/c.  They may be large military aircraft practicing low-level flight at night.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18527.html](http://www.nuforc.org/webreports/reports/018/S18527.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [515](http://www.nuforc.org/webreports/reports/164/S164105.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164115.html)
-- [513](http://www.nuforc.org/webreports/reports/159/S159852.html)
-- [512](http://www.nuforc.org/webreports/reports/158/S158195.html)
-- [511](http://www.nuforc.org/webreports/reports/158/S158404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
