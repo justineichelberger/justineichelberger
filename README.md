@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:52 on 20 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:29:03 on 20 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Two Hills (AB) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Me my sister and her two friends were having a campfire I am age 20 they are are 14-15, I was supervising them when I seen the first light appear moving quickly In the sky then is curved off and got dim, disappeared for about 20 seconds then re-appeared in a different location but still heading in the same trajectory, 3 minutes later we spotted 3 more objects to were following the same trajectory pattern the other-one split off and headed off at a 90degree turn then one following the other's suddenly stopped hovered in the stratosphere for about 1 minute then shot far off fast at a erratic 210 degree turn then after that we saw a airplane moving slow and blinking multiple colors moving quite slow and then saw about 3 more fast moving objects that repetedly dimmed and got brighter and changed courses every few seconds moving from left to right with ease</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120508.html](http://www.nuforc.org/webreports/reports/120/S120508.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Friendship (TN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright light over small town.Me and my friend have seen multiple thing like this, but this one really made me wanna speak up.i was standing outside smoking and i saw a bright light out that seemed to have a circlular shadow around it in the sky, it started comin above the tree line then continued to quickly rise up in the sky. Then a second light, not as bright, came up below it, after about a minute, the second one faded away. I started getting a bad feeling like i shouldn't be seeing it. So i came in and found somewhere to report it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76671.html](http://www.nuforc.org/webreports/reports/076/S76671.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [515](http://www.nuforc.org/webreports/reports/164/S164105.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164115.html)
-- [513](http://www.nuforc.org/webreports/reports/159/S159852.html)
-- [512](http://www.nuforc.org/webreports/reports/158/S158195.html)
-- [511](http://www.nuforc.org/webreports/reports/158/S158404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
