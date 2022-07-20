@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:36 on 20 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:46 on 20 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1986, an anonymous witness in San Marcos (TX) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Was looking at all kinds of sites that came up on the Yahoo web site.  It talked about how people are looking at UFO sites.  It reminded me of a something I saw in 86.A friend an I were by San Marcos TX.  fishing at a place called 5 mile dam.I was really early id say about 2-4 am.  The dam has a huge cliff on one side of the river.  While fishing at the furthest part away from the dam, I saw  a large square box, I could see everything on it  as it hovered over the top of the water, it was huge, blk and gray.  I could see lots of detail.   at first I thought it was a weird aircraft that we were testing or something like that, no noise.  I would guess it was the size of a foot ball field or just a bit smaller.  It went over me and then went up over the cliff.  This is weird because after reading some of your stuff a person in Texas  saw the same type of thing.  I was wondering if it was the same one.I will never forget this.  Haven't told to many people thinking they though I may be crazy.  but it happened.((NUFORC Note:  Witness indicates that date of the event is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44613.html](http://www.nuforc.org/webreports/reports/044/S44613.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Cheektowaga (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Two triangular objects they were black with white lights underneath them three on each no sound and they were about four to five hundredMy son was learning about the moon and stars in school.  So we got a telescope just so we can look at the Moon.  And then this happened couple days after we started messing with the telescope.  It was around 11:30.  I went outside to have a cigarette walked out to the middle of my driveway I just looked up to see if I could see anything I could see with my telescope when I looked towards the back of my house I seen six lights they were all white.  I have an airport near me that's like two streets away a little Cessna Airport.  And then the Buffalo International Airport is about 10 miles from me.  As I'm watching these things I'm wondering why I don't see colored lights cuz I'm used to seeing colored lights because of the planes flying by all the time.  But then I noticed there was no sound either and being so low I should hear something.  As I'm looking at them the one to the left turned towards the Buffalo International Airport and the other one to the right turned flying towards Niagara Falls air base ( which is super far away from my house) so I watch the one going to the Buffalo Airport it flew for a short distance towards the airport and then turned around to follow the other one. I have no idea what it was kind of creepy if I knew this website existed I would have said something about it long time ago when I was flushing my head</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153818.html](http://www.nuforc.org/webreports/reports/153/S153818.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [515](http://www.nuforc.org/webreports/reports/164/S164105.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164115.html)
-- [513](http://www.nuforc.org/webreports/reports/159/S159852.html)
-- [512](http://www.nuforc.org/webreports/reports/158/S158195.html)
-- [511](http://www.nuforc.org/webreports/reports/158/S158404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
