@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:44 on 20 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:50 on 20 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1985, an anonymous witness in Ironton (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>unblinking bright white light (star looking) moving at incredible speed changing direction instantlyMy cousin and I were 15 at the time and sleeping in a tent in the yard as it was hot and we had no AC in the house. I was trying to sleep and my cousin was laying with his head out the tent door and kept talking about a moving white light. Thinking it was just a satellite, I did not look until told me it was changing directions instantly at high speed. When I looked, at first I could see nothing...but he told me to watch in this one area for a moment. What appeared to be a big, bright star took off instantly and shot across the sky at an unbelievable rate. It then stopped just as suddenly, making it hard to find, as it just blended in with the stars when not moving. Every once in a while, it would move slowly, maybe making small little circles before shooting back across the sky. Sometimes it would zig zag erratically across the sky, even changing directions 180 degrees without slowing down. The object seemed to travel back and forth generally in a line SE to NW. I watched it for about an hour, and finally got tired and went to sleep. My cousin watched for some time after that, and I think it was still visible when he went to sleep as well. When telling my Dad about it, he said that my uncle had seen similar lights, but in greater numbers. He lived about 10 miles away at Iron Mountain,MO and on many summer nights sat on his front porch watching them. One night one of them fell from the sky out of sight behind the treeline, and immediatly all of the other lights converged on that area and hovered for a few minutes before dispersing again. My uncle was not the type to make up stories about UFO's, and as a matter of fact I don't think he talked about it much for fear of people thinking he was crazy. I read just a year or two ago about a professer doing research around Van Buren MO on UFO's in the 70's (I think). The visual desciption and movement of what he studied sounds as though it was the exact same thing my uncle, cousin,and myself saw.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53715.html](http://www.nuforc.org/webreports/reports/053/S53715.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Lake Wylie (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three reddish lights, one after the other, climbing from low to high in the south-southeast part of the sky, headed west, followed shortly by a fourth one.  No sound.  No shape.  We were on a boat on the lake.  There was also an airplane that went by in another part of the sky which was bright and noisy, which made the silence of the UFOs more obvious.  One witness says he watched the fourth UFO for a while and saw the reddish light go off, leaving just a rounded dark object with no visible wings.  He says the UFOs were coming from the direction of the nuclear plant.  It was not quite full dark yet.  They were moving too fast to be balloons.  Possibly helicopters or drones but very quiet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142340.html](http://www.nuforc.org/webreports/reports/142/S142340.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [515](http://www.nuforc.org/webreports/reports/164/S164105.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164115.html)
-- [513](http://www.nuforc.org/webreports/reports/159/S159852.html)
-- [512](http://www.nuforc.org/webreports/reports/158/S158195.html)
-- [511](http://www.nuforc.org/webreports/reports/158/S158404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
