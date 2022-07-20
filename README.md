@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:05:26 on 20 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:43 on 20 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Wisconsin Rapids (WI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>I'M REPORTING THIS BECAUSE ON ART BELL'S SATURDAY, JULY 31 SHOW, SEVERAL CALLERS IN OTHER AREAS REPORTED SEEING AN OBJECT SIMILAR TO WHAT I SAW.I HAD CONCLUDED IT MIGHT BE VENUS, ALTHOUGHT IT SEEMED OUT OF PLACE.I WASN'T ABLE TO LOOK AT THE SAME SPOT IN THE SKY FOR ABOUT A WEEK BECAUSE OF CLOUDS AND MIST UNTIL LAST NIGHT, AT 1AM WHEN THE SKY WAS CLEAR. I COULD SEE NO OBJECT OF ANY SIZE.ANYWHERE NEAR THE PLACE I HAD PREVIOUSLY SEEN THE BRIGHT OBJECT. I LIVE IN CENTRAL WISCONSIN. I SAW THIS BRIGHT OBJECT ABOUT 2 WEEKS AGO.IT SEEMED TO BE UNUSUALLY LARGE AND BRIGHT IN AN UNLIKELY SPOT IN THE SKY.THIS LOOKED LIKE A VERY LARGE STAR OR A PLANET.IT APPEARED SLIGHTLY NORTH OF DUE EAST, AT ABOUT A 35-40 DEGREE HIGHT.I HAD NOTICED IT WHEN DRIVING HOME FROM A 24 HOUR WALMART AT 1AM.WHEN I GOT HOME I LOOKED AT IT WITH AN 8 POWER SCOPE.IT WAS ROUND, NOT BLINKING, AND SEEMED TO BE REFLECTING SUN LIGHT, SUCH AS A PLANET.IT WAS ABOUT 1/8 INCH IN DIAMETER AS SEEN WITH THE SCOPE.IT DID NOT APPEAR TO MOVE AND WAS IN VIEW AS LONG AS I WATCHED, ABOUT 15 MINUTES.((NUFORC Note:  Date is approximate.  Witness elects to remain totally anonymous.  May be Venus that the witness is observing.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38449.html](http://www.nuforc.org/webreports/reports/038/S38449.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1975, an anonymous witness in Albion (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>A bright blue-white light that hovered for almost an hour then quickly zoomed away.I saw a bright, blue-white light in the west about 15 or so above the horizon. I watched it for about 15 to 20 minutes (maybe for a half hour), then awakened my parents.  My mother got up, but my father refused to.  My mother and I watched the object for perhaps another 15 to 20 minutes.  The object did not move for all of that time.  Finally, the object zoomed away to the north or north-west, first dipping "down" maybe 5 degrees and then turning "up" at a sharp angle, disappearing in less than one second.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38106.html](http://www.nuforc.org/webreports/reports/038/S38106.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [515](http://www.nuforc.org/webreports/reports/164/S164105.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164115.html)
-- [513](http://www.nuforc.org/webreports/reports/159/S159852.html)
-- [512](http://www.nuforc.org/webreports/reports/158/S158195.html)
-- [511](http://www.nuforc.org/webreports/reports/158/S158404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
