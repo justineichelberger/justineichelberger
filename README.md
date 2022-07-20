@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:35 on 20 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:13:24 on 20 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Sanbornton (NH) reported seeing craft that fit the description of some 'Oval' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>craft emits another craftFrom my backyard in Laconia, at 9:00 PM, I saw one orange light hover over the mountains of Sanbornton.  Through binoculars it became much clearer.  There were 2 orange lights with a larger yellow light between them.  The craft hovered in the same place for 30 minutes swaying slightly, then "dropped out" of the bottom a much smaller bright white craft that quickly took off, flying on its own, over Belmont.  The larger craft took off over Lake Winnisquam to Meredith and out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46561.html](http://www.nuforc.org/webreports/reports/046/S46561.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Tinley Park/I-57 (Between, on I 80) (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5 to seven min - 5 to seven min minutes.</sub><blockquote><sub>It looked like two strobe lights flying togetherMy friend and I were driving home frome having coffee at about 2 in the morning. Were traveling east bound on I 80, between Tinley Park and I 57 is were the sighting took place.  I looked up towards the north and observed what looked like a low flying plane traveling at a very high rate of speed.  But after looking at it for a while I noticed it didn't look like a plane at all, it was actually two lights on the botom of some craft that bliked at the exact same time, about 3 second intervals.  What was so srtange is that there weren't any other lights on the craft.  Also  it was going really fast. It was out of sight within 3 min. It traveled along I 80 for about a min. and then took a sharp turn to the north and flew out of sight.  It went towards lake Michigan not towards the airports. It just didn't look like any plane I have ever seen flying around here, with the two airports (Ohare and Midway) I see planes all the time and what they look like at night, this just didn't have the normal plane or jet lights.  There was also a Pasenger jet off in the distance and we compared the two and they looked nothing alike.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04267.html](http://www.nuforc.org/webreports/reports/004/S04267.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [515](http://www.nuforc.org/webreports/reports/164/S164105.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164115.html)
-- [513](http://www.nuforc.org/webreports/reports/159/S159852.html)
-- [512](http://www.nuforc.org/webreports/reports/158/S158195.html)
-- [511](http://www.nuforc.org/webreports/reports/158/S158404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
