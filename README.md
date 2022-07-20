@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:53 on 20 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:36 on 20 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Olivet (MI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A bright light  that first hovered then ascended up and north...I am not sure of the exact date but it was the time of the asteroid showers in the summer of 2002.  My neice (32 years old) went out at approximately 9:45 p.m. not knowing that the asteroid showers were not to take place until 5:00 am or so in the morning.  She came rushing in the house and said she had seen "the comet" come down through the atmosphere with a very large tail.  Not knowing what she was talking about..I explained that we were not suppose to see a comet and that what we were to see was just an asteroid shower that was to take place in the early morn. She was really frighten so I went outside with my binoculars and telescope.  In the west, approximately at 10.40 p.m.  I seen on the horizon which look to be a very bright light.  I assumed it was a planet and set my scope on it. Because of atmospheric conditions I seen this very bright light jump all over in my scope.  I realized then that it was not a planet and told my niece and my 2 children (ages 12 and 13) to look in that direction.  It sounds really stupid but it had a very bright light in the middle and a red light on one side and a green light on the other.  I hate saying that because it seems like I am making it up.  I watched it through my scope for about 5 minutes trying to get my husband to come out when it started to ascend slowly straight up.  About 40 seconds later, it just shot up in the sky to where it seemed to be a bright star.  It hovered there for a minute and proceeded to travel north.  I looked at it until I could see it no more.  This all was in the vicinity of where my niece seen the "comet". I could not tell the shape of the craft due to it's position and light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27586.html](http://www.nuforc.org/webreports/reports/027/S27586.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1986, an anonymous witness in San Marcos (TX) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Was looking at all kinds of sites that came up on the Yahoo web site.  It talked about how people are looking at UFO sites.  It reminded me of a something I saw in 86.A friend an I were by San Marcos TX.  fishing at a place called 5 mile dam.I was really early id say about 2-4 am.  The dam has a huge cliff on one side of the river.  While fishing at the furthest part away from the dam, I saw  a large square box, I could see everything on it  as it hovered over the top of the water, it was huge, blk and gray.  I could see lots of detail.   at first I thought it was a weird aircraft that we were testing or something like that, no noise.  I would guess it was the size of a foot ball field or just a bit smaller.  It went over me and then went up over the cliff.  This is weird because after reading some of your stuff a person in Texas  saw the same type of thing.  I was wondering if it was the same one.I will never forget this.  Haven't told to many people thinking they though I may be crazy.  but it happened.((NUFORC Note:  Witness indicates that date of the event is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44613.html](http://www.nuforc.org/webreports/reports/044/S44613.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [515](http://www.nuforc.org/webreports/reports/164/S164105.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164115.html)
-- [513](http://www.nuforc.org/webreports/reports/159/S159852.html)
-- [512](http://www.nuforc.org/webreports/reports/158/S158195.html)
-- [511](http://www.nuforc.org/webreports/reports/158/S158404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
