@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:50 on 20 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:05:26 on 20 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Brampton (Canada) (ON) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>There were two sightings over the Professor's Lake in Brampton. First , one object in the form of 7 - 8  ligths of various colors placed in one horizontal line moved across the night sky. The speed of it was faster than that of a plane and no sound was heard. Then after about ten minutes two identical objects were observed flying side by side. Suddenly, one of the objects drifted sharply to the left and separated from another. After a moment, it  returned to its previous path. In a few seconds, both objects disappeared. Again, no sound was heard although the objects were flying right over my head. It is difficult to estimate the objects' size but they they took about an inch of space in the sky.I am a high school teacher and this is my first clear UFO experience.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23844.html](http://www.nuforc.org/webreports/reports/023/S23844.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Wisconsin Rapids (WI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>I'M REPORTING THIS BECAUSE ON ART BELL'S SATURDAY, JULY 31 SHOW, SEVERAL CALLERS IN OTHER AREAS REPORTED SEEING AN OBJECT SIMILAR TO WHAT I SAW.I HAD CONCLUDED IT MIGHT BE VENUS, ALTHOUGHT IT SEEMED OUT OF PLACE.I WASN'T ABLE TO LOOK AT THE SAME SPOT IN THE SKY FOR ABOUT A WEEK BECAUSE OF CLOUDS AND MIST UNTIL LAST NIGHT, AT 1AM WHEN THE SKY WAS CLEAR. I COULD SEE NO OBJECT OF ANY SIZE.ANYWHERE NEAR THE PLACE I HAD PREVIOUSLY SEEN THE BRIGHT OBJECT. I LIVE IN CENTRAL WISCONSIN. I SAW THIS BRIGHT OBJECT ABOUT 2 WEEKS AGO.IT SEEMED TO BE UNUSUALLY LARGE AND BRIGHT IN AN UNLIKELY SPOT IN THE SKY.THIS LOOKED LIKE A VERY LARGE STAR OR A PLANET.IT APPEARED SLIGHTLY NORTH OF DUE EAST, AT ABOUT A 35-40 DEGREE HIGHT.I HAD NOTICED IT WHEN DRIVING HOME FROM A 24 HOUR WALMART AT 1AM.WHEN I GOT HOME I LOOKED AT IT WITH AN 8 POWER SCOPE.IT WAS ROUND, NOT BLINKING, AND SEEMED TO BE REFLECTING SUN LIGHT, SUCH AS A PLANET.IT WAS ABOUT 1/8 INCH IN DIAMETER AS SEEN WITH THE SCOPE.IT DID NOT APPEAR TO MOVE AND WAS IN VIEW AS LONG AS I WATCHED, ABOUT 15 MINUTES.((NUFORC Note:  Date is approximate.  Witness elects to remain totally anonymous.  May be Venus that the witness is observing.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38449.html](http://www.nuforc.org/webreports/reports/038/S38449.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [515](http://www.nuforc.org/webreports/reports/164/S164105.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164115.html)
-- [513](http://www.nuforc.org/webreports/reports/159/S159852.html)
-- [512](http://www.nuforc.org/webreports/reports/158/S158195.html)
-- [511](http://www.nuforc.org/webreports/reports/158/S158404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
