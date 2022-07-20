@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:43 on 19 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:52 on 20 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Nampa (ID) reported seeing craft that fit the description of some 'Other' over a period of approximately Short - Short minutes.</sub><blockquote><sub>Strange object in photoI'm a Realtor and was taking pictures of a house to put on the flyer and internet. I never noticed anything at all until I looked at the pictures on my computer. The pictures are taken with a digital camera that records information about the pictures so it tells what date they were taken and time. The one picture has a strange object in the sky above the house. When I looked at it the first time I never thought anything about it. I thought maybe it was on the lens, but none of the rest of the pictures taken at the same time have that object in them. I'm not saying it's anything, but you can look at the photo and the others taken at the same time and decide for yourself. I was looking north east when the picture was taken.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52902.html](http://www.nuforc.org/webreports/reports/052/S52902.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Two Hills (AB) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Me my sister and her two friends were having a campfire I am age 20 they are are 14-15, I was supervising them when I seen the first light appear moving quickly In the sky then is curved off and got dim, disappeared for about 20 seconds then re-appeared in a different location but still heading in the same trajectory, 3 minutes later we spotted 3 more objects to were following the same trajectory pattern the other-one split off and headed off at a 90degree turn then one following the other's suddenly stopped hovered in the stratosphere for about 1 minute then shot far off fast at a erratic 210 degree turn then after that we saw a airplane moving slow and blinking multiple colors moving quite slow and then saw about 3 more fast moving objects that repetedly dimmed and got brighter and changed courses every few seconds moving from left to right with ease</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120508.html](http://www.nuforc.org/webreports/reports/120/S120508.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/164/S164097.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164092.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164094.html)
-- [339](http://www.nuforc.org/webreports/reports/164/S164096.html)
-- [338](http://www.nuforc.org/webreports/reports/164/S164283.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
