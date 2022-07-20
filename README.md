@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:43 on 20 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:40 on 20 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1975, an anonymous witness in Albion (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>A bright blue-white light that hovered for almost an hour then quickly zoomed away.I saw a bright, blue-white light in the west about 15 or so above the horizon. I watched it for about 15 to 20 minutes (maybe for a half hour), then awakened my parents.  My mother got up, but my father refused to.  My mother and I watched the object for perhaps another 15 to 20 minutes.  The object did not move for all of that time.  Finally, the object zoomed away to the north or north-west, first dipping "down" maybe 5 degrees and then turning "up" at a sharp angle, disappearing in less than one second.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38106.html](http://www.nuforc.org/webreports/reports/038/S38106.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Owens Cross Roads (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>A massive bright, white light was observed over Owens Cross Roads, AL, by three adults.We first observed a bright, white light that seemed to be rapidly traveling from the south to a northeasterly direction in the eastern sky.  It then dropped below the tree line after several minutes.  The second sighting we observed was a few minutes later in the western sky.  The second object was a massive bright, white light which looked to be an order of magnitude larger than Venus in the night sky.  It remained stationary in the western sky for approximately 15 minutes before moving out of sight behind the mountain range.  There was no sound, flickering or varying in intensity.  The sky was clear with no clouds present.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142327.html](http://www.nuforc.org/webreports/reports/142/S142327.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [515](http://www.nuforc.org/webreports/reports/164/S164105.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164115.html)
-- [513](http://www.nuforc.org/webreports/reports/159/S159852.html)
-- [512](http://www.nuforc.org/webreports/reports/158/S158195.html)
-- [511](http://www.nuforc.org/webreports/reports/158/S158404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
