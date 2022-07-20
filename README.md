@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:30:33 on 20 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:14:34 on 20 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Brookport (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>bright red lightA family member and I we're returning home and, noticed there was a bright red (very red) light in the sky.  The light was hovering over a neighbors yard, it was big enough to be seen and, super bright!  I pulled into my drive way and,told them to stay in the car, I am going to get the camera!  I opened my car door turned around and, looked at the light and, it it disappeared!!   It disappeared so quick that I have no idea what direction or where it went.  I could tell it looked as if it was a small object, but the light was so bright that it was hard to make out shape! I  have never seen anything like this before and, the brightness of this red light was almost overwhelming.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111725.html](http://www.nuforc.org/webreports/reports/111/S111725.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Diamond Bar (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>My girlfriend and I saw a two story pyramid with bright lights rolling up hill on Grand Ave in Diamond Bar CaliforniaWhile returning home from the dental office, Near Grand and Diamond Bar Blvd, in Diamond Bar California...my girlfriend and I saw a strange lighted object approaching. We had just pulled out our parking space, my girlfriend drove and as she drove towards the main street we noticed an object brightly lit up rolling up the hillside.Excited, my girlfriend parked the car in order to take a picture, the object stopped right in front of us and hovered for approximately 30 seconds.The object was shaped like a pyramid, but the top was flat...there were lights on all four corners. one white, one blue, one red and one amber.The object had a large bubble in the center and the object seemed to roll around it...I also noticed what looked like air vents and a couple of access panels of sorts. The object was approximately 2 stories high and it were gold in color or so it seemed to take on the color of the sun.Now we're both outside the car and she's trying to take the picture with her cell phone...the objected stopped directly behind some trees that had been trimmed recently and right next to a condo complex on Grand Ave.Unable to get a clear picture my girlfriend and I thought the object attempted to avoid us taking a photo...just as she snapped the shutter the object proceeded to roll back down the hill towards Diamond Bar Blvd.We got back in the car and made the right turn down Grand Ave to Diamond Bar Blvd, I kept my eye on the onject as it changed direction and rolled away behind the shopping center. i at first thought to follow and see if i could possibly get a better shot at an picture, but the object began to pull away at an rapid rate of speed.We told ourself not to say anything, but I cant seem to stop seeing in my dreams each night. Plus this isnt my first sighting, but lets let that go!!! I'm a man of many skills...i could build my own aircraft and I know what a weather balloon looks like!!! This was too big to be a radio control craft as well!!!((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92028.html](http://www.nuforc.org/webreports/reports/092/S92028.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [515](http://www.nuforc.org/webreports/reports/164/S164105.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164115.html)
-- [513](http://www.nuforc.org/webreports/reports/159/S159852.html)
-- [512](http://www.nuforc.org/webreports/reports/158/S158195.html)
-- [511](http://www.nuforc.org/webreports/reports/158/S158404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
