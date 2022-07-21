@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:10:27 on 21 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:34 on 21 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Redmond (WA) reported seeing craft that fit the description of some 'Cone' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>At 60 acre when we observed 2 objects similar two sticks one appears to a flare and light both were perfect  up and down sky to land seemed to come from no where and disappears.   Within about 5-8 minutes</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91064.html](http://www.nuforc.org/webreports/reports/091/S91064.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Bristol (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Light in the sky moving in strange ways.Very bright light (brighter than planes) that occasionally flickers.  It’s moving erratically, as if searching for something (up, down, left, and right).  Short periods of remaining still.  Nothing on the air radar.  Still active now.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157820.html](http://www.nuforc.org/webreports/reports/157/S157820.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/164/S164100.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165745.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164157.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164138.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
