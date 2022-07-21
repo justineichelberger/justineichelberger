@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:45:36 on 21 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:30:03 on 21 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Valdosta (GA) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>6 orange in the in valdosta seen by 2 people.I saw 6 orange lights in a circle in the night sky and the like a 1 min later it was gone in 2 seconds.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  Time is corrected above, to reflect a nighttime sighting.  We suspect the sighting occurred in 2012, and we have amended the date, while we await a response from the witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91101.html](http://www.nuforc.org/webreports/reports/091/S91101.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Senecaville (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Fireball in East OhioI was on my way to work and I noticed a fiery orange sphere just slowly moving past.  It was going the opposite direction of me.  It looked to be fairly large but i couldnt get a read on its altitude, so guessing its size would be tough.It looked like a fiery basketball.  This is a rural area in eastern Ohio near the Guernsey/Noble county line on Rt 313.I have never seen anything like this and made no noise that i heard.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91125.html](http://www.nuforc.org/webreports/reports/091/S91125.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/164/S164100.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165745.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164157.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164138.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
