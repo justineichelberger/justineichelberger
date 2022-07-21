@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:36 on 21 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:02:00 on 21 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Middletown (OH) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>I saw two black objects --a large bug shape and a sickle looking shape  parade across the sky one cloudy afternoon.As I sat out in my backyard to take a break on a cloudy afternoon I saw what looked like a giant black bug shaped object that appeared to hop across the sky and immediatly followed by what looked like a twirling black sickle looking object.  They seemed to just vanish and looked like they were putting on some sort of a demonstration.  Anyway I went back into the house and thought who would believe me even if I did report it.  Then I saw some of the photos taken by the Mars rovers and cameras and found what looked like a similar object in the background of sol 605 photo and other photos.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52480.html](http://www.nuforc.org/webreports/reports/052/S52480.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Nashua (NH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Flying Saucer Darts Erratically South NashuaI went outdoors last evening to see if I could see the Neowise comet. I didn't see the comet but I did see something very strange. I saw a bright light and it had a little bit of red in it as well. It was darting around the sky quite erratically.  It would go to the left it would go down it would go up and go across the other way.  It zigzagged swiftly then would hover. It stayed in pretty much one spot but it did move over to the right after some time.  I did wake up the witness and he also observed it and thought it was quite strange. There was no sound.  I did hear airplanes in the distance but I am convinced this was not an airplane.  I watched it for approximately half an hour and then just decided to go to bed.  I can't explain it. It was circular and had bright lights. I occasionally saw some red lights.  It was just darting  across the sky in very erratic patterns. I've never seen anything like it before. It wasn't making much progress across the sky. It would do erratic patterns and then it would move over a bit. And then back to erratic patterns again. It didn't really get very far. I got distinct impression that it was doing a search.  It was looking for something. I was glad it wasn't me it was looking for. Of note, earlier in the day I had recounted about another UFO that followed me from Lowell many years ago. We also heard a noise on our deck that made us jump about 45 minutes before the sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157826.html](http://www.nuforc.org/webreports/reports/157/S157826.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/164/S164100.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165745.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164157.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164138.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
