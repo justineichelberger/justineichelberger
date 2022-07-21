@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:02:00 on 21 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:44 on 21 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Nashua (NH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Flying Saucer Darts Erratically South NashuaI went outdoors last evening to see if I could see the Neowise comet. I didn't see the comet but I did see something very strange. I saw a bright light and it had a little bit of red in it as well. It was darting around the sky quite erratically.  It would go to the left it would go down it would go up and go across the other way.  It zigzagged swiftly then would hover. It stayed in pretty much one spot but it did move over to the right after some time.  I did wake up the witness and he also observed it and thought it was quite strange. There was no sound.  I did hear airplanes in the distance but I am convinced this was not an airplane.  I watched it for approximately half an hour and then just decided to go to bed.  I can't explain it. It was circular and had bright lights. I occasionally saw some red lights.  It was just darting  across the sky in very erratic patterns. I've never seen anything like it before. It wasn't making much progress across the sky. It would do erratic patterns and then it would move over a bit. And then back to erratic patterns again. It didn't really get very far. I got distinct impression that it was doing a search.  It was looking for something. I was glad it wasn't me it was looking for. Of note, earlier in the day I had recounted about another UFO that followed me from Lowell many years ago. We also heard a noise on our deck that made us jump about 45 minutes before the sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157826.html](http://www.nuforc.org/webreports/reports/157/S157826.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Ibague (Colombia) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.008333333333333333 - 0.008333333333333333 minutes.</sub><blockquote><sub>Viajaba a 27.000 pies en un avion comercial venia tomandole fotos a a las alas del avion cuando`por la pantalla de mi camara digital vi una ralla negra en la parte superior en el instante que tome la foto, mire por la ventana haber si habia un avion que hubiera cruzado con nosotros y no observe nada, al revisar las fotos tomadas aparece un circulo negro en la parte superior izquierda.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51814.html](http://www.nuforc.org/webreports/reports/051/S51814.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/164/S164100.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165745.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164157.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164138.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
