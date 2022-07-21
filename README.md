@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:44 on 21 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:36 on 21 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Ibague (Colombia) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.008333333333333333 - 0.008333333333333333 minutes.</sub><blockquote><sub>Viajaba a 27.000 pies en un avion comercial venia tomandole fotos a a las alas del avion cuando`por la pantalla de mi camara digital vi una ralla negra en la parte superior en el instante que tome la foto, mire por la ventana haber si habia un avion que hubiera cruzado con nosotros y no observe nada, al revisar las fotos tomadas aparece un circulo negro en la parte superior izquierda.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51814.html](http://www.nuforc.org/webreports/reports/051/S51814.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Prestons (Australi) () reported seeing craft that fit the description of some 'Flash' over a period of approximately 39.0 - 39.0 minutes.</sub><blockquote><sub>6 different colored lightswe was outside having a nice BBQ, while we was just closing and finishing up.  my sister noticed something dancing in the night sky.  we started to laugh and didn't really pay any attention until she asked us to look up at the night sky.  at first we couldn't see anything. but only cause we wasn't looking at the right direction where she said it would be and with that and once we was all looking at the same direction.  we could see up to 6 different colors and moving at a massive speed as it moved from 1 part of the sky from where we was standing.  right to the other side of the night sky.  i did a route estimate which was over 1400kms and then right back in the same area again and continued in like a dancing pattern.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147715.html](http://www.nuforc.org/webreports/reports/147/S147715.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/164/S164100.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165745.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164157.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164138.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
