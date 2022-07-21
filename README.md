@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:14:35 on 21 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:10:27 on 21 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in St. Catharines (Canada) (ON) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Orange fireball within a triangle that crossed the sky at 400 feet high with no soundI was driving down a country road near the Niagara on the Lake airport when I spotted an orange light in the western sky, approximately 400 feet in the air.  It was the size of a single engine plane and was travelling in a west to east direction.  The speed was that of a single engine plane.  No sound was heard as the object passed my position.My wife was with me in the vehicle and I opened the sunroof to allow her to get a better view of the object.  As I continued to drive she described the object as a fire ball within a triangle.  I continued to drive down the country road, and within 45 seconds the object was out of visual range.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100453.html](http://www.nuforc.org/webreports/reports/100/S100453.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Redmond (WA) reported seeing craft that fit the description of some 'Cone' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>At 60 acre when we observed 2 objects similar two sticks one appears to a flare and light both were perfect  up and down sky to land seemed to come from no where and disappears.   Within about 5-8 minutes</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91064.html](http://www.nuforc.org/webreports/reports/091/S91064.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/164/S164100.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165745.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164157.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164138.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
