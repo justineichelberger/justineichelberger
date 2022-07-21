@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:36 on 21 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:31 on 21 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Prestons (Australi) () reported seeing craft that fit the description of some 'Flash' over a period of approximately 39.0 - 39.0 minutes.</sub><blockquote><sub>6 different colored lightswe was outside having a nice BBQ, while we was just closing and finishing up.  my sister noticed something dancing in the night sky.  we started to laugh and didn't really pay any attention until she asked us to look up at the night sky.  at first we couldn't see anything. but only cause we wasn't looking at the right direction where she said it would be and with that and once we was all looking at the same direction.  we could see up to 6 different colors and moving at a massive speed as it moved from 1 part of the sky from where we was standing.  right to the other side of the night sky.  i did a route estimate which was over 1400kms and then right back in the same area again and continued in like a dancing pattern.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147715.html](http://www.nuforc.org/webreports/reports/147/S147715.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Erie (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>White light moved north to south and faded out.Looked up in the sky just before bedtime while waiting on the dog to pee and saw what appeared to be a bright star or planet.  The light was white and did not blink.  At first I did not notice it moving and did not give it much thought and looked away.  However, my eyes were drawn back to it as I saw it move from north to south and fade out.  I have seen many meteors (was awake for the Leonid showers) and this was moving too slow for a meteor...although, at that altitude (not sure but it seemed way up there) it must have been moving along.  Thought maybe it was a satellite that just happened to catch the sun reflecting off of it but I then saw two airplanes move in that direction.  Those were easy to identify since they had the traditional blinking lights.  The two planes appeared to be at the same altitude and moving in the same direction as the white light was moving.  I live about 2 miles from the southern lake erie shoreline and everything was moving from north to south.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51719.html](http://www.nuforc.org/webreports/reports/051/S51719.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/164/S164100.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165745.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164157.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164138.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
