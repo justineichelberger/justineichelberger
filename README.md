@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:34 on 21 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:43 on 21 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Bristol (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Light in the sky moving in strange ways.Very bright light (brighter than planes) that occasionally flickers.  It’s moving erratically, as if searching for something (up, down, left, and right).  Short periods of remaining still.  Nothing on the air radar.  Still active now.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157820.html](http://www.nuforc.org/webreports/reports/157/S157820.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in North Adams (MA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Tell me someone else saw the same thing I saw last night!  Red flickering lights that appeared to be in a group or a circle.It was right before we went to bed.  My girlfriend called me outside with a panic in her voice.  I said, "Oh, no, not again".  It was true!  There were 5 flying objects in the open sky that were very bright red/yellow flickkering lights.  Each one hoovered over each other in a circled pattern.  As we watched in shock we watch one by one craft disappear instantly.  There was NO trail of lights like you see as if it were an airplane or helicopter.  After they floated in the sky the crafts disappear one by one.  Leaving NO trace.  I am convinced these were UFO's.  We are not alone.............that i know after last night.  I was amazed and called to tell my mother who has always believed.  It was the most exciting thing I have ever witnessed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111774.html](http://www.nuforc.org/webreports/reports/111/S111774.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/164/S164100.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165745.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164157.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164138.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
