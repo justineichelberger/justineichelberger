@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:31 on 21 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:54 on 21 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Erie (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>White light moved north to south and faded out.Looked up in the sky just before bedtime while waiting on the dog to pee and saw what appeared to be a bright star or planet.  The light was white and did not blink.  At first I did not notice it moving and did not give it much thought and looked away.  However, my eyes were drawn back to it as I saw it move from north to south and fade out.  I have seen many meteors (was awake for the Leonid showers) and this was moving too slow for a meteor...although, at that altitude (not sure but it seemed way up there) it must have been moving along.  Thought maybe it was a satellite that just happened to catch the sun reflecting off of it but I then saw two airplanes move in that direction.  Those were easy to identify since they had the traditional blinking lights.  The two planes appeared to be at the same altitude and moving in the same direction as the white light was moving.  I live about 2 miles from the southern lake erie shoreline and everything was moving from north to south.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51719.html](http://www.nuforc.org/webreports/reports/051/S51719.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Kenmore (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>High flying light heading north stopped and then vanished on a clear night.I was on my balcony, which faces south, having a cigarette and looking at the stars. Suddenly out of the southern sky is a light heading due north. I assumed it was either a high flying plane or a satelite (probably a satelite because of the apparent altitude and speed), I've seen quite a few in the last 3 or 4 weeks which I believed were satelites because of their apparent altitude and speed (I watch the ISS whenever I can and their speed is comparable although slightly faster). It was heading directly over my head when it suddenly stopped and then about 5 seconds later just vanished. The sky is very clear with no clouds whatsoever and where it vanished was among a number of stars. As far as I am aware, satelites cannot just stop in mid orbit and neither can high flying planes. Were it not for it stopping and then vanishing, I would not have found it unusual, I would have just assumed it was a satelite.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38250.html](http://www.nuforc.org/webreports/reports/038/S38250.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/164/S164100.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165745.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164157.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164138.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
