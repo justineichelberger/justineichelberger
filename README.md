@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:34 on 21 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:46 on 21 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Dundee (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>3 glowing (amber) orbs releasing 3 green orbsThere were 3 glowing (amber) orbs that appeared releasing 3 more green orbs.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18561.html](http://www.nuforc.org/webreports/reports/018/S18561.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Montreal (Canada) (QC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Silvery, oval object high up in blue sky at midday, incredible speed and incredible maneuvering.Beautiful summer day, blue sky, excellent visibility. Noticed a little aircraft, high up, thought it was a private jet. Couldn't see wings but it was very high and  silvery, reflecting the sunlight like a little mirror, so it didn't seem unusual at the moment.  But within a few seconds I realized how fast it was going--way, way faster than any aircraft I've ever seen.  My eyes fixed on it and I stopped walking. (I was on a sidewalk on a city street--Avenue du Parc--and I didn't want to walk into another pedestrian or a parking meter.) It was making a gentle arc, almost a straight line, across the sky, the way high-flying passenger planes do, but I realized it was not a normal plane or jet at all.  It was oblong, no wings, and it made no vapor trail and no noise.  (Too high up to be heard, maybe, like the highest passenger planes you can see.  But those always leave contrails, which is why you notice them in the first place.)   Then it dipped--it changed direction like no aircraft I've ever seen before.  I've been to air shows--I've seen F-14's and all kinds of other military craft--and I tell you there's no aircraft I know of that can change direction so suddenly.  It almost stopped, dipped down, making a path like the letter "U," and then sped off to the left, a completely different trajectory.I couldn't believe what I was seeing.  I quickly looked around to see if anyone else noticed it--there were people sitting nearby at an outdoor cafe--but they were all talking to each other or reading, sipping their coffee.  The flying object would soon disappear behind the building across the street,  I thought, so I wasn't going to waste time telling some strangers to look at it. (It was so small and moving so fast, it seemed useless to do that.)   Then it flew into a wispy cloud, one of the few in the sky, and I lost sight of it completely.  I continued on my way and kept looking for it, but after passing through the cloud it must have been too far away to see with the naked eye.  As I said, it was going incredibly fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91044.html](http://www.nuforc.org/webreports/reports/091/S91044.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/164/S164100.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165745.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164157.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164138.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
