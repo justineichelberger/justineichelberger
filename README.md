@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:34 on 21 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:44 on 21 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1987, an anonymous witness in Gypsum (CO) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>UFO near Gypsum and Eagle Colorado around 1987 - strange oval object hovers and speeds awayBack in 1987 (approximately) my husband and were driving on a rural road from Gypsum, Colorado, to Eagle, Colorado.  I believe it was mid-day around 11 or noon.  Just outside Gypsum, past the high school, there was a small farm with a ranch house and barn on the left hand side of the road (we were headed East.)  While driving, we noticed a strange metallic oval/sphere that was hovering over the farmhouse.  It was about 20 – 30 feet above the house and seemed to be floating.  The metal of the object did not have any reflection and was hard to make out any detail.  The object was not large, perhaps the size of a small car (VW bug).  The main thing that was odd was the way it moved.  It made no noise, and the object’s movements didn’t make sense or seem to apply to the laws of gravity and physics.  It floated, and then hovered above the farm house. Then, suddenly, the object shot up into the sky extremely fast.  Its speed was faster than anything had ever seen before.  Afterwards, my husband and I looked at each other with stunned faces and said, “What was that?”  And then for some reason, we discounted it and never talked about it again.  I had completely forgotten about this occurrence until a few years ago.  I have no idea why I didn’t report the incident or tell anyone else what we saw.  However, without a doubt – I believe that it was something not natural or normal – definitely a UFO.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106141.html](http://www.nuforc.org/webreports/reports/106/S106141.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Banbridge (Northern Ireland) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>The circular shaped object came from behind a cloud at great speed and disappeared behind another,not coming out the other side.It was a very sunny day with white fluffy clouds, I had on my sunglasses and had been sitting in my back garden, when I looked straight up and from behind a cloud this circular shaped object with a dark top and silver underside, came accross the sky at great speed and went behind another cloud. So I looked to the other side of the cloud thinking as it was going appear there, but it didnt !!! I scanned the sky for ages but never saw it again. It was only in the blink of an eye I saw this object, but I do believe it was NOT man made, because of its speed.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45880.html](http://www.nuforc.org/webreports/reports/045/S45880.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/164/S164100.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165745.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164157.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164138.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
