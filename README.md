@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:30:03 on 21 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:14:35 on 21 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Senecaville (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Fireball in East OhioI was on my way to work and I noticed a fiery orange sphere just slowly moving past.  It was going the opposite direction of me.  It looked to be fairly large but i couldnt get a read on its altitude, so guessing its size would be tough.It looked like a fiery basketball.  This is a rural area in eastern Ohio near the Guernsey/Noble county line on Rt 313.I have never seen anything like this and made no noise that i heard.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91125.html](http://www.nuforc.org/webreports/reports/091/S91125.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in St. Catharines (Canada) (ON) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Orange fireball within a triangle that crossed the sky at 400 feet high with no soundI was driving down a country road near the Niagara on the Lake airport when I spotted an orange light in the western sky, approximately 400 feet in the air.  It was the size of a single engine plane and was travelling in a west to east direction.  The speed was that of a single engine plane.  No sound was heard as the object passed my position.My wife was with me in the vehicle and I opened the sunroof to allow her to get a better view of the object.  As I continued to drive she described the object as a fire ball within a triangle.  I continued to drive down the country road, and within 45 seconds the object was out of visual range.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100453.html](http://www.nuforc.org/webreports/reports/100/S100453.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/164/S164100.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165745.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164157.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164138.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
