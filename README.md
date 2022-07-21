@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:44 on 21 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:45:36 on 21 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Rhome (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Low flying craft with large shadowDriving three miles north of Rhome (between Rhome and Decatur) Texas on 287.  Saw a large shadow of a craft flying very low and very fast across the highway and it flew directly over the front of my truck.  This incident caused me to swerve to where I almost lost control of my truck and could have easily gone off the road.  This was unlike anything I have ever seen. After this happened, all of my electronics went haywire.  The batteries in my truck died and would not charge with a jump, my cell phone stopped working and will not turn on and it is fairly new, and my laptop computer will not turn on, nor will it hold a charge. I cannot explain what flew over the front of my truck but whatever it was, has ended up costing me a lot of money to replace all of my electronics.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91255.html](http://www.nuforc.org/webreports/reports/091/S91255.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Valdosta (GA) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>6 orange in the in valdosta seen by 2 people.I saw 6 orange lights in a circle in the night sky and the like a 1 min later it was gone in 2 seconds.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  Time is corrected above, to reflect a nighttime sighting.  We suspect the sighting occurred in 2012, and we have amended the date, while we await a response from the witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91101.html](http://www.nuforc.org/webreports/reports/091/S91101.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/164/S164100.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165745.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164157.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164138.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
