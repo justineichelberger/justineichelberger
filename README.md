@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:44 on 21 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:34 on 21 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Banbridge (Northern Ireland) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>The circular shaped object came from behind a cloud at great speed and disappeared behind another,not coming out the other side.It was a very sunny day with white fluffy clouds, I had on my sunglasses and had been sitting in my back garden, when I looked straight up and from behind a cloud this circular shaped object with a dark top and silver underside, came accross the sky at great speed and went behind another cloud. So I looked to the other side of the cloud thinking as it was going appear there, but it didnt !!! I scanned the sky for ages but never saw it again. It was only in the blink of an eye I saw this object, but I do believe it was NOT man made, because of its speed.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45880.html](http://www.nuforc.org/webreports/reports/045/S45880.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Dundee (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>3 glowing (amber) orbs releasing 3 green orbsThere were 3 glowing (amber) orbs that appeared releasing 3 more green orbs.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18561.html](http://www.nuforc.org/webreports/reports/018/S18561.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/164/S164100.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165745.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164157.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164138.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
