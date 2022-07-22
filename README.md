@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:39 on 22 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:34 on 22 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Brandon (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Fireballs over Brandon FloridaWhile in my backyard I sorted one object from the east heading west at a fast speed before slowing down and then heading NW.  I told my buddy to go get his phone to record it.  A the first object went out of sight we noticed 2 more traveling the same pattern followed by 3 more then 2 more.  They all seemed to follow the first object.  Then shortly after another lone object came and feed the others before vanis hing None of the objects made any noise and were not that high in the sky.  I have a serious of 5 short videos.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91087.html](http://www.nuforc.org/webreports/reports/091/S91087.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Pattaya (Thailand) (Chon Buri (Thailand)) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>I saw a shape hovering top of the sea then disappeared and appeared right on top of us.Me and my wife had a small argument and she went to seat in the balcony, as I joined her and sat next to her i noticed a object hovering maybe 3 or 4 meter over the sea and it was maybe 2km away from us. i immediately told my wife and asked her to look at it to make sure I was not hallucinating. She was as shoked as I was and could understand how that was possible. The object just disappeared and made no noise at all. As i hold my head between my hands and was saying wow that's unbelievable, i looked up and saw a metalik black greyish triangle right on top of us with 3 round cercle at each extramity. I couldnt believe it, at the same time it was scary. I managed to tell my wife to look up and she saw it too. And then it just wanished. No apparent engine, no smoke,no sound. actualy they was a sound but it was like wind sound, as a guess it was becauae of the speed it left.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165709.html](http://www.nuforc.org/webreports/reports/165/S165709.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [348](http://www.nuforc.org/webreports/reports/164/S164179.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164266.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164125.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164135.html)
-- [344](http://www.nuforc.org/webreports/reports/157/S157887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
