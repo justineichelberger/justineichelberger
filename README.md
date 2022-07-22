@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:43 on 22 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:29:01 on 22 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Lake Springs (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>three ufo's  one starlike and two craft likeOn Wedsnday July 22nd, 2009 It was about 9:49 p.m.  I walked out side to I saw a flash of light before I did so, but I thought it was my daughter playing with a camera flash, but she wasn't playing with it at the time.  I walked out to put the dog out to do business when I glanced up and noticed a star like object.  I thought it was moving but seeing how the mind can play tricks and stars appear to move sometimes  I was really shocked that it really was moving very slowly. It was bright white.   I ran inside the house, and grabbed my cell phone to try to document if it did anything else.  I got back outside and it had moved over my property and then just blinked out.  There was no clouds in the sky at the time.  The object was flying very low. Probably at helicopter or cesna level.    Going from West to east but then curving towards the south.  It couldn't have been very big,  maybe the size of a car.Then about 12:15 in the morning on Thursday July 23rd, I  saw two crafts following right after another, but these were reddish orange blinking and moving quickly. They also seemed to be flying at a higher altitude then the previous object.  They came from the same direction as the star like craft travelling west to east over highway 72 near Lake Springs, Missouri.  My daughter saw these two objects with me.Also no sounds were auidble.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71251.html](http://www.nuforc.org/webreports/reports/071/S71251.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in McKinney (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>White light fell out of the skyWhite light appeared in the sky and fell to the ground.  There was no sound and only lasted a few seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82649.html](http://www.nuforc.org/webreports/reports/082/S82649.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [348](http://www.nuforc.org/webreports/reports/164/S164179.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164266.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164125.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164135.html)
-- [344](http://www.nuforc.org/webreports/reports/157/S157887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
