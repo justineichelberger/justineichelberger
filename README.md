@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:01:46 on 22 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:53 on 22 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Olds (Canada) (AB) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>meteor-like, East of Calgary, Ab.Hi ufocenter,  I drive a truck in Alberta and Saskatchewan.  I was heading South on highway 2 between Edmonton and Calgary, near Olds, when I noticed a bright light out my drivers side window, East, very close to 1:25 AM.  It travelled North to South.  It was the shape of a kidney bean or unshelled peanut.  I thought it was a meteor or something hitting the outer atmosphere, but is was too big for that, too close.  It streaked across the sky for a short distance, maybe about a 1/5 of the total width of the sky.  It then just stopped and disappeared in a kind of glow.  My impression is that it skipped off the atmosphere and headed back out to space.  It was too big, too close though.When it streaked through the sky it did not leave a trail like a comet does.  A very little bit of spark kind of stuff, mostly glow.  It glowed green, blue, red, mostly brilliant orange.  It only lasted about 25 seconds, at the most.The company I work for has 4 trucks.  One of the other drivers was at Olds at the same time, but he didn’t see anything.But talking to one of the other drivers, he did notice a flash in the sky, but did not see it.  He was near Suffield, Ab., close to the Sk. Border, and attributed it to something from the military base at Suffield.  Shortly after that, our 4th driver texted him ‘did you see that?’  What he saw and where he was, I don’t know yet.  But I suspect he was between Calgary and Medicine Hat.  That was the route for the night.I think it was a meteorite or whatever its called.  It is very curious though how big it seemed and so close.  But it wasn’t.  The other driver’s were quite East and saw it to the East also.Thank you for your time and website for reporting.Dennis</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112105.html](http://www.nuforc.org/webreports/reports/112/S112105.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Wilmington (near) (IL) reported seeing craft that fit the description of some 'Cross' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Drive south bound on 53 past elwood almost to river rd. Isolated storm o my left I was takening a picture that it was just a small section all other clouds white fluffy sky blue. I looked again and saw a very bright white kinda looked like Saturn shape but light was shining off of it. It was going fast one direction with ball in front it slowed down ball down and went opposite direction ball back pointing direction it was going. I got out camera and of course hit a patch of trees saw nothing on otherside of trees. It was beautiful but shouldn't be happening.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157829.html](http://www.nuforc.org/webreports/reports/157/S157829.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [348](http://www.nuforc.org/webreports/reports/164/S164179.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164266.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164125.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164135.html)
-- [344](http://www.nuforc.org/webreports/reports/157/S157887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
