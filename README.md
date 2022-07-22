@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:54 on 21 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:43 on 22 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Kenmore (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>High flying light heading north stopped and then vanished on a clear night.I was on my balcony, which faces south, having a cigarette and looking at the stars. Suddenly out of the southern sky is a light heading due north. I assumed it was either a high flying plane or a satelite (probably a satelite because of the apparent altitude and speed), I've seen quite a few in the last 3 or 4 weeks which I believed were satelites because of their apparent altitude and speed (I watch the ISS whenever I can and their speed is comparable although slightly faster). It was heading directly over my head when it suddenly stopped and then about 5 seconds later just vanished. The sky is very clear with no clouds whatsoever and where it vanished was among a number of stars. As far as I am aware, satelites cannot just stop in mid orbit and neither can high flying planes. Were it not for it stopping and then vanishing, I would not have found it unusual, I would have just assumed it was a satelite.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38250.html](http://www.nuforc.org/webreports/reports/038/S38250.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Lake Springs (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>three ufo's  one starlike and two craft likeOn Wedsnday July 22nd, 2009 It was about 9:49 p.m.  I walked out side to I saw a flash of light before I did so, but I thought it was my daughter playing with a camera flash, but she wasn't playing with it at the time.  I walked out to put the dog out to do business when I glanced up and noticed a star like object.  I thought it was moving but seeing how the mind can play tricks and stars appear to move sometimes  I was really shocked that it really was moving very slowly. It was bright white.   I ran inside the house, and grabbed my cell phone to try to document if it did anything else.  I got back outside and it had moved over my property and then just blinked out.  There was no clouds in the sky at the time.  The object was flying very low. Probably at helicopter or cesna level.    Going from West to east but then curving towards the south.  It couldn't have been very big,  maybe the size of a car.Then about 12:15 in the morning on Thursday July 23rd, I  saw two crafts following right after another, but these were reddish orange blinking and moving quickly. They also seemed to be flying at a higher altitude then the previous object.  They came from the same direction as the star like craft travelling west to east over highway 72 near Lake Springs, Missouri.  My daughter saw these two objects with me.Also no sounds were auidble.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71251.html](http://www.nuforc.org/webreports/reports/071/S71251.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/164/S164100.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165745.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164157.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164138.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
