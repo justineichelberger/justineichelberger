@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:12:13 on 22 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:59 on 22 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Plover (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Object seen looked like a very bright low flying star, no engine noise, perfectly clear sky.Tonight my wife and I were taking a walk in our neighborhood.  We were walking to the North down our street.  Several miles to the north, we had a lot of summer heat lighting taking place, no thunder.  When the lighting hit, it lit the clouds up with a nice purple color.  Very beautiful.I looked up to the West in crystal clear sky.  Overhead, my wife and I saw a very bright light.  It looked exactly like a star, only much larger and brighter.  It was flying in a straight path, and was silent.  No engine noise was heard at all.  The brightness was very intense.  The light did not blink or flicker, but stayed constantly light.  The object also seemed to be flying at a very slow rate of speed, and did not change altitude.  It flew directly overhead, but no object could be made out, just light.My wife and I turned around back towards our home so we could keep watching the object.  We followed it as we walked past three houses.  At the third house, our view was blocked by a few trees.  Based on the speed it was flying, we should have been easily able to see the object once we were past the trees.  However, the object was simply gone without a trace.  Whether the light simply turned off, or it shot off in the distance, we will never know.  The experience was incredible.That night, there were other aircraft in the sky besides the object.  We saw a propeller airplane far off to the East, and could hear its engine noise in the distance.  This object had no noise at all.My wife and I have been living in Portage county for over twenty years, and have never seen anything like this.  I see airplanes every night in the sky, and I can tell you that this was not an aircraft I have ever seen.  I work as a Personal Banker, and my wife is an Elementary School Teacher.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71247.html](http://www.nuforc.org/webreports/reports/071/S71247.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Ensenada (Mexico) () reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>First, I'd like to explain why I put "N/A" for number of witnesses.  My family and I were on vacation in Ensenada, Mexico.First, I'd like to explain why I put "N/A" for number of witnesses.  My family and I were on vacation in Ensenada, Mexico.  I got some footage, and 8 days later I uploaded it onto my laptop.  I noticed something strange and saw the 'sighting' (which I'll describe in a moment)  Seeing how quick it happened, I'm pretty convinced no one else saw it, and even if they did, it was either a native person to the city or a tourist-both of which I have no way of contacting.The sighting:  The video shows two 'blobs' of light separately.  They then move rapidly towards each other in a flash and join in one huge flash and disappear.  It didn't appear to be aircraft (human made) so the only other option (besides the UFO theory) would be something astronomy related.  I'm not knowledgable in that area, so it may or may not be legit.  I'll try to provide the video since my description isn't quite good.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111960.html](http://www.nuforc.org/webreports/reports/111/S111960.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [348](http://www.nuforc.org/webreports/reports/164/S164179.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164266.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164125.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164135.html)
-- [344](http://www.nuforc.org/webreports/reports/157/S157887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
