@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:36 on 22 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:36 on 22 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Stover (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>orangish white object  streaks across sky , then a dark object with 2 white lights moves across the skyI was walking outside to get my dogs dish so I could feed her . I bent down to pick it up and I noticed a bright orangish white light streaking across to sky . So I ran as fast as I could inside and grabbed my camcorder . When I got back outside I was able to record the object for a few seconds until it vanished into a near by cloud . I then turned my camera off because my battery was low , then I turned and headed back towards the house when i noticed another object directly over head . I quickly turned my camcorder back on and was able to get this object for about 20 to 25 seconds until it to vanished into some clouds . The second object had 2 bright lights attached to unknown dark craft . Also the first object was far away , but the second was close enough to see it was not a airplane or jet .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45223.html](http://www.nuforc.org/webreports/reports/045/S45223.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Pattaya (Thailand) (Chon Buri (Thailand)) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>I saw a shape hovering top of the sea then disappeared and appeared right on top of us.Me and my wife had a small argument and she went to seat in the balcony, as I joined her and sat next to her i noticed a object hovering maybe 3 or 4 meter over the sea and it was maybe 2km away from us. i immediately told my wife and asked her to look at it to make sure I was not hallucinating. She was as shoked as I was and could understand how that was possible. The object just disappeared and made no noise at all. As i hold my head between my hands and was saying wow that's unbelievable, i looked up and saw a metalik black greyish triangle right on top of us with 3 round cercle at each extramity. I couldnt believe it, at the same time it was scary. I managed to tell my wife to look up and she saw it too. And then it just wanished. No apparent engine, no smoke,no sound. actualy they was a sound but it was like wind sound, as a guess it was becauae of the speed it left.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165709.html](http://www.nuforc.org/webreports/reports/165/S165709.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [348](http://www.nuforc.org/webreports/reports/164/S164179.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164266.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164125.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164135.html)
-- [344](http://www.nuforc.org/webreports/reports/157/S157887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
