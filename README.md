@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:46 on 22 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:37 on 22 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Stover (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>orangish white object  streaks across sky , then a dark object with 2 white lights moves across the skyI was walking outside to get my dogs dish so I could feed her . I bent down to pick it up and I noticed a bright orangish white light streaking across to sky . So I ran as fast as I could inside and grabbed my camcorder . When I got back outside I was able to record the object for a few seconds until it vanished into a near by cloud . I then turned my camera off because my battery was low , then I turned and headed back towards the house when i noticed another object directly over head . I quickly turned my camcorder back on and was able to get this object for about 20 to 25 seconds until it to vanished into some clouds . The second object had 2 bright lights attached to unknown dark craft . Also the first object was far away , but the second was close enough to see it was not a airplane or jet .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45223.html](http://www.nuforc.org/webreports/reports/045/S45223.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Knoxville (TN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>One spherical fireball which quickly died out leaving a dark, spinning mass that drifted southwest as it descendedI am an RN case manager and musician and visual artist.  My husband is a computer scientist and jazz pianist.  We are avid bird and nature watchers.  We walk in our West Knoxville, TN, neighborhood almost every day.Tonight my husband and I just witnessed what might be described as a fireball in the Farragut/Concord area just southeast of Turkey Creek and Concord Roads at about 21:15 tonight.We were walking eastward on Turkey Creek Road just east of Anchor Park when we realized that the bright object in the sky above was not a helicopter or airplane.  The center of the roughly spherical object blazed bright orange at first.  It had a dark, slightly irregular outer edge.  It appeared to be spinning.This went on for maybe a minute at most and then the bright center quickly died out and all that was left was a dark, cinder-like spinning object, possibly spherical or disc shaped, that slowly lost altitude as it drifted roughly southwest and was lost to our sight as it descended in the direction of Northshore Drive.  It made no discernible sound.We do not know if there is any relation, but there has been a bad smell in the area this evening - possibly a chemical odor or the smell of something burning.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82648.html](http://www.nuforc.org/webreports/reports/082/S82648.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [348](http://www.nuforc.org/webreports/reports/164/S164179.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164266.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164125.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164135.html)
-- [344](http://www.nuforc.org/webreports/reports/157/S157887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
