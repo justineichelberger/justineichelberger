@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:59 on 22 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:42 on 22 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Ensenada (Mexico) () reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>First, I'd like to explain why I put "N/A" for number of witnesses.  My family and I were on vacation in Ensenada, Mexico.First, I'd like to explain why I put "N/A" for number of witnesses.  My family and I were on vacation in Ensenada, Mexico.  I got some footage, and 8 days later I uploaded it onto my laptop.  I noticed something strange and saw the 'sighting' (which I'll describe in a moment)  Seeing how quick it happened, I'm pretty convinced no one else saw it, and even if they did, it was either a native person to the city or a tourist-both of which I have no way of contacting.The sighting:  The video shows two 'blobs' of light separately.  They then move rapidly towards each other in a flash and join in one huge flash and disappear.  It didn't appear to be aircraft (human made) so the only other option (besides the UFO theory) would be something astronomy related.  I'm not knowledgable in that area, so it may or may not be legit.  I'll try to provide the video since my description isn't quite good.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111960.html](http://www.nuforc.org/webreports/reports/111/S111960.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Woodbury (MN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Silent, orange, glowing craft flies over Woodbury Minnesota.This evening when I walked outside my suburban Minnesota home, I saw what appeared to be a cigar shaped craft flying in a straight line from South to North.  The entire craft was glowing with a flickering orange light that made it appear as though it were on fire and also made it difficult to tell the size and shape of the craft.  It flew over my house close enough that if it had been an airplane I would have heard it's engines, I heard nothing.  At first I thought it may have been a meteorite but it continued on its course not appearing to change altitude at all.  I did pull out my iPhone and record video however by the time I had gotten to it, all I managed to record was what looks like a moving spot of light in the black night sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82662.html](http://www.nuforc.org/webreports/reports/082/S82662.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [348](http://www.nuforc.org/webreports/reports/164/S164179.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164266.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164125.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164135.html)
-- [344](http://www.nuforc.org/webreports/reports/157/S157887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
