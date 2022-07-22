@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:17:54 on 22 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:08:52 on 22 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Sedona (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Flash of white ball of lightOn July 22nd, at 1:30 a.m., I woke out of a deep sleep.  I lay there thinking I left my rungs on the deck.  I thought I needed to go get them inside, in case of rain.I went to the front door to check the weather and I look up into the sky and there was a bright white burst of light.  There was no sound.  I thought to myself it must be lightning and need to get the rugs in.When I went outside I looked up to where the light came from and there was not one cloud in the sky.  That was not lightning.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128642.html](http://www.nuforc.org/webreports/reports/128/S128642.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Mercury (NV) reported seeing craft that fit the description of some 'Circle' over a period of approximately On Going - On Going minutes.</sub><blockquote><sub>Structure similar to Lockheed flying disk in Patent 3,066,890 in satellite photo of Mercury,  NV.Spotted this on FlightRadar24 flight-tracking app,  at location noted below.  I was inclined to dismiss it as a storage tank until I noted that some sort of patch appears to covers corner of object.Follow Interstate 95 to Mercury, follow Mercury Highway past Old Indian Spring Road, look for an unnamed paved road on the right, it is before Cane Spring Road.  Near intersection of Mercury Highway and unnamed road you will see circular structure on ground.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120540.html](http://www.nuforc.org/webreports/reports/120/S120540.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [348](http://www.nuforc.org/webreports/reports/164/S164179.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164266.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164125.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164135.html)
-- [344](http://www.nuforc.org/webreports/reports/157/S157887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
