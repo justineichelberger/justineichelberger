@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:29:01 on 22 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:45:29 on 22 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in McKinney (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>White light fell out of the skyWhite light appeared in the sky and fell to the ground.  There was no sound and only lasted a few seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82649.html](http://www.nuforc.org/webreports/reports/082/S82649.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Louisville (KY) reported seeing craft that fit the description of some 'Egg' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Me my brother my sister and my neighbors were outside we saw a egg shaped tin looking object that had a bright light that looked like super bright fleurescent white lights I went inside to get my mom and when I came back they said it disappeared</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147790.html](http://www.nuforc.org/webreports/reports/147/S147790.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [348](http://www.nuforc.org/webreports/reports/164/S164179.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164266.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164125.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164135.html)
-- [344](http://www.nuforc.org/webreports/reports/157/S157887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
