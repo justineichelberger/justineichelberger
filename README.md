@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:37 on 22 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:46 on 22 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Knoxville (TN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>One spherical fireball which quickly died out leaving a dark, spinning mass that drifted southwest as it descendedI am an RN case manager and musician and visual artist.  My husband is a computer scientist and jazz pianist.  We are avid bird and nature watchers.  We walk in our West Knoxville, TN, neighborhood almost every day.Tonight my husband and I just witnessed what might be described as a fireball in the Farragut/Concord area just southeast of Turkey Creek and Concord Roads at about 21:15 tonight.We were walking eastward on Turkey Creek Road just east of Anchor Park when we realized that the bright object in the sky above was not a helicopter or airplane.  The center of the roughly spherical object blazed bright orange at first.  It had a dark, slightly irregular outer edge.  It appeared to be spinning.This went on for maybe a minute at most and then the bright center quickly died out and all that was left was a dark, cinder-like spinning object, possibly spherical or disc shaped, that slowly lost altitude as it drifted roughly southwest and was lost to our sight as it descended in the direction of Northshore Drive.  It made no discernible sound.We do not know if there is any relation, but there has been a bad smell in the area this evening - possibly a chemical odor or the smell of something burning.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82648.html](http://www.nuforc.org/webreports/reports/082/S82648.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Crystal Beach (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>A stationary object positioned in sky over neighborhood.Object was stationary at cloud level for about 20-30 minutes before cloud cover hide the object.  There was no movement during this time.  It was viewable with the naked eye.  But binoculars would have revealed greater detail.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57813.html](http://www.nuforc.org/webreports/reports/057/S57813.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [348](http://www.nuforc.org/webreports/reports/164/S164179.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164266.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164125.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164135.html)
-- [344](http://www.nuforc.org/webreports/reports/157/S157887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
