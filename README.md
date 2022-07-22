@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:07:49 on 22 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:46 on 22 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Lake Springs (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>three ufo's  one starlike and two craft likeOn Wedsnday July 22nd, 2009 It was about 9:49 p.m.  I walked out side to I saw a flash of light before I did so, but I thought it was my daughter playing with a camera flash, but she wasn't playing with it at the time.  I walked out to put the dog out to do business when I glanced up and noticed a star like object.  I thought it was moving but seeing how the mind can play tricks and stars appear to move sometimes  I was really shocked that it really was moving very slowly. It was bright white.   I ran inside the house, and grabbed my cell phone to try to document if it did anything else.  I got back outside and it had moved over my property and then just blinked out.  There was no clouds in the sky at the time.  The object was flying very low. Probably at helicopter or cesna level.    Going from West to east but then curving towards the south.  It couldn't have been very big,  maybe the size of a car.Then about 12:15 in the morning on Thursday July 23rd, I  saw two crafts following right after another, but these were reddish orange blinking and moving quickly. They also seemed to be flying at a higher altitude then the previous object.  They came from the same direction as the star like craft travelling west to east over highway 72 near Lake Springs, Missouri.  My daughter saw these two objects with me.Also no sounds were auidble.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71251.html](http://www.nuforc.org/webreports/reports/071/S71251.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Stover (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>orangish white object  streaks across sky , then a dark object with 2 white lights moves across the skyI was walking outside to get my dogs dish so I could feed her . I bent down to pick it up and I noticed a bright orangish white light streaking across to sky . So I ran as fast as I could inside and grabbed my camcorder . When I got back outside I was able to record the object for a few seconds until it vanished into a near by cloud . I then turned my camera off because my battery was low , then I turned and headed back towards the house when i noticed another object directly over head . I quickly turned my camcorder back on and was able to get this object for about 20 to 25 seconds until it to vanished into some clouds . The second object had 2 bright lights attached to unknown dark craft . Also the first object was far away , but the second was close enough to see it was not a airplane or jet .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45223.html](http://www.nuforc.org/webreports/reports/045/S45223.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [348](http://www.nuforc.org/webreports/reports/164/S164179.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164266.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164125.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164135.html)
-- [344](http://www.nuforc.org/webreports/reports/157/S157887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
