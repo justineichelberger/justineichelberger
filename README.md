@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:36 on 22 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:32 on 22 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in The Longwood Estate (Hampshire)(UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Largish bright white light/Object streaks across sky at Very low altitude in rural area.The Longwood Estate (near Long Wood Road, Owzlebury).I ventured out one night and drove the 14 miles or so from my home to a particular area of Hampshire (famed for its outstanding beauty and interesting history) and parked up at a favourite spot of mine that is sign-posted as a path (for walkers and horse-riders).  Having left my vehicle, I proceeded to walk on down the path that goes through a large wood, which after quite a way splits off into bridleway's signposted left and right/straight ahead or back the way I had came (I have walked this path many,many times over the years and have alway's felt there is some-one else there the whole time watching me(though of course there never is any-one there at all.......)walking through particular spot's along the path always make me feel particularly uncomfortable but the whole path is itself Incredibly un-nerving,errie  And Very Creepy(this as I said at the beginning is to do with it's long history and certain reputation and you can guess the rest and the reasons why......)! anyway upon reaching the junction I decided to walk straight ahead which takes you up hill and around a blind sharp bend which is scarey in itself (particularly at night) as you cannot see what is around the corner until you walk round it.  But having walked up hill and around the corner and stood for a while rather than walk on up to the top (which I usually do)but on this occasion I decided not to because I felt particularly scared and as I was making my way back down the hill it was at this point that I saw a very bright and Quite large white light at a very low altitude streak down at an angle from the sky(to my left)very close to where I was walking as I say I saw it fall from the sky but because I did'nt see it land on the ground (as somekind of craft would do)nor know the exact location of where it landed other than it being very close to where I was walking (if it did indeed land) then I don't know weather it was just a Shooting star or something else entierly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111835.html](http://www.nuforc.org/webreports/reports/111/S111835.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Deming (NM) reported seeing craft that fit the description of some 'Oval' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Oblong disk hovering over Deming New Mexico 7/22/18On July 22, 2018, I was driving on HWY 26 from Hatch NM to I-10 towards Arizona through Demming and saw the same UFO as sighted on 7/1/18 in the same location.  It was hanging in the sky for at least 20 minutes.  It looked like an oblong disk hovering.  Like a blimp but was not.  I was traveling at least at a rate of 65 mph for over 20 miles and it was just to my left.  When I turned into Deming, I still saw it over the mountain on my left.  When I got onto I-10 it started to quickly ascend straight up into the atmosphere and disappear.  I was going too fast to take a picture but was driving and no safe place to pull over- not sure my cell phone would have captured it well anyway.  I kept thinking, doesn't anyone else see this?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142671.html](http://www.nuforc.org/webreports/reports/142/S142671.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [348](http://www.nuforc.org/webreports/reports/164/S164179.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164266.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164125.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164135.html)
-- [344](http://www.nuforc.org/webreports/reports/157/S157887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
