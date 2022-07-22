@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:37 on 22 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:01:46 on 22 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1970, an anonymous witness in Grand Blanc (MI) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Brother not joking of his encounter. He is a honest dear person, and knows no lies.The letter you recieved on 4-27-2007, of Lizard like creatures, was reported by my brother. He did have this happen to him and lives with it, daily.It is a very acurate account and is no joke.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61471.html](http://www.nuforc.org/webreports/reports/061/S61471.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Olds (Canada) (AB) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>meteor-like, East of Calgary, Ab.Hi ufocenter,  I drive a truck in Alberta and Saskatchewan.  I was heading South on highway 2 between Edmonton and Calgary, near Olds, when I noticed a bright light out my drivers side window, East, very close to 1:25 AM.  It travelled North to South.  It was the shape of a kidney bean or unshelled peanut.  I thought it was a meteor or something hitting the outer atmosphere, but is was too big for that, too close.  It streaked across the sky for a short distance, maybe about a 1/5 of the total width of the sky.  It then just stopped and disappeared in a kind of glow.  My impression is that it skipped off the atmosphere and headed back out to space.  It was too big, too close though.When it streaked through the sky it did not leave a trail like a comet does.  A very little bit of spark kind of stuff, mostly glow.  It glowed green, blue, red, mostly brilliant orange.  It only lasted about 25 seconds, at the most.The company I work for has 4 trucks.  One of the other drivers was at Olds at the same time, but he didn’t see anything.But talking to one of the other drivers, he did notice a flash in the sky, but did not see it.  He was near Suffield, Ab., close to the Sk. Border, and attributed it to something from the military base at Suffield.  Shortly after that, our 4th driver texted him ‘did you see that?’  What he saw and where he was, I don’t know yet.  But I suspect he was between Calgary and Medicine Hat.  That was the route for the night.I think it was a meteorite or whatever its called.  It is very curious though how big it seemed and so close.  But it wasn’t.  The other driver’s were quite East and saw it to the East also.Thank you for your time and website for reporting.Dennis</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112105.html](http://www.nuforc.org/webreports/reports/112/S112105.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [348](http://www.nuforc.org/webreports/reports/164/S164179.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164266.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164125.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164135.html)
-- [344](http://www.nuforc.org/webreports/reports/157/S157887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
