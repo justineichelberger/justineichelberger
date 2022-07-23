@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:46 on 23 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:44 on 23 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Kure Beach (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Group of UFO lights over horizon at Kure Beach, NCOn July 23, 2010, Friday night, my husband and I were sitting at Kure Beach, NC, and enjoying the sound of the waves and soft breeze.  I looked over the horizon and noticed a light.  We always carry our binoculars with us every time we go to the beach on Friday nights.  I picked up mine to get a closer look, and lo and behold, there was a group of lights hovering over the ocean.  At first we thought it was probably a cargo ship, but the lights were way too high for a ship.  There were a group of 5 lights; one red, three yellowish and one yellowish-white.  All of a sudden the lights began to change shape, from triangle to rectangle and then back to triangle again.  The yellowish-white light was below the others and moving back and forth over the water. None were blinking, just hovering and forming triangle and rectangle shapes.  After a while it drifted north and the lights began to dim and it slowly disappeared.  It lasted for about 20 minutes.  My husband and I h! ave seen several UFOs last year at the same beach, but this was the first one we’ve witnessed this year.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76864.html](http://www.nuforc.org/webreports/reports/076/S76864.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Caroline (Canada) (AB) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>equilateral triangle of lights few overtop of us, twice.First sighting around 2 am, first spotted as a very bright star appearing from the west, fairly low to the horizon maybe 20 – 30 degrees.Bright star appeared to be traveling west to east approximately 100 km’s away from our position (south of rocky mountain house, northwest of Caroline).As the star (at this point identified to be more of a very bright light) traveled west to east, two smaller lights appear behind it forming a equilateral triangle, each light moved in unison, really low orbit and very fast.  No sound or light diffraction was noted.  The three lights continued to move in unison eventually disappearing over the ridgeline (our POV) to the northeast of us.  Might have come within 50 km’s of our position at its closest.Second sighting happen approximately 2 hours later, exact same appearance and characteristics as first sighting however now the three lights travelled north to south and flew directing overtop of us. Once again no sound or light distortion was observed.No aircraft were heard or observed that night (we were pretty deep in the bush and could easily hear objects such as planes).((NUFORC Note:  Sighting of ISS.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129031.html](http://www.nuforc.org/webreports/reports/129/S129031.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [380](http://www.nuforc.org/webreports/reports/164/S164145.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164170.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164168.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165756.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164281.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
