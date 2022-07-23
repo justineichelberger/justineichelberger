@@ -212,7 +212,7 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:43 on 23 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:46 on 23 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
 ![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Kure Beach (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Group of UFO lights over horizon at Kure Beach, NCOn July 23, 2010, Friday night, my husband and I were sitting at Kure Beach, NC, and enjoying the sound of the waves and soft breeze.  I looked over the horizon and noticed a light.  We always carry our binoculars with us every time we go to the beach on Friday nights.  I picked up mine to get a closer look, and lo and behold, there was a group of lights hovering over the ocean.  At first we thought it was probably a cargo ship, but the lights were way too high for a ship.  There were a group of 5 lights; one red, three yellowish and one yellowish-white.  All of a sudden the lights began to change shape, from triangle to rectangle and then back to triangle again.  The yellowish-white light was below the others and moving back and forth over the water. None were blinking, just hovering and forming triangle and rectangle shapes.  After a while it drifted north and the lights began to dim and it slowly disappeared.  It lasted for about 20 minutes.  My husband and I h! ave seen several UFOs last year at the same beach, but this was the first one we’ve witnessed this year.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76864.html](http://www.nuforc.org/webreports/reports/076/S76864.html)</i></sub></sub></sub><br>
 <h5><details open>
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [380](http://www.nuforc.org/webreports/reports/164/S164145.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164170.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164168.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165756.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164281.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
