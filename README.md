@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:33 on 23 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:41 on 23 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Washington, D.C. (DC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Ball of fire on the East Coast.There was reported by several local news stations sightings of a ball of fire headed from south to north.  Some reports say there was a loud boom associated with the sighting.  I did not see this but am reporting what was on the news.((NUFORC Note:  We believe the event occurred between 1815 and 1820 hrs..  We have changed the time here.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18602.html](http://www.nuforc.org/webreports/reports/018/S18602.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in St. Charles (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was on my outside back deck.  My friend was with me and said what is that? I looked up and saw a very bright white light with no blinking lights. It seemed to be about the same distance as a satellite. It was moving very fast south to north, It was moving on a straight line with no sound but then it came to a complete stop directly above.  It stayed there for about 5 seconds and shot straight away into space getting smaller until it vanished.  Then to my surprise 15 or 20 minutes later we saw the same thing happen again but with this time it stopped overhead for only 3 seconds but then again shot into space at an amazing speed.  It was like watching something take off in Star Wars light speed.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97243.html](http://www.nuforc.org/webreports/reports/097/S97243.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [380](http://www.nuforc.org/webreports/reports/164/S164145.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164170.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164168.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165756.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164281.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
