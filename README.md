@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:48 on 23 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:37 on 23 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Eagle Point (OR) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Disappeard and reappeared in nonsequential order.I was on my way home with my mother when she pointed out an airplane. I commented on how it was strange to see airplane lights in the middle of the day. All of a sudden it dissappeared. We sat there looking for it. all of a sudden it reappeared much farther than any airplane can travel in that time period. It kept dissappearing and reappearing for five minutes. It finally dissapeared for a final time and we were on our way.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28531.html](http://www.nuforc.org/webreports/reports/028/S28531.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I was sitting outside in my back yard at about 11:00p.m.  I had a rose garden w/a table and chairs placed in the center for recreation.  I’d often go out there at all hours of the day, so 11p.m. wasn’t unusual. At one moment I happened to be glancing at the sky, when I noticed what appeared to be a vertical line formation of about six (if I remember correctly) stars all moving at the same time.  It actually took a couple of seconds for it to sink in.  I mean if I understand correctly, this isn’t exactly normal star behavior.  Six stars in a vertical line, moving all at the same speed. I watched them for several seconds and then all at the same time they just stopped.  They stayed that way for several more seconds before the top one shot off in a northeast direction.  Then after a few more seconds all of the rest of the "stars" scattered in different directions and disappeared.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56432.html](http://www.nuforc.org/webreports/reports/056/S56432.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [380](http://www.nuforc.org/webreports/reports/164/S164145.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164170.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164168.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165756.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164281.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
