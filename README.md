@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:43 on 23 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:42 on 23 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Fredericksburg (VA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Large wingless aircraftMy wife and I heard what sounded like a sonic boom.  Seconds later, we saw a very large craft that was traveling in a straight line northeast toward Washington D.C..  It was faster than a conventional airliner but not as fast as a jet fighter.  It was white but had a silver belly.  It looked just like a C-130, BUT clearly DID NOT have wings! Like a C-130, the fuselage was wide, and appeared to ramp to the rear, but there were no tail fins.  On the belly were two dark grey circles side by side, easily seen as they contrasted from the silver belly.  There were two large cylindrical shapes, one on each side as if there were was a jet engine mounted directly to the fuselage on each side.We could see the craft very clearly.  We did not see windows, not even in the front cockpit area.  There were no markings anywhere.  No contrails.  My first thought was that it looked man-made but we saw it from the side and as it was flying away at an angle....we are convinced that there absolutely no wings on this enormous aircraft.  Unfortunately we were in a pool so we did not have a camera.  However, I could draw it or give a very accurate description to an artist.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82692.html](http://www.nuforc.org/webreports/reports/082/S82692.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Aschersleben (Germany) () reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>I worked on my computer as my friend told me over internet i should look at the sky. I called my mother and we saw a glowing light,seemed to be not far away,after that i saw an orange light moving very fast from left to right. At this time,6 of us saw these objects. I called my friend and we met late in the night to watch out for more objects.In this night we saw more orange lights moving on the sky and then flying away with very high speed.Like in Star Trek if the spaceship warps in hyperroom.((NUFORC Note:  This report, indeed, was submitted from an e-mail address in Germany.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18588.html](http://www.nuforc.org/webreports/reports/018/S18588.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [380](http://www.nuforc.org/webreports/reports/164/S164145.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164170.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164168.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165756.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164281.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
