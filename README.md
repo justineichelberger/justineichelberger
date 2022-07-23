@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:28:38 on 23 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:09:10 on 23 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Canton (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Sitting on porch, orange colored ball traveling north-northeast to south-southwest.  Went across the sky at great speed and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128677.html](http://www.nuforc.org/webreports/reports/128/S128677.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Pensacola (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>orange metalic colored ovals falling from the sky not fireworks falling straight down no way!believe it or not i swear i was just standing outside talking to my childs dad an i just so happen to be looking in the sky an i put this on everything i seen a orange like metalic color ovals falling fast then it turned into three falling ovals then disappeared this was not fireworks falling straight down i think i just saw a damn ufo...im freaking out right now but i always wanted to see something like that but its not so cool now cuz im left wondering like wtf...no im not smoking or drinking im sober</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91111.html](http://www.nuforc.org/webreports/reports/091/S91111.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [380](http://www.nuforc.org/webreports/reports/164/S164145.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164170.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164168.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165756.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164281.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
