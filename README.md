@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:42 on 23 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:48 on 23 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Aschersleben (Germany) () reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>I worked on my computer as my friend told me over internet i should look at the sky. I called my mother and we saw a glowing light,seemed to be not far away,after that i saw an orange light moving very fast from left to right. At this time,6 of us saw these objects. I called my friend and we met late in the night to watch out for more objects.In this night we saw more orange lights moving on the sky and then flying away with very high speed.Like in Star Trek if the spaceship warps in hyperroom.((NUFORC Note:  This report, indeed, was submitted from an e-mail address in Germany.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18588.html](http://www.nuforc.org/webreports/reports/018/S18588.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Valley Stream (NY) reported seeing craft that fit the description of some 'Egg' over a period of approximately  -  minutes.</sub><blockquote><sub>I spotted a very fast reflective object not of this world.I was standing on line for an italian ice at a local ice stand and I was looking up in the air and I saw this oval circular shared craft fly over my head about 500 to 700 feet in the air.  There was no sound at all and then it just shot into the sky at about a 70 degree angle.  The sun had not yet gone down, the craft had a reflective surface.  I would hve reported it sooner but I just happen to stumble on this site tonight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15393.html](http://www.nuforc.org/webreports/reports/015/S15393.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [380](http://www.nuforc.org/webreports/reports/164/S164145.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164170.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164168.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165756.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164281.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
