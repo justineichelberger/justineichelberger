@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:44 on 23 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:38 on 23 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Caroline (Canada) (AB) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>equilateral triangle of lights few overtop of us, twice.First sighting around 2 am, first spotted as a very bright star appearing from the west, fairly low to the horizon maybe 20 – 30 degrees.Bright star appeared to be traveling west to east approximately 100 km’s away from our position (south of rocky mountain house, northwest of Caroline).As the star (at this point identified to be more of a very bright light) traveled west to east, two smaller lights appear behind it forming a equilateral triangle, each light moved in unison, really low orbit and very fast.  No sound or light diffraction was noted.  The three lights continued to move in unison eventually disappearing over the ridgeline (our POV) to the northeast of us.  Might have come within 50 km’s of our position at its closest.Second sighting happen approximately 2 hours later, exact same appearance and characteristics as first sighting however now the three lights travelled north to south and flew directing overtop of us. Once again no sound or light distortion was observed.No aircraft were heard or observed that night (we were pretty deep in the bush and could easily hear objects such as planes).((NUFORC Note:  Sighting of ISS.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129031.html](http://www.nuforc.org/webreports/reports/129/S129031.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Eagle Point (OR) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Disappeard and reappeared in nonsequential order.I was on my way home with my mother when she pointed out an airplane. I commented on how it was strange to see airplane lights in the middle of the day. All of a sudden it dissappeared. We sat there looking for it. all of a sudden it reappeared much farther than any airplane can travel in that time period. It kept dissappearing and reappearing for five minutes. It finally dissapeared for a final time and we were on our way.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28531.html](http://www.nuforc.org/webreports/reports/028/S28531.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [380](http://www.nuforc.org/webreports/reports/164/S164145.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164170.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164168.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165756.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164281.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
