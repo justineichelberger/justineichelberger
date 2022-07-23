@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:32 on 22 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:37 on 23 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in La Pointe (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two lights and a swath of light in front move noiselessly retaining relative positions, high in atmosphere until horizon.I noticed, directly at the midheaven, two bright lights and a swath of light out in front of the lights.  The lights and the swath were moving accross the sky under the Milky Way, and they retained their relative positions to each other. That is, the lights lined up in the direction of travel, and the swath out in front not quite in line with the lights, and not touching the lights.  Also, as to the quality of the lights, one of we who saw it noticed that they did not flicker as stars do, but were brighter and had a steady light.  As to the swath, it was three or more times longer than the space between the lights and maybe a third the lights space apart in width.  The slightly uneven shape of the swath did not change in shape or quality, and the whole unit, which had no apparrent body besides the lights themselves, moved steadily toward the horrizon.  From midheaven to horizon I estimate about three minutes. It was seen by two parties of two on the island(Madaline) at that time and by young campers two hours away near Manitowish Waters, though the campers reports are less specific and are second hand as told to their captain.  Around 2:30--3:00 AM</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18766.html](http://www.nuforc.org/webreports/reports/018/S18766.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Cape Mears (OR) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>	On July 23, 2018, I was tent camping with my bride at Cape Mears, Oregon.  Our camping site was a stone throw from the ocean.  The night was foggy and very misty as the valley was having a heat wave.	At 4:50 am. we were awakened by a strange animal like sound.  I walked out and looked over the ocean and saw two bright orbs, about the size of a basketball, over the ocean.  I immediately thought it was two boats in trouble as it was so close to shore.	Looking closer, it was obvious that it wasn’t a boat because the lights weren’t bobbing up and down, but solid.  The lights would turn and face shore then out to sea turning almost like looking around.  As soon as my wife showed, a third orb appeared.  Next, as we stood in awe, the lights moved quickly further out into the ocean.  Moving quickly, then pausing every now and then.  They then started moving south toward the rocky cape and disappeared into the night.  The entire event lasted about four minutes.((NUFORC Note:  We spoke via telephone with the witness, and found him to be quite sincere, and sober-minded.  We suspect he is a highly reliable witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142406.html](http://www.nuforc.org/webreports/reports/142/S142406.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [348](http://www.nuforc.org/webreports/reports/164/S164179.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164266.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164125.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164135.html)
-- [344](http://www.nuforc.org/webreports/reports/157/S157887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
