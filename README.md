@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:07:42 on 23 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:35 on 23 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Farmington (MO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 105.0 - 105.0 minutes.</sub><blockquote><sub>This is not a sighting but a possible abduction.  I have no memory of the actual abduction, but do have missing the.  This abduction also occurred 4 days before my 1st ever UFO sighting.  The UFO sighting had multiple witnesses as well.  I went to bed watching TV on my phone.  I do this often and charge the phone while I do it so it's fully charged when I wake up.  An hour and 45 minutes later I tell myself in my sleep that I need to wake up.  I just feel like I need to awaken and feel panicked.  I wake up and immediately reach for my phone.  But it's dead, but charging at 1%.  It cannot die on the charger?  And even had I not been charging it, it would not have died watching TV for only an hour and 45 minutes.  Even if it had died, how could it be charging suddenly?  I had an uneasy feeling like I had missed time. I have a guy feeling that I was abducted and grabbed my phone just as they took me.  They had me long enough my phone died. I was returned and my phone put on the charger just as I woke up.  I didn't really believe this until I saw an actual UFO a few days later.  Now I'm extremely nervous to be by myself now.  I also have had a strange and small bruise on my right armpit.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147858.html](http://www.nuforc.org/webreports/reports/147/S147858.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Bristol (RI) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright reflective yellowish rectangular object larger than a plane.My father and I witnessed a very bright object in the southwestern sky over Bristol, RI.  We presumed the sun was reflecting off a plane or maybe even the international space station.  It was light enough outside to see a relatively large rectangular object, moving about as fast as the ISS from SW to SE at about 40-45 degrees.  The color appeared to be a sparkling yellow. I could not make out any wings.  The object was larger than a plane, that would have been visible in the sky, at the same altitude.  I checked the NASA website to see if it could have been the ISS and we were much too early for a sighting.  The speed of the craft was steady and moved across the sky until it was out of our sight.  No distinguishing markings could be seen because of the reflected light.  It was just so much larger than anything I have ever seen in the sky.  I heard about the solar plane and suspected it could have been that but its flight plan had it leaving Egypt for its last leg of its flight to Abu Dhabi.The observers were 64 and 93 years old.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128689.html](http://www.nuforc.org/webreports/reports/128/S128689.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [380](http://www.nuforc.org/webreports/reports/164/S164145.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164170.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164168.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165756.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164281.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
