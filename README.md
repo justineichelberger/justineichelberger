@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:37 on 23 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:30:06 on 23 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Cape Mears (OR) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>	On July 23, 2018, I was tent camping with my bride at Cape Mears, Oregon.  Our camping site was a stone throw from the ocean.  The night was foggy and very misty as the valley was having a heat wave.	At 4:50 am. we were awakened by a strange animal like sound.  I walked out and looked over the ocean and saw two bright orbs, about the size of a basketball, over the ocean.  I immediately thought it was two boats in trouble as it was so close to shore.	Looking closer, it was obvious that it wasn’t a boat because the lights weren’t bobbing up and down, but solid.  The lights would turn and face shore then out to sea turning almost like looking around.  As soon as my wife showed, a third orb appeared.  Next, as we stood in awe, the lights moved quickly further out into the ocean.  Moving quickly, then pausing every now and then.  They then started moving south toward the rocky cape and disappeared into the night.  The entire event lasted about four minutes.((NUFORC Note:  We spoke via telephone with the witness, and found him to be quite sincere, and sober-minded.  We suspect he is a highly reliable witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142406.html](http://www.nuforc.org/webreports/reports/142/S142406.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Albion (NY) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Mom saw grey chevron shaped UFO move slowly toward lake at the treelineWhile outside on the back porch in a town just off Lake Ontario, my mother and her friend saw a low flying dark grey chevron shaped object. It made no noise at all, was about the length of two cars, and flew slowly toward the lake just above the treeline. The UFO had no lights and continued its path with no interruption or change in speed. About a year later, another friend of hers called her and told her she had seen the same exact object moving north toward the lake. There has been a lot of undocumented activity I’ve heard of in this area for years and my mom or her friends wouldn’t think of reporting what she saw so I’ve taken the liberty of sending it in.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147238.html](http://www.nuforc.org/webreports/reports/147/S147238.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [380](http://www.nuforc.org/webreports/reports/164/S164145.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164170.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164168.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165756.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164281.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
