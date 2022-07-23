@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:09:10 on 23 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:03:07 on 23 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Pensacola (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>orange metalic colored ovals falling from the sky not fireworks falling straight down no way!believe it or not i swear i was just standing outside talking to my childs dad an i just so happen to be looking in the sky an i put this on everything i seen a orange like metalic color ovals falling fast then it turned into three falling ovals then disappeared this was not fireworks falling straight down i think i just saw a damn ufo...im freaking out right now but i always wanted to see something like that but its not so cool now cuz im left wondering like wtf...no im not smoking or drinking im sober</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91111.html](http://www.nuforc.org/webreports/reports/091/S91111.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I was sitting outside in my back yard at about 11:00p.m.  I had a rose garden w/a table and chairs placed in the center for recreation.  I’d often go out there at all hours of the day, so 11p.m. wasn’t unusual. At one moment I happened to be glancing at the sky, when I noticed what appeared to be a vertical line formation of about six (if I remember correctly) stars all moving at the same time.  It actually took a couple of seconds for it to sink in.  I mean if I understand correctly, this isn’t exactly normal star behavior.  Six stars in a vertical line, moving all at the same speed. I watched them for several seconds and then all at the same time they just stopped.  They stayed that way for several more seconds before the top one shot off in a northeast direction.  Then after a few more seconds all of the rest of the "stars" scattered in different directions and disappeared.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56432.html](http://www.nuforc.org/webreports/reports/056/S56432.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [380](http://www.nuforc.org/webreports/reports/164/S164145.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164170.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164168.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165756.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164281.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
