@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:35 on 23 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:54 on 23 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Bristol (RI) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright reflective yellowish rectangular object larger than a plane.My father and I witnessed a very bright object in the southwestern sky over Bristol, RI.  We presumed the sun was reflecting off a plane or maybe even the international space station.  It was light enough outside to see a relatively large rectangular object, moving about as fast as the ISS from SW to SE at about 40-45 degrees.  The color appeared to be a sparkling yellow. I could not make out any wings.  The object was larger than a plane, that would have been visible in the sky, at the same altitude.  I checked the NASA website to see if it could have been the ISS and we were much too early for a sighting.  The speed of the craft was steady and moved across the sky until it was out of our sight.  No distinguishing markings could be seen because of the reflected light.  It was just so much larger than anything I have ever seen in the sky.  I heard about the solar plane and suspected it could have been that but its flight plan had it leaving Egypt for its last leg of its flight to Abu Dhabi.The observers were 64 and 93 years old.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128689.html](http://www.nuforc.org/webreports/reports/128/S128689.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Waynesboro (near) (VA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>I observed a triangular shape moving strangely blocking starlight, and make a sharp(but not a right-angle) turn.My wife and I went camping in the Blue Ridge Mountains from 7/21 to 7/24,2001. About 2;25 am on the 23rd, I was stargazing with the telescopes I brought along. In a clear sky,(no scopes, just my naked eyes), saw a triangular "shadow", blocking the stars- it seemed to move at about the same velocity as a mid-sized passenger jet, low altitude, no noise. From my point, it seemed to bank right sharply for a short distance, and I lost sight of it. I would have difficulty trying to guess it's size and speed. And it did get me to surf the net for ufo information. I am not a crackpot, I have over 15 years past experience in the commercial airline refueling and managing a freight forwarding outfit for a dc-8 airline. And, I am into amateur astronomy as a hobby. I read a couple of reports from Virginia here, and I do know it was not a far-off missile. Whatever it was,( and it was not a stealth fighter-I am familiar with them also) it was solid, dark, and quiet. And it did operate much lower than the commercial planes I did view at much higher altitudes, and could hear their thrust even. I have no photos, and my wife was asleep.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18806.html](http://www.nuforc.org/webreports/reports/018/S18806.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [380](http://www.nuforc.org/webreports/reports/164/S164145.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164170.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164168.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165756.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164281.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
