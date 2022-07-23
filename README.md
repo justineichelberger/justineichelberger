@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:30:06 on 23 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:43:00 on 23 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Albion (NY) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Mom saw grey chevron shaped UFO move slowly toward lake at the treelineWhile outside on the back porch in a town just off Lake Ontario, my mother and her friend saw a low flying dark grey chevron shaped object. It made no noise at all, was about the length of two cars, and flew slowly toward the lake just above the treeline. The UFO had no lights and continued its path with no interruption or change in speed. About a year later, another friend of hers called her and told her she had seen the same exact object moving north toward the lake. There has been a lot of undocumented activity I’ve heard of in this area for years and my mom or her friends wouldn’t think of reporting what she saw so I’ve taken the liberty of sending it in.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147238.html](http://www.nuforc.org/webreports/reports/147/S147238.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in East Helena (MT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Sighting of an arrowhead shaped craft about 100 feet over our heads with military escort.My son (a volunteer firefighter) and I (a youth minister) were sitting on my front steps smoking and talking before he had to go to work.  We heard the distinct sound of a large military helicopter to the east of us and casually discussed the fact that it was strange that it was doing what looked to be training manuvers at 4:00 in the morning.  We live over the flight path to the airport and see them many times a day.  I was raised by a dad in the Air Force and was in myself so I am fascinated with aircraft and enjoy watching them when they do training excercises.  We continued to watch as it came closer going from the east to the west and were also wondering why it was flying so low.  As it approached the corner of our yard the tree was moving back and forth violently from the down draft of the rotors.  That's when we noticed the street light reflecting off the bottom of a craft flying directly above the helicopter.  It was shaped like an arrowhead and completely blocked out the stars for about 2 city blocks.  The bottom of it looked like a snakes scales made of a metal we have never seen before. It had one red light at the front and was completely silent.  Once out from under the light it was invisible again except for blocking out the stars and they just slowly continued west until out of sight.  We then realized it was not 2 helicopters doing training it was the one helicopter moving to get below the craft.((NUFORC Note:  Witness corrected date to July 23, 2012, during telephone conversation with NUFORC.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93968.html](http://www.nuforc.org/webreports/reports/093/S93968.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [380](http://www.nuforc.org/webreports/reports/164/S164145.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164170.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164168.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165756.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164281.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
