@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:48 on 23 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:07:42 on 23 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Valley Stream (NY) reported seeing craft that fit the description of some 'Egg' over a period of approximately  -  minutes.</sub><blockquote><sub>I spotted a very fast reflective object not of this world.I was standing on line for an italian ice at a local ice stand and I was looking up in the air and I saw this oval circular shared craft fly over my head about 500 to 700 feet in the air.  There was no sound at all and then it just shot into the sky at about a 70 degree angle.  The sun had not yet gone down, the craft had a reflective surface.  I would hve reported it sooner but I just happen to stumble on this site tonight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15393.html](http://www.nuforc.org/webreports/reports/015/S15393.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Farmington (MO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 105.0 - 105.0 minutes.</sub><blockquote><sub>This is not a sighting but a possible abduction.  I have no memory of the actual abduction, but do have missing the.  This abduction also occurred 4 days before my 1st ever UFO sighting.  The UFO sighting had multiple witnesses as well.  I went to bed watching TV on my phone.  I do this often and charge the phone while I do it so it's fully charged when I wake up.  An hour and 45 minutes later I tell myself in my sleep that I need to wake up.  I just feel like I need to awaken and feel panicked.  I wake up and immediately reach for my phone.  But it's dead, but charging at 1%.  It cannot die on the charger?  And even had I not been charging it, it would not have died watching TV for only an hour and 45 minutes.  Even if it had died, how could it be charging suddenly?  I had an uneasy feeling like I had missed time. I have a guy feeling that I was abducted and grabbed my phone just as they took me.  They had me long enough my phone died. I was returned and my phone put on the charger just as I woke up.  I didn't really believe this until I saw an actual UFO a few days later.  Now I'm extremely nervous to be by myself now.  I also have had a strange and small bruise on my right armpit.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147858.html](http://www.nuforc.org/webreports/reports/147/S147858.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [380](http://www.nuforc.org/webreports/reports/164/S164145.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164170.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164168.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165756.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164281.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
