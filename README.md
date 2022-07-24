@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:39 on 24 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:36 on 24 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Milwaukee (WI) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Bright white light opened like hand-fan, violently collapsed on itselfAt about 5:05 am on the morning of Friday, July 24, 2015, I witnessed something in the sky in the city of Milwaukee, as I was on my balcony looking west across the Milwaukee River.  There was an incredible white light that resembled a hand-fan that was opening and then quickly and violently collapsed.  The light did not brighten the sky as a whole, just a remote area that was about double the size of a typical full moon.  I would guess I witnessed the light at about 35* above the western horizon and my best estimate for direction would be a straight line from about the Hoan bridge towards Potawatomi Casino.  The occurrence lasting about a second, left me humbled and dumbfounded.  I have since been feverishly trying to identify an explanation for the event, but nothing I have found with internet searches or recall from a college-level introduction astronomy course I took years back have helped me make any sense of the incident.  The light collapsing on itself reminded me of television depictions of travel between dimensions I suppose.  I cannot say that there isn’t a natural explanation, but it did appear that the light was flat on the bottom (and rounded on the top as it “fanned-out”).  Whatever it was that I saw has left quite an impression on me, and I’m certain the awesomeness cannot be fully explained with words.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120665.html](http://www.nuforc.org/webreports/reports/120/S120665.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1974, an anonymous witness in Hagerstown (MD) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Football sized  saucer over Hagertown MD in summer of 1974It was dark out, and my wife and I just got out of our car close to our apartment on West Franklin St. For some strange reason we both looked toward the downtown area in the sky. Above the square of Hagerstown was a craft that seemed to be about a football field long, and was hovering silently. My wife and I just kept looking at it without even saying anything for awhile. It had different colored lights slowly revolving around it's perimeter. We couldn't believe the size of it, plus the fact of no noise. Then we began to talk about it, watching it slowly begin to move to the west.All at once it sped up to an incredible speed and vanished. I went to the apt. and called Hagerstown Airport and asked if they picked up anything on radar,and they said no. We have kept quiet about this forever. Now we aren't exactly positive of the exact date that summer, since it has been such a long time, but we will remember this the rest of our lives. The reason I am doing this now is, we are wondering if anyone other than us had seen it.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16995.html](http://www.nuforc.org/webreports/reports/016/S16995.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164155.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164152.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164156.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164150.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164159.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
