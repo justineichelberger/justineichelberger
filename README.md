@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:45 on 24 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:34 on 24 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Arcadia (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Star like object drops rapidly from a high altitude.While driving on I-210 from Pasadena, CA, to Arcadia, CA, I witnessed a white star-like object (in size, brightness, and color) drop in a straight line from an apparent high altitude to almost ground level.  I say “almost” because it was dark out, and I could not clearly discern distance to the object, or where the ground would be.  I did not detect an impact.  I felt that the object was at least 10 to 15 miles away, in other words, quite a ways away.  However, I cannot rule out that it was quite close.  The object did not change color or shape, nor did it have a tail.  I immediately thought it might be a meteor, which is entirely possible, but it did not look like the many other meteors I have seen.  It was more reminiscent of a bright satellite.  I saw something extremely similar on 5 January 2007 in Huntsville, AL.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142498.html](http://www.nuforc.org/webreports/reports/142/S142498.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Edinburgh (UK/Scotland) () reported seeing craft that fit the description of some 'Circle' over a period of approximately North Edinburgh - North Edinburgh minutes.</sub><blockquote><sub>Small blue flashing lights circles over North Edinburgh Sky, moving extremely fast, with flashing strobe lightsUFO SIGHTING ON FRIDAY, 24TH JULY 2009 - EDINBURGH NORTH - SIGHTING ABOVE SKY - PARAMETER FROM EASTER ROAD TO PILRIG PARK  At 11.00pm on friday, 24th july 2009 i was watching television and got disturbed by flashing light from the sky, i went to look out my window, and saw it was very cloudy, through the clouds there were pale blue lights, odd shapes, but mostly circles, which were sporadically moving very fast around the sky, they had lines of blue/white strobe light, their movement was unusual as it was very fast and sporadic, jumpy in fact, not normal. This went on spradic movements for 25 minutes, a red light was on outside of parameter of the blue lights, the red light was smaller than blue lights. The blue lights then dissapeared then a very large blue light, size of moon was still for around 20 minutes, smaller ones dissapeared. It was like the blue ones had amalgamated into one large blue one. All of a sudden the large blue one moved speedily from one position to another, then speedily dissapeared.These UFO’s were most unusual! I called my friend after smaller blue lights dissapeared, she also saw large blue one, and also saw large blue one dissapeared</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71297.html](http://www.nuforc.org/webreports/reports/071/S71297.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164155.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164152.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164156.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164150.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164159.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
