@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:39 on 24 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:41 on 24 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Blandon (PA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>6 silent black objects moving in formation.6 black objects, rising slowly, moving rapidly from west to east, very close.  First one by itself, next three in formation, last two apart from the main group.  All following the same trajectory.  No sound at all.  Flying against the wind as altitude increased.  Watched until they disappeared into the clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111823.html](http://www.nuforc.org/webreports/reports/111/S111823.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Everett (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>white blinking lights over everett waMe and my boyfriend went out on our deck to smoke a ciggarrette. Our deck overlooks snohomish river and the olympic mountains. it was already dark and we seen flashing lights, but couldnt tell what shape it was because it was too dark. By the way the lights were blinking you could tell it was oval shaped.  The craft was extremely low and made no sound. It seemed like it was flying very close above the snohomish river. the blinking lights would stop and the craft would be in a different spot, this pattern was continued. I dont know of anything that could travel that fast. within a minute it was over the olympic mountains. you could tell by the way the lights were munuevering that the craft was spinning. and the route it was going was not like a airplane, because it would go in different directions.((NUFORC Note:  We assume that the sighting occurred on July 24th, and we have amended the date indicated above, submitted by the witness, to reflect that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76773.html](http://www.nuforc.org/webreports/reports/076/S76773.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164155.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164152.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164156.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164150.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164159.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
