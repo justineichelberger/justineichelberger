@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:45 on 24 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:39 on 24 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Staten Island (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Star of Bethlehem seen in sky over entrance to New York harbor.Took my German Shepard for her usual middle of the night backyard walk.  My yard faces East looking over the entrance of Atlantic Ocean into NY harbor.  Almost a bright half moon [oblong shaped]was to the southern sky.  I know this sounds crazy, but above the normal air traffic patterns was the star of Bethlehem shining brighter than the moon.  I ran inside, got my wife, pointed up to it and it went from a bright white light to a greenish look, and in a second shot over to due south under the moon, then turned reddish,shot over to the west then turned blueish.  Then shot over to the North with a yellowish look and then right back to its original East position.  This thing was way up there and was huge.  It moved at impossible speeds around the entire sky, and not 1 plane in sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120669.html](http://www.nuforc.org/webreports/reports/120/S120669.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Milwaukee (WI) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Bright white light opened like hand-fan, violently collapsed on itselfAt about 5:05 am on the morning of Friday, July 24, 2015, I witnessed something in the sky in the city of Milwaukee, as I was on my balcony looking west across the Milwaukee River.  There was an incredible white light that resembled a hand-fan that was opening and then quickly and violently collapsed.  The light did not brighten the sky as a whole, just a remote area that was about double the size of a typical full moon.  I would guess I witnessed the light at about 35* above the western horizon and my best estimate for direction would be a straight line from about the Hoan bridge towards Potawatomi Casino.  The occurrence lasting about a second, left me humbled and dumbfounded.  I have since been feverishly trying to identify an explanation for the event, but nothing I have found with internet searches or recall from a college-level introduction astronomy course I took years back have helped me make any sense of the incident.  The light collapsing on itself reminded me of television depictions of travel between dimensions I suppose.  I cannot say that there isn’t a natural explanation, but it did appear that the light was flat on the bottom (and rounded on the top as it “fanned-out”).  Whatever it was that I saw has left quite an impression on me, and I’m certain the awesomeness cannot be fully explained with words.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120665.html](http://www.nuforc.org/webreports/reports/120/S120665.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164155.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164152.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164156.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164150.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164159.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
