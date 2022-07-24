@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:02:53 on 24 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:39 on 24 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Demotte (IN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately second - second minutes.</sub><blockquote><sub>White ball of light with tailI was standing on my back deck and saw a large white ball with some blue and red with a tail.  It looked close because the size was much larger than shooting stars that I have seen in the past.  I did not hear any sounds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57820.html](http://www.nuforc.org/webreports/reports/057/S57820.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Blandon (PA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>6 silent black objects moving in formation.6 black objects, rising slowly, moving rapidly from west to east, very close.  First one by itself, next three in formation, last two apart from the main group.  All following the same trajectory.  No sound at all.  Flying against the wind as altitude increased.  Watched until they disappeared into the clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111823.html](http://www.nuforc.org/webreports/reports/111/S111823.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164155.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164152.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164156.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164150.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164159.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
