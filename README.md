@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:34 on 24 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:45:36 on 24 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Edinburgh (UK/Scotland) () reported seeing craft that fit the description of some 'Circle' over a period of approximately North Edinburgh - North Edinburgh minutes.</sub><blockquote><sub>Small blue flashing lights circles over North Edinburgh Sky, moving extremely fast, with flashing strobe lightsUFO SIGHTING ON FRIDAY, 24TH JULY 2009 - EDINBURGH NORTH - SIGHTING ABOVE SKY - PARAMETER FROM EASTER ROAD TO PILRIG PARK  At 11.00pm on friday, 24th july 2009 i was watching television and got disturbed by flashing light from the sky, i went to look out my window, and saw it was very cloudy, through the clouds there were pale blue lights, odd shapes, but mostly circles, which were sporadically moving very fast around the sky, they had lines of blue/white strobe light, their movement was unusual as it was very fast and sporadic, jumpy in fact, not normal. This went on spradic movements for 25 minutes, a red light was on outside of parameter of the blue lights, the red light was smaller than blue lights. The blue lights then dissapeared then a very large blue light, size of moon was still for around 20 minutes, smaller ones dissapeared. It was like the blue ones had amalgamated into one large blue one. All of a sudden the large blue one moved speedily from one position to another, then speedily dissapeared.These UFO’s were most unusual! I called my friend after smaller blue lights dissapeared, she also saw large blue one, and also saw large blue one dissapeared</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71297.html](http://www.nuforc.org/webreports/reports/071/S71297.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Cincinnati (OH) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>4 bright orange lights moving southwest slowly in a diamond formation.4 bright orange lights silently moving slowly in a diamond formation.  Seemed to be in a low altitude moving in a southwest dierection.  The lights were initially moving toward our location, but disappeared after passingby.Observers are healthcare professionals.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100923.html](http://www.nuforc.org/webreports/reports/100/S100923.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164155.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164152.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164156.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164150.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164159.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
