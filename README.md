@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:08:04 on 24 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:36 on 24 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Kingston (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10-15s - 10-15s minutes.</sub><blockquote><sub>A star-like object that moved rapidly and erratically in a clear sky, then sudden disappeared.On Friday night, 7/24/09, I was staying alone at my country place near Kingston in NW GA, about 15 miles from the nearest metropolitan areas (Cartersville, Rome).  It was a clear moonless night, so I hoped for some good night sky viewing (even though I’m no astronomer).  Shortly before midnight I went out to look at the sky, and easily spotted the Big Dipper in the NW sky, and Polaris.  I happened to be looking towards an open space between some trees to the NE, at about 45 degrees above the horizon, and could see a number of stars though I couldn’t name the constellation.Movement caught my eye, and I noticed a light that looked like a star (no apparent size, shape or color) which seemed to be moving with respect to the fixed stars in a 10 o’clock direction.  At first I assumed it was a distant airplane, although its angular speed seemed large for the apparent distance, given that I heard no sound.  What first startled me was that after a few seconds it suddenly changed direction by more than 90 degrees with no apparent curve to its trajectory.  A few seconds later it started moving erratically (like Brownian motion) at high rates of angular velocity; then it almost stopped at a point about which it jittered rapidly (like a laser pointer that someone is trying to hold still).  A couple of seconds after that the light suddenly disappeared. Up to that time it had been in clear sky (not close to the tree cover), and the nearby stars remained clearly visible just as before it disappeared.  The whole event lasted no more than 10-15 seconds.Afterwards I felt rather stunned, asking myself if I had really seen what I thought I saw...I couldn’t begin to explain it to myself.  The object’s rapid angular movement, changes of direction and sudden disappearance made no physical sense.   I waited, watching in the same direction, for perhaps 5 minutes but saw nothing more of an unusual nature.I am 60 years old, with a BS in Physics and have worked in engineering most of my career.  I’m not a religious person or a follower of any sort of cult or even interest group.  I simply perceived an event in the sky like nothing I had ever seen before, which appeared to have no rational explanation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71427.html](http://www.nuforc.org/webreports/reports/071/S71427.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Sugarcreek Township (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Second sight of large, orange object in the skies above Sugarcreek Township, that glows then disappears.July 24th was a clear, cool evening.  Letting the dog out for the night, he ran to the front of the property and began to bark, whimper and scurried into the house.  Very little stars out but did notice in the near distance, a large glowing orange ball.   Walking backwards toward the house, I looked away to grab the handle of the door and when I looked back the object was gone.  The object did not get lost in the trees or behind buildings, the property is in the country and there is an open expanse of sky. It was just gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71296.html](http://www.nuforc.org/webreports/reports/071/S71296.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164155.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164152.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164156.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164150.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164159.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
