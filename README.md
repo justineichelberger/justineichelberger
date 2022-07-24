@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:39 on 24 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:39 on 24 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Albany (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>An extremely bright white light zoomed past my window at 12:30AM July 24th.While looking out my second floor window approx. 18" x18" a bright white sphere shot past my view. It was past my neighbors roof top, but by my estimation it was fairly low in the sky compared to planes.My husband and I jumped in our car and drove about 15 miles in the direction of where it was heading. This was in the northern sky heading east.We saw nothing while driving.I looked to see if any meteors were reported and even contacted my local news stations via email. Nothing was reported.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23949.html](http://www.nuforc.org/webreports/reports/023/S23949.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Calgary (Canada) (AB) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Birds dont fly then vanish in a ripple of light and energy.There were 3 flying in formation. 1 on top 2 below on each side of the top one.  They appear to be birds, large, white with black all along the rear of the wings.  Their wings didn't flap they just soared in perfect formation the whole time, circling a former military instalation-  T'su T'ina Indian reserve near the new Grey Eagle Casino.  They circled then disappeared in a subtle flash of light followed by an outward traveling ring of light or energy, much like a ripple.  The sky was clear and blue. I have the occurance CAUGHT ON VIDEO.  I am a trucker from calgary and drive to Vancouver 2 times a week, have one Daughter that lives with her Mother and I pay child support.  I am 34 yrs old, caucaisian male.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78158.html](http://www.nuforc.org/webreports/reports/078/S78158.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164155.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164152.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164156.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164150.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164159.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
