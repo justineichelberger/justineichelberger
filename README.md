@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:36 on 24 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:46 on 24 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Sugarcreek Township (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Second sight of large, orange object in the skies above Sugarcreek Township, that glows then disappears.July 24th was a clear, cool evening.  Letting the dog out for the night, he ran to the front of the property and began to bark, whimper and scurried into the house.  Very little stars out but did notice in the near distance, a large glowing orange ball.   Walking backwards toward the house, I looked away to grab the handle of the door and when I looked back the object was gone.  The object did not get lost in the trees or behind buildings, the property is in the country and there is an open expanse of sky. It was just gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71296.html](http://www.nuforc.org/webreports/reports/071/S71296.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Mt. Snowdon (UK/Wales) () reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>Disk spotted in phototgraphThere isnt much to say other than I was on my way to wales to walk up Mount Snowdon, took a few pictures on the journey there and found a disk shaped object in one of them later when I got home.I did submit the photo to a conspiracy website and they had a guy analyse it - turns out its a raindrop but Im not so sure.  Just wanted to submit the photo in case anyone else ever see's or has seen something similar. The photograph clearly shows a few raindrops as it had just started to slightly rain (which I must say didnt last for long, the rest of the day was sunny but there were big rain clouds around) so you can easily compare the raindrop to the disk shape in the picture.  The conclusion of the photo analysis in my opinion left me with unanswered questions.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74831.html](http://www.nuforc.org/webreports/reports/074/S74831.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164155.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164152.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164156.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164150.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164159.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
