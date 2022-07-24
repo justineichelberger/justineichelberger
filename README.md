@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:46 on 24 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:35 on 24 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Mt. Snowdon (UK/Wales) () reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>Disk spotted in phototgraphThere isnt much to say other than I was on my way to wales to walk up Mount Snowdon, took a few pictures on the journey there and found a disk shaped object in one of them later when I got home.I did submit the photo to a conspiracy website and they had a guy analyse it - turns out its a raindrop but Im not so sure.  Just wanted to submit the photo in case anyone else ever see's or has seen something similar. The photograph clearly shows a few raindrops as it had just started to slightly rain (which I must say didnt last for long, the rest of the day was sunny but there were big rain clouds around) so you can easily compare the raindrop to the disk shape in the picture.  The conclusion of the photo analysis in my opinion left me with unanswered questions.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74831.html](http://www.nuforc.org/webreports/reports/074/S74831.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Metalline Falls (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Brilliant fireball shooting across the sky that crashed behind a mountain illuminating the entire valley.I was driving on a dirt road driveway next to a large, open field. I was about half way around it when a HUGE brilliant white/blue light with a long trail (Comet like)came shooting across the sky. The light was so bright that the inside of my car was completely illuminated and I actually squinted my eyes while looking at it. The object was at least the size of 10 houses with a tail of about 100-200 yards long. The ball passed behind a mountain range that was in the valley where I was located. It appeared to have crashed because it sent a triple flash of the equivalent bright light across the entire valley and skyline of the mountain range as far as I could see. The mountain that it passed behind is uninhabbited with no known roads. I have not heard of any other witnesses but there are other houses next to and in the field that I was passing. I know what I saw was definitely from another lifeforce.((NUFORC Note:  Date is approximate.  PD))((ADDENDUM FROM WITNESS))The direction that the "UFO" came from was NE to SW. It was on my left side and went from behind me to  infront of me. I was on the edge of the field on the road, it was over the field.For the date, I really wish I would have written it down. It was the summer of 96 between June and August of my Junior to Senior year of highschool. I seem to remember it being in mid-July.Metalline Falls is a very unpopulated area and no we don't have a local paper for about 50 miles. There were no other known sightings of it from anyone that my family or I have found.The picture is still very vivid in my mind eventhough it happened in 1996.  ((name deleted))((END))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35218.html](http://www.nuforc.org/webreports/reports/035/S35218.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164155.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164152.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164156.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164150.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164159.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
