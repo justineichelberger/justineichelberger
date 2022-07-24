@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:41 on 24 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:53 on 24 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Everett (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>white blinking lights over everett waMe and my boyfriend went out on our deck to smoke a ciggarrette. Our deck overlooks snohomish river and the olympic mountains. it was already dark and we seen flashing lights, but couldnt tell what shape it was because it was too dark. By the way the lights were blinking you could tell it was oval shaped.  The craft was extremely low and made no sound. It seemed like it was flying very close above the snohomish river. the blinking lights would stop and the craft would be in a different spot, this pattern was continued. I dont know of anything that could travel that fast. within a minute it was over the olympic mountains. you could tell by the way the lights were munuevering that the craft was spinning. and the route it was going was not like a airplane, because it would go in different directions.((NUFORC Note:  We assume that the sighting occurred on July 24th, and we have amended the date indicated above, submitted by the witness, to reflect that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76773.html](http://www.nuforc.org/webreports/reports/076/S76773.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>bright white light moving erratically leaving light trailsLast night I saw a very bright white light in the SSE sky.  It appeared to be moving or jumping, so I took my binoculars out to observe. The light was very high in the sky and moved erratically in all directions while staying in one general area.  The object left light trails, so it looked like light squiggles. The object continued to move like this for about 10 minutes, when it started to move further away and became fainter. It was moving erratically the entire time until it disappeared into the distance.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71268.html](http://www.nuforc.org/webreports/reports/071/S71268.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164155.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164152.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164156.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164150.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164159.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
