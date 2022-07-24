@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:29:14 on 24 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:11:12 on 24 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Fort Dodge (IA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Dark Triangle with 2 lights seen traveling towards thunderstormsI'm not sure of the date, I know if happened during this week, and near the middle of it.I was stopped at a stop light and something caught my eye as I turned the corner.  I slowed to stop in the middle of the road (it was 4:45, no one was out).  I looked up and saw a large dark triangle in the sky.  It was pointed north east and had a green light on one of the rear angles, and a red on the other. There was no light on the front, although there did look like there could be one (perhpas it's just because I would expect there to be).I looked at the object for what seemed to be the longest time.  I'm not really sure how long exactly.  I remember eventually looking away, after what seemed in my head to be the awhile, and seeing lights coming up behind me.  The object had been motionless when I initially saw it, but now when I looked back up the object was slowly flying north east into an area of a thunderstorm (well at least clouds with lightning) and eventually disappeared into the clouds.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47566.html](http://www.nuforc.org/webreports/reports/047/S47566.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in San Antonio (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Orange sphere over TXIt was a clear blue sky and noticed an orange sphere travelling westwardly.  It seemed to be following a straight path.  It wasnt travelling fast and there was no trailing tail.((NUFORC Note:  Witnesses elects to remain totally anonymous; provide no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82728.html](http://www.nuforc.org/webreports/reports/082/S82728.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164155.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164152.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164156.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164150.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164159.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
