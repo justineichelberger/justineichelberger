@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:35 on 25 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:46 on 25 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Fresno (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright white sphere moving south over  FresnoWednesday @ approximately 10:20pm, July 25,2007  I saw a bright light moving from north to south, flying at a slow speed, not to high and not too low, but a couple hundred feet in the air. I saw no outline of an airplane, it made no noise, and slowly traveled in the southernly direction towards LA.  I even used my binoculars and saw, no flashing lights, no color lights(red or green)but a white sphere. Not sure what it was but I know it couldn't have been a helicopter or airplane!  I live by an airport and see airplanes and jets take off daily.  This was no airplane!((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57844.html](http://www.nuforc.org/webreports/reports/057/S57844.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Sioux Falls (SD) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1:00 - 1:00 minutes.</sub><blockquote><sub>Red Orb moves East along south of city.Red 'orb' moving silently passing over clear sky, then behind the partly clouded sky and out of sight.  Moved east from along the southern-central area of town, witnessed further north in the center of town.  Looked just like a ball of light, brighter in the center with a  dispersed 'fuzz' at the edges.  Totally silent with a constant, slow but steady pace.((NUFORC Note:  Because of anomalies in the contact information, we wonder whether this is a serious-minded report.  We have attempted to contact the source of the report, but have not heard back from him.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135351.html](http://www.nuforc.org/webreports/reports/135/S135351.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [447](http://www.nuforc.org/webreports/reports/164/S164200.html)
-- [446](http://www.nuforc.org/webreports/reports/164/S164153.html)
-- [445](http://www.nuforc.org/webreports/reports/164/S164284.html)
-- [444](http://www.nuforc.org/webreports/reports/164/S164149.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165758.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
