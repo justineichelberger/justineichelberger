@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:51 on 25 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:50 on 25 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in St. Louis (Florissant) (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately light - light minutes.</sub><blockquote><sub>i saw something in the sky blinking in a orange colored light moving for about 10 minutes.When i looked out my window i saw a orange colored light blinking in the night sky.at first i thought it was a planet, so i went to go get some water and came back it was moving really fast and it stoped and something came out of it and started to move. then it turned around and then it left the area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51740.html](http://www.nuforc.org/webreports/reports/051/S51740.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bedford (IN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>bright orange sphere, pulsated a pink and blue light,several apeared and orbited it then vanishedi heard a loud thud, boomish type sound didnt think much of it, my younger cousin calls and says theres a helicopter on fire in the sky can you see it?  wich direction is it?to the west? northwest maybe? i searched that direction, and seen a ball of glowing red light, i thought it might have been like a supernova or something, like when a star burns out, it then flashed pink and pulsed blue for a short time.Minutes later what apeard to be a shooting star trailed the western sky or ten seconds maybe, then another, they both dissapeared, then reappeared together parallel to eachother and vanished again seconds later,my phone was charging in the house and that was my only source of photo recording device.I got the phone back, tho its prepaid, i have three short videos and one picture.lo quality but you can definetly see it, as i was video recording it, something passed by with a similar shape of the tsr 71 black bird, or a stealth bomber.What seemed to be a spot light came on and off, it flew low maybe 1000 feet then vanished.blinking starts seemed to appear in a triangular patter, then everything dissapeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91190.html](http://www.nuforc.org/webreports/reports/091/S91190.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [447](http://www.nuforc.org/webreports/reports/164/S164200.html)
-- [446](http://www.nuforc.org/webreports/reports/164/S164153.html)
-- [445](http://www.nuforc.org/webreports/reports/164/S164284.html)
-- [444](http://www.nuforc.org/webreports/reports/164/S164149.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165758.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
