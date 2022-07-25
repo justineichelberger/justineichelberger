@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:44:32 on 25 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:32:12 on 25 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Not Sure - Not Sure minutes.</sub><blockquote><sub>orangish yellowish star FADES in place out of SIGHT. WATCHED IT FADE OUT completely but it didn't move.thought was just a star.  it was near another smaller white star. though it was i guess more yellowish or orangish. just looked across sky as i smoked cig didn't notice it. as i happened to look back at the two stars the orangish yellowish one just FADED out. I mean it. It just faded out, I watched it disappear. And not 5 seconds later way further right in the sky i saw a shooting star come down, but it was an awesome shooting star it like split apart at end and went different directions... but seconds before the shooting star, the orangish star just FADED OUT.  what the hell was that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157908.html](http://www.nuforc.org/webreports/reports/157/S157908.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Columbus (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>I saw a huge triangular object with lights on the bottom flash across the sky and in like 2 seconds it was gone.Tonight at 12:20am I saw a huge triangular shaped UFO.  It was like 20 times larger than the Concord that used to fly commercially in the U.S. (Maybe larger since I was looking from a distance.)  I was going east on the north side of 270 close to Worthington.  Then I saw this thing swoop across the sky like in 2 seconds and it was gone.  It was cloudy so the object was kind of blended in a haze but I did see 3 lights on the bottom of it.  It could not have been an airplane because it was too big and way too fast. I mean 2 seconds and it had flashed across the sky.It was going the same direction I was.  I know what I saw.  I have nothing to gain from this.  Just reporting what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91158.html](http://www.nuforc.org/webreports/reports/091/S91158.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [447](http://www.nuforc.org/webreports/reports/164/S164200.html)
-- [446](http://www.nuforc.org/webreports/reports/164/S164153.html)
-- [445](http://www.nuforc.org/webreports/reports/164/S164284.html)
-- [444](http://www.nuforc.org/webreports/reports/164/S164149.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165758.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
