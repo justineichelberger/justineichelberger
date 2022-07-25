@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:18:41 on 25 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:09:58 on 25 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1971, an anonymous witness in Allentown (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>floating,glowing torus of light seen in neighboring yard.a quick description of where I was when this happened.front bedroom,second floor,south facing window,overlooking neighboring yards.I was getting ready to go to bed and realised that my room was too warm.so I went to open the window,and looking out I noticed a very unusual thing in one of the neighbors yards.directly in front of the entrence to their garage was a floating,glowing,circle of light.I dont know if circle is correct.a torus of indescribable,beautiful light.the light did not illuminate any thing other than itself.at first glance I thought there was a fire in my neighbors yard.then I realised what I was looking at.something completely unknown to me.as I watched it hover there,it began to rise straight up,slowly.then when it reached the level of the garage roof it changed direction from rising straight up to an angle of approximetly fifty degrees and proceeded very rapidly upward,northward,and out of my field of vision.I was fifteen years old then,Iam fiftyone now and not              a day goes by that I do not think of that strange and yet very beautiful "light".I can only call it light because there were no indications I could perceive that it was anything other than light.such as seeing something made of metal and saying I saw a shiny metallic object.nope,only light.I have no evidence to prove my statement.however sometime after the incident I took a picture of the spot where it occured.I still have the photo.you may have it for your files if it helps in keeping track of where these events occur.ps.I forgot to tell you the size of the thing. approx.two feet across by one foot high.((NUFORC Note:  Source of report indicates that date of the event is approximate.  PD))((NUFORC Note:  One of two reports from same source.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58514.html](http://www.nuforc.org/webreports/reports/058/S58514.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Topsail (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Two balls of light on beach and over oceanOrange ball of light in the sky over the ocean.  Appeared 4 times.  One of the appearances the ball of light split into two at an upward angle.  Soon after the last sighting a large translucent ball of white light travelled along the beach at a very fast pace.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128758.html](http://www.nuforc.org/webreports/reports/128/S128758.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [447](http://www.nuforc.org/webreports/reports/164/S164200.html)
-- [446](http://www.nuforc.org/webreports/reports/164/S164153.html)
-- [445](http://www.nuforc.org/webreports/reports/164/S164284.html)
-- [444](http://www.nuforc.org/webreports/reports/164/S164149.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165758.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
