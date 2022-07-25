@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:29:31 on 25 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:44:32 on 25 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Lima (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>Orange light that moves slow.First witness was in a back room of their home and states that they did notice the orange light but thought nothing of it due to frequent helicopter travel above the home.  First witness then noticed the light had not moved, cats outside froze as they looked up at the light and then ran off when it moved.  The light then proceeded to slowly and steadily move upwards and towards the house.  The frst witness began to record the light and then realized the orange light was going descending toward the house.  Frst witness ran outside to attempt to record but became frightened when they realized the orange light made no sound.  They then procced to rally two other witnesses and follow the light above the front of the house when it descended up into the sky and disappeared.  Witnesses say it seemed like an object but the orange lights over came the object.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111864.html](http://www.nuforc.org/webreports/reports/111/S111864.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Not Sure - Not Sure minutes.</sub><blockquote><sub>orangish yellowish star FADES in place out of SIGHT. WATCHED IT FADE OUT completely but it didn't move.thought was just a star.  it was near another smaller white star. though it was i guess more yellowish or orangish. just looked across sky as i smoked cig didn't notice it. as i happened to look back at the two stars the orangish yellowish one just FADED out. I mean it. It just faded out, I watched it disappear. And not 5 seconds later way further right in the sky i saw a shooting star come down, but it was an awesome shooting star it like split apart at end and went different directions... but seconds before the shooting star, the orangish star just FADED OUT.  what the hell was that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157908.html](http://www.nuforc.org/webreports/reports/157/S157908.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [447](http://www.nuforc.org/webreports/reports/164/S164200.html)
-- [446](http://www.nuforc.org/webreports/reports/164/S164153.html)
-- [445](http://www.nuforc.org/webreports/reports/164/S164284.html)
-- [444](http://www.nuforc.org/webreports/reports/164/S164149.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165758.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
