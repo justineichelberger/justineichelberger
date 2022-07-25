@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:04:53 on 25 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:42 on 25 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Rexburg (ID) reported seeing craft that fit the description of some 'Oval' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Glowing white circle/oval with dark center emitting flashes of lightOn July 25, 2020, at 8:30 p.m., while looking due south at approximately 45 degrees elevation, I witnessed bright object that, when viewed with the naked eye, looked like it could be Venus on its brightest night.  When looking at the same object through binoculars, I discovered that the object was slightly oval shaped . . .and looked just like a glowing white musical whole note with a dark/shadowy center.  It remained stationary, not moving left or right, up or down.  The bottom half of the object emitted continuous flashes of light in rapid succession in what looked like random locations always emitting from the bottom half of the object.After the sun went down the sky began to darken, the object moved further into the distance (gaining altitude), taking on a reddish hue until a passing cloud hid it from my view.  At this late point, it was only visible through binoculars (at least until the cloud covered it from my view). The next evening, I looked at the same part of the sky at the same time of the evening to see if I should see anything again.  I saw nothing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157982.html](http://www.nuforc.org/webreports/reports/157/S157982.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1971, an anonymous witness in Allentown (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>floating,glowing torus of light seen in neighboring yard.a quick description of where I was when this happened.front bedroom,second floor,south facing window,overlooking neighboring yards.I was getting ready to go to bed and realised that my room was too warm.so I went to open the window,and looking out I noticed a very unusual thing in one of the neighbors yards.directly in front of the entrence to their garage was a floating,glowing,circle of light.I dont know if circle is correct.a torus of indescribable,beautiful light.the light did not illuminate any thing other than itself.at first glance I thought there was a fire in my neighbors yard.then I realised what I was looking at.something completely unknown to me.as I watched it hover there,it began to rise straight up,slowly.then when it reached the level of the garage roof it changed direction from rising straight up to an angle of approximetly fifty degrees and proceeded very rapidly upward,northward,and out of my field of vision.I was fifteen years old then,Iam fiftyone now and not              a day goes by that I do not think of that strange and yet very beautiful "light".I can only call it light because there were no indications I could perceive that it was anything other than light.such as seeing something made of metal and saying I saw a shiny metallic object.nope,only light.I have no evidence to prove my statement.however sometime after the incident I took a picture of the spot where it occured.I still have the photo.you may have it for your files if it helps in keeping track of where these events occur.ps.I forgot to tell you the size of the thing. approx.two feet across by one foot high.((NUFORC Note:  Source of report indicates that date of the event is approximate.  PD))((NUFORC Note:  One of two reports from same source.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58514.html](http://www.nuforc.org/webreports/reports/058/S58514.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [447](http://www.nuforc.org/webreports/reports/164/S164200.html)
-- [446](http://www.nuforc.org/webreports/reports/164/S164153.html)
-- [445](http://www.nuforc.org/webreports/reports/164/S164284.html)
-- [444](http://www.nuforc.org/webreports/reports/164/S164149.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165758.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
