@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:36 on 25 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:35 on 25 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Mounds View (MN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Four bright red lights in the sky, shaped like a box standing still, then took off at high speeds.I looked out bay window and saw 4 bright red lights out just above the trees.  The strange thing was they were in the shape of a box and not blinking as they should on a plane or tower and they were standing still. As I went for my camera, my wife went out on the deck and she said, "They are not making any noise."As I got back and snapped a photo, the object in the lower left hand side had started moving to the north, then each followed, perfectly spaced, until they disappeared behind the trees. I went out my front door and went two houses down to the corner where I was them come out from behind the trees, stop for 5 second each than take off to the north climbing steeply and were not visible in 8-10 seconds.  My wife came down and said two more came in behind the first four.  We watched all 6 do the same exact stop in the sky for 5 seconds than off they went.  I took 3 photos but only one turned out because of the street light and flash.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111881.html](http://www.nuforc.org/webreports/reports/111/S111881.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1972, an anonymous witness in Sinop (Turkey) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1 year - 1 year minutes.</sub><blockquote><sub>This used to be a U. S. Army base. We used to watch these things nightly. All nightime workers used to watch these as a matter of routine.Eary 1970's - Sinop, Turkey. In the mountains on the north coast of Turkey we would experience nightly light shows. White sphere shaped balls of light would "pop" up into the air. Sometimes a large "ball", as I'll call it, would rise with a smaller one orbiting around it. Others would come up and down out of the mountains and just sit there. Usually that's all they would do - just sit there. Occasionally they would leap-frog over each other but would never leave the mountain tops or approach the base. One night working the midnight shift, I had to drive to a remote part of the base to another building. As I was waiting for clearance to enter the building the large "ball" came up with it's smaller companion orbiting around it. I mentioned it to the MP in the guard shack who just smiled and said, "Yeah, they've been real busy tonight." No one ever talked about them and my captain didn't want to hear of it. They usually would string the mountain tops like christmas lights. These things never did anything and would just sit there till dawn when daylight would fade their light. They were all over Vietnam too. Put out a call to GI's who have been in remote areas of the world, Turkey, Vietnam, Korea, Alaska etc.. You won't believe some of the stories. I know a Marine combat veteran who has photos. No name ATT.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05666.html](http://www.nuforc.org/webreports/reports/005/S05666.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [447](http://www.nuforc.org/webreports/reports/164/S164200.html)
-- [446](http://www.nuforc.org/webreports/reports/164/S164153.html)
-- [445](http://www.nuforc.org/webreports/reports/164/S164284.html)
-- [444](http://www.nuforc.org/webreports/reports/164/S164149.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165758.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
