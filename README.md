@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:46 on 25 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:04:53 on 25 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1975, an anonymous witness in Helsingborg (Sweden) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Big objekt over Elineberg in HelsingborgI was 11years old.An everbody on my street must have seen it.The next day everybody was talking about it.It was 50m in diameter.And it was howering over the houses, soundless.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48803.html](http://www.nuforc.org/webreports/reports/048/S48803.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Rexburg (ID) reported seeing craft that fit the description of some 'Oval' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Glowing white circle/oval with dark center emitting flashes of lightOn July 25, 2020, at 8:30 p.m., while looking due south at approximately 45 degrees elevation, I witnessed bright object that, when viewed with the naked eye, looked like it could be Venus on its brightest night.  When looking at the same object through binoculars, I discovered that the object was slightly oval shaped . . .and looked just like a glowing white musical whole note with a dark/shadowy center.  It remained stationary, not moving left or right, up or down.  The bottom half of the object emitted continuous flashes of light in rapid succession in what looked like random locations always emitting from the bottom half of the object.After the sun went down the sky began to darken, the object moved further into the distance (gaining altitude), taking on a reddish hue until a passing cloud hid it from my view.  At this late point, it was only visible through binoculars (at least until the cloud covered it from my view). The next evening, I looked at the same part of the sky at the same time of the evening to see if I should see anything again.  I saw nothing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157982.html](http://www.nuforc.org/webreports/reports/157/S157982.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [447](http://www.nuforc.org/webreports/reports/164/S164200.html)
-- [446](http://www.nuforc.org/webreports/reports/164/S164153.html)
-- [445](http://www.nuforc.org/webreports/reports/164/S164284.html)
-- [444](http://www.nuforc.org/webreports/reports/164/S164149.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165758.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
