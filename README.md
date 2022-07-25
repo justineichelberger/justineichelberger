@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:40 on 25 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:38 on 25 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Starkville (MS) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Green flash seen in skySaw a flash of green streak across the sky for no more than two seconds.  It appeared to be going northward and had a long green tail behind it.  Was driving away from Crossgates apartment complex.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45261.html](http://www.nuforc.org/webreports/reports/045/S45261.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Tigard (suburb of Portland) (OR) reported seeing craft that fit the description of some 'Oval' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>A silver, oval shaped object hovered directly overhead at high altitude for at least 30 minutes.  A jetliner passed near by the object.  Then a second object  passed near the first, travelling at a speed similar to the jetliner with an apparent heading.It was late afternoon with clear skys and bright sunlight. I was taking a rest after chores on a hammock under a wooden sun shade on an otherwise open air deck. As I layed back, I saw a shiny metallic spot in the sky directly overhead.  It was maintaining a constant position in the sky.  In an attempt to determine what it was, I got my binocculars and returned.  The object had not moved while I was gone. With the binoccular I was able to determine an oval shape.  It was not a convetional aircraft, it could have been a balloon based on it's shape.  I could discern no further details of the object itself. While viewing the object a jetliner passed in the same viewing area directly overhead flying south to north. From my perspective, it seemed the jetliner had to also see the object.  The jetliner appeared to be 16-20 times larger than the object. A short time later, another object of similar size and shape flew across my viewing area directly overhead. It had a heading of NE to SE.  It approached the first object, and went past.  Speed was similar to the rate the jetliner passed. A startling observation for me was the very limited viewing field where I could see the stationary object.  If I left the cover area to an open area of the same deck, I could not find the object in the sky.  If I returned to the hammock and looked straight up I could see the object solidly.  The difference of shade and light surrounding me could be the cause of this effect.  I repeated this several times, until I was convinced near the hammock was the only place I could see this object. I then went to get my video camera.  Laying on the hammock, the object was too small to show up in the view finder.  That discuraged me from shooting tape. I figured that if the viewfinder couldn't see it, I would probably have nothing special on tape. All of this ocurred over about 30 minutes.  In that time the stationary object had drifted only a couple inches south relative to my deck shade. Finally, I just quit looking and went back to my other activities.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04309.html](http://www.nuforc.org/webreports/reports/004/S04309.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [447](http://www.nuforc.org/webreports/reports/164/S164200.html)
-- [446](http://www.nuforc.org/webreports/reports/164/S164153.html)
-- [445](http://www.nuforc.org/webreports/reports/164/S164284.html)
-- [444](http://www.nuforc.org/webreports/reports/164/S164149.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165758.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
