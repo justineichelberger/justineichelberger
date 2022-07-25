@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:32 on 25 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:29:31 on 25 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Berlin (Germany) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Slow moving fireballs over Berlin on a hot summer evening.I was sitting on a bench in Friedrichstrasse in the centre of Berlin . It was dark. In the eastrn sky at approximatly 45 dgrees I saw two  balls of fire processing across the sky at a slight upward angle. They were moving farly slowly and there was complete silence. They then disappeared from view behind a building. I would estimate their height at 2000 feet. I am not intrested in UFOs but have never seen anything like this. I have no obvious explanation. I am from the UK and I had not been drinking or taking any other substance.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64810.html](http://www.nuforc.org/webreports/reports/064/S64810.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Lima (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>Orange light that moves slow.First witness was in a back room of their home and states that they did notice the orange light but thought nothing of it due to frequent helicopter travel above the home.  First witness then noticed the light had not moved, cats outside froze as they looked up at the light and then ran off when it moved.  The light then proceeded to slowly and steadily move upwards and towards the house.  The frst witness began to record the light and then realized the orange light was going descending toward the house.  Frst witness ran outside to attempt to record but became frightened when they realized the orange light made no sound.  They then procced to rally two other witnesses and follow the light above the front of the house when it descended up into the sky and disappeared.  Witnesses say it seemed like an object but the orange lights over came the object.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111864.html](http://www.nuforc.org/webreports/reports/111/S111864.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [447](http://www.nuforc.org/webreports/reports/164/S164200.html)
-- [446](http://www.nuforc.org/webreports/reports/164/S164153.html)
-- [445](http://www.nuforc.org/webreports/reports/164/S164284.html)
-- [444](http://www.nuforc.org/webreports/reports/164/S164149.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165758.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
