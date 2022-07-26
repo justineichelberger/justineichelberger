@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:40 on 26 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:39 on 26 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Talmoon (MN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Two red lights moving at constant speed one following the other 2 people viewed2 red lights moving at slow speed over lake.  Both on same direction from north to south, and then both turned to the East at the same time and slowly disappeared to the East.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111951.html](http://www.nuforc.org/webreports/reports/111/S111951.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Tulsa (OK) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>There were two objects, red and white, cylindrical in shape, extremely high up moving at incredible speed.My friend and I were about to start our run, when I looked up casually while I was talking to him and to the right of the moon there were two crafts, one was white, and the other was red. They were extremely high up, so much that I knew they could not be a US craft. The speed that they were going must have been very fast for the height they were at. At first, they were very close to each other, but then moved in different directions. My friend and I could tell that they were cylindrical in shape. We watched them for about five minutes before they were too far away to see. There wass absolutely zero possibility that they were airplanes, because they were so high up, almost to the point of being in orbit.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38350.html](http://www.nuforc.org/webreports/reports/038/S38350.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164174.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164188.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164280.html)
-- [381](http://www.nuforc.org/webreports/reports/158/S158118.html)
-- [380](http://www.nuforc.org/webreports/reports/157/S157947.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
