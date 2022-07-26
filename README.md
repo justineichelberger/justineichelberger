@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:57 on 26 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:36 on 26 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Richmond (VA) reported seeing craft that fit the description of some 'Egg' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>UFO sighting near Short Pump, VA  stationary egg/box shaped object with three lightsThere was an egg/oval shaped object that had three lights on it and stood stationary in the sky while I was driving.  I stopped my car and continued to watch but after a few minutes it started to move in the opposite direction and then disapeared.  The shape was hard to describe, it was oval but square at one end.((NUFORC Note:  Witness elects to remain semi-anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51730.html](http://www.nuforc.org/webreports/reports/051/S51730.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Norton (UK/England) () reported seeing craft that fit the description of some 'Cross' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Strange anomalies on photo's such as colourful balls that can't be seen with the naked eyeOn Saturday 26/07/2008 my partner, myself, our son, and his girlfriend were having a barbeque in our back garden.  About 10pm I decided to take some photo’s, so I took a photo of our son, then 2 in quick  succession with his girlfriend, and one again on his own.When I went back into the house and looked at the photo’s I had taken I was shocked to see there was "things" on there that were not obvious to the naked eye.The first one of my son on his own has a strange large ball floating quite near were he is stood, magnified this reveals colours, the second anomaly is the photo of my son and his girlfriend, behind them is a very bright light yet, on the next photo no light, this was a cloudy moonless night and, even if there had of been a moon it would have been behind me! On the third photo we again see the large ball, although it has moved further down our fence.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64844.html](http://www.nuforc.org/webreports/reports/064/S64844.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164174.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164188.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164280.html)
-- [381](http://www.nuforc.org/webreports/reports/158/S158118.html)
-- [380](http://www.nuforc.org/webreports/reports/157/S157947.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
