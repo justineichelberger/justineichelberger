@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:01:38 on 26 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:32 on 26 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Forest Groce (OR) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Bright green diamond changes to yellow circle then flashes and disappearsIt was 3 in the morning when we both, for no apparent reason, looked up to the same point in the sky.  We saw a bright, glowing green diamond with an elongated top appear out of nowhere.  It was the brightest green we have ever seen, as if you were to melt down a neon sign and shape it into that elongated diamond shape.  But at the same time the shape was so crisp you could clearly see the distinctness of each curve and point.It then changed in almost a liquid manner to a bright glowing circle of yellow light.  This too was an unbelievably bright yellow light that glowed like a neon sign.  It was a perfect crisp circle.  I’ve never seen colors so vibrant Then finally it changed into a tiny point of incredibly bright light which flashed and then the whole thing was gone.It was large, I would guess larger than a commercial airplane, and significantly higher.  Throughout the event it was totally silent and took only about 3 seconds, leaving us both scared and questioning what had just happened.  We stayed there for a while to see if anything else would come back, but nothing did.  Ill never forget that night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71337.html](http://www.nuforc.org/webreports/reports/071/S71337.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Washington, D.C. (DC) reported seeing craft that fit the description of some 'Circle' over a period of approximately UNKNOWN - UNKNOWN minutes.</sub><blockquote><sub>Military Jets scrambled and chased unknown flying objectApprx. 1am July 26, Jets heard in the sky, and seen flying dispatched from Andrews A.f. B. some witnesses report seeing blue bright object flying in sky being chased by the Military Jets.  Some witnesses called in to local radio station, radio station confirmed that Andrews AFB had scrambled some jets and reported at 12:00 pm that the calls came in from witness and that NORAD was investigating.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23912.html](http://www.nuforc.org/webreports/reports/023/S23912.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164174.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164188.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164280.html)
-- [381](http://www.nuforc.org/webreports/reports/158/S158118.html)
-- [380](http://www.nuforc.org/webreports/reports/157/S157947.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
