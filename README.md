@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:38 on 26 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:39 on 26 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Kingman (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>2 large balls of light in the southern sky,  lasted for only a few seconds.((NUFORC Note:  Date may be flawed.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128776.html](http://www.nuforc.org/webreports/reports/128/S128776.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Avinger (Lake o' the Pinext) (TX) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>The silent object appeared to be glowing and then began to grow dimmer before I lost it, and I got six pictures of the event.I was at the Lake o' The Pines the evening of July 26, 2005, and the wind was from the south at probably 10-15MPH.  At 7:58PM according to my pictures, I saw something very bright due southwest of me and pretty high in the sky.  The sun was going down in the west, and I'm not sure if the brightness of the object was a reflection from the sun or not.  I began taking pictures of the object and I believed at the time that it was heading directly northeast toward me.  It seemed to be moving slower than a passenger jet.  Rather than getting larger like it would have had it come closer to me it seemed to be getting smaller or dimmer, and then it disappeared altogether from my sight, but not before I got six pictures of it.  It was in view for approximately 30 seconds.  In retrospect I believe that rather than moving northeast toward me it was moving possibly straight up in altitude.  It made no sound that I could hear (even though the wind was up a bit I had no trouble hearing a couple of jets earlier).  From what I saw with my eyes it looked to be only a single object, but after reviewing the pictures there seems to be some sort of vapor emitted from the left side of the object.  My camera is a Fujifilm Finepix 2800 and it was zoomed in at 6X optically.  The six photographs will follow via email.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45324.html](http://www.nuforc.org/webreports/reports/045/S45324.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164174.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164188.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164280.html)
-- [381](http://www.nuforc.org/webreports/reports/158/S158118.html)
-- [380](http://www.nuforc.org/webreports/reports/157/S157947.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
