@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:27:10 on 26 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:18:01 on 26 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Acton (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>5 consecutive flashes of lightInside i Saw out of the corner of my eye 3 flashes of light, I went out side, and had a large bright flash explode in my face.  I then went back inside and witnessed another out of the corner of my eye.  5 total.  As i am writing this, more are occuring</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100493.html](http://www.nuforc.org/webreports/reports/100/S100493.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Bristol (TN) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Peter, your show with Art Bell 17 Jan. The tape of the UFO that is on your web site needs to be reviewed again & again. Perhaps someone has already reported this to you, if not here goes. I was running this sighting, kept stopping & starting, trying to freeze each frame to get a better view of what this may be. I kept seeing a black blip. I finaly found the object, a super high speed object, moving right to left just above the disc shaped UFO. Freeze frame 13 seconds into the tape, from 12 to 14 seconds in the tape, you will see the other UFO. Always enjoy your shows on coast to coast. Cheers((NUFORC Note:  We have passed the information along to Kim Shaffer, MUFON investigator, who captured the disc on film.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34599.html](http://www.nuforc.org/webreports/reports/034/S34599.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164174.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164188.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164280.html)
-- [381](http://www.nuforc.org/webreports/reports/158/S158118.html)
-- [380](http://www.nuforc.org/webreports/reports/157/S157947.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
