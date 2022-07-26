@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:51:28 on 26 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:44:51 on 26 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Dunajska Luzna (Slovakia) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Two faint circular orange objects flying in straight line covered approx. 1/4 of night sky within several seconds.Two faint orange objects appearing to be of circular shape flew approx north to south in stright lines beside each other, one slighly following behind, across 1/4 of the sky within several seconds (5-10 sec.).  They were observed between two roofs in suburban area, emerged from behind one house roof, flew straight, then flew behind other house roof.  The distance was approx. 1/4 of nigh sky.  No sound was heared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147812.html](http://www.nuforc.org/webreports/reports/147/S147812.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Henderson (NV) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>It was a partly cloudy sky when my brothers and cousin saw 8 white spheres flying crazy around 1 sphere, but when I called my mom out to see them they disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38343.html](http://www.nuforc.org/webreports/reports/038/S38343.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164174.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164188.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164280.html)
-- [381](http://www.nuforc.org/webreports/reports/158/S158118.html)
-- [380](http://www.nuforc.org/webreports/reports/157/S157947.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
