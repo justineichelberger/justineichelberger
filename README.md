@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:55 on 26 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:13:19 on 26 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Lubbock (TX) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>One large orange/amber fuzzy blob with hundreds of small fuzzy orange/amber colored spheres.On the night of July 26, 2000, I was at a Bible study with 8 other friends.  We had finished the discussion and questions portion of the study and were outside in the backyard of the house we were at.  We were engaged in small talk when one of the girls asked, "What is that?"  We all looked up at what she was looking at.  It seemed to be a large white blob in the sky that was moving fast against the background of stars.  It seemed to have color separation like a rainbow on its edges.  The effect seemed to wear off and the blob changed to an orange/amber color and it slowed down to a crawl.  When it did this, we were able to see smaller orange/amber colored glowing spheres fallowing it.  There were hundreds of the small fuzzy spheres that followed the large fuzzy glowing blob.  As we were looking at this event we saw a bright blue flash of light that seemed to light up the eastern sky.  We then turned our attention back to the objects in the sky.  They just moved slowly to the western sky from the eastern sky.  We could see, as the moved father away, that they were very high in altitude.  We began talking to each other about what they might be.  And of course this was a group of Bible belt Christians, so the discussion about what we saw lead of into them being signs and wonders from heaven(I never believed that).  A few minutes later we saw one of the fuzzy spheres flying to the south of where we were at the altitude of an airplane.  We watched it move off out of sight.  When I left the house where the Bible study took place I drove my car down the street to the east were we saw the blue flash.  I saw a local electrical company truck in the alley way working on a transformer.  So that might be where the bright blue flash came from.  The next day the girl who first saw the event spoke to her father about it over the phone about what we saw.  Her father worked as an executive of some kind at NASA.  He immediately told her to stop talking to him about the matter, and to never talk to him about it ever aga! in.  He then hung up on her.  She said that this scared her because not only did he never talk to her or their family members like that, but also he also taught them to never do such things.  So this, according to her, was completely out of character for him to do.  We never spoke of the event after that day.  I always felt uneasy about what her father did giving his position at NASA.  I thought someone like him would be excited about such a thing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121645.html](http://www.nuforc.org/webreports/reports/121/S121645.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in St. Robert/Fort Leonard Wood (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately uncertain - uncertain minutes.</sub><blockquote><sub>Two witnesses saw bright flashing red light pass over their house..three times.  On Wednesday (7/26) there was a severe thunderstorm in the Fort Leonard Wood area.  The witnesses first believed that the light was associated witht ehstorm, but they saw it again twice after the storm had passed. Source: Waynesville(Missouri)Fort Gateway Guide. August 1, 1978.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12509.html](http://www.nuforc.org/webreports/reports/012/S12509.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164174.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164188.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164280.html)
-- [381](http://www.nuforc.org/webreports/reports/158/S158118.html)
-- [380](http://www.nuforc.org/webreports/reports/157/S157947.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
