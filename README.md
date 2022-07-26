@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:46 on 26 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:38 on 26 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Phoenixville (PA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Tic tac crafts passing each other as on two-lane highway in blue sky with puffy clouds.Outwalking and looked up to see contrail.  A tic tac object white without wings was making this.  I watched it go for a few seconds heading EAST.   I then saw another tictac white without wings coming WEST at the same elevation and about 100 feet from the first object. They passed each other as on a two lane highway.  Second tic tac did not make contrail.  They were higher than the passenger aircraft coming from Phila. airport in the East which flew under them both about 2000 feet lower. Tic tac going west caught the sun's rays and it appeared to glint off several windows going the length of it. No noise was heard.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164188.html](http://www.nuforc.org/webreports/reports/164/S164188.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Kingman (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>2 large balls of light in the southern sky,  lasted for only a few seconds.((NUFORC Note:  Date may be flawed.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128776.html](http://www.nuforc.org/webreports/reports/128/S128776.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164174.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164188.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164280.html)
-- [381](http://www.nuforc.org/webreports/reports/158/S158118.html)
-- [380](http://www.nuforc.org/webreports/reports/157/S157947.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
