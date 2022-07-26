@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:50 on 26 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:27 on 26 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Nampa (ID) reported seeing craft that fit the description of some '' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Saw three bright glowing orange orbs, moving slowing west to southwest and then slowly dim out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111926.html](http://www.nuforc.org/webreports/reports/111/S111926.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Falmouth (ME) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Four Red Saucer Shaped Objects Fly Over Falmouth, MaineWalking out to my car at 22:49 on July 26, 2010, I witnessed what appeared to be three saucer shaped objects gliding in the sky from the southwest.  They emitted red and orange light over their entire surface, almost as if the light was being reflected from their surface.  The orange and red light was hazy but it spread in every direction; similar to the same effect that takes place when one squints while looking a street light at night.  The moon was entirely full and these objects were easily detectable.  They moved very fluidly as they flew to the northeast.  They made no sound and they flew as if they were all separate entities; flying closer and farther apart.  It seemed as if they were gliding because they were almost dipping in the sky, but they also rose.  They flew very smoothly, but it seemed as if they were suspended at times and even slightly moved backward.  I yelled to both my girlfriend and her friend to look into the sky and they were immediately taken aback by the occurrence as well.  My girlfriend took a picture on her Iphone and the figures’ arrowhead formation is unmistakeable.They flew out of view to the northeast and another object of the same description emerged from the southwest.  This object, too, flowed very smoothly but seemed to have slowed down more than the other three and stay suspended for a longer period of time; about two seconds.  It was difficult to see how large the objects were because they were so far away but they were about the size of a penny on its side at arm’s length.  After the fourth object hesitated, it followed the other three objects out of sight to the northeast. The other two witnesses and I are typically very skeptical of UFO’s, however, there is no denying that we witnessed something incredibly bizarre. We are at the top of our classes in the colleges we attend; the University of Maine and the University of North Carolina and were sober at the time of the sighting. I understand that the Southern Delta Aquarids Meteor Shower takes place at this time, but meteors typically flash quickly, fly at the same pace in one direction and disappear.  That was not the case, here.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76818.html](http://www.nuforc.org/webreports/reports/076/S76818.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164174.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164188.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164280.html)
-- [381](http://www.nuforc.org/webreports/reports/158/S158118.html)
-- [380](http://www.nuforc.org/webreports/reports/157/S157947.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
