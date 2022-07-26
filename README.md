@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:13:19 on 26 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:01:09 on 26 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in St. Robert/Fort Leonard Wood (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately uncertain - uncertain minutes.</sub><blockquote><sub>Two witnesses saw bright flashing red light pass over their house..three times.  On Wednesday (7/26) there was a severe thunderstorm in the Fort Leonard Wood area.  The witnesses first believed that the light was associated witht ehstorm, but they saw it again twice after the storm had passed. Source: Waynesville(Missouri)Fort Gateway Guide. August 1, 1978.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12509.html](http://www.nuforc.org/webreports/reports/012/S12509.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Guayaquil () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>two sincronized lights crossed highway make road lights turn off and then fadeTwo lights the size of a soccer ball came from a mountain and crossed the 8 line road below at 3 meters above the ground making road lights turn off.  The lights were flying sincronized, keeping distance of aprox one meter away from each other and fade away once they crossed the road.  I was driving and was about 50 meters fron lights crossing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71398.html](http://www.nuforc.org/webreports/reports/071/S71398.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164174.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164188.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164280.html)
-- [381](http://www.nuforc.org/webreports/reports/158/S158118.html)
-- [380](http://www.nuforc.org/webreports/reports/157/S157947.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
