@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:46 on 27 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:33 on 27 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Gagetown (near) (Canada) (NB) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I can't explain what I saw.We were driving north from Moncton to Fredericton.  Just before getting to Gagetown I noticed something shining to my right, up in the air.  It was approximately a couple thousand feet from us flying along the trans Canada highway.  I said "what's that?" and two of my companions looked up, the front passenger saw it then it just zoomed at incredible speed and stopped around 20 miles away, we could still see very well then the third passenger see it.  The characteristics that were most interesting is it was round (looked like an aspirin pill), shined like chrome and moved at incredible speed.  I've seen jets move before and this was no jet, it would be going like Mach 7.  When it was close by, if you calculate by distance at 2000 ft from us, it must have been like 200 ft in diameter.As we watched it from a distance and the shine was still very intense (seemed just like the sun reflecting from the surface of this craft) it just moved again and we just lost it, it was way too fast to follow with our eyes.  We just looked at each other and no other comment was made, this was no doubt a very odd experience.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51788.html](http://www.nuforc.org/webreports/reports/051/S51788.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Modesto (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>There was a jet liked object flying, it looked like it was crashing or flying downward quickly leaving a trail of orange light and had three light orbs on the ends, positive it was not a jet or plane. It was either a spaceship or falling space craft.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128869.html](http://www.nuforc.org/webreports/reports/128/S128869.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [486](http://www.nuforc.org/webreports/reports/164/S164186.html)
-- [485](http://www.nuforc.org/webreports/reports/165/S165812.html)
-- [484](http://www.nuforc.org/webreports/reports/164/S164182.html)
-- [483](http://www.nuforc.org/webreports/reports/165/S165809.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164191.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
