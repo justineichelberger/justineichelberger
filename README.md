@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:40 on 27 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:48 on 27 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in San antonio (TX) reported seeing craft that fit the description of some 'Changing' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Triangle and oblong shaped saucersSaw them first changing colors,red,blue,white! I then went inside to get camera and zoomed in and took  so me picture.it hovers above for a long time but changed colors the whole time!  When I zoomed in it was crazy what was seen!  I have pictures if needed</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100578.html](http://www.nuforc.org/webreports/reports/100/S100578.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Brightwood (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Sandy River  lights in the sky make no senseMy boyfriend saw them first and had observed them for about a minute before ushering me over. His description was similar to mine accept the fact that he watched them for a longer duration. There were two lights in the sky.  The sun had set only a half hour before they were noticed.  The setting was river beach with tall trees and many foothills cresting about the horizon. As mentioned before there existed two lights, one nearer to us than the other I'll refer to that as 1.  The second craft seemed to be tailing by what would have been about a hundred miles if these had been planes and I'll call it 2.  At first these two lights were seemingly airplanes as far as the pace and motion go, but at second glance the behavior became more peculiar.  When I first looked up there seemed to be a gaping distance between the two blinking lights-  it should be noted that the lights were red in color.  Without a moments comprehension, the tailing light blinked off and reappeared right next to 1.  Then 2 blinked off again only to reappear where it was before.  Then 1 zipped back and forth for only a moment, blinking off and reappearing in a different spot.  2 zipped across the sky to meet up with 1 once more.  2 disappeared and 1 did also a second later.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45578.html](http://www.nuforc.org/webreports/reports/045/S45578.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [486](http://www.nuforc.org/webreports/reports/164/S164186.html)
-- [485](http://www.nuforc.org/webreports/reports/165/S165812.html)
-- [484](http://www.nuforc.org/webreports/reports/164/S164182.html)
-- [483](http://www.nuforc.org/webreports/reports/165/S165809.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164191.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
