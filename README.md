@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:47 on 27 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:44 on 27 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Vancouver (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>saw blue oval light. appeared to be emitting  from center(lighter and brighter in the center), sped in horizontal line then vanished fron sight.i was driving home, when about three blocks from home i saw a giant blue  oval light. i've lived within twenty miles of airports my whole life.  i know what airplanes look like, how they fly, etc...this didn't fit any of that which i'm accustomed.  this object sped across the sky unlike a plane.  it glowed solid blue.  it seemed the blue was centrally radiant, brighter inside the oval than outside of the object.  this thing soared at an incredible rate and then vanished after about three minutes of me staring at it from the side of the road.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08588.html](http://www.nuforc.org/webreports/reports/008/S08588.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Ft. Lauderdale (FL) reported seeing craft that fit the description of some 'Cone' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Long cone shaped yellowish-green light beam projected from clouds to Ft. Lauderdale, FloridaDriving North on I-95 between South Beach, Miami, Florida and Deerfield Beach, driving through Ft. Lauderdale, there was a lot of lightening activity up around the clouds.  We call this Heat Lightening.  None was touching down to Earth. At a certain point, I noticed that a few clouds which had been disbursed and were not overlapping, finally became quite tightly knit together.  This,  I could tell because the light emitted revealed this. I had been watching them for miles. All of a sudden, from this grouping of clouds which were intertwined came a beam of light in the shape of a tube/cone starting from the sky projected onto what seemed to be Ft. Lauderdale and this beam took the shape of a cone beam.  Larger at the bottom.  This lasted for about 2 seconds and retracted.  It did not just disappear, it retracted. Since it was at a distance, it was difficult to say whether it was over the ocean or land. At our angle on the freeway, above the rooftops but 1 mile South of Fort Lauderdale, this was difficult to determine. I was driving with a friend who was visiting Florida and has absolutely no experience or interest in UFOs.  I asked her whether she was aware of what just happened.  Her response was sort of comical insinuating she couldn’t believe her eyes.  We were both waiting for the helicopter to appear and continue to shine its beam but it never happened and the beam was way to intense and wide to be from a copter.  The quality of light was yellow with a tinge of green.  A copter reflector is more white, not as thick in width nor quality.  It sort of looked like a tube of water with light shining through it, from end to end.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64814.html](http://www.nuforc.org/webreports/reports/064/S64814.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [486](http://www.nuforc.org/webreports/reports/164/S164186.html)
-- [485](http://www.nuforc.org/webreports/reports/165/S165812.html)
-- [484](http://www.nuforc.org/webreports/reports/164/S164182.html)
-- [483](http://www.nuforc.org/webreports/reports/165/S165809.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164191.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
