@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:38 on 27 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:47 on 27 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Strange object flying north-ish over Seattle water front toward BallardTonight I saw something that I cannot explain.  I was pulling up to a stoplight and the light was turning red.  If I wasn't looking up at the traffic light I would have missed this.  It was lit up and moving low and fast.  Maybe 200-300 ft up (or less) and at a slight angle downward.  I thought it was a helicopter at first, but by the time my brain told me so this thing was gone out of sight.I thought I might have imagined it until I got the the stop light line and another car with two people inside it were rolling down their window, pale and looking a bit freaked out, asking "did you SEE that?".</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111911.html](http://www.nuforc.org/webreports/reports/111/S111911.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Metz (WV) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Cigar shaped no wings or tail.  no sound or contrail. Disappeared.On July 27, 2010 at approximately 19:30 my roommates and I were sitting on our front porch.  My mother’s boyfriend, noticed something gliding through the sky.  The object was noticed in the eastern sky flying in a SSW direction.  We had visual observation of the craft for about 5 minutes before it faded out of sight.The craft was a silver cigar shape with a dark band in the middle.  I could not make out any wings or a tail.  It was completely silent, and there was no contrail.  I live in the hills.  Most planes go out of sight over a hill, but unlike most airplanes I see, this did not go over the horizon out of sight.  Rather, the object seemed to get smaller and smaller, until it was no longer visible.There was a sense of confusion upon realizing all the strange attributes of this craft.  I managed to remember to grab my camera and I was able to capture several photos on a Nikon D-3000 DSLR camera.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76832.html](http://www.nuforc.org/webreports/reports/076/S76832.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [486](http://www.nuforc.org/webreports/reports/164/S164186.html)
-- [485](http://www.nuforc.org/webreports/reports/165/S165812.html)
-- [484](http://www.nuforc.org/webreports/reports/164/S164182.html)
-- [483](http://www.nuforc.org/webreports/reports/165/S165809.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164191.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
