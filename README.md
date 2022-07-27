@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:36 on 27 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:47 on 27 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Fresno (CA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>July 27th aproximitly 9:30.  I was walking at Woodward park in Fresno, California, on the road, I would be on the South East end of the park parallel to Friant road. coming from the west were a set of lights that did not look like an aircraft, it caught my attention, its path was headed straight over my location as it got closer I realized that it was making absolutely no noise, there was no sound what so ever. There were three to four lights on or near the front of it that projected forward off its rectangular shape, they were slightly Amber in color, as it went over head the underside reminded me of what a car would look like if it was up in the air and I was looking up at it.  There were a few more lights sparatically positioned in the underside and there was clearly white vapor or&nbsp; propulsion trails, aproximitly 4 or 5 shooting behind it but they weren&apos;t very large. It was flat and rectangular with definitions of design underneath but in size it&nbs! p; appeard to be about the size of a large commercial buildings foundation. It was moving at a steady spread and was not racing towards earth and did not apear to be something burning up in earth atmosphere, as it passed over head I noticed the brightest White light facing backwards from the rear of it, it looked like a giant cone shaped flood light and it was pure white. It crossed Friant road and headed towards Clovis and the hills and appeared to me to be loosing altitude the lights in the front seemed to redden as it got further away from me and it was definitely arching downward a little. I thought it might be heading towards the ground i wasn&apos;t sure, this did not look like space debre nor any man made aircraft. My view of it lasted aproximitly 20-30 seconds.((NUFORC Note:  Re-entering space debris.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128788.html](http://www.nuforc.org/webreports/reports/128/S128788.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Vancouver (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>saw blue oval light. appeared to be emitting  from center(lighter and brighter in the center), sped in horizontal line then vanished fron sight.i was driving home, when about three blocks from home i saw a giant blue  oval light. i've lived within twenty miles of airports my whole life.  i know what airplanes look like, how they fly, etc...this didn't fit any of that which i'm accustomed.  this object sped across the sky unlike a plane.  it glowed solid blue.  it seemed the blue was centrally radiant, brighter inside the oval than outside of the object.  this thing soared at an incredible rate and then vanished after about three minutes of me staring at it from the side of the road.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08588.html](http://www.nuforc.org/webreports/reports/008/S08588.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [486](http://www.nuforc.org/webreports/reports/164/S164186.html)
-- [485](http://www.nuforc.org/webreports/reports/165/S165812.html)
-- [484](http://www.nuforc.org/webreports/reports/164/S164182.html)
-- [483](http://www.nuforc.org/webreports/reports/165/S165809.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164191.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
