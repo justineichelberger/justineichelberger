@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:32 on 27 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:38 on 27 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Boonville (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>white ball of flame in Mendocino countyI'm a country boy.  Often I sit out at night and enjoy the warm summer nights.  Tonight I saw what looked like a white ball soaring through the sky trailed by flames.  As soon as this happened I drove to the nearest town market (about 30 minutes away) to get something to drink only to have the other three people in the store including the clerk talking about what had just happened and if anyone wanted to investigate because it looked like it crash landed on a local road 50 or 60 miles out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128807.html](http://www.nuforc.org/webreports/reports/128/S128807.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Strange object flying north-ish over Seattle water front toward BallardTonight I saw something that I cannot explain.  I was pulling up to a stoplight and the light was turning red.  If I wasn't looking up at the traffic light I would have missed this.  It was lit up and moving low and fast.  Maybe 200-300 ft up (or less) and at a slight angle downward.  I thought it was a helicopter at first, but by the time my brain told me so this thing was gone out of sight.I thought I might have imagined it until I got the the stop light line and another car with two people inside it were rolling down their window, pale and looking a bit freaked out, asking "did you SEE that?".</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111911.html](http://www.nuforc.org/webreports/reports/111/S111911.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [486](http://www.nuforc.org/webreports/reports/164/S164186.html)
-- [485](http://www.nuforc.org/webreports/reports/165/S165812.html)
-- [484](http://www.nuforc.org/webreports/reports/164/S164182.html)
-- [483](http://www.nuforc.org/webreports/reports/165/S165809.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164191.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
