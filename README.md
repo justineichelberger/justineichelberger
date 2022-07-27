@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:46 on 27 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:49:03 on 27 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Hovering Circular Object West of Phoenix on 7/27/02 at 8:00 p.m.From the squawpeak area we were looking towards the West, a little south.  It was a very bright circular light that basically hovered in the same area, but moved in zig zag and circular motions and would generate a pale pink purple or a pale green haze around it. Planes were going by and they were very much below the object. It went higher at one point and almost looked like a shooting star going backwards and then it returned to the original hovering place.  It then moved up again and disappeared.  The sky was cloudy and there were no stars visible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23959.html](http://www.nuforc.org/webreports/reports/023/S23959.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Prague (Czech Republic) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Red ball/orb seen in PragueMy wife and I saw last night a flying fire ball object.  I was laying in bed when I noticed a red light reflecting off one of our windows that was open.  I got up to see what it was and saw this red ball traveling horizontally across the sky just above houses and apartments approx. 1/4 mile from our house.  It was traveling slow enough for my wife to get out of bed and see it before it disappeared behind distant houses.  This object did not make any sound or leave any trail behind it.  It was bright red with a bit more yellow/orange center.   This object looked just like the ones if you google UFO red ball.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100562.html](http://www.nuforc.org/webreports/reports/100/S100562.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [486](http://www.nuforc.org/webreports/reports/164/S164186.html)
-- [485](http://www.nuforc.org/webreports/reports/165/S165812.html)
-- [484](http://www.nuforc.org/webreports/reports/164/S164182.html)
-- [483](http://www.nuforc.org/webreports/reports/165/S165809.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164191.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
