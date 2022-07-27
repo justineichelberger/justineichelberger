@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:14:05 on 27 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:03:20 on 27 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Dewey Beach (DE) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Three blue in color triangle shaped objects &quot;dancing&quot; over the Indian River Inlet Bridge just south of Dewey Beach DE on RoutOn 7/27/14 myself, my wife, mother in law and our children were camping at the Delaware Seashore Park at Indian River Inlet just south of Dewey Beach, DE, on Route 1.  At about 2200 hours that night I was gazing at the bridge which traverses the inlet.  The bridge is illuminated with blue spotlights.  Upon looking at the top of the southern part of the bridge I observed 3 blue in color triangle objects above the bridge.  I could not judge how far above the bridge they were.  Upon viewing them further they began to move south.  I thought they were the lanterns people launch but the wind was blowing at about 15-20 mph from the SW so this could not be lanterns because they appeared to move effortlessly south.  The three objects then began to dance around by criss crossing each other than going higher into the sky.  They then became dainty blue lights the.  I lost sight of them over the ocean.  This was witnessed by my wife who is a master level behavioral therapist, myself who is a 14 year police veteran and currently a detective.  My mother in law also witnessed this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112135.html](http://www.nuforc.org/webreports/reports/112/S112135.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Rock Port (MO) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Large green glow no falling starDriving south Rock Port on outer road next I-29 exit, my daughters boyfriend & I saw what we thought was a falling star.  My daughter wasn’t looking in the same direction, so she didn’t see it.  It appeared in the south east suddenly and was only visible for about 3-5 seconds.  He said its green, I said yeah that was weird, like radio active glowing green, red along each side, but not top & bottom & it was not very high up, was very large, more oblong/up & down, not round.  Falling star, meteor, space junk, UFO?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64827.html](http://www.nuforc.org/webreports/reports/064/S64827.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [486](http://www.nuforc.org/webreports/reports/164/S164186.html)
-- [485](http://www.nuforc.org/webreports/reports/165/S165812.html)
-- [484](http://www.nuforc.org/webreports/reports/164/S164182.html)
-- [483](http://www.nuforc.org/webreports/reports/165/S165809.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164191.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
