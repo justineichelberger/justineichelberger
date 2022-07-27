@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:03:20 on 27 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:36 on 27 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Rock Port (MO) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Large green glow no falling starDriving south Rock Port on outer road next I-29 exit, my daughters boyfriend & I saw what we thought was a falling star.  My daughter wasn’t looking in the same direction, so she didn’t see it.  It appeared in the south east suddenly and was only visible for about 3-5 seconds.  He said its green, I said yeah that was weird, like radio active glowing green, red along each side, but not top & bottom & it was not very high up, was very large, more oblong/up & down, not round.  Falling star, meteor, space junk, UFO?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64827.html](http://www.nuforc.org/webreports/reports/064/S64827.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Macwahoc (ME) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>just like ship chased by 2 dozen ohio cops 5 years ago except narrower than one on tv at least 5stories high 6 lights green and orange no movement no sound</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08689.html](http://www.nuforc.org/webreports/reports/008/S08689.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [486](http://www.nuforc.org/webreports/reports/164/S164186.html)
-- [485](http://www.nuforc.org/webreports/reports/165/S165812.html)
-- [484](http://www.nuforc.org/webreports/reports/164/S164182.html)
-- [483](http://www.nuforc.org/webreports/reports/165/S165809.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164191.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
