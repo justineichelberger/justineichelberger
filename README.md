@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:37 on 27 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:46 on 27 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Ocala (FL) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 135</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147965.html](http://www.nuforc.org/webreports/reports/147/S147965.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Hovering Circular Object West of Phoenix on 7/27/02 at 8:00 p.m.From the squawpeak area we were looking towards the West, a little south.  It was a very bright circular light that basically hovered in the same area, but moved in zig zag and circular motions and would generate a pale pink purple or a pale green haze around it. Planes were going by and they were very much below the object. It went higher at one point and almost looked like a shooting star going backwards and then it returned to the original hovering place.  It then moved up again and disappeared.  The sky was cloudy and there were no stars visible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23959.html](http://www.nuforc.org/webreports/reports/023/S23959.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [486](http://www.nuforc.org/webreports/reports/164/S164186.html)
-- [485](http://www.nuforc.org/webreports/reports/165/S165812.html)
-- [484](http://www.nuforc.org/webreports/reports/164/S164182.html)
-- [483](http://www.nuforc.org/webreports/reports/165/S165809.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164191.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
