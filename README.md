@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:44 on 27 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:14:05 on 27 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Ft. Lauderdale (FL) reported seeing craft that fit the description of some 'Cone' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Long cone shaped yellowish-green light beam projected from clouds to Ft. Lauderdale, FloridaDriving North on I-95 between South Beach, Miami, Florida and Deerfield Beach, driving through Ft. Lauderdale, there was a lot of lightening activity up around the clouds.  We call this Heat Lightening.  None was touching down to Earth. At a certain point, I noticed that a few clouds which had been disbursed and were not overlapping, finally became quite tightly knit together.  This,  I could tell because the light emitted revealed this. I had been watching them for miles. All of a sudden, from this grouping of clouds which were intertwined came a beam of light in the shape of a tube/cone starting from the sky projected onto what seemed to be Ft. Lauderdale and this beam took the shape of a cone beam.  Larger at the bottom.  This lasted for about 2 seconds and retracted.  It did not just disappear, it retracted. Since it was at a distance, it was difficult to say whether it was over the ocean or land. At our angle on the freeway, above the rooftops but 1 mile South of Fort Lauderdale, this was difficult to determine. I was driving with a friend who was visiting Florida and has absolutely no experience or interest in UFOs.  I asked her whether she was aware of what just happened.  Her response was sort of comical insinuating she couldn’t believe her eyes.  We were both waiting for the helicopter to appear and continue to shine its beam but it never happened and the beam was way to intense and wide to be from a copter.  The quality of light was yellow with a tinge of green.  A copter reflector is more white, not as thick in width nor quality.  It sort of looked like a tube of water with light shining through it, from end to end.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64814.html](http://www.nuforc.org/webreports/reports/064/S64814.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Dewey Beach (DE) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Three blue in color triangle shaped objects &quot;dancing&quot; over the Indian River Inlet Bridge just south of Dewey Beach DE on RoutOn 7/27/14 myself, my wife, mother in law and our children were camping at the Delaware Seashore Park at Indian River Inlet just south of Dewey Beach, DE, on Route 1.  At about 2200 hours that night I was gazing at the bridge which traverses the inlet.  The bridge is illuminated with blue spotlights.  Upon looking at the top of the southern part of the bridge I observed 3 blue in color triangle objects above the bridge.  I could not judge how far above the bridge they were.  Upon viewing them further they began to move south.  I thought they were the lanterns people launch but the wind was blowing at about 15-20 mph from the SW so this could not be lanterns because they appeared to move effortlessly south.  The three objects then began to dance around by criss crossing each other than going higher into the sky.  They then became dainty blue lights the.  I lost sight of them over the ocean.  This was witnessed by my wife who is a master level behavioral therapist, myself who is a 14 year police veteran and currently a detective.  My mother in law also witnessed this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112135.html](http://www.nuforc.org/webreports/reports/112/S112135.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [486](http://www.nuforc.org/webreports/reports/164/S164186.html)
-- [485](http://www.nuforc.org/webreports/reports/165/S165812.html)
-- [484](http://www.nuforc.org/webreports/reports/164/S164182.html)
-- [483](http://www.nuforc.org/webreports/reports/165/S165809.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164191.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
