@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:35:03 on 27 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:20:18 on 27 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Grand Canyon (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Grand Canyon sighting.Red and blue lights on a saucer shaped craft seen at 8:30 PM, 07/27/16, moving south. It stopped, flashed completely white light beam, then turned back to red and blue flashing lights, and continued moving south.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129033.html](http://www.nuforc.org/webreports/reports/129/S129033.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Stillwater (MN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>A family of three witness two quck flashes, then a VERY fast, dramatic fireball streak west in the night sky.Telephoned Report:  A man, his wife, and their daughter were driving to the east on Highway 5, and were approximately 15 miles to the east of St. Paul, MN. Suddenly, all three witnessed observed a momentary bright flash in the northern sky, approximately 60 degrees to the left of the centerline of their vehicle, and above the tops of the trees to their left, maybe 30 degrees above the horizontal plane. Approximately two seconds after the first flash, with their attention focused on the area of the sky where it had just occurred, they witnessed a second, similar flash.  At almost the exact instant that they witnessed the second flash, they also observed a large fireball streak from east to west in the same area of the sky where they had just observed the two flashes.  It was a very dramatic flash, and the fireball was moving VERY fast, according to the father's account of the incident.((NUFORC Note:  We spoke with this witness at length, and we found him to be quite sincere and credible.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30461.html](http://www.nuforc.org/webreports/reports/030/S30461.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [486](http://www.nuforc.org/webreports/reports/164/S164186.html)
-- [485](http://www.nuforc.org/webreports/reports/165/S165812.html)
-- [484](http://www.nuforc.org/webreports/reports/164/S164182.html)
-- [483](http://www.nuforc.org/webreports/reports/165/S165809.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164191.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
