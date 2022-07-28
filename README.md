@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:13:48 on 28 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:03:09 on 28 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Minneapolis (MN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>a oval ring of 11 light sources. seen for about 15 mins , taken shots of the sighting</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76824.html](http://www.nuforc.org/webreports/reports/076/S76824.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Harrington (Canada) (QC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.025 - 0.025 minutes.</sub><blockquote><sub>Many transparent triangles going different direction very fast,  as if I had they were taking off because i was lookingStaring at the sky day time I saw transparent triangles going in different directisons at a fast speed.I could only see the V shape edges and the center was clear. Smoke like contour and vanished in the horizon((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51856.html](http://www.nuforc.org/webreports/reports/051/S51856.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [379](http://www.nuforc.org/webreports/reports/164/S164221.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164184.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164181.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164187.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164192.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
