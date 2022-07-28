@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:33 on 28 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:43 on 28 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Dense, bright blue light in a long oval shape observed and then faded into a dark cloud over Silver Lake/Glendale area of LA.At approx. 11 PM, I witnessed a bright blue light (the shade and density of an aqua neon sign) in a thin, long, oval shape sitting in the sky at a 110 degree tilt through the translucent shade of my window. It was motionless, just hanging in the sky, and as I stood to take a look out the window I saw it for approx. one second unobscured by the window shade. As I was half up from my seat, looking straight at the light, it faded like a film dissolve in a second or less. What remained looked like a dark cloud in the shape of the light that was there previously, though it was hard to see due to the darkness of the sky. In about 4 seconds, this cloud disappeared. It was hard to judge distance and size, but it looked to be over Silver Lake or Glendale (depending on how large it was). In my field of vision, it took up about an inch.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164181.html](http://www.nuforc.org/webreports/reports/164/S164181.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Cameron (NC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>a huge bright red glowing light formed in the sky!I recently created the star constellation " ORION ", in my front yard. Using stone and solar lights.  The very first night that I lay out there watching the stars and night sky, praying and just talking with " God... ", right where I was looking a huge red light appeared.  Way back behind my house, through the woods and high above the trees.It was very bright yet somewhat dark red. It formed out of nowhere and hung there for just a few seconds before shooting across the sky in such enormous speed heading North...and disappeared right before my eyes!!!  I never saw anything like it before in my life. I didnt intentionally try an provoke, nor am I into any kind of dark magic, or haluntionations of any kind.It seemed like it appeared because of the Orion Star constellation that I had made. In that brief momenent before flying away, I feel like it was looking down at me and wanted to say or tell me something like what the hell do you think you are doing!?  I must say I am still at awe, unaware of what I actually saw, was and is it good or bad!?  All I kept saying is I saw you...over and over, before running into the house to tell my Mom and Wife.  The only other that I attempted to tell is the Ancient Alien show...Thank you for being here!!!((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121194.html](http://www.nuforc.org/webreports/reports/121/S121194.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [379](http://www.nuforc.org/webreports/reports/164/S164221.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164184.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164181.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164187.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164192.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
