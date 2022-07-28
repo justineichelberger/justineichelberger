@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:38 on 28 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:33 on 28 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Zagreb (Croatia) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Ufo like a starHere it was, one time in day, I watched TV and look cros the window, there i saw one flying object stand by on the sky, there is no any star. Wetter wasn't good, 2 hours before that was rained. T5hat object look like one star on the sky, stand there 12 minutes.((NUFORC Note:  Report was submitted from an address in Croatia.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39714.html](http://www.nuforc.org/webreports/reports/039/S39714.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Dense, bright blue light in a long oval shape observed and then faded into a dark cloud over Silver Lake/Glendale area of LA.At approx. 11 PM, I witnessed a bright blue light (the shade and density of an aqua neon sign) in a thin, long, oval shape sitting in the sky at a 110 degree tilt through the translucent shade of my window. It was motionless, just hanging in the sky, and as I stood to take a look out the window I saw it for approx. one second unobscured by the window shade. As I was half up from my seat, looking straight at the light, it faded like a film dissolve in a second or less. What remained looked like a dark cloud in the shape of the light that was there previously, though it was hard to see due to the darkness of the sky. In about 4 seconds, this cloud disappeared. It was hard to judge distance and size, but it looked to be over Silver Lake or Glendale (depending on how large it was). In my field of vision, it took up about an inch.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164181.html](http://www.nuforc.org/webreports/reports/164/S164181.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [379](http://www.nuforc.org/webreports/reports/164/S164221.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164184.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164181.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164187.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164192.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
