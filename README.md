@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:41 on 28 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:39 on 28 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Kettle Falls (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright white object moving at incredible speed before disappearing suddenlyThe night of the July 28th, 2019 around 11:30 pm my daughter and I were watching meteor showers from our back deck, when we noticed a bright white object traveling at a high rate of speed.  It was large and moving fast; my daughter said it was moving toward us.  We couldn’t hear any sound; we kept asking each other what the heck this thing was.When it got right in front of us it just disappeared in a blink of an eye.  It was so weird we watched to see if it would reappear but it didn’t, it was if it knew we were watching.  We stayed out looking and watching for about half an hour and only saw a few more meteors and a couple of satellites.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147900.html](http://www.nuforc.org/webreports/reports/147/S147900.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in New Orleans (LA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Violet light seen zig-zagging quickly across night skyI was sitting on my porch smoking a cigarette around 10PM, near Children's Hospital, looking south in the direction of the Mississippi River.  I was looking at the sky, when between two houses, I saw a violet/pink light appear.  The light was small, appearing as though it was far off in the distance.  The light would stay in one location for several seconds, zoom quickly in zig-zag fashion to another location, hover for several seconds, and so on.  It would occasionally dart behind a house where I could not see it, but then reappear within view and continue to dart and hover in different spots in the sky.  It moved quickly and unsteadily, very much unlike any normal aircraft that I have seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111988.html](http://www.nuforc.org/webreports/reports/111/S111988.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [379](http://www.nuforc.org/webreports/reports/164/S164221.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164184.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164181.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164187.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164192.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
