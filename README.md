@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:42:49 on 28 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:29:55 on 28 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Fort wayne (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Blinking, fast unknown object flying over downtown Fort Wayne, INWhile watching the ISS pass over fort wayne, in around 10:10pm, I noticed another object flying west of the ISS.  The object was significantly bigger in comparison of the ISS.  We couldn't really tell the shape being it was dark out and it was flashing from white to red every few seconds.  The timing of the changing of colors wasnt in a specific pattern.  The object would stop and hover, then move east.  It was going a good speed when it eventually went out of sight heading east. Roughly two minutes later we see it back in view heading back from wence we seen it at first.  The object then proceeded to head west until we no longer could see it anymore.We thought it was a drone at first, but the way it was acting and the speed this thing had has us thinking otherwise now.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158008.html](http://www.nuforc.org/webreports/reports/158/S158008.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Hooper (CO) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>2 UFO's spotted over Hooper, ColoradoOn Saturday, July 28th, 2007, there was a group of approx. 50 people attending a gathering at the UFO Watchtower, which is located near Hooper, CO.  The area is well known for it's frequent UFO sightings and abductions, and because of this is known as "Abduction Alley".The sky that day was partly cloudy.  At first I saw a white object among the clouds which was moving in a completely different manner than the surrounding clouds.  It moved out to where the sky was bright blue and it was very clearly visible.  After approx. 2-3 minutes it separated from another craft to reveal that there were actually 2 UFO's, then they both vanished.  They were disc shaped with something pointed coming out of the top of the crafts.In addition to seeing the crafts that day, many people's watches and cell phones changed to the incorrect time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57906.html](http://www.nuforc.org/webreports/reports/057/S57906.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [379](http://www.nuforc.org/webreports/reports/164/S164221.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164184.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164181.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164187.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164192.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
