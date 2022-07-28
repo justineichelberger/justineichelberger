@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:08:34 on 28 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:41 on 28 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Cornish (ME) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>A row of horizontal yellow/orange lights hovering over the Saco RiverMy husband and I were driving home from a wedding and were crossing over the bridge at the bottom of Cornish station hill, I was driving and as we crossed over the bridge I saw the row of lights hovering over the water of the Saco River and the lights were just at the tree top level, this would be on my left side, the lights were a soft yellow/orange color, there were at least 5 lights in a row, as we corssed the bridge I said to my husband what I thought I saw, I then turned our car around and drove back accross the bridge for another look now the lights were on the right side and still there, we went slowly accross the bridge watching the lights then again turned around heading back in our originial direction and the lights were still there now on our left side again. So we decided to go up the road to the next street to try and see if we could get a closer look. We drove up Rt 25 and went down a side road and did not see anything then decided to go back o! ver the bridge for another look, when we went back over the bridge the lights were gone. We have been over this bridge many times and there are no structures in the area, just trees and the river.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91261.html](http://www.nuforc.org/webreports/reports/091/S91261.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Kettle Falls (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright white object moving at incredible speed before disappearing suddenlyThe night of the July 28th, 2019 around 11:30 pm my daughter and I were watching meteor showers from our back deck, when we noticed a bright white object traveling at a high rate of speed.  It was large and moving fast; my daughter said it was moving toward us.  We couldn’t hear any sound; we kept asking each other what the heck this thing was.When it got right in front of us it just disappeared in a blink of an eye.  It was so weird we watched to see if it would reappear but it didn’t, it was if it knew we were watching.  We stayed out looking and watching for about half an hour and only saw a few more meteors and a couple of satellites.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147900.html](http://www.nuforc.org/webreports/reports/147/S147900.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [379](http://www.nuforc.org/webreports/reports/164/S164221.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164184.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164181.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164187.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164192.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
