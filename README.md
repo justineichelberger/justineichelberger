@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:17 on 28 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:42:49 on 28 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Corona (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A bright red travelling light disintegrated in the night sky over Southern California, USA.A bright, red light could be seen by me in the night sky.  I thought it was strange, so I made several videos of it with my smartphone camera.  It travelled slower than an airplane, and did not make any noise.  I watched it for about 10 minutes.After about 7 minutes from the time I spotted the red light travelling from left to right, I saw the second witness and pointed out the UFO to him.  I asked him what it might be.  We watched it for about 2 minutes.About 9 minutes from the time I spotted it, drops of white and red alternating light fell off of the bright, red light.  Each time a drop of light fell, the red UFO became dimmer.  Finally, after many drops of light fell and disintegrated, the red UFO disintegrated completely and no more drops of light fell, as they had nothing to fall from.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147890.html](http://www.nuforc.org/webreports/reports/147/S147890.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Fort wayne (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Blinking, fast unknown object flying over downtown Fort Wayne, INWhile watching the ISS pass over fort wayne, in around 10:10pm, I noticed another object flying west of the ISS.  The object was significantly bigger in comparison of the ISS.  We couldn't really tell the shape being it was dark out and it was flashing from white to red every few seconds.  The timing of the changing of colors wasnt in a specific pattern.  The object would stop and hover, then move east.  It was going a good speed when it eventually went out of sight heading east. Roughly two minutes later we see it back in view heading back from wence we seen it at first.  The object then proceeded to head west until we no longer could see it anymore.We thought it was a drone at first, but the way it was acting and the speed this thing had has us thinking otherwise now.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158008.html](http://www.nuforc.org/webreports/reports/158/S158008.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [379](http://www.nuforc.org/webreports/reports/164/S164221.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164184.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164181.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164187.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164192.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
