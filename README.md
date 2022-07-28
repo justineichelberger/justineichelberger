@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:45 on 28 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:38 on 28 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1972, an anonymous witness in West Pittson (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>we are not aloneWhen I was thirteen years old I saw something fare away in the night sky it looked like a moving star but it made a u shape pattern  It took about 30 to 45 min. to make but, After seeing that I knew we were not alone out there But this had to be light years away, And in the 70s the sky in pa. Was so clear you could see forever   But now on a good night you are lucky to see hundreds or a thousand stars if that, It was in the north direction 11 o’clock position. 12:00 am at night, I think that’s near the plant Vega at that time of the morning, We ware just on the moon in 1969 Os I knew that what ever this was it was not us, It was to fare away to be us, I always wanted to tell Essay the people who look for life out there but I here they got cut this year with over 2000 Saddle Lights around the earth if theirs UFO’S out three are country knows.((NUFORC Note:  We cannot be certain whether this report is intended as a serious-minded report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81894.html](http://www.nuforc.org/webreports/reports/081/S81894.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Lebanon (OR) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Observed a large grey illuminated dog-bone shaped object to right of moon.I am a 32 year old female, with a B.S. Degree in Psychology and I am currently working for the State of Oregon on the Y2K Project. My husband was outside at 04:15 taking pictures of the partial lunar eclipse when he excitedly called for me stating that he was seeing a UFO.  I rushed out to the open window and looked south toward the moon to where he indicated he saw the object. My husband handed me the binoculars. To the right of the moon I could detect a faint, illuminated light grey object in the shape of a dog bone, about half the diameter of the moon. The two ends were easier to see, but I could see a connecting center. I observed it traveling very slowly and by this time it was about "2:00" by the moon.  There were no "indicator" lights on it (such as on a plane, and there was no sound).  As it continued heading right, and away from the moon, it was less visible, until it competely disappeared from my sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08474.html](http://www.nuforc.org/webreports/reports/008/S08474.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [379](http://www.nuforc.org/webreports/reports/164/S164221.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164184.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164181.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164187.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164192.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
