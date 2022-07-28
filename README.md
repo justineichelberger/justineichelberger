@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:35 on 28 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:43 on 28 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Cheektowaga (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A triangular shaped object with flames and green lights floats through the sky in my neighborhood.We were sitting in my friends backyard around a bonfire. I was starring up at the sky looking at the stars when to my left a triangular shape appeared. I first thought it was a plane and then realized that I never seen a plane like that before. I was able to point out three corners of the craft which did indeed look like a triangle. The front had two green lights at two points and what looked like a red flame in between them. It was moving a bit slow for a few seconds and then picked up speed. We stood up and ran to the front of the house because the house next door was in the way of our view. When we made our way there it had disappeared. It wasn't a cloudy night so us not being able to see it anymore was a bit strange.((NUFORC Note:  Source elects to remain anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23990.html](http://www.nuforc.org/webreports/reports/023/S23990.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Vernon (Canada) (BC) reported seeing craft that fit the description of some 'Other' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Beam of light running across the night sky.Received: April 9, 2004.It was about midnight that I went outside for a smoke, and right outside my door and above me, (I am about 15 km due North of Vernon) looked like a giant spotlight in the sky, with no source and no obvious end.  It seemed to skirt the horizon above me, but also seemed to hang low...however, it was hard to distinguish the distance/height of it, it was just so big.I kind of shook my head and squinted my eyes to make sure I wasn't seeing things, because it was completely out of place/abnormal. I thought at first it was a cloud, illuminated by the moon, but there was no moon visible, and it was not a typical, random cloud-shape. My second thought was northern lights, but it clearly wasn't them, either, as it did not move, change shape, or have any colour to it, aside from a while glow, which seemed to actually give off a good amount of light, similar to a full moon. It was shaped like a tube, perfectly smooth and round with well defined edges, but no real substance (I briefly wondered if it was some sort of UFO, but the lack of substance to it convinced me it was not).I hope this helps, I can't think of anything more to add, but will update you if I do. Keep up the good work!  My many thanks to the witness for their report.Brian Vike, Director HBCC UFO Research Phone 250 845 2189 email: hbccufo@telus.net Website: http://www.hbccufo.com</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36260.html](http://www.nuforc.org/webreports/reports/036/S36260.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [379](http://www.nuforc.org/webreports/reports/164/S164221.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164184.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164181.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164187.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164192.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
