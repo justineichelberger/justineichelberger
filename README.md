@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:07:56 on 28 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:35 on 28 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Richmond (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Electrical magnetic affects on at least three homes, lightning like flashes observed and blue haze in cloudsI was in my house reading by a lamp and my wife was in the bath room, and the lights started blinking as if they were going to turn off , soon afterwards they came back to normal, my son  and his girl friend were outside the house and he reported to me that the porch light was flashing on and off and at the same time they saw flashing lights in the sky somewhat like lightning but there was no sound, the weather was clear no rain or stormy clouds. The following day on July 29 I talked to two of my neighbors regarding the event of Friday night 28 July and I was told that their lights were flashing off and on at the  same time around 10:30 pm.  I  contacted PG&E our electrical supplier and they reported no transformer explosion on that date and time. Our electrical powere was affected by what ever was in the sky on July 28 - 06.((name deleted)).   I decided to ask two of my neighbors if they had any problems with their lights around 10:30 and they all reported that their lights were flashin</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51836.html](http://www.nuforc.org/webreports/reports/051/S51836.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Cheektowaga (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A triangular shaped object with flames and green lights floats through the sky in my neighborhood.We were sitting in my friends backyard around a bonfire. I was starring up at the sky looking at the stars when to my left a triangular shape appeared. I first thought it was a plane and then realized that I never seen a plane like that before. I was able to point out three corners of the craft which did indeed look like a triangle. The front had two green lights at two points and what looked like a red flame in between them. It was moving a bit slow for a few seconds and then picked up speed. We stood up and ran to the front of the house because the house next door was in the way of our view. When we made our way there it had disappeared. It wasn't a cloudy night so us not being able to see it anymore was a bit strange.((NUFORC Note:  Source elects to remain anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23990.html](http://www.nuforc.org/webreports/reports/023/S23990.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [379](http://www.nuforc.org/webreports/reports/164/S164221.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164184.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164181.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164187.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164192.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
