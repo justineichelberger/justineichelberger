@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:39 on 28 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:46 on 28 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in New Orleans (LA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Violet light seen zig-zagging quickly across night skyI was sitting on my porch smoking a cigarette around 10PM, near Children's Hospital, looking south in the direction of the Mississippi River.  I was looking at the sky, when between two houses, I saw a violet/pink light appear.  The light was small, appearing as though it was far off in the distance.  The light would stay in one location for several seconds, zoom quickly in zig-zag fashion to another location, hover for several seconds, and so on.  It would occasionally dart behind a house where I could not see it, but then reappear within view and continue to dart and hover in different spots in the sky.  It moved quickly and unsteadily, very much unlike any normal aircraft that I have seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111988.html](http://www.nuforc.org/webreports/reports/111/S111988.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Hurst (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Black Triangle Middle of the Day SightedLarge Black Triangle with a strange rusty black color shot passed my window in the middle of the day.  I ran outside to see if I could catch a pic, but it was a small dot on the horizon in only about 5 seconds of delay to get camera and get outside. It just drifted away very quickly.  Much faster than when it first passed by the picture window.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129553.html](http://www.nuforc.org/webreports/reports/129/S129553.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [379](http://www.nuforc.org/webreports/reports/164/S164221.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164184.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164181.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164187.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164192.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
