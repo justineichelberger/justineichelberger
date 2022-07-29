@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:04:26 on 29 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:44 on 29 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Bellingham (WA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Three people observe strange light in night skyIt started about 11:30 pm on Saturday July 27th, 2000.  There were 3 of us standing outside on the deck when my husband pointed to the sky and said, LOOK!  We all looked to the sky and saw a pink/red/white light attached to a very faint boomerang shaped object.  The object was hard to see, but the light was very bight.  The object was traveling at a fair pace, faster than an airplane and way faster than a bird and it seemed very high up in the sky (my thumb could cover the entire object).  It traveled straight west, It was moving quickly so I stepped off the deck and followed the object, then the object took a very pin point turn to the north, travel a few seconds in that direction, then another pin point turn the the east.  I followed the object back the east, the object went behind a tree and we never saw it reappear.  All of the witnesses are very upstanding citizens.  Actually, don't think I am crazy, but this is probably the 5th or 6th strange siting my husband and I have seen.  We have moved twice in the past 2 years, and they seem to follow us or something.  We live directly accross from an airport, so we all know this was not an airplane.  There was no noise, no flashing landing lights or anything. We ruled out a bird, because we did not see any flapping of wings.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13649.html](http://www.nuforc.org/webreports/reports/013/S13649.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Linoir City (TN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>The object was mettalic and caused electronics to lose energy.My brother and I went outside to ride our bikes around the block. I turned around and saw a disk shaped object over our house. It made no noise. It had a dome shape on top. It was a sort of mettalic collor.I asked my brother "what is that"? He said "I don't know." I quickley puled out my phone and took about 10 snap shots. I told him to go get the cammera.It circled the block and then shot down quickley.My brother got outside and started recording.It shot towards the moon and the fully charged battery on the cammera and the phone died.My brother got about 3 seconds of footage.One picture is on this link.http://www.facebook.com/photo.php?pid=562620&l=b4bbc7c27f&id=1046612484((NUFORC Note:  Probable hoax, we suspect.  Date is not indicated by the source, so we have assigned an arbitrary date above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71397.html](http://www.nuforc.org/webreports/reports/071/S71397.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [368](http://www.nuforc.org/webreports/reports/164/S164190.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164279.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164195.html)
-- [365](http://www.nuforc.org/webreports/reports/158/S158065.html)
-- [364](http://www.nuforc.org/webreports/reports/158/S158053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
