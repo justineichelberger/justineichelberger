@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:59 on 29 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:49:19 on 29 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in West Suffield (CT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>flying saucer makes touchdown then flees the sceneI was over a friend's house yesterday.  We were drinking a little and just having a good time at his place in west Suffield CT.  When we both stepped outside for whatever reason at the time and saw what appeared to be a great orb of light at first.  It was apparent that this was not an airplane because it was not moving.  It just remained still for about 30 sec then suddenly started to jump in random spots in about a .5 mile radius from its original spot.  Then as crazy as it sounds I could actually make out the shape of the craft.  Classic old sci-fi movie flying saucer is what it appeared to look like with a system of lights around the circular edge.  What really freaked me out is when I looked even closer and could make out what appeared to be what some call a (touchdown).  But the beam of light coming from the bottom of the craft wasn't light at all. It blended in with the sky and I could only see the edge of it.  When suddenly the beam of whatever it was disappeared and the crafts lights flashes starting with one bulb and went around the saucer ending with a single red flash from a bulb.  That red flash was the last I saw from the craft as it quickly disappeared into the sky.  I don't know what that thing was but I am just curious if me and my friend are the only ones who saw this craft that night.  ((NUFORC Note:  At the time the witness telephoned our Hotline, we questioned whether the call was a serious one.  We could detect sounds in the background, which suggested to us that the call might be yet another of the many prank calls our Center receives, on a regular basis.  If we are wrong in our assessment of the call, we apologize to the witness, but we had reason to believe that the call was not serious-minded.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112034.html](http://www.nuforc.org/webreports/reports/112/S112034.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Windsor (VA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>3 erratically moving bright "stars" in large right triangle shape.My brother and I went to watch the Perseid Meteor Shower (we saw 4 meteors) at around 1:30 am and I noticed a rather bright star that was moving erratically in in small zigzags and backwards and forward at what seemed to be random. A few minutes later I noticed another to the left of it about the distance of a ruler at arms length.  I then saw the third dot above the first about half the rulers length, they formed a large right triangle in the sky and all moved around erratically. We watched them for about 25 minutes before going back inside.  At 2:34 (now) they're still out there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111987.html](http://www.nuforc.org/webreports/reports/111/S111987.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [368](http://www.nuforc.org/webreports/reports/164/S164190.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164279.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164195.html)
-- [365](http://www.nuforc.org/webreports/reports/158/S158065.html)
-- [364](http://www.nuforc.org/webreports/reports/158/S158053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
