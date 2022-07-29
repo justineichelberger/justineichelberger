@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:38:15 on 29 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:18:34 on 29 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Center Conway (NH) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>UFO SIGHTING REPORT: 7/29/20 (around 3:15 am) I was watching the northern night sky when I noticed a bright light in the peripheral vision of my right eye.I looked to the east to see a light rectangular in shape, 40 degrees from horizontal, moving southward.It was 1/2" X 1" (finger spread against the sky) moved two inches across the sky before turning red, and then disappearing.Five minutes later, looking northward again, I saw a similar shaped white light/object, at 55 degrees, move an inch across the sky eastward, NOT turning red, then disappearing.Both lights/objects were low in the sky not up in the stars.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158076.html](http://www.nuforc.org/webreports/reports/158/S158076.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Black Diamond (WA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Greenish Gold Teardrop shaped object silently traveling NNW 10 times faster than jetliner over Black Diamond, WA.Object color:  Emerald Green Teardrop w/ Thick Gold outer layer Object  Bearing: NNW (unchanging) Est. Elevation: 5 - 7000 Ft (Lower than passenger jet altitude)  Est. Speed: 10 times faster than jetliner  Object noise during entire sighting:  None  Object trail or emission:  None</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135428.html](http://www.nuforc.org/webreports/reports/135/S135428.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [368](http://www.nuforc.org/webreports/reports/164/S164190.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164279.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164195.html)
-- [365](http://www.nuforc.org/webreports/reports/158/S158065.html)
-- [364](http://www.nuforc.org/webreports/reports/158/S158053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
