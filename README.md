@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:36 on 29 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:47 on 29 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Gallatin/Red Hook (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>UFO report. Columbia County, Town of Gallatin NY .Star like object drops behind cloud. My wife and I moved outside at 8:45 pm  to our porch to relax and look at the landscape (facing east).  While looking at the sky my wife said what a pretty cloud, and I said it was. Just above the cloud was what appeared to be a star, as we looked at the cloud the star quickly moved down into the cloud.  My wife and I sat watching there were no other stars in the sky due to cloud cover.  I used the deck post as a reference to see if the cloud was moving, it was not but, the object did.  We  are familiar with satellite's and meteors and this was neither.The one thing is that stars don't jump into a cloud.   The UFO was in the eastern sky at about 45 degrees off  the tree line and promptly dropped down at a slight angle towards the ground into the cloud.After thinking about it the cloud would have had to jump straight up in a split second but the cloud was stationary.  We both agree it was not a plane or star but a UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100619.html](http://www.nuforc.org/webreports/reports/100/S100619.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Berwick (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Light moving east then west then north............I was outside locking my car and looked up and saw a little light (I thought it was a distant star, but it was moving).  My first thought was that maybe it was Columbia.  It was moving in a due east direction about the speed of a passenger jet.  It moved east for about 1 minute then faded out.  About 20 seconds later it returned, heading due west in the same manner.  After another minute, it very quicky turned north (I have seen planes bank that fast) and after another minute it faded again.  After 10 minutes of sky watching, it had not returned, so I went inside.((NUFORC Note:  Possible satellites, we suspect.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45333.html](http://www.nuforc.org/webreports/reports/045/S45333.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [368](http://www.nuforc.org/webreports/reports/164/S164190.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164279.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164195.html)
-- [365](http://www.nuforc.org/webreports/reports/158/S158065.html)
-- [364](http://www.nuforc.org/webreports/reports/158/S158053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
