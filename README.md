@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:18:34 on 29 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:10:01 on 29 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Black Diamond (WA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Greenish Gold Teardrop shaped object silently traveling NNW 10 times faster than jetliner over Black Diamond, WA.Object color:  Emerald Green Teardrop w/ Thick Gold outer layer Object  Bearing: NNW (unchanging) Est. Elevation: 5 - 7000 Ft (Lower than passenger jet altitude)  Est. Speed: 10 times faster than jetliner  Object noise during entire sighting:  None  Object trail or emission:  None</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135428.html](http://www.nuforc.org/webreports/reports/135/S135428.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1994, an anonymous witness in Zadariv (village) (Ukraine) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Triangle object seen in Ukraine a couple of years after the Belgium flap.It was in Ukraine in a village called Zadariv where my grandparents live, i was about 4 years old (1994) It was about midday, I was with my grand-dad crossing the bridge to go to the local store when I looked up and saw a Triangle object in the sky with 4 lights, one in each corner and one in the middle. I quickly told my grand-dad to take a look but he said it must of been a plane (by this time it was behind the clouds). Now I’m 14 and i found out about the Belgium Flap. I specifically remember the Triangle shape and Ukraine is VERY close to Belgium.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38388.html](http://www.nuforc.org/webreports/reports/038/S38388.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [368](http://www.nuforc.org/webreports/reports/164/S164190.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164279.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164195.html)
-- [365](http://www.nuforc.org/webreports/reports/158/S158065.html)
-- [364](http://www.nuforc.org/webreports/reports/158/S158053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
