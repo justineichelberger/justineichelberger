@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:40 on 29 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:45 on 29 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Hickory (NC) reported seeing craft that fit the description of some '' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>((NUFORC Note:  Source of the report provides no information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153223.html](http://www.nuforc.org/webreports/reports/153/S153223.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in New York Mills (NY) reported seeing craft that fit the description of some 'Flash' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A dome-shaped object with green and red flashing lights was observed by 3 family members in suburban Utica,NYI am a 42 year old nursing student with a previous B.S. in Home Economics who is also a cub scout leader. I was driving at about 20 miles per hour in a heavily populated suburb of Utica, N.Y. at about 10:15 pm. My 36 year old husband who is a printer with an associates degree in advertising and a U.S. Army veteran of Operation Just Cause in Panama, and my 8 year old son who is a bear in Cub Scouts and a third grader this year, were with me as we were coming home from a family reunion. It was quite humid and there were lighting strikes which lit up the sky. As I was driving along , I winessed two flashing lights on an object which was hovering above the patch of road ahead of us. I slowed down even more, and asked my husband and my son if they could see what I was witnessing. They immediately saw the object. My husband said that the green flashing light on the left, and the red flashing light on the right appeared to be about 20 feet apart. The object simply hovered, and was absolutely silent. We had our windows down and our Dodge van is in good repair and is very quiet. We could not hear the soar of a plane or the whirring, buzzing sound of a helicopter.We immediately reported this sighting to the Marcy substation of the New York State police. The dispatcher called our house later to report that upon reporting the sighting to the local police, she was told that there were no other sightings. She agreed with me that the object was unlikely to have been a military maneuver since it was operating over a very densely populated area, and had it been a private craft of some sort , it would have been very foolish to be operating a private plane of some sort, given the lightning strikes we were experiencing. Moreover, had a private craft of some sort been simply been remaining still and silent, it would have in a very short period of time, crashed.My son saw a domed shape above the lights that was illuminated by the lightning behind it to the west.The area in question was in an area to the west of Utica New Yo! rk and s outh of the New York State Thruway. I felt that it was important to report this since all three of us saw this and my son has better than 20/20 vision as reported by our optometrist and the school eye testing, and is always a very keen observer who always pays close attention to details. He has drawn several pen and crayon drawings of what he saw and would like to send them in to your official reporting organization.We will send one of his drawings to the address below. Thank You!((NUFORC Note:  We spoke at length with this witness, and found her to be an exceptionally credible witness.  We telephoned the New York State Police, and they reported that they had not received any other reports, save for the one from this witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24020.html](http://www.nuforc.org/webreports/reports/024/S24020.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [368](http://www.nuforc.org/webreports/reports/164/S164190.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164279.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164195.html)
-- [365](http://www.nuforc.org/webreports/reports/158/S158065.html)
-- [364](http://www.nuforc.org/webreports/reports/158/S158053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
