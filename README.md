@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:45 on 28 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:38 on 29 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1983, an anonymous witness in Faibourne (UK/Wales) () reported seeing craft that fit the description of some 'Other' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Grey square object made up of small square objects, moving through the sky at speed, daytimeAs a child, having a family day out. Sitting on a west facing beach a square object approched, it appaered to be made up of squares all joined together. It appeared to be standard grey metal no flashing lights, just moving at speed.  The object moved in from the sea  and disapeared over some hills out of sight.  Even now many years later i still remember this clearley.  Some years later we moved to the area (1986) and occaisionaly drive past and think of that brief moving object.  I dont have any memory of this being followed by any planes.  Just a bright sunny day in Wales((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70387.html](http://www.nuforc.org/webreports/reports/070/S70387.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Concord (CA) reported seeing craft that fit the description of some 'Egg' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>On July 29,2011 at 9:55 pm  My husband and I saw a large low flying glowing orange object that was heading in an northeast direction. I observed it for over 5 minutes until I lost sight of it out over the Pittsburg/Antioch Ca. way.  My cousin that lives in Sacramento,CA. and her family also observed it.  What could this be. There was an airplane also flying paralell to it.  They had to have seen it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82841.html](http://www.nuforc.org/webreports/reports/082/S82841.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [379](http://www.nuforc.org/webreports/reports/164/S164221.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164184.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164181.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164187.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164192.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
