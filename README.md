@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:33 on 29 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:38 on 29 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Madison (AL) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>UFO sighting in Huntsville/Madison, AL &lt;br&gt;&lt;br&gt;  Just after finishing dinner on 7-29-2013, I walked out onto the front porch. It was approximately 6:35pm (18:35) CST.I glanced up because I saw movement, and was facing due north.  I saw a commercial airliner, like a 737, that was flying eastward, from near the center of my field of view.  I watched it fly for a second, following the vapor trail backwards.When I reached the end of the vapor trail, I noticed an egg-shaped object hovering, just to the left of center, and a little higher than the original flight path of the plane.The egg-shaped object had an aura, or shadow, or pulse, to or about it. Within a blink of an eye, 2 orbs (circular) appeared just to the right and higher of the egg-shaped object. The egg-shaped object had a grayish or metallic appearance, while the orbs had a brighter white glow.The egg-shaped object was larger than the commercial airliner. It was larger in diameter, and similar to the difference in size depicted in the picture. The orbs were very similar in scale to the picture, as is the jet.The main object began to move westward, and had erratic movement. In my excitement,  I evaluated everything in a brief second.  I did not have a quality video camera, and feared that a cell phone picture would provide poor quality, and little details.  I made a decision to go for binoculars, in hopes of being able to see the object better.I ran for the binoculars, returning and seeing all three objects.  The plane was gone by now. At that instant, the orbs disappeared.  I threw the binoculars up to my eyes, and was not able to immediately locate the object.  I pulled them down to re-gain a fix on its location again, found it with my naked eyes, and watched it enter into the clouds.If it appears on any radar, it would be very close to the Alabama Tennessee state line, at about 6:35pm, on Monday, July 29th, 2013.I have attempted to re-create what I saw.  The picture should explain the movement, location, and surrounding view point.  The picture is pretty close to what I saw.  I tried to provide as much detail as possible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100643.html](http://www.nuforc.org/webreports/reports/100/S100643.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Warszawa (Poland) () reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>A few days ago I was taking a series of photos of flowers from my garden. Two last were taken when it was dark already (i.e. with a flash). Yesterday while I was saving all photos on my computer, surprisingly I found out there is "something" else on one of them (the other taken a few second after doesn’t show anything like this). No clue what this might be - while taking photos I didn't hear anything as well as I did see nothing except flowers obviously. No other person was with me there....</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51877.html](http://www.nuforc.org/webreports/reports/051/S51877.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [368](http://www.nuforc.org/webreports/reports/164/S164190.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164279.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164195.html)
-- [365](http://www.nuforc.org/webreports/reports/158/S158065.html)
-- [364](http://www.nuforc.org/webreports/reports/158/S158053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
