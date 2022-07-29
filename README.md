@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:45 on 29 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:47 on 29 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Eugene (OR) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I went outside to have a cigarette and saw a object larger than a star moving erratically, back and forth then hovering, then moving across the sky at a very high rate of speed.  Object was white changing to red then green then back to white.  Object was seen moving  and then hovering for a few seconds. It was not any type of aircraft and it made no sound.  I thought it looked like a giant laser pointer in the sky.  When it went across the sky, it went from the southern most horizon to the northern horizon in no more than 2 seconds.  I have never seen anything like this before.  After about 10 seconds object came out of the northern horizon back to its original position, all the while changing colors, again object made no sound.  Object then rose up to zenith above my head, pulsated colors for a few seconds and then disappeared.  The object was there one second and gone the next and did not return.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76870.html](http://www.nuforc.org/webreports/reports/076/S76870.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Ocean Isle (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately an hour - an hour minutes.</sub><blockquote><sub>Large golden red light coming on and then going out, several times in the night sky.At our beach vacation we were out relaxing on the upper deck of the house we were renting, enjoying watching the moon and stars out over the ocean, when a large, orange-red orb appeared in the sw night sky and then went out.  Then about ten minutes later this orb appeared again, but this time was in southern position of sky.  Appearances of the bright glowing cirlce that seem to come on and then go off after two or more seconds, continued for the next hour changing positions from south to southwest in the sky every fifteen minutes or so.  One time it appeared, glowed, and then another appeared to the left of the first orb and then it looked like a third shot out of the right of the first orb, so that for a couple of seconds there were three lined up in a row.  The size of this orb appeared very large like holding a pea at arm's length.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38397.html](http://www.nuforc.org/webreports/reports/038/S38397.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [368](http://www.nuforc.org/webreports/reports/164/S164190.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164279.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164195.html)
-- [365](http://www.nuforc.org/webreports/reports/158/S158065.html)
-- [364](http://www.nuforc.org/webreports/reports/158/S158053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
