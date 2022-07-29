@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:10:01 on 29 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:44 on 29 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1994, an anonymous witness in Zadariv (village) (Ukraine) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Triangle object seen in Ukraine a couple of years after the Belgium flap.It was in Ukraine in a village called Zadariv where my grandparents live, i was about 4 years old (1994) It was about midday, I was with my grand-dad crossing the bridge to go to the local store when I looked up and saw a Triangle object in the sky with 4 lights, one in each corner and one in the middle. I quickly told my grand-dad to take a look but he said it must of been a plane (by this time it was behind the clouds). Now I’m 14 and i found out about the Belgium Flap. I specifically remember the Triangle shape and Ukraine is VERY close to Belgium.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38388.html](http://www.nuforc.org/webreports/reports/038/S38388.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Exeter (NH) reported seeing craft that fit the description of some 'Changing' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Black object of indeterminate, constantly shifting shape seen passing over Exeter, NH.The object approached from the west, and maintained a steady trajectory towards the east, curving gently towards the south as it passed. At first it appeared to be an airplane, but it never resolved into any singular airplane shape. Sometimes it appeared to be a biplane flying in an extreme crab, sometimes it looked like a star. From first sighting, its shape was constantly moving, in a rotational manner, with a period of approximately 12 seconds. At its closest approach, it appeared that there were many (c. 20) discrete shapes rotating around the center. It maintained an overall spherical aspect at all times, and the rate of internal motion never changed. One observer saw the rotation as around a perpendicular axis. It seemed that the front of the object shifted its shape less, while the rear (as it travelled) seemed at times to be anemone-like, though with slower motion. The object remained black, never showing any other colors, nor reflecting any light, though it didn't seem to pass into any sunlight. As it passed, both of us saw what appeared to be a halo around the object, perfectly circular, about a third of the object's diameter further out from its center. The halo appeared as an indistinct lighter ring, with a slightly darker ring around it. One observer felt it was a lens-like effect. Its apparent speed was comperable to a light airplane, and its apparent altitude was also comperable to where a light airplane would fly, as it remained beneath all clouds. A rain storm had recently passed, and the cloud deck was moderately high - not low, but not as high as airliners travel. One of us grew up around airplanes, and has been obsessed with them in varying degrees for his whole life. He is a musician, and has a strong background in the sciences. The other observer was raised in a very socratic household, where everything is open to question, but where the simplest answer must prevail.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51906.html](http://www.nuforc.org/webreports/reports/051/S51906.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [368](http://www.nuforc.org/webreports/reports/164/S164190.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164279.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164195.html)
-- [365](http://www.nuforc.org/webreports/reports/158/S158065.html)
-- [364](http://www.nuforc.org/webreports/reports/158/S158053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
