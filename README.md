@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:40 on 30 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:34 on 30 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Deer Park (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Over 20 red lights in a long zig zag row over Deer Park, NY forming a zig zag pattern headed east to west / west to east.At approximately 9:15 pm tonight, 7/30/16, my wife and I were driving home from Deer Park, NY.  It had been raining most of the afternoon and part of the evening, when the rain subsided, and the skies finally started to clear a bit.  Suddenly, directly above me and in front headed West to East, I saw a series of red lights in the sky.  It looked like a zig zag pattern that made like a contellation type of pattern... tough to describe!  Only it was not a constellation, but rather a series of triangular red and white lights.  There were over 20 of these and then gradually it became only 4 and then 0.  I called my in laws to run out and see this.  They stepped onto their patio and witnessed the same!  Both my inlaws and I tried to get an image or fil on our phones, but were unable to do so.  The lights were not faint...they were very bright red lights.((ADDENDUM FROM WITNESS))Thank you, Peter!  Will do!I wrote to Newsday as well in Long Island.Will see what comes up.Regards,  ((name deleted))((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128920.html](http://www.nuforc.org/webreports/reports/128/S128920.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Marstons Mills (MA) reported seeing craft that fit the description of some '' over a period of approximately 4.5 - 4.5 minutes.</sub><blockquote><sub>Spherical objects travel across the skyIn the western sky 3 spherical objects in a Diagonal pattern were crossing from west to east, aAt unbelievable speeds.  I was unable to film them with my phone, because they were far too high up.I've seen strange things here on Cape Cod before, but this was inreal!!  It was no plane, no balloon.  They were spherical and bright reddish orange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135457.html](http://www.nuforc.org/webreports/reports/135/S135457.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/165/S165581.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164201.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164211.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164278.html)
-- [378](http://www.nuforc.org/webreports/reports/158/S158209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
