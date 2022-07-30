@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:33 on 30 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:26 on 30 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Eureka (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 00:2:00 - 00:2:00 minutes.</sub><blockquote><sub>Turquoise Light in the skyI was on my way to work.  I was on a back road, Hyde RD in Eureka, MI at 12:10 AM.  I looked to my left and in the sky I saw a Turquoise light going very slow over the field.  About 2 minutes later it darted about 100 feet and then there was a small flash of white light in the sky for 3 seconds.  It was gone.((NUFORC Note:  We assume that the date and time indicated by the witness are correct, but we are uncertain.  We have attempted to verify the date, but have not been able to reach the witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82825.html](http://www.nuforc.org/webreports/reports/082/S82825.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Smithville (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 240.0 - 240.0 minutes.</sub><blockquote><sub>Red and green glow to lights on  triangle crafts and GIANT falling star w/ green tracer  then broke into 3 parts and many falling starsWe saw lights in the night sky thought to be stars, but not. These lights looking like stars other than their red and green changing glow. They where in a triangle pattern, with a "star/light" at each point, and moved swaying side to side and also up and down as if it was a bobber in the ocean or a top trying to maintain balance.We saw three different crafts, but one that stayed over the same area over a 4 hour period of time. Not moving with the other stars as the Earth turned over the 4 hour time.Then around 1:45am to 2:00am on July 31, 2011 we saw a GIANT 'falling star' that had a green tracing glow, this 'falling star' then broke or exploded into 3 easily seen pieces that had an orange  glow.This night from about 23:00 on July 30, 2011 to 3:00am on July 31,2011 we also saw at least twenty to thirty 'falling stars', most looked as if they where projected from the crafts.((NUFORC Note:  Possible sighting of "twinkling" star, together with meteors??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82828.html](http://www.nuforc.org/webreports/reports/082/S82828.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/165/S165581.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164201.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164211.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164278.html)
-- [378](http://www.nuforc.org/webreports/reports/158/S158209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
