@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:14:42 on 30 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:04:24 on 30 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Worcestershire (UK/England) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Witnessed two ufos and took photos.I was stood in my back yard at 21:50, when I noticed a light in the sky, flying left right, up and down, with ease, which made me think it's not a plane or helicopter.  Another light appeared next to it, but then trailed off.  I got my camera and took a few photos.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120851.html](http://www.nuforc.org/webreports/reports/120/S120851.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Airdrie (Canada) (AB) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Pulsating a bright blue white light .email report. Hello , I live in a small town just outside Calgary. As I was preparing to go to bed , I noticed a bright blue object in the NW sky around 11:50 at night. The object was pulsating a bright blue white light and moved very slowly then stopped for about 10 seconds and then it vanished like the lights went out!! I lived in this area for the last 10 years and never had seen anything so strange. "the unusual thing about this, the night before I saw something similar but I though I was seeing a plane and was over tired. I find this to be quiet unusual. Thought I should report this to somebody  Thanks  Brian Vike, Director HBCC UFO Research Canadian Toll Free UFO Hotline 1 866 262 1989 - Free call.Editor: Canadian Communicator - Paranormal Magazine email: hbccufo@telus.net Website: http://www3.telus.net/public/wilbur8/hbcc_ufo_research.htm((NUFORC Note:  We express our gratitude to Brian Vike for sharing the report with NUFORC.  We note that the International Space Station was visible in the western and southern sky from 23:43-23:47 hrs. on this night, but it would not have been in the northwestern sky.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30448.html](http://www.nuforc.org/webreports/reports/030/S30448.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/165/S165581.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164201.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164211.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164278.html)
-- [378](http://www.nuforc.org/webreports/reports/158/S158209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
