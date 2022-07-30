@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:34 on 30 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:39 on 30 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1976, an anonymous witness in South Africa (AR) reported seeing craft that fit the description of some 'Oval' over a period of approximately day - day minutes.</sub><blockquote><sub>July 30, 1976 at 8:00 PM. Three pilot crews from 3 different airlines observed and confirmed seeing an unidentified flying object as big as a battle ship after being alerted by Lisbon Air Traffic Control Center. British Airways Captain Dennis Wood tells his story:  Rare BBC interview with Captain Wood!  On May 14, 1977, the Natal Daily News from South Africa, published an article about this UFO incident titled "UFOs as big as battleships, pilots claim." Here’s that article:"UFOs As Big As Battleships," Pilots Claim (May 14 1977) For fear of being ridiculed, pilots of three airliners kept secret the sighting of three UFOs over Portugal, later described by one of them "as big and solid as battleships."British Airways Trident jet pilot, captain Dennis Wood, who has been flying with the airline for 20 years, said he and his crew first spotted the UFOs while flying from London to Faro.The sighting, described by experts as the most important in the past decade, was also made by the crew of a British Tristar below the Trident and the pilot of a Portuguese airliner.  All the stories tallied.Captain Wood, 42, said he and the Tri-star crew made sighting reports when they arrived at London’s Heathrow airport but kept it all a secret for fear of being ridiculed.  Captain Wood has come forward in the hope that Britain’s ufo experts will turn a serious eye to this particular sighting."Suggestions that the three objects were balloons, stars or satellites, strange clouds or reflections are quite unacceptable to us," he said.  "As I looked to the west we saw this very bright headlamp in the sky.  All the cabin staff saw it too and I told the passengers.  Then it was joined by two cigar-shaped objects as big and solid as battleships."On the return trip, captain Wood tilted his radar scanner.  "There, in exactly the same spot, were these two cigar-shaped things.  We got to within seven miles of them when they disappeared from our screen."</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61972.html](http://www.nuforc.org/webreports/reports/061/S61972.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Kearney (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>White Circular light over cottage countryAround 10:15 around the constellation of Aries a light was travelling Northwesterly slowly then quickly over the cottages and went behind the trees and then continued over most likely over Big Clam Lake in Ontario.  A little later there was a slight gargling like sound in the southeasterly horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158069.html](http://www.nuforc.org/webreports/reports/158/S158069.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/165/S165581.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164201.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164211.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164278.html)
-- [378](http://www.nuforc.org/webreports/reports/158/S158209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
