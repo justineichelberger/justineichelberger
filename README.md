@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:04:24 on 30 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:33 on 30 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Airdrie (Canada) (AB) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Pulsating a bright blue white light .email report. Hello , I live in a small town just outside Calgary. As I was preparing to go to bed , I noticed a bright blue object in the NW sky around 11:50 at night. The object was pulsating a bright blue white light and moved very slowly then stopped for about 10 seconds and then it vanished like the lights went out!! I lived in this area for the last 10 years and never had seen anything so strange. "the unusual thing about this, the night before I saw something similar but I though I was seeing a plane and was over tired. I find this to be quiet unusual. Thought I should report this to somebody  Thanks  Brian Vike, Director HBCC UFO Research Canadian Toll Free UFO Hotline 1 866 262 1989 - Free call.Editor: Canadian Communicator - Paranormal Magazine email: hbccufo@telus.net Website: http://www3.telus.net/public/wilbur8/hbcc_ufo_research.htm((NUFORC Note:  We express our gratitude to Brian Vike for sharing the report with NUFORC.  We note that the International Space Station was visible in the western and southern sky from 23:43-23:47 hrs. on this night, but it would not have been in the northwestern sky.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30448.html](http://www.nuforc.org/webreports/reports/030/S30448.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in braintree (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3:00 - 3:00 minutes.</sub><blockquote><sub>The tall one showed me a vision againThey were tall and white, they put a hand on my forehead so i can see a vision, visions i have seen before.  There is a war that has been for thousands of year, they are gray and they smell bad, the tall one brought me close to it, their eyes were black i mean blackest material you could think of couldn't explain the color it was like i could see a galaxy in its eyes i could feel it hatred, it wanted to kill me like i was there in front of it like it could see me.  There is a device on the move that destroys plants the whites can no longer protect us from this any longer we are running out of time i could see the destruction of one of their allied planet its like something from of movie one beam of light and all i saw was a flash and this planet was just in pieces i could hear there cries but it wasn't a cry it like a sad sound like they were sad what they were showing me. They showed me this because they can feel courage in me eventually ill have to make a decision on whats right and whats easy its not the first time this has happened they call me friend for many years now sometimes just showing me they are watching, waiting for us to stop fighting and if we do they showed me a future of us humans becoming planet conquers i could see lights on the moon and spacecraft and makeshift trading points of gold and other materials, but that future is slowly fading. After the tall one let go i was in my room felt like puking and i was cold like i was sitting in a freezer for 100 years.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158052.html](http://www.nuforc.org/webreports/reports/158/S158052.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/165/S165581.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164201.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164211.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164278.html)
-- [378](http://www.nuforc.org/webreports/reports/158/S158209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
