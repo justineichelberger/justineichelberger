@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:44:15 on 30 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:35:36 on 30 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Laurel (MS) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>flashing lighits   blast    and some kind off craft     and was moving fast took pics at home and 7 miles away. they te samewe have pics of them i have never seen anything like it</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64928.html](http://www.nuforc.org/webreports/reports/064/S64928.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Franklin/Brentwood (TN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>30-50 red/orange fireballs seen over Brentwood and CoolspringsJuly 30th 2011 at 9:50 PM  On July 30th my girlfriend and I were driving to go grab some food when my girlfriend pointed out these strange balls of light hovering in front of the car.  My first reaction was that they were fireworks because of how they looked.  However, we realized very quickly that none of these objects were moving.   They were completely stationary.At this point our view was blocked by buildings so I pulled the car around the block to try and see if we could get another glimpse.  We were able to pull behind a vacant building with an adjacent field and parked.At this point the lights had seemed to move more into the distance.  My guess is somewhere over Brentwood anywhere from Brentwood High School or the WSM Tower.Also the number of lights had grown to around 50.  These lights did move this time but in almost figure eight motions, some even seemed to come together.   They started from around tree height up to cloud level which the clouds were low because of a thunderstorm earlier.My girlfriend was able to get picture and video of this event.  Also, while we were there about 20 other people came to view this as well.After about 15 minutes the lights in no particular order very quickly disappeared.  Some seemed to do a quick flash before they would disappear.  It was maybe 30-45 seconds before they were gone once they started.At this point my girlfriend and I got in my car to try to ride over to where we thought the lights were over.  To do this we had to go over a large hill.  Once over the hill at a red light we witnessed what I would guess was a Black Hawk helicopter just hovering right above the tree line pointing in the direction of the lights.  There were no lights on the helicopter; it reminded me of being blacked out for military operations.We drove for another hour or so but never saw the lights again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88498.html](http://www.nuforc.org/webreports/reports/088/S88498.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/165/S165581.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164201.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164211.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164278.html)
-- [378](http://www.nuforc.org/webreports/reports/158/S158209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
