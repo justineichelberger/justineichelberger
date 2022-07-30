@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:06:30 on 30 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:38 on 30 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Gil Community (TX) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>diamond shaped craft with lights and a slight buzzing soundThe following description is taken from a realitive who saw this craft early one morning on the way to school.  At the time she lived with her mother in the wooded areas in east texas near the La/Tx line...they both saw a diamond shaped craft move very slowly over the van. It had lights on each corner, with a forward light beam emmited from two diffent parts on the front of the craft. It produced a slight buzzing-electric sound that could be heard over the van engine. It moved westerly about 35 mph, with an approximate altitude of 100 feet, and maintained same altitude despite changing topography. The underneath side had strobe-like lights flashing at at regular intervals, lastly dark rectangular bands are seen at diffent lenghts on the bottom side of the craft with a circular light in the middle of the underside((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34872.html](http://www.nuforc.org/webreports/reports/034/S34872.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Dassel (MN) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>3 unmoving bright flashes of light in the sky between big and little dipper, 5 times bigger than biggest star.We were visiting our friends in a campground and sitting by the campfire, looking for Falling Stars, etc.  Suddenly we saw a flash, like a camera flash, 2 big flashes about 3 seconds apart and then a smaller flash.  It was in the sky and located near the center between the big and little dipper.   It was approx 5 times bigger than the biggest brightest star in the sky, and it never moved.  Just 3 flashes and then nothing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45348.html](http://www.nuforc.org/webreports/reports/045/S45348.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/165/S165581.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164201.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164211.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164278.html)
-- [378](http://www.nuforc.org/webreports/reports/158/S158209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
