@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:34 on 30 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:45 on 30 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Marstons Mills (MA) reported seeing craft that fit the description of some '' over a period of approximately 4.5 - 4.5 minutes.</sub><blockquote><sub>Spherical objects travel across the skyIn the western sky 3 spherical objects in a Diagonal pattern were crossing from west to east, aAt unbelievable speeds.  I was unable to film them with my phone, because they were far too high up.I've seen strange things here on Cape Cod before, but this was inreal!!  It was no plane, no balloon.  They were spherical and bright reddish orange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135457.html](http://www.nuforc.org/webreports/reports/135/S135457.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Prescott Valley (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>It looked like hazy planet or sphere, at first glance I thought the sun was shinning off it, but this did not move.My wife & I take our dog out at sunset in our yard to enjoy the cool evening air almost every sunset in Prescott Valley, Az.  They are so beautiful here.I am an amateur astronomer who has been trying get my wife involved in my hobby with me, I have a 10” reflector telescope a 10x50 binoculars and 15x70 binoculars that I bought for her.  We make a game of who see’s the first star or planet and name it.This particular evening just after sunset from our GPS position of N 34° 40’ 19.56”, W 112° 17’ 24.00”, we were expecting to see Antares, Arcturus, Spica, moon, Jupiter & Saturn. I looked up and at approximately 50-55° azimuth and approximately 200° on the compass and saw a very unique, stationary, bright object that was not normal, it should not have been there. To me it appeared stationary, very bright whitish and seemed to have a orange reflection of the sun in it too, this is with my naked eye. I quickly pointed it out to my wife who immediately went into the house to get her binoculars and she was able to see the object with them. She said to her it looked like a glowing fireball orange in the center and yellowish on the outer edges and seemed to be spinning, pretty much what I saw only magnified.We watched for a few minutes, she with her 15x70 binoculars and me with just my eyes, it seemed to rise straight up growing fainter as it did so and eventually disappeared.  I did not look at my watch but know the approximate time due to always going out at this timeline.We were dumb founded, neither one of us has ever seen anything like it before.  My wife was convinced it was a UFO and talked about reporting it, I was not so eager, although I think it very possible we are not alone and UFO’s are a real possibility.  I did not want to come forward. I did not know it but my wife kept looking at the news online to see if anyone else had reported it, when she found someone else did report it to this website we decided to also report what we saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158405.html](http://www.nuforc.org/webreports/reports/158/S158405.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/165/S165581.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164201.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164211.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164278.html)
-- [378](http://www.nuforc.org/webreports/reports/158/S158209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
