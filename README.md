@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:39 on 31 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:32:09 on 31 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Mississauga (Canada) (ON) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Approx 17 orange lights in triangular patternLast night my husband and I were out in our pool for a late night swim. It was a cloudless night and the stars were out. We had our lights all turned off to enjoy the night sky. We had come out around 11:35 pm and had been in the pool about five to ten minutes when I noticed lights in the sky coming over the house behind us.  At first I thought it was a plane, because our house is in a flight path. They were in a distinct triangular shape that in some ways mimicked that of a fighter jet's elongated triangle--  but the lights made a triangular shape that was bigger than a plane, you could see sky through and around them.They were small orange points of light, and looked extraordinarily similar to the smallest stars we could see in the sky except of course that they were moving, and fast, flying in what appeared almost like a perfect flock of geese formation, except with two rows instead of one. I instantly pointed them out to my husband and we watched them as they passed almost directly overhead and past our house from Northwest to Southeast. There was no sound whatsoever either before, during or after they passed, other than that of the usual street traffic nearby, etc.Once we realized they were separate lights and not a single plane, I was honestly afraid they might  be missiles of some kind, because they were so small and high and going so fast,  their color was so uniform, and there was no sound.  Honestly, I have no idea whether missiles make noise or not, but it's all my mind could come up with at the time.   Also as they passed one of the tiny dots of light moved out of the V formation and away and then back into it.   They continued on in their straight path until they disappeared over the roof of our house. The whole thing only lasted 20-25 seconds or so traveling from the horizon of one rooftop to the horizon of the opposite rooftop.There seems to me to be absolutely no question that what we saw was not a natural event, but a group of-- I have no idea what. I am completely at a loss. But those orange lights were most definitely in a formation, and wherever they were going, they were going fast.I have never reported anything like this before in my life until today. Would love to know what it was we saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71437.html](http://www.nuforc.org/webreports/reports/071/S71437.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Cave Creek (AZ) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>The object moved west across the sky, paused, flashed a bright rectangular strobe light and then disappeared.  It was almost like it was taking a photo.  There was no noise associated with it, just a bright rectangular light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51834.html](http://www.nuforc.org/webreports/reports/051/S51834.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/165/S165811.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164215.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164216.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164214.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164204.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
