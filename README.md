@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:48 on 31 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:43 on 31 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in San Antonio (TX) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Multiple witnesses observe stationary, highly-reflective object in daytime sky.  Triangular??July 31, 2010, 2:15 PM, the weather was clear, no sign of clouds, only blue sky with an occasional commercial aircraft approaching from the north heading towards the San Antonio International airport to the southwest.  We are located at the outer limits of approach aircraft.The object appeared as a bright reflective object, located N30E, approximately 30 to 35 degrees above the horizon.  I was located in our backyard swimming pool, the bright object and relatively stationary appearance caught my attention.  I have seen high flying aircraft, rising party balloon, birds during the daytime.  But this object did not fit those observations.  This object was somewhat stationary and seemed to rise like a balloon, but never this bright and never a shape which seemed to rotate, vary in brightness and shape.Object seemed to hover and slightly rise in the sky until it just vanished.  At one point when the object seemed to nearly disappear, observation what I thought was a much larger triangular object, just catching a straight edge about twenty diameters in length as compared to the bright object (no color, bright white starlike).  It disappeared shortly thereafter.  I looked for it but never saw it again. The duration of this observation lasted about 15 min.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76970.html](http://www.nuforc.org/webreports/reports/076/S76970.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Salt Lake City (UT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>10:30 pm.  stepped  out  side for  a  break  from  work,  saw two orange lights  in the night sky. first thought  was  they  were just aircraft, howevery there were no strobe lights,  they  were heading east to west. followed by two  others after the first two disappeared into the west.  there were  aircraft on  approch to  s.l.c   international airport at  the timethe objects  were  a hazy  orange  color  and disk  shape,  size  was about one fourth the moon,  there were alot of  aircraft flying  at the time also,   hight  was  about the same as the aircraft flying in the area at  the time or appeared</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08506.html](http://www.nuforc.org/webreports/reports/008/S08506.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/165/S165811.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164215.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164216.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164214.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164204.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
