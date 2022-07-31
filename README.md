@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:48:53 on 31 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:30:13 on 31 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in New Kensignton (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Large Bommerrang Object with 300 FT Width Spotted in New Kensington PALarge V Shaped UFO spotted over the Allegheny River. Witness along and on the river. This sighting lasted only a few minutes and the object acclerated out of sight to the NW.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64910.html](http://www.nuforc.org/webreports/reports/064/S64910.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Selma-Coos Bay (OR) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Glowing orange light over the mountains.My son, his friend and I were camping at Spaulding Pond in Josephine County on 7-31-14. High in the Kalmiopsis Wilderness area off of Hwy 199, near Selma Oregon. We were camping and had been hearing quite a few jets and jet engines flying fairly low over the mountains.  We had been watching the stars and the sky due to all the jet noise. We were pointing out airplanes as we saw them, when a large orange glowing light appeared over the mountains toward the coast.  It appeared stationary.  It expanded and contracted a couple times and disappeared after a few seconds (maybe 5 or so).  It looked to be over in the Coos Bay area from our mountain top view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112312.html](http://www.nuforc.org/webreports/reports/112/S112312.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/165/S165811.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164215.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164216.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164214.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164204.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
