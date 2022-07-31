@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:39 on 31 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:47 on 31 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1967, an anonymous witness in Churchville (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 02:00 - 02:00 minutes.</sub><blockquote><sub>That night I witnessed a UFO changed my life forever. There have been unbelievable events ever since in my life.I have failed to report this event all these years.  I am now 53 years old.  On this date in 1967 I came home from work that night (going by Churchville Park)when I noticed blue lights. I pulled off the road and looked closer. It was a saucer hovering above the dense trees in the park. My first thought was "oh my God, I need a witness". My home was only a couple of minutes from there. I rushed into the house and got my father to go back to that spot with me.  Though the craft was a little farther west than when I first saw it, we both sat in amazement as it hovered above us. It had blue lights around the bottom of it. It didn't seem to make any noise. But it amazed us that it could just sit there and hover. Somehow we felt we must have "followed" the craft because we ended up on a foreign road an hour from our home.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15714.html](http://www.nuforc.org/webreports/reports/015/S15714.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately  -  minutes.</sub><blockquote><sub>Ufo outside airplane.Did not see until after I viewed the photo.((NUFORC Note:  Photo indicates two bright objects ahead of the a/c wing.  May be reflections of bright objects inside the cabin, we suspect.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121604.html](http://www.nuforc.org/webreports/reports/121/S121604.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/165/S165811.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164215.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164216.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164214.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164204.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
