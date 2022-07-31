@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:31 on 31 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:32 on 31 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in West Green (GA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Diamond shaped, fast moving, changes direction and speed constantly.I was watching meteors when I noticed one of the stars moving.  I thought it was an air craft but it drops, rises, circles, and was seeming to get right in the path of some of the brighter meteors.  My dog was also not too keen to come off the porch, first time she has ever avoided coming with me.  First noticed it at about 5:05 am, still seeing it get closer to me as I am typing, at 5:40am.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135449.html](http://www.nuforc.org/webreports/reports/135/S135449.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in San Antonio (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>4 orb white balls hovering in the sky over San Antonio TX.Looking up in the blue sky, I noticed a white ball. It was way up in the sky. At first thought it might be a balloon but then noticed it wasn't moving. Then saw 4 more near it. They all stayed in that formation for about an hour.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164204.html](http://www.nuforc.org/webreports/reports/164/S164204.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/165/S165811.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164215.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164216.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164214.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164204.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
