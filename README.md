@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:33 on 31 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:48 on 31 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Groten (MA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>if seeing the 1st object wasnt enough,when the 2nd one came out and chased  the 1st object they moved in ways impossible for our planesmy family visited relatives last summer and as we were leaving to go home my girlfriend said she seen something in the sky  we all came out to look and we seen nothing.she said  the tree is blocking the view, and as she said this we seen a what looked like a star but it was as far as a plane would fly,it was moving in all sorts of directions. we were all amazed to see this taking place.but what really made us wonder was when a second star shape object came from nowhere and looked as though they were chasing each other.then as soon as they appeared they changed directions impossible to our planes and headed straight to space and vanished.it was no plane because when the planes do pass by you can hear them,and at 11pm est with all the silence,you would of heard a plane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49962.html](http://www.nuforc.org/webreports/reports/049/S49962.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in San Antonio (TX) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Multiple witnesses observe stationary, highly-reflective object in daytime sky.  Triangular??July 31, 2010, 2:15 PM, the weather was clear, no sign of clouds, only blue sky with an occasional commercial aircraft approaching from the north heading towards the San Antonio International airport to the southwest.  We are located at the outer limits of approach aircraft.The object appeared as a bright reflective object, located N30E, approximately 30 to 35 degrees above the horizon.  I was located in our backyard swimming pool, the bright object and relatively stationary appearance caught my attention.  I have seen high flying aircraft, rising party balloon, birds during the daytime.  But this object did not fit those observations.  This object was somewhat stationary and seemed to rise like a balloon, but never this bright and never a shape which seemed to rotate, vary in brightness and shape.Object seemed to hover and slightly rise in the sky until it just vanished.  At one point when the object seemed to nearly disappear, observation what I thought was a much larger triangular object, just catching a straight edge about twenty diameters in length as compared to the bright object (no color, bright white starlike).  It disappeared shortly thereafter.  I looked for it but never saw it again. The duration of this observation lasted about 15 min.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76970.html](http://www.nuforc.org/webreports/reports/076/S76970.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/165/S165811.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164215.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164216.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164214.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164204.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
