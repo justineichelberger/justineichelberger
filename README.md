@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:47 on 31 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:48 on 31 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately  -  minutes.</sub><blockquote><sub>Ufo outside airplane.Did not see until after I viewed the photo.((NUFORC Note:  Photo indicates two bright objects ahead of the a/c wing.  May be reflections of bright objects inside the cabin, we suspect.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121604.html](http://www.nuforc.org/webreports/reports/121/S121604.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Clio (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Phenomenal bright orange light disappears in clear night sky in Clio, MI on July 31, 2012On Tuesday, July 31 2012 at approximately 9:30 p.m. a friend and I witnessed something that cannot be explained in a clear sky in Clio, Michigan. I live a short distance from the downtown Clio Amphitheater where there is a concert held every Tuesday, typically between 7-9 pm. We sat on my front porch and listened to the concert which ended at around 9 pm. We remained talking on the porch after it was over and I had just happened to glance up into southern horizon where I witnessed an extremely bright fire-orange light traveling on a 25-30 degree angle from NE to SW at a very low speed. I had never seen anything like this before, and briefly sat in astonishment before cutting off my friend in mid-conversation, stating “Dude… What is that!” He looked up as I pointed out the object, we were both speechless… I turned off the front porch light (without losing sight off the object) to get a better view. This bright orange light had no defined borders (but appeared! to be more sphere-shaped than anything else) continued to travel NE-SW very low to the horizon (25-30 degrees) at a very close distance; first appearing to be about the size of a quarter before suddenly shifting to 45 degrees and dimming slightly and becoming smaller in size (about the size of a dime). The object remained orange in color and continued to fade, brighten, and travel very slow. It completely disappeared for about 5 seconds, then faintly reappeared for about 5 seconds, then slowly vanished into the sky. The entire incident lasted about 1 minute. We remained on the porch until 11:30 pm hoping to see the object again but it never reappeared.I have looked on the internet since then hoping that someone else had seen it and it turns out that there have been many similar sightings in July, but nobody has posted anything about this particular incident that occurred on 7/31/12 in Clio, MI at approximately 9:30 pm. This is surprising due to the incident occurring shortly after the concert ended downtown; typically at this time locals walk home from the concert or hang out in the park for a while. Surely, somebody else had to of seen this bright orange UFO in the sky other than us – it was so bright that is would be simply impossible to not see if outdoors at the time, even out of ones’ peripheral vision. If anyone else has witnessed this same object that we witnessed, please post and share what you saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91742.html](http://www.nuforc.org/webreports/reports/091/S91742.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/165/S165811.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164215.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164216.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164214.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164204.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
