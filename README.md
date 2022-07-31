@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:48 on 31 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:07:34 on 31 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Hartford (CT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Was driving into Hartford on I-84.  3 lights, blue, green, and white appeared around the location of where they are building the new baseball stadium.  They stood still for about a second then just took off with lighting speed.  I, my boyfriend, and his godfather all saw it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120761.html](http://www.nuforc.org/webreports/reports/120/S120761.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Ararat (VA) reported seeing craft that fit the description of some 'Egg' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>Witness was on the way home from work.  The sighting was about 1/2 mile on Squirrel Creek Road coming in from the Squirrel Spur Rd end.  Witness saw a large dense cloud hovering in the sky after witnessing what looked like lightening inside the cloud!  A huge house size football shaped object appeared out of the cloud. It had bright lights all around it.  It hovered for a few seconds with no sound or motion.  It was just sitting there. Then all of a sudden it turned and went backwards at light speed and disapeared in thin air.  It was like it was using the cloud as cover and the cloud moved unexpectedly leaving it exposed!  Witness has never witnessed anything like this before and was left puzzled and very shaken. (MUFON CMS)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148163.html](http://www.nuforc.org/webreports/reports/148/S148163.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/165/S165811.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164215.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164216.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164214.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164204.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
