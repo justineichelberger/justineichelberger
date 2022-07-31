@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:42 on 31 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:30 on 31 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1986, an anonymous witness in Kingwood (TX) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>White, diamond-shaped craft with military escortLate dusk, as my friend and I were riding our bikes home, I notice quite a few military helicopters flying directly overhead.  They were flying in formation roughly 200 ft above sea level.  This struck me as odd because military aircraft rarely flew anywhere near the area, so I stopped to see what was going on.  Roughly 20 seconds later, a white, diamond-shaped craft flew overhead, roughly 100 feet above sea level -- much lower than the helicopters.  It made no sound and no colors other than white were seen.  It was fairly bright, but not so bright as to light the ground beneath.  There were also no navigational lights.  It was very large, with the sides spanning about 30 degrees of sky from my perspective.  Total viewing time was 6-8 seconds.  After it passed out of sight behind me, another 3 seconds or so passed when two F-4s (recognized by the sound) came screaming along the same path.  These passed by about the same altitude of the helicopters, roughly 200 ft.  They were moving very fast, as if they were moving to intercept.  Ten to fifteen more seconds passed before three duel rotor helicopters (Chinook?) Slowly followed behind.  I went home and told my mother.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50460.html](http://www.nuforc.org/webreports/reports/050/S50460.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Toronto (Canada) (ON) reported seeing craft that fit the description of some 'Changing' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89778.html](http://www.nuforc.org/webreports/reports/089/S89778.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/165/S165811.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164215.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164216.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164214.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164204.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
