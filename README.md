@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:30:13 on 31 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:12:38 on 31 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Selma-Coos Bay (OR) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Glowing orange light over the mountains.My son, his friend and I were camping at Spaulding Pond in Josephine County on 7-31-14. High in the Kalmiopsis Wilderness area off of Hwy 199, near Selma Oregon. We were camping and had been hearing quite a few jets and jet engines flying fairly low over the mountains.  We had been watching the stars and the sky due to all the jet noise. We were pointing out airplanes as we saw them, when a large orange glowing light appeared over the mountains toward the coast.  It appeared stationary.  It expanded and contracted a couple times and disappeared after a few seconds (maybe 5 or so).  It looked to be over in the Coos Bay area from our mountain top view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112312.html](http://www.nuforc.org/webreports/reports/112/S112312.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Rochester Hills (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I observed an object with flasing lights high in the sky, moving very quickly and sort of "jumping" around.At about 11:00 pm on July 31st my wife and I were sitting outside when I observed a large flashing object high in the sky, to the northeast moving towards the western sky . This object moved very fast and  shot up and then down before vanishing altogether, this lasted about 10 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64921.html](http://www.nuforc.org/webreports/reports/064/S64921.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/165/S165811.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164215.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164216.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164214.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164204.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
