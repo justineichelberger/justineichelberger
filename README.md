@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:44:25 on 1 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:27:37 on 1 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Salt Lake City (UT) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Lights over Salt Lake City.I work at the Salt Lake City Airport and as I was looking to the west, I noticed a cigar shaped mass floating through the air at approximately blimp speed.  It was almost a transparent/flourescent type of light. It was lined with lights.  The lights weren't very bright, but they went all the way around it. and it changed shape like it stood on it's end and got shorter and fatter as it was turning on its end.  As it flattened out again it got long and skinny, like a cigar. I definitly was not an airplane or a weather balloon.  It was like what you hear on ufo shows.  It made no noise. I have never seen anything like it and it is very hard to describe.  It was witnessed by about 12 people.((NUFORC Note:  We would welcome reports from the other witnesses.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24107.html](http://www.nuforc.org/webreports/reports/024/S24107.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Severa Park (MD) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>three flashes, 3 objects moved to a certain spot in the sky, started spinning, then disappearedI was on my morning run like I do every single morning.   I have never seen anything like this, there were 3 small flashes in the sky that looked like shooting stars, but they didn't go straight.  The first one came out of the first flash, flew across the sky and stopped, then the next flash came and the second one went to the first and stopped.  The third did the same and stopped.  Then they all started spinning and made a ring of light in the sky then it got smaller then disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82917.html](http://www.nuforc.org/webreports/reports/082/S82917.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [757](http://www.nuforc.org/webreports/reports/164/S164207.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164230.html)
-- [755](http://www.nuforc.org/webreports/reports/164/S164293.html)
-- [754](http://www.nuforc.org/webreports/reports/164/S164208.html)
-- [753](http://www.nuforc.org/webreports/reports/164/S164209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
