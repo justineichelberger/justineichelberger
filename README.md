@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:51:53 on 1 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:44:25 on 1 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1986, an anonymous witness in Page (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>My Microsoft word is not responding and I do not know how to copy and paste.The year was 1986.  It was August. I was in Page, Arizona at the Waweep campground.  My friend had gone back to CA as we had rented a car and I lost the keys in the lake.So I was alone and walking along Lake Powell.  A bald headed man attacked me.  He was trying to molest, or rape me.  He had me pinned down on the ground, half in the lake and half out.  I was looking up at the sky and saw what looked like two shooting stars.One of the shooting stars did what shooting stars do, Shot across the sky and disappeared, but the other one seemed to land at the end of the lake.  At this time I was thinking it was an amphibious airplane.  It started coming towards us and I could hear the wind pick up and getting stronger at what looked like a big ball of fog was coming at us.  Soon the bald headed man got up.  He was scared and rocks were hitting his back.  He ran up the hill and yelled at me we better get out of here.I looked at him and the ball of fog and decided I would rather go with the ball of fog.  So I started walking out into the water towards the ball of fog.Then it just vanished.  Just instantly.  The water and wind calmed down and it was quiet again.  I did not know what to make of this.I have not heard of many reports like this, but it seemed like it made a special trip down from the sky just to rescue me from this man.That is my one sighting.   ((Name deleted))((NUFORC Note:  Witness indicates that the date of the alleged incident in August 1986 is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84827.html](http://www.nuforc.org/webreports/reports/084/S84827.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Salt Lake City (UT) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Lights over Salt Lake City.I work at the Salt Lake City Airport and as I was looking to the west, I noticed a cigar shaped mass floating through the air at approximately blimp speed.  It was almost a transparent/flourescent type of light. It was lined with lights.  The lights weren't very bright, but they went all the way around it. and it changed shape like it stood on it's end and got shorter and fatter as it was turning on its end.  As it flattened out again it got long and skinny, like a cigar. I definitly was not an airplane or a weather balloon.  It was like what you hear on ufo shows.  It made no noise. I have never seen anything like it and it is very hard to describe.  It was witnessed by about 12 people.((NUFORC Note:  We would welcome reports from the other witnesses.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24107.html](http://www.nuforc.org/webreports/reports/024/S24107.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [757](http://www.nuforc.org/webreports/reports/164/S164207.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164230.html)
-- [755](http://www.nuforc.org/webreports/reports/164/S164293.html)
-- [754](http://www.nuforc.org/webreports/reports/164/S164208.html)
-- [753](http://www.nuforc.org/webreports/reports/164/S164209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
