@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:37 on 1 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:42 on 1 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1954, an anonymous witness in Dyer (IN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>I saw a silent exhaustless golden glowing slow flying triangle on a late summer afternoon In 1954 or 1955.Peter, this is the sighting that I spoke to you about last week on the Jef Rense show. On event duration I put in 15 seconds but I left and ran home (through trees) before the craft, which moving and turning slowly, left view. This triangle was not a sharp arrowhead type but just the opposite: a wing-like triangle much shorter than its width. Its appearence was wider than the moon, maybe two and a half moons. It was bright gold colored and there was no variation that would give a clue as to any curvature or depth to it. It could have been a flying flat two dimensional object for all I could tell. It was turning slowly without banking and there was no sound nor exhaust. The turning was gradual and I assumed it was a small directional correction rather than a complete change but I didn't observe the final direction.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37042.html](http://www.nuforc.org/webreports/reports/037/S37042.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Easton (MD) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>three baketball sized orbs floating 2-3 feet above the ground hovering stationary and silent and glowing red  I was on my way to pick up a friend from work one summer night around 11:00 PM in the summer of 2009.  As i was driving I pass a soybean field that I have passed every day for my entire life.  I was 18 at the time.  I noticed 3 red glowing spheres about the size of soccer balls floating 2 feet above the ground.  They were red/orange in color and were hoving, stationary, and making absolutely no noise.  The orbs seemed to know I was there.  There was one closer to the road and two more in the distance in the field.  I stopped my car and decided to get out and investigate.  I walked over the ditch seperating the field from the car and walked into the crops and stopped about 10 feet away from the closest object.  After concluding that it was nothing like I had seen before I quickly turned and returned to my car. I drove away and picked up my friend to come back to my house.  On the way back she noticed them too.  These orbs were nothing that I could explain or an! yone i knew.  The observers to this event were two girls both of around or 18 years of age about to go away for college.  Both went to a private, Catholic school and were not under the influence of drugs, medicinal drugs, or alcohol.  Neither of us are big "gamers", either.  The area the orbs were seen is a road hardly traveled in a very undeveloped area (except for crops). I feel this is more of an unexplained "being" sighting than an UFO. I cannot remember the entire night or what I did and my memory seems to be missing important details about when I walked into the field.   This could be possibly because I pushed the secret into the back of my mind because no one would believe me except that one friend. I am a smart college student and I have not seen this orbs since this one incident.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88320.html](http://www.nuforc.org/webreports/reports/088/S88320.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [757](http://www.nuforc.org/webreports/reports/164/S164207.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164230.html)
-- [755](http://www.nuforc.org/webreports/reports/164/S164293.html)
-- [754](http://www.nuforc.org/webreports/reports/164/S164208.html)
-- [753](http://www.nuforc.org/webreports/reports/164/S164209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
