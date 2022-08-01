@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:43 on 1 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:46 on 1 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1954, an anonymous witness in North Hollywood (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>star like point of light slowly travelling across the sky in 1954As 12 year old in 1954 I was sleeping in the back yard.  While gazing up at the stars I noticed a very small point of steady white light moving upward from just above the horizon.  Its appearance was like a very dim star.  It slowly traveled across the sky and after about 30 minutes it disappeared.  If it had been a few years later I would have assumed it was a satellite.Bright flash in bellingham area.A flash of light lit my whole house.  My dog freaked out.  At the same time a friend who lives 15 miles away witnessed this same light and his dog freaked out, as well.  I was wondering if anyone else noticed this.  I have never seen a UFO and don't nessasarly beleive in them, but I can not think of another explaination.  My girlfriend has witnessed a similar occurence.  Winter lighting???((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))((NUFORC Note:  Witness indicates that the date above is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86828.html](http://www.nuforc.org/webreports/reports/086/S86828.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Madison (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Ball of light in an upward arc trajectoryBall of light in northern sky.  Not sure of distance from my location but it was obviously larger (closer) than the light from a star, meteor, or satellite.  Confirmed on web that ISS was not flying over my location.  Did not have FAA beacons like a plane would have.  After noticing the light ball, object moved toward the east in an arc (upward) trajectory for a few seconds and disappeared.  No visible trail, just the ball of light moving.  Light was too large for a drone and was much faster than something like a Chinese lantern.  Just an eyeball judgement of altitude maybe a few thousand feet above ground level and about 2-3 miles north of my location.  There were a few small engine aircraft in the area and object was distinctly different.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158214.html](http://www.nuforc.org/webreports/reports/158/S158214.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [757](http://www.nuforc.org/webreports/reports/164/S164207.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164230.html)
-- [755](http://www.nuforc.org/webreports/reports/164/S164293.html)
-- [754](http://www.nuforc.org/webreports/reports/164/S164208.html)
-- [753](http://www.nuforc.org/webreports/reports/164/S164209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
