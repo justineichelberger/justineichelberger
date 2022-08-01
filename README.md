@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:40 on 1 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:56 on 1 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Jackson (KY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>White sphere of lights over a field in south eastern KY.I have been whitness to many occult and odd things in my short 21 years of life. To the point where seeing things like I'm about to explain, do not make me think "am I crazy?"........"did I really see that?" or the like. Up to that point of my life I had seen things which people of that age more then often do not see.  I am just trying to tale my story and see if those out there have seen the things I have. The UFO Chasity and I seen back in 2003 must have been seen by someone else.  So after reading this feel free to write to me. Here it is.Back in the summer months of 2003 me and my family member Chasity had walked onto my front porch.  I remember looking over into the field across the way. I had noticed rising up through the foliage of the trees a white light. I had pointed this out to Chasity and we both watched as the light appeared above the trees. It was a ball of light. the ball looked like a glass ball and glowed a dim but bright white light. It was funny to note that the light of the sphere did not shine of the trees and the light was in and of itself. However, the spherehover above the trees. just hanging there. No noise, nothing, the leaves on the trees didnt even move. When we watched it there for a moment, we noticed that in one instant the ball seemed to zip up into the darkened sky. After a little bit of searching the ball seemed to disappear above the porch roof. I am not saying it was a Alien. However, it was not a fire. It was not a plane or Copter or a fire work.....or anything else. It's nothing I can explain with what I know of the worlds flying contraptions. What I seen was not man made and it is not anything which modern physics can support.I seen it once more. This time me and Chasity and Donnie were driving north and again it was dark, I say about 9pm to 10pm. It was at that time now late october. On the road, I looked over in a field we were driving by and the sphere was there, over a billboard, but this time it had a stream of light which seem to be shining on the ground. Again, everyone seen it. It wasnt anything man made, I assure you.I have always believed in life on other planets and UFO's and all that. I however never thought I would be party to seeing one so close up and so detailed. I am happy I found this.I am 21 now, chasity is in her early 30's.  At that time I was 15 and she was in her mid to late 20's.Thank you for your time((NUFORC Note:  Source of report indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70582.html](http://www.nuforc.org/webreports/reports/070/S70582.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Dodge City (KS) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Maybe it was a weather balloon.this one was very far away and high a little lower than where commericial planes cruise, but for the size of the thing it had to of been moving like 1000 mph.  maybe it was a weather balloon.  it was a small black circle from where I was.  maybe 15-20 ft circumference and it had a tail that was squigally.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100494.html](http://www.nuforc.org/webreports/reports/100/S100494.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [757](http://www.nuforc.org/webreports/reports/164/S164207.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164230.html)
-- [755](http://www.nuforc.org/webreports/reports/164/S164293.html)
-- [754](http://www.nuforc.org/webreports/reports/164/S164208.html)
-- [753](http://www.nuforc.org/webreports/reports/164/S164209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
