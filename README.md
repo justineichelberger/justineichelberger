@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:58 on 1 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:06:13 on 1 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Pflugerville (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>orange globe dims and out runs F 4I was driving home with my son who was 16 around 10 at night.  As we rounded a slight curve i saw a Orange ball above the ball was a slight smoke trail like a flare would leave. I thought it was a flare at first but it did not fall it remained exactly inplace.  I pulled over and backed up to where we were directly facing it and turned off my engine.  The object remain inplace about 150 feet infront and about 30 feet off the ground.  It  glowed but didnt illuminate the area around it.We sat their looking at it and I flashed my headed lights at it a few times untill my son ask me to stop.  Where we lived was around 25 miles from bergstrom AFB and i heard a jet coming real fast towards us.  I looked to see if I could spot it but couldnt.  When i looked back the globe was not visible.  I thought it was gone when I noticed their was three faint red lights in the shape of a triangle Two on the bottom and one on top.  The jet was really moving on us when the lights just took off at a unbelievable rate of speed.  Like nothing I have seen before.  Im pretty sure the jet was a F4 thats what was out at bergstrom at the time.  they were set up with cameras and im sure other monitering devices they all were.  thats what me and my son saw if he wasnt with me i wouldnt be writing this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45699.html](http://www.nuforc.org/webreports/reports/045/S45699.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1984, an anonymous witness in Porterville (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>UFO sightingIt was a summer affernoon in Porterville, California, we went out to lake success with the family.  It was me, my brother and our friend we decided to go to the restroom, when we where done we walk several feet away from the restrooms my brother and friend decided stop and and chit chat mean while I'm just looking around and then I see a light brown flying saucer fly across just above the trees and zips straight up into sky and disappear and a soon as one zips up the next one follows in the exact same path and several follow.  As many as 15 flying saucers one right after the other in daylight hours about 300 yards away and about 5 stories high the object where flying.  During the time the saucer where flying by I told my brother to take a look up in the sky he ignored me then I ask him again he was so annoyed by me and he told me to wait while he talks to our friend so I continued to look up in the sky till there where all gone.  Since I was the young one they never ask me what I wanted so I never said anything until we where adults.  I can tell my brother belives me now.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117136.html](http://www.nuforc.org/webreports/reports/117/S117136.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [757](http://www.nuforc.org/webreports/reports/164/S164207.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164230.html)
-- [755](http://www.nuforc.org/webreports/reports/164/S164293.html)
-- [754](http://www.nuforc.org/webreports/reports/164/S164208.html)
-- [753](http://www.nuforc.org/webreports/reports/164/S164209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
