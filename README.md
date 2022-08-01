@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:48 on 31 July 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:42 on 1 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Redmond (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I looked out my bedroom window and saw a ferris wheel type shaped object hovering and glowing red, yellow and green.I was getting into bed and just happened to look out the window and I caught a glimpse of a glowing object in between the trees. I just thought that it was another airplane and was waiting for it to clear the trees so that I could get a better look at it.  When it finally did clear the trees, I saw this extra large glowing object that was round.  It had greenish, reddish, and yellowish glowing lights.  The only way I can really describe it is that it looked like a ferris wheel with the lights glowing and pulsing.  At first I didn't have my glasses on and I thought it was blurry so I put my glasses on and it was the same.  It looked like it was just hovering in the air, or moving very slowly in the north western direction.  Then all of a sudden it sped up and quickly took off to the west and I couldn't see it anymore.  It was making a sound that I could hear and it sounded kind of like a humming sound and it sounded like it was low to the ground.  My son was in the other room and when I went into the room to ask him if he saw or heard it, he said that he heard it and that it sounded like it was really low to the ground.  I was just amazed at the shape and the glowing lights of this thing in the air.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30472.html](http://www.nuforc.org/webreports/reports/030/S30472.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1974, an anonymous witness in UK/Scotland () reported seeing craft that fit the description of some 'Circle' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>Silver circular Craft above hay fieldCircular craft seen maybe about the size of a small car near Inverness, Culloden Moor with what appeared to be 3 circles on the surface equally spaced could have been lights cannot remember clearly.  Very silver and shiny metal surface.  I would only have been about 9 years old. I drew a picture and it was given to the police at the time by my parents.  I was passing in a school bus and saw it very low (maybe a few feet about the ground level) and stationary above a field where the hay had been cut.  I cannot remember very clearly as I was so young and wondered if others had seen it.  I remember trying to tell a friend on the bus to look but couldn't attract their attention quickly enough.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26266.html](http://www.nuforc.org/webreports/reports/026/S26266.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/165/S165811.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164215.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164216.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164214.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164204.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
