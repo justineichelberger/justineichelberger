@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:39 on 1 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:37 on 1 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Laurie (5 mi. W of; 52 mile marker on Osage) (MO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>3 orange spheres in linear formation over Lake of the OzarksOn a boat, heading downstream on Osage, passing 52 mile marker, and heading south, we observed 3 spheres south heading north.  Spheres were in diagonal linear formation and held the formation as they approached. As they reached approximately 75 degrees above us, the spheres broke formation and lights faded out as they separated and moved away.  Top sphere broke to the east, trailing two broke to the west and faded as they continued turn toward south. I did not observe the eastbound sphere after the break.  Spheres were orange in color with no other lights visible.  No sounds were heard.  The sky was clear, stars were visible, and the moon had not yet risen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77066.html](http://www.nuforc.org/webreports/reports/077/S77066.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1954, an anonymous witness in Dyer (IN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>I saw a silent exhaustless golden glowing slow flying triangle on a late summer afternoon In 1954 or 1955.Peter, this is the sighting that I spoke to you about last week on the Jef Rense show. On event duration I put in 15 seconds but I left and ran home (through trees) before the craft, which moving and turning slowly, left view. This triangle was not a sharp arrowhead type but just the opposite: a wing-like triangle much shorter than its width. Its appearence was wider than the moon, maybe two and a half moons. It was bright gold colored and there was no variation that would give a clue as to any curvature or depth to it. It could have been a flying flat two dimensional object for all I could tell. It was turning slowly without banking and there was no sound nor exhaust. The turning was gradual and I assumed it was a small directional correction rather than a complete change but I didn't observe the final direction.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37042.html](http://www.nuforc.org/webreports/reports/037/S37042.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [757](http://www.nuforc.org/webreports/reports/164/S164207.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164230.html)
-- [755](http://www.nuforc.org/webreports/reports/164/S164293.html)
-- [754](http://www.nuforc.org/webreports/reports/164/S164208.html)
-- [753](http://www.nuforc.org/webreports/reports/164/S164209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
