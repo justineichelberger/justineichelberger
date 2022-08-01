@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:03:21 on 1 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:46 on 1 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Bethany Beach (DE) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bethany beach de, boardwalk, 3 red-orange, flickering balls located over ocean, NE directionRound, red-orange, ball shape, flickering slightly.  I was on boardwalk, the UFOs were located over the ocean, northeast direction. A group of 5 people saw me observing and asked if i knew what it was, i did not, they did not.The UFOs then started to move into a triangular shape, they started to align vertically, but did not totally form a straight line.  The one lowest to the ocean started to fade, then the next up, then the highest one faded last.It was a few hours after it had stopped raining, lots of rain, thunderstorms.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100705.html](http://www.nuforc.org/webreports/reports/100/S100705.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1994, an anonymous witness in Stone Harbor (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Glowing green light came up right side of moving car, stayed even then made sharp right turn 90 degrees, took off.Driving south on Route 9 with swamp area to right of car, a glowing green (fluorescent)object came to the right side of the car, kept at the same speed for several seconds (2-3)and then made a sharp right turn 90 degrees and took off to the west very fast.  Four year old son said "what was that?".  Husband driving did not see it.((NUFORC Note:  Source of report indicates that date of the event is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58581.html](http://www.nuforc.org/webreports/reports/058/S58581.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [757](http://www.nuforc.org/webreports/reports/164/S164207.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164230.html)
-- [755](http://www.nuforc.org/webreports/reports/164/S164293.html)
-- [754](http://www.nuforc.org/webreports/reports/164/S164208.html)
-- [753](http://www.nuforc.org/webreports/reports/164/S164209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
