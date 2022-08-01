@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:05:00 on 1 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:39 on 1 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Damariscotta (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Two moving lights moving in tandem in the sky pause for a moment then fade from sight after being green beamed.Standing a dock on the western side of Pemiquid Pond two lights seen traveling very high up in tandem eastward their motion slowed and hung stationary for a moment, using a green laser I indicated the lights to the group, using the beam to circle the two stationary lights, one seemed a faint red or pink, the other a larger brighter white, the smaller red light was trailing the larger bright white light and after I had circled them with the beam they slowly faded from sight. we all were impressed and awestruck at the mystery of it and the feeling of interaction with it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159698.html](http://www.nuforc.org/webreports/reports/159/S159698.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Laurie (5 mi. W of; 52 mile marker on Osage) (MO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>3 orange spheres in linear formation over Lake of the OzarksOn a boat, heading downstream on Osage, passing 52 mile marker, and heading south, we observed 3 spheres south heading north.  Spheres were in diagonal linear formation and held the formation as they approached. As they reached approximately 75 degrees above us, the spheres broke formation and lights faded out as they separated and moved away.  Top sphere broke to the east, trailing two broke to the west and faded as they continued turn toward south. I did not observe the eastbound sphere after the break.  Spheres were orange in color with no other lights visible.  No sounds were heard.  The sky was clear, stars were visible, and the moon had not yet risen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77066.html](http://www.nuforc.org/webreports/reports/077/S77066.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [757](http://www.nuforc.org/webreports/reports/164/S164207.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164230.html)
-- [755](http://www.nuforc.org/webreports/reports/164/S164293.html)
-- [754](http://www.nuforc.org/webreports/reports/164/S164208.html)
-- [753](http://www.nuforc.org/webreports/reports/164/S164209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
