@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:07:10 on 1 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:05:00 on 1 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Newbrook (Canada) (AB) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Bright circular object in August evening sky in Alberta 1992.Mid August of 1992, I was visiting my uncle who lives on a farm about 8 miles north of a town called Newbrook, Alberta.  One evening we were in his van in a field waiting to see any wildlife come out of the trees.  The van was facing east.  Sometime after 20:00 we noticed an object in the sky to the very far east.  It was a small, circular in nature, shining very brightly, and did not move.  It was a reasonably clear evening and we kept an eye on it for at least 30 minutes.  The entire time it did not move.As the sun started setting, the object became less bright.  I ran back to the house to get my aunt to show her while my uncle stayed behind to keep an eye on it.  I showed it to my aunt.  My uncle got back to the yard and we all observed it slowly go out of sight.  The duration of this time would have been approximately 60 minutes.Later that night on the CITV Edmonton late night news cast, they reported a "UFO" close to the Cold Lake area.  They claimed it to be a weather balloon.  Cold Lake is about 125 miles from our location and does have a Canadian Air Forces base close by (CFB Cold Lake).The reason I am submitting this is because I have always wondered about that evening.  I would really like to and appreciate knowing if you folks believe this was a simple weather balloon or was this a UFO?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138899.html](http://www.nuforc.org/webreports/reports/138/S138899.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Damariscotta (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Two moving lights moving in tandem in the sky pause for a moment then fade from sight after being green beamed.Standing a dock on the western side of Pemiquid Pond two lights seen traveling very high up in tandem eastward their motion slowed and hung stationary for a moment, using a green laser I indicated the lights to the group, using the beam to circle the two stationary lights, one seemed a faint red or pink, the other a larger brighter white, the smaller red light was trailing the larger bright white light and after I had circled them with the beam they slowly faded from sight. we all were impressed and awestruck at the mystery of it and the feeling of interaction with it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159698.html](http://www.nuforc.org/webreports/reports/159/S159698.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [757](http://www.nuforc.org/webreports/reports/164/S164207.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164230.html)
-- [755](http://www.nuforc.org/webreports/reports/164/S164293.html)
-- [754](http://www.nuforc.org/webreports/reports/164/S164208.html)
-- [753](http://www.nuforc.org/webreports/reports/164/S164209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
