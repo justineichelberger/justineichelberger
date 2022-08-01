@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:42 on 1 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:43 on 1 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Easton (MD) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>three baketball sized orbs floating 2-3 feet above the ground hovering stationary and silent and glowing red  I was on my way to pick up a friend from work one summer night around 11:00 PM in the summer of 2009.  As i was driving I pass a soybean field that I have passed every day for my entire life.  I was 18 at the time.  I noticed 3 red glowing spheres about the size of soccer balls floating 2 feet above the ground.  They were red/orange in color and were hoving, stationary, and making absolutely no noise.  The orbs seemed to know I was there.  There was one closer to the road and two more in the distance in the field.  I stopped my car and decided to get out and investigate.  I walked over the ditch seperating the field from the car and walked into the crops and stopped about 10 feet away from the closest object.  After concluding that it was nothing like I had seen before I quickly turned and returned to my car. I drove away and picked up my friend to come back to my house.  On the way back she noticed them too.  These orbs were nothing that I could explain or an! yone i knew.  The observers to this event were two girls both of around or 18 years of age about to go away for college.  Both went to a private, Catholic school and were not under the influence of drugs, medicinal drugs, or alcohol.  Neither of us are big "gamers", either.  The area the orbs were seen is a road hardly traveled in a very undeveloped area (except for crops). I feel this is more of an unexplained "being" sighting than an UFO. I cannot remember the entire night or what I did and my memory seems to be missing important details about when I walked into the field.   This could be possibly because I pushed the secret into the back of my mind because no one would believe me except that one friend. I am a smart college student and I have not seen this orbs since this one incident.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88320.html](http://www.nuforc.org/webreports/reports/088/S88320.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1954, an anonymous witness in North Hollywood (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>star like point of light slowly travelling across the sky in 1954As 12 year old in 1954 I was sleeping in the back yard.  While gazing up at the stars I noticed a very small point of steady white light moving upward from just above the horizon.  Its appearance was like a very dim star.  It slowly traveled across the sky and after about 30 minutes it disappeared.  If it had been a few years later I would have assumed it was a satellite.Bright flash in bellingham area.A flash of light lit my whole house.  My dog freaked out.  At the same time a friend who lives 15 miles away witnessed this same light and his dog freaked out, as well.  I was wondering if anyone else noticed this.  I have never seen a UFO and don't nessasarly beleive in them, but I can not think of another explaination.  My girlfriend has witnessed a similar occurence.  Winter lighting???((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))((NUFORC Note:  Witness indicates that the date above is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86828.html](http://www.nuforc.org/webreports/reports/086/S86828.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [757](http://www.nuforc.org/webreports/reports/164/S164207.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164230.html)
-- [755](http://www.nuforc.org/webreports/reports/164/S164293.html)
-- [754](http://www.nuforc.org/webreports/reports/164/S164208.html)
-- [753](http://www.nuforc.org/webreports/reports/164/S164209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
