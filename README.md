@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:42 on 1 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:41 on 1 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1974, an anonymous witness in UK/Scotland () reported seeing craft that fit the description of some 'Circle' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>Silver circular Craft above hay fieldCircular craft seen maybe about the size of a small car near Inverness, Culloden Moor with what appeared to be 3 circles on the surface equally spaced could have been lights cannot remember clearly.  Very silver and shiny metal surface.  I would only have been about 9 years old. I drew a picture and it was given to the police at the time by my parents.  I was passing in a school bus and saw it very low (maybe a few feet about the ground level) and stationary above a field where the hay had been cut.  I cannot remember very clearly as I was so young and wondered if others had seen it.  I remember trying to tell a friend on the bus to look but couldn't attract their attention quickly enough.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26266.html](http://www.nuforc.org/webreports/reports/026/S26266.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Pittsburgh (on I-79) (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I was somewhere north of Pittsburgh, on I-79.  When I looked up and saw a triangular shaped craft FLOATING above and to the right of me.  It was very large and black with colored lights underneath. It took me a minute to realize that it couldn't be possible for this thing to stay up there at such a slow speed. And it was SILENT!   That's when I realized what I must be seeing.((NUFORC Note:  Date is approximate.  We are uncertain as to the time indicated by the witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18194.html](http://www.nuforc.org/webreports/reports/018/S18194.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [757](http://www.nuforc.org/webreports/reports/164/S164207.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164230.html)
-- [755](http://www.nuforc.org/webreports/reports/164/S164293.html)
-- [754](http://www.nuforc.org/webreports/reports/164/S164208.html)
-- [753](http://www.nuforc.org/webreports/reports/164/S164209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
