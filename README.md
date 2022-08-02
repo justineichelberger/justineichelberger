@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:07:15 on 2 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:39 on 2 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Virginia Beach (VA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Large, bright blue & red lights over Virginia Beach.It was so unusual I called my husband outside.  He came out and said...."WHOA".  I said... exactly what the hell is it!?!  It was very strange and almost just sitting there barely moving,  very bright, pretty,  large lights of red and light blue color.  It just hardly moved and we stood and watched it for quite a while, then it started moving again very slowly in another dicection.  We stood and watched it till it completely just disappeared.  Strangest thing I've ever seen in  a night sky.  My husband is retired Navy and is currently with Homeland Security, and is always the logical one.  He had no explanation for this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120843.html](http://www.nuforc.org/webreports/reports/120/S120843.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Akron (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Awoke 5:35 a.m., hearing noise/soft pattern lights outside, thru west-open window, like loud mass of insects- buzzing, and my 9yr. grandson got up from same on 2nd floor and saw unknown object a few seconds (much to describe).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142593.html](http://www.nuforc.org/webreports/reports/142/S142593.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [388](http://www.nuforc.org/webreports/reports/164/S164232.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164348.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164236.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164217.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164218.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
