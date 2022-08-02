@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:27:33 on 2 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:20:59 on 2 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Croydon (PA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Hovering oval/disc shaped object hovering above treeline in Croydon, PAMy husband had just come home from work and was in the back yard with our dog kicking the ball around.  Something in the sky caught his eye and he first thought it was just a plane with the sun reflecting off it since it was a sunny day.  But he realized it seemed REALLY bright so he took another look and realized quickly that the object wasn't moving at all.  He could see some high clouds moving behind it but the object itself was not moving.  We have two very tall trees in the backyard and the object was viewed in the space between.   He couldn't give much of an estimate on the altitude of the object but it appeared to be where a small local aircraft might be seen.He had trouble believing what he was seeing and he kind of closed his eyes and shook his head for a second and when he looked again it was gone. He moved about the yard to look past the two trees but it was nowhere to be found in the sky.He felt silly describing it because it sounded so cliche, but my husband is a huge skeptic so I believed him when he drew it out showing an oval/disc like shape either with windows or some kind of markings on the side. He said it was very bright, brighter than any reflection of sun would have been (on an airplane).When I came home from work he showed me where he had seen it.  I'm a lover of planes and flight patterns so I understand that planes may appear stationary for a few moments if they're flying directly towards or away from you but eventually you will see the movement.  The area of sky where he had seen the object would not have obstructed him from seeing a plane continue it's path if that were the case...there was a ton of sky.  The object simply disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100776.html](http://www.nuforc.org/webreports/reports/100/S100776.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1971, an anonymous witness in Kauai (HI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>fire ball from south to north direction about 10 to 15 miles away withthe craft coming directly at us then taking a right northerly turn away from usall of which happened in the ten second interval of time. object was a light color but the speed of which it moved made it difficult to be sure of the exact color it definetly had a group of lights around the top part of the craft. we were three college students on vacation at the time i havelost contact with the other individuals((name and address deleted))95051-2103 Iheard your web site on art wall last night of further interest my father was at roswell new mexico during the ufo incident</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08855.html](http://www.nuforc.org/webreports/reports/008/S08855.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [388](http://www.nuforc.org/webreports/reports/164/S164232.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164348.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164236.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164217.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164218.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
