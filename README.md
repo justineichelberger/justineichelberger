@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:43 on 1 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:41 on 2 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Tulsa (OK) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Moved at very slow speed but sounded like a very slow jet propulsion.Triangular shaped craft with three main lights and one red flashing light and center the craft hovered for 10 seconds.  Approximately 500 feet off the ground.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112696.html](http://www.nuforc.org/webreports/reports/112/S112696.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Ocean City (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Round object flying from south extremely quickly, but evenly.  Seemed to be hazy and, therefore, was blurred slightly. Just flew approximately 5-10 miles in less than three seconds.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64960.html](http://www.nuforc.org/webreports/reports/064/S64960.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [757](http://www.nuforc.org/webreports/reports/164/S164207.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164230.html)
-- [755](http://www.nuforc.org/webreports/reports/164/S164293.html)
-- [754](http://www.nuforc.org/webreports/reports/164/S164208.html)
-- [753](http://www.nuforc.org/webreports/reports/164/S164209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
