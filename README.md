@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:35 on 2 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:36 on 2 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in New Zealand () reported seeing craft that fit the description of some 'Other' over a period of approximately 26.0 - 26.0 minutes.</sub><blockquote><sub>7 crafts, big lights, loud screaching noise, extremely big, dissapears and re-appearsYou may think i'm crazy. But hell!, if you saw this, you'd think you were dreaming.I have this footage on video camera. 26 minutes and 12 seconds of it. The crafts were in the same position as a flock of birds. They were in a V position. One at the front, then two behind it, then two more, and then another two. Me and two other work mates were sitting outside my house having a cigarette and beer when i heard a strange buzzing noise. It was like a loud hum and sharp radio frequency buzz at the same time. At first we thought it was a car, then the phone, then our pages, then even the fridge or microwave. But we couldn't have heard that noise from inside because we were atleast 30 feet away from the house. A small flash like a comet flew directly over us, it was pretty high in the sky though. Then two more, and two more and then two more. All seven crafts flew over my house. We could clearly make out the shape of them. They looked like air-craft that the Navy uses but literally 50 times bigger. They dissapeared every minute or so and then re-appeared with one large lige on each of them. As soon as i got my video camera from inside and ran outside they had already been there for close to a minute. Each time they flew over us the noise they made got more high-pitched. The light on them was at the very bottom-middle of them like on Independance Day. It's quite hard to explain but if you need to see proof, i can post the film onto my website.((NUFORC Note:  Witness describes self as an "astronomist."  We still have not received a copy of the tape, or still frames taken from it, as of March 2003.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24223.html](http://www.nuforc.org/webreports/reports/024/S24223.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Von Ormy (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Lighted object on south-to-north trajectory, traveling over south central (San Antonio) TexasObject was traveling from south to north.  It did not have any strobing lights or sound, just a solid light.  Faster than ordinary aircraft, but it was not streaking across the sky.  Object maintained a steady pace across the sky.  I reported this to a friend in Boerne (former NASA employee) who went outside and also saw the object.  Her son said that it appeared to be a satellite (this object was traveling much faster than any satellite that I have ever seen) which DO have a south to north trajectory which, I guess, can be verified with some gov't agency.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112130.html](http://www.nuforc.org/webreports/reports/112/S112130.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [388](http://www.nuforc.org/webreports/reports/164/S164232.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164348.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164236.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164217.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164218.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
