@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:20:59 on 2 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:01:48 on 2 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1971, an anonymous witness in Kauai (HI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>fire ball from south to north direction about 10 to 15 miles away withthe craft coming directly at us then taking a right northerly turn away from usall of which happened in the ten second interval of time. object was a light color but the speed of which it moved made it difficult to be sure of the exact color it definetly had a group of lights around the top part of the craft. we were three college students on vacation at the time i havelost contact with the other individuals((name and address deleted))95051-2103 Iheard your web site on art wall last night of further interest my father was at roswell new mexico during the ufo incident</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08855.html](http://www.nuforc.org/webreports/reports/008/S08855.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Eva (TN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>WHITE SPHERE FOLLOWED BY A TEARDROP SHAPE OF RED BORDERED WITH ORANGE SHOOTING DOWN TOWARD EARTH.DRIVING FROM TENNESSEE TO GEORGIA ON I 24  AS WE APPROACHED NATHAN BEDFORD FORREST NATIONAL PARK, WE  SAW A WHITE SPHERE, FOLLOWED BY A TEARDROP SHAPED RED LIGHT WITH ORANGE AROUND THE BORDERS. SHOOTING VERY FAST DOWN TOWARD EARTH.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112206.html](http://www.nuforc.org/webreports/reports/112/S112206.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [388](http://www.nuforc.org/webreports/reports/164/S164232.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164348.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164236.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164217.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164218.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
