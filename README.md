@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:01:48 on 2 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:35 on 2 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Eva (TN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>WHITE SPHERE FOLLOWED BY A TEARDROP SHAPE OF RED BORDERED WITH ORANGE SHOOTING DOWN TOWARD EARTH.DRIVING FROM TENNESSEE TO GEORGIA ON I 24  AS WE APPROACHED NATHAN BEDFORD FORREST NATIONAL PARK, WE  SAW A WHITE SPHERE, FOLLOWED BY A TEARDROP SHAPED RED LIGHT WITH ORANGE AROUND THE BORDERS. SHOOTING VERY FAST DOWN TOWARD EARTH.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112206.html](http://www.nuforc.org/webreports/reports/112/S112206.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Franklin (TN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Multiple craft, flying both n formation & on their own for about 2 hours, with 2 huge triangles & one box shaped craft shining a beam.There were multiple craft seen almost in every direction for 2 hours or more.  It was unbelievable.  There were craft flying in formation, there were craft hovering, there was single UFOs at times that would go from sitting still to shooting off at great speeds.  There was also tons of airplanes in the area that looked like they were flying in search grids it looked like & that went on for about an hour or more and then died down & went back to a normal minimal amount of air traffic.  I was with my brother & his two sons & we all saw most of the activity.  I say most of the activity because my nephews are quite young & would excitedly just look around in all directions & not quite focusing on specific parts of the sky at times, but I know they saw quite a bit of the unusual activity.  I have watched the sky for many years looking for anomalous activity & would be lucky to see one unusual light in the sky for just a few seconds before, but this amount of activity f! or the duration of time tonight was beyond mind blowing.  My brother and I were like two excited kids as all this happened tonight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142528.html](http://www.nuforc.org/webreports/reports/142/S142528.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [388](http://www.nuforc.org/webreports/reports/164/S164232.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164348.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164236.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164217.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164218.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
