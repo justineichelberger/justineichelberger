@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:01:24 on 2 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:38 on 2 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Lacombe (Canada) (AB) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>bright blue flash followed by long blue streakDriving home in a clear night when sudden flash of blue light which was followed by a long line of a blue streak across the sky and stayed there for a couple of seconds</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76946.html](http://www.nuforc.org/webreports/reports/076/S76946.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Von Ormy (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Lighted object on south-to-north trajectory, traveling over south central (San Antonio) TexasObject was traveling from south to north.  It did not have any strobing lights or sound, just a solid light.  Faster than ordinary aircraft, but it was not streaking across the sky.  Object maintained a steady pace across the sky.  I reported this to a friend in Boerne (former NASA employee) who went outside and also saw the object.  Her son said that it appeared to be a satellite (this object was traveling much faster than any satellite that I have ever seen) which DO have a south to north trajectory which, I guess, can be verified with some gov't agency.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112130.html](http://www.nuforc.org/webreports/reports/112/S112130.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [388](http://www.nuforc.org/webreports/reports/164/S164232.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164348.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164236.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164217.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164218.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
