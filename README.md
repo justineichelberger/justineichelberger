@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:43 on 2 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:52 on 2 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Sausalito (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>approx.6 objects flying in formation. manevering in relationship to eachother breaking formation acelarateing then rejoining formationi live aboard a boat in richerson bay. free from any city lights.i first saw the objects as agreenish glow moveing from west north west towards east i quickly aquired my binoculars and observed that there where points of light flying in formation the lights gave off streaming  energy aft of the lights.at one point when the objects were at my 12 oclock position one object broke formation acelarated ahead then rejoined formation. i am an experenced sailor. and was raised in a flying famaly father pilot mother pilot brother same. there is a signature ot vessels . manuvering in a formation that is absolutley reconizable.i have witnessed rocket re entry be fore . metor , fire ball ect. these objects were on a course maintaining specfic altitude and  speed.ie. flying !</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09526.html](http://www.nuforc.org/webreports/reports/009/S09526.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Lords Valley (PA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 121</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148151.html](http://www.nuforc.org/webreports/reports/148/S148151.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [388](http://www.nuforc.org/webreports/reports/164/S164232.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164348.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164236.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164217.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164218.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
