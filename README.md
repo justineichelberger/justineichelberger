@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:30:46 on 2 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:52:34 on 2 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in West Chester (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>At around 10:30 PM, we saw an aircraft as a pinpoint of solid red light that eventually oscillated to blue and then back to red.  It was mostly a solid red light that did not flash.  It remained stationary in the sky at about a 75 degree angle off the horizon then it would rush back and forth from left to right then up and down a short distance then settle back into a stationary position.  This pattern of movement, then the cessation of movement, lasted about twenty minutes.  It came closer to us before it slowly dropped straight down behind the line of trees ahead of our location.  I saw the solid red light through the trees as it seemed to continue toward the ground.This occurred along side I-75 to the north and slightly east of the highway. We were on the patio of our house when we noticed this strange light and it’s odd behavior. three people watched this craft.  We could not hear anything although we live next to the highway and that could prevent any sound from reaching us.At any time there are many airplanes visible in the sky.  This was not a conventional airplane. Wright Pat AFB is about 50 miles north of us and we do see and hear military craft overhead occasionally.The craft likely had at least two separate lights.  When the blue light came on the red light would go off.The blue light would remain solid for a while then switch to the red light.  At a couple of points, the lights would flash back and forth more rapidly, then remain solid again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142540.html](http://www.nuforc.org/webreports/reports/142/S142540.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Gulf Shores (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Reddish-orange orbs - believe they were Chinese lanterns launched from the beachWe saw a reddish-orange orb moving slowly SW to NE from the beach in Gulf Shores followed about two minutes by a second object.  We believe them to be Chinese lanterns with candles launched from the beach.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100720.html](http://www.nuforc.org/webreports/reports/100/S100720.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [388](http://www.nuforc.org/webreports/reports/164/S164232.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164348.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164236.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164217.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164218.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
