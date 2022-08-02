@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:12:55 on 2 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:01:34 on 2 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Perth (Western Australia) () reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>blue light from se  to nw at high speed</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04334.html](http://www.nuforc.org/webreports/reports/004/S04334.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Newport News (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Saw several red lights (appeared to be airplane lights), one white, moving silently and slowly in the dark night sky all grouped togethMe and my daughter left Patrick Henry Mall.  She saw a light in the night sky.  The light appeared to be a slow moving plane.  I looked at it upon her inquiry.  We both then noticed several red/orange lights.  They all appeared to be traveling same direction yet not following one another.  There was also one larger white light among the group.  We could not hear any noise or photograph with with phone (resolution was to low). we observed the lights moving in the night sky for roughly 3 minutes.  They slowly and silently moved across the dark night sky (sky was darker due to distant cloud cover).  The lights slowly faded as they passed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100788.html](http://www.nuforc.org/webreports/reports/100/S100788.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [388](http://www.nuforc.org/webreports/reports/164/S164232.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164348.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164236.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164217.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164218.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
