@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:52:34 on 2 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:44:25 on 2 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Gulf Shores (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Reddish-orange orbs - believe they were Chinese lanterns launched from the beachWe saw a reddish-orange orb moving slowly SW to NE from the beach in Gulf Shores followed about two minutes by a second object.  We believe them to be Chinese lanterns with candles launched from the beach.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100720.html](http://www.nuforc.org/webreports/reports/100/S100720.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1965, an anonymous witness in Pittsburgh (PA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Transluscent Orb (Orange/Yellow/White with a clear light in center) streaked above my house from West to EastI was entering the driveway of my home (my house sits up on a slight hill) - pushed the garage door opener - the door went up about 3 feet and the power went off.  Approximately 2 seconds later I witnessed an Orb / Egg shaped transluscent object (orange on the outer edges, yellow inside the orange, a whiteish center with a clear light in the middle). The object streaked across the sky (approximately 15-20 feet above my home) from West to East.  The object was approximately 10 feet in diameter.  It left a redish streak that faded away rapidly.((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30477.html](http://www.nuforc.org/webreports/reports/030/S30477.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [388](http://www.nuforc.org/webreports/reports/164/S164232.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164348.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164236.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164217.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164218.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
