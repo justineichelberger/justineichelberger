@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:42 on 3 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:03:55 on 3 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Lansing (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Seen with the naked eye this object looks like a star.  We see this "star" almost every night about the same time but it leaves at different times.  It will stay from 45 minutes to two and a half hours.  It always comes from the west and it returns to the west.  My friend says she has been watching this "star" for seven years now.  When seen through a telescope, this object has several colors, blue, green, yellow and the center is red.((NUFORC Note:  We suspect a twinkling star.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24218.html](http://www.nuforc.org/webreports/reports/024/S24218.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Bennington (VT) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>bright shooting light, slowly fades away.My boyfriend and I were outside sitting when we started staring at the sky. We were looking at the sky and just talking. We both looked up and we saw a bright orange/tan light, and at first we thought it was a plane. All of a sudden, the light zoomed ahead, and slowly dimmed. We looked for it with binoculars, but could not find anything.A short while after, it came back, getting closer to us, but not as bright. It then moved again and just slowly dimmed.We couldn't really determine a shape of this one object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58532.html](http://www.nuforc.org/webreports/reports/058/S58532.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [408](http://www.nuforc.org/webreports/reports/164/S164235.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164226.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164242.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164276.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164507.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
