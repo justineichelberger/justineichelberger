@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:40 on 3 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:34 on 3 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Franklin (MA) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bat-shaped glider over Franklin, MA.Odd black bat- or bird-shaped object a couple of hundred feet up, drifted lazily northwest until it disappeared behind the tree canopy horizon.Object never flapped, so it seemed unlikely to have been a bird.  It appeared to have something rope-like dangling from it, so we think it may have been a kite.  I looked at it through a 9x scope, but couldn't gather any additional details.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112208.html](http://www.nuforc.org/webreports/reports/112/S112208.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Stafford (VA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Fast moving objects over Stafford, Virginia 4PM 08/03/2020 during a storm cloud videoMy daughter and I were videoing crazy clouds in a storm that was rolling in and caught something we cannot identify.  I have the full video and possibly other videos from my cell phone, if needed. this video is me recording from my daughter's phone.  It's the only way we knew how to zoom in and show how fast it really was. It looked like possibly 3-4 different objects.  One flew behind the cloud and the others in front.  Please let us know what this could be.  This form wouldn't let me upload the videos.  Occured about 4PM on 8/3/2020.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158193.html](http://www.nuforc.org/webreports/reports/158/S158193.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [408](http://www.nuforc.org/webreports/reports/164/S164235.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164226.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164242.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164276.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164507.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
