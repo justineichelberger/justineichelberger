@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:38 on 3 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:31 on 3 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Crystal Lake (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Five bright orange lights appeared on a staggered formation.  The flew approximately 2 minutes this way.  We noticed that two changed direction and vanished.  Shortly after that, the remaining lights separated in the sky to blend in with natural stars.  They were totally silent.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142547.html](http://www.nuforc.org/webreports/reports/142/S142547.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in West Chester (OH) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>On August 3, 2019 at 9:17 PM I witnessed UFOs while I was driving northbound on interstate 75 near West Chester, OH.  There were four flying objects that were lit up flying side by side.  About every 10 seconds the lights would simultaneously go out on all four vessels. After a couple minutes, I glanced in my driver's side mirror and all four blew up like colorful fireworks and disappeared.  Thank God for this beautiful sight!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148112.html](http://www.nuforc.org/webreports/reports/148/S148112.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [408](http://www.nuforc.org/webreports/reports/164/S164235.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164226.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164242.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164276.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164507.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
