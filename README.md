@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:40 on 3 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:59 on 3 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Castle Rock (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Six objects in the sky in Castle Rock, CO.I was hitting golf balls at the driving range at Red Hawk Ridge, a municipal golf course in Castle Rock, CO.  The driving range there is at the base of a butte.  The golfers face south to drive balls, looking directly at the butte.  The elevation provides for nice views of the town, surrounding landscapes and the Rocky Mountain peaks to the west.The afternoon sky was clear above with some clouds gathering in the west over the mountains.  I drove a ball (using a 7-iron) and as it climbed at first it seemed to stop and hover, but I immediately realized I lost track of the ball and my eye picked up another object in the sky.  It looked small, round and white like a golf ball, but much higher in the sky.  I thought perhaps it was a plane, so I stopped to watch it for a minute.  After a minute or so, I realized it couldn’t be a plane because it was not moving forward, it was just hovering.It’s not unusual for hawks to be flying around there, but this was much too high and looked rather inanimate.  My gaze wandered to the right (west) where I spotted 3 additional objects just like the original one.  There was another “tandem” object – the top part of that object looked like the other 4 and the bottom one looked like a larger version of it.  They were connected by a vertical line.  To draw it, it would be a small circle directly over a larger one, connected by a line.  There was one more object that looked a little more oval and it was red.  The four small white objects and the red one surrounded the tandem object.I looked away for minute and when I looked back they were still there.  They seemed to hover around for 4-5 minutes, then drift west a little and I lost track of them.Interesting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112175.html](http://www.nuforc.org/webreports/reports/112/S112175.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Weymouth (MA) reported seeing craft that fit the description of some 'Disk' over a period of approximately All day - All day minutes.</sub><blockquote><sub>Black Objects Were Seen in the Sky Before the StormThe morning of August 3rd everyone knew of an impending storm in Massachusetts.  That morning on my way to work I traveled to a sspot where I like to look at the water.  When I got there I saw a huge, black looking object way out in the distance on the horizon . I took a picture. When I got home that evening from work, the power was out. I called the power company and to my surprise heard a long, growling noise. I hung up and tried again a few times. Each time that was the only sound that was heard. No person available to speak to. Now a few days later I sit down to relax and look back at my pictures. After looking at that one again more closely, I noticed about 8 flying objects. They look like black disks and dots flying around in the sky, some close to each other, some far apart. All of the instances that happened within the 24 hours around the storm are just all too coincidental and now seeing this picture with the black objects in it... It's just really har! d to explain away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158411.html](http://www.nuforc.org/webreports/reports/158/S158411.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [408](http://www.nuforc.org/webreports/reports/164/S164235.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164226.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164242.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164276.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164507.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
