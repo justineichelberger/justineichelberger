@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:54 on 3 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:46 on 3 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Pittsburgh (PA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>The object was a large dark square, or rectangle, that had a smaller object slightly above and ahead that was reflective silver when sun hit it.  The object drifted high above the Allegheny River near Oakmont Pa.  And was witnessed by two people, while driving on Pa. Turnpike .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129029.html](http://www.nuforc.org/webreports/reports/129/S129029.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Tampa (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Street lights went black and a strange blueish-white light came down from the skyMyself, and my children were heading North on the Veteran’s Expressway in Tampa, approximately 3 miles south of the SR 54 exit.   At approximately, 10pm we were driving in the left hand land and all of a sudden all of the street lights on the Expressway went off and a blue beam of light went across the highway.   However, the light wasn’t like normal flood light or spot light you would see.  The light actually stopped in mid-air, it didn’t travel like "normal" light should.  It was the craziest thing I had ever seen and it wasn’t a normal color either--it was a strange blueish-white light.  My boys said it before I could even muster the words out of my mouth, "Is that a UFO?" he exclaimed from the rear seat.  I was in shock, I didn’t even know what to say.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64998.html](http://www.nuforc.org/webreports/reports/064/S64998.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [408](http://www.nuforc.org/webreports/reports/164/S164235.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164226.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164242.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164276.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164507.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
