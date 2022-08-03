@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:29:21 on 3 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:49:26 on 3 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Wilmington (NC) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Firework sparks in daytime; highly reflective glitter; bird flock formation; closely overhead.Dear NUFORC,  First and foremost, I would like to say "thank you" for the work that you do.It was a lovely, clear Saturday and I was home after directing morning music rehearsals at a local church.  I was elated because the early evening was beatific in its summer breeze.Coming home to perfect summer weather was nice, as our church building has a cold-and-spooky vibe that leaves me drained.I was standing up on my porch, just enjoying the blue sky while my friend sat down to check her texts, when I suddenly saw something 25-50 ft overhead - something that I still cannot explain, as I have found little to no evidence.It was a highly reflective, metallic, glittery, shapeless poof of sparks that resembled blinking stars or fireworks.  The blob was about 5 ft in length, had many sparks, appeared out of thin air and disappeared the same way.Toward the end of its appearance, the sparks seemed to coordinate with one another to  make a formation that reminded me of a flock of birds flying very high overhead, at sunset.  I can definitely confirm that this was not that.  This was especially strange to me, and reminded me that I have a friend who has been researching UFO's for many years, and that she has found that they like to hide by imitating their environment.Back to the event, I was slack-jawed by what I was seeing, yet immediately alarmed my friend who was not able to look up from her screen to see the 2-5 second event.  I would like to add that we were soberly sharing food, and that I don't suffer from any type of hallucinations.  Finally, I was not scared at all by the proximity of this sighting...just blown away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148102.html](http://www.nuforc.org/webreports/reports/148/S148102.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Kirkland (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright light traveling north to southwest and another bright light crossed it's path going from south at almost noon.The Blue Angels were practicing over Lake Washington, and I heard their roar, so I stepped out onto my south-facing deck to see if I could catch a glimpse of them, and I looked up into the sunny sky and saw a bright light moving slowly from the north to the south.  I got my binoculars, and saw a silver disk-shaped object with a very bright light on one side.  As I followed this object, another very bright light crossed it's path going from south to north.  These were definitely not jets.  An airliner did pass overhead going from northwest to southeast during that time.  I heard a high-pitched whirring sound during this sighting.  I've never witnessed any other event like it.((NUFORC Note:  Witness identifies herself as a business owner.  In addition, she states that she has never witnessed an unexplainable event before this alleged sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13655.html](http://www.nuforc.org/webreports/reports/013/S13655.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [408](http://www.nuforc.org/webreports/reports/164/S164235.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164226.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164242.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164276.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164507.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
