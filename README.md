@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:24:10 on 3 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:20:08 on 3 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Eaton Rapids (MI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Shimmering craft over river.I was catfishing in the Grand River in Eaton Rapids, MI.  The time was somewhere between 3-4 AM.  When I tilted my head back to finish the last of my Mt. Dew I noticed a perfectly round, shimmering object which appeared to be at least a thousand feet high.  I continued to watch the object for several minutes as it crossed the sky in a south west direction.  It was not going in a perfectly straight line like an aircraft would.  I would describe it as a very elongated zig zag pattern.There was no sound or flashing lights, just a solid round lit up circle.  It didn’t appear to have lights on it, it seemed as the entire object was a light.  It was not overly bright and if it were light outside it may not have even been noticeable.  If you were to hold a pencil at arm’s length it would roughly be the same diameter as the object appeared in the sky.After 3-4 minutes the object seemed to disappear but as I looked closer it had just become very thin.  It was then that I realized it must have turned on its side.A second later it appeared to begin climbing and was out of sight in the blink of an eye.It was a very clear night with a large moon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91471.html](http://www.nuforc.org/webreports/reports/091/S91471.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Blue metallic sphere in early morning skyAt 5:50AM, I was walking my dog, as always, along my street, strolling casually and checking out the dawn sky.  As I looked towards the WSW, I saw an object...blue with a metallic quality, spherical, at approximately 60 degrees above the horizon.  No lights...no glow...but clearly there. It was about the size of a fairly large star.  As we walked along, I kept an eye on it, and it remained stationary...same height and same location in the sky. This lasted for almost 20 minutes.  As we were heading back to the house from the end of our walk, I noticed that the object began to glow with very clear blue color, a couple of shades darker than robin's egg blue, the metallic quality no longer visible.  As it got brighter, it also began to slowly pulsate.  The pulsation grew faster, and the glow grew brighter. Suddenly, as it was about as bright as it seemed it could get, and pulsing as fast as a strobe, it took off in a N direction...in motion and out of sight in about 2! seconds.I called in this report to NUFORC as soon as I got in the house.I would certainly like to know if anyone else saw this incredible object that morning, or at any time before or since.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71652.html](http://www.nuforc.org/webreports/reports/071/S71652.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [408](http://www.nuforc.org/webreports/reports/164/S164235.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164226.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164242.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164276.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164507.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
