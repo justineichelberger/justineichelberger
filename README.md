@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:59 on 3 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:42 on 3 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Weymouth (MA) reported seeing craft that fit the description of some 'Disk' over a period of approximately All day - All day minutes.</sub><blockquote><sub>Black Objects Were Seen in the Sky Before the StormThe morning of August 3rd everyone knew of an impending storm in Massachusetts.  That morning on my way to work I traveled to a sspot where I like to look at the water.  When I got there I saw a huge, black looking object way out in the distance on the horizon . I took a picture. When I got home that evening from work, the power was out. I called the power company and to my surprise heard a long, growling noise. I hung up and tried again a few times. Each time that was the only sound that was heard. No person available to speak to. Now a few days later I sit down to relax and look back at my pictures. After looking at that one again more closely, I noticed about 8 flying objects. They look like black disks and dots flying around in the sky, some close to each other, some far apart. All of the instances that happened within the 24 hours around the storm are just all too coincidental and now seeing this picture with the black objects in it... It's just really har! d to explain away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158411.html](http://www.nuforc.org/webreports/reports/158/S158411.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Fridley (MN) reported seeing craft that fit the description of some 'Other' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Star like object in the night sky looked like it was trying to avoid a falling star?I was out on my balcony having a cigarette and looked up into the sky just to get a feel for the weather and whether or not it was going to rain. I looked over to the N/NW and saw a bright starlike object. I saw a falling star off to the right of the object and noticed that the object had made a swooping motion as if to avoid the falling star. It then continued to keep it's position in the sky where I had first witnessed it, yet constantly in motion. I began to think that I was perhaps imagining things so I went to get my wife who was already in bed asleep. She came out on the balcony and watched this phenomenon along with me. It continued to make swooping and other types of motion that I can say without a doubt was not the kind of motion you would expect at that altitude to be an aircraft of any kind. As we watched the object I and my wife witnessed multiple falling stars as well as motions from the object that simply cannot be explained as motion from either aircraft or satellite.((NUFORC Note:  We suspect that a celestial body would be the first possibility that would have to be ruled out.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30509.html](http://www.nuforc.org/webreports/reports/030/S30509.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [408](http://www.nuforc.org/webreports/reports/164/S164235.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164226.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164242.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164276.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164507.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
