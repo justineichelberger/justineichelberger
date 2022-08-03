@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:39:32 on 3 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:24:10 on 3 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Riverside (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright, fast moving light passes overheadAbout 2030 hours 08/03/2007 I was sitting on my back porch facing east, looking at the night sky. The sky was cloudless and unusually clear for my urban location. I had just watched several satellites pass overhead, when I noticed a light low in the southern sky. At first I thought it was another satellite however it seemed a lot brighter and faster than the ones I had just been watching. The object was going from South to North and appeared to be at great altitude. Numerous general aviation and commercial aircraft were visible at the same time. The object appeared to be self luminous instead of reflecting sunlight, as it had an unusual blue/purple tinge similar to an electric welding torch. The object passed almost directly overhead of my location, continuing North until I lost sight of it behind the roofline of my house. The light maintained a straight course the entire time I could see it, traversing the sky from where I first saw it to where I lost sight of it in approximately one minute or so. Shortly before I lost sight of the object it blinked out and lit up again in a regular pattern about three times, going dark for several seconds. I checked the Heavens Above site and could find no info about any satellites passing overhead at that time. I also watched the next few nights to see if the object would reappear and I did see the satellites I had seen that night, but no sign of the bright, fast moving object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58384.html](http://www.nuforc.org/webreports/reports/058/S58384.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Eaton Rapids (MI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Shimmering craft over river.I was catfishing in the Grand River in Eaton Rapids, MI.  The time was somewhere between 3-4 AM.  When I tilted my head back to finish the last of my Mt. Dew I noticed a perfectly round, shimmering object which appeared to be at least a thousand feet high.  I continued to watch the object for several minutes as it crossed the sky in a south west direction.  It was not going in a perfectly straight line like an aircraft would.  I would describe it as a very elongated zig zag pattern.There was no sound or flashing lights, just a solid round lit up circle.  It didn’t appear to have lights on it, it seemed as the entire object was a light.  It was not overly bright and if it were light outside it may not have even been noticeable.  If you were to hold a pencil at arm’s length it would roughly be the same diameter as the object appeared in the sky.After 3-4 minutes the object seemed to disappear but as I looked closer it had just become very thin.  It was then that I realized it must have turned on its side.A second later it appeared to begin climbing and was out of sight in the blink of an eye.It was a very clear night with a large moon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91471.html](http://www.nuforc.org/webreports/reports/091/S91471.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [408](http://www.nuforc.org/webreports/reports/164/S164235.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164226.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164242.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164276.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164507.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
