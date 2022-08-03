@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:13:55 on 3 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:01:15 on 3 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Sterling Heights (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>large star-like object becomes red and vanishesA few people were outside my house when we noticed a bright light that looked like a star. It traveled across the sky under the clouds, then it slowed down and turned red, it became smaller and smaller until it vanished. (It made no sound)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64986.html](http://www.nuforc.org/webreports/reports/064/S64986.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Sunset Beach (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>BRIGHT, ORANGE LIGHT CAME IN DIRECTLY OFF THE OCEAN FLYING NORTH WEST.  THE CRAFT WAS ABSOLUTELY SILENT AND FLEW BELOW THE LOW STORM CLOUDS.  I ESTIMATE A 1000 TO 2000 FOOT ALTITUDE.  I WAS SCEPTICLE ABOUT ALL THE REPORTS IN THE MYRTLE BEACH AREA, BUT I HAVE NOW SEEN SOMETHING WITH MY OWN EYE'S. I WOULD HAVE HEARD ENGINE NOISE AT THAT ALTITUDE IF IT WAS CONVENTIONAL AIRCRAFT.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112212.html](http://www.nuforc.org/webreports/reports/112/S112212.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [408](http://www.nuforc.org/webreports/reports/164/S164235.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164226.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164242.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164276.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164507.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
