@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:48 on 3 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:36 on 3 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Mt. Baker National Forest (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Saw lights like plane, but planes to not zig - zag, or make right angle turns.I was camping with my family, and friends up by Red Bridge in Mt. Baker, and a couple of times my husband, and myself saw a plane like looking lights, but it was zig - zaging around, and it moved to fast to be a plane. That was around 21, or 22:00 hours, it was hard to tell the direction it was going north the zig - zaging made it hard to tell, but later on that night about 24:00 hours I saw these lights going east then it made right angle turn north, then once again made same turn, and headed east into some clouds. Never saw it again after that. It could not have been a plane because planes don't turn sharply like that, and planes don't leave trails of gas,or whatever. You might want to picture a Z in your mind except the middle line of the Z strait instead of slanted. Oh, and it looked like it flew higher than a plane could.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19014.html](http://www.nuforc.org/webreports/reports/019/S19014.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Hazel park (MI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A flying red light I the sky and it had other rights flashing also like a disco ball.  It didn't make any noise and was moving fast across the sky.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142546.html](http://www.nuforc.org/webreports/reports/142/S142546.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [408](http://www.nuforc.org/webreports/reports/164/S164235.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164226.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164242.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164276.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164507.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
