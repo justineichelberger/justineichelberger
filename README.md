@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:01:00 on 4 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:33 on 4 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Notched disc with slow wobbly movement at O'hare Terminal 3 observed at close range in daylight.While waiting in the lobby at AA Gate K-7 at Chicago O'hare my wife noticed a disc-shaped object hovering at an altitude of several hundred feet outside the terminal's large glass windows to the WSW at 7:01 pm.  She called my attention to it and several other people rushed to observe the estimated 30-40 foot in diameter object as it wobbled but deliberately moved to our left (NNE) between Concourse K and L toward the main body of Terminal 3.  It took about 60 seconds to enter and exit our field of view.Its destinctive peripherial protrusions, like notches on a gear, were its primary identifying feature to me.  It was dull gray (my wife noticed orange/rust) with an undulating movement.  It traveled low under the cloud ceiling.We laughed and moved closer to the windows and I told my wife to try for a phone camera shot but she couldn't manage it in time.  Another lady asked "what in the world is such a big flying hubcap doing out there".  Others looked and turned their heads in disbelief.Prior to the sighting there was very little aircraft activity in this wing of O'hare.  There was a burst of aircraft activity after the object departed and a large storm moved in at 7:30 pm.  An aircraft appeared to be disabled during the 7:00-8:00 pm period.  Tornado warnings and high winds followed and passengers took shelter in the tunnels of O'hare.  We finally departed on AA 1058 to Orlando from Gate K-15 at about midnight.I am a 61 year old geologist with 30 years of international experience, an amateur astronomer, and IUFOC attendee for many years.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65078.html](http://www.nuforc.org/webreports/reports/065/S65078.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Aurora (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>small faint star like object crosses the sky from the NW to SW then as the object got farther to the SE it faded and vanished..I and my son were standing on my back porch facing the east and were looking almost straight up in the sky. Then at about 9:15 pm aprox until 9:37 we saw a small light like a distant star slowly cross the sky from the NW to SE it slowly became to faint to see as it got farther to the SE.Then a few mins latter another object the same as the one before passed overhead. Then again and the last time another passed over head but this time comming from the SE to NW and a little lower towards the horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38477.html](http://www.nuforc.org/webreports/reports/038/S38477.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/164/S164376.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164514.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164351.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164245.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
