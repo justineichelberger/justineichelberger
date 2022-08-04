@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:40 on 4 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:46 on 4 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Samson (AL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Rapidly moving solid white light at high altitude.  Not a normal aircraft light array.I observed a solid light on the horizon moving rapidly from the South headed Due North.  It was at high altitude with no flashing white or red lights.  I am very familiar with helicopters and plans as we live in the middle of 2 bases one is a helicopter base the other is an air force base where they fly jets, ospreys, c-130s and other aircraft.  This object displayed none of the normal light arrays of standard aircraft.  The object moved in a relatively straight trajectory from south to north.  The sighting was approx. 3 min.  I attempted to video the object but it was too high and too dark to show up on my camera.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148056.html](http://www.nuforc.org/webreports/reports/148/S148056.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Shade Gap (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Circular object red blue and white lights spinning below power lines and below trees.Lights behind trees near power line, there was a luminous glow at the power line, there were red,blue and white lights, that were spinning and reflecting off of the mountain side at the power line, it stayed in the location for about 15 minutes, looking threw the trees from about 100 yards you could see it was a circular type of craft, but most of the view was obstructed from trees. When exploring the power line the next day the area where we saw the object, all of the grass had been singed, and black in color. The area that was singed was aproximently 30 yards/aproximently 13 days after the sighting there where strange looking hellicopters with different types of rods sticking out flying over the area about 10 feet above the treetops, I have photos of the singed grass and strange looking black and red hellicopters, that were unmarked. Also the light bulbs explode in our basement.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38918.html](http://www.nuforc.org/webreports/reports/038/S38918.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/164/S164376.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164514.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164351.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164245.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
