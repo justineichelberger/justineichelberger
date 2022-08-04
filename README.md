@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:44 on 4 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:50 on 4 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Louisville (KY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>My husband and I were outside and could see planes coming in to the airport for the UPS sort.  The UPS planes were traveling East to West, then I saw an object traveling South to North, moving across the sky at about 100 ft above the ground and it was moving about the speed of a helicopter. There were red moving lights on the back in a circle and it looked like a ferris wheel.  It moved across the sky and disappeared.  This happens off Hurstbourne and Taylorsville Rd Friday 8-4-17 @ 10:00 pm.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135585.html](http://www.nuforc.org/webreports/reports/135/S135585.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Group of 3 lights sighted heading south towards Portland.Observed 3 lights in line, traveling South across the night sky, one after another.  Could not make out a craft but could have been a cigar shape the way the lights were illuminating. The lights were the same brightness as the stars I had been looking at, and they were traveling faster than if you would see a satellite cross the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120898.html](http://www.nuforc.org/webreports/reports/120/S120898.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/164/S164376.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164514.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164351.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164245.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
