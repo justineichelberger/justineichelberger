@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:46 on 4 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:36 on 4 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Shade Gap (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Circular object red blue and white lights spinning below power lines and below trees.Lights behind trees near power line, there was a luminous glow at the power line, there were red,blue and white lights, that were spinning and reflecting off of the mountain side at the power line, it stayed in the location for about 15 minutes, looking threw the trees from about 100 yards you could see it was a circular type of craft, but most of the view was obstructed from trees. When exploring the power line the next day the area where we saw the object, all of the grass had been singed, and black in color. The area that was singed was aproximently 30 yards/aproximently 13 days after the sighting there where strange looking hellicopters with different types of rods sticking out flying over the area about 10 feet above the treetops, I have photos of the singed grass and strange looking black and red hellicopters, that were unmarked. Also the light bulbs explode in our basement.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38918.html](http://www.nuforc.org/webreports/reports/038/S38918.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Riebeek Kasteel (South Africa) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Large red oval object and at the bottom sparkling yellow lightsYesterday evening Saturday 4 August at 8.30 pm I went outside for my traditionally evening stargazing and suddenly, could not believe my eyes, I saw a large red oval object with at bottom yellow sparkling bright stars flying at high speed through the sky.  It came from the west flying at high speed and coming a little down, like their knowing what their were doing.  Realising that they must have know that I was stargazing because they stopped and I had the feeling they watched me.The moment I saw the object, it was a large oval red object and at the bottom sparkling yellow lights (bigger then the stars).  Above the lights was an orange mist.  The object flew with high speed and I think it must have noticed me and it slowed down and turned around a little bit and it took a position and stood then still, watching me....Looking at an object in the sky, I called my daughter to come outside and that moment the object was looking for a place to stop.  It made a circle movement and it seems like they knew we were watching because it came to hold and stood still.  My daughter (6) mentioned that we are all children of God.I started to get frightened and walked inside the house but I hesitated I went outside again and the object was gone, nowhere to seen, an amazing experience but my heart is still beating like a drum!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91458.html](http://www.nuforc.org/webreports/reports/091/S91458.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/164/S164376.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164514.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164351.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164245.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
