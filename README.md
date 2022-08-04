@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:41:43 on 4 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:28:09 on 4 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Centerville (IA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Seen several what looked to be planes but had no wings. Looked to be 'fake planes&quot; they went in straight lines and looked like plaSeen several what looked to be planes but had no wings.  Looked to be 'fake planes" they went in straight lines and looked like planes with no wings and flashing dull white lights that resembled planes flashing but where clearly not planes.  A few just appeared from no where and gone just as quick.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148048.html](http://www.nuforc.org/webreports/reports/148/S148048.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Vero Beach (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>2 lights seen over the ocean near Vero BeachWhile at ocean, saw a star suddenly move fast into a cloud, it did not blink.  Then a few minutes later we saw another star move from right to left and go fast into a different cloud.  The clouds left, then what appeared to be 2 meteors moving from right to left glowed brilliant white and became very large before disappearing.  There were strange pulses of light on the sky, no clouds around and different than heat lightening.  Then at 10:30 2 large lights turned on in front of us over the ocean under the triangle of stars where some of the other things were seen.  The lights blinked slowly on and off for a couple minutes, we tried to record them but they could not be recorded despite the brightness and size.  I had recorded Mars to the right, east southeast a few minutes prior and the lights were bigger and brighter.  My phone stopped recording, I tried several times to get a video.  After a couple minutes the lights turned on left one first then the right one, on and off for a couple more minutes.  The whole time there was no sound from them and they were stationary, they did not move, they stayed under the triangle of stars the whole time. An airplane came from the north toward the lights and they disappeared.  The lights from the plane were smaller, blinking faster white and red. Suddenly there was another plane heading towards the area.  We stayed another fifteen minutes and then left. I thought the 2 lights were on an enormous craft.  Holding a ruler at arm's length, the lights were 20 inches apart.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142568.html](http://www.nuforc.org/webreports/reports/142/S142568.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/164/S164376.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164514.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164351.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164245.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
