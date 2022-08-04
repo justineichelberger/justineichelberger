@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:45 on 4 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:37 on 4 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Crestwood (KY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Orange/red balls of light near Louisville, Ky (no sound).At 22:00 hrs approximately, on 8/4/11 my mother and I looked into the sky and saw approximately 9 orange/red balls of light.  They started in a Y formation going from south to north-west.  We also saw an airplane flying above, not near or around the objects (seemed to be unrelated).  There was no sound and they were moving faster than a regular aircraft.  One by one they began to disappear.  After they all disappeared through the tree line we could make out other lights, but were unable to tell if they were the same lights or something unrelated they seemed to be both white and the orange/red color.   After waiting around for a few minutes they didn't reappear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82935.html](http://www.nuforc.org/webreports/reports/082/S82935.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Ashtabula (OH) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>two silver cigar shaped objects. Objects apprear to have bright silver lighting running down the middle. Moving slowly,one moving east, another appears and is moving west, they criss-cross.  One moving to the west disappears then reappears.  One moving to the west disappears.  One moving east disappears.  Before they disappear, a jet is seen going east.  No noise.  Two adults are watching this. Ages: 20's and 40's. Women,homemakers.  We are at a elementary school with another adult and 3children. Children ages:12,7&7. They are riding bikes on the other side of the building, they do not see anything. Around 9:30 pm, the other adult and children join us at the front of the school building.  Bright silver object apprears, bright silver lighting, red and yellow lighting toward center. This object is very slowly moving toward us.  We are all on bikes, scared we all start to take off for home, looking up at it, it is following us. Glancing back it disappears, glancing back again it appears and following.  We get home,looking out of house window,we no longer see object((NUFORC Notes:  No other reports received for this incident yet.  The description seems to us somewhat reminiscent of a sighting of a blimp, but we suspect that blimps flying in formation, or in pairs, would be a rather rare event.  We do not know what was seen in this instance.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18834.html](http://www.nuforc.org/webreports/reports/018/S18834.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/164/S164376.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164514.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164351.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164245.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
