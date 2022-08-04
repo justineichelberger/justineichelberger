@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:46 on 4 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:06:22 on 4 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Des Moines (IA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Red light over Des Moines, Iowa vewed from Mitchellville, Iowa.On August 4, 2008 at approximately 9:30pm CST, I noticed a red blur in the sky over Des Moines, Iowa.I was in Mitchellville, Iowa, which is about 10 miles east of Des Moines, looking towards the west when I saw it.The blur lasted for a few seconds then turned into a white light and then the light faded away.I don’t know if it was a UFO, but I don’t know of an aircraft that could produce that type of light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65030.html](http://www.nuforc.org/webreports/reports/065/S65030.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Jamestown (RI) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Two red/orange plasma shapes, soundless, close range for 3 minutes by two witnesses one following the other by about 60 secs then vanishedAbout 9 PM on 8/4/15, two orange/red UFO’s flew right over head on Bull Point.  The first one came from the southwest to the northeast, and disappeared up in the atmosphere over the bay.  The second followed it a moment later, but was much lower, at least when I first saw it.  It pulsed like orange jellyfish and had no sound, but was quite bright, with a slight ocular quality like a cornea in an eye that kept pulsing.  The second one was pretty low as they passed over the hill, maybe helicopter height, floating along slow enough to see some detail in the color shifts.  Not like a mechanical ship, more like an organic life form.  The light itself was the whole entity and it wasn’t geometrically structured, but more fluid in shape.  As they disappeared, they grew smaller and seemed to have a tail, both in the same spot in the sky.  Probably accelerating up very fast.  I definitely had the sense the second one was aware of us yelling at each other to see.  I ducked in to get my camera, but when I got outside, it was trailing off.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120893.html](http://www.nuforc.org/webreports/reports/120/S120893.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/164/S164376.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164514.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164351.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164245.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
