@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:33 on 4 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:41:43 on 4 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Aurora (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>small faint star like object crosses the sky from the NW to SW then as the object got farther to the SE it faded and vanished..I and my son were standing on my back porch facing the east and were looking almost straight up in the sky. Then at about 9:15 pm aprox until 9:37 we saw a small light like a distant star slowly cross the sky from the NW to SE it slowly became to faint to see as it got farther to the SE.Then a few mins latter another object the same as the one before passed overhead. Then again and the last time another passed over head but this time comming from the SE to NW and a little lower towards the horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38477.html](http://www.nuforc.org/webreports/reports/038/S38477.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Centerville (IA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Seen several what looked to be planes but had no wings. Looked to be 'fake planes&quot; they went in straight lines and looked like plaSeen several what looked to be planes but had no wings.  Looked to be 'fake planes" they went in straight lines and looked like planes with no wings and flashing dull white lights that resembled planes flashing but where clearly not planes.  A few just appeared from no where and gone just as quick.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148048.html](http://www.nuforc.org/webreports/reports/148/S148048.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/164/S164376.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164514.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164351.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164245.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
