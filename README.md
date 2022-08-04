@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:41 on 4 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:40 on 4 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Strumica (Macedonia) () reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>At first at around 20:30PM, there was a light object, shining a constant white light, heading from west to east.That object might have been a satellite.A few minutes later, multicolored object, coming from west caught my eye.It had green, red, blue, and yellow lights.I didn't hear any sound, but its patj of flying was nothing like i've seen.It changed its path, back and forth, at one moment heading east it stopped, but then changed its direction again and headed south.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112210.html](http://www.nuforc.org/webreports/reports/112/S112210.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Samson (AL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Rapidly moving solid white light at high altitude.  Not a normal aircraft light array.I observed a solid light on the horizon moving rapidly from the South headed Due North.  It was at high altitude with no flashing white or red lights.  I am very familiar with helicopters and plans as we live in the middle of 2 bases one is a helicopter base the other is an air force base where they fly jets, ospreys, c-130s and other aircraft.  This object displayed none of the normal light arrays of standard aircraft.  The object moved in a relatively straight trajectory from south to north.  The sighting was approx. 3 min.  I attempted to video the object but it was too high and too dark to show up on my camera.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148056.html](http://www.nuforc.org/webreports/reports/148/S148056.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/164/S164376.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164514.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164351.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164245.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
