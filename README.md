@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:12:42 on 4 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:45 on 4 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Littleton (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>a white ball of light moved quickly across the sky.I was laying in bed looking out the window into the sky and a white circle of light quickly zipped past my window tonight.  it moved vertically across the sky and then behind a tree.  It looked light a headlight, it was a little bigger in size and it moved quick.  If anyone else in my area saw this is like to know.  I've never seen anything like it.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91448.html](http://www.nuforc.org/webreports/reports/091/S91448.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Crestwood (KY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Orange/red balls of light near Louisville, Ky (no sound).At 22:00 hrs approximately, on 8/4/11 my mother and I looked into the sky and saw approximately 9 orange/red balls of light.  They started in a Y formation going from south to north-west.  We also saw an airplane flying above, not near or around the objects (seemed to be unrelated).  There was no sound and they were moving faster than a regular aircraft.  One by one they began to disappear.  After they all disappeared through the tree line we could make out other lights, but were unable to tell if they were the same lights or something unrelated they seemed to be both white and the orange/red color.   After waiting around for a few minutes they didn't reappear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82935.html](http://www.nuforc.org/webreports/reports/082/S82935.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/164/S164376.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164514.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164351.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164245.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
