@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:29 on 4 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:49 on 4 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Nashua (NH) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>No lights...just "void" or black and no sound as it went by...couldnt make out if it was a rectangle or triangle.My husband gone to a friend’s house and I was home alone on this warm summer evening.  I had put out a lawn chair out on the back porch of our town house to relax and look at the sky, the highway and mall lights in a distance.  It was a clear nice night; you could see the stars really well.  I guess you could say I was looking out north to north east sky. While looking at the sky…its weird and hard to describe…I knew something “black” was gliding slowly by the sky kind of over the highway heading North Westward (from me it was about 2 to 3 football fields away). The only reason I knew there was something there going by was because it blocked out the stars as it went.  I knew it couldn’t be a cloud…I’m guessing it was a rectangle or a triangle shape but it was hard to tell.  No lights…just “void” or black and no sound.  After thinking about it for a while…it was heading in the direction toward a local airport…as it disappeared out of sight. VERY strange and scared me I went back into the house.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57597.html](http://www.nuforc.org/webreports/reports/057/S57597.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Washington State coastline (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>3 bright red lights flying in triangle formation for 2 minutes outside 767 airplane 30 minutes before landingIn flight from Hawaii to Seattle, approx. 20 minutes from landing, observed bright red light out of airplane window - then 2nd red light appeared then 3rd red light- making a perfect triangle formation.  This flew next to the plane approximately 2 minutes until fading away.((NUFORC Note:  We will ask whether the red lights were to the right, or left, of the 767 aircraft.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30541.html](http://www.nuforc.org/webreports/reports/030/S30541.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/164/S164376.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164514.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164351.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164245.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
