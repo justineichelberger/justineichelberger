@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:28:09 on 4 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:14:18 on 4 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Vero Beach (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>2 lights seen over the ocean near Vero BeachWhile at ocean, saw a star suddenly move fast into a cloud, it did not blink.  Then a few minutes later we saw another star move from right to left and go fast into a different cloud.  The clouds left, then what appeared to be 2 meteors moving from right to left glowed brilliant white and became very large before disappearing.  There were strange pulses of light on the sky, no clouds around and different than heat lightening.  Then at 10:30 2 large lights turned on in front of us over the ocean under the triangle of stars where some of the other things were seen.  The lights blinked slowly on and off for a couple minutes, we tried to record them but they could not be recorded despite the brightness and size.  I had recorded Mars to the right, east southeast a few minutes prior and the lights were bigger and brighter.  My phone stopped recording, I tried several times to get a video.  After a couple minutes the lights turned on left one first then the right one, on and off for a couple more minutes.  The whole time there was no sound from them and they were stationary, they did not move, they stayed under the triangle of stars the whole time. An airplane came from the north toward the lights and they disappeared.  The lights from the plane were smaller, blinking faster white and red. Suddenly there was another plane heading towards the area.  We stayed another fifteen minutes and then left. I thought the 2 lights were on an enormous craft.  Holding a ruler at arm's length, the lights were 20 inches apart.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142568.html](http://www.nuforc.org/webreports/reports/142/S142568.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Shelton (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>My husband and I watched lights in the sky for about 45 minutes.My husband and I were locking things up for the night when I noticed a strange light in the sky. I asked my husband to look at it to see what he thought and he wasn't sure, niether of us could see it very clearly so my huband came in the house and went back out with a pair of binoculars. When he came back and we had looked at it we decided we had to get actual video or photographic evidence. My husband came back into the house and took out the video camera. While I was watching the first one with the video camera my husband was looking around to see if he noticed anything else. He watched another came out over the tops of the trees and curve back in the shape of a U and dissapear back in the trees. We had watched the first one for about 45 minutes, never saw the second one again that night, and got 15-16 minutes of video footage. My husband went out about 3-4 more times that night to see if it was still there and it was other places in the sky but in the same general direction it had been in when we had first seen it. When I looked through the binoculars i saw tree lights on what appeared to be the bottom of it. The lights were arranged in a triangular shape, but I was unable to tell exactly what the shape of the object was. The color of the lights were red, green, and orange. They seemed to be strobing and rotating at the same time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24216.html](http://www.nuforc.org/webreports/reports/024/S24216.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/164/S164376.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164514.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164351.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164245.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
