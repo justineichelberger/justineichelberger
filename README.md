@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:11:46 on 4 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:41 on 4 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Provo (UT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Hovering object during a thunder storm and rain.On the evening of the UFO sighting, my boyfriend and I had just gotten back from picking up a family friend from the airport  (We live an hour and a half away, this UFO was NOT a plane).  Our family friend had told us all the flights were delayed or canceled  because of the thunder storm and severe rain we were having.  While we were standing outside his house in the drive way he saw a really bright light. He said, "Come here and look at this."  I was standing where tree branches were blocking my view so I couldn’t see what he was pointing at. When I stepped closer to where he was standing and looked into the night sky I saw a bright hovering disk (it had a disk like shape but the light surrounding it was rectangle).  It was very bright and looked far away, yet the whole craft was brilliantly lit. It emitted a yellow/golden light in color. We both stood looking at the flying object until it flew straight into the clouds.  During the short amount of time we saw the UFO, it maintained the hovering position, not moving anywhere, for about 5 seconds.  Then went up a few feet in the air (from our perspective) and back down to the original position.   After this the UFO flew straight up into the clouds at a super fast speed.  It looked like it disappeared. There were no more lights emitting from the craft.This is my first encounter with anything to do with UFO’s or aliens. I can’t explain what I saw. I don't know of any kind of aircraft so bright, has the same shape, can maintain a hover thousands of feet in the air, go at a fast speed straight up and all this during a thunder storm.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77000.html](http://www.nuforc.org/webreports/reports/077/S77000.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Strumica (Macedonia) () reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>At first at around 20:30PM, there was a light object, shining a constant white light, heading from west to east.That object might have been a satellite.A few minutes later, multicolored object, coming from west caught my eye.It had green, red, blue, and yellow lights.I didn't hear any sound, but its patj of flying was nothing like i've seen.It changed its path, back and forth, at one moment heading east it stopped, but then changed its direction again and headed south.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112210.html](http://www.nuforc.org/webreports/reports/112/S112210.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/164/S164376.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164514.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164351.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164245.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
