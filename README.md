@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:36 on 4 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:44 on 4 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Riebeek Kasteel (South Africa) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Large red oval object and at the bottom sparkling yellow lightsYesterday evening Saturday 4 August at 8.30 pm I went outside for my traditionally evening stargazing and suddenly, could not believe my eyes, I saw a large red oval object with at bottom yellow sparkling bright stars flying at high speed through the sky.  It came from the west flying at high speed and coming a little down, like their knowing what their were doing.  Realising that they must have know that I was stargazing because they stopped and I had the feeling they watched me.The moment I saw the object, it was a large oval red object and at the bottom sparkling yellow lights (bigger then the stars).  Above the lights was an orange mist.  The object flew with high speed and I think it must have noticed me and it slowed down and turned around a little bit and it took a position and stood then still, watching me....Looking at an object in the sky, I called my daughter to come outside and that moment the object was looking for a place to stop.  It made a circle movement and it seems like they knew we were watching because it came to hold and stood still.  My daughter (6) mentioned that we are all children of God.I started to get frightened and walked inside the house but I hesitated I went outside again and the object was gone, nowhere to seen, an amazing experience but my heart is still beating like a drum!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91458.html](http://www.nuforc.org/webreports/reports/091/S91458.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Louisville (KY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>My husband and I were outside and could see planes coming in to the airport for the UPS sort.  The UPS planes were traveling East to West, then I saw an object traveling South to North, moving across the sky at about 100 ft above the ground and it was moving about the speed of a helicopter. There were red moving lights on the back in a circle and it looked like a ferris wheel.  It moved across the sky and disappeared.  This happens off Hurstbourne and Taylorsville Rd Friday 8-4-17 @ 10:00 pm.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135585.html](http://www.nuforc.org/webreports/reports/135/S135585.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/164/S164376.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164514.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164351.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164245.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
