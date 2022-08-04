@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:34 on 4 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:37 on 4 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Ocean City (MD) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two fireballs observed over Atlantic Ocean from Ocean City, Maryland, hotel balcony.While on vacation in Ocean City, Maryland, wife and myself witnessed unusual sight over Atlantic Ocean while sitting on balcony of hotel room.  Date was either 8/3/17, 8/4/17, or 8/5/17 (don’t recall which of those three nights) approximate time 22:00 hours.Witnessed a fireball traveling parallel to the coast, heading from the north to the south, about the speed of a normal aircraft.  Seemed to be within a few miles of our location.  It turned east over the ocean, appeared on a trajectory to higher altitude, again at normal aircraft speed, and extinguished after about 10 seconds.  No aircraft warning or marker lights were visible nor could we hear any sound.  Fireball was visible for approximately 50 to 60 seconds total.A second identical sighting was witnessed 5 to 10 minutes after the first.Note that Dover Delaware Air Force Base.  Is not far north of our location.  Unsure if it might have been afterburners from jets conducting nighttime training.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138487.html](http://www.nuforc.org/webreports/reports/138/S138487.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Pocatello (ID) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>09/04/08 at approximately 22:10 hours a bright light moved West to East, zigged and zagged then disappeared.On 08/04/08 myself, my wife and 2 sons were in our hot-tub, the time was approximately 22:10 hours.  My son said "Dad look at that light there in the sky, see how bright it is and close that it is, just watch it, it will zig and zag even stop then disapear, I saw it the other night and my friends thought I was nuts".  We all sat on the edge of the hot-tub and watched this low light that was moving at a pretty fast pace then slowed to a stop, zigged and zagged, seemed to go south then back north then continued it's movement in the eastward sky.  Then just as my son said it simply disappeared.  My son said this same thing happened a few days before except it was in the Northern sky from our house moving West to East.  My sighting was in the Southern Sky moving West to East.  The funny thing about this was there no sound, just a bright, bright light.  No flashing lights like an airplane just an extremely bright light.  There was not a cloud in the sky to have it disappear as it did, but the funny thing was, it did everything that my son said would happen, from what he had experienced a few days before.  We are a very normal family and wouldn't report this for fun.  It was just something that none of us had ever witnessed before except my 22 year old son.  I know it was not a plane or anyway one that was common to us.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65023.html](http://www.nuforc.org/webreports/reports/065/S65023.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/164/S164376.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164514.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164351.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164245.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
