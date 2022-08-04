@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:46 on 3 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:01:00 on 4 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Tampa (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Street lights went black and a strange blueish-white light came down from the skyMyself, and my children were heading North on the Veteran’s Expressway in Tampa, approximately 3 miles south of the SR 54 exit.   At approximately, 10pm we were driving in the left hand land and all of a sudden all of the street lights on the Expressway went off and a blue beam of light went across the highway.   However, the light wasn’t like normal flood light or spot light you would see.  The light actually stopped in mid-air, it didn’t travel like "normal" light should.  It was the craziest thing I had ever seen and it wasn’t a normal color either--it was a strange blueish-white light.  My boys said it before I could even muster the words out of my mouth, "Is that a UFO?" he exclaimed from the rear seat.  I was in shock, I didn’t even know what to say.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64998.html](http://www.nuforc.org/webreports/reports/064/S64998.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Notched disc with slow wobbly movement at O'hare Terminal 3 observed at close range in daylight.While waiting in the lobby at AA Gate K-7 at Chicago O'hare my wife noticed a disc-shaped object hovering at an altitude of several hundred feet outside the terminal's large glass windows to the WSW at 7:01 pm.  She called my attention to it and several other people rushed to observe the estimated 30-40 foot in diameter object as it wobbled but deliberately moved to our left (NNE) between Concourse K and L toward the main body of Terminal 3.  It took about 60 seconds to enter and exit our field of view.Its destinctive peripherial protrusions, like notches on a gear, were its primary identifying feature to me.  It was dull gray (my wife noticed orange/rust) with an undulating movement.  It traveled low under the cloud ceiling.We laughed and moved closer to the windows and I told my wife to try for a phone camera shot but she couldn't manage it in time.  Another lady asked "what in the world is such a big flying hubcap doing out there".  Others looked and turned their heads in disbelief.Prior to the sighting there was very little aircraft activity in this wing of O'hare.  There was a burst of aircraft activity after the object departed and a large storm moved in at 7:30 pm.  An aircraft appeared to be disabled during the 7:00-8:00 pm period.  Tornado warnings and high winds followed and passengers took shelter in the tunnels of O'hare.  We finally departed on AA 1058 to Orlando from Gate K-15 at about midnight.I am a 61 year old geologist with 30 years of international experience, an amateur astronomer, and IUFOC attendee for many years.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65078.html](http://www.nuforc.org/webreports/reports/065/S65078.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [408](http://www.nuforc.org/webreports/reports/164/S164235.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164226.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164242.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164276.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164507.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
