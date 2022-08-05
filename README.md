@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:37 on 5 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:07:05 on 5 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Essex (MD) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Close view of large two-level object within 50 feet on clear night at tree top levelI opened the front door to let my dog out.  At the end of our street is a small wooded tree area.  An object came from behind the house at the end of the street.  It barely flew over the trees and was clearly visible.  It was a clear, cloudless night.  The object appeared to be oval & made no sound at all, not even a hum.  Separating the two levels were long, tall, red & white alternating lights.  Before I saw the craft, I heard laughter coming from the trees that sounded like little kids going, "Hee hee hee".   As soon as the object passed over the trees, the laughing stopped.  It was coming from the north & headed south.  going very slow.  The object went straight for less than 30 feet then turned to the right towards the west.  When it turned it didn't turn like a plane would, dipping it wings.  It just made a perfect, level turn & followed the path of the street across from my house, then slowly disappeared.  The next day I saw the owners of the home outside! & I said this to them, "I was just wondering if anyone heard or saw anything unusual last night."  And the man said to me, "Oh, if you mean the UFO's, they fly over here all the time".  Although we live near an air national guard base/small airport, the object was too large to land at this airport. I know what I saw that night, and it was definitely not from this world.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124217.html](http://www.nuforc.org/webreports/reports/124/S124217.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Columbus (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>bright white orb moves slowly, dims, and vanishes followed by all night power outageI looked up saw a very bright white ball of light-too large to be a plane, but not much bigger. and no strobes or red lights. it was moving across for one or two seconds, then and apeared to dim/fade out smaller an smaller until it disapeared. when the orb was getting smaller, a reddish twinkle apeared until it vanished. no cloud cover nearby.  five minutes after the sighting the electricity went out at my appartment complex, it wa not restored intill noon the next day.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65073.html](http://www.nuforc.org/webreports/reports/065/S65073.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164234.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164431.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164325.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164426.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164427.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
