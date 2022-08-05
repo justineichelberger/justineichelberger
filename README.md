@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:42 on 5 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:37 on 5 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Bellingham (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Yellow orange focused light stationary over Lake accelerates and within 15 seconds disappears into night sky.My husband came upstairs and said, "there's something you need to see."  Standing on our deck, looking over Lake Whatcom, we observed an orange/yellow light in a stationary position over the lake about the size of a quarter held at arms length.  It stayed in position about 1.5 minutes and then accelerated quickly straight up and disappeared in about 15 seconds from the point of acceleration.  A second light then appeared, taking relatively the same position as the first, and again hovered for about 1.5 minutes and then accelerated upwards along the same trajectory as the first and again disappeared out of sight into the night sky.The light we observed was a light yellow / orange.  We could not see any sort of craft, just this illumination.  We speculated that perhaps it was an object carrying a fire of some sort, or a "lantern".  However, to see it as we did, my husband noted it would have to be a fire of great size to illuminate over the distance.  As well, it was not flickering, and it was a focused bright light.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78262.html](http://www.nuforc.org/webreports/reports/078/S78262.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>A pinkish brown sphere with sporatic lights crosses the sky at a medium steady pace.the spherical, pinkish-brown object crossed the sky from southeast to northwest at a steady rate at around 3 in the morning on sunday the 5th.  it was seen after my friend and i noticed a star shooting across the sky, which left a glowing tail for a few seconds.  it was debated if it was a balloon, but i saw a couple of sporatic blinking lights around it, and the steady rate was also questionable, unless it was in a jet stream.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18976.html](http://www.nuforc.org/webreports/reports/018/S18976.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164234.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164431.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164325.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164426.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164427.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
