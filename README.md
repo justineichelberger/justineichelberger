@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:02:12 on 5 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:46 on 5 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Jacksonville (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>IN A CLOUDLESS SKY BEFORE SUNRISE I BRIEFLY OBSERVED A VERY HIGH, WHITE STAR SHAPED OBJECT, MOVING EAST TO WEST.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  Satellites do not orbit to the west.  Possible high-altitude aircraft??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51933.html](http://www.nuforc.org/webreports/reports/051/S51933.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>We saw 2 firey orange orbs, like 2 small suns near each other, west of the Los Angeles skyline for 5-9 seconds at 1:22 in the afternoonAt 1:22 on Sunday afternoon Aug 5, 2007 over downtown Los Angeles my friend and I saw 2 orange orbs of what appeared to be fire in the sky to the west of the downtown LA skyline.They were almost like 2 very small suns. On was a little higher than the other, but they were very close to each other but not touching. I did not witness them moving. They appeared stationary. I only saw them for 5-9 seconds as I was driving southbound. They appeared to be at least as high in the sky as the tallest building in the skyline. I could not tell however how close they were. They could have been large and far away or smaller but closer.Then when I passed a hill next to the freeway the orbs were gone. I am an elementary school teacher and my friend works in the television industry. I am 49 yrs old and my friend is 63.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57998.html](http://www.nuforc.org/webreports/reports/057/S57998.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164234.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164431.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164325.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164426.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164427.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
