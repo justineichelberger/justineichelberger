@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:46 on 4 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:35 on 5 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1958, an anonymous witness in Karangaroa (New Zealand) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>aged 12 in 1958 saw dull silver stationary cigar tube shaped object in clear sky with no markings or sound for 5 minutes.i am a 55 year old white male. when i was about 12 on holiday hunting in the west coast bush i stopped in a clearing, looked up on hearing a high flying piston engined plane and saw a stationary, cigar tube shaped object in the clear sky. the aircraft was much higher, moving from left - right. the dull silver tube with rounded ends was on the right hand side of my veiw. i remember wondering if it was connected with the aircraft somehow, like if this was how waste was dumped from planes, far out in the country(!). i stayed looking up at it for what seemed likes ages, but was probably only something like 5 minutes. during that time i saw no movement nor heard any sound. there were no markings on it. it was a dull silver colour. altho it was a strange sight, i didn't report my experience to anyone for several years afterwards. it was still there when i gave up waiting for it to do something and left the clearing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19669.html](http://www.nuforc.org/webreports/reports/019/S19669.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Wildwood (NJ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Medium to large fireball deep orange/orangeyellow with dark center looking like round fire??</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135557.html](http://www.nuforc.org/webreports/reports/135/S135557.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/164/S164376.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164514.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164351.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164245.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
