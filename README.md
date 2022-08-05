@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:07:05 on 5 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:41 on 5 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Columbus (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>bright white orb moves slowly, dims, and vanishes followed by all night power outageI looked up saw a very bright white ball of light-too large to be a plane, but not much bigger. and no strobes or red lights. it was moving across for one or two seconds, then and apeared to dim/fade out smaller an smaller until it disapeared. when the orb was getting smaller, a reddish twinkle apeared until it vanished. no cloud cover nearby.  five minutes after the sighting the electricity went out at my appartment complex, it wa not restored intill noon the next day.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65073.html](http://www.nuforc.org/webreports/reports/065/S65073.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Goderich (Canada) (ON) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>2 Yellow-Orange Tear drop shaped orbsI searched this site to see if anyone reported a UFO sighting near Goderich on August 5th, 2012. I came across the post from someone in London identifying very much what we saw.Our sighting took place August 5th, 2012 near Goderich (specifically about 20 minutes drive north of Goderich).  We were at a cottage and at about roughly 10 p.m. the four of us, sitting in the backyard, saw 2 floating orange-yellowish tear drop shape globes.To me they looked light floating light bulbs shapes. The colours seemed somewhat translucent and they didn’t appear to be  traveling on any specific trajectory.   They seemed to bob and weave as they passed over us. There was no sound coming nor trail of emissions emanating from them.The whole sighting was about 10-15 seconds.  We were all very clear that there seemed no logical scientific explanation of what those lights might be and none of us had never seen anything like it before.It was quite strange and beautiful.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91785.html](http://www.nuforc.org/webreports/reports/091/S91785.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164234.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164431.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164325.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164426.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164427.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
