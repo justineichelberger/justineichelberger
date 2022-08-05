@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:01:04 on 5 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:42 on 5 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in White Sands (NM) reported seeing craft that fit the description of some 'Circle' over a period of approximately momentary - momentary minutes.</sub><blockquote><sub>Older relative has picture taken at dusk with 3 glowing white round lights with cone shaped metal tops barely visible. Was vacationing with another couple who took a picture at the nearly the same time, with another camera, but only two of the UFO's were visible in their photo.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34777.html](http://www.nuforc.org/webreports/reports/034/S34777.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Bellingham (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Yellow orange focused light stationary over Lake accelerates and within 15 seconds disappears into night sky.My husband came upstairs and said, "there's something you need to see."  Standing on our deck, looking over Lake Whatcom, we observed an orange/yellow light in a stationary position over the lake about the size of a quarter held at arms length.  It stayed in position about 1.5 minutes and then accelerated quickly straight up and disappeared in about 15 seconds from the point of acceleration.  A second light then appeared, taking relatively the same position as the first, and again hovered for about 1.5 minutes and then accelerated upwards along the same trajectory as the first and again disappeared out of sight into the night sky.The light we observed was a light yellow / orange.  We could not see any sort of craft, just this illumination.  We speculated that perhaps it was an object carrying a fire of some sort, or a "lantern".  However, to see it as we did, my husband noted it would have to be a fire of great size to illuminate over the distance.  As well, it was not flickering, and it was a focused bright light.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78262.html](http://www.nuforc.org/webreports/reports/078/S78262.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164234.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164431.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164325.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164426.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164427.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
