@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:35 on 5 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:23 on 5 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Wildwood (NJ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Medium to large fireball deep orange/orangeyellow with dark center looking like round fire??</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135557.html](http://www.nuforc.org/webreports/reports/135/S135557.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately lights - lights minutes.</sub><blockquote><sub>lights arownd south mount.im a ufo investergater living in mesa a.z. i have <so far> viedo taped 6 nights of lights going back at the start of jun 15th untell now. the latest night happen aug. 5th  my son and i and a freind saw wight lights dancing arownd the south mount. we viedo tape thim for about 10 to 15 mins. i have witness a lot of ufo activity alot and news ch. 10 will be doing a story on the lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38528.html](http://www.nuforc.org/webreports/reports/038/S38528.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164234.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164431.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164325.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164426.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164427.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
