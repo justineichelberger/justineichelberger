@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:31 on 5 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:37 on 5 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Amherst (NH) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>We were observing satellites, and saw 2 moving in tandem in one direction, then both enemies turned at the same time and began moving in a different direction.   There were no flashing lights, we dud not see a specific shape.  They were moving slowly, in tandem.  It seemed to disappear</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148065.html](http://www.nuforc.org/webreports/reports/148/S148065.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Palmyra (PA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Yellow/white lights hovering over field in Palmyra, PA.I was driving up Forge Rd. here in town on my way home.  I went to turn left down my street and about 10 extremely big white/yellowish lights were hovering in the sky over a field.  I saw about 10 lights in a half oval and the lights were diminishing one by one and then, all of a sudden, the last 4 or 5 light went out at once.  I was under it off to the right and there was NOTHING in they sky no planes no flood light nothing.  I called the Palmyra police and they laughed at me and I was the first to call they said.  I went home went on facebook and my close friend saw it as well but he had 2 other people that could testify that we all saw the same thing.  He posted something to Facebook a little video of the very end.  I'm really freaking out.  I have seen other pictures of sightings in Arizona and Florida and its the SAME thing I saw.  II'm very freaked out by what I saw and to know others saw what I did has me freaking out even more and this is why I am contacting you! !!!!!((NUFORC Note:  Source of report confirms that the time of sighting was 9:16 p.m., not a.m..  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120913.html](http://www.nuforc.org/webreports/reports/120/S120913.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164234.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164431.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164325.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164426.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164427.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
