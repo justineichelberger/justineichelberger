@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:17:05 on 5 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:11:28 on 5 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Minneapolis (MN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>6 orange fireballs flying quickly above MinneapolisThe fireballs flew steadily and quickly from West to East in the North sky in Minneapolis.  They were incrementally spaced, flying the same speed and in the exact same direction.I saw six, but another witness drew my attention to them.  He may have seen more;  They were orange, round and seemed to occasionally flicker.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91492.html](http://www.nuforc.org/webreports/reports/091/S91492.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Hayward (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Strange lights hovering over Highway 880We were headed Northbound on Highway 880 at around 930pm on September 5, 2015 as I noticed about 8-10 strange lights in a zig zag formation in the sky as we approached the Winton exit.  The lowest object was about 50 feet above the fence line and they were evenly spaced about 50 feet above one another.  The strange lights were just hovering there with no movement and were circular colored orbs with no sound.  (I thought someone was doing fireworks).As we continued to drive Northbound I could see the lights in the distance still in the sky as I looked back.  There was heavy traffic being a Saturday night so I know we were not the only ones who saw this spectacular event.  We decided to exit the freeway to turn back around to see more but and the lights had disappeared in less than five minutes.  I am so disappointed I was too excited to grab my camera because it was definitely something out of this world.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121723.html](http://www.nuforc.org/webreports/reports/121/S121723.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164234.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164431.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164325.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164426.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164427.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
