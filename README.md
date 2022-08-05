@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:41 on 5 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:53 on 5 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Goderich (Canada) (ON) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>2 Yellow-Orange Tear drop shaped orbsI searched this site to see if anyone reported a UFO sighting near Goderich on August 5th, 2012. I came across the post from someone in London identifying very much what we saw.Our sighting took place August 5th, 2012 near Goderich (specifically about 20 minutes drive north of Goderich).  We were at a cottage and at about roughly 10 p.m. the four of us, sitting in the backyard, saw 2 floating orange-yellowish tear drop shape globes.To me they looked light floating light bulbs shapes. The colours seemed somewhat translucent and they didn’t appear to be  traveling on any specific trajectory.   They seemed to bob and weave as they passed over us. There was no sound coming nor trail of emissions emanating from them.The whole sighting was about 10-15 seconds.  We were all very clear that there seemed no logical scientific explanation of what those lights might be and none of us had never seen anything like it before.It was quite strange and beautiful.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91785.html](http://www.nuforc.org/webreports/reports/091/S91785.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Weaverville (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>We saw several orange lights in the western sky NW of Weaverville, NC, around 930 Sunday night, August 5th.My wife and I were walking west on our street around 9:30 tonight.  As we continued we could see an orange glow through the trees.  When the trees cleared we could see several (5-7) orange lights grouped tightly together.  We continued walking and watching the lights and thinking what the hell is that.  We stopped at the cul de sac to see if the lights were moving.  They were slowly moving right in the western sky we think over 1000 feet in the air.  The lights moved away faster but low on the horizon and finally disappeared.  Our guess is that it lasted 8 minutes.  We didn't bring either of our phones.  We came back to the house and I looked up UFO on the internet, and I found your website.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142585.html](http://www.nuforc.org/webreports/reports/142/S142585.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164234.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164431.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164325.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164426.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164427.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
