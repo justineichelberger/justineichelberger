@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:46 on 5 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:37 on 5 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>We saw 2 firey orange orbs, like 2 small suns near each other, west of the Los Angeles skyline for 5-9 seconds at 1:22 in the afternoonAt 1:22 on Sunday afternoon Aug 5, 2007 over downtown Los Angeles my friend and I saw 2 orange orbs of what appeared to be fire in the sky to the west of the downtown LA skyline.They were almost like 2 very small suns. On was a little higher than the other, but they were very close to each other but not touching. I did not witness them moving. They appeared stationary. I only saw them for 5-9 seconds as I was driving southbound. They appeared to be at least as high in the sky as the tallest building in the skyline. I could not tell however how close they were. They could have been large and far away or smaller but closer.Then when I passed a hill next to the freeway the orbs were gone. I am an elementary school teacher and my friend works in the television industry. I am 49 yrs old and my friend is 63.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57998.html](http://www.nuforc.org/webreports/reports/057/S57998.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Essex (MD) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Close view of large two-level object within 50 feet on clear night at tree top levelI opened the front door to let my dog out.  At the end of our street is a small wooded tree area.  An object came from behind the house at the end of the street.  It barely flew over the trees and was clearly visible.  It was a clear, cloudless night.  The object appeared to be oval & made no sound at all, not even a hum.  Separating the two levels were long, tall, red & white alternating lights.  Before I saw the craft, I heard laughter coming from the trees that sounded like little kids going, "Hee hee hee".   As soon as the object passed over the trees, the laughing stopped.  It was coming from the north & headed south.  going very slow.  The object went straight for less than 30 feet then turned to the right towards the west.  When it turned it didn't turn like a plane would, dipping it wings.  It just made a perfect, level turn & followed the path of the street across from my house, then slowly disappeared.  The next day I saw the owners of the home outside! & I said this to them, "I was just wondering if anyone heard or saw anything unusual last night."  And the man said to me, "Oh, if you mean the UFO's, they fly over here all the time".  Although we live near an air national guard base/small airport, the object was too large to land at this airport. I know what I saw that night, and it was definitely not from this world.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124217.html](http://www.nuforc.org/webreports/reports/124/S124217.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164234.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164431.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164325.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164426.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164427.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
