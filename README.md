@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:34 on 6 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:43 on 6 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in North Bergen (NJ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Another Triangular Formation in the skies of new jersey 3 glowing lightsi recently read an article on http://www.realufos.net/ about these young ladies whom recorded a triangular formation in the skies of new jersey. I always tend to look up to the sky and I know where to see stars, because in Northern Jersey it’s hard to see stars.  When all of a sudden, I happen to look up towards the southwest direction; west from NYC, I saw clearing 3 orb shaped white lights in a PERFECT triangle formation. I was convinced that it was a UFO of some sort.  They seemed to glow but no movement, and then I started to think maybe they are stars after all that I never noticed before.  But the formation was so clear; I know I would have not missed it before.  So I went upstairs and had dinner; 30min later it  was gone.  So now I’m convinced it was no stars.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91519.html](http://www.nuforc.org/webreports/reports/091/S91519.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Milan (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Very fast bright orange light moving south to north.I was driving back after a softball game with my girlfriend, east on 113 telling her about another time I had seen a light in the sky moving.  As soon as I pointed to the sky a bright orange object appeared low over the tree line it was very far away, and moved at a very, very high velocity across the sky from the right to left (south to north) it stopped suddenly and took off again at about a 30 to 45 degree angle outwards or upwards and vanished.I could tell it wasn’t an airplane it was a bright orange color, moved very very fast, stopped on a dime and switched direction in an instant.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108224.html](http://www.nuforc.org/webreports/reports/108/S108224.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164241.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164524.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164251.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164253.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164315.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
