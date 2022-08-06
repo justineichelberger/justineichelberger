@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:36 on 6 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:02:19 on 6 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Boston (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Orange lights in loose formation spotted over eastern BostonWitnessed approximately a dozen or more bright orange lights in the eastern sky, heading west or north, in a loose formation.  No discernible sounds.  Objects too far to perceive any shapes. Recorded video, but due to street lights and passing vehicles, unable to get useful footage. Formation appeared too close to be civilian or commercial aircraft.  Objects were relatively slow moving, no visible discharge. Witnessed by myself and a friend.  Male and female, late 30s, city residents.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158254.html](http://www.nuforc.org/webreports/reports/158/S158254.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Santa Cruz (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Saw a single orange fireball hanging in the clouds/sky over Santa Cruz, CA, last night, Aug 6th, around 9:30 PM for about 3 minutes before it winked out.  WTH?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120946.html](http://www.nuforc.org/webreports/reports/120/S120946.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164241.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164524.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164251.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164253.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164315.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
