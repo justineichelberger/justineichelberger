@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:56 on 6 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:34 on 6 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Attleboro (MA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Two red/orange objects flying in synchronicity over Attleboro, Massachusetts 08/06/13I walked outside at approximately 9:40 pm on 08/06/13 and obsevered two redish orange glowing objects flying very low.  I observed them flying slowly heading North East for a few seconds then they appeared to stop and hover for about 20 seconds.  I thne noticed that my cell phone was not in my pocket so I ran back inside to get it and also called for my son. I never told him what I had just saw.  He ran outside with me.  They then in synchronicity continued traveling North West and on eof them abrupty started flying upward at a much higher rate of speed.  I then asked my son to desribe what he is seeing and he told me "two dark orange glowing things flying in the sky."  The first object then flew upward and an extremely high rate of speed until it was not viewable then the second object did the same.  I didn't notice any sound from either object.  By the time I got the video camera on my cell phone to work they were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100849.html](http://www.nuforc.org/webreports/reports/100/S100849.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in North Bergen (NJ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Another Triangular Formation in the skies of new jersey 3 glowing lightsi recently read an article on http://www.realufos.net/ about these young ladies whom recorded a triangular formation in the skies of new jersey. I always tend to look up to the sky and I know where to see stars, because in Northern Jersey it’s hard to see stars.  When all of a sudden, I happen to look up towards the southwest direction; west from NYC, I saw clearing 3 orb shaped white lights in a PERFECT triangle formation. I was convinced that it was a UFO of some sort.  They seemed to glow but no movement, and then I started to think maybe they are stars after all that I never noticed before.  But the formation was so clear; I know I would have not missed it before.  So I went upstairs and had dinner; 30min later it  was gone.  So now I’m convinced it was no stars.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91519.html](http://www.nuforc.org/webreports/reports/091/S91519.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164241.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164524.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164251.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164253.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164315.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
