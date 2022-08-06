@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:55 on 6 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:39 on 6 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Dummerston (VT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three light balls in an arch, and then dancing light balls.3 red-orange lights flying in an arch formation mid-cloud by a main road, seemed too big to be planes but no unusual movement, then about a mile away on a more secluded road, two lights, one orange and one lighter yellow, moving closer to and farther apart from one another in different directions, including vertically, movements definitely NOT typical of a plane.  Here we saw multiple light balls going in and out of the clouds and we couldn't tell how many total there were, they moved in any direction and were very versatile in their movement.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112273.html](http://www.nuforc.org/webreports/reports/112/S112273.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Youngsville (PA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I Was sitting outside enjoying the night sky.  I looked to the north and saw ufo's in a formation.  They were a very bright solid white color.  They were moving slow at first then they took off at a very high speed.  I went in to get my phone so I could get pictures but when I got back outside the objects were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158924.html](http://www.nuforc.org/webreports/reports/158/S158924.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164241.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164524.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164251.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164253.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164315.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
