@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:50 on 5 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:53 on 6 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Reseda (CA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Rectangle, no wings, no sound, no lightsAugust 5 2006 8:15 pm in the skys over th San Fernando valley I spoted a rectangular object 500 feet above me at dusk.  It had no wings, it made no sound and had no lights.  It was going very fast, I would estimate 500 mph + and what appeared in a perfect straight line.  From above me to over the horizon it took a mere 3-4 seconds. Nobody else was with me and I had no camera, and if I had I would not have had the time to take a picture.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57262.html](http://www.nuforc.org/webreports/reports/057/S57262.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Yardville (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Pulsating light gets smaller as it makes an arching movement in the night sky.Sunday August 6th, 2006 at 10:30 PM, I was taking my dog out to do her business before going to bed.  As I walked out of my house, I was greeted by a beautiful full moon which was slightly orange at the time in the NE sky. As I walked to the rear of my yard, I noticed what I originally thought was a very large planet in the N sky (about the same size as the moon that night).  About a minute or two later, I returned to the spot where I seen the "planet", and stood and watched it for about another minute.  Just then the circle pulsated very brightly, and made an arching movement in the sky.  As it was making this arching movement, the circle got smaller and smaller until it vanished which took approxiamately 5 seconds. The sky was very still and clear that night with no wind or clouds.  Total time of observation was about 4 to 5 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52245.html](http://www.nuforc.org/webreports/reports/052/S52245.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164234.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164431.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164325.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164426.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164427.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
