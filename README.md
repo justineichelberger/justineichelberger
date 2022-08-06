@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:35 on 6 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:55 on 6 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Sturgeon Bay (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Brief moving light, turned off as if on a dimmer switchParked on 3rd Avenue, in front of the Door County Advocate newspaper offices(Directly in front of the stone map on the building), waiting for a friend. The night was clear, with no clouds or any fog/haze. Looking to the north, when I happened to see a light in the sky at roughly 343 degrees. In the brief time I saw it, object/light appeared to be moving on a course of roughly 335. Then within 1 second, light dimmed and went out, like what you see when using a dimmer switch on a house light.(The below are representations - events like these NEVER seem to happen when I am carrying a camera. %^&*%&*) http://i28.photobucket.com/albums/c210/CaptPower/BSP/2010-08-06sighting.jpg  http://i28.photobucket.com/albums/c210/CaptPower/BSP/2010-08-06sightingb.jpg  At no time before, during, or after did I hear any sounds of aircraft (either prop or jet), and the object/light did not make any sound that I could hear.There were several other people out in front of Van's bar at the time, but (unfortunately)  I don't think they saw it as 1 had his back to it, the other was turned slightly away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77057.html](http://www.nuforc.org/webreports/reports/077/S77057.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Dummerston (VT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three light balls in an arch, and then dancing light balls.3 red-orange lights flying in an arch formation mid-cloud by a main road, seemed too big to be planes but no unusual movement, then about a mile away on a more secluded road, two lights, one orange and one lighter yellow, moving closer to and farther apart from one another in different directions, including vertically, movements definitely NOT typical of a plane.  Here we saw multiple light balls going in and out of the clouds and we couldn't tell how many total there were, they moved in any direction and were very versatile in their movement.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112273.html](http://www.nuforc.org/webreports/reports/112/S112273.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164241.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164524.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164251.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164253.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164315.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
