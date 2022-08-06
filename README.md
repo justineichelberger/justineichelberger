@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:39 on 6 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:34 on 6 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Maryland (MD) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright oval object moving across the night sky.It was 3:00 am and I could not sleep.  So I stepped outside to have a cigarette. When I looked in the sky, I saw a bright oval object quitely flying low across the night sky.  And when I tried to get footage of the craft it increased speed and was gone.((NUFORC Note:  Source does not indicate a date.  We have no way of contacting the witness, and have applied an arbitrary date above.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82967.html](http://www.nuforc.org/webreports/reports/082/S82967.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Sunset (UT) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Pill shaped rounded endsI live in the flight patterns of Hill AFB and SLC Intl Airport. I was sitting on my front patio looking at the flights heading for SLC when I saw an object flying north east towards the Wahsach mountains.  The I took a picture with my phone then got my binoculars and was able to see it appeared to be metallic (silver) shaped like a pill with a dark band around the forward end. I estimate the altitude at about 1500-2000 ft traveling at about 50-60 knots.  I thought it was a mylar balloon, if it was going with the wind I would expect it to tumble. This pill was flying straight and true. Unfortunately the phone pic a white blur.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158264.html](http://www.nuforc.org/webreports/reports/158/S158264.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164241.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164524.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164251.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164253.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164315.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
