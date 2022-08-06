@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:24:02 on 6 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:04:33 on 6 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>bright as a red flare , chevron shaped, silent, 1000 ft over my house and stayed for 30 min..caught on video tape.It was bright as a flare, hovered over house and was completely silent. stayed in the area for 30 to 45 minutes and then drifted up and into clouds. Part of the sighting, near the end is on Video tape. Was not a balloon, flare star, swamp gas or other riduculous explaination. It was an unknown, not of earth. My fiancee and mother all watched it as it hovered over the house and then over the tree line and hung in the sky for 30 to 45 minutes. As I said, the last part of it was caught on tape. I would be interested in getting the tape magnified and thermal imaged to see exactally what it was. Through the bincoculars it looked like a cheveron shape, black, with a red..bright as a flare that seemed to hang from under the bottom. The light or whatever it was did not blink. Thank you, ((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19204.html](http://www.nuforc.org/webreports/reports/019/S19204.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Gallatin (TN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Triangle shaped objecting flying away from us very slowly.  Strange blinking patterns and three points of triangle too far apart to be wings of a known aircraft.  Very strange.  First aircraft Ive ever seen that had no explanation as to what it was.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100850.html](http://www.nuforc.org/webreports/reports/100/S100850.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164241.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164524.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164251.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164253.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164315.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
