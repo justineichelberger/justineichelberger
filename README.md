@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:41 on 6 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:34 on 6 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in San Clemente (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>When I was driving home yesterday, I was looking at the sky because it was so blue and clear - no clouds at all.  Then, I saw a silverish-whitish "thing" floating high in the sky.  It was traveling up gracefully, kind of like a balloon.  I watched it for about 10 seconds because I had never seeing anything like it before and was trying to figure out what it was. Then, it slowly faded away.  I thought maybe it was a plane hitting the sun at an angle that made it disappear.  About 20 seconds later it appeared in the same area again.  It traveled upward again very gracefully and then disappeared.  I did see some birds in the sky, but they were much lower.  This could not have been a bird - it was way to high.  It disappeared and reappeared 4 times.  I was driving where there are many high hills and twisting roads so I eventually lost track of the area it was.  I concluded that it could not be a plane because a plane travels upwards and forwards, this was just t! raveling upwards.  I am a mother of two and a teacher.  I would not make this up.  Maybe it was some sort of reflection?  In appearance, it was not at all like the stories of UFOs I have heard of in the past.  Hmmm . . . . . ?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71520.html](http://www.nuforc.org/webreports/reports/071/S71520.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1988, an anonymous witness in Haddam (CT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>A very large circular objects about the size of two football fields stood above the ground for about an hour it was glowing green and just hung in the air it looks so close it looked so incredibly large.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121138.html](http://www.nuforc.org/webreports/reports/121/S121138.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164241.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164524.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164251.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164253.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164315.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
