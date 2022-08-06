@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:06:30 on 6 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:36 on 6 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Yakima (WA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Looked to the SW watched a triangle of 3 flashing lights that held postion for 30 minutes. then proceeded slowly to SW.I watched 3 bright lights in the sky to the SW of Yakima, Washington for over 30 minutes. I am a private pilot and am used to seeing the stars and aircraft in the sky.The objects did changed color similair to an aircraft light system. but not quite the same. I saw what to my eye were green, red, white, and orange flashing lights. I did see an aircraft moving near the upper most light. It appeared to have a standard red nav lighting.Its postion would have put it north of the top light and it moved back and forth and appeared to be circling.  I did watch for about 20 minutes thru binoculars.  I called my 2 college age children and after some good natured ribbing we drove to a high point and watched as the lights disappeared to the SW. When I say disappear I mean they got dimmer and appeared to drop slightly on the horizon but not below, until we could no longer see them. They still maintained the triangle shape.  They appeared to be several miles apart and at differant altitudes. I do know the military was scheduled to fly Chinook helicopter night flights but those would have been in the opposite direction to these lights 35 miles to the SE.The gentleman on the phone asked; in relation to the stars I could see how large where these lights. I would say 3-4 times brighter and larger than the other star we could see.Visiblity was good with no cloud cover or moon. Tempature was 81 degrees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91528.html](http://www.nuforc.org/webreports/reports/091/S91528.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Norris City (IL) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 115</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142703.html](http://www.nuforc.org/webreports/reports/142/S142703.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164241.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164524.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164251.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164253.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164315.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
