@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:39 on 6 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:53 on 6 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Youngsville (PA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I Was sitting outside enjoying the night sky.  I looked to the north and saw ufo's in a formation.  They were a very bright solid white color.  They were moving slow at first then they took off at a very high speed.  I went in to get my phone so I could get pictures but when I got back outside the objects were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158924.html](http://www.nuforc.org/webreports/reports/158/S158924.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Stanton (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>3 red lights moving in the sky over the treesMe and my wife rented a cabin in Stanton, KY, and on the night of 8/6/16, at around 10 or 10:30, I saw a red light in the sky that was blinking on an off, so I really started looking at it to see what it was it would blink an move up an down so I thought it might be a drone but I watched it for over an hour and it kept doing the same thing and when I went back in it was still there in the sky</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129048.html](http://www.nuforc.org/webreports/reports/129/S129048.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164241.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164524.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164251.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164253.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164315.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
