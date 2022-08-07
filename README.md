@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:44 on 7 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:39 on 7 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Yamhill (OR) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I saw a long object (maybe 3/4 mile long) on the sky moving very slowly without any sound. It looked like a strip of LED lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158249.html](http://www.nuforc.org/webreports/reports/158/S158249.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Pottsville (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Orange light moving slowly across the sky.We were sitting outside in our back yard when we seen a orange object going from east to west.  Than a half an hour or so we saw another one going from west to east in a differant area. The third one we say going north to south. It wasn't the space staion cause it moved to slow and it had no noise when going over head nor was it blinking.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91598.html](http://www.nuforc.org/webreports/reports/091/S91598.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [402](http://www.nuforc.org/webreports/reports/164/S164352.html)
-- [401](http://www.nuforc.org/webreports/reports/164/S164302.html)
-- [400](http://www.nuforc.org/webreports/reports/164/S164260.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164255.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
