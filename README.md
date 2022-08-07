@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:51 on 7 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:34 on 7 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Troy (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Eight orange round shape flying objects over Troy-MI  On August 7th, 2012 at about 10:00 PM, I saw about 8 orange round shape objects flying over Troy, MI. Appeared on the east side, approaching toward west side, mid speed, no sound, two of them flied relatively low over me, I couldn’t estimate the distance. They passed me, and since I was driving  I couldn’t follow them any longer. I was a little nervous to stop and look back for them.I took a picture when they were distant, but doesn’t show much,  I turned my camera off, I didn’t expected them to come my way, and as they quickly moved, I didn’t have time to set my camera again.Next day, I pass the same street at about 11:00 PM, (Square Lake Rd & Coolidge)  I was looking for them again, I saw about 3 of them on my right (South of Square Lake Road) that day I stopped, I wanted to get a video but they didn’t registered very well. I still have a picture and the video.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91839.html](http://www.nuforc.org/webreports/reports/091/S91839.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Shlangen (Germany) () reported seeing craft that fit the description of some 'Flash' over a period of approximately Trampoline - Trampoline minutes.</sub><blockquote><sub>Moving in the sky, a flash, then gone.My friend and i were looking at the stars on my trampoline.  As we watched, one was moving quick but too slow to be a meteor so we followed it and as we did it got bigger, turned out to flash bright in the sky then disappear!  We watched more, the other 6 just seemed to move but not flash.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77042.html](http://www.nuforc.org/webreports/reports/077/S77042.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [402](http://www.nuforc.org/webreports/reports/164/S164352.html)
-- [401](http://www.nuforc.org/webreports/reports/164/S164302.html)
-- [400](http://www.nuforc.org/webreports/reports/164/S164260.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164255.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
