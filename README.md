@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:50 on 7 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:36 on 7 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Oregon City (OR) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Craft moving slowly overhead as if searching for something.Saw a craft that was moving in a direction that almost seemed like it was searching. It was flashing red, green, blue and white.  At times it seemed to be wobbling and was at first moving west.  This was about 11:30 pm and then it traveled south over Oregon City, OR.  About 10 minutes later it was headed north.   It made no sound but continued north until it was out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112293.html](http://www.nuforc.org/webreports/reports/112/S112293.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Dania Beach (FL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Swirling star, glowing cloud, and flashing objects.I was going to the gnc in Oakwood plaza Hollywood, fl when me and my boyfriend had noticed a strange star in the sky that seemed to swirl with a trail of what seemed like white cloud. After looking up for some 30 seconds we also noticed flashing star like objects forming around the "swirling star".  A couple seconds later the swirling star started to disappear..  Not only that we also noticed a cloud itself lighting up. I took some photos that I will attach to this report.  This is not a joke so please don't disregard this report.  I am not an alien fanatic or anything I'm a regular citizen trying to make a point..Thanks</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100894.html](http://www.nuforc.org/webreports/reports/100/S100894.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [402](http://www.nuforc.org/webreports/reports/164/S164352.html)
-- [401](http://www.nuforc.org/webreports/reports/164/S164302.html)
-- [400](http://www.nuforc.org/webreports/reports/164/S164260.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164255.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
