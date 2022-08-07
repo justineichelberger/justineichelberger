@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:35 on 7 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:39 on 7 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Deal (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Walking on the beach at night where one sees many flights going into New York City, I suddenly noticed some lights that were moving in an arc path - first up then down.  There was a white flickering light (at the rate of about 3 flickers per second) and a red light.  It came to a lower point in the arc, close to the ocean and stopped, as the white light went off.  Then the red light slowly lowered itself towards the ocean surface.  I could see the horizon in the dark and the light was lower than the horizon.  I was about 8 feet above sea level and stand 6 feet tall, so the light was much lower than 14 feet about the surface.  The red light went on and off a few times and finally disappeared.  I waited there for about 2 minutes but it did not come reappear.  No sounds were heard and the path seemed to perfectly graceful to be a helicopter like object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112290.html](http://www.nuforc.org/webreports/reports/112/S112290.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Boise (ID) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Headed  east bound on I84 at about 940am.  Saw 2 extremely bright orbs in the sky.  They were stationary.  On winked out in front of me.  After passing by some trees the other one disappeared.  The brightness of the objects was highly unusual.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158331.html](http://www.nuforc.org/webreports/reports/158/S158331.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [402](http://www.nuforc.org/webreports/reports/164/S164352.html)
-- [401](http://www.nuforc.org/webreports/reports/164/S164302.html)
-- [400](http://www.nuforc.org/webreports/reports/164/S164260.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164255.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
