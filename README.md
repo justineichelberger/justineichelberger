@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:34 on 7 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:42 on 7 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Shlangen (Germany) () reported seeing craft that fit the description of some 'Flash' over a period of approximately Trampoline - Trampoline minutes.</sub><blockquote><sub>Moving in the sky, a flash, then gone.My friend and i were looking at the stars on my trampoline.  As we watched, one was moving quick but too slow to be a meteor so we followed it and as we did it got bigger, turned out to flash bright in the sky then disappear!  We watched more, the other 6 just seemed to move but not flash.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77042.html](http://www.nuforc.org/webreports/reports/077/S77042.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Katy (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>My nine year old daulter and her friend came in the house telling me they just had seen this oval object with red lights in the middle flashing as it sped over thier head in front of them and then just vanished. They were really upset and shaken. They never mentioned the word ufo or space ship.The girls swore to me they did not make this up, and I made them draw a picture of what they saw. It was oval with red flashing lights in the middle.They then threw away the picture saying they hope to never see this sighting again. My daughter refused to sleep in her bed that night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13716.html](http://www.nuforc.org/webreports/reports/013/S13716.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [402](http://www.nuforc.org/webreports/reports/164/S164352.html)
-- [401](http://www.nuforc.org/webreports/reports/164/S164302.html)
-- [400](http://www.nuforc.org/webreports/reports/164/S164260.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164255.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
