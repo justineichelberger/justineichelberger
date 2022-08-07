@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:38 on 7 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:42 on 7 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Desert Center (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 20.00.00 - 20.00.00 minutes.</sub><blockquote><sub>2 air crafts moving from north to south not too fast I couldn't tell what shape they were but they were definitely on identifiable I work on a solar farm in desert center California and I know this is a military test flight zone but it was definitely strange and more than myself seen this</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101243.html](http://www.nuforc.org/webreports/reports/101/S101243.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Granada Hills (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Strobing craft over the San Fernando ValleyMy home is in the hills, looking south over the San Fernando valley in Los Angeles.  I have a 180 degree view of several miles from east to south to west.  I observed a source of light due west southwest, in the direction of point magu\Vandenberg Air Force base.  The craft was putting off a tremendous amount of strobing light, changing from red to green to blue and white.  It was magnitude -3 and about 15 degrees off the western horizon.  Viewed through medium power binoculars, I got the sense of a disc or diamond shape.  After cruising slowly to the north for approximately 15 minutes, the object abruptly disappeared.  After the craft disappeared, several helicopters, both police and civilian (or television) flew through the area.  As I often monitor aircraft approaching the area airports (LAX, Burbank and Van Nuys) from my balcony, I am familiar with just about every kind of aircraft, but this was something else -- something I've never seen in Los Angeles before.    I've seen craft while skywatching outside the city, but nothing like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30586.html](http://www.nuforc.org/webreports/reports/030/S30586.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [402](http://www.nuforc.org/webreports/reports/164/S164352.html)
-- [401](http://www.nuforc.org/webreports/reports/164/S164302.html)
-- [400](http://www.nuforc.org/webreports/reports/164/S164260.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164255.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
