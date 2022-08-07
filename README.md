@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:37 on 7 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:38 on 7 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Burbank (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>A large, bright, orange sphere, with a tail that was blue and greenI was sitting in my friend's car and we were parked by the side of the road.  When one friend who was sitting in the back seat on the driver's side looked up into the sky and pointed out what he thought was a shooting star.  As we look up, we see a blue and green tail on a large orange sphere that was very bright. it floated slowly across the sky for about 4 seconds then vanished into the distance. as soon as we see the orb disappear, two aircraft come flying close by where the orb once was. we were parked on a back road when we saw this. We are all males, 17, and active around the community.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91583.html](http://www.nuforc.org/webreports/reports/091/S91583.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Desert Center (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 20.00.00 - 20.00.00 minutes.</sub><blockquote><sub>2 air crafts moving from north to south not too fast I couldn't tell what shape they were but they were definitely on identifiable I work on a solar farm in desert center California and I know this is a military test flight zone but it was definitely strange and more than myself seen this</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101243.html](http://www.nuforc.org/webreports/reports/101/S101243.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [402](http://www.nuforc.org/webreports/reports/164/S164352.html)
-- [401](http://www.nuforc.org/webreports/reports/164/S164302.html)
-- [400](http://www.nuforc.org/webreports/reports/164/S164260.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164255.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
