@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:55 on 7 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:37 on 7 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Loveland (CO) reported seeing craft that fit the description of some 'Flash' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright flash of light for a few seconds in Loveland, CO.I was having a get-together with my family in Loveland, CO Saturday night. We were all sitting outside watching the sky because I told my family about the upcoming meteor shower. We noticed a couple of satellites flying by overhead that intrigued everyone. After a while I caught another one flying straight over-head so I pointed it out to the rest of us. We watched it zooming over for a minute when it flashed a light like it was shining a spotlight into our eyes which lasted for a few seconds then went dim again. We all freaked out about it and were talking up a storm about it. My brother who just got out of the Air Force flew satellites in Colorado Springs and was pretty sure that wasn't a satellite reflecting the sun back to us. It was a very strange event and I thought I should report it. I'm not sure who else has seen this same thing but I'm sure someone else had to of.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38541.html](http://www.nuforc.org/webreports/reports/038/S38541.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Evanston (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>I looked up and saw a streak of light and then it slowed down. I couldn't tell exactly how far away it was...but it didn't seem too far. It was traveling very slow like it was looking for something. I noticed that there were lights all around the side of the ship. It was kind of like a triangle with a broad side in the front going to a point in the back. The two front tips seemed to have two brighter lights then the rest. It moved real slow for about 15-20 seconds, and then streaked off to the North. It was so vivid in my memory that there is no way I just imagined it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18899.html](http://www.nuforc.org/webreports/reports/018/S18899.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [402](http://www.nuforc.org/webreports/reports/164/S164352.html)
-- [401](http://www.nuforc.org/webreports/reports/164/S164302.html)
-- [400](http://www.nuforc.org/webreports/reports/164/S164260.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164255.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
