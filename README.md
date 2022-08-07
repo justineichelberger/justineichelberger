@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:34 on 7 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:37 on 7 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Oceangate/Seaside Heights (NJ) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>a cresent-shaped ufo with 7 lights blinking hovering and then disapearingthree other witnesses and i saw a cresent shaped object hovering about a half to a mile high over a town called seaside heights, nj. the ufo was cresent-shaped. it had 7 flashing lights blinking in a pattern. all of the lights were different colors including white, blue, red, orange, and green. it drifted slowly to the left and down then disappeared abruptly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45593.html](http://www.nuforc.org/webreports/reports/045/S45593.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Hermiston (OR) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Silent lighted cigar floats over Eastern Oregon.At 4:39 am, I was walking around the paved trail in Riverfront Park on 23rd St in Hermiston, Oregon. It was still mostly dark but dawn was coloring the eastern horizon. I was rounding the extreme north side of the park trail, and happened to look up between the trees which framed the sky. My view into the sky at this point is facing west, northwest. The weather was clear, mid fifties and almost still wind. I saw a long lighted cigar shape floating silently from the west moving toward the east, northeast. It was completely silent. I could hear traffic from the freeways that the craft would have passed directly over. The long side of the cigar shape had lights running the length. These appeared to be square shaped, and for a moment I thought they may be windows. As it passed by, I noted that the lights changed, some brightness running up or down the length. I could not see any fixed interval. The lights were all white. I saw no bulges or projections either top or bottom of the lights. There was a darkish metal greyish silver cast to the edges of the cigar. I was hoping that as it passed by toward the increasing brightness of the dawn, that jt would silouette the shape. But as it passed toward the east, the leading end of the cigar angled away from me and the lights were no longer visible. The end view as it floated away was of something greyish matte metal color about the size of the end of a round broom handle. The object appeared to be floating.The object had no visible means of propulsion.The object left no trail and there was no distortion visible around it.No effects were visible below on the ground it passed over.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158253.html](http://www.nuforc.org/webreports/reports/158/S158253.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [402](http://www.nuforc.org/webreports/reports/164/S164352.html)
-- [401](http://www.nuforc.org/webreports/reports/164/S164302.html)
-- [400](http://www.nuforc.org/webreports/reports/164/S164260.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164255.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
