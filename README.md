@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:52 on 6 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:55 on 7 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in O'Fallon (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>3 glowing orange lights.. in controlled flight in triangle shape.  Flickered out but could still make out faint black objects in sky before disappearing.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120947.html](http://www.nuforc.org/webreports/reports/120/S120947.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Loveland (CO) reported seeing craft that fit the description of some 'Flash' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright flash of light for a few seconds in Loveland, CO.I was having a get-together with my family in Loveland, CO Saturday night. We were all sitting outside watching the sky because I told my family about the upcoming meteor shower. We noticed a couple of satellites flying by overhead that intrigued everyone. After a while I caught another one flying straight over-head so I pointed it out to the rest of us. We watched it zooming over for a minute when it flashed a light like it was shining a spotlight into our eyes which lasted for a few seconds then went dim again. We all freaked out about it and were talking up a storm about it. My brother who just got out of the Air Force flew satellites in Colorado Springs and was pretty sure that wasn't a satellite reflecting the sun back to us. It was a very strange event and I thought I should report it. I'm not sure who else has seen this same thing but I'm sure someone else had to of.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38541.html](http://www.nuforc.org/webreports/reports/038/S38541.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164241.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164524.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164251.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164253.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164315.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
