@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:25:58 on 7 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:05:22 on 7 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Los Banos (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>me and my friend and his girl friend and kid were driving back from San Fransicso to Fresno he was driving and I was at the passenger side while his girl friend and kid were in the back sleeping when he told me to look for that strange light I first though it's a pole but by the time we got closer I saw something in trainagle shape with 3 lights, then I took my camera to record it when it came so close so fast with no noise at all and shine at us then went far again and start to fly by us in our speed that was around 70-90 MPH then it flash at us again from far and disappeared, later on the video I saw 2 other flashing lights underneath it from far, you can see them so clear from second 48-50 in the video.  after that we got lost off the highway for like 30 min. and my phone were frozen, that happend on highway 152 after Los Banos right before highway 99.https://www.youtube.com/watch?v=ltWro2ZOXaM</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129325.html](http://www.nuforc.org/webreports/reports/129/S129325.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Detroit (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>The bright fire red object moved from West to Northeast for a duration of 4-5 minutes.  First thought it was a helicopter but it was FAR above the clouds.   Checked a weather station and the cloud ceiling was at 12,000.   Planes from the Detriot airport were visible on take-off and approach.  Object moved slowly across sky and grew dim and was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71538.html](http://www.nuforc.org/webreports/reports/071/S71538.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [402](http://www.nuforc.org/webreports/reports/164/S164352.html)
-- [401](http://www.nuforc.org/webreports/reports/164/S164302.html)
-- [400](http://www.nuforc.org/webreports/reports/164/S164260.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164255.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
