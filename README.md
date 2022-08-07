@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:52 on 7 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:06:51 on 7 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Winslow (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately 1:41 - 1:41 minutes.</sub><blockquote><sub>Odd oscillating white lights above Maine (Sighted in central Maine)At 12:41 AM est a white oscillating light was seen from Winslow, Maine, towards the southern sky towards south southeast.  The light started off very bright brighter than anything else in the sky.  During the sighting 2 commercial planes where spotted which seemed to be flying at a much higher altitude on a typical linear course.  Unlike the light that was spotted which seem to be doing circular, elliptical, as well as zig-zag patterns during its course. The light also began to change in brightness becoming as dim as the stars that surrounded. At 1:07 AM est a second light much dimmer than the first light was spotted towards the southeast which seemed be imitating the same patterns and behavior as the first light that was imitating.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82985.html](http://www.nuforc.org/webreports/reports/082/S82985.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Richardson (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 300.0 - 300.0 minutes.</sub><blockquote><sub>strobes int the sky over dallas ... many saw .many shocked.....three ufo spotted above in triangular pattern .. one dissapeared for five min then came back all with yellow,red,green, blue strobe effect..followed by two streaks across the sky within ten min of each other..shape unkown...but strobe would stop look like a star then all of a sudden start up again getting faster...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24245.html](http://www.nuforc.org/webreports/reports/024/S24245.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [402](http://www.nuforc.org/webreports/reports/164/S164352.html)
-- [401](http://www.nuforc.org/webreports/reports/164/S164302.html)
-- [400](http://www.nuforc.org/webreports/reports/164/S164260.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164255.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
