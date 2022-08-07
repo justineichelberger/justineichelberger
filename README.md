@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:39 on 7 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:41 on 7 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Boise (ID) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Headed  east bound on I84 at about 940am.  Saw 2 extremely bright orbs in the sky.  They were stationary.  On winked out in front of me.  After passing by some trees the other one disappeared.  The brightness of the objects was highly unusual.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158331.html](http://www.nuforc.org/webreports/reports/158/S158331.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Moses Lake (WA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I woke up about 3:50am.  Went outside to look at the stars.  I looked up and to my amazement there was a flying object that looked like a LED oblong light. Really high in the air, not as high as the stars, but seemed like it.  No sound that I could tell was from the object.  I saw it moving SW to NE. I ran in to get my camera, but it was too dark to take a picture, couldn't find the binoculars... So ran back out and it was still moving across the sky.  My husband was telling one of his customers about it and he was up getting ready for work, and saw it too.  Can't imagine what it was.  Maybe military...?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158305.html](http://www.nuforc.org/webreports/reports/158/S158305.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [402](http://www.nuforc.org/webreports/reports/164/S164352.html)
-- [401](http://www.nuforc.org/webreports/reports/164/S164302.html)
-- [400](http://www.nuforc.org/webreports/reports/164/S164260.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164255.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
