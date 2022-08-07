@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:37 on 7 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:42:20 on 7 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Evanston (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>I looked up and saw a streak of light and then it slowed down. I couldn't tell exactly how far away it was...but it didn't seem too far. It was traveling very slow like it was looking for something. I noticed that there were lights all around the side of the ship. It was kind of like a triangle with a broad side in the front going to a point in the back. The two front tips seemed to have two brighter lights then the rest. It moved real slow for about 15-20 seconds, and then streaked off to the North. It was so vivid in my memory that there is no way I just imagined it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18899.html](http://www.nuforc.org/webreports/reports/018/S18899.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Old Orchard Beach (ME) reported seeing craft that fit the description of some 'Cross' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>A florescent orange glowing cross shaped craft with glowing yellow aura moving slowly across the sky low altitudeA friend pointed out an neon orange light in the sky rising with a yellow aura around it. We were located on mid East Grand Ave.  It appeared to rise up above a motel on the beach and had not come into view from across the sky.  At first it looked like a rather large glowing "glob" so to speak, until it got closer and was a little higher in the sky. At first sighting there was no specific shape to it.  I thought it might be a flare but as it gained altitude and came over us it took the shape of a cross, more so in the shape of a Christian Style Cross.  The cigar shaped structure that may have represented the belly was rounded at both ends, the cross structure that may have represented wings on a regular aircraft were too short to be wings of an aircraft and also were rounded on the ends. The glow was so florescent you could not tell if there was anything above it, such as height to the craft. My friend said if it's an airplane than it's on fire.  We both noted there were no lights flashing as there would be on a passing aircraft. I'm not sure of the speed but it did not travel as fast as a jet, it made no sound and appeared to be lower in the sky than a passing aircraft would be.  It almost seemed to be floating and the yellow aura around it was clear and the whole unit was glowing.  I watched it as it went over us heading north towards the Pine Point Area. About time it was in the Pine Point area it seemed to become a small ball of light and was gone. As this sighting was occurring, an aircraft was passing over head which made it very apparent to us that what we had just seen was not an aircraft. Not sure if the aircraft coming after the sighting was checking out this craft as it came shortly after this craft passed over us, I'd say within 3 mins of our sighting. Not sure if this plane was commercial or military as it flew low in the sky, was not a jet, and appeared to be heading in same direction as the object and also at! low altitude. We had a camera inside but didn't think to go i! t as we could not believe what we were seeing and wanted to watch and see what happened.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91578.html](http://www.nuforc.org/webreports/reports/091/S91578.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [402](http://www.nuforc.org/webreports/reports/164/S164352.html)
-- [401](http://www.nuforc.org/webreports/reports/164/S164302.html)
-- [400](http://www.nuforc.org/webreports/reports/164/S164260.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164255.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
