@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:51 on 8 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:26 on 8 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Kingsbury (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>silent orange globe of unknown origin.We saw an orange colored ball in the sky last night; I do not know what it was. I have never seen anything like it before. It was around 9PM (not sure of the exact time), the weather was cool and clear.It hovered about 40 feet in the air, as I walked closer to it, it moved away in a slightly arched line and disappeared behind the trees .I stared directly at it for at least 20 seconds; I could not make out any solid shapes or apparent structure. It appeared, to me, to be a hovering ball of light.The silence was strange, even as it moved up and away, it made no noise whatsoever.It also traveled very quickly, covering 200+ yards and gaining enough altitude to easily clear the tree line in a matter of 2 or 3 seconds.I am small business owner- 37, my wife is a nurse- 38, our son is a junior in high school-15 and our niece is an adult student- 21…we are normal, functioning members in our community.All of us saw this object quite clearly and were a bit shaken by the whole experience.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65612.html](http://www.nuforc.org/webreports/reports/065/S65612.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in West Jordan (UT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>It looked like a giant kite or glider, it looked like a flock of birds but birds don't fly around at this time. We saw about 3 of them at different times.  One was going towards the stars then disappeared and then it was really close to us, and then again we saw the same shape flying higher above us.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158300.html](http://www.nuforc.org/webreports/reports/158/S158300.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [509](http://www.nuforc.org/webreports/reports/164/S164272.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164264.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164384.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164554.html)
-- [505](http://www.nuforc.org/webreports/reports/164/S164257.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
