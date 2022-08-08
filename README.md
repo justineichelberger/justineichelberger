@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:41 on 8 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:42 on 8 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Nashville (TN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>On August 8 in Nashville TN at around 7:50 to 8:20 pm I and 4 other people saw 2 black dots/spheres in the air. They were far but in the beginning could easily be seen with the naked eye, after about 20 minutes though the two spheres had drifted further to the point that is was hard to see with naked eye but relatively easy with binoculars. The objects were moving west at a very slow pace and were passing through clouds every couple of minutes. In the picture I took with my phone the objects look almost touching because of the quality of the photo but with the binoculars it is very clear that the two spheres are not touching but floating parallel with a little bit of distance between them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158330.html](http://www.nuforc.org/webreports/reports/158/S158330.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Reidsville (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Triangle object over field, 30 ft from ground, also saw being from this sightingThis event occured one night while I was babysitting for my 3 yr old cousin.  About 10:10, I was on the phone with a friend and went outside onto the porch, which is 12 ft or so off the ground. In just a few minutes, I saw this triangle shaped pbject moving over the field by the house.  It was about 30 feet away from me, about eye level, due to the bank that drops about 10 ft below the driveway. It was dark in color, black?, and had orangy yellow lights that flashed in a pattern, but not sequentially.  It was moving at approximatley 5 mph, and made no sound.  I told my friend that I had to go, but would call her back when it was gone. At this point, a blue?white light came from the bottom, and that's all I remembered at the time. 2 hours are unaccounted for, but I have remembered a few things.  One is an odd black box, and I was shown what was inside but am not allowed to remember what it was at this time.  The being that I saw that night is the same one I have been seeing since childhood, and even though he has told me his name, I can't say it or spell it.  I also reported this incident to MUFON at the time it occurred, but never got a reply.  This is not the only experience I have had, but it was the most awsome.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22722.html](http://www.nuforc.org/webreports/reports/022/S22722.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [509](http://www.nuforc.org/webreports/reports/164/S164272.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164264.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164384.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164554.html)
-- [505](http://www.nuforc.org/webreports/reports/164/S164257.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
