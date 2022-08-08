@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:38 on 8 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:41 on 8 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Sandy (suburb of SLC) (UT) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Cigar-shaped object hovering over mountains East of Sandy, UTMy friend & I witnessed a white, cigar-shaped object that hovered over the high Wasatch mountains east of Sandy, UT.  It hovered, motionless, then moved (slowly) north.  It stopped & started, moving slowly, before appearing to drop behind the mountains (into what is a wilderness area).  No sound.  No wings.  No lights (even though at the brink of night).  Not moving--until it did.  When it turned, the setting sun glinted, briefly, off the object.  From our vantage point, the object was about the size of a very large grain of rice.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129125.html](http://www.nuforc.org/webreports/reports/129/S129125.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Ferndale (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>went out back then saw space station with another trailing it i honestly cant remember exact time approx. 5 min later I saw another satellite pass.so at first there was two then 5 min later 1 more.  It really appeared that with the first two the one slightly behind the first was tracking the first one.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Japanese HTV-4 craft flying close to the ISS.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101012.html](http://www.nuforc.org/webreports/reports/101/S101012.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [509](http://www.nuforc.org/webreports/reports/164/S164272.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164264.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164384.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164554.html)
-- [505](http://www.nuforc.org/webreports/reports/164/S164257.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
