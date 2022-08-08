@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:29:21 on 8 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:12:07 on 8 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Milwaukie (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>small reddish light following the space station very closely behindI was finishing watering our back yard and saw the space station, I had seen it before about 1 1/2 months ago so I have seen it before.  I saw it moving from the southwest to the northeast right over the top of our house, and a small reddish light following behind at about the same speed.  when I saw this space station a month and a half ago there was also a small reddish light at that time but it was farther away and to the side (north) from my point of view, but this time it was right behind and a lot closer.((NUFORC Note:  Japanese HTV-4 craft flying close to the ISS.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100927.html](http://www.nuforc.org/webreports/reports/100/S100927.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Raeford (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Driving into Raeford from Southern Pines, looked to our left and over Fort Bragg, we observed 3 pinkish/red lights in triangle formation.  They were streaking towards earth for approximately 3 seconds, and abruptly "winked out," i.e. disappeared.  We observed no noise and no smoke.  These lights were moving very quickly towards earth.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121021.html](http://www.nuforc.org/webreports/reports/121/S121021.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [509](http://www.nuforc.org/webreports/reports/164/S164272.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164264.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164384.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164554.html)
-- [505](http://www.nuforc.org/webreports/reports/164/S164257.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
