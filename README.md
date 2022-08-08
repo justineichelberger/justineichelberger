@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:02:34 on 8 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:41 on 8 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Curious to know what is going on.I live in Portland, OR and since the begining of summer I have noticed strange things in the skies at night. Almost nightly there are bright glowing orbs that are orange/ white in color.  They are stationary until just before dawn.  I have personally witnessed one raise from below to the tree line rapidly moving vertical until it was positioned close to the moon, and there it stays. Naturally I know its not by the moon but it's relation to the moon's position in the sky is strange. It isn't a star or jupiter as my friend tried to explain.  I dont know what it is and the pictures I have taken arent very good quality but they are pictures of what I am describing and feel free to check it out. I would like to know what it is.  I took these throughout the month of August and September 2012.  All the photos are taken from the West Facing East early Am before the sun comes up.((NUFORC Note:  Witness elects to remain totally anonymous, but provides contact information.  PD))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92860.html](http://www.nuforc.org/webreports/reports/092/S92860.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Nashville (TN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>On August 8 in Nashville TN at around 7:50 to 8:20 pm I and 4 other people saw 2 black dots/spheres in the air. They were far but in the beginning could easily be seen with the naked eye, after about 20 minutes though the two spheres had drifted further to the point that is was hard to see with naked eye but relatively easy with binoculars. The objects were moving west at a very slow pace and were passing through clouds every couple of minutes. In the picture I took with my phone the objects look almost touching because of the quality of the photo but with the binoculars it is very clear that the two spheres are not touching but floating parallel with a little bit of distance between them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158330.html](http://www.nuforc.org/webreports/reports/158/S158330.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [509](http://www.nuforc.org/webreports/reports/164/S164272.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164264.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164384.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164554.html)
-- [505](http://www.nuforc.org/webreports/reports/164/S164257.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
