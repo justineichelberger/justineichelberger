@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:36 on 8 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:48 on 8 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Lewisville (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>In cloudless blue sky observed dark orange sphere following a plane and then it disappeared into thin airMy husband and I came out of a restaurant after dinner and as we were crossing the parking lot a flock of black birds flew near us. I glanced up at them and observed MUCH higher in the cloudless blue sky a jet plane (we are in the Dallas area so there are LOTS of planes). Hundreds of yards behind it a dark orange sphere was following it. At first I thought maybe it was one of those advertising signs that planes drag but then I realized there was no apparent wire and of course, why just a ball and no words? I pointed it out to my husband and just as I was trying to get him to see where it was it just disappeared into thin air. The plane continued on its way. Maybe what I saw was a child's balloon and it just popped right after I saw it but then why was the motion in perfect rhythm with the plane?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51592.html](http://www.nuforc.org/webreports/reports/051/S51592.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Huntsville (AL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Disc shape 3 green lights with odd movement.It was dark disc shaped craft, had 3 green lights on the bottom, and one really big white glowing light on the back.  It moved away from me, towards me, and straight up into the sky, all within a matter of a minute.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135608.html](http://www.nuforc.org/webreports/reports/135/S135608.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [509](http://www.nuforc.org/webreports/reports/164/S164272.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164264.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164384.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164554.html)
-- [505](http://www.nuforc.org/webreports/reports/164/S164257.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
