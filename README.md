@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:04:22 on 8 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:35 on 8 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Eden (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Unusual bright zig-zagging lights in the Eden, North Collins NY sky.While trying to get my humidity swollen porch door shut A bright white light in the sky caught my eye. It was a good distance away. It was probably twice the size of the largest star. The craft was hovering for a good 5 minutes in a erratic fashion. It was like it was struggling to stay in one place. I could see blue strobe type lights around the horizontal perimeter of the craft. Then near the bottom of the craft (about the lower third) of the craft, I could see orange/pink glowing.These did not strobe, but they did appear to increase and decrease in intensity. Next, a second craft appeared, and although difficult to see through the trees, appeared identical to the first craft. Suddenly, they began to speed up and for the next 5 minutes approx, they began zig-zagging up, down, with great acceleration. It was almost like they were chasing each other for fun. Next I heard a jet engine, but it wasn't coming from the crafts. A jet began flying toward them. Next, the 2 crafts appeared to merge into 1 craft. As the jet got closer, the single craft appeared to accelerate downward and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65105.html](http://www.nuforc.org/webreports/reports/065/S65105.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Boise (ID) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>UFO BOISE IDAhO 8/8/2020 between 8:30-9:30 p.m.We saw a stationary white object that looked round through our biloculars and it appeared to be catching the sun so it was very metallic and hard to tell what it was.   After 15 minutes of it not moving, we got out our more powerful spotting scope out and was able to zoom in on the object very clearly.    It was semi round and had two rows of lights.   The lights started at the top left and right and curved down towards the bottom.   Very distinctively. We called our neighbor over to see if he had seen anything like it and he was surprised at the clarity and unusual object.   It was very distinctive that the lights on it was not sun reflections as the sun went down and it was very clear.   We are in SE Boise Idaho and sitting on our patio, which faced North.    once it was dark, it disappeared.    We observed it for a good hour,    We had also called the local news station, Channel 7; and left a recording around 9:00 pm hoping to see if further equipment might be able to zoom in closer. We hav t heard back, nothing on the 10:00 news so we will see if anything further develops tomorrow.     We did not have the ability to take a picture of the zoomed in object clearly defined thru the spotting scope, unfortunately, but we could definitely draw it.   The object was less  clear through binoculars and only looked like a round metallic object, reflected by the sun.   it was just a tiny stationary white object in the sky by naked eye.   The spotting scope was amazingly telling as to what we were seeing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158312.html](http://www.nuforc.org/webreports/reports/158/S158312.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [509](http://www.nuforc.org/webreports/reports/164/S164272.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164264.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164384.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164554.html)
-- [505](http://www.nuforc.org/webreports/reports/164/S164257.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
