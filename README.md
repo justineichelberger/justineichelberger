@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:39 on 8 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:53 on 8 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Fort Davis (TX) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>green fireball sightings in TexasMy husband and l were sitting out on the back deck of our mountain vacation cabin (a VERY remote area in the Davis Mountains, just south of the McDonald Observatory) watching for the Perseids meteor showers last August.  We saw some meteors in the north sky, then an odd thing happened. A green "fireball" appeared, very low in the western sky (to our left) and moved slowly- horizontally-from north to south.  We lost sight of it as we were on the north end of the cabin and it was moving in the other direction. We at first thought it was part of the meteor shower, but the direction, color, and seemingly languid movement seemed unlike any other meteors we have seen in these darkTexas skies in the past. ls this an unusual phenomenon? My son and l saw another green "fireball" object on Dec. 31, 1995 on a dark, rural country road in east Texas (near Tyler's Lake Palestine).  This object  also moved horizontally and slowly in front of us; there were 2 other cars in front of us who had stopped to view this object so l assume that it was a strange event for them, as well!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62343.html](http://www.nuforc.org/webreports/reports/062/S62343.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1994, an anonymous witness in McCall (ID) reported seeing craft that fit the description of some '' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>When I was about 15, living in my parents home, I awoke in the middle of the night and noticed a fluorescent yellow/green light emanating from below the horizon of my bed.  I slowly lifted my head to locate the source of the light.  (My bed was about 25"-30" tall) upon lifting my head I could immediately make out a circular, smooth glowing surface no less than 12" from my bedside.   I kept lifting my head and body to reveal more of it.  Next which came into view was the points of 2 diagonally set, polished, obsidian-like, Large eyes.  It did not move.  It however was emanating a yellow green glow which initially caught my attention.  (Something I am yet to hear elsewhere in reports)  I lifted my head just enough to see half of the eyes and remember the book/movie, Communion, and immediately recognized it as the grays they sleek of.  I immediately panicked and covered me head and 'played dead' for what seemed  like hours, till I eventually drifted off to sleep.  I have considered this to be hypnagogic hallucinations but the sheer terror, I felt with adrenaline pumping.  I would have certainly been awake.  It was absolutely not a dream.  It was there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134172.html](http://www.nuforc.org/webreports/reports/134/S134172.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [509](http://www.nuforc.org/webreports/reports/164/S164272.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164264.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164384.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164554.html)
-- [505](http://www.nuforc.org/webreports/reports/164/S164257.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
