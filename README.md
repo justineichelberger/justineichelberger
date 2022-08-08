@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:26 on 8 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:42:41 on 8 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in West Jordan (UT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>It looked like a giant kite or glider, it looked like a flock of birds but birds don't fly around at this time. We saw about 3 of them at different times.  One was going towards the stars then disappeared and then it was really close to us, and then again we saw the same shape flying higher above us.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158300.html](http://www.nuforc.org/webreports/reports/158/S158300.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Chino (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 50.0 - 50.0 minutes.</sub><blockquote><sub>Bright unusual light, revisedA few days ago I reported a possible sighting.  However,  after doing some research,  I found out that the bright light may have been venues!Lol.Sorry about that.Thank you for having this website available, it's very helpful, informative and very interesting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135644.html](http://www.nuforc.org/webreports/reports/135/S135644.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [509](http://www.nuforc.org/webreports/reports/164/S164272.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164264.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164384.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164554.html)
-- [505](http://www.nuforc.org/webreports/reports/164/S164257.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
