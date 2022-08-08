@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:44 on 8 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:38 on 8 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Coeur d'Alene (ID) reported seeing craft that fit the description of some 'Circle' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>HTV4 following ISS on 08AUG13 Spokane WA/Coeur d;Alene, IDHTV4 (Russian Craft) following, to dock,  the International Space Station (ISS)  NASA site for ISS & HTV4 flight Schedule  http://spotthestation.nasa.gov/sightings/view.cfm?country=United_States&region=Idaho&city=Coeur_d_Alene#.UgR8eBY6-kU The craft following the ISS was not an UFO - it is identified.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100931.html](http://www.nuforc.org/webreports/reports/100/S100931.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Sandy (suburb of SLC) (UT) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Cigar-shaped object hovering over mountains East of Sandy, UTMy friend & I witnessed a white, cigar-shaped object that hovered over the high Wasatch mountains east of Sandy, UT.  It hovered, motionless, then moved (slowly) north.  It stopped & started, moving slowly, before appearing to drop behind the mountains (into what is a wilderness area).  No sound.  No wings.  No lights (even though at the brink of night).  Not moving--until it did.  When it turned, the setting sun glinted, briefly, off the object.  From our vantage point, the object was about the size of a very large grain of rice.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129125.html](http://www.nuforc.org/webreports/reports/129/S129125.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [509](http://www.nuforc.org/webreports/reports/164/S164272.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164264.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164384.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164554.html)
-- [505](http://www.nuforc.org/webreports/reports/164/S164257.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
