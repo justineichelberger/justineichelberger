@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:42 on 8 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:04:40 on 8 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Reidsville (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Triangle object over field, 30 ft from ground, also saw being from this sightingThis event occured one night while I was babysitting for my 3 yr old cousin.  About 10:10, I was on the phone with a friend and went outside onto the porch, which is 12 ft or so off the ground. In just a few minutes, I saw this triangle shaped pbject moving over the field by the house.  It was about 30 feet away from me, about eye level, due to the bank that drops about 10 ft below the driveway. It was dark in color, black?, and had orangy yellow lights that flashed in a pattern, but not sequentially.  It was moving at approximatley 5 mph, and made no sound.  I told my friend that I had to go, but would call her back when it was gone. At this point, a blue?white light came from the bottom, and that's all I remembered at the time. 2 hours are unaccounted for, but I have remembered a few things.  One is an odd black box, and I was shown what was inside but am not allowed to remember what it was at this time.  The being that I saw that night is the same one I have been seeing since childhood, and even though he has told me his name, I can't say it or spell it.  I also reported this incident to MUFON at the time it occurred, but never got a reply.  This is not the only experience I have had, but it was the most awsome.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22722.html](http://www.nuforc.org/webreports/reports/022/S22722.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Rockport (ME) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Was laying in the grass outside my backyard and noticed an orangish orb moving south east between Liconville and Camden. The orb then made a 90° turn towards the ocean for about maybe 5-10miles(10-30 seconds). It stopped. The orb turned white and faded straight up from its last location. No sound. 5-15 minutes later a meteor shot down over Camden and Rockport. The object was 100s if not 1000s of feet higher in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158354.html](http://www.nuforc.org/webreports/reports/158/S158354.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [509](http://www.nuforc.org/webreports/reports/164/S164272.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164264.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164384.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164554.html)
-- [505](http://www.nuforc.org/webreports/reports/164/S164257.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
