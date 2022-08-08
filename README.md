@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:14:25 on 8 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:02:34 on 8 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Dayton (OH) reported seeing craft that fit the description of some '' over a period of approximately 24.0 - 24.0 minutes.</sub><blockquote><sub>In past reported there black holethen did things in space I told on but TSA security concerns June file 9th is needed 1 on earth 2018 seen then space in front of sun as a cimbole as I'm a star or sun 2 also the ring of fire eclipse years ago information then in space photos of black hole and fire all around nasa has the photos and you were to get why it happened</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164384.html](http://www.nuforc.org/webreports/reports/164/S164384.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Curious to know what is going on.I live in Portland, OR and since the begining of summer I have noticed strange things in the skies at night. Almost nightly there are bright glowing orbs that are orange/ white in color.  They are stationary until just before dawn.  I have personally witnessed one raise from below to the tree line rapidly moving vertical until it was positioned close to the moon, and there it stays. Naturally I know its not by the moon but it's relation to the moon's position in the sky is strange. It isn't a star or jupiter as my friend tried to explain.  I dont know what it is and the pictures I have taken arent very good quality but they are pictures of what I am describing and feel free to check it out. I would like to know what it is.  I took these throughout the month of August and September 2012.  All the photos are taken from the West Facing East early Am before the sun comes up.((NUFORC Note:  Witness elects to remain totally anonymous, but provides contact information.  PD))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92860.html](http://www.nuforc.org/webreports/reports/092/S92860.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [509](http://www.nuforc.org/webreports/reports/164/S164272.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164264.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164384.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164554.html)
-- [505](http://www.nuforc.org/webreports/reports/164/S164257.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
