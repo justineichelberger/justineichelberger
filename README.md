@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:48 on 8 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:14:25 on 8 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Huntsville (AL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Disc shape 3 green lights with odd movement.It was dark disc shaped craft, had 3 green lights on the bottom, and one really big white glowing light on the back.  It moved away from me, towards me, and straight up into the sky, all within a matter of a minute.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135608.html](http://www.nuforc.org/webreports/reports/135/S135608.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Dayton (OH) reported seeing craft that fit the description of some '' over a period of approximately 24.0 - 24.0 minutes.</sub><blockquote><sub>In past reported there black holethen did things in space I told on but TSA security concerns June file 9th is needed 1 on earth 2018 seen then space in front of sun as a cimbole as I'm a star or sun 2 also the ring of fire eclipse years ago information then in space photos of black hole and fire all around nasa has the photos and you were to get why it happened</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164384.html](http://www.nuforc.org/webreports/reports/164/S164384.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [509](http://www.nuforc.org/webreports/reports/164/S164272.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164264.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164384.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164554.html)
-- [505](http://www.nuforc.org/webreports/reports/164/S164257.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
