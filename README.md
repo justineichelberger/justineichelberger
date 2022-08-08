@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:38 on 8 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:42 on 8 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Commack (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Strange flying circles with bright green lightsAt approximately 10:30 pm I felt the entire house start to vibrate initially I thought it was a tractor trailer because we live next to a main highwa, but as the vibrating intensified.  I stood up and ran out my front door and looked up to see two circle shaped flying objects with extremely bright green lights flashing green lights.  The objects seemed to be flying in a downward angle and also my looked connected to each other or flying extremely close together.  At this point, phone in hand to shocked to even think to record I yelled out at the top of my lungs WTF IS THAT.  Following extremely close to the objects was a black or dark colored helicopter after the initial event three more large black helicopters came following in the same direction.  I’m Not saying I just witnessed a U.F.O, but whatever I just saw was extremely strange and the fact that 4 large black helicopters were following it made it even stranger.  So I leave you with this WTF DID I JUAT SEE !!!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158320.html](http://www.nuforc.org/webreports/reports/158/S158320.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Dayton (OH) reported seeing craft that fit the description of some '' over a period of approximately 24.0 - 24.0 minutes.</sub><blockquote><sub>In past reported there black holethen did things in space I told on but TSA security concerns June file 9th is needed 1 on earth 2018 seen then space in front of sun as a cimbole as I'm a star or sun 2 also the ring of fire eclipse years ago information then in space photos of black hole and fire all around nasa has the photos and you were to get why it happened</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164384.html](http://www.nuforc.org/webreports/reports/164/S164384.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [509](http://www.nuforc.org/webreports/reports/164/S164272.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164264.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164384.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164554.html)
-- [505](http://www.nuforc.org/webreports/reports/164/S164257.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
