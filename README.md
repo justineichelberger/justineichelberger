@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:41 on 8 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:39 on 8 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Ferndale (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>went out back then saw space station with another trailing it i honestly cant remember exact time approx. 5 min later I saw another satellite pass.so at first there was two then 5 min later 1 more.  It really appeared that with the first two the one slightly behind the first was tracking the first one.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Japanese HTV-4 craft flying close to the ISS.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101012.html](http://www.nuforc.org/webreports/reports/101/S101012.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1982, an anonymous witness in Townsen (MT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>spotlights outlining two large cloud formations. Blinked on and off in syncrony. At least 30 of themIt is wierd to recall this because at the time it starteld me and I was just in a hurry to get out of the area. I don't beleive it was little green men or anything supernatural, but I would like to know what it was..as in maybe it was a military maneuver?I was traveling late in the day to Bozeman Montana from Great Falls, Montana. I was driving my car alone on a single lane highway and upon ariving on the crest of a hill top I could see that for many many miles no other cars or houses were present. I felt quite alone just then. Then above me I saw two large cloud formations directly above the road that were outlined by many dozens of spot lights in a near perfect distance from one another surrounding both clouds. It looked as if helocopters were hiding behind the clouds.  The moon light was just so that I could see the clouds even before the spot lights came on. Then just as suddenly they blinked off while I continued on my way frieghtened by what I had seen. I have been curious for more than 22 years, but never thought that strongly about those lights. Can you tell me if anyone else may have seen something like this?((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43829.html](http://www.nuforc.org/webreports/reports/043/S43829.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [509](http://www.nuforc.org/webreports/reports/164/S164272.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164264.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164384.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164554.html)
-- [505](http://www.nuforc.org/webreports/reports/164/S164257.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
