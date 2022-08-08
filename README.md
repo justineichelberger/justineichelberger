@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:35 on 8 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:39 on 8 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Boise (ID) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>UFO BOISE IDAhO 8/8/2020 between 8:30-9:30 p.m.We saw a stationary white object that looked round through our biloculars and it appeared to be catching the sun so it was very metallic and hard to tell what it was.   After 15 minutes of it not moving, we got out our more powerful spotting scope out and was able to zoom in on the object very clearly.    It was semi round and had two rows of lights.   The lights started at the top left and right and curved down towards the bottom.   Very distinctively. We called our neighbor over to see if he had seen anything like it and he was surprised at the clarity and unusual object.   It was very distinctive that the lights on it was not sun reflections as the sun went down and it was very clear.   We are in SE Boise Idaho and sitting on our patio, which faced North.    once it was dark, it disappeared.    We observed it for a good hour,    We had also called the local news station, Channel 7; and left a recording around 9:00 pm hoping to see if further equipment might be able to zoom in closer. We hav t heard back, nothing on the 10:00 news so we will see if anything further develops tomorrow.     We did not have the ability to take a picture of the zoomed in object clearly defined thru the spotting scope, unfortunately, but we could definitely draw it.   The object was less  clear through binoculars and only looked like a round metallic object, reflected by the sun.   it was just a tiny stationary white object in the sky by naked eye.   The spotting scope was amazingly telling as to what we were seeing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158312.html](http://www.nuforc.org/webreports/reports/158/S158312.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Fort Davis (TX) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>green fireball sightings in TexasMy husband and l were sitting out on the back deck of our mountain vacation cabin (a VERY remote area in the Davis Mountains, just south of the McDonald Observatory) watching for the Perseids meteor showers last August.  We saw some meteors in the north sky, then an odd thing happened. A green "fireball" appeared, very low in the western sky (to our left) and moved slowly- horizontally-from north to south.  We lost sight of it as we were on the north end of the cabin and it was moving in the other direction. We at first thought it was part of the meteor shower, but the direction, color, and seemingly languid movement seemed unlike any other meteors we have seen in these darkTexas skies in the past. ls this an unusual phenomenon? My son and l saw another green "fireball" object on Dec. 31, 1995 on a dark, rural country road in east Texas (near Tyler's Lake Palestine).  This object  also moved horizontally and slowly in front of us; there were 2 other cars in front of us who had stopped to view this object so l assume that it was a strange event for them, as well!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62343.html](http://www.nuforc.org/webreports/reports/062/S62343.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [509](http://www.nuforc.org/webreports/reports/164/S164272.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164264.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164384.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164554.html)
-- [505](http://www.nuforc.org/webreports/reports/164/S164257.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
