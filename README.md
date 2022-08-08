@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:53 on 8 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:38 on 8 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1994, an anonymous witness in McCall (ID) reported seeing craft that fit the description of some '' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>When I was about 15, living in my parents home, I awoke in the middle of the night and noticed a fluorescent yellow/green light emanating from below the horizon of my bed.  I slowly lifted my head to locate the source of the light.  (My bed was about 25"-30" tall) upon lifting my head I could immediately make out a circular, smooth glowing surface no less than 12" from my bedside.   I kept lifting my head and body to reveal more of it.  Next which came into view was the points of 2 diagonally set, polished, obsidian-like, Large eyes.  It did not move.  It however was emanating a yellow green glow which initially caught my attention.  (Something I am yet to hear elsewhere in reports)  I lifted my head just enough to see half of the eyes and remember the book/movie, Communion, and immediately recognized it as the grays they sleek of.  I immediately panicked and covered me head and 'played dead' for what seemed  like hours, till I eventually drifted off to sleep.  I have considered this to be hypnagogic hallucinations but the sheer terror, I felt with adrenaline pumping.  I would have certainly been awake.  It was absolutely not a dream.  It was there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134172.html](http://www.nuforc.org/webreports/reports/134/S134172.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Commack (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Strange flying circles with bright green lightsAt approximately 10:30 pm I felt the entire house start to vibrate initially I thought it was a tractor trailer because we live next to a main highwa, but as the vibrating intensified.  I stood up and ran out my front door and looked up to see two circle shaped flying objects with extremely bright green lights flashing green lights.  The objects seemed to be flying in a downward angle and also my looked connected to each other or flying extremely close together.  At this point, phone in hand to shocked to even think to record I yelled out at the top of my lungs WTF IS THAT.  Following extremely close to the objects was a black or dark colored helicopter after the initial event three more large black helicopters came following in the same direction.  I’m Not saying I just witnessed a U.F.O, but whatever I just saw was extremely strange and the fact that 4 large black helicopters were following it made it even stranger.  So I leave you with this WTF DID I JUAT SEE !!!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158320.html](http://www.nuforc.org/webreports/reports/158/S158320.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [509](http://www.nuforc.org/webreports/reports/164/S164272.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164264.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164384.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164554.html)
-- [505](http://www.nuforc.org/webreports/reports/164/S164257.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
