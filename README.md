@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:47 on 8 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:44 on 8 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Pikesville (MD) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Round circular arial craft flying in airRound circular object flying in air, too big to be ballon, moved at a moderate speed. Never have seen an object flying in the air such as this.  Most def was not a plane or helicopter, or any type of balloon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158336.html](http://www.nuforc.org/webreports/reports/158/S158336.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Coeur d'Alene (ID) reported seeing craft that fit the description of some 'Circle' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>HTV4 following ISS on 08AUG13 Spokane WA/Coeur d;Alene, IDHTV4 (Russian Craft) following, to dock,  the International Space Station (ISS)  NASA site for ISS & HTV4 flight Schedule  http://spotthestation.nasa.gov/sightings/view.cfm?country=United_States&region=Idaho&city=Coeur_d_Alene#.UgR8eBY6-kU The craft following the ISS was not an UFO - it is identified.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100931.html](http://www.nuforc.org/webreports/reports/100/S100931.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [509](http://www.nuforc.org/webreports/reports/164/S164272.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164264.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164384.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164554.html)
-- [505](http://www.nuforc.org/webreports/reports/164/S164257.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
