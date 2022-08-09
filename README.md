@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:01:07 on 9 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:36 on 9 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Schofield Barracks (HI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Light/object moves through constellation Scorpius and then disappearsMy husband and I were laying on our hammock at about 9:15pm on 9Aug12, looking at the stars and learning the constellations with a cell phone application.  We had already been star gazing for 15-20 minutes or so, and we were looking at the constellation Scorpius (to our South-West I believe). All of a sudden, a light (just like a star) was moving through Scorpius at a steady pace (which must have been very quickly, because this light/object was so far away, it seemed like a star moving). I pointed to the light/object moving through the constellation we were looking at, and my husband confirmed that he saw it too.  We were silent as we watched it move, and within 8-10 seconds the light/object slowly faded from existence.  We looked at each other wide-eyed, and then stared back at the area of sky around Scorpius for another 5 minutes and never saw it again.The light/object covered about the distance of 6 inches across the sky before it started fading and eventually disappeared.  The light/object moved in exactly a straight direction, and as it disappeared it was still moving in the same straight direction.It was a cloudless night until after midnight, so the light/object didn’t disappear behind clouds. My husband is Army and has been on multiple types of helicopters.  It was unlike a shooting star, meteor, helicopter, jet, commercial airliner we’ve seen, and we’ve seen all types of aircraft on Oahu; this wasn’t one of them.  This light/object was simply too far away to be an aircraft of ours – this was in space. The light/object moved at a constant speed, slower than a shooting star.  It was definitely an object or vehicle, not a shooting star or meteor.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91673.html](http://www.nuforc.org/webreports/reports/091/S91673.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Coquihalla Connector (Canada) (BC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Very bright and colorful object and very close to them.The Coquihalla Connector is one of the major highways leading from Vancouver into the Interior and Okanagan areas. The witness to this sighting lives in McKinley Landing just outside of Kelowna, British Columbia. A husband and wife were driving the Coquihalla Connector when they witnessed something very bright and colorful and very close to them. They stopped the car and got out to observe the object. The witnesses said they were very excited and jumped around while they viewed the object. It sat hovering just below the top of the mountain and over the tree tops. The witness said it was not all that large in size, but it did move around very slowly until it shot off up the valley and disappeared. Thank you to the witness for the report. Brian Vike, Director HBCC UFO Research Canadian Toll Free UFO Hotline 1 866 262 1989 - Free call.Editor: Canadian Communicator - Paranormal Magazine email: hbccufo@telus.net Website: http://www3.telus.net/public/wilbur8/hbcc_ufo_research.htm</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30741.html](http://www.nuforc.org/webreports/reports/030/S30741.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/164/S164540.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164271.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164273.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164275.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164268.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
