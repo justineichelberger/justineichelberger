@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:44 on 9 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:29:23 on 9 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Fair Oaks (PA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Strange half blue and half red spherical lightAs I traveling home from work in Warrendale, Pa, on the red belt towards Fair Oaks,Pa, about 11:20 pm, this light appeared over top of a hill.  The light as it drew closer towards my car was half blue and half red.  The object that I was able see was spherical in shape.  It disappeared very quickly behind another hill.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112337.html](http://www.nuforc.org/webreports/reports/112/S112337.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Orbiting object flares, separate flash appears, then object disappears.A co-worker and I were outside having a smoke and looking for Perseid meteors, when I spotted what I thought was a satellite.  The "satellite" was heading in a north to south direction and traveling at a typical speed for a satellite.  It looked yellow/orange-ish, like most satellites do.  A few seconds into viewing the object, it flared, increasing greatly in brightness and then dimming.  I am aware of what satellite flares are, so I was not surprised at this point.  The object continued to dim and then a bright white/green flash appeared below (?) the object, about the diameter of a quarter if held at arm's distance.  About a second or two later the object dimmed out of view completely.  If it wasn't for the anomalous flash in the vicinity of the object, just before it disappeared, I would assume what I saw was just a flaring satellite.  I'm pretty sure whatever it was was outside of the atmosphere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129139.html](http://www.nuforc.org/webreports/reports/129/S129139.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/164/S164540.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164271.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164273.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164275.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164268.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
