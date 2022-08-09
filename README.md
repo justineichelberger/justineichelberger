@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:46 on 9 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:01:07 on 9 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Traverse City (MI) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Five bright large red lights in the Traverse City, Michigan, sky.Was going into the backyard to adjust the telescope for viewing the full moon.  Noticed 5 red lights in formation first thought was it was aircraft but then realized the lights were large and close together.  The line of sight was over some trees and I would guess that the lights were with in a mile from me and not that high in the sky.  I was yelling for my wife to witness what I was seeing but she couldn't hear me.  So, I ran to the house, and she ran out.  I would say that took less than twenty seconds for us both to be back to the spot of sight.  We witnessed one light disappear rapidly into the upper skyline at a very rapid rate not sure where the rest went.  The lights were almost like a v shape and were a constant brightness.  I am reporting this as I am hoping others in the area may have seen the same thing at a better sight advantage.  The length of time from the sighting to the red light disappearing into the night sky was less than two minutes it happened very quickly.  Wish I had had more time to observe.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112340.html](http://www.nuforc.org/webreports/reports/112/S112340.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Schofield Barracks (HI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Light/object moves through constellation Scorpius and then disappearsMy husband and I were laying on our hammock at about 9:15pm on 9Aug12, looking at the stars and learning the constellations with a cell phone application.  We had already been star gazing for 15-20 minutes or so, and we were looking at the constellation Scorpius (to our South-West I believe). All of a sudden, a light (just like a star) was moving through Scorpius at a steady pace (which must have been very quickly, because this light/object was so far away, it seemed like a star moving). I pointed to the light/object moving through the constellation we were looking at, and my husband confirmed that he saw it too.  We were silent as we watched it move, and within 8-10 seconds the light/object slowly faded from existence.  We looked at each other wide-eyed, and then stared back at the area of sky around Scorpius for another 5 minutes and never saw it again.The light/object covered about the distance of 6 inches across the sky before it started fading and eventually disappeared.  The light/object moved in exactly a straight direction, and as it disappeared it was still moving in the same straight direction.It was a cloudless night until after midnight, so the light/object didn’t disappear behind clouds. My husband is Army and has been on multiple types of helicopters.  It was unlike a shooting star, meteor, helicopter, jet, commercial airliner we’ve seen, and we’ve seen all types of aircraft on Oahu; this wasn’t one of them.  This light/object was simply too far away to be an aircraft of ours – this was in space. The light/object moved at a constant speed, slower than a shooting star.  It was definitely an object or vehicle, not a shooting star or meteor.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91673.html](http://www.nuforc.org/webreports/reports/091/S91673.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/164/S164540.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164271.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164273.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164275.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164268.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
