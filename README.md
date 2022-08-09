@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:36 on 9 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:46 on 9 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>silent white and red lights filling my backyard two hours before space shuttle landing.This was a weird experience.  I was sick with the flu and awake on my couch in the complete darkness.  Light filled up my backyard (like a helicopter spotlight).  The light was bright and stayed for a second then went away.  I went to the backdoor to look into the sky looking for a helicopter.  Then the more lights began shining down.  Red lights.  Then the went away.  I open the door and stood outside looking for a helicopter.  It was dead silent when I stepped outside.  no helicopter sounds or airplane sounds.  The lights seemed so close I should have heard the helicopter if that's what it was.  Later that morning I heard the sonic boom of the space shuttle which landed around two hours after this event.  I wonder if the lights could have been associated with that?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45541.html](http://www.nuforc.org/webreports/reports/045/S45541.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Traverse City (MI) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Five bright large red lights in the Traverse City, Michigan, sky.Was going into the backyard to adjust the telescope for viewing the full moon.  Noticed 5 red lights in formation first thought was it was aircraft but then realized the lights were large and close together.  The line of sight was over some trees and I would guess that the lights were with in a mile from me and not that high in the sky.  I was yelling for my wife to witness what I was seeing but she couldn't hear me.  So, I ran to the house, and she ran out.  I would say that took less than twenty seconds for us both to be back to the spot of sight.  We witnessed one light disappear rapidly into the upper skyline at a very rapid rate not sure where the rest went.  The lights were almost like a v shape and were a constant brightness.  I am reporting this as I am hoping others in the area may have seen the same thing at a better sight advantage.  The length of time from the sighting to the red light disappearing into the night sky was less than two minutes it happened very quickly.  Wish I had had more time to observe.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112340.html](http://www.nuforc.org/webreports/reports/112/S112340.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/164/S164540.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164271.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164273.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164275.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164268.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
