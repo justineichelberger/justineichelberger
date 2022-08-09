@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:07:34 on 9 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:36 on 9 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Niles (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>5 dancing lights in the middle of the night.I woke from sleeping in a tent and stepped out to use the restroom sometime in the middle of the night.  When I looked up I saw three dancing lights, all in sync with each other toward the East, like a triangle.  Then I looked North and saw one.  Then to the West and saw one more.  I watched them for about 5 minutes, used the bathroom, then went back to sleep in the tent.  They were a bit brighter than stars.  I have no idea how close or how far they were.  Due to trees I could not look to the South.  It was strange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65165.html](http://www.nuforc.org/webreports/reports/065/S65165.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>silent white and red lights filling my backyard two hours before space shuttle landing.This was a weird experience.  I was sick with the flu and awake on my couch in the complete darkness.  Light filled up my backyard (like a helicopter spotlight).  The light was bright and stayed for a second then went away.  I went to the backdoor to look into the sky looking for a helicopter.  Then the more lights began shining down.  Red lights.  Then the went away.  I open the door and stood outside looking for a helicopter.  It was dead silent when I stepped outside.  no helicopter sounds or airplane sounds.  The lights seemed so close I should have heard the helicopter if that's what it was.  Later that morning I heard the sonic boom of the space shuttle which landed around two hours after this event.  I wonder if the lights could have been associated with that?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45541.html](http://www.nuforc.org/webreports/reports/045/S45541.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/164/S164540.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164271.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164273.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164275.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164268.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
