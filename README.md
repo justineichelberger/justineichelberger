@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:36 on 9 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:50 on 9 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Coquihalla Connector (Canada) (BC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Very bright and colorful object and very close to them.The Coquihalla Connector is one of the major highways leading from Vancouver into the Interior and Okanagan areas. The witness to this sighting lives in McKinley Landing just outside of Kelowna, British Columbia. A husband and wife were driving the Coquihalla Connector when they witnessed something very bright and colorful and very close to them. They stopped the car and got out to observe the object. The witnesses said they were very excited and jumped around while they viewed the object. It sat hovering just below the top of the mountain and over the tree tops. The witness said it was not all that large in size, but it did move around very slowly until it shot off up the valley and disappeared. Thank you to the witness for the report. Brian Vike, Director HBCC UFO Research Canadian Toll Free UFO Hotline 1 866 262 1989 - Free call.Editor: Canadian Communicator - Paranormal Magazine email: hbccufo@telus.net Website: http://www3.telus.net/public/wilbur8/hbcc_ufo_research.htm</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30741.html](http://www.nuforc.org/webreports/reports/030/S30741.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Chalfont (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Dark triangular craft 3 blue lights, being followed by some type of HELICOPTER.I WAS WALKING MY DOG IN THE DARK ,HERD A MUFFLED VERY LOW FLYING HELICOPTER COMING OVER COUNTY LINE RD ABOVE TREE LINE CLEAR LINE OF SIGHT, I  NOTICED ONLY THE RED BEACON LIGHT NO OTHER LIGHTS FROM THE HELICOPTER ABOUT 75YRDS AWAY MABE 300FT OVER HEAD, THEN OBSERVED THAT THE HELICOPTER LOOKED IT WAS FOLLOWING A DARK SHADOWED TRIANGULAR OBJECT, IT SEEMED TO HAVE 3 FAINT BLUE LIGHTS ON EACH CORNER .THE OBJECT SEEMED TO BE ABOUT 100YARDS IN FRONT OF THE HELICOPTER AND THE OBJECT LOOKED ABOUT 50YDS LONG. I WATCHED THEM GO BY TILL DISAPPEARED TOWARD DIRECTION OF WILLOW GROVE AIR STATION. VERY STRANGE .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158389.html](http://www.nuforc.org/webreports/reports/158/S158389.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/164/S164540.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164271.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164273.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164275.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164268.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
