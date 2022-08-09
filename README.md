@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:45:32 on 9 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:30:27 on 9 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in  () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I saw 4 times an OVNI and I have a video((NUFORC Note:  We will request that the witness forward a copy of the tape.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24529.html](http://www.nuforc.org/webreports/reports/024/S24529.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Calgary (Canada) (AB) reported seeing craft that fit the description of some 'Circle' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>July\Aug\Sept-06.White lights over Calgary. strang thing in fieldMy boyfriend and I have been going out every night in Calgary A.B for the past 3 months july aug and sept. we have been witnessing white circular objects that we call sparks due to their look.Intense bright white light. At first we thought that the where shooting stars, but they were not acting the same and left no trail behind.We know they are not sattelites we watch for thoes all the time,and they don't dim from being out of the suns light.They are very fast,and can make extream vector changes. they go dimmer and brighter and seem to know when you are paying attention,they will dim until you can no longer see them. We have seen them single, and also one time two together. Also we have seen them speed up to regular air craft then slow and go a different direction.We have been seeing these in all areas of calgary se down macloud and west off glenmore.and at diffrent times late evening and early morning 1030 pm to 500am .We have herd only a hum sound a few times. Twice in one spot we had a hair raising feeling. The second time we saw a weired white shape or shadow in a feild that was Followed bye two strange noises that sounded like a mix between a horses noise when they breath out and the air viberates off their lips , a throte rummble and a angry snake hiss all mixed in one sound .I stoped lookingmade him role up my window I was scared. We turned the car to point the head lights in to the field. My B.F said that the thing took off at an extream speed through the fieled when he started the car.We could not see it and the feeling was gone we left.The first time we went we were both uneasy like you are aware of bad intent and your body is giving you warning. It was not just fear of unknown.It was a strong feeling to leave it took alot not to speed away it was such a scary feeling. We herd shuffling sounds in the feild and a thump on the fence post near us we left, we were both shook up.We will continue to go out we are planing to bring some friends this weekend.we brought a video camera th! at I had charged the battery all day and tested before we left but it's charge was gone when I went to use it.I will try again on camera our friend have high power benocculars and night vision glasses not to metion some really bright flash lights. I hope to get some concreate evidence on bothe the lights in the sky and the shape in the field.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52366.html](http://www.nuforc.org/webreports/reports/052/S52366.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/164/S164540.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164271.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164273.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164275.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164268.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
