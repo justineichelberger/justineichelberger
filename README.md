@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:45 on 9 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:04:00 on 9 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Squamish (Canada) (BC) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Object appeared as a cheveron shape approx 30' wide.  It's appearance can best be described like that of a single strand of silk illumined by the sun.  Imagine a a 30' wide strand of silk in the shape of a perfect cheveron moving at a constant speed of 25mph from North to South.  A second chevron trailed the first in a similar formation to how geese fly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38593.html](http://www.nuforc.org/webreports/reports/038/S38593.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Emerald Isle () reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright, round, orange ball suddenly appeared and drifted across sky from east to west before disappearing as quickly as it appearedA bright, round, orange ball, for lack of a better word, suddenly appeared in the sky (to the south), and drifted across the sky from east to west.  It did not exactly go in a straight line, but also didn't move around or zig-zag.  It seemed to dim slightly at one point, but then returned to its bright orange color. There were no flashing lights and no sound. It was visible for approximately two minutes, perhaps slightly less, and then disappeared as quickly as it appeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112324.html](http://www.nuforc.org/webreports/reports/112/S112324.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/164/S164540.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164271.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164273.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164275.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164268.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
