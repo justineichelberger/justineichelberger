@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:55 on 9 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:46 on 9 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>i was taking pictures of the sunset and didn't notice until later what had passed in front of my lense.i was taking pictures of the sunset from my front yard and i never saw the object in real time, i only noticed it when i was going through the pictures later on my computer. i have 3 pictures all 3 were taken within 20 seconds of eachother there isn't anything in the first or last pictures but in the middle one there is what seems to be a metalic ball shape in the upper left part of the sky. my house is close to the Albuquerque Sun port (airport)and i've lived here for 23 years so i can identify almost all airplane and helecoptors, just because i see them everyday, but i've never seen anything like this befor. i'm also sending the 3 digital photos to your e-mail address. if you have time let me know what you think. thanks Jose((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42259.html](http://www.nuforc.org/webreports/reports/042/S42259.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Prior Lake (MN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Strange Minnesota Lights Explanation.((NUFORC Note:  We suspect the lights were from a casino.  PD))This is not a report but an explanation for the Minnesota lights reported on Aug 9th.  If the picture is to the south, it is most definitely lights from the Mystic Lake Casino.  They have a light formation that is on every night.  It is in the shape of a teepee but makes the ring formation on the clouds at night.  Do a google image search for "mystic lake casino lights" and you will see.  I see this from my home in Prior Lake all the time as the casino is 3 miles away.  Lake Minnetonka is about 15 miles to the north.  If the cloud deck was unusually high that night, the lights would be visible that far north and look exactly like they do in the photos on your sight.((NUFORC Note:  Suspected advertising lights at a local casino.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121217.html](http://www.nuforc.org/webreports/reports/121/S121217.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/164/S164540.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164271.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164273.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164275.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164268.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
