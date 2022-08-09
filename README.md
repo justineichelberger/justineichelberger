@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:41 on 9 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:42 on 9 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Ventnor (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>i was outside with my friend and his sister and over above us we saw a circle craft hove silenttly and the a sort of door open and lights about 3 they almost looked like search lights were on us and then it flew awayi was playing with my friend and his sister and we were playing with one of those industrial flash lights and then this craft appeared and started to hover silently and the a few seconds later a door oppened then lights 3 appeared and they were red,blue,and yellow then a few seconds later it flew away. the backrounds arent much because we are only children and i was scared and i wanted to report it and i couldent find anywhere until now but all of us have athma if the helps.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12165.html](http://www.nuforc.org/webreports/reports/012/S12165.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in El Dorado (KS) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Three craft with bright red rectangular lights in body and a large floodlight in front hovering above Kansas highway.Three identical objects the size of a large jet fighter. Each were brightly lit with a large bright red rectangluar display in the body of the teardrop/triangular shaped craft. Each of the three craft had 1 giant floodlight near the front center of the craft. (From a distance, all you could see were three bright glowing red rectangles with a floodlight in front. They hovered approx. 300 ft above the highway in a uniformly crosswise fashion. Very scary. As I approached within a thousand ft. of them they turned their floodlights off, and raced to the west at an unbelieveable speed and disappeared. I will be monitoring the Wichita Eagle newspaper for any possible missing persons report. This is all I want to say now.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71883.html](http://www.nuforc.org/webreports/reports/071/S71883.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/164/S164540.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164271.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164273.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164275.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164268.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
