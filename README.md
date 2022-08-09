@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:42 on 9 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:14:07 on 9 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in El Dorado (KS) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Three craft with bright red rectangular lights in body and a large floodlight in front hovering above Kansas highway.Three identical objects the size of a large jet fighter. Each were brightly lit with a large bright red rectangluar display in the body of the teardrop/triangular shaped craft. Each of the three craft had 1 giant floodlight near the front center of the craft. (From a distance, all you could see were three bright glowing red rectangles with a floodlight in front. They hovered approx. 300 ft above the highway in a uniformly crosswise fashion. Very scary. As I approached within a thousand ft. of them they turned their floodlights off, and raced to the west at an unbelieveable speed and disappeared. I will be monitoring the Wichita Eagle newspaper for any possible missing persons report. This is all I want to say now.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71883.html](http://www.nuforc.org/webreports/reports/071/S71883.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in North Brookfield (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Saw 5 orange lights in sky move southeast and then straight up.Noticed 2 orange lights in sky moving southeast.  Then noticed 3 more lights join the 2. Then they ascended straight up into the sky and disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112353.html](http://www.nuforc.org/webreports/reports/112/S112353.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/164/S164540.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164271.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164273.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164275.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164268.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
