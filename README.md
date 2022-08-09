@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:35 on 9 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:42 on 9 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Maricopa (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>blinking lights above Table Top mountain...I live in the desert SW of Maricopa and have lived here for the past 26 years.  I am very familiar with the fact that to our west is the Gila Bend Gunnery Range and that often at night they launch flares that are suspended in the air for about 3-5 minutes, at different elevations.  They burn a golden glow until they burn out then just seem to disappear. What I saw was not this.  What I viewed was due south.  I have seen it twice now, the first time was about a month ago.  Both times it was above Table Top mountain, which is about 4200 feet tall.  I would first see one light, then very quickly would see 2 or 3 others light up, then they would blink on and off.  At one point their were 7 lights. The lights were very stable and did not move, they just blinked on and off. They did not stay lit like the gunnery lights,(gunnery lights flare when they light up, stay a consistant brightness, then totally burn out...they don't keep lighting up over and over, again.) These lights  would go on and off, almost in some kind of a sequence.  Both times I watched the lights for the total time they were dancing about.  Then they would just stop.  Tonight I stood outside and just kept watching.  About 10 minutes later the lights all blinked one more time and then there was nothing. In the direction I was facing, due south, I really don't believe there is anything there that can be doing this.  I drove out that way, the last time,  to see if maybe there was a tower put up on the mountain or something (this is a very rural area) and there is nothing. I don't have a clue what I saw.  I just know that for where the lights were...there is nothing there that would make those lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38558.html](http://www.nuforc.org/webreports/reports/038/S38558.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Clackamas (south of) (OR) reported seeing craft that fit the description of some 'Oval' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>I seen a star that looked bigger/closer and just seemed different.  Different enough to bring two other people with me on the balcony to see what it is. With using binoculars, we noticed they were blue and red and not moving.  While focusing on one of the objects little fast moving lights would appear.  It seemed to have multiple crafts if they were even crafts.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112364.html](http://www.nuforc.org/webreports/reports/112/S112364.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/164/S164540.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164271.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164273.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164275.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164268.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
