@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:14:42 on 9 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:07:34 on 9 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in London (Canada) (ON) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>2 people see something different experienceBasically around 1:30 am observer 1 noticed a triangular craft move above north west of our seated area in our back yard.It was just below clouds . It was whispy cloud cover nit thick at all Moon was to our south east and it was about 3/4 moon It hovered went west past tree line and then came back hovered again and went east then out of sight Lasted about 20 minutes. He says it was size of quarter at arms length quote from observer 1 “ Triangular in shape its flight path was like a clothesline parallel and lights where violet green white yellow and I want to say like Amber not red not Orange” Observer two only observed the object after informed by observer 1.I noticed it above hovering north west of my position . First thought it was a drone . Because it sat in the one position with multi coloured lights blinking . The lights to me seemed to indicate a circular pattern or craft.It moved east and to me seemed to have a appearance of lights in circular pattern at each end of object .To me the object was translucent the shape like a helicopter. It made no noise of an engine but I thought I heard air moving . It went to the east and disappeared.The lights to me seemed like Christmas lights . Flashing twinkling . But I like an airplane not in a fixed patter.After I stopped watching I saw in the top of a tree in neighbours tree a bright white light blink out the size of soft ball . I thought fire fly them it occurred it was too big to be firefly . Several weeks before observer 2 saw in same location saw a yellow orange light travel upwards seemed steep incline . I took video and picture of that . It was northern sky</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158463.html](http://www.nuforc.org/webreports/reports/158/S158463.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Niles (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>5 dancing lights in the middle of the night.I woke from sleeping in a tent and stepped out to use the restroom sometime in the middle of the night.  When I looked up I saw three dancing lights, all in sync with each other toward the East, like a triangle.  Then I looked North and saw one.  Then to the West and saw one more.  I watched them for about 5 minutes, used the bathroom, then went back to sleep in the tent.  They were a bit brighter than stars.  I have no idea how close or how far they were.  Due to trees I could not look to the South.  It was strange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65165.html](http://www.nuforc.org/webreports/reports/065/S65165.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/164/S164540.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164271.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164273.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164275.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164268.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
