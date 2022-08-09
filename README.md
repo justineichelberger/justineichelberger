@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:41 on 8 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:44 on 9 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Spring Lake Heights (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright light that was undulating and wobblyAs I was outside smoking, I noticed a bright light in the sky, east south east.  It was at a 50 degree angle from the horizon, approximately.  This light seemed to stay in it's place for a few seconds, then it traveled due west.  As it was traveling westward, the object began to undulate in its flight, going up and down. This movement wasn't extreme, but it did not seem to be something a commercial aircraft would be able to attain.  As I watched it undulate, its bright light dimmed and was replaced by twinkling lights.  Another aircraft came into view, travelling due east at a slightly lower position.  This aircraft was commercial, with all proper lighting, and it did not change its course.  It flew under the first unidentified object.  Then, the lights of the unidentified object seemed to twinkle and dim; the colors it twinkled were red, green, blue, and yellow; similar to a star at night.  It slowly seemed to disappear, travelling now south, and I lost sight of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100922.html](http://www.nuforc.org/webreports/reports/100/S100922.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Fair Oaks (PA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Strange half blue and half red spherical lightAs I traveling home from work in Warrendale, Pa, on the red belt towards Fair Oaks,Pa, about 11:20 pm, this light appeared over top of a hill.  The light as it drew closer towards my car was half blue and half red.  The object that I was able see was spherical in shape.  It disappeared very quickly behind another hill.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112337.html](http://www.nuforc.org/webreports/reports/112/S112337.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [509](http://www.nuforc.org/webreports/reports/164/S164272.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164264.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164384.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164554.html)
-- [505](http://www.nuforc.org/webreports/reports/164/S164257.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
