@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:10:28 on 10 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:56 on 10 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Balnarring (Australia) () reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright light. Flash twice. Moving extremely slow. Multiple sightingsSaw a light flash twice at approx 2/3sec intervals.  Witnessed again in similar location 10 mins later and then a single flash disappearing. It is night.  Clear sky. Stars can be seen. Second sighting was just below the southern cross.  Over Balnarring Victoria Australia</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158382.html](http://www.nuforc.org/webreports/reports/158/S158382.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Waltham (MA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Strange objectLooking up at the sky (mid center) observed an passenger aircraft large to medium jumbo jet flying ENE towards Boston at approximately 10-15k feet, observed a Brown object that flew around the craft then following it for a while before it manuvered in a strange fashion before takeing of in a northern path and outa site.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13726.html](http://www.nuforc.org/webreports/reports/013/S13726.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [517](http://www.nuforc.org/webreports/reports/164/S164327.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164673.html)
-- [515](http://www.nuforc.org/webreports/reports/164/S164305.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164323.html)
-- [513](http://www.nuforc.org/webreports/reports/164/S164307.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
