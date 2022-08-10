@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:56 on 10 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:41 on 10 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Waltham (MA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Strange objectLooking up at the sky (mid center) observed an passenger aircraft large to medium jumbo jet flying ENE towards Boston at approximately 10-15k feet, observed a Brown object that flew around the craft then following it for a while before it manuvered in a strange fashion before takeing of in a northern path and outa site.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13726.html](http://www.nuforc.org/webreports/reports/013/S13726.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Cedar City (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>A star-like light which diverged into two lights which moved apart from one another and faded from view in the night sky.My girlfriend and I stepped out onto my front porch and I immediately looked up at the stars as I usually do. I noticed an out of place very bright star with an apparent magnitude of around 1 in the northeastern sky, about 60 degrees above the horizon. Almost immediately after spotting it, the light broke into two lights of an apparent magnitude of about 0. These lights moved away from one another at a steady velocity and both faded in brightness until they were no longer visible.  One moved northwards, the other southwards. They each moved across about 1/10 of the sky before they faded from sight in less than 5 seconds. I saw them diverge and move apart, and when I pointed it out my girlfriend commented on the bright moving light, as she only saw one. We are both college students with a paper published in the field of astronomy, and have both spent a lot of time looking at stars and the night sky. These objects moved similarly to a satellite, but the bright! ness was unusual. Unless I happened to look up as two unusually bright satellites crossed paths, I cannot think of any explanation for their identity.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151789.html](http://www.nuforc.org/webreports/reports/151/S151789.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [517](http://www.nuforc.org/webreports/reports/164/S164327.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164673.html)
-- [515](http://www.nuforc.org/webreports/reports/164/S164305.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164323.html)
-- [513](http://www.nuforc.org/webreports/reports/164/S164307.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
