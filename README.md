@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:17:05 on 10 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:45 on 10 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Sudbury (Canada) (ON) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange lights sudburyStepped into my back deck for a cigarette.  As soon as I walked out, saw two big orange lights floating silently in the sky.  I live in a quiet clear part of Minnow Lake.  It continued to float in a formation that appeared to be a chevron with one missing light on a corner and stayed in formation while it floated to the front of my house area and I walked through my house to front door to observe more.  It had become much smaller and within second one of the lights faded away and then the other began to flash and was much smaller then was gone as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112380.html](http://www.nuforc.org/webreports/reports/112/S112380.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Sacramento (east of) (CA) reported seeing craft that fit the description of some '' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Commercial Flight from Chicago to Sacramento, CaWhile flying on United Flt 601 from Chiago Il.,  to Sacramento, Ca. on August 11, 2006. This is the day after the discovery and break up of the alleged "terrorist plot" to blow up airliners bound form the UK to the U.S.A. Airport security was in the highest state of alert. Times and altitude are to the best of my recollection. I didn't make note of the possible significance of this incident until later in the day. We were flying in an Airbue A319 at 36,000 ft. about 2 hours before Sacramento.United has Air Traffic Control (ATC) piped over audio channel 9 so you can listen with head phones. ATC called out to another passenge plane who was flying at 33,000 feet that there was "traffic" at his 10:00 o'clock position and about 1000 feet above him at 2 miles. The pilot responded that he was looking.  ATC called again and said the "traffic" was about 1 mile and now almost at his altitude.That he should descend 200 or 300 feet., and to report the traffic when in sight.The pilot said he looking and then exclaimed that he saw and that he just passes to the left of him very close and that he really saw "him" and stumbled and hisitated like he wanted to say more but held his tounge. Shortly after that, ATC calls out to "ALL aircraft flying fetween 30,000 and 40,000 feet to report in and ID themselves, I assume that ment to set a specific IFF code on their transponders. About 10 aircraft called in  and then ther was silence for a short while before the normal ATC chatter started back up.. Local Sacramento time was about 09:00. After thinking about this I think that was the case of an unknown flying object with no flight plan or nor IFF. ar</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51643.html](http://www.nuforc.org/webreports/reports/051/S51643.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [517](http://www.nuforc.org/webreports/reports/164/S164327.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164673.html)
-- [515](http://www.nuforc.org/webreports/reports/164/S164305.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164323.html)
-- [513](http://www.nuforc.org/webreports/reports/164/S164307.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
