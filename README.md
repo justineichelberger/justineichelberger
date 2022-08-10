@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:52 on 10 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:10:28 on 10 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Muncie (IN) reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>I found an orange saucer in the street level view of google earth, in Muncie ind.  In the sky from a few placesI found an orange glowing saucer with a haze around the bottom.  It is in the google earth street level view,looking up at the sky.  I found it while looking at a childhood home in Muncie Ind.  I also can see it from a number of street level views around the town.  Im a 56 yr old female who now lives in Hawaii((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83181.html](http://www.nuforc.org/webreports/reports/083/S83181.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Balnarring (Australia) () reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright light. Flash twice. Moving extremely slow. Multiple sightingsSaw a light flash twice at approx 2/3sec intervals.  Witnessed again in similar location 10 mins later and then a single flash disappearing. It is night.  Clear sky. Stars can be seen. Second sighting was just below the southern cross.  Over Balnarring Victoria Australia</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158382.html](http://www.nuforc.org/webreports/reports/158/S158382.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [517](http://www.nuforc.org/webreports/reports/164/S164327.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164673.html)
-- [515](http://www.nuforc.org/webreports/reports/164/S164305.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164323.html)
-- [513](http://www.nuforc.org/webreports/reports/164/S164307.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
