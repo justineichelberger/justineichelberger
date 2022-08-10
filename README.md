@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:59 on 10 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:47 on 10 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Oregon City (OR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Saw thirteen fireballs in the sky as i walked home from the store.I was walking home from the store and was looking up at the sky.  Towards the hills of west linn coming towards Oregon City was a fire ball.  I proceeded to follow it, it left my sight so i climbed a few stairs up a road a few blocks from my house.  I saw thirteen redish orange fireballs.  Some were in formation and others were sporadic.  i ran home got my mother and my uncle to come outside to see the fireballs.  They proceeded out and saw what i saw.  They went at a slow but fast pace.  Seemed to speed up and slow down untill eventually they disappeared over my house.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93711.html](http://www.nuforc.org/webreports/reports/093/S93711.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1961, an anonymous witness in Wendens Ambo/Essex (UK/England) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.013333333333333334 - 0.013333333333333334 minutes.</sub><blockquote><sub>Traveling east to west,  cigar shaped,  impression of great speed not consitante with time taken to travel distance.Seen by my mother & myself in the conuty of Essex in UK. It moved from east to west quite low on the horizon. The time/speed it took to cross our vision (which was limited by trees on both sides of the lane where we were walking) was slow but at the same time made me feel it ws moving very very fast. It was much too close and too slow for an aeroplane which I was used to seeing as there were many airbases in that area.  The colour was milky with a tail which remained the same size all the time.Although some years ago now I can still picture it and especialy remember the strange sensation of very fast movement which was out of context with the time it took to move across the sky. Some years later I spoke to a neighbour who told me she had also seen something round about the same time and date.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28658.html](http://www.nuforc.org/webreports/reports/028/S28658.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [517](http://www.nuforc.org/webreports/reports/164/S164327.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164673.html)
-- [515](http://www.nuforc.org/webreports/reports/164/S164305.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164323.html)
-- [513](http://www.nuforc.org/webreports/reports/164/S164307.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
