@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:30:22 on 10 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:17:05 on 10 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Gwinnett (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>a blue or dark green light appeared and quickly disappeared with an orange trail behind it traveling in this atmosphere away from us thats all i saw it may have made a noise im not sure maybe a faint poof it could have just been me evreything else iam sure ofit was the day the president was in atlanta i was laying in my driveway with a friend looking at the stars about 2am when all of the sudden a greenish blue figure appeared directly above us it seemed to appear out of thin air and take off in an upward direction there was a orange streak behind it and that disappeared just as it had appeared there was a meteor shower that night but that was no meteor  i had ever seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08778.html](http://www.nuforc.org/webreports/reports/008/S08778.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Sudbury (Canada) (ON) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange lights sudburyStepped into my back deck for a cigarette.  As soon as I walked out, saw two big orange lights floating silently in the sky.  I live in a quiet clear part of Minnow Lake.  It continued to float in a formation that appeared to be a chevron with one missing light on a corner and stayed in formation while it floated to the front of my house area and I walked through my house to front door to observe more.  It had become much smaller and within second one of the lights faded away and then the other began to flash and was much smaller then was gone as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112380.html](http://www.nuforc.org/webreports/reports/112/S112380.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [517](http://www.nuforc.org/webreports/reports/164/S164327.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164673.html)
-- [515](http://www.nuforc.org/webreports/reports/164/S164305.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164323.html)
-- [513](http://www.nuforc.org/webreports/reports/164/S164307.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
