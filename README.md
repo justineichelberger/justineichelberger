@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:01:09 on 10 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:51 on 10 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Eden prairie (MN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>BRIGHT ORBS COUNT 30 IN SKY.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91686.html](http://www.nuforc.org/webreports/reports/091/S91686.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Darting amber glow moving hummingbird-like through the clouds east of capitol hill in Seattle at 3:30 amI went to the top floor of my friend's apartment bldg. on Capitol Hill to have a smoke.  I stood facing east toward Bellevue, looking at the blinking lights of the transmitter towers at the top of the hill.  We had a brief electrical storm earlier so the sky was just a big cloudy haze.  Suddenly, I see something in my peripheral to the right of the tower, a dim amber colored glow moving through the haze of the clouds.  My first thought was that it was the glow from airplane lights reflecting off the haze.  But now that I was looking at it directly I could see why it couldn't possibly be an airplane.  The flight pattern was too erratic.  I couldn't see what the glow was emanating from but whatever it was was zipping through the clouds at unearthly speeds and darting around like a hummingbird.  The glow also seemed to be too dim for plane lights.  It moved from the right of the towers to the left in about ten seconds which would be a considerable distance for a plane to travel in that small of a period of time.  Then it quickly faded out like it turned itself off.  I watched for another two minutes or so.  Called my buddy downstairs on my cel and told him what I saw.  He said he was coming up for a look himself.  While I waited for him I kept watching the sky.  About a minute after that the glow comes moving through the clouds in it's rapid darting fashion but this time it's coming from behind me, from the west moving east. I quickly call my friend demanding he get up there.  I saw it again!  Get up here! I said.  We watched the skies for another 15 min or so but other than a few, what I presume, were lightning flashes off to the distance in the east, the glow didn't return.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100988.html](http://www.nuforc.org/webreports/reports/100/S100988.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [517](http://www.nuforc.org/webreports/reports/164/S164327.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164673.html)
-- [515](http://www.nuforc.org/webreports/reports/164/S164305.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164323.html)
-- [513](http://www.nuforc.org/webreports/reports/164/S164307.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
