@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:34 on 10 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:01:17 on 10 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1986, an anonymous witness in Plevna (Canada) (ON) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>08/10/86 UFO Sighting, Plevna, Ontario Canada, Black, Oval Shaped,  Huvvered Motionless and Soundless 50' above tree tops.About half hour past sun set on a calm warm summer evening in 1986.  I was walley fishing with my grandfather on Malcom Lake Ontario Canada. There was a light breeze which drifted the boat between an island shoel and weed bed. Where we cast our lures hoping to land one. The moon light seemed to dance across the water.  Which soon became like a sheet of glass. The wind stopped and it became eriesomely quiet.  Sounds of water clapping the side of the boat stopped and off in the far distance, I heard sounds of a wiperwill and lune.  This soon faded to be replaced with silence. The only thing heard was each splash of our lures hitting the water followed by the turning sounds of the fishing real gears.  Then suddenly, a gust of wind and off in the distance about 1/4 of a mile away we saw an oval gray shaped object the length of a bus and about 16'-18' in depth huvvering approx 50' above some tree tops along side the lake bank. At first, I didn't believe what I was seeing. I looked at my grandfather for confirmation and he looked me in the eye straight back. I then said, do you see that?  He said, yeah.  I said, what the hell is that?.  He said, I don't know? I said, mabey its a cloud. He said, the tree tops are moving underneath it. Sure enough, tree tops were moving beneath the object. They sway and swished back and forth in small circular patterns within a larger oval pattern beneath the object. Wind passed through the tree tops beneath the object. The object was oval in shape, black in color and huvvered motionless. The object was blacker than the night sky with a haze around it. Keep in mind it was a clear star, moon lit night. In conclusion, we got the hell out of there and back to camp.  Where we told the  camping party about what had happened.((NUFORC Note:  Witness indicates that date of sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43954.html](http://www.nuforc.org/webreports/reports/043/S43954.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Keller (TX) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright Silver Cylindrical Object Just Disappears Over Keller, TexasI couldn't sleep so I went out onto my front porch.  I looked up at the sky at what I thought was a shooting star.  The object was coming straight down right above my head.  I noticed that it was cylindrical - It looked like a fat cigar kind of shape.  It was very, very bright silver and it seemed seamless. As it was dropping it was going round and round on itself.  It then hung motionless in the sky for about 10 seconds.  It then tipped as airplanes do when they take off.  It picked up an incredible amount of speed and then just disappeared - One second it was there the next it was just gone.  It had no sound at all. Today August 11 I have noticed heavier than usual jet activity over this area but although these jets move super fast you can see them get smaller and smaller as they accelerate and they make a lot of noise.  The object I saw was just the opposite.((NUFORC Note:  We have corrected the date above, in order to reflect a date in August 2006, not September.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51620.html](http://www.nuforc.org/webreports/reports/051/S51620.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [517](http://www.nuforc.org/webreports/reports/164/S164327.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164673.html)
-- [515](http://www.nuforc.org/webreports/reports/164/S164305.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164323.html)
-- [513](http://www.nuforc.org/webreports/reports/164/S164307.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
