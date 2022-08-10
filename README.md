@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:33 on 10 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:40 on 10 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Monroe (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>2 strange lights in the skyI work in Monroe Washington and commute from the dalles, Oregon. I stay there during the week. Everyday I get up at 2:00am and go to my gym in Lake Stevens, WA. From there I proceed to work which is up in the hills and woods about 12 miles from town  (Monroe). Normally I have about an hour to catch a nap before actually working, I usually pull off to the side of the road a couple of miles from the work site as its in a secured area and the gates are close and locked. This particular morning I just arrived at my normal dozing spot and saw what resembled a satellite, though somewhat lower appearing. It was moving slow like a satellite does so I watched it for about a minute when a much brighter light appeared over the tree line (easiest way to describe it was imagine the North star the brightest you’ve seen it) it and the ‘satellite’ moved towards one another and they both stopped, right next to each other for about 30 seconds. Then the satellite went back from the way it came!  I was already thinking to myself wow this is interesting. At this point for the sheer hell of it I flashed my lights 3 times. The UFO started directly towards me! It got to what I guess to be about 2 hundred yards (maybe closer) and stopped. I had my windows down and there was absolutely no noise whatsoever. It sat there for about 15 seconds so I flashed it again. Then it was like it leaped up very fast but only a short distance and continued away from me over the wood line in the direction the ‘satellite’ had gone, at a slow speed compared to what I saw when it leaped straight up.. I could not make out any shape of any type of craft that might have been there, but the light honestly resembled a bright star.  I got the impression that what I was looking at couldn’t be any bigger than my Ford Ranger pick-up. The color of the light was a bright white. It was really bright but seemed to be almost contained somehow. I don’t know, hard to describe. Anyway, that is what I saw. I went back the next morning hoping to see something else. Nothing occurred.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65663.html](http://www.nuforc.org/webreports/reports/065/S65663.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Cedar City (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Bright Light from the heavens illuminated me like a spotlight, dims and disappearsMy friend and I were watching the stars. We were seated approximately 3 feet apart. Something caught my attention. I looked up into a light so bright it left me seeing spots for several minutes. My friend was looking in my direction and said I was engulfed in a glow of light like a stage light but the light never touched him. After a few seconds the light dimmed and appeared to be a sattelite moving north to south about 20 degrees until it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24357.html](http://www.nuforc.org/webreports/reports/024/S24357.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [517](http://www.nuforc.org/webreports/reports/164/S164327.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164673.html)
-- [515](http://www.nuforc.org/webreports/reports/164/S164305.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164323.html)
-- [513](http://www.nuforc.org/webreports/reports/164/S164307.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
