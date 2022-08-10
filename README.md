@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:47 on 10 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:46 on 10 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1961, an anonymous witness in Wendens Ambo/Essex (UK/England) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.013333333333333334 - 0.013333333333333334 minutes.</sub><blockquote><sub>Traveling east to west,  cigar shaped,  impression of great speed not consitante with time taken to travel distance.Seen by my mother & myself in the conuty of Essex in UK. It moved from east to west quite low on the horizon. The time/speed it took to cross our vision (which was limited by trees on both sides of the lane where we were walking) was slow but at the same time made me feel it ws moving very very fast. It was much too close and too slow for an aeroplane which I was used to seeing as there were many airbases in that area.  The colour was milky with a tail which remained the same size all the time.Although some years ago now I can still picture it and especialy remember the strange sensation of very fast movement which was out of context with the time it took to move across the sky. Some years later I spoke to a neighbour who told me she had also seen something round about the same time and date.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28658.html](http://www.nuforc.org/webreports/reports/028/S28658.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Dayton (Drexel Area) (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Two faint blue spheres flying opposite of each other in high altitude.There were 8 witnesses on our farm.Very high up in altitude there were 2 sphere like ufos slowly flying opposite of each other.Around 4 minute duration for both aircraft.The aircraft tend to mimick faint blue stars.And slowly as they appear, they fade into the darkness of space.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101010.html](http://www.nuforc.org/webreports/reports/101/S101010.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [517](http://www.nuforc.org/webreports/reports/164/S164327.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164673.html)
-- [515](http://www.nuforc.org/webreports/reports/164/S164305.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164323.html)
-- [513](http://www.nuforc.org/webreports/reports/164/S164307.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
