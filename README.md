@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:08 on 10 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:30:22 on 10 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1981, an anonymous witness in Salinas (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>As clear as life, as like I had never seen a real saucer craft .I had been repairing an opal engine for my son and we cam to find out we needed a special wrench.It was sort of late so we decided to try the Monte Mart Store which had a auto parts department.I asked my wife for her keys and we left on her wagon going west.As we approached the turn to the intesection, we saw some strange lites that were going thru some midsize camphor trees, we thought it was some carnival at the school.As soon as we made the turn on the intersection,my son's eyes were as big as large olives and he "dad we have finally seen one", I knew what he meant.I decided to park right below it and e could see it was aluminum like and it had a row of windows on the bottmo half and a complete circle of windows on top w/a blue light always rotating. I told my son to check the bottom and I would check the top.The bottom windows wre like frosted and we could nt see anything inside.It was there hovering about 10 to 15 degress front down.It was just as clear as observing a a plane at the airport.When all this happened the object changed to a rotating platform with rotating yellow letter signs about 7 foot long.It was garbeled at first but it started going around with Enlish letters telling us to tell the world, we decided not to tell anyone as we might look and sound like fools.My son, my wife my two girls and I, talked about it for years.And the lights were coherent lighting of different oolors not just any lghts.The bottom was covered with antennae like sticks and also a lot of lights.I said ten minutes but my wife and another 20 min at the store, my had always said it took us longer to get back and its only about 1 mile.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64298.html](http://www.nuforc.org/webreports/reports/064/S64298.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Gwinnett (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>a blue or dark green light appeared and quickly disappeared with an orange trail behind it traveling in this atmosphere away from us thats all i saw it may have made a noise im not sure maybe a faint poof it could have just been me evreything else iam sure ofit was the day the president was in atlanta i was laying in my driveway with a friend looking at the stars about 2am when all of the sudden a greenish blue figure appeared directly above us it seemed to appear out of thin air and take off in an upward direction there was a orange streak behind it and that disappeared just as it had appeared there was a meteor shower that night but that was no meteor  i had ever seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08778.html](http://www.nuforc.org/webreports/reports/008/S08778.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [517](http://www.nuforc.org/webreports/reports/164/S164327.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164673.html)
-- [515](http://www.nuforc.org/webreports/reports/164/S164305.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164323.html)
-- [513](http://www.nuforc.org/webreports/reports/164/S164307.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
