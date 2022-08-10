@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:01:17 on 10 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:59 on 10 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Keller (TX) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright Silver Cylindrical Object Just Disappears Over Keller, TexasI couldn't sleep so I went out onto my front porch.  I looked up at the sky at what I thought was a shooting star.  The object was coming straight down right above my head.  I noticed that it was cylindrical - It looked like a fat cigar kind of shape.  It was very, very bright silver and it seemed seamless. As it was dropping it was going round and round on itself.  It then hung motionless in the sky for about 10 seconds.  It then tipped as airplanes do when they take off.  It picked up an incredible amount of speed and then just disappeared - One second it was there the next it was just gone.  It had no sound at all. Today August 11 I have noticed heavier than usual jet activity over this area but although these jets move super fast you can see them get smaller and smaller as they accelerate and they make a lot of noise.  The object I saw was just the opposite.((NUFORC Note:  We have corrected the date above, in order to reflect a date in August 2006, not September.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51620.html](http://www.nuforc.org/webreports/reports/051/S51620.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Oregon City (OR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Saw thirteen fireballs in the sky as i walked home from the store.I was walking home from the store and was looking up at the sky.  Towards the hills of west linn coming towards Oregon City was a fire ball.  I proceeded to follow it, it left my sight so i climbed a few stairs up a road a few blocks from my house.  I saw thirteen redish orange fireballs.  Some were in formation and others were sporadic.  i ran home got my mother and my uncle to come outside to see the fireballs.  They proceeded out and saw what i saw.  They went at a slow but fast pace.  Seemed to speed up and slow down untill eventually they disappeared over my house.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93711.html](http://www.nuforc.org/webreports/reports/093/S93711.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [517](http://www.nuforc.org/webreports/reports/164/S164327.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164673.html)
-- [515](http://www.nuforc.org/webreports/reports/164/S164305.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164323.html)
-- [513](http://www.nuforc.org/webreports/reports/164/S164307.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
