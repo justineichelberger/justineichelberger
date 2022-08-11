@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:53 on 11 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:38 on 11 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Streetsboro (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Orange lights over Ohio Route 43While driving north on Route 43 between Kent and Streetsboro, all three witnesses (university students) observed six to seven orange lights floating in a zig-zag pattern south toward Kent.  The witnesses’ vehicle passed under the lights (which resembled bright orange orbs) as they (the lights) continued to hover.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83110.html](http://www.nuforc.org/webreports/reports/083/S83110.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Olympia (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Orange red light in sky turned to white as it moved figeting across the sky with no noise.I was standing outside looking at the moon.  Beside to the right and a little below I noticed an orange red glow.  It was large compared to the usual airplanes in the night sky. So I thought it might be close. It seemed to hover at first so I thought it might be coming toward me. As I watched it, it seemed to flicker.  So I then thought it was a firework or something on fire. I couldn't hear any noise out of the ordinary. I then watched it to see what it would do.  As I watched, I noticed it was moving right under the moon in the sky. When it got to a location under the moon opposite to the same location I first noticed it, the light became smaller and turned white in color.  It kind of blinked slowly as it finally faded. The movement reminded me of a cursor on a computer screen moving slowly and fidgety. I looked around the sky for anything else and noticed nothing else unusual.  I then concentrated on the point that it faded to see if it would reappear. It did n! ot. I never heard a noise that was unusual or that I could associate with the light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83077.html](http://www.nuforc.org/webreports/reports/083/S83077.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [473](http://www.nuforc.org/webreports/reports/164/S164295.html)
-- [472](http://www.nuforc.org/webreports/reports/164/S164296.html)
-- [471](http://www.nuforc.org/webreports/reports/164/S164444.html)
-- [470](http://www.nuforc.org/webreports/reports/164/S164297.html)
-- [469](http://www.nuforc.org/webreports/reports/164/S164288.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
