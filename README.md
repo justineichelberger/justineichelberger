@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:01:28 on 11 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:54 on 11 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Augusta (ME) reported seeing craft that fit the description of some 'Triangle' over a period of approximately ongoing - ongoing minutes.</sub><blockquote><sub>Have aliens from outside our planetary system made contact (a base of sorts) with Earthlings in the past.This is not actually a space craft but rather a stone that has been carved in the shape of a head.  I have moved this item to a safe place but would be willing to have it examined at a convenient time and place for me  **  This is not an attempt to get money or notoriety but rather a sincere act to notify the public and or government if they are interested.** While working in my yard I found a strange looking stone and upon closer examination, it turns out this is some type of carving, with facial features including some type of crystal where the mouth is, this is about the size of a large kitchen toaster, I have not had any test done yet, I am real busy.I am wondering if there are any experts in the field of geology, metallurgy, geo-physics or other specialized area that might be able to help identify it's origin.By the way, I do have a Master's in Psychology and am working on my second Master's in clinical Mental Health, so I am busy and would appreciate only serious inquiries, I did attempt to take pictures but because of the lighting that was available they did not come out but will take more if it is a requisite for verification of a possible encounter or landing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135975.html](http://www.nuforc.org/webreports/reports/135/S135975.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Humble/Atascocita (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>My husband had gone out to water plants in this heat and was on the patio in backyard. We are near IAH and at first he thought it was a plane, then at further inspection knew it wasn't. He ran in our home and told me to hurry and get outside to see whatever this was. It appeared to be light in color, no lights and ocassionally a wing like thing seemed to flap. It just kept going higher. I had retrieved the binoculars and we tried to see but they kept fogging and were unsuccessful. It just kept going higher and disappeared into the clouds. Very unsettling. We are educated upper management senior citizens, this is not a dupe.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58105.html](http://www.nuforc.org/webreports/reports/058/S58105.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [473](http://www.nuforc.org/webreports/reports/164/S164295.html)
-- [472](http://www.nuforc.org/webreports/reports/164/S164296.html)
-- [471](http://www.nuforc.org/webreports/reports/164/S164444.html)
-- [470](http://www.nuforc.org/webreports/reports/164/S164297.html)
-- [469](http://www.nuforc.org/webreports/reports/164/S164288.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
