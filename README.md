@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:24:12 on 11 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:05:40 on 11 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Chillicothe (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Seen a small but large looking object in the sky that appeared to be multi color, round, but looked like a ball of mass.  We heard others from a distance say something about a meter shower, but this object just stayed in one place.  It seemed to dim and fade away, but then started to brighten back up to full color.  From the eye it looked a bright orange color, but in the video looks like a bright multi color.  And then something else happened and you can see it on the video but I really don't know how to explain it.  Like it blows up but then seems to come right back to shape..  Please have someone call me back and share this with cause its REALLY SOMETHING TO SEE!!  I promise this is no joke.  I have a few videos of this object and and there was 5 of us fishing and watching it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142668.html](http://www.nuforc.org/webreports/reports/142/S142668.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Folsom (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Colorful disk appears in Northern California.Driving home on hwy 50 towards El dorado hills, around 10pm. We noticed a tall office building. It looked like 80 windows with silver metallic covers that were rippling. Then the windows turned metallic pink. Then all of the sudden it turned into a ufo disk. Vibrant colors. It was hovering. Then it became bigger. Then the UFO started having rings come down. I snapped pictures, until we passed it. People were slamming on their brakes. That's when I called 911. The next day, my daughter told me it was an Intel drone. The day prior to this I was reading about someone on TikTok? Was claiming to be from the future and wanted to warn us about aliens coming to earth on Aug 11th.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164444.html](http://www.nuforc.org/webreports/reports/164/S164444.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [473](http://www.nuforc.org/webreports/reports/164/S164295.html)
-- [472](http://www.nuforc.org/webreports/reports/164/S164296.html)
-- [471](http://www.nuforc.org/webreports/reports/164/S164444.html)
-- [470](http://www.nuforc.org/webreports/reports/164/S164297.html)
-- [469](http://www.nuforc.org/webreports/reports/164/S164288.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
