@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:38:45 on 11 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:24:12 on 11 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Council Bluffs (IA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Slow-moving to the north, with red flashing lights.My daughter and I just saw a couple of them with red flashing lights as we were watching for meteor shower.  First one was going north so slowly it was hard to tell it was moving, till it was out of site.  Second one was higher up but also going north.  We are in CB.  It was at about 12:30-2:00 am.Have also been seeing other strange lights cross the sky.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121060.html](http://www.nuforc.org/webreports/reports/121/S121060.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Chillicothe (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Seen a small but large looking object in the sky that appeared to be multi color, round, but looked like a ball of mass.  We heard others from a distance say something about a meter shower, but this object just stayed in one place.  It seemed to dim and fade away, but then started to brighten back up to full color.  From the eye it looked a bright orange color, but in the video looks like a bright multi color.  And then something else happened and you can see it on the video but I really don't know how to explain it.  Like it blows up but then seems to come right back to shape..  Please have someone call me back and share this with cause its REALLY SOMETHING TO SEE!!  I promise this is no joke.  I have a few videos of this object and and there was 5 of us fishing and watching it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142668.html](http://www.nuforc.org/webreports/reports/142/S142668.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [473](http://www.nuforc.org/webreports/reports/164/S164295.html)
-- [472](http://www.nuforc.org/webreports/reports/164/S164296.html)
-- [471](http://www.nuforc.org/webreports/reports/164/S164444.html)
-- [470](http://www.nuforc.org/webreports/reports/164/S164297.html)
-- [469](http://www.nuforc.org/webreports/reports/164/S164288.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
