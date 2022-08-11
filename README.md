@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:05:40 on 11 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:01:28 on 11 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Folsom (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Colorful disk appears in Northern California.Driving home on hwy 50 towards El dorado hills, around 10pm. We noticed a tall office building. It looked like 80 windows with silver metallic covers that were rippling. Then the windows turned metallic pink. Then all of the sudden it turned into a ufo disk. Vibrant colors. It was hovering. Then it became bigger. Then the UFO started having rings come down. I snapped pictures, until we passed it. People were slamming on their brakes. That's when I called 911. The next day, my daughter told me it was an Intel drone. The day prior to this I was reading about someone on TikTok? Was claiming to be from the future and wanted to warn us about aliens coming to earth on Aug 11th.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164444.html](http://www.nuforc.org/webreports/reports/164/S164444.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Augusta (ME) reported seeing craft that fit the description of some 'Triangle' over a period of approximately ongoing - ongoing minutes.</sub><blockquote><sub>Have aliens from outside our planetary system made contact (a base of sorts) with Earthlings in the past.This is not actually a space craft but rather a stone that has been carved in the shape of a head.  I have moved this item to a safe place but would be willing to have it examined at a convenient time and place for me  **  This is not an attempt to get money or notoriety but rather a sincere act to notify the public and or government if they are interested.** While working in my yard I found a strange looking stone and upon closer examination, it turns out this is some type of carving, with facial features including some type of crystal where the mouth is, this is about the size of a large kitchen toaster, I have not had any test done yet, I am real busy.I am wondering if there are any experts in the field of geology, metallurgy, geo-physics or other specialized area that might be able to help identify it's origin.By the way, I do have a Master's in Psychology and am working on my second Master's in clinical Mental Health, so I am busy and would appreciate only serious inquiries, I did attempt to take pictures but because of the lighting that was available they did not come out but will take more if it is a requisite for verification of a possible encounter or landing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135975.html](http://www.nuforc.org/webreports/reports/135/S135975.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [473](http://www.nuforc.org/webreports/reports/164/S164295.html)
-- [472](http://www.nuforc.org/webreports/reports/164/S164296.html)
-- [471](http://www.nuforc.org/webreports/reports/164/S164444.html)
-- [470](http://www.nuforc.org/webreports/reports/164/S164297.html)
-- [469](http://www.nuforc.org/webreports/reports/164/S164288.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
