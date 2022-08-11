@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:52 on 11 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:39 on 11 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Gobles (MI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Orange Plasma Halo And Made A 45 Degree TurnCould Not Define The Craft, Surrounded By Orange Plasma Discharge, Headed South Parallel To M-40, Craft Was Moving Slowly,I Think It Was About 1500 To 2000 Ft Off The Ground,No Sound,No Running Lights,  Appeared To Be Quite Large.I Was Tuning In A New Telescope  And I Looked Up And There It Was. I Am 59 Yrs Old And Work At A School. The Other Witness Is The Neighbors Son He Is In High School, He Seen It First And Said It Did A 45 Degree Turn Then Passed Over My Location.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91717.html](http://www.nuforc.org/webreports/reports/091/S91717.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Victorville (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>An unidentified object seen flying through the high desert of Victorville, California.Earlier Saturday morning, I went outside to see if I can see any of the Perseid meteors. After seeing a few, I continued to scan the sky and looked straight up.  Somewhere around Andromeda and Pegasus, I see this "star" or so I thought it was, start moving. I watched it for a few seconds, blinked to refocus, and still seen that it was moving. It moved in a straight line, slowly, no tail or tracer, not blinking, just white, small, and very dim but bright enough to be seen. Definitely an unidentified object, nothing I've ever seen before.  It continued for about half a minute, maybe a little longer. Quickly, I called out to my wife, her sister, and brother-in-law. Luckily, my wife and brother-in-law was able to see it in the direction I was pointing.  They spotted it and followed until it disappeared towards Auriga and Gemini.  It was definitely too high for ordinary aircraft. Very weird and an amazing event to have captured with our naked eyes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91696.html](http://www.nuforc.org/webreports/reports/091/S91696.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [473](http://www.nuforc.org/webreports/reports/164/S164295.html)
-- [472](http://www.nuforc.org/webreports/reports/164/S164296.html)
-- [471](http://www.nuforc.org/webreports/reports/164/S164444.html)
-- [470](http://www.nuforc.org/webreports/reports/164/S164297.html)
-- [469](http://www.nuforc.org/webreports/reports/164/S164288.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
