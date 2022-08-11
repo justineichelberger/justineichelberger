@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:44 on 11 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:51 on 11 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Curlew (WA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Explained chevron ufo sightings on 08/11/2016This is more of an explanation of what was seen than a ufo sighting.  We were at Curlew Lake for a week.  We were watching the Perseid meteors, from 22:00 to 23:30.  I first noticed a chevron of 5 red blinking lights about 22:00.  They were traveling from east to west over Curlew Lake, 9 miles north of Republic, WA.  I called my son, wife and Mom out on the deck to look.  The continued to fly directly over head.  It was a flight of F-18 Super Hornets that had been refueling practicing over northern Washington for the whole day!  Head their engines, they were night refueling.  I think this might explain any chevron reports from probably the northern half of Washington for that night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129375.html](http://www.nuforc.org/webreports/reports/129/S129375.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Stowe (VT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Fireball above rt 100 and Moscow rd in pouring rainIt was at 11:15 pm. Raining, thunder and lighting. We were driving home to Stowe on rt 100 at about a half a mile south of Moscow rd we started to see a fireball in the sky, we stopped and watched it, then it started to move north along rt 100. We proceeded to follow it to Moscow rd where it seemed to stop so we parked. We stood there and watched it along with another couple who had also stopped to watch. It zig zagged around the sky until it just disappeared. It made no sound, and appeared to be below the clouds because it was raining so hard.Never seen anything like.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91788.html](http://www.nuforc.org/webreports/reports/091/S91788.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [473](http://www.nuforc.org/webreports/reports/164/S164295.html)
-- [472](http://www.nuforc.org/webreports/reports/164/S164296.html)
-- [471](http://www.nuforc.org/webreports/reports/164/S164444.html)
-- [470](http://www.nuforc.org/webreports/reports/164/S164297.html)
-- [469](http://www.nuforc.org/webreports/reports/164/S164288.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
