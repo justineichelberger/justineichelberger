@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:38 on 11 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:45 on 11 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Rushville (IN) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>RED DISK UFO (CIRCULAR/SQUARE) SIGHTED IN RUSHVILLE, IN BY THREE PERSONS-TRAVELING EASTTHREE WITNESSES SAW BRIGHT RED DISK SHAPED UFO (ONE WITNESS THOUGHT IT WAS CIRCULAR), HAD LIGHT SOURCE IN CENTER OF BOTTOM. MADE NO SOUND, WAS NOT FRIGHTENING.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77167.html](http://www.nuforc.org/webreports/reports/077/S77167.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1991, an anonymous witness in Montreal (Canada) (PQ) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A cube, or rectangular is shape and charcoal in color.I took a report from a fellow who use to live in Ontario back in the 1990s. He informs me that a car load of his friends headed off to see some bands playing one night. He informs me that one of the bands was not allowed into the province due to problems with Canada Customs. Seeing there wasn't going to be the band playing that they really wanted to see, they decided to stop by some record stores in the Montreal area to grab some new music before heading back home. As they were heading back home, taking Highway #40 between Montreal. This is when they all saw something very unusual. it was still light out and the fellows first thought they were watching a police helicopter staying stationary in the sky. Still thinking the object looked rather odd they slowed the vehicle and watched, eventfully they pulled the car over to the side of the road and got out to have a better look at this thing. After they all watched it, it did start to move away and extremely fast. They knew that it could not have been a helicopter just due to the speed it was moving at. He said it may have been in the shape of a cube, or rectangular is shape. The witness told me it may have been dark in color, like charcoal. But it was hard to tell for sure. While these men were watching this strange sight, three cars and a van had already pulled off to the side of the highway on the opposite side of the road from them and were all watching the same object. After the object had moved off and out of sighting, the fellows continued on their way back home wondering what is was they just witnessed. Thank you to the witness for the report.((NUFORC Note:  Date is approximate.  PD)) Brian Vike, Director HBCC UFO Research Canadian Toll Free UFO Hotline 1 866 262 1989 - Free call.Home - Phone/Fax 1 250 845 2189 HBCC UFO Forum Board http://216.147.50.102/HBCC-UFO/index.php email: hbccufo@telus.net Website: http://www.hbccufo.com</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33530.html](http://www.nuforc.org/webreports/reports/033/S33530.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [473](http://www.nuforc.org/webreports/reports/164/S164295.html)
-- [472](http://www.nuforc.org/webreports/reports/164/S164296.html)
-- [471](http://www.nuforc.org/webreports/reports/164/S164444.html)
-- [470](http://www.nuforc.org/webreports/reports/164/S164297.html)
-- [469](http://www.nuforc.org/webreports/reports/164/S164288.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
