@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:40 on 11 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:03:46 on 11 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Melbourne (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>At 10:40 PM, Sunday, August 11, as I was leaving for work, I saw an orange light in the sky.  It was north of me, moving north in a small, zigzag pattern. It was pulsating brighter, then fainter, but always visible.  There were no other usual aircraft green, red, white lights and no sound.  There appeared to be a slight haze around it and I could not make out an actual, physical object.  I watched for a minute when it just  went faint, then disappeared.It was the same kind of orange light I saw a year ago April for two consecutive  nights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101100.html](http://www.nuforc.org/webreports/reports/101/S101100.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Wenatchee (WA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Peter, I've noticed that some reports describe a starlike object that gets incredibly bright and then dims. I have seen this myself many times. The first time I saw this the increase in brightness was so dramatic that I thought I had witnessed an explosion in space! After some research I realized that what I was seeing was an Irridium flare. These are communication satellites that reflect the sunlight back to Earth when their solar panels are at a certain angle. These manmade objects reflect sunlight at night because they are out of the earths shadow. There are websites that will tell you when these objects pass over your area, these sites predict irridium flares accurately. Please don't think I'm a debunker, I know there is an unexplained phenomenae {ufo's!} because I have witnessed them myself. But some strange lights in the night sky are known manmade. Just thought I would try to seperate the wheat from the chaff. You are doing a great and necessary thing with this website. Wish you the best.((NUFORC Note:  We are aware of Iridium satellites, and the bright flash of light they give off, when their solar panels catch the Sun at a certain angle, relative to the observer's location.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38589.html](http://www.nuforc.org/webreports/reports/038/S38589.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [473](http://www.nuforc.org/webreports/reports/164/S164295.html)
-- [472](http://www.nuforc.org/webreports/reports/164/S164296.html)
-- [471](http://www.nuforc.org/webreports/reports/164/S164444.html)
-- [470](http://www.nuforc.org/webreports/reports/164/S164297.html)
-- [469](http://www.nuforc.org/webreports/reports/164/S164288.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
