@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:40 on 11 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:39 on 11 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Coral Springs (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Something in the sky thats changing colors and in the same spot for at least two hours...just gets higher.In the sky above some trees behind the apt. Looks like a start but too close and changing colors. Not getting closer or moving any further away. seems to be kind of bouncing up and down. Slowly moving higher in the sky in the same direction. Stayed north east the whole time for at least two hours. Just strange for something to be there that long in the same spot...and the fact that it keeps changing colors. Saw it a few days ago for the first time in the same exact place for about 3 hours. It is now back. wish it was closer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65159.html](http://www.nuforc.org/webreports/reports/065/S65159.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Baldy Village (CA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>bright well defined craft following possibly commercial airliner many wittiness.large bright well defined object following an aircraft, seen traveling from general south to north east direction, no obvious sound from the trailing unidentified object, jet noise from first plane heard, last seen heading north-north east, due east of manker flats campground in san gabriel mountains, not sure if related but later that night helicopter circling area north of campground and only once used its spot light and then only for a few moments after the use of its spot light it left the area, this was past about 2 am and later alot of traffic heading north on mt baldy road including some heavy diesel vehicles. which is unusual even more so at 3 am.   A friend who is also an A&P mechanic also wittiness the object and pointed out that it was flying with no beacon lights in close proximity to another craft, note manker flats campground aroud 7000' above sea level</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91766.html](http://www.nuforc.org/webreports/reports/091/S91766.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [473](http://www.nuforc.org/webreports/reports/164/S164295.html)
-- [472](http://www.nuforc.org/webreports/reports/164/S164296.html)
-- [471](http://www.nuforc.org/webreports/reports/164/S164444.html)
-- [470](http://www.nuforc.org/webreports/reports/164/S164297.html)
-- [469](http://www.nuforc.org/webreports/reports/164/S164288.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
