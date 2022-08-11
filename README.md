@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:39 on 11 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:40 on 11 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Baldy Village (CA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>bright well defined craft following possibly commercial airliner many wittiness.large bright well defined object following an aircraft, seen traveling from general south to north east direction, no obvious sound from the trailing unidentified object, jet noise from first plane heard, last seen heading north-north east, due east of manker flats campground in san gabriel mountains, not sure if related but later that night helicopter circling area north of campground and only once used its spot light and then only for a few moments after the use of its spot light it left the area, this was past about 2 am and later alot of traffic heading north on mt baldy road including some heavy diesel vehicles. which is unusual even more so at 3 am.   A friend who is also an A&P mechanic also wittiness the object and pointed out that it was flying with no beacon lights in close proximity to another craft, note manker flats campground aroud 7000' above sea level</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91766.html](http://www.nuforc.org/webreports/reports/091/S91766.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Melbourne (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>At 10:40 PM, Sunday, August 11, as I was leaving for work, I saw an orange light in the sky.  It was north of me, moving north in a small, zigzag pattern. It was pulsating brighter, then fainter, but always visible.  There were no other usual aircraft green, red, white lights and no sound.  There appeared to be a slight haze around it and I could not make out an actual, physical object.  I watched for a minute when it just  went faint, then disappeared.It was the same kind of orange light I saw a year ago April for two consecutive  nights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101100.html](http://www.nuforc.org/webreports/reports/101/S101100.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [473](http://www.nuforc.org/webreports/reports/164/S164295.html)
-- [472](http://www.nuforc.org/webreports/reports/164/S164296.html)
-- [471](http://www.nuforc.org/webreports/reports/164/S164444.html)
-- [470](http://www.nuforc.org/webreports/reports/164/S164297.html)
-- [469](http://www.nuforc.org/webreports/reports/164/S164288.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
