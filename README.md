@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:38 on 11 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:42 on 11 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Baldy Village (CA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>bright well defined craft following possibly commercial airliner many wittiness.large bright well defined object following an aircraft, seen traveling from general south to north east direction, no obvious sound from the trailing unidentified object, jet noise from first plane heard, last seen heading north-north east, due east of manker flats campground in san gabriel mountains, not sure if related but later that night helicopter circling area north of campground and only once used its spot light and then only for a few moments after the use of its spot light it left the area, this was past about 2 am and later alot of traffic heading north on mt baldy road including some heavy diesel vehicles. which is unusual even more so at 3 am.   A friend who is also an A&P mechanic also wittiness the object and pointed out that it was flying with no beacon lights in close proximity to another craft, note manker flats campground aroud 7000' above sea level</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91766.html](http://www.nuforc.org/webreports/reports/091/S91766.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Vashon Island (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Slow moving, flashing lightMy wife and I were on our back porch to try and see a meteor or two, and while we managed to catch a couple in the full moon, we also saw an odd light that I've never seen before. The object was a single point of light that appeared as a very short flash that repeated at a very regular interval.  It appeared every 32 to 35 seconds. It was first noticed fairly high in the sky, and very slowly moved due East.  We are surrounded by trees, so we could not track it very far, but it took at least 30 minutes to move the short distance.  Through binoculars, it still did not have any specific shape and looked white to slightly yellow.  There were no clouds at the time.  As stated above, there was a full moon up, and we are less than 10 miles from Seattle, so there is a lot of light pollution. I've seen plenty of satelites in the past, but this seemed quite different.  I'm sure someone knows what it is, I'm just dying to find out. Thanks((NUFORC Note:  We spoke with this witness at length, and we found him to be quite credible.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30654.html](http://www.nuforc.org/webreports/reports/030/S30654.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [473](http://www.nuforc.org/webreports/reports/164/S164295.html)
-- [472](http://www.nuforc.org/webreports/reports/164/S164296.html)
-- [471](http://www.nuforc.org/webreports/reports/164/S164444.html)
-- [470](http://www.nuforc.org/webreports/reports/164/S164297.html)
-- [469](http://www.nuforc.org/webreports/reports/164/S164288.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
