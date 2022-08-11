@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:03:46 on 11 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:53 on 11 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Wenatchee (WA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Peter, I've noticed that some reports describe a starlike object that gets incredibly bright and then dims. I have seen this myself many times. The first time I saw this the increase in brightness was so dramatic that I thought I had witnessed an explosion in space! After some research I realized that what I was seeing was an Irridium flare. These are communication satellites that reflect the sunlight back to Earth when their solar panels are at a certain angle. These manmade objects reflect sunlight at night because they are out of the earths shadow. There are websites that will tell you when these objects pass over your area, these sites predict irridium flares accurately. Please don't think I'm a debunker, I know there is an unexplained phenomenae {ufo's!} because I have witnessed them myself. But some strange lights in the night sky are known manmade. Just thought I would try to seperate the wheat from the chaff. You are doing a great and necessary thing with this website. Wish you the best.((NUFORC Note:  We are aware of Iridium satellites, and the bright flash of light they give off, when their solar panels catch the Sun at a certain angle, relative to the observer's location.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38589.html](http://www.nuforc.org/webreports/reports/038/S38589.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Salem/Peabody (MA) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Long black cylindrical object ;with large bowl shape at end; silver with a concave top; points at top part of bowl shape.Driving we saw a cylindrical object black in color. It had a bowl shape attached to the end of the cylinder, three dimensional. It was black in color the top of the object was silver. The top of the bowl shape was concave. It moved slowly and was about 200ft from the ground. We pulled over to watch it for about 10 minutes. above a field and then again from a larger field around the corner. It had a yellow hue around it and then the hue changed to blue. It wasn't a bright hue. It was very suddle. It was daylight about 11:00 am. The object appeared from the south and traveled toward the west. The cylinder on the bottom was quite long and the bnowl shape attached to the end was large as well.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30658.html](http://www.nuforc.org/webreports/reports/030/S30658.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [473](http://www.nuforc.org/webreports/reports/164/S164295.html)
-- [472](http://www.nuforc.org/webreports/reports/164/S164296.html)
-- [471](http://www.nuforc.org/webreports/reports/164/S164444.html)
-- [470](http://www.nuforc.org/webreports/reports/164/S164297.html)
-- [469](http://www.nuforc.org/webreports/reports/164/S164288.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
