@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:14:10 on 11 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:40 on 11 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Garrettsville (OH) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 64</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158918.html](http://www.nuforc.org/webreports/reports/158/S158918.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Coral Springs (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Something in the sky thats changing colors and in the same spot for at least two hours...just gets higher.In the sky above some trees behind the apt. Looks like a start but too close and changing colors. Not getting closer or moving any further away. seems to be kind of bouncing up and down. Slowly moving higher in the sky in the same direction. Stayed north east the whole time for at least two hours. Just strange for something to be there that long in the same spot...and the fact that it keeps changing colors. Saw it a few days ago for the first time in the same exact place for about 3 hours. It is now back. wish it was closer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65159.html](http://www.nuforc.org/webreports/reports/065/S65159.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [473](http://www.nuforc.org/webreports/reports/164/S164295.html)
-- [472](http://www.nuforc.org/webreports/reports/164/S164296.html)
-- [471](http://www.nuforc.org/webreports/reports/164/S164444.html)
-- [470](http://www.nuforc.org/webreports/reports/164/S164297.html)
-- [469](http://www.nuforc.org/webreports/reports/164/S164288.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
