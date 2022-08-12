@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:33 on 12 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:35 on 12 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in El Centro (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Last night on 08/12/2011 at around 0800 and 0915 hrs, I was watering the front lawn of my house and I saw a helicopter flying around the area, shining the area with its spot light like looking for something or someone. At first I through it was the Border Patrol Flying around looking for persons, but I saw them move toward town and pay no attention to them. The moon was bright as day last night, when something caught my eye and I looked up to the sky.I saw this bright light kind of white blue light fly slow moving toward the northeast.  To me this object looked like it was checking out our area moving slowly, but the funny thing is that there were no blinking lights like regular airplanes and not making any  noise of any kind. I just looked at it for a while slowly moving over the sky like nothing to worry about I didn’t have a camera or a video camera to take a snap shot, but what can you expect . When I’m outside watering the lawn I don’t expect to be looking up to the sky. I’m watering my lawn.Over to the south I saw the helicopter going in circles looking around the area and not making contact toward this object, it was kind of strange.  This object slowly moved toward the northeast some were the area of the chocolate mountains area and vanishes up to the sky.For the fifth time this year, I saw these objects flying past the Imperial Valley and they just past through our area and vanish.  Very strange sightings! The next day 08/13/2011 my sister-in-law calls my wife and informs her that last night there were three helicopters flying over the city of El Centro, California, she said it looked strange that there were these helicopters flying over like looking for something.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83129.html](http://www.nuforc.org/webreports/reports/083/S83129.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Donnelly (ID) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>6 red light formation viewed in Donnelly, Idaho.We are camping at Poison Creek.  There were three adults and two kids present.  We happened to be looking up at the sky because there were an abundance of shooting stars. That is when I noticed a slow going formation of red lights.  There were four red lights across the top.  Beneath the top lights there was one light on each side (not directly under the lights but slightly out).  At first, we thought it was a series of helicopters, but it became apparent that helicopters would not fly so close together, nor would they stay in perfect formation throughout the flight.  There were also no white lights mixed in with the slow blinking red lights. After watching this object in amazement for several minutes, it was suddenly out if view.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112505.html](http://www.nuforc.org/webreports/reports/112/S112505.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [637](http://www.nuforc.org/webreports/reports/164/S164373.html)
-- [636](http://www.nuforc.org/webreports/reports/164/S164321.html)
-- [635](http://www.nuforc.org/webreports/reports/164/S164318.html)
-- [634](http://www.nuforc.org/webreports/reports/164/S164320.html)
-- [633](http://www.nuforc.org/webreports/reports/164/S164461.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
