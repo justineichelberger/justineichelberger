@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:55 on 12 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:33 on 12 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Herminie (PA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Three (3) large dimly lit fuzzy lights in an "L" shape formation at very high altitude.  Viewed during the Perseid meteor shower.While my 10 year old daughter and I were watching the Perseid Meteor Shower on the morning of August 12th, at 0330 hrs, she noticed 3 lights crossing the sky to the north of our location.  I did not see the lights at first, but as they crossed the center line of our view, I saw them.  They were very dimly lit and in a formation of the letter "L" (one light at each point). To describe the visibility and brightness of the light, picture in your mind a flood light seen in the distance on a foggy night.  They were only visible if I squinted. The sky was clear and the stars were brightly visible.  I could not see navigation lights or contrails.  They were fuzzy lights heading in an NW direction at a constant speed.  My daughter became scared and ask if the lights were flying saucers.  I told her they were planes.  I had no answer to give. I am not convinced that there are visitors coming to earth, but who can explain what we saw?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08858.html](http://www.nuforc.org/webreports/reports/008/S08858.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in El Centro (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Last night on 08/12/2011 at around 0800 and 0915 hrs, I was watering the front lawn of my house and I saw a helicopter flying around the area, shining the area with its spot light like looking for something or someone. At first I through it was the Border Patrol Flying around looking for persons, but I saw them move toward town and pay no attention to them. The moon was bright as day last night, when something caught my eye and I looked up to the sky.I saw this bright light kind of white blue light fly slow moving toward the northeast.  To me this object looked like it was checking out our area moving slowly, but the funny thing is that there were no blinking lights like regular airplanes and not making any  noise of any kind. I just looked at it for a while slowly moving over the sky like nothing to worry about I didn’t have a camera or a video camera to take a snap shot, but what can you expect . When I’m outside watering the lawn I don’t expect to be looking up to the sky. I’m watering my lawn.Over to the south I saw the helicopter going in circles looking around the area and not making contact toward this object, it was kind of strange.  This object slowly moved toward the northeast some were the area of the chocolate mountains area and vanishes up to the sky.For the fifth time this year, I saw these objects flying past the Imperial Valley and they just past through our area and vanish.  Very strange sightings! The next day 08/13/2011 my sister-in-law calls my wife and informs her that last night there were three helicopters flying over the city of El Centro, California, she said it looked strange that there were these helicopters flying over like looking for something.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83129.html](http://www.nuforc.org/webreports/reports/083/S83129.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [637](http://www.nuforc.org/webreports/reports/164/S164373.html)
-- [636](http://www.nuforc.org/webreports/reports/164/S164321.html)
-- [635](http://www.nuforc.org/webreports/reports/164/S164318.html)
-- [634](http://www.nuforc.org/webreports/reports/164/S164320.html)
-- [633](http://www.nuforc.org/webreports/reports/164/S164461.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
