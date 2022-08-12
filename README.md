@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:38 on 12 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:33 on 12 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Baker City (OR) reported seeing craft that fit the description of some 'Formation' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>3 objects in triangular pattern traverse sky with pattern change occuring.Saw 3 golden lights approaching from the SW. Were in a pattern with 2 up front and 1 in the rear ( a long triangle). As they flew past Cygnus they cut across the wing tip. All during the time they were approaching Cygnus, the right front object was gradually decelerating, it did this until it was even with the rear object. The triangle pattern had now reversed. The reversal took the entire time that it took these 3 objects to cover the sky.  They proceeded in the reversed pattern until I could no longer see them. I watched them with 7x50 binoculars, where they looked pretty bright. Without the binoculars they were very visible because of their brightness; they apperaed to be as bright as gamma Aquila. They had no flashing lights, even in the binoculars, and did not "wobble" as satellights sometimes do. They also never appeared to drop in the sky, even as they travelled beyond the binocular range. It took nearly 9 minutes for them to traverse the sky from horizon to horizon! .  I was watching from a small city 10k population site with street lights...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24424.html](http://www.nuforc.org/webreports/reports/024/S24424.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Brandon (FL) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>RECTANGULAR WHITE LIGHT OVER BRANDON,FLORIDAMy wife,my brother,and i were coming out of the house,when a rectangle of white light,with the back side split into two narrow columns showed(traveling north) in the sky,at high speed,but low enough for me to notice the shape.It disappeared while entering a cloud(it did not fade away,it just disappeared).We could not detect any sound,but the reason we were able to see it was because of its brightness and low altitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65199.html](http://www.nuforc.org/webreports/reports/065/S65199.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [637](http://www.nuforc.org/webreports/reports/164/S164373.html)
-- [636](http://www.nuforc.org/webreports/reports/164/S164321.html)
-- [635](http://www.nuforc.org/webreports/reports/164/S164318.html)
-- [634](http://www.nuforc.org/webreports/reports/164/S164320.html)
-- [633](http://www.nuforc.org/webreports/reports/164/S164461.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
