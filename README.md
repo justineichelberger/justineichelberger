@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:41:53 on 12 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:28:12 on 12 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Jackson (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.8333333333333334 - 0.8333333333333334 minutes.</sub><blockquote><sub>Very, very bright led type light moving slowly west to east.   High in the atmosphere.Very, very bright led type light, very high in the atmosphere moving slowly from west to east.  Similar to a very high flying airplane, however many many times brighter and moving more slowly.  A bright white light that out shined the moon.  20-30 seconds of movement, light then slowed, then became stationary.  Remained stationary for 10-15 seconds, then simply vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129234.html](http://www.nuforc.org/webreports/reports/129/S129234.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Bothell (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>It looked like the saucer on the USS Enterprise from Star Trek.  It had two disks, one on top of the other.  Also, it had a flashing white light on top and bottom.It flew over my house.  Then it proceeded to fly straight, and gradually swerved off to the right, heading east.  I looked at it through binoculars and would have taken a picture, if I had a camera.  Two of the observers are 13 yr. olds, two others  (myself included)  are 14, and there was one 45 yr. old.  The UFO was illuminated in what seemed to be a white light.  It had two flashing white lights: one on top, the other on bottom.  It had a faint red light in the side, also flashing.  The UFO looked like two discs stacked on top of each other, and it was in the shape of the saucer from the enterprise on Star Trek.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04363.html](http://www.nuforc.org/webreports/reports/004/S04363.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [637](http://www.nuforc.org/webreports/reports/164/S164373.html)
-- [636](http://www.nuforc.org/webreports/reports/164/S164321.html)
-- [635](http://www.nuforc.org/webreports/reports/164/S164318.html)
-- [634](http://www.nuforc.org/webreports/reports/164/S164320.html)
-- [633](http://www.nuforc.org/webreports/reports/164/S164461.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
