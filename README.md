@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:45 on 12 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:37 on 12 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Elizibethtown (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>I was looking at the eastern part of the sky and a bright light brighter than the north star just appeared out of no were. It lasted for about 10 seconds and than a ran inside.It was a white bright cicled object there was only one witness and that was myself.  Sept. the tenth my parents saw the same thing. it lite the sky up. ther was only one cicled object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09848.html](http://www.nuforc.org/webreports/reports/009/S09848.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Lake of the Woods (Near; closest city Ashland - 30 mi.) (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>SUMMARY:  3 luminous objects moving extremely fast, instant directional changes, changed colorMy parents and I were observing the Perseid meteor shower in a winter recreation site.  We decided to go there because it was very dark and it was basically a large field in which we could park our pickup.  We had binoculars and a mid-size telescope with us.  As we were watching the meteor shower, we all noticed moving, starlike points which changed color from white to red.  There were 3 such objects, and they appeared to be at an extremely high altitude (at least where commercial aircraft would fly).  They were mostly directly above us or at least 3/4 up from the horizon.  We were not certain of their altitude since there were no reference points.  Through binoculars the objects appeared to be executing extremely high-speed maneuvers (looping and passing close to one another) and they could accelerate or turn VERY quickly.  The telescope was impossible to use while viewing the objects because of their speed.  There is no way these were planes, helicopters, meteors, or flyin!g insects like fireflies (there are no fireflies that change color or live west of the Rockies).  I have no clue about what they were.  I would like it if someone e-mailed me regarding this, if it's possible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01970.html](http://www.nuforc.org/webreports/reports/001/S01970.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [637](http://www.nuforc.org/webreports/reports/164/S164373.html)
-- [636](http://www.nuforc.org/webreports/reports/164/S164321.html)
-- [635](http://www.nuforc.org/webreports/reports/164/S164318.html)
-- [634](http://www.nuforc.org/webreports/reports/164/S164320.html)
-- [633](http://www.nuforc.org/webreports/reports/164/S164461.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
