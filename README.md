@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:33 on 12 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:45 on 12 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Brandon (FL) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>RECTANGULAR WHITE LIGHT OVER BRANDON,FLORIDAMy wife,my brother,and i were coming out of the house,when a rectangle of white light,with the back side split into two narrow columns showed(traveling north) in the sky,at high speed,but low enough for me to notice the shape.It disappeared while entering a cloud(it did not fade away,it just disappeared).We could not detect any sound,but the reason we were able to see it was because of its brightness and low altitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65199.html](http://www.nuforc.org/webreports/reports/065/S65199.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Elizibethtown (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>I was looking at the eastern part of the sky and a bright light brighter than the north star just appeared out of no were. It lasted for about 10 seconds and than a ran inside.It was a white bright cicled object there was only one witness and that was myself.  Sept. the tenth my parents saw the same thing. it lite the sky up. ther was only one cicled object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09848.html](http://www.nuforc.org/webreports/reports/009/S09848.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [637](http://www.nuforc.org/webreports/reports/164/S164373.html)
-- [636](http://www.nuforc.org/webreports/reports/164/S164321.html)
-- [635](http://www.nuforc.org/webreports/reports/164/S164318.html)
-- [634](http://www.nuforc.org/webreports/reports/164/S164320.html)
-- [633](http://www.nuforc.org/webreports/reports/164/S164461.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
