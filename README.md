@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:29:32 on 12 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:41:53 on 12 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Whitby (Canada) (ON) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>MY husband and I were sitting in our backyard last Friday night around 1am. I looked up at the sky, it was a clear night and you could see the stars. All of a sudden I saw this bright white shape, I guess you could say it was in the shape of a tear drop, but very large with a large white tail, moving very fast. Faster than I had ever seen anything move. It lite up the sky, and unlike a falling star that goes downward, this bright white light, with a large trail of smoke behide it. Or what seemed like a trail of smoke was moving upward very very fast. Then it was gone. I had never seen anything before like it. But the stranges thing was the tail of smoke seemed to disappear with it, as though it was attached to it.I can draw it, but having trouble discribing it. We do not live near any airports, airfields armybases or anything that could of caused it. It was very dark out side and this lite up the sky, it was so big.((NUFORC Note:  Witness indicates that the date of the sighting event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45644.html](http://www.nuforc.org/webreports/reports/045/S45644.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Jackson (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.8333333333333334 - 0.8333333333333334 minutes.</sub><blockquote><sub>Very, very bright led type light moving slowly west to east.   High in the atmosphere.Very, very bright led type light, very high in the atmosphere moving slowly from west to east.  Similar to a very high flying airplane, however many many times brighter and moving more slowly.  A bright white light that out shined the moon.  20-30 seconds of movement, light then slowed, then became stationary.  Remained stationary for 10-15 seconds, then simply vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129234.html](http://www.nuforc.org/webreports/reports/129/S129234.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [637](http://www.nuforc.org/webreports/reports/164/S164373.html)
-- [636](http://www.nuforc.org/webreports/reports/164/S164321.html)
-- [635](http://www.nuforc.org/webreports/reports/164/S164318.html)
-- [634](http://www.nuforc.org/webreports/reports/164/S164320.html)
-- [633](http://www.nuforc.org/webreports/reports/164/S164461.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
