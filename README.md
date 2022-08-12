@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:06:41 on 12 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:33 on 12 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Folsom (CA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>5 lights in a V heading southeast very fast and silently, then lights split going different directions and disappeared5 faint Lights in a V or Chevron formation with dark figure behind, flying silently at very high speed southeast, then lights split into different directions and disappeared. Had the appearance of gliding((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101103.html](http://www.nuforc.org/webreports/reports/101/S101103.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Fitchburg (MA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.9166666666666666 - 0.9166666666666666 minutes.</sub><blockquote><sub>Photo's of Triangular UFO  exiting  apple orchardOn Monday morning 08/12/02, 7:30 am, I notice a triangualar object hovering between apple trees on a hill that overlooks my backyard.  The object then rose from the the ground level to over 80-90 yards up over the tree line.  It did this in less that a second.I then woke my son and pointed the object out. While he viewed this object I ran downstairs to get my digital olympus camera and then ran out into the middle of my back yard.  The object had moved 200 yards east and at that time i manages to snap 6 pictures of an object that I cannot explain.  There was no wind, there was no sound and it moved faster than any objest that I have seen. The shape was trinagualar and seemed to spin like a top.  After exmining the pictures at 800X, we noticed a white field arounf the object that looked very interesting.((NUFORC Note:  We spoke at length with this witness, and found him to be quite convincing.  We are awaiting copies of the photos, and will post them if they look interesting to us.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24413.html](http://www.nuforc.org/webreports/reports/024/S24413.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [637](http://www.nuforc.org/webreports/reports/164/S164373.html)
-- [636](http://www.nuforc.org/webreports/reports/164/S164321.html)
-- [635](http://www.nuforc.org/webreports/reports/164/S164318.html)
-- [634](http://www.nuforc.org/webreports/reports/164/S164320.html)
-- [633](http://www.nuforc.org/webreports/reports/164/S164461.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
