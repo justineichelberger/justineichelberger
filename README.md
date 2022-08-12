@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:03:11 on 12 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:55 on 12 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Montauk (NY) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>bright flash followed by white light suspened in sky in montaukit was a very clear night, no clouds in the sky. an extremely bright flash occured lighting up everything in sight for 1-2 full seconds. when we looked up we saw what i would say as a bright white hole in the sky. its shape was that of a stingray. larger in the middle and slender at the tips. it slowly faded away over a period of ten seconds</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45673.html](http://www.nuforc.org/webreports/reports/045/S45673.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Herminie (PA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Three (3) large dimly lit fuzzy lights in an "L" shape formation at very high altitude.  Viewed during the Perseid meteor shower.While my 10 year old daughter and I were watching the Perseid Meteor Shower on the morning of August 12th, at 0330 hrs, she noticed 3 lights crossing the sky to the north of our location.  I did not see the lights at first, but as they crossed the center line of our view, I saw them.  They were very dimly lit and in a formation of the letter "L" (one light at each point). To describe the visibility and brightness of the light, picture in your mind a flood light seen in the distance on a foggy night.  They were only visible if I squinted. The sky was clear and the stars were brightly visible.  I could not see navigation lights or contrails.  They were fuzzy lights heading in an NW direction at a constant speed.  My daughter became scared and ask if the lights were flying saucers.  I told her they were planes.  I had no answer to give. I am not convinced that there are visitors coming to earth, but who can explain what we saw?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08858.html](http://www.nuforc.org/webreports/reports/008/S08858.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [637](http://www.nuforc.org/webreports/reports/164/S164373.html)
-- [636](http://www.nuforc.org/webreports/reports/164/S164321.html)
-- [635](http://www.nuforc.org/webreports/reports/164/S164318.html)
-- [634](http://www.nuforc.org/webreports/reports/164/S164320.html)
-- [633](http://www.nuforc.org/webreports/reports/164/S164461.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
