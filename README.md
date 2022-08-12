@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:37 on 12 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:06:41 on 12 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Fort Smith (AR) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Oval lighted object made no noise as it rapidly flew overhead in sky.On Friday, August 12 2005 around 4:25 AM I stepped outside for a smoke, and I looked overhead to see if I could catch any of the meteor shower.  It was too cloudy, but I spotted a single oval object moving rapidly across the sky.  It was heading toward the north side of town, and it had lights on the underside.  It seemed almost to be shiny or have a haze or glow to the sides, but I can't be sure.  It could have been a trick of the lights on the object.  It did not look like any aircraft I had seen before, and I heard no noise at all.  The object seemed to maintain its speed while overhead, though as I was losing sight of it the object seemed to slow some.  This however could have been due to my perspective and line of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45581.html](http://www.nuforc.org/webreports/reports/045/S45581.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Folsom (CA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>5 lights in a V heading southeast very fast and silently, then lights split going different directions and disappeared5 faint Lights in a V or Chevron formation with dark figure behind, flying silently at very high speed southeast, then lights split into different directions and disappeared. Had the appearance of gliding((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101103.html](http://www.nuforc.org/webreports/reports/101/S101103.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [637](http://www.nuforc.org/webreports/reports/164/S164373.html)
-- [636](http://www.nuforc.org/webreports/reports/164/S164321.html)
-- [635](http://www.nuforc.org/webreports/reports/164/S164318.html)
-- [634](http://www.nuforc.org/webreports/reports/164/S164320.html)
-- [633](http://www.nuforc.org/webreports/reports/164/S164461.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
