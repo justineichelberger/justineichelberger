@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:13:41 on 12 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:01:42 on 12 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in Des Moines (IA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Boomerang shape many light made no soundI must start by saying I have never told this to anyone, it was about 2:00 in the am the summer of 1977 I was 17 at the time, I was returning from a nearby lake where I liked to fish for bullheads, the lake was about 1 half mile NE of my home and could be easily reached by foot if I walked across some livestock grazing fields on the family farm the walk would generally take about 20 min. in the day light but at night a bit longer. As I was walking home I seen what at first I thought to be a helicopter coming from the SW I didn’t find it unusual to see planes or helicopters for the Des Moines airport was about 10 miles to the west of my home.  This is where things get upsetting, this thing, moved from about a half mile away from me to being within 50 foot over my head in what I can only describe the time it would take to walk three steps.  I remember trying to make sense of its appearance, I thought in a logical sense it must be a helicopter but it made no sound but I could feel a kind of low grade hum, its appearance was like a boomerang with the tips slightly pitching up and the bottom was covered with lights reds, greens and possibly blue.  The structure or body had a graphite look.  I remember the switch grass seamed to swirl but there was no wind, I was truly terrified, my home was only 70 or so yards away and all I could think of was I was going to die.  The last thing i remember was falling to the ground I never felt so small.  I tried to hide my face in my arms putting my hand on to my head I guess you would call it the Fedics position, then it was gone. I rose to my knees and that thing had already moved 2 miles away moving NW and I never heard it leave as I was curled up on the ground. As I can best recall the size was about 50 foot or more nose to tail and near to 60 yard from wing tip to wing tip.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96154.html](http://www.nuforc.org/webreports/reports/096/S96154.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Marietta (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2 Red lights moving quickly across the sky in unisonLooking to the east, I noticed a few star-sized red lightsfaintly appearing and then dissappearing. These were behind trees and difficult to see. NOTE: these may or may not be involved in sighting so this part could have just be speculation, thought I did see faint lights behind the trees.All of a sudden I realized two red lights were moving vertically parallel quite quickly at a steady rate across the sky together until they stopped. They couldn't have been an airplane because the lights where exactly parallel the whole time and a little too fast.  They stopped and looked like they were coming forward. There was a little bit of discernable shape around both lights, so I'm unsure if this was an illusion or if it was two objects seperate or one together.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45589.html](http://www.nuforc.org/webreports/reports/045/S45589.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [637](http://www.nuforc.org/webreports/reports/164/S164373.html)
-- [636](http://www.nuforc.org/webreports/reports/164/S164321.html)
-- [635](http://www.nuforc.org/webreports/reports/164/S164318.html)
-- [634](http://www.nuforc.org/webreports/reports/164/S164320.html)
-- [633](http://www.nuforc.org/webreports/reports/164/S164461.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
