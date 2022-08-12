@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:09:00 on 12 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:03:11 on 12 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Alameda (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>I saw a single red light that never changed shape or color but moved in an unconventional fasion.Sometimes around 3 am I go out and look up at the sky with my naked eyes.  On two different occasions when looking straight up I've seen this star sized red light that moves around now and then.  I'm wondering if it's some kind of satellite.  It stays in one place though and then moves a few degrees and stops and then repeats this moving a few degress from there to a different spot.  I have not seen it disappear, it outlasted me as I don't have much stamina.  What I've done is gone back inside for awhile to rest and then I've come back outside to see if it's still there and I was able to find it quickly and it continued doing its strange stopping and then moving a few degrees and stopping again.It stays completely red the whole time and does not scintilate at all.  I have to admit, part of me is wondering if it's a UFO but I've never heard of a UFO described this way.  If you know what it is please enlighten me.I saw this in Alameda California.  Unfortunately, I don't know the date, it was during last summer, that's all I remember.  I don't think it was ET, I think it may have been a  manmade UAV.  I recently joined an Astronomy forum and someone there thought I should report it here.  I have to say that I am surprised that so far no one else has seen something like this on the forum I joined.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59921.html](http://www.nuforc.org/webreports/reports/059/S59921.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Montauk (NY) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>bright flash followed by white light suspened in sky in montaukit was a very clear night, no clouds in the sky. an extremely bright flash occured lighting up everything in sight for 1-2 full seconds. when we looked up we saw what i would say as a bright white hole in the sky. its shape was that of a stingray. larger in the middle and slender at the tips. it slowly faded away over a period of ten seconds</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45673.html](http://www.nuforc.org/webreports/reports/045/S45673.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [637](http://www.nuforc.org/webreports/reports/164/S164373.html)
-- [636](http://www.nuforc.org/webreports/reports/164/S164321.html)
-- [635](http://www.nuforc.org/webreports/reports/164/S164318.html)
-- [634](http://www.nuforc.org/webreports/reports/164/S164320.html)
-- [633](http://www.nuforc.org/webreports/reports/164/S164461.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
