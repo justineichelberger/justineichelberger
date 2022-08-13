@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:37 on 13 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:02:15 on 13 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Martinez (CA) reported seeing craft that fit the description of some '' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Mother & son see a bright body moving overhead relatively fast.  Larger than star. Color was "auburn yellow." Other repts., too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00706.html](http://www.nuforc.org/webreports/reports/000/S00706.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Casa Grande (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>triangle with very bright lights on I-10 near Casa GrandeI have looked occasionally on this site to see if anyone else had posted about a sighting in near Casa Grande AZ in 1999.  To my surprise, someone else posted and apparently saw the exact thing I saw. Large, triange-shaped craft with three very bright lights on each corner.  The craft was darting very quickly across I-10 as we approached from the north.  My son was asleep in the back seat and I woke him to look.  The craft at one point got along side of the car and then "shot" at a very high speed parallel to the interstate..as if it was racing the cars.  At least two times, the craft seemed to stop in mid air and then spin, moving in the opposite direction.  I heard nothing. I slowed to watch but was too stunned to stop.  I saw only one car pulled to the side.  All others were going very slowing on the interstate.  I know what I saw and it was real.  I wish the other poster would contact me by email.((NUFORC Note:  Date of sighting may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54325.html](http://www.nuforc.org/webreports/reports/054/S54325.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164338.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164339.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164319.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164340.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
