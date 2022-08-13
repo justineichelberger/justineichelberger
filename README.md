@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:34 on 13 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:44 on 13 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Tromsoe (Norway) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I had a friend over. We went to the fridge to get some soda's.At that point we saw nothing on the sky.After maybe 10-15 min, we saw a flash of red light in the sky. Out of the light came two  alien aircrafts. Another flash of light came and there was two new "UFOs".It continued like that until it was 8-10 crafts.The crafts that i saw were the same as the ones that got me last year.The crafts were triangles with something looking like a big window on it.Last year I thought I was dreaming, but now I know the truth. I was alien abducted last year. I have been researching on this now and it was "the grays" that abducted me.Last year I had trouble recovering from this incident. It would be to painful to go true with this again.Thank you for your understanding.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58282.html](http://www.nuforc.org/webreports/reports/058/S58282.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Houston (Canada) (BC) reported seeing craft that fit the description of some 'Other' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>HBCC UFO talked with a gentleman who resides in Houston, B.C. The witness told me he packed his camera and tripod up and headed over to one of the fields on their farm. He was going to capture some shots of the planet Mars and the Moon as it is so beautiful right now. As he was setting up his equipment he noticed something very odd. In a totally clear sky he watched a cloud starting to form very quickly. As he mentioned it came out of no where and seemed to be shaping up in a oblong shape. Due to the Moon being bright he had no problem in watching this phenomena. The fellow also said there was some type of disturbance which was taking place in the cloud itself. He tried to explain what he saw, and the best example he could come up was: From end to end of this narrow formed cloud, it appeared to look like someone had taken a shot with a powerful gun, and the force of the shell was cutting through the cloud. Causing a disturbance within, or center of the cloud which ran from end to end. There was no lights/object seen at all, just this strange long mass of cloud which appeared right out of nowhere. It sat stationary for approx: 4 to 5 minutes and dissipated. Thank you to the witness for the report. Brian Vike, Director HBCC UFO Research Canadian Toll Free UFO Hotline 1 866 262 1989 - Free call.Editor: Canadian Communicator - Paranormal Magazine email: hbccufo@telus.net Website: http://www3.telus.net/public/wilbur8/hbcc_ufo_research.htm</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30729.html](http://www.nuforc.org/webreports/reports/030/S30729.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164338.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164339.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164319.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164340.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
