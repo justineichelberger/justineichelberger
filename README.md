@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:42 on 13 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:44 on 13 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Las Cruces (NM) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Yellow orange, large, oval light faded in and out over about 15 seconds.One very bright, large, oval, orange yellow light faded in and stayed for about 15 seconds, then faded out in the Southwest sky.  We witnessed the same phenomenon the previous night in the exact same spot in the sky at the exact time of day. Observers are not really into UFOs and were just sitting outside chatting.  One is a retired tattoo artist the other is a repossession specialist.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148269.html](http://www.nuforc.org/webreports/reports/148/S148269.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>saw 6 oval disks close to the ground6 oval disks came very close to the ground maybe on a hundred feet up then they shot in to the sky and were gone in a blink of an eye((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38631.html](http://www.nuforc.org/webreports/reports/038/S38631.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164338.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164339.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164319.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164340.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
