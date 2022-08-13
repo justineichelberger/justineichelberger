@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:02:15 on 13 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:33 on 13 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Casa Grande (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>triangle with very bright lights on I-10 near Casa GrandeI have looked occasionally on this site to see if anyone else had posted about a sighting in near Casa Grande AZ in 1999.  To my surprise, someone else posted and apparently saw the exact thing I saw. Large, triange-shaped craft with three very bright lights on each corner.  The craft was darting very quickly across I-10 as we approached from the north.  My son was asleep in the back seat and I woke him to look.  The craft at one point got along side of the car and then "shot" at a very high speed parallel to the interstate..as if it was racing the cars.  At least two times, the craft seemed to stop in mid air and then spin, moving in the opposite direction.  I heard nothing. I slowed to watch but was too stunned to stop.  I saw only one car pulled to the side.  All others were going very slowing on the interstate.  I know what I saw and it was real.  I wish the other poster would contact me by email.((NUFORC Note:  Date of sighting may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54325.html](http://www.nuforc.org/webreports/reports/054/S54325.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Phoenix, Arizona 13 August 2011 Approximately 9:15 pm PDT (GMT -7)  Disk Shaped (Domed Saucer shape, with multicolored, animated lights around rim)  At approximately 9:15 pm local time, two individuals traveling southbound on the SR-51 Parkway, (South of Greenway, North of Cactus) became aware of a large, domed, saucer shaped object, above the freeway. The object appeared to be a solid “craft” or aerial vehicle of unknown type. (as opposed to just a set of lights in the sky)  Duration of the sighting was brief, approximately 15 seconds, during which time the object performed various maneuvers, and displayed very unusual lights.When first spotted, by the passenger (Right, front seat) the saucer shaped object was hovering, or flying very slowly, with it's circular plane horizontal, or parallel to the ground.  It then tilted, or rotated towards the cars on the freeway, whereupon a single blue and red light (spaced closely together on the forward facing rim) illuminated, and then began “propagating” around the rim, in opposite directions. (Blue lights, clockwise, Red lights, counter-clockwise)  At the same time, it became apparent, the saucer shaped object was domed on it's upper surface.  Also, at the same time, the entire object, or craft was observed to rotate counter clockwise, while the lights around it's rim, remained stationary.The object then began moving north, towards the observer's car, and vanished from sight.  The two witnesses left the freeway at the next exit (Cactus Road) pulling over as soon as possible to try to spot the object again.  While doing this, they observed another couple, apparently doing the same thing.The driver of the witness car produced the attached drawing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83221.html](http://www.nuforc.org/webreports/reports/083/S83221.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164338.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164339.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164319.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164340.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
