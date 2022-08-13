@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:40 on 13 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:41 on 13 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Edmond (OK) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>2 Steady moving lights that were similar to stars, one behind the other, traveling very fast and disapearing.At approx. 345 on 8/13/2012 while watching the Perseids Meteor Shower, my son and myself witnessed just barely towards the east but nearly straight up in the sky 2 objects that were identical to the stars, but they were moving one behind the other across the sky and then suddenly disapeared.  Both these objects were extremely high in the sky and what looked well beyond that of typical aircraft. There were no blinking lights. There was no noise.  Both objects were exactly the same brilliance and stayed perfectly one behind the other traveling at what looked like a very high rate of speed.They did not travel the speed of meteors, but rather a steady speed more like an aircraft.I am 46 years of age....my boy 10 years old. I have always been an outdoorsman and am well familiar of the night skies.  This was unlike anything I have ever seen.Both my son and I were completely amazed at what we saw and I am hoping that this was also witnessed by some others due to the Perseid Meteors Shower peaking over the last two days.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91804.html](http://www.nuforc.org/webreports/reports/091/S91804.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Micanopy (FL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>UFO appears in thunderstormOn the date and time stated in report details a severe thunderstorm was occuring.  To share the event I shot several videos of the event.  Upon sharing them with my wife on 08/15/20 we witnessed the craft traveling at a high rate of speed against the high winds of the storm.  It was moving from west to east well above the tree line.  It was hard to make out in the rain but made no noise.  This is first time we have ever witnessed anything like this and was quite suprising to see in a video of a storm.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158644.html](http://www.nuforc.org/webreports/reports/158/S158644.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164338.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164339.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164319.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164340.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
