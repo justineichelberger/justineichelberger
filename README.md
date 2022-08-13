@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:44 on 13 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:37 on 13 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>saw 6 oval disks close to the ground6 oval disks came very close to the ground maybe on a hundred feet up then they shot in to the sky and were gone in a blink of an eye((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38631.html](http://www.nuforc.org/webreports/reports/038/S38631.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>We had gone up to a mountian side to watch the city lights. We were getting our lawn chairs from out of the pickup when my companion noticed somthing moving above and behind the mountian. It was contrasting agianst the sky. The object wich shape i was unable to make out was darker that the dusk sky. It seemed to float  and move frm north to east slowly . Then it was gone it didnt disapear but it faded away. We dont know what it was but it was strange enough that  my friend and i had to tell someone</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24441.html](http://www.nuforc.org/webreports/reports/024/S24441.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164338.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164339.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164319.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164340.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
