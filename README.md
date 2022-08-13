@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:56 on 13 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:45 on 13 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Orcas Island (WA) reported seeing craft that fit the description of some 'Flash' over a period of approximately flash - flash minutes.</sub><blockquote><sub>As we starred into the eastern sky, we saw several moving 'things'.Most traveled in a straight direction.  One made a left turn.Then all of a sudden, a bright light flashed, instantly, and it blinded all of us, and we closed our eyes for a second.  It appeared to be so close, like right above the tall pine tree.  But in a flash it was gone.  We didn't see anything where the flash took place.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31719.html](http://www.nuforc.org/webreports/reports/031/S31719.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Atlanta (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Single light that morphs into line of lights or triangle, then back to a light and speeds away.I am a sixty year old Marine corps veteran who has watched the skies since I was a teenage Civilian Observation Corps volunteer.  I do not drink nor take drugs which would interfere with my vision. I hesitated for several weeks to report this anamolous phenomenon because sky conditions have not been ideal -- thunderstorms and clouds, not to mention the urban light scatter that makes observations in Atlanta difficult.  However this sighting has repeated itself a dozen times in the last few weeks and I felt compelled to report it.  In each occurance several hovering lights have been observed out of my bedroom window which faces almost due east.  This view looks out on a main air traffic corridor in and out of ATL (Hartsfield-Jackson International) and PDK (Peachtree Dekalb).  On these evenings I would observe the normal comings and goings of the aircraft, with their landing lights, wing lights, strobes, etc. and what I observed was obviously not an aircraft.  I would see one perhaps two lights hovering in position from just above the horizon, perhaps ten degrees, up to almost directly above.  On one or two occasions the light would appear just after a flash like a strobe,  On others the strobe flash was diffused by a high overcast.  The lights, which varied from a reddish white to a bluish white, would remain stationary for thirty seconds to five minutes, then would fade and in their place a line of lights would appear, usually canted from the horizontal, like a wing making a turn, or sometimes three red lights would appear in the same spot in the shape of a triangle, equilateral or isocoles, then would morph back into a light and move quickly, probably too quickly for an aircraft, to the northwest or southwest, DIRECTLY ACROSS the flight patterns of two airports.  It is extremely difficult to estimate altitude but would not be surprised if they were manuvering over fifty thousand feet.  As I mentioned the cloud cover made it difficult to track them completely across the sky but the consistency of the pattern is remarkable.   It did not seem to exhibit the flight characteristics of an airplane (unless a Harrier jumpjet which is highly inprobable) or a helicopter or a satellite.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51660.html](http://www.nuforc.org/webreports/reports/051/S51660.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164338.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164339.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164319.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164340.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
