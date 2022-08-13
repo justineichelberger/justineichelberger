@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:06:48 on 13 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:40 on 13 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Hilton (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Blue headlights in the skyAs I was leaving my friend's house at 1:30am I observed an unusual phenomenon.  About three miles away from where I was, on his porch, there was a bright (almost as if it was a headlight) blue sphere in the sky.  It was probably two football field lengths distance away from the top of the houses.  It was foggy out at that time so I could not make out specific details of the "object" but the fog had a blue haze from the sphere.  I'm not speculating whether or not it came from Mars, but it was a very odd event to witness.  After about one minute the sphere immediately disappeared and the blue haze with it, although the fog remained.  It left me feeling a little nutty because the object was so bright and had form to it and then it was like you blinked and nothing was ever there.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71634.html](http://www.nuforc.org/webreports/reports/071/S71634.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Two bright silent red lights coming in from west to east, ascending, light intensity increasing, headed west - and then disappeared.This description was reported in an earlier report – this is what we saw – with the exception there were 2 separate red steady lights – (similar report) Bright light high in sky that went out to a very dim red light traveling north to southwest just west of the dipper.   First one spotted was heading west to east – then started to ascend  - there was no noise.   The intensity of the light increased before ascension.  The second craft was coming in eastbound on apparently the same path – followed the first – and ascended.   Once high(er) – the light grew very dim.  There was no sound.  It moved in a way that seemed to be controlled but was curious.  The speed heading west seemed to be very fast after apparently not moving real fast.  The other witness and I couldn't really describe what we saw as relating to any modern aircraft that we are aware of.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91808.html](http://www.nuforc.org/webreports/reports/091/S91808.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164338.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164339.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164319.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164340.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
