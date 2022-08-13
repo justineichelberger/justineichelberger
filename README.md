@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:41 on 13 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:49 on 13 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Micanopy (FL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>UFO appears in thunderstormOn the date and time stated in report details a severe thunderstorm was occuring.  To share the event I shot several videos of the event.  Upon sharing them with my wife on 08/15/20 we witnessed the craft traveling at a high rate of speed against the high winds of the storm.  It was moving from west to east well above the tree line.  It was hard to make out in the rain but made no noise.  This is first time we have ever witnessed anything like this and was quite suprising to see in a video of a storm.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158644.html](http://www.nuforc.org/webreports/reports/158/S158644.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Cancun, Q.R. (Mexico) () reported seeing craft that fit the description of some 'Disk' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Digital picture from caribean sun raise taken from hotel window.UFO in picture found months later while looking at .ppt presentation from pictures</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26290.html](http://www.nuforc.org/webreports/reports/026/S26290.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164338.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164339.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164319.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164340.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
