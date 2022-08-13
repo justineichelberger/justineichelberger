@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:04:44 on 13 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:52 on 13 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Twin Sister's Lakes (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>I bright white light came from the southeast 1/3 of the way across the sky.  I thought it was a satellite, but my boyfriend said it was going way too fast and too high in the sky to be a satellite.  As we watched the light stopped and reversed a short distance.  Then it made what appeared to be an obtuse triangular path.  Then shot off to the south and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160093.html](http://www.nuforc.org/webreports/reports/160/S160093.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1969, an anonymous witness in Port Chester (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>2 solid boomerang-solid shapes in formation cross sky from horizon-overhead-behind bldg; 1.5 seconds; silent; color of cool fl. bulbIt could have been 1968 but was probably '69 or '70.  FIrst night of Perseid meteor shower that year. I was on terrace of 6th floor apartment in Port Chester, NY with  open view from east to west facing south. Was outside to see if there were any early meteors, facing the direction from which they were supposed to arise.  It was only about 12:30 a.m., too early to expect to see anything much.Then low, just on the horizon, I saw a bright light.  I remember thinking, "wow, this is going to be a heck of a meteor shower," when two boomerang-shaped things - one slightly "ahead" of the other but in tight formation, flew over.  The 2 objects crossed the entire sky, from the horizon to a point directly overhead and then over my building (disappearing from my view) in about 1.5 seconds... maybe it was 1 second...  maybe 2. They were a luminous silvery greenish blue color... sort of the color of a cool fluorescent light bulb when it's on, but not as bright.  There were no details, no flashing lights, no windows, and no sound... totally silent.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67159.html](http://www.nuforc.org/webreports/reports/067/S67159.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164338.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164339.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164319.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164340.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
