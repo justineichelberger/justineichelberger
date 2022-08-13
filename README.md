@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:33 on 13 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:34 on 13 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Phoenix, Arizona 13 August 2011 Approximately 9:15 pm PDT (GMT -7)  Disk Shaped (Domed Saucer shape, with multicolored, animated lights around rim)  At approximately 9:15 pm local time, two individuals traveling southbound on the SR-51 Parkway, (South of Greenway, North of Cactus) became aware of a large, domed, saucer shaped object, above the freeway. The object appeared to be a solid “craft” or aerial vehicle of unknown type. (as opposed to just a set of lights in the sky)  Duration of the sighting was brief, approximately 15 seconds, during which time the object performed various maneuvers, and displayed very unusual lights.When first spotted, by the passenger (Right, front seat) the saucer shaped object was hovering, or flying very slowly, with it's circular plane horizontal, or parallel to the ground.  It then tilted, or rotated towards the cars on the freeway, whereupon a single blue and red light (spaced closely together on the forward facing rim) illuminated, and then began “propagating” around the rim, in opposite directions. (Blue lights, clockwise, Red lights, counter-clockwise)  At the same time, it became apparent, the saucer shaped object was domed on it's upper surface.  Also, at the same time, the entire object, or craft was observed to rotate counter clockwise, while the lights around it's rim, remained stationary.The object then began moving north, towards the observer's car, and vanished from sight.  The two witnesses left the freeway at the next exit (Cactus Road) pulling over as soon as possible to try to spot the object again.  While doing this, they observed another couple, apparently doing the same thing.The driver of the witness car produced the attached drawing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83221.html](http://www.nuforc.org/webreports/reports/083/S83221.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Tromsoe (Norway) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I had a friend over. We went to the fridge to get some soda's.At that point we saw nothing on the sky.After maybe 10-15 min, we saw a flash of red light in the sky. Out of the light came two  alien aircrafts. Another flash of light came and there was two new "UFOs".It continued like that until it was 8-10 crafts.The crafts that i saw were the same as the ones that got me last year.The crafts were triangles with something looking like a big window on it.Last year I thought I was dreaming, but now I know the truth. I was alien abducted last year. I have been researching on this now and it was "the grays" that abducted me.Last year I had trouble recovering from this incident. It would be to painful to go true with this again.Thank you for your understanding.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58282.html](http://www.nuforc.org/webreports/reports/058/S58282.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164338.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164339.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164319.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164340.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
