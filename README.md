@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:49 on 13 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:36 on 13 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Cancun, Q.R. (Mexico) () reported seeing craft that fit the description of some 'Disk' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Digital picture from caribean sun raise taken from hotel window.UFO in picture found months later while looking at .ppt presentation from pictures</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26290.html](http://www.nuforc.org/webreports/reports/026/S26290.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Richland (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Awoke by a vooming sound and shadow out window and looked in the sky and saw saw a fast moving object in the sky around 11:00 p.m. Last night two children ages 10 and 12 in my house told me they were awoken by a vooming sound that woke them up and a shadow coming from the window at approx. 11:00 p.m. last night and they went to the window and saw a fast moving object in the sky around 11:00 p.m. moving across the sky really quick with constant flashing lights the colors of red, gold and white.  They reported it came from the west to the east across the sky.  We live in So. Richland, WA and they saw it out of the bedroom window.  They said it did not look like an airplane.  Anyone else see this? The girls are adamant....  Who knows..... I believe them...  They both both said it was very strange</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77205.html](http://www.nuforc.org/webreports/reports/077/S77205.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164338.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164339.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164319.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164340.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
