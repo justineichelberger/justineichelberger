@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:37:35 on 13 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:24:43 on 13 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Tuskegee National Forest @ HWY 85 (AL) reported seeing craft that fit the description of some 'Disk' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Large white glowing disk.  Transparent.  Smaller craft coming from it[second hand info.]  Tuskegee National Forest, Alabama @ Hwy 85.  My daughter was driving East on Hwy 85 @ approx 0100, 13Aug98, when she saw a "Football Field" sized UFO above the trees.  Glowing white and "hollow" inside. Other small craft were seen coming from it.  She's moved out of state.  If you're interested, I'll ask her to write up some better details.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04400.html](http://www.nuforc.org/webreports/reports/004/S04400.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in North Ridgeville (OH) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Bright object stationary over Ohio for 90 minutes.Today is a clear sky over North East Ohio.  We are 10 miles from Lake Erie.  At an almost straight up angle, a shiny object remained stationary for 90 minutes.  I retrieved my binoculars and we looked at it under 50 x 20 power.  The object looked like a chevron shaped object.  It only moved a slight bit.  We had 8 people in all viewing this thing.  It appeared to be almost as high as a 36,000 ft high jet that flew near it.  When it left it just disappeared.  No pics were taken as it was so high up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135694.html](http://www.nuforc.org/webreports/reports/135/S135694.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164338.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164339.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164319.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164340.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
