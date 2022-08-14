@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:40 on 14 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:40 on 14 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Wheatland (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately Several minutes - Several minutes minutes.</sub><blockquote><sub>Observed strange bluish light.  North to south direction.  Unknown altitude.  Very fast. Horizon to horizon in approx. two minutes.Strange object, bluish in color, headed north to south direction.  Very fast.  Have some video, but is not very good or very long.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129274.html](http://www.nuforc.org/webreports/reports/129/S129274.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Baraboo (WI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>4 to 5 Firey flying objects, stopping then fading away.  8-14-2011 11:18 P.M. Baraboo,WisconsinMy wife and I were camping in Wisconsin Dells, Jelly Stone Park Campground.  On August 14, 2011 at approximately 11:18 P.M., my wife and I were walking our dog, Chance, down Ishnala Rd.   As we walked, something in the sky caught our eye, it was an orangish / Reddish/Firey object coming over the tree line to our left which was a slightly North-West direction.This object came over the tree line at a plane like speed heading  slightly South-East .  It slowed down to a complete stop in the sky and started to flicker and fade away.  As that one was fading, a second one started to come over the tree line following the same flight pattern and movements precisely, stopping at the same point the first one we spotted (by that time the first one was gone) and started the same faze, flickering then fading.  This continued at least two to three more times for a total of at least four or five times, then stopped.As we were watching, there was a third person driving down Ishnala Rd at a slow speed.  As he approach he stopped and was in awe as my wife and I were at seeing this.  We both tried to figure out what these objects could possibly be and can not come up with a earthly reasonable response.   Therefore, I do believe in extraterrestrial life form from this point on.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83286.html](http://www.nuforc.org/webreports/reports/083/S83286.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/164/S164379.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164355.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164354.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164553.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164357.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
