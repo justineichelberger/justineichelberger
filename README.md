@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:42 on 14 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:36 on 14 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Chebanse (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Huge triangle shaped object with spectacular lights zooming from the horizon to just about 12ft above ground and 500 ft awayThere were three of us in the car driving from the country into the city.  Just outside of the city in the northern horizon about a mile away we seen a beautiful long line of lights.  Rapidly it flew in our direction and we could see it was triangular in shape.  It stopped 500 ft away hovering just above the corn and changed its lights from many colors to very bright white landing type lights some pointing out and some below this enormous object. We froze, it was all happening so fast I started breaking the car and the road suck down and the corn blocked our view briefly, the next thing we saw a few seconds later was the lights go out and the object disappeared. Our windows were down it wasnt far away and yet we heard no sounds at all. We turned the car around went every direction around that field to find it and it was gone. We are still trying to wrap our minds around what we witnessed and how it appeared and disappeared before our eyes so fast. I wish I coul! d have not been frozen in amazement and fear and pulled out my camera phone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71699.html](http://www.nuforc.org/webreports/reports/071/S71699.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in New Port Richey (FL) reported seeing craft that fit the description of some 'Chevron' over a period of approximately  -  minutes.</sub><blockquote><sub>Boomerang Object = B-2 Stealth...not a UFOI wanted to file this report as a means to offer an explanation to the report from New Port Richey, FL in September 0f 2005 of another observer seeing a boomerang shaped object. I live in a nearby area of Pasco County and this recent report may have been most likely a military aircraft.  I say this with a fair amount of confidence because, two years ago, I was commuting home from work at about 18:00 hrs in the summer on Interstate-75 heading northbound to Pasco County, FL. I was caught in a traffic jam and remained stationary for a good 20-30 minutes. Out of nowhere, I saw a black sliver of something floating over the interchange where 1-75 merges onto I-4 East to Orlando.  I then stared at it for a few seconds more and I struggled to make out what it was.  As it got closer, I then realized that this is a B-2 Stealth Bomber gliding over the interstate to my right hand side at about an altitude of perhaps 100 feet! It was a startling sight. I had my car in neutral and i bolted out of my seat in excitement and stuck my head out of my sunroof. I saw it make a graceful arc and bank in a westerly vector towards Tampa Bay. I believe it was on final approach to land at nearby MacDill AFB. This aircraft glided by and made no noise (over my engine noise), i was able to get a dead-on side view of it and I could even make out the pilots helmet as the sun glared through the cockpit glass. Thats how Low and slow this thing was. If I had not been looking out to my right as I was sitting in traffic with nothing to do, I would have missed it completely. That is how "low-observable" this aircraft is even in a populated area. Since this was an explained observation, I do not need to be contacted.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46852.html](http://www.nuforc.org/webreports/reports/046/S46852.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/164/S164379.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164355.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164354.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164553.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164357.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
