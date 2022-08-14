@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:30 on 14 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:44:44 on 14 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Spanaway (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Low hovering craftMe and a friend were headed to Arby’s on mountain Highway in Spanaway, WA as we are driving down 176th and approaching B st at the intersection there it’s a traffic light as well as we looked to the right we both screamed “Oh my god” we both saw what looked possibly like a mini stealth bomber or drone barely moving almost hovering  about 100 to 159 feet off the ground.  It was black really thin and had two or three lights on the bottom.  It was about about  500 to 800 feet across I think I’m not good with guessing that type of stuff, but we were freaking out we looked at each other in disbelieve then when we looked back it just had disappeared in the trees.  It was insane. I believe it was a military aircraft but what was it doing out there?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158786.html](http://www.nuforc.org/webreports/reports/158/S158786.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Red Lodge (MT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Bright white light - went on and off - drew circlesAt 4:42am 08/14/2009 my daughter woke me up telling me there is a UFO in the sky.  We went to the window and sure enough there was a bright white light over the mountains in the Eastern  ((sic--western)) Sky above Red Lodge, Montana.The light went on and off and drew circles into the sky. Later I heard an aircraft, which is unusual for our area.((ADDENDUM))correction to previous report: the circle was in the WESTERN sky((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71645.html](http://www.nuforc.org/webreports/reports/071/S71645.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/164/S164379.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164355.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164354.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164553.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164357.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
