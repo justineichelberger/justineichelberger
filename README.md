@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:44:44 on 14 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:28:39 on 14 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Red Lodge (MT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Bright white light - went on and off - drew circlesAt 4:42am 08/14/2009 my daughter woke me up telling me there is a UFO in the sky.  We went to the window and sure enough there was a bright white light over the mountains in the Eastern  ((sic--western)) Sky above Red Lodge, Montana.The light went on and off and drew circles into the sky. Later I heard an aircraft, which is unusual for our area.((ADDENDUM))correction to previous report: the circle was in the WESTERN sky((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71645.html](http://www.nuforc.org/webreports/reports/071/S71645.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Walden (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I spotted a orange glowing object and then it disapeardI live about 5miles from Stewert Airport. I went outside around 8:50 pm to sit by the pool.  I looked up in to the sky and out looking towards the west, when I spotted a glowing object sort of like a star but I knew it wasn't because it was orange and had a steady shankyness to it.  It was there for aporx. 3 mins and then it just disappeard.  Then i had my brother come ourside and in like 15 minutes a helicopter flew over head towards were the object was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51666.html](http://www.nuforc.org/webreports/reports/051/S51666.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/164/S164379.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164355.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164354.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164553.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164357.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
