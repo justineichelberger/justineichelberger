@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:01:45 on 14 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:41 on 14 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Objects were very high in the sky and moved irradicallysaw several silver or white objects in sky 1 north of my position at ((address deleted)) N central Ave. 2 directly east of my position  and one south east of my position  Objects blinked on and off, changed directions at incredible speeds.((NUFORC Note:  We are confused by the date indicated by the witness.  Sighting on August 14, but the report was submitted August 07.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51572.html](http://www.nuforc.org/webreports/reports/051/S51572.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Rydal (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>My Grandfather was standing outside of our house waiting for me to return from driving to blockbuster when he calls me terrifyed to tell me that he's seeing a strange object in the sky. When I return he described the event. The first event that was unnatural was a red light that appeared which illuminated a patch of trees in back of our neighbor's house. The light made the area as clear as day and than he saw a red circular shape object the size of an excercise ball appear in the sky. The object made no sounds and than proceeded to descend into the illuminated tree zone. From there he ran to get my Grandmother and when they returned everything was restored to its natural state.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65222.html](http://www.nuforc.org/webreports/reports/065/S65222.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/164/S164379.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164355.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164354.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164553.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164357.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
