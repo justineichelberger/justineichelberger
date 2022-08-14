@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:44 on 14 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:36 on 14 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in South Yarmouth (MA) reported seeing craft that fit the description of some 'Cone' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Irregular shaped gold outline with red light inside, with white hazy halo,silently traveling west to east, we said to each other "what was that?"  We are near red jacket beach.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91821.html](http://www.nuforc.org/webreports/reports/091/S91821.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Nevada City (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>A red glow changing to blue green circular craft . This is the second idental spotted craft tonight 45 minutes apart.I reported a identical sighting less then 45 minutes earlier.  However this one was 180 degrees N East of the previous sighting.  Red glowing to blue then green lights, hovering motionless.  My wife and I both witnessed this one as well.  I believe the sightining previous to this one was the same craft.  The craft had changing circular lights of various colors.((NUFORC:  Reports seems to us to be reminiscent of "twinkling" stars.  Anonymous report from same source as reported two hours earlier.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13775.html](http://www.nuforc.org/webreports/reports/013/S13775.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/164/S164379.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164355.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164354.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164553.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164357.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
