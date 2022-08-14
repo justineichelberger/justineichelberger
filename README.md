@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:02:30 on 14 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:44 on 14 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Old Orchard (ME) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>very bright orange-red (like a flame) circle shape light, steady, not moving, over the sea, decreased in seize and then disapered.very bright orange-red (like a flame) circle shape light, steady, not moving, over the sea, decreased in seized and disapered.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91823.html](http://www.nuforc.org/webreports/reports/091/S91823.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Grandville (MI) reported seeing craft that fit the description of some '' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Saw 2 yellow/orange perfect circles cross the sky in 5 secondsI have been keeping an eye on the sky off and on for 45+ years.  Was a member of a UFO Club for a short time around 1967 called Project Blue Star. I'm ex- military and am familiar with many aircraft.I was sitting in my driveway at 11pm on the night of Aug 14, 1999,  when I first saw two objects at 2 o'clock move from east to west at a high rate of speed almost straight overhead.  Their altitude seemed to be above jets and below satellites. They were offset by a short distance and I could not tell if there were 2 objects or one.  Did not see an outline of a craft that the orbs were attached to.  They were about the size of a quarter at arms length and were perfect circles, they had no fuzzy edges to them.  They had their own light source - yellow/orange. It was like I was watching a cartoon on a huge screen!  I had a small 20x scope with me but I knew that if I tried to find them, they would have disappeared before I could focus in on them, so I observed them with the naked eye.Sighting lasted about 5 seconds or so and disappeared in the distance (not over the horizon).  They appeared to maneuver around each other slightly as they disappeared. Heard no sound and the weather was warm and clear.  Stayed out until around midnight but saw nothing else except satellites and an occasional plane/jet.  It certainly was not a conventional aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97378.html](http://www.nuforc.org/webreports/reports/097/S97378.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/164/S164379.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164355.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164354.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164553.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164357.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
