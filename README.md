@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:37 on 14 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:42 on 14 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Little Rock (AR) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Large oval/diamond shaped object spotted moving at high speed above lake surface.  No sound or wake produced.  Object observed switching directions from east to west until it disappeared from sight behind a peninsula's treeline.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142730.html](http://www.nuforc.org/webreports/reports/142/S142730.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Chebanse (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Huge triangle shaped object with spectacular lights zooming from the horizon to just about 12ft above ground and 500 ft awayThere were three of us in the car driving from the country into the city.  Just outside of the city in the northern horizon about a mile away we seen a beautiful long line of lights.  Rapidly it flew in our direction and we could see it was triangular in shape.  It stopped 500 ft away hovering just above the corn and changed its lights from many colors to very bright white landing type lights some pointing out and some below this enormous object. We froze, it was all happening so fast I started breaking the car and the road suck down and the corn blocked our view briefly, the next thing we saw a few seconds later was the lights go out and the object disappeared. Our windows were down it wasnt far away and yet we heard no sounds at all. We turned the car around went every direction around that field to find it and it was gone. We are still trying to wrap our minds around what we witnessed and how it appeared and disappeared before our eyes so fast. I wish I coul! d have not been frozen in amazement and fear and pulled out my camera phone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71699.html](http://www.nuforc.org/webreports/reports/071/S71699.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/164/S164379.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164355.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164354.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164553.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164357.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
