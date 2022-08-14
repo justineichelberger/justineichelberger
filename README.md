@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:07:22 on 14 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:29 on 14 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Buford (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately Until unseen - Until unseen minutes.</sub><blockquote><sub>Large triangle in the sky.  Only objects visible could have been a formation, or one large ship.  It has been occurring for weeks.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129262.html](http://www.nuforc.org/webreports/reports/129/S129262.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Saskatoon (Canada) (SK) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>First time i ever seen something in the sky.It was around 10pm Thursday night and the wife and i were putting the horse in for the night and i saw a very bright light moving from in the northern sky moving from west to east. At first the wife said it was a plane but the lights were to bright and it was moving way to fast for a plane. So i just thought it was a satalite, because it was moving as fast as one, but 10 times brighter. So i watched it for about 10 seconds or so  and i took my eyes of off of it for maybe 2 seconds to tell my wife something and i looked up and it was gone. We panned the sky and the overly bright light was gone and we couldn't figure out how it could just disappear so fast. So i basically said anything that can move that fast it could be only one thing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65229.html](http://www.nuforc.org/webreports/reports/065/S65229.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/164/S164379.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164355.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164354.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164553.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164357.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
