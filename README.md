@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:51 on 14 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:30 on 14 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Devore (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Ozz Fest Triangular shape UFO seenThis is a report from my daughter who wishes to remain anonymous at this time. Her Dad and she were attending the OZZ FEST concert and as all eyes were watching Ozzy play the song Suicide Solution.  Bink (her Nickname) looked to the right and saw it.  I am going to report exactly as she told me. The craft was triangular with rounded tips.  The color was a pale gray.  The edge of the ship made it out to be slightly rounded in the middle.  She estimates the distance would be up higher than any conventional aircraft.  The lights had a strobe pattern blink flash repeat. Light Colors were in a row through the middle of the ship.  The colors were 3-5 repetitions of green, yellow and pinkish purple.  The lights and shape of the craft were stranger than any she has ever seen.  The path it traveled she said it flew up a little bit then it hovered and shaked as it left horizontally.  I asked her about it's disappearance rate and this is what she said, "Traveled with a purple light before it did a full revolution 3 times before it went behind a tree that it fit behind (indicates relative size) and disappeared". The craft revolutions stayed the same size and speed and made weird vibrations but no sound through the encounter. She was looking in the general direction of the Little Dipper.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77247.html](http://www.nuforc.org/webreports/reports/077/S77247.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Spanaway (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Low hovering craftMe and a friend were headed to Arby’s on mountain Highway in Spanaway, WA as we are driving down 176th and approaching B st at the intersection there it’s a traffic light as well as we looked to the right we both screamed “Oh my god” we both saw what looked possibly like a mini stealth bomber or drone barely moving almost hovering  about 100 to 159 feet off the ground.  It was black really thin and had two or three lights on the bottom.  It was about about  500 to 800 feet across I think I’m not good with guessing that type of stuff, but we were freaking out we looked at each other in disbelieve then when we looked back it just had disappeared in the trees.  It was insane. I believe it was a military aircraft but what was it doing out there?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158786.html](http://www.nuforc.org/webreports/reports/158/S158786.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/164/S164379.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164355.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164354.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164553.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164357.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
