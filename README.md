@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:38 on 14 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:07:22 on 14 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Wyndmoor (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Three balls rotating counter clockwise, shaped like a triangle, dull white moving rapidly from east to north by northwestMy husband and myself were sitting outback watching the perseid meteor showers.  The skies were clear, and then my husband spotted this object traveling from the east, heading north by northwest.  It appeared to be three balls moving in a counter clockwise rotation, shaped like a triangle. The color appeared to be a dull white, moving rapidly, with no sound.  It traveled on a straight line towards the NNW.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77230.html](http://www.nuforc.org/webreports/reports/077/S77230.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Buford (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately Until unseen - Until unseen minutes.</sub><blockquote><sub>Large triangle in the sky.  Only objects visible could have been a formation, or one large ship.  It has been occurring for weeks.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129262.html](http://www.nuforc.org/webreports/reports/129/S129262.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/164/S164379.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164355.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164354.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164553.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164357.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
