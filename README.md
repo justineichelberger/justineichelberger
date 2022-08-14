@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:07:50 on 14 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:01:45 on 14 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Olalla (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>While looking for meteors at 3am I observed a string of lights that looked like meteors at first but moved slower and in a string.  One behind the other.  Some appeared paired where others were single but all following in a line across the Northwestern sky.  Seemed to come out of darkness (clear night) and returned behind darkness.  The whole event lasted 15 - 20 seconds (estimate).  I was too puzzled by what I saw I wasn’t timing it.  Much too high to be planes.  Perhaps satellites but never seen so many moving together in a string.  No reasonable explanation yet.  Have not seen any news reports yet either about this.  First time I’ve EVER seen something like this and first time EVER reporting such a siting.  Felt compelled to tell someone about it.  Definitely not a dream.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158571.html](http://www.nuforc.org/webreports/reports/158/S158571.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Objects were very high in the sky and moved irradicallysaw several silver or white objects in sky 1 north of my position at ((address deleted)) N central Ave. 2 directly east of my position  and one south east of my position  Objects blinked on and off, changed directions at incredible speeds.((NUFORC Note:  We are confused by the date indicated by the witness.  Sighting on August 14, but the report was submitted August 07.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51572.html](http://www.nuforc.org/webreports/reports/051/S51572.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/164/S164379.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164355.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164354.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164553.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164357.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
