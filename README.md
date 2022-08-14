@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:44 on 14 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:39 on 14 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Grandville (MI) reported seeing craft that fit the description of some '' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Saw 2 yellow/orange perfect circles cross the sky in 5 secondsI have been keeping an eye on the sky off and on for 45+ years.  Was a member of a UFO Club for a short time around 1967 called Project Blue Star. I'm ex- military and am familiar with many aircraft.I was sitting in my driveway at 11pm on the night of Aug 14, 1999,  when I first saw two objects at 2 o'clock move from east to west at a high rate of speed almost straight overhead.  Their altitude seemed to be above jets and below satellites. They were offset by a short distance and I could not tell if there were 2 objects or one.  Did not see an outline of a craft that the orbs were attached to.  They were about the size of a quarter at arms length and were perfect circles, they had no fuzzy edges to them.  They had their own light source - yellow/orange. It was like I was watching a cartoon on a huge screen!  I had a small 20x scope with me but I knew that if I tried to find them, they would have disappeared before I could focus in on them, so I observed them with the naked eye.Sighting lasted about 5 seconds or so and disappeared in the distance (not over the horizon).  They appeared to maneuver around each other slightly as they disappeared. Heard no sound and the weather was warm and clear.  Stayed out until around midnight but saw nothing else except satellites and an occasional plane/jet.  It certainly was not a conventional aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97378.html](http://www.nuforc.org/webreports/reports/097/S97378.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Kenner (LA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Strange lightAt 1:07am walking from my back yard shed going inside, I was spooked as the dark ground suddenly flashed. As I looked up I saw nothing, my first guess was lightning, but its clear skys, no planes in the air, just the outline of a tree that I realized from the shadow on the groud that the flash had to come almost directly above me. It was only one flash, it happend so quick I looked straight up and there was nothing their. I ask my self if I'm tripping, the ground was light up by a light with the intensity for my to see the grass as clear as I did, I'm convinced I'm not, I was not lightnig but with the same effect.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38654.html](http://www.nuforc.org/webreports/reports/038/S38654.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/164/S164379.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164355.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164354.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164553.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164357.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
