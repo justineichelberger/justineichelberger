@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:44 on 14 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:40 on 14 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1957, an anonymous witness in Ticonderoga (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>UFO buzzed B-47.B-47 bomber  heading for Plattsburg AFB, NY;  tail#***163?; altitude:  500+;  Dir: N. over Lake Champlain; 4pm in the afternoon, temperature 65+; B-47 Spd:  300+;  observed w/90x wide field of focus telescope; sky:  cl, 20 mi.; Observer was reading serial numbers on tail of B-47 when Disc appeared near tip of B-47's tail-(bomber is too far away to hear any jet sound)  Disc descended downward toward rear fuselage of B-47; Disc in same focus as B-47; Disc silver-white at 45* angle  now in level flight passed over B-47 canopy (canopy has small sun-reflection at bubble edge near fuselage).  Disc still at 45* or slightly less flys over nose of B-47;  Telescope locked on to horizontal flight path of B-47;  Telescope tracking object horizontally;  Observer switched to naked eye visual of object; same seen with squinted eyes (nearsighted) and with glasses on.  4 seconds elapsed since disc left bomber nose; Telescopic observation last four seconds as object disappeared into tree line NNW of Observer.  Details of disc:  Beautiful sight! no sound; Obeerver was able to focus rapidly on far edge of disc, very sharp edge; front edge of disc-very sharp edge; and middle of disc-sort of mottled, not a smooth surface.  color whitish-silver- oberserver obtained 3 separate focal points for craft, i/e. was 3 dimensional;  Observer was watching B-47 thru 90x telescope due east of his position.  Disc covered the quadrant in 8 seconds, i.e., approx. 1350 mph.  Observer ran into house to yell at relative but object is lost behind trees. :</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10167.html](http://www.nuforc.org/webreports/reports/010/S10167.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Wheatland (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately Several minutes - Several minutes minutes.</sub><blockquote><sub>Observed strange bluish light.  North to south direction.  Unknown altitude.  Very fast. Horizon to horizon in approx. two minutes.Strange object, bluish in color, headed north to south direction.  Very fast.  Have some video, but is not very good or very long.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129274.html](http://www.nuforc.org/webreports/reports/129/S129274.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/164/S164379.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164355.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164354.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164553.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164357.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
