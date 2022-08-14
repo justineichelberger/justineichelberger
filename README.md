@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:40 on 14 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:37 on 14 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Bellevue (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>one sighting, possibly sattellite.Greetings Peter; Best of luck with your campaign for state legislature.  Rather you than I, heh heh!  Just as I was bemoaning the absence of aerial phenomena, just may have observed a beautiful (possibly not a satellite) light sphere proceeding casually across the clear night sky.  That's about it really.  May have observed another although I really dont remember specifically, could have imagined it, or maybe it was a satellite.  Read your news about the ignorant, foul moutheed young Americans that prank call NUFORC (50% to 90%.)   Yeah, that is disappointing and I thought fascist attempts at humour were no longer trendy, guess they're behind the times as usual.  It's the lack of education and the maleducation.  They're not all that way.  Is UFO's Northwest a commendable website?   Keep me posted.  Say, what happened to the Perseid Meteor showers this year, only saw a few, unlike last year.   Please consider initiating an astronomical observatory at NUFORC.  I would gladly donate to such a venture. Also (Wikipedia entry) consider planting Jatropha shrubs the best biofuel crop to power NUFORC. Thanx, ((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65268.html](http://www.nuforc.org/webreports/reports/065/S65268.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Little Rock (AR) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Large oval/diamond shaped object spotted moving at high speed above lake surface.  No sound or wake produced.  Object observed switching directions from east to west until it disappeared from sight behind a peninsula's treeline.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142730.html](http://www.nuforc.org/webreports/reports/142/S142730.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/164/S164379.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164355.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164354.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164553.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164357.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
