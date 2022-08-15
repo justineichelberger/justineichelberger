@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:13:23 on 15 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:02:40 on 15 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1988, an anonymous witness in West Milford (Upper Greenwood Lake) (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Two white orbs of light flew into the sky, stopped for a few minutes, then flew away in a very quick hyper speed together.I was on a lawn chair with my father on our patio, looking up at the stars. It was a clear night. I was about 12 and my father around 50 or so.My dad was pointing out some constellations when all of the sudden, what looked like a star was moving very fast through the sky.  It looked like a star and was very very very high up. It could have been misinterpreted as a meteor, but it stopped all of a sudden.  I ran inside to get the binoculars and when I got back out, I looked at the object again.  It just looked like a larger white orb of light, just slightly larger than a star.  Then another one showed up. My dad was saying, “see that! See that!!” Then one backed up a bit and the then the other one did as well. THEN, in unison, they both took off like in hyper speed.  They disappeared out of the sky altogether it seemed. Very odd.((NUFORC NOTE:  Witness indicates that date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74626.html](http://www.nuforc.org/webreports/reports/074/S74626.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Piteå (Sweden) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately  -  minutes.</sub><blockquote><sub>i saw a big boll in the air but after a cople of secunds it transformd it self to five bolls   only one big boll and 4 smale ones and after a wiled they tok off up in the air((NUFORC Note:  Date is uncertain.  For the purposes of our database, we have arbitrarily assigned the date of August 15, 1993, but the incident could have taken place on any day during that month, according to the report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13645.html](http://www.nuforc.org/webreports/reports/013/S13645.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1069](http://www.nuforc.org/webreports/reports/164/S164532.html)
-- [1068](http://www.nuforc.org/webreports/reports/164/S164489.html)
-- [1067](http://www.nuforc.org/webreports/reports/164/S164464.html)
-- [1066](http://www.nuforc.org/webreports/reports/164/S164593.html)
-- [1065](http://www.nuforc.org/webreports/reports/164/S164682.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
