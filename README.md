@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:37 on 15 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:13:23 on 15 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1968, an anonymous witness in Yosemite Pass (In the valley over; nr. NV border) (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>A black circle eclipsed the stars as it hovered over our campsite. It had no lights and made no sound. It appeared to be aprox 40 to 100 yards in diameter. It was seen by myself and my friend as we were laying on our sleeping bags looking up at the stars. We both saw the same thing. It moved very smoothly and stopped for about 30 seconds directly over us, then hovered back in the direction of it's first sight.no more details ... see summary.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05520.html](http://www.nuforc.org/webreports/reports/005/S05520.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1988, an anonymous witness in West Milford (Upper Greenwood Lake) (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Two white orbs of light flew into the sky, stopped for a few minutes, then flew away in a very quick hyper speed together.I was on a lawn chair with my father on our patio, looking up at the stars. It was a clear night. I was about 12 and my father around 50 or so.My dad was pointing out some constellations when all of the sudden, what looked like a star was moving very fast through the sky.  It looked like a star and was very very very high up. It could have been misinterpreted as a meteor, but it stopped all of a sudden.  I ran inside to get the binoculars and when I got back out, I looked at the object again.  It just looked like a larger white orb of light, just slightly larger than a star.  Then another one showed up. My dad was saying, “see that! See that!!” Then one backed up a bit and the then the other one did as well. THEN, in unison, they both took off like in hyper speed.  They disappeared out of the sky altogether it seemed. Very odd.((NUFORC NOTE:  Witness indicates that date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74626.html](http://www.nuforc.org/webreports/reports/074/S74626.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1069](http://www.nuforc.org/webreports/reports/164/S164532.html)
-- [1068](http://www.nuforc.org/webreports/reports/164/S164489.html)
-- [1067](http://www.nuforc.org/webreports/reports/164/S164464.html)
-- [1066](http://www.nuforc.org/webreports/reports/164/S164593.html)
-- [1065](http://www.nuforc.org/webreports/reports/164/S164682.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
