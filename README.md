@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:01:02 on 15 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:38 on 15 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1974, an anonymous witness in Redondo (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Silent disc floated over hill, stopped over pier restaurant, circumfrances lights lit, rotated for approximately 10 minutes.It came over the hill from the east with a red and green light, similuating an airplane.  It floated down over the pier restaurant, and hovered.  The red and green lights extinguished.  White lights along the circumfrance lit (they may have been portholes, and the interior was illuminated).  The ship rotated for several minutes.  Rotation stopped, circumfrance lights extinguished, red and green lights re-lit, and the ship tilted, moved across Puget Sound westerly, then northerly, out of sight.  Silent operation.  Many pedestrians glanced at it and acted as though it was not there.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33284.html](http://www.nuforc.org/webreports/reports/033/S33284.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Lima (OH) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Vertical, pencil-shaped, object seen.We were Eastbound on State Route 30 just West of the I-75 interchange.  There was a vertical pencil shaped light a head of us just off the right side of the highway.  It was white and red and had what looked like it like filaments of the same color trailing off from the sides of it.  I looked away for a moment and when I looked back it was gone.  My wife, who was driving said she didn't see it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121131.html](http://www.nuforc.org/webreports/reports/121/S121131.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1069](http://www.nuforc.org/webreports/reports/164/S164532.html)
-- [1068](http://www.nuforc.org/webreports/reports/164/S164489.html)
-- [1067](http://www.nuforc.org/webreports/reports/164/S164464.html)
-- [1066](http://www.nuforc.org/webreports/reports/164/S164593.html)
-- [1065](http://www.nuforc.org/webreports/reports/164/S164682.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
