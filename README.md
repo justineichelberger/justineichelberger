@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:48:14 on 15 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:41:41 on 15 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1953, an anonymous witness in Louisville (KY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>I heard Them!It was a bright sunny Saturday morning in August of 1953 and not a cloud in the sky around 10:30 to 11:00 as I left the barber shop.  I only live a half a block away and as I walked toward the curb to cross the street I was going in a southwest direction.  Now for what ever reason I just stopped and looked up and slightly to my right, which would be in a  northwest direction. At that instant I saw a round object come from out of sight straight down.  It was as though the blue sky open to let this object in.  It was very high but I could detect that it was spinning and it looked as tho is was transparent because it was the color of the blue sky, round in shape and spinning.  This object moved extremely fast downward and stopped instantly, it was just setting their spinning no more that a few seconds when.  Now this is very hard to explain, I had a thought as I stared at this object  that someone was saying, "we have been spotted," just as soon as that thought went through my intellect this round, spinning, transparent like object accelerated straight up and out of sight instantly. It was gone.  As I think back to this encounter  it last may have consumed 6 to 10 sec at most.  But it was 6 -10 seconds I will never forget.((NUFORC Note:  Witness indicates that date of sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42544.html](http://www.nuforc.org/webreports/reports/042/S42544.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1979, an anonymous witness in West New York (NJ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>August 1979, sighting in broad daylight over the Hudson river, near New Jersy.It was just before dusk.  I was driving a friend home, when we turned onto her street, many people were standing in the street looking up into the sky.  We got out of the car and looked up to see a huge saucer shaped UFO that had multi colored lights under it and it was very, very low. I can't say how long we stood there in amazement... I often call that friend and talk about it.  I've also searched websites looking for any one else who may have reported that sighting.  It took off over the Hudson and headed towards the George Washington bridge.  Three years ago, I told a friend in Boston about it and learned he lived in Queens at the time and remembers seeing it as well.  It was never in the newspaper or media. For some strange reason I couldn't talk about it for months. As though my mind was in a state of amnesia?((NUFORC Note:  Source of report indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69104.html](http://www.nuforc.org/webreports/reports/069/S69104.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1069](http://www.nuforc.org/webreports/reports/164/S164532.html)
-- [1068](http://www.nuforc.org/webreports/reports/164/S164489.html)
-- [1067](http://www.nuforc.org/webreports/reports/164/S164464.html)
-- [1066](http://www.nuforc.org/webreports/reports/164/S164593.html)
-- [1065](http://www.nuforc.org/webreports/reports/164/S164682.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
