@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:38 on 15 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:40 on 15 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Winsted (CT) reported seeing craft that fit the description of some 'Circle' over a period of approximately hours - hours minutes.</sub><blockquote><sub>Lighted circular objects moving silently across the skyNoticed a strange light hovering across the lake where we live.  Looking through binoculars, there were several points of light that seemed to be pulsating around a circular object.  It looked kind of like a ferris wheel.  There seemed to be a few of these across the sky, and the lights were more green or orange than regular stars.  The main craft moved back and forth across the sky very quickly, without making any noise.  Sometimes it would leave for a few hours, only to return to the same point across the lake from our cottage.  The other objects also moved around the sky, but seemed farther away.  This happened three nights in a row.((NUFORC Note:  Source indicates that date of event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71484.html](http://www.nuforc.org/webreports/reports/071/S71484.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in North Vancouver (Canada) (BC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>I am 10. I was with my mom when I looked up to see 3 stars I was looking at were  gone. Around them was three "stars" In a purfect distance. In fact,nearbye I  beleive I had seen more. I could swear I saw lines inbetween the,well,"stars". I didn't count the date 'cause I didn't know I could report it like this.((NUFORC Note:  Date is approximate.  We wonder whether the witness might have observed the three satellites often seen flying in unwavering formation, which are thought to be part of the U. S. Navy "NOSS" satellite system.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41772.html](http://www.nuforc.org/webreports/reports/041/S41772.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1069](http://www.nuforc.org/webreports/reports/164/S164532.html)
-- [1068](http://www.nuforc.org/webreports/reports/164/S164489.html)
-- [1067](http://www.nuforc.org/webreports/reports/164/S164464.html)
-- [1066](http://www.nuforc.org/webreports/reports/164/S164593.html)
-- [1065](http://www.nuforc.org/webreports/reports/164/S164682.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
