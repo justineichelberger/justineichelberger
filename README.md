@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:32 on 15 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:34 on 15 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Windsor (Canada) (ON) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>a brigh light shot across the sky after all of the street lights went out((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08849.html](http://www.nuforc.org/webreports/reports/008/S08849.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Spring Valley (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Clear blue sky, light moon-shaped object appears twice into different places miles up in the sky.I was laying in the pool just floating and relaxing, when an airplane flew by. I focused my attention on the airplane. And as the airplane flew by, I stared into space. There was a white circle that looked like a moon real far into the sky. I stared at it for a couple of minutes to see if it would move to see if it was an airplane far away or a jet. In 2 minutes it did not move. I sent my son in the house to get the binoculars so I could get a closer look. As soon as he handed the binoculars to me, it disappeared. I told him to set the binoculars beside the pool just incase I saw it again I would grab the binoculars. We were just talking about the object so I forgot to look back at it again. I looked a different direction miles away in the sky & the object appeard again, I told my son to give me the binoculars & as soon as he handed them to me it disappeard again. It was the same shape,the same dot,the same light,in a different place. It was a clear day with not a cloud in sight.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38684.html](http://www.nuforc.org/webreports/reports/038/S38684.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1069](http://www.nuforc.org/webreports/reports/164/S164532.html)
-- [1068](http://www.nuforc.org/webreports/reports/164/S164489.html)
-- [1067](http://www.nuforc.org/webreports/reports/164/S164464.html)
-- [1066](http://www.nuforc.org/webreports/reports/164/S164593.html)
-- [1065](http://www.nuforc.org/webreports/reports/164/S164682.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
