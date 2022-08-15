@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:40 on 15 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:37 on 15 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in North Vancouver (Canada) (BC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>I am 10. I was with my mom when I looked up to see 3 stars I was looking at were  gone. Around them was three "stars" In a purfect distance. In fact,nearbye I  beleive I had seen more. I could swear I saw lines inbetween the,well,"stars". I didn't count the date 'cause I didn't know I could report it like this.((NUFORC Note:  Date is approximate.  We wonder whether the witness might have observed the three satellites often seen flying in unwavering formation, which are thought to be part of the U. S. Navy "NOSS" satellite system.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41772.html](http://www.nuforc.org/webreports/reports/041/S41772.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1986, an anonymous witness in Spokane (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Triangular Craft on Dishman Mica Road - Spokane, WADad was driving down Dishman Mica Road at night, I was sitting in back and saw a small dark triangular craft flying just above the telephone/treeline. The craft was flying ahead parallel to the car and once I saw the craft, it appeared to fall back and fly side by side, looked to be a one man triangle craft with dull blinking lights and was completely silent. No one else in the car saw it and appeared to be watching us for the duration of the drive on Dishman Mica Road (about 5 min). I looked away to tell my parents and looked back and saw the craft fly away slowly. It didn't look to be in a hurry, though I was able to make out a shape in the cockpit. I have never seen a craft fly so low and be so quiet. That is why my parents probably didn't notice it. All this happened in the mid 80's while I was a kid, the whole family was in the car. The date above is very approximate. I'm sure it was Fall because of how early darkness was.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90200.html](http://www.nuforc.org/webreports/reports/090/S90200.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1069](http://www.nuforc.org/webreports/reports/164/S164532.html)
-- [1068](http://www.nuforc.org/webreports/reports/164/S164489.html)
-- [1067](http://www.nuforc.org/webreports/reports/164/S164464.html)
-- [1066](http://www.nuforc.org/webreports/reports/164/S164593.html)
-- [1065](http://www.nuforc.org/webreports/reports/164/S164682.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
