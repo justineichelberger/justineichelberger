@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:25:56 on 15 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:17:09 on 15 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Haus (Germany) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Triangular craft seen flying fast and high, then disappeared.This incident happened to occur while there was a blue sky with no clouds on a hot summer day and I was staring at the sky infront of our caravan.  One jet-sized triangular craft seen flying faster and higher than usual planes or jets without any noise.  The inner side of the triangle was transparent and blurred.  On the outside there were several symmetric lights.  The craft flew a straight line and then just disappeared after a few seconds.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108722.html](http://www.nuforc.org/webreports/reports/108/S108722.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Collbran/The Flat Tops (CO) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Metallic oval seen following river through valley in colorodo flat topsMe, my best friend, and her fiance were hiking in the Colorado flat tops.  It was midday, bright (even though the sky was covered uniform grey clouds).  The ufo came out of the sky and followed a valley with a river in it. At first i couldn't really be sure what it was, but than it came down from the clouds and i could see it better (the trees and ground cover of the other side of the valley gave good contrast, we were about 3/4s of the way up on our side of the valley).  it was oval, white metallic, and at one point i thought it changed shape but couldn't be sure.  I'd guess it to be about as large in width as 5-6 feet, but couldn't judge the distance well enough.  after flying through the valley, it flew up into the clouds again and got smaller and vanished. What was weird was that my friend complained that she was feeling weird and threw up a little under a minute before it passed by... does nuclear stuff/magnetic fields do that to people who are sensitiv! e?  We saw 1 other group on that whole hike, it's a very isolated place. Background: I'm a illustrator, my friend is still in school and her fiance is an engineer who has a specialty in unmanned airplanes (he was boggled by it as much as we were).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72814.html](http://www.nuforc.org/webreports/reports/072/S72814.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1069](http://www.nuforc.org/webreports/reports/164/S164532.html)
-- [1068](http://www.nuforc.org/webreports/reports/164/S164489.html)
-- [1067](http://www.nuforc.org/webreports/reports/164/S164464.html)
-- [1066](http://www.nuforc.org/webreports/reports/164/S164593.html)
-- [1065](http://www.nuforc.org/webreports/reports/164/S164682.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
