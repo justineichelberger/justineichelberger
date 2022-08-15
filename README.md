@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:41:41 on 15 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:25:56 on 15 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1979, an anonymous witness in West New York (NJ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>August 1979, sighting in broad daylight over the Hudson river, near New Jersy.It was just before dusk.  I was driving a friend home, when we turned onto her street, many people were standing in the street looking up into the sky.  We got out of the car and looked up to see a huge saucer shaped UFO that had multi colored lights under it and it was very, very low. I can't say how long we stood there in amazement... I often call that friend and talk about it.  I've also searched websites looking for any one else who may have reported that sighting.  It took off over the Hudson and headed towards the George Washington bridge.  Three years ago, I told a friend in Boston about it and learned he lived in Queens at the time and remembers seeing it as well.  It was never in the newspaper or media. For some strange reason I couldn't talk about it for months. As though my mind was in a state of amnesia?((NUFORC Note:  Source of report indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69104.html](http://www.nuforc.org/webreports/reports/069/S69104.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Haus (Germany) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Triangular craft seen flying fast and high, then disappeared.This incident happened to occur while there was a blue sky with no clouds on a hot summer day and I was staring at the sky infront of our caravan.  One jet-sized triangular craft seen flying faster and higher than usual planes or jets without any noise.  The inner side of the triangle was transparent and blurred.  On the outside there were several symmetric lights.  The craft flew a straight line and then just disappeared after a few seconds.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108722.html](http://www.nuforc.org/webreports/reports/108/S108722.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1069](http://www.nuforc.org/webreports/reports/164/S164532.html)
-- [1068](http://www.nuforc.org/webreports/reports/164/S164489.html)
-- [1067](http://www.nuforc.org/webreports/reports/164/S164464.html)
-- [1066](http://www.nuforc.org/webreports/reports/164/S164593.html)
-- [1065](http://www.nuforc.org/webreports/reports/164/S164682.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
