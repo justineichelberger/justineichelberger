@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:51 on 15 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:38 on 15 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1965, an anonymous witness in West Lafayette (IN) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Saucer, slow speed, rotating, red blinking lights, approx. 75' diameter, 7 miles SE of Purdue Univ.Moving at slow speed.  Horizon-to-horizon in 5 minutes or less but horizon obscurred because of hills and tree.  Approximately 1/2 mile from Walbash river about 7 miles southeast of Purdue University.  The saucer had about 5 random blinking red lights around the perimeter and there were portals that you could almost imagine objects in back of (not operators).  The craft was a metallic look to it and definitely solid.  The only thing "non-solid" about it was that on the bottom it had a luminous surface that looked like dense fog of a whitish nature.  I estimate it to be 200 ft high and of 75 ft diameter.  It made absolutely no noise and was slowly rotating (at least the top half).  I am reporting this to see if anyone else saw this UFO in the vicinity of Lafayette, Indiana on the approximate date.((NUFORC Note:  Time and date are approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37528.html](http://www.nuforc.org/webreports/reports/037/S37528.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Winsted (CT) reported seeing craft that fit the description of some 'Circle' over a period of approximately hours - hours minutes.</sub><blockquote><sub>Lighted circular objects moving silently across the skyNoticed a strange light hovering across the lake where we live.  Looking through binoculars, there were several points of light that seemed to be pulsating around a circular object.  It looked kind of like a ferris wheel.  There seemed to be a few of these across the sky, and the lights were more green or orange than regular stars.  The main craft moved back and forth across the sky very quickly, without making any noise.  Sometimes it would leave for a few hours, only to return to the same point across the lake from our cottage.  The other objects also moved around the sky, but seemed farther away.  This happened three nights in a row.((NUFORC Note:  Source indicates that date of event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71484.html](http://www.nuforc.org/webreports/reports/071/S71484.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1069](http://www.nuforc.org/webreports/reports/164/S164532.html)
-- [1068](http://www.nuforc.org/webreports/reports/164/S164489.html)
-- [1067](http://www.nuforc.org/webreports/reports/164/S164464.html)
-- [1066](http://www.nuforc.org/webreports/reports/164/S164593.html)
-- [1065](http://www.nuforc.org/webreports/reports/164/S164682.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
