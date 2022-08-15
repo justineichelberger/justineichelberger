@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:39 on 15 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:42 on 15 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1953, an anonymous witness in Bowleys Quarters (MD) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>The speed of these speres were unbelievable they held formation stationary then bursted one by one into spaceOn a very clear evening on a shore front pier in a cove on the Cheasapeake Bay.  Here is what was observed by myself and 4 or 5 other people.  Something I never forgot as a child.  While looking across the water as we often did in the evening, we saw 4-5 round lights hovering overhead about 2-oclock above the horizon at what appeared to be above the normal flight paths. As we observed these strange lights they moved eratickly to and fro for about 3 to 4 min  then suddenly and silently moved into formation similar to the way military jets would position themselves ,only these objects were not moving in any direction they remained still.  Suddenly one by one they shot strait into space in an instant and out of sight without a sound, faster then any plane could ever move more like a bullet I'm hoping this discription triggers someone elses memory of this strange sighting after all this time.((NUFORC Note:  Witness elects to remain totally anonymous.  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41949.html](http://www.nuforc.org/webreports/reports/041/S41949.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Mohrsville (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Orange lights seen in August near Mohrsville, PAFrom off of our deck, we initially saw two bell-shaped objects rise up from the distant tree line and travel from the north to the west then disappear. This happened several times. Almost always groups of two. Sometimes there would be five in the western sky before they disappeared. They all followed the same path. There was a 2 minute 5 second lapse and then the last two followed the same trajectory. They were faster than the others. Hovered in the western sky and then disappeared as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164593.html](http://www.nuforc.org/webreports/reports/164/S164593.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1069](http://www.nuforc.org/webreports/reports/164/S164532.html)
-- [1068](http://www.nuforc.org/webreports/reports/164/S164489.html)
-- [1067](http://www.nuforc.org/webreports/reports/164/S164464.html)
-- [1066](http://www.nuforc.org/webreports/reports/164/S164593.html)
-- [1065](http://www.nuforc.org/webreports/reports/164/S164682.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
