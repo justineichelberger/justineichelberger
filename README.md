@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:43 on 15 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:34 on 15 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Marysville (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately several minutes - several minutes minutes.</sub><blockquote><sub>"Satellite" does zigzag and conecntric circle course changes, then disappears at high speed.There was a small family get together at my house.  My brother in law stepped onto the back deck to smoke a cigarette.  I went with him, just to talk.  While we were there, I noticed a satellite passing above, and asked him if he had ever seen a satellite.  He said no.  So, I pointed in the direction straight above us and we watched as the satellite moved from north to south and was soon out of sight.He was impressed that he had finally seen a satellite.  I told him there are a lot of them in this area and that another one should be visible within a few minutes.  Sure enough, there came another satellite heading from north to south.  It was not as bright as the first satellite, but we had no trouble seeing it.I handed my automatic adjusting binoculars to my brother in law, while I observed with my regular eyesight.  As we watched it approach slightly south of overhead, it stopped!  Both of us lost track of it within the background of stars.  However, we stayed focused on the general area.  Within about a minute, it moved again, very slowly.We watched as it gained speed to about the normal speed of a satellite.  Then, it stopped abruptly and went into a zigzag direction, east and west.  It repeated this several times, and then went into an expanding circular pattern and repeated that several times. It returned to the zigzag pattern several more times before it resumed a straight line southern direction, picked up speed to something extremely fast, (much faster than the speed of a normal satellite), and disappeared out of view to the south.I have never heard of a satellite that can stop or change direction, and mentioned that to my brother in law.  Whatever it was, the "star-like object" was flying high enough to reflect the sun’s light like a normal satellite.  We both knew what we had seen, and, both of us had not consumed any alcohol.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59512.html](http://www.nuforc.org/webreports/reports/059/S59512.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Abbotsford (Canada) (BC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Three lights in formation soon followed by single lightWhile Lying in a field me and three friends saw 3 lights traveling across the sky that at first apeared to be satelights but curiosly stayed in perfect formation as if they where all part of one solid object. We continued to check on them from time to time as they traveled across the sky then just as the reached the opposite horizon from where they had begun, a single light appeared where we had first seen the three. It travelled at high speeds, about 3 times the speed of the three, and headed straight towards the three, and over the horizon after them((NUFORC Note:  Witness indicates that the date of the event is approximate.  First three lights may have been the three satellites that are frequently reported to our Center, PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43240.html](http://www.nuforc.org/webreports/reports/043/S43240.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1069](http://www.nuforc.org/webreports/reports/164/S164532.html)
-- [1068](http://www.nuforc.org/webreports/reports/164/S164489.html)
-- [1067](http://www.nuforc.org/webreports/reports/164/S164464.html)
-- [1066](http://www.nuforc.org/webreports/reports/164/S164593.html)
-- [1065](http://www.nuforc.org/webreports/reports/164/S164682.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
