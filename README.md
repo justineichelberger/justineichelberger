@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:49 on 16 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:48 on 16 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Strongsville (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately Current - Current minutes.</sub><blockquote><sub>Red, blue and green flashing object with bouncing movements which are sometimes small and sometime largeHas blue, green and red flashing lights.  Move up, down and sideways.  Usually in the northwestern sky.  Saw this same thing last year in the month of August and reported it.  Eventually fades away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51501.html](http://www.nuforc.org/webreports/reports/051/S51501.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Meriden (CT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A ship flew right over my headWe were walking down the street to the store and looking at the sky at whatever. A Large object flew so low above us we coulda thrown a a rock at it.  It looked like half a hexagon with a long tube type front.  It had a blue light at the front of the tube and red blinking lights at the front corners of the hexagon.  It flew above us at a pace of (I would guess) 15 mph we watched it fly away behind the trees.  We may of saw several small glowing sphere ships around the area that were stationary but we're not positive about those</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38708.html](http://www.nuforc.org/webreports/reports/038/S38708.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164378.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164604.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164391.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164418.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164417.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
