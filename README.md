@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:41 on 16 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:48 on 16 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Scarborough (Canada) (ON) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Afternoon white long stationary saucer shape craft witnessed for 30 minutes by five witnessesBeing it exactly 9 years to this date August 16,2012   I would like to report a white long UFO craft sighting over Scarborough,Ontario at approx.12:05 p.m.Monday Aug.16, 2004.While outside my workplace for lunch on a nice clear day with some clouds.I looked west in the sky noticing a long white saucer shaped object at about a mile or two away.This thing was directly west of our position Maybe at about 10,000 - 20,000 feet in altitude.I called a nearby Landscaper over to come see what I had been witnessing! He also confirm seeing it.As we watch it together in the sky It appeared not to be moving much, as we watched it passed 10 minutes.Also note : One side did slightly lift up .Like a boat on waves  I then ran into my workplace to get two more witnesses and binoculars.The two other witnesses could also see this unknown white craft AS IT DID HAVE SIZE.After using the binoculars to see closer.It appeared brillant white in color- long in length No other colors or markings could be seen.Still staying there near stationary.Now a truck driver pulled in and got out of his truck And was pointed out this white UFO still sitting in the sky.This now brought the count to four witnesses watching as well myself As we all continued to watch it wondering guessing to explain it ! This now being about 25 minutes when first seen.Was now starting to move quite slowly towards the north.I 'm guessing somewhere near over the Don Valley Pkwy.north.After another five minutes we all lost sight of it in the clouds.Needless to say : two witnesses thought it was a white plastic bag for an explaination The other two could not explain the object at all.Do plastic bags stay stationary in the same area of the sky over 25 minutes ? Even have such size at such a distance.This was a incredible sighting to witness  I can only conclude again a presence unknown again witnessed  I also noticed one hour later There were so many jets -every direction causing crosses in the sky.Thus the clear sky was now not so good in clarity as it had been earlier at 12:00pm</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91877.html](http://www.nuforc.org/webreports/reports/091/S91877.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Objects moving in and blowing up then moving out.There was a large clouded storm coming in at an extremely fast rate.  Then all along the bottom line of clouds there is lightning flashing.  You see aircrafts of some sort fly into the clouds and when they reach a certain point, they seem to blow up and then fly out faster then they went in.  There was no wind at all and it was extreme darkness to the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142838.html](http://www.nuforc.org/webreports/reports/142/S142838.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164378.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164604.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164391.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164418.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164417.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
