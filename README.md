@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:50 on 16 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:39 on 16 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Loudon (NH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright circle on approach,  triangular shaped as passed over head just above treelineBright circular light appeared just above tree line.  Remained still for 30 seconds.  A loud engine sound was heard as light moved from west to east.  As object passed over head, it was triangular shape.  Bottom was gold colored and had 3 circular lights on bottom side.   Object moved west in a straight line and disappeared from sight</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135883.html](http://www.nuforc.org/webreports/reports/135/S135883.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Aberdeen (UK/Scotland) () reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>I was out with friends, we saw what we thought were shooting stars, we were wrong.We were walking through a park at night (we were young, and were away to go and drink some beers on the sly - this was BEFORE any of us had been drinking)  It was just me and 8 of my friends, a few of us stopped to light up cigarettes and one of the other guys who was with us was just looking around I guess (it was a clear night) he said something like 'wow! look at the shooting stars!' the 'shooting stars' in question were two dots of light (a little more intense than stars, but not very bright) streaking across the sky, we watched them go across the sky thinking they were shooting stars, then they turned round, we watched them for about 10-20 minutes, without trying to sound cliched, it was beautiful, like they were playing tag, chasing each other across the sky (they stayed on one side of us, I think East (I can find out with a compass :) and going at speeds/doing maneuvers you wouldn't believe. I've never seen anything like it, they were *definitely* not conventional aircraft, I'm talking about going one way at at least 10 times faster than the fastest jet I've ever seen, then in the blink of an eye it was going completely the opposite direction, at the same speed, with the other keeping close behind.  I just wish I had a video camera with me that night.  I know I've said a lot, but I really would rather not be contacted about this by phone, or mail, (with all the hype surrounding the MIB etc with genuine sightings)  I just stumbled across this site and thought I'd share what I saw, it really is something I look up for every night (heh, I've seen a lot of shit in the sky since then, but these were the best, in case you're interested though, we get a lot of traffic out this way, like 40-50 travelling in straight lines across the sky (REALLY high up, binoculars don't magnify at all, and Pretty speedy too) which could be satellites, I haven't looked into these (but the volume of them suggests to me they aren't) I've also been privelidged to see a, umm, oval red fiery thing is probably the best way I can descibe it, about the size of (to my eye, I'm not sure of distance) a lamp-post head, and going about as fast as I see cars pass. Sorry this is all very vague, but I've seen a lot of this here and it's all very much 'oh, I see it now, what's your point?' to me now. Whatever, if you need to contact me, mail me at ((e-address deleted)), I'll get the mail and get back to you.  Thanks, Anon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/006/S06165.html](http://www.nuforc.org/webreports/reports/006/S06165.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164378.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164604.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164391.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164418.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164417.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
