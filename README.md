@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:09:39 on 16 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:45 on 16 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Thunder Bay -RR#3 (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Dim light floating around then separating.  Glowing bright like lightning, and getting dimmer and farther away.  Coming back at a fast rate and disapearing.  This all elapsed in a 5 minute range.  The thing is that the whole sky was dark overcast.  Which means the object had only between 7,000-10,000ft to manouver around in.It happend at 00:25hrs on Monday, August 16/1999.  I was at my home out in the country almost falling asleep in my room.  My sister came down stairs (which she rarely does), knocked on my door telling me to come up stairs fast and look at this "thing" in the sky.  I got up and not really beliving in this whole space craft thing,  I was kinda interested.  I ran into the living room and looked out the bay windows and saw nothing.  Then she started calling me from the kitchen.  I ran into the kitchen and looked out the side window.  In the distance there was an object floating around the city.  I just thought it was a plane getting ready to land.  But dont planes have differn't colours flikering off the back wings? This was a really bright white light flikering really fast in a solid outburst.  My sister said that it went really bright, almost like when lightning flashes.  All of a sudden it started coming back towards our home.  It hovard around our area for a while (ruffly 2mins).  The night was all overcast and the clouds were very low.  This object was below them, so it would have to be about 2000-4000 ft above ground.  The object was getting brighter and brighter, almost lighting up the sky around itself.  Started moving really fast South West and getting brighter and then it felt like it went behind some trees.  It was completely gone.  Since then nothing has happend.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08679.html](http://www.nuforc.org/webreports/reports/008/S08679.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Topsail Island (NC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>UFO Spotted Over Topsail Beach2 balls of fire appeared over our home about 500 yards from the beach.  They didn't fly straight like a plane or helicopter and there was absolutely no sound.  They were orange/red bright objects.  At first distant from one another then close.  One actually moved away from the other and then came back before disappearing.  The other remained for less than a minute afterward before disappearing.  We took a picture but no video</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101261.html](http://www.nuforc.org/webreports/reports/101/S101261.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164378.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164604.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164391.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164418.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164417.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
