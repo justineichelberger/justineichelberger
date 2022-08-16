@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:32:18 on 16 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:14:53 on 16 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Lapeer (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>triangle w/3 lights (red, green, and white) on the underside. flew south towards peppermill rd. caused electrical problems.me and my friend where outside still and we had walky-talkys and we where talking to my friend that had just went inside about an hour ago. we all heard a strange noise (the friend that is inside lives across the street from my house that we where near.) that didn't sound like a jet. me and the friend that was outside wanted to see where it was coming from. so we looked directly upwards and we saw a big triangle shaped object with 3 lights on the underside of it. the lights where on the corners the one on the right corner was red and the one on the left was green the one on the pointed end with one corner was white. our walky-talkys' batterys went low and there was static. the triangle headed south of my house witch would be heading for Peppermill Road. it kept flying untill it went out of sight. batterys returned to normal & static went away when it left. ((Possible airplane??))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51509.html](http://www.nuforc.org/webreports/reports/051/S51509.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Plainfield (NH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Saw 3 white lights in the shape of a triangle that had an aircraft behind it with two lights and one flashing red light.  They where around a hundred yards apart, and not moving. Then they began to move in a northwest direction, keeping the same distance apart, you could hear the sound of a jet engine as they moved away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142757.html](http://www.nuforc.org/webreports/reports/142/S142757.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164378.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164604.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164391.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164418.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164417.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
