@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:04:29 on 16 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:50 on 16 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Darien (CT) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Neon green object dissapears in night skywe were driving down the street in the dark with a completly clear sky. out from behind the trees ahead of us a giant neon green colored egg shaped object caught our attention. we saw it for almost less than a second, but we saw that it was flying in mid sky, too low and too fast for an airplane and at a weird angle. we only saw the object once and it never re-appeared.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  Possible hoax.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58219.html](http://www.nuforc.org/webreports/reports/058/S58219.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Loudon (NH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright circle on approach,  triangular shaped as passed over head just above treelineBright circular light appeared just above tree line.  Remained still for 30 seconds.  A loud engine sound was heard as light moved from west to east.  As object passed over head, it was triangular shape.  Bottom was gold colored and had 3 circular lights on bottom side.   Object moved west in a straight line and disappeared from sight</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135883.html](http://www.nuforc.org/webreports/reports/135/S135883.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164378.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164604.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164391.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164418.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164417.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
