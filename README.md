@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:37 on 16 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:44 on 16 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Grand Marais (MN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 14.0 - 14.0 minutes.</sub><blockquote><sub>In late August, 1999, my wife and I were staying at a cabin on the ridge overlooking Lake Superior just outside Grand Marais, Minnesota. I t was an exceptionally clear evening with a view of the Milky Way stretching across the sky at about 11:00 P.M.-11:30 P.M.  I had just stepped outside onto a small deck of the cabin with a clear view of the lake and ridgeline and was looking towards the town of Grand Marais. Suddenly, I felt as if someone was standing behind me and I turned around to see what was going on. I saw a large circular shape of concentrated white light, without a halo, larger than a full moon, about five to ten miles away above the ridgeline and not obstructed in any way.  My first thought was that it was a very large meteor but it was stationary without movement. My next thought was that it might be some kind of aircraft but I quickly dismissed that idea.  This initial observation of the object lasted about 8-10 minutes.  Then, within the white ligh! t, at about 2/3rds of the inside diameter, a bright red ring of light developed in a clockwise fashion. This internal red ring was maintained for several more minutes and then vanished.  Next, the overall white circular light contracted to where the red ring had appeared.  Then this object suddenly and at great speed ascended at about an 85 degree angle towards the north without a sound. I watched the ascent of the object to where it was about the size of a small star and watched it travel at high speed some distance and over the horizon, heading north over Canada.  Besides the physical visual experience, what also stood out about the encounter was the very strong sense of presence of the object.  I have never seen anything like this in my life before or since. I have no explanation of it and it was clearly not a natural phenomena.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79743.html](http://www.nuforc.org/webreports/reports/079/S79743.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Small Point (ME) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Orange looking fireballs floating, dimming and brightening, and making circular motions around each other before vanishing into the skyThis summer I was at a campground called Hermit Island.  This campground is surrounded by beaches.  One night around 10:pm, a bunch of my friends and I decided to go down to a beach and star gaze for a bit.  As were we're looking into the star filled sky, all of a sudden two huge floating objects appeared out of nowhere in the sky.  At first, the looked like two fireballs just floating in the sky.  They were a orange reddish color.  As we watched them, they would get really dim, almost to the point where you couldn't see them, and then they would get really bright. After about 1 minute of watching this, they started to move rather than float in one spot.  They moved in two perfect circles around each other still getting dimming and brightening.  As they made the second circular motion, they got as bright as they had ever been and vanished in a blink of an eye into the dark sky without a sound.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95118.html](http://www.nuforc.org/webreports/reports/095/S95118.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164378.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164604.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164391.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164418.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164417.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
