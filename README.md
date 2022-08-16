@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:45 on 16 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:42 on 16 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Topsail Island (NC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>UFO Spotted Over Topsail Beach2 balls of fire appeared over our home about 500 yards from the beach.  They didn't fly straight like a plane or helicopter and there was absolutely no sound.  They were orange/red bright objects.  At first distant from one another then close.  One actually moved away from the other and then came back before disappearing.  The other remained for less than a minute afterward before disappearing.  We took a picture but no video</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101261.html](http://www.nuforc.org/webreports/reports/101/S101261.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1975, an anonymous witness in Highlands (TX) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Ball of light like a roman candleMe and my wife had went out to the car and saw a bright fireball come up and out of the Highlands Reservoir, which was about 1/4 mile away. It looked like a roman candle with different colors as it shot out and away. It scared us so bad, we lrft and went to baytown to sleep at her parents house that night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46244.html](http://www.nuforc.org/webreports/reports/046/S46244.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164378.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164604.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164391.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164418.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164417.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
