@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:45 on 16 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:44 on 16 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Comfort (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately all night - all night minutes.</sub><blockquote><sub>Like guests who won't leave, these UFO's are becoming unwelcome.It all started last Friday night (16th).  I was coming home around 10 pm and spotted a bright white object moving across the sky about a half mile in front of me.  I thought, Ok, that's creepy.  After it disappeared, I continued on home.For the next few nights myself and neighbors observed two bright lights.  The lights would stay put for a while, then slowly move, then become stationary.  At first I thought one was the ‘evening star’.On wednesday night, we noticed a pulsing red/green object accompaning the lights.The really big show was thursday night. Using binoculars, we counted 11 pulsing red/green lights.  They were stationary and held their position about 15 miles apart from each other.  About 4:30 am, I noticed one moving off to the southwest.  As the suns glow in the east began to brighten, they disappeared.The evening of the 23rd, I stayed inside and didn't look out.  I woke up the next morning at 6 and couldn't resist looking outside.  I saw two of the objects.  They appeared to be about 5 miles distant.  I looked again at 6:20, and they had disappeared.In the evening of the 24th, I was watching the sky at dusk to try to determine when and how they show up.  The ‘evening star’ was already at its station as the sun was setting.  Later, at 8:30 pm, I was talking with a neighbor on my cell phone.  We were talking about how there were six bright lights, and an orange ball over his house.  I noticed the ‘evening star’ light backing into the distance.  About 4 minutes later, an Air Force AWACS, accompanied by a fighter aircraft flew by at about a mile from me at about 2,000 to 3,000 feet altitude.I’m just guessing, but it seems someone at the pentagon is very interested in this concentration of UFO’s over Kendall County.  This is about 50 miles north of San Antonio.I feel unsettled about this large number of UFO’s remaining over a relatively small area for such a long time.I've been sitting outside on the patio every night for three years, just stargazing.  So, this is a whole new experience.  The other night I got on the internet to see if others had seen something like this.  I discovered people around the world have seen the red/green object.  No one mentioned the objects stayed in the area, or were seen for weeks at a time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101561.html](http://www.nuforc.org/webreports/reports/101/S101561.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Gulf Shores (AL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Object looked to be a mile high ,at least half mile wide with five lights three feet across on bottom.At around 9pm central time,my wife and I were sitting on our deck looking out over the ocean.Five lights just flashed on, at least a mile high in the sky. In a triangle form,With a point light and two lights on the right side,and one light on left side with a space between them. Very dark night,could see no out lines.Object after five minutes,flashed off.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69027.html](http://www.nuforc.org/webreports/reports/069/S69027.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164378.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164604.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164391.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164418.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164417.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
