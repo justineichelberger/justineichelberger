@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:46 on 16 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:04:14 on 16 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Woodbridge (NJ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Up in the sky was a hovering disk shaped object with yellow and blue lights.The object seen was disk shaped.  It had a big bright yellow light on the top.  It had a blue light on one side and a yellow light on the other.  There appeared to be straight that connected the big yellow light to the smaller lights on the sides.  It had a red border.  The color between the red border and the big yellow light on top was grey.  There was one window in the red border.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59402.html](http://www.nuforc.org/webreports/reports/059/S59402.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Clinton (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Multiple round red lights some in formation, all moving at the same speed.Red lights appearing in the sky moving southeast to northwest.  Came in groups of 3 or 2 or just 1 at a time.  Made no sound then just winked out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112531.html](http://www.nuforc.org/webreports/reports/112/S112531.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164378.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164604.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164391.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164418.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164417.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
