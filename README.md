@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:36 on 15 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:49 on 16 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1957, an anonymous witness in Ludlow (MA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Black silhouetted object against glow of distant town.  Flashing light on one edge. Hovers then drops down out of sight.My hobby was Astronomy and I would get up late at night to look out of my window at the stars.  It was a summer night I believe in August of 1957. I was looking south toward the massachusetts turnpike and toward the town of Indian Orchard, Mass which cast a glow into the night sky. I was ten years old at the time.  My stargazing was interrupted by a rapidly flashing bluish white light.  I thought it was some kind of firefly but when I looked directly at it I saw that it was on one edge of a black silhouetted cigar shaped object.  It reminded me of a weapon discharge such as a machine gun.  It was 'firing' in the same direction of travel as the object and appeared to be slowing the object down as if it were a retrorocket.  The object (which I estimated to be large...at least several hundred feet long) slowed to a halt over the hill.  The blue-white light ceased to discharge.  After a few seconds it slowly descended behind the hill and out of sight (there is a valley there where the Ludlow River (it may be called the Chicopee River actually) flows.  I watched for hours but it never came up into view again.  I had heard that the Ludlow police had seen it in a different area that night at about 3am but never verified this in newspapers recently.((NUFORC Note:  Date in 1957 is approximate.  We have assigned an arbitrary date in August 1957.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05574.html](http://www.nuforc.org/webreports/reports/005/S05574.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Strongsville (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately Current - Current minutes.</sub><blockquote><sub>Red, blue and green flashing object with bouncing movements which are sometimes small and sometime largeHas blue, green and red flashing lights.  Move up, down and sideways.  Usually in the northwestern sky.  Saw this same thing last year in the month of August and reported it.  Eventually fades away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51501.html](http://www.nuforc.org/webreports/reports/051/S51501.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1069](http://www.nuforc.org/webreports/reports/164/S164532.html)
-- [1068](http://www.nuforc.org/webreports/reports/164/S164489.html)
-- [1067](http://www.nuforc.org/webreports/reports/164/S164464.html)
-- [1066](http://www.nuforc.org/webreports/reports/164/S164593.html)
-- [1065](http://www.nuforc.org/webreports/reports/164/S164682.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
