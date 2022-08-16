@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:44 on 16 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:34 on 16 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Gulf Shores (AL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Object looked to be a mile high ,at least half mile wide with five lights three feet across on bottom.At around 9pm central time,my wife and I were sitting on our deck looking out over the ocean.Five lights just flashed on, at least a mile high in the sky. In a triangle form,With a point light and two lights on the right side,and one light on left side with a space between them. Very dark night,could see no out lines.Object after five minutes,flashed off.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69027.html](http://www.nuforc.org/webreports/reports/069/S69027.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Trout Lake (WA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>UFO shines a beam of light at us then shoots across the night sky and disappearsTwo others and myself were up in the area of Trout Lake, WA near Mount Adams just outside the entrance to the Gifford Pinchot National Forest. It was a clear night outside, millions of stars in the sky. Not a cloud in sight. It was warm (about 800 outside) at 11:30pm.We had pulled over to look at all the stars and see if we could see a UFO or anything else in the sky. While there, we had seen approximately 3 objects that were very unusual. When someone would spot something in the sky (way up there) that was moving, I would shine my flashlight on it so everyone could see the object and follow it with there eyes. The 3 objects in question would be flying along (as one solid white light) then just disappear as we were tracking it with our eyes. There was no explanation for this. Where did it go? One minute it was there and the next it was gone.This went on for about 30-45 minutes. In that time frame we saw the flight path of the airplanes to our immediate north and to our immediate south. Very few planes (3) flew by us. The planes to our North were so far north that we could barely make them out. The planes to our South we could clearly tell that they were planes because they had lights on the crafts and we could hear the noise as they flew by us. No mistaking them for anything else.After about 45minutes we were talking about leaving when I spotted this solid bright white light (way up there) in the Southern sky. I told everyone to look (shining my flashlight up at the object) when all of a sudden the object turned toward us and shot a beam of light at us (as if acknowledging that it saw our light) then it simply turned and shot West into the night sky and simply disappeared right before our eyes just like the previous 3 objects we had seen earlier. The beam of light was as wide as the object itself. It was no search light from a helicopter or any other aircraft that I know of. Besides, it simply disappeared right in front of our eyes.When it turned and shot the beam of light at us, I screamed and stared to dart back into the vehicle because I was afraid that it would come down out of the sky and do something to us. The other 2 people with me simply froze. We didn’t know what to say to each other afterward or even believe what we just saw.I still have a hard time believing it to this day.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65579.html](http://www.nuforc.org/webreports/reports/065/S65579.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164378.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164604.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164391.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164418.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164417.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
