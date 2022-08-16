@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:36 on 16 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:35 on 16 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Alexandria (VA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 141</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148431.html](http://www.nuforc.org/webreports/reports/148/S148431.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Dixon (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>This is 2nd sighting of same craft traveling the same path in 1 week.  It moved over us like an airplane but the lights were flashing out of sequence compared the normal plane we see from Travis etc.  Very brite red and green flashes with intermittent spot  light flash pointed downward. It traveled off into the horizon much like the speed of a low aircraft ( no moise) for about 2 or 3 minutes then from quite  a distance it shot back to basicly rite over us in about 2 seconds warp speed it appeared.it turned brite red at hi speed.  This was real upclose and obvious.  All lights went out and I saw it was a grey triangle.  No doubt.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158650.html](http://www.nuforc.org/webreports/reports/158/S158650.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164378.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164604.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164391.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164418.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164417.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
