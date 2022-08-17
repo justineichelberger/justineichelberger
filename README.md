@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:41 on 17 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:06:36 on 17 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Green Lake (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>So for this intense light,being thesize of a football field, to just disappear as though a switch was flipped off...My son and I  were visiting in Green Lake,Wisconsin.That friday night, I was walking "Rocky" the dog when I saw a flash of light, perhaps a falling star. Then a bright, intense starlike light  was approaching from the west at a medium rate of speed.I thought this might be the lights on a commercial jet. Straining to see any blinking lights I thought "where is the engine noise?" I was listening for gas propellent for balloons. The bright intense light passed overhead and to the east. Still no green or red flashing lights.Then it was just gone, like it went into a black hole or something. The night was very clear and one could see all the stars including the south to north track of satellites.So for this intense light,being the size of a football field,to just disappear as though a switch was flipped off seemed impossible. I went back to get my son and binoculars to go back out.Again a shooting star and then a bright light.Looking at the object through our binoculars we still did not see any flashing aircraft lights,no noise,just motion.The white intense light,smaller though, or the same one farther away, heading in a different direction? Did anyone else see this?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19229.html](http://www.nuforc.org/webreports/reports/019/S19229.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in North Attleboro (MA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Two orange fireballs in the sky.Two orange fireballs went across the sky in the same trajectory.  They too large to be an object on fire, but too small to be an aircraft.  They were followed by jets that went in the same direction.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94693.html](http://www.nuforc.org/webreports/reports/094/S94693.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [393](http://www.nuforc.org/webreports/reports/164/S164367.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164381.html)
-- [391](http://www.nuforc.org/webreports/reports/164/S164609.html)
-- [390](http://www.nuforc.org/webreports/reports/164/S164370.html)
-- [389](http://www.nuforc.org/webreports/reports/164/S164372.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
