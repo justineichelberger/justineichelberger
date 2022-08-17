@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:49 on 17 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:53 on 17 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in El Dorado (KS) reported seeing craft that fit the description of some 'Circle' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>I was standing in my driveway getting into my car when it happened.  My back started to get extremly hot, it felt like I was getting a sunburn. I torned around and there not twenty feet from me was three red glowing objects I was in shock.  The glow off of the objects were dim but the heat was unbareable.  It was as if I had passes out because the next thing I remember was sitting in my car.  It was one of the strangest things that has ever hapened to me. I told the local police but the officer just told me I staired at the sun to long, but it wasnt the sun.I was standing in my driveway getting into my car when it happened.  My back started to get extremly hot, it felt like I was getting a sunburn. I torned around and there not twenty feet from me was three red glowing objects I was in shock.  The glow off of the objects were dim but the heat was unbareable.  It was as if I had passes out because the next thing I remember was sitting in my car.  It was one of the strangest things that has ever hapened to me. I told the local police but the officer just told me I staired at the sun to long, but it wasnt the sun.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04385.html](http://www.nuforc.org/webreports/reports/004/S04385.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Weed (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Four metallic disks sighted on the north side of Mt. Shasta.We were coming back from the coast, driving I-5 south between Yreka and Weed, on the north side of Mt. Shasta we saw three metalic circles, flying at a low altitude, lost sight of them behind a hill. Immediately one more followed them. It was a very clear day, there were no clouds around.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30752.html](http://www.nuforc.org/webreports/reports/030/S30752.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [393](http://www.nuforc.org/webreports/reports/164/S164367.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164381.html)
-- [391](http://www.nuforc.org/webreports/reports/164/S164609.html)
-- [390](http://www.nuforc.org/webreports/reports/164/S164370.html)
-- [389](http://www.nuforc.org/webreports/reports/164/S164372.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
