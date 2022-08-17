@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:20:13 on 17 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:01:13 on 17 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Granite (WA) reported seeing craft that fit the description of some '' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Woman, son, & neighbor witness "large, oval-shaped bright, magenta light" below clouds.  Light blinked on and off 3x in 2 sec..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00734.html](http://www.nuforc.org/webreports/reports/000/S00734.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Grand Rapids (MI) reported seeing craft that fit the description of some 'Oval' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>A beautiful night, clear skies and a wonderful light show.  I hope to see more in the futureI was at work Friday night and I happened to see a red orb in the sky, it stayed in one spot for 30 sec it blinked out for 1 sec, then appeared in a spot (a little to the east).  It stayed in the spot for 30 sec then went to another spot.   5 min later I noticed 3 red orbs in a diagonal row, it looked like orions belt.  Within 2 min the orbs were gone.The place where they appeared are over an airport (the Gerald R. Ford airport).The orbs were red in color and they appeared to blink out then appear in other spots within seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101345.html](http://www.nuforc.org/webreports/reports/101/S101345.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [393](http://www.nuforc.org/webreports/reports/164/S164367.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164381.html)
-- [391](http://www.nuforc.org/webreports/reports/164/S164609.html)
-- [390](http://www.nuforc.org/webreports/reports/164/S164370.html)
-- [389](http://www.nuforc.org/webreports/reports/164/S164372.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
