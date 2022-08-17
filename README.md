@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:50:48 on 17 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:42:26 on 17 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Holt's Summit (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Watching sky and 12 lights came out the the middle of corona borealis.  All traveled the same direction after leaving the constellation.  The first 3 there was a light flash like a camera then the objects moved out of the circle.  Each object moved across the sky until they each disappeared about 15 seconds after leaving the circle.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158666.html](http://www.nuforc.org/webreports/reports/158/S158666.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Klamath Falls (OR) reported seeing craft that fit the description of some 'Flash' over a period of approximately  -  minutes.</sub><blockquote><sub>UFO spotted in Klamath Falls OregonSitting out on our porch we happend to notice a light in the sky brighter than the rest.  At first we thought it was either a star or Mars or something.  After watching it for about 30 minutes we realized it is not a star or Mars.  It has lights that would flash in the colors of blue, red, and white.  It seemed to kind of hover I guess.  It would be in one spot then it would be in another.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45647.html](http://www.nuforc.org/webreports/reports/045/S45647.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [393](http://www.nuforc.org/webreports/reports/164/S164367.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164381.html)
-- [391](http://www.nuforc.org/webreports/reports/164/S164609.html)
-- [390](http://www.nuforc.org/webreports/reports/164/S164370.html)
-- [389](http://www.nuforc.org/webreports/reports/164/S164372.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
