@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:53 on 17 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:38 on 17 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Weed (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Four metallic disks sighted on the north side of Mt. Shasta.We were coming back from the coast, driving I-5 south between Yreka and Weed, on the north side of Mt. Shasta we saw three metalic circles, flying at a low altitude, lost sight of them behind a hill. Immediately one more followed them. It was a very clear day, there were no clouds around.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30752.html](http://www.nuforc.org/webreports/reports/030/S30752.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in San Marcos (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>three glowing lights, leaving and returningWalking at night, saw 3 orange glowing lights hovering in the sky.  One of them moved away and was gone; another went out and then came back.  So then there were two. Then they both went out, and then came back, one big and one small.  Then they both went out, and didn't come back.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101288.html](http://www.nuforc.org/webreports/reports/101/S101288.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [393](http://www.nuforc.org/webreports/reports/164/S164367.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164381.html)
-- [391](http://www.nuforc.org/webreports/reports/164/S164609.html)
-- [390](http://www.nuforc.org/webreports/reports/164/S164370.html)
-- [389](http://www.nuforc.org/webreports/reports/164/S164372.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
