@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:01:02 on 17 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:29:14 on 17 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Cranston (RI) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I pulled into work last night and realized my co worker, and a few people from the restaurant next to ours were staring at the sky.  I got out of my car and asked what they are looking at and I looked up and witnessed 6 bright red lights that sat in the area for 30 minutes.  A few of them would disappeared and then return seconds later. one or two of them would change to a very very bright white light and the light would move as if it was searching for something, the light moving resembled a lighthouse light.  They were all grouped together and disappeared out of no where at the same time.  About an hour later I went outside and looked and saw a really close bright red blinking it was there for a while and it was very low.  It barely moved.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101362.html](http://www.nuforc.org/webreports/reports/101/S101362.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Ocean City (NJ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>BLIMP SHAPPED OBJECT IN THE SKY.I was on my way to Cape May, NJ, with my wife and 2 sons,and while driving on NJ-42 south,I spotted something in the distant sky that looked like a blimp .The more we drove,the more we watched as this blimp hovered and arose and descended in the sky. It seemed to get closer at times but then would go below the tree line and once we saw it again,it was very far in the distant sky again.  You could see as this thing moved up and down that it was moving slowly,but every time we lost in behind tree's, it would appear again very very far away.We could see that this was definitely not a plane or helicopter and there was no way a blimp could get so far away from us so quickly as we were doing about 75mph.It was a blueish colored object that at times would look more round,but over all looked like a blimp.We followed it for at least 15 minutes until we turned off on to the Garden State Parkway and then lost it.My wife and I were trying to really figure out what this was and were actually joking at first with our kids that it was a UFO.  The joking soon turned to puzzlement as we could not,and still cannot determine what it was.Just wondering if anyone else in the NJ area spotted this?((NUFORC Note:  This report was first posted as "Ocean City, NM."  A careful reader has pointed out that the correct state probably is New Jersey, a fact with which we concur.  We have finally changed the state above to reflect the correct state.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65288.html](http://www.nuforc.org/webreports/reports/065/S65288.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [393](http://www.nuforc.org/webreports/reports/164/S164367.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164381.html)
-- [391](http://www.nuforc.org/webreports/reports/164/S164609.html)
-- [390](http://www.nuforc.org/webreports/reports/164/S164370.html)
-- [389](http://www.nuforc.org/webreports/reports/164/S164372.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
