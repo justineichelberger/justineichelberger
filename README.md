@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:33 on 17 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:44 on 17 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Ellison Bay (WI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Yellowish-orange sphere traveling slightly erratically, but mostly southerly at 9 pm off Ellison Bay, WI.Spherical object came into view from the east over the body of water Green Bay outside of the Ellison Bay harbor.  It appeared to be spherical, with a slight tail, glowing orange.   Its movement, or path, was unusual, in that it appeared to move forward (towards us) and then veered sideways, was rather erratic, not completely smooth in its track.   Also, its speed wasn't that of any object with which we were familiar.     It continue to move like that, now in a southerly direction, and moved away from us.    We watched it until it was out of our sight, hidden by trees and the mere fact that the distance between us and the object became too great.    We have pictures on our phones.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91895.html](http://www.nuforc.org/webreports/reports/091/S91895.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Erie (PA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright Cylinder Shaped  Object  Makes a Showing Over Lake Erie in August 2002We were on a Lake Erie ferry boat for the sunset cruise and about eight p.m. we spotted something in the sky that we concluded was not a plane.  The more we looked at it the more everyone agreed that it was not a plane.  The object was verticle and, cylinder shaped and very bright, like crome.  It looked as though it was going straight up in the sky and gaining  altitude. The craft had a very small after burn, or trail of smoke, but very, very short.  I took five pictures with my 35mm camera, but it did not pick up the trail of smoke. It all took place in about five minutes.  As soon as it was there ....it was gone out of sight.  I plan on enlarging the photos I had developed to get a begtter look at it. This object was viewed by more than 20 pairs of eyes and all agreed that the object in the sky was definitely NOT a plane.  So....what ...was...it?((NUFORC Note:  We spoke with this witness at length via telephone, and we found her to be lucid, sincere, and quite credible.  We do not know what it was she and the others witnessed.  We have requested additional reports from the other witnesses.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25085.html](http://www.nuforc.org/webreports/reports/025/S25085.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [393](http://www.nuforc.org/webreports/reports/164/S164367.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164381.html)
-- [391](http://www.nuforc.org/webreports/reports/164/S164609.html)
-- [390](http://www.nuforc.org/webreports/reports/164/S164370.html)
-- [389](http://www.nuforc.org/webreports/reports/164/S164372.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
