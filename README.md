@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:44 on 17 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:40 on 17 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>black slow moving  V shape object over houston s george bush airportWe were at a business along beltway 8. The object came from the southeast to northwest over george bush airport. It was black sort of v shape. At first i thought it was an ultralite but it appeared to be over 1500 ft in air and i think ultra lites are allowed to fly 500 ft and below and definitely not allowed to fly over airspace like the bush airport. It was hard to see clearly due to clouds and the distance but it slowed down and seem to turn back to the southeast. the speed was not very fast. I like to know if anyone else had seen this object in air or another incidence elsewhere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65304.html](http://www.nuforc.org/webreports/reports/065/S65304.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1966, an anonymous witness in Bass Harbor (ME) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Disk shape object seen in Blue Hill Bay, Bass Harbor, ME , 1966While going out to the fishing grounds, over Placentia Island Maine in Blue Hill Bay in Bass Harbor,my brother Frank and I saw a disk shape object which was dark in color and about the size of the space ship in the movie " Close Incounters of the Third Kind ".The only light showing was a shaft of white light coming out of the center bottom.It was directed down upon the island of Placentia which was only inhabited by a man and his wife,Art and Nan Kellem (or Kellum).This was taking place at the SW section of the island.When I flashed my running lights on and off the light from the object turned off.My brothers responce was "Jesus,what is it !!!" We continued toward the fishing grounds and saw it light up again when we were about 2 miles South of it. It was at the same position as when we left.((NUFORC Note:  We spoke with this witness via telephone, and we found him to be seemingly quite credible.  His recollection of the event was quite detailed.  The date of the sighting is approximate, but the witness reported that he thinks the sighting occurred in either July or August of 1966.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32749.html](http://www.nuforc.org/webreports/reports/032/S32749.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [393](http://www.nuforc.org/webreports/reports/164/S164367.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164381.html)
-- [391](http://www.nuforc.org/webreports/reports/164/S164609.html)
-- [390](http://www.nuforc.org/webreports/reports/164/S164370.html)
-- [389](http://www.nuforc.org/webreports/reports/164/S164372.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
