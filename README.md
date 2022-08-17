@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:40 on 17 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:35 on 17 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1966, an anonymous witness in Bass Harbor (ME) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Disk shape object seen in Blue Hill Bay, Bass Harbor, ME , 1966While going out to the fishing grounds, over Placentia Island Maine in Blue Hill Bay in Bass Harbor,my brother Frank and I saw a disk shape object which was dark in color and about the size of the space ship in the movie " Close Incounters of the Third Kind ".The only light showing was a shaft of white light coming out of the center bottom.It was directed down upon the island of Placentia which was only inhabited by a man and his wife,Art and Nan Kellem (or Kellum).This was taking place at the SW section of the island.When I flashed my running lights on and off the light from the object turned off.My brothers responce was "Jesus,what is it !!!" We continued toward the fishing grounds and saw it light up again when we were about 2 miles South of it. It was at the same position as when we left.((NUFORC Note:  We spoke with this witness via telephone, and we found him to be seemingly quite credible.  His recollection of the event was quite detailed.  The date of the sighting is approximate, but the witness reported that he thinks the sighting occurred in either July or August of 1966.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32749.html](http://www.nuforc.org/webreports/reports/032/S32749.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Omaha (NE) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>It was a very beautiful sunny day with a lot of clouds but they were fluffy white clouds I was sitting on the top balcony of my apartment as I'm sitting there enjoying a cigarette I looked up in the sky and noticed that a certain Cloud was a little out of place it wasn't that it was not what was supposed to be it looked more like it was pixelated like it was a cloaking device or something so I never saw the shape of the think I set there and watch this for ten minutes even looking away and going back to a just make sure my eyes weren't playing tricks on me as I started to stare at it more more I washed it move around a little and then all the sudden it kind of like disappeared in the other clouds so I couldn't see this pixelation thing I don't think I'm crazy but I've been looking to see if anyone else kind of had this thing and I've seen other reports but not quite like this please help me figure out what this was((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126727.html](http://www.nuforc.org/webreports/reports/126/S126727.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [393](http://www.nuforc.org/webreports/reports/164/S164367.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164381.html)
-- [391](http://www.nuforc.org/webreports/reports/164/S164609.html)
-- [390](http://www.nuforc.org/webreports/reports/164/S164370.html)
-- [389](http://www.nuforc.org/webreports/reports/164/S164372.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
