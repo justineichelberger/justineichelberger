@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:38 on 17 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:44 on 17 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in San Marcos (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>three glowing lights, leaving and returningWalking at night, saw 3 orange glowing lights hovering in the sky.  One of them moved away and was gone; another went out and then came back.  So then there were two. Then they both went out, and then came back, one big and one small.  Then they both went out, and didn't come back.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101288.html](http://www.nuforc.org/webreports/reports/101/S101288.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>black slow moving  V shape object over houston s george bush airportWe were at a business along beltway 8. The object came from the southeast to northwest over george bush airport. It was black sort of v shape. At first i thought it was an ultralite but it appeared to be over 1500 ft in air and i think ultra lites are allowed to fly 500 ft and below and definitely not allowed to fly over airspace like the bush airport. It was hard to see clearly due to clouds and the distance but it slowed down and seem to turn back to the southeast. the speed was not very fast. I like to know if anyone else had seen this object in air or another incidence elsewhere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65304.html](http://www.nuforc.org/webreports/reports/065/S65304.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [393](http://www.nuforc.org/webreports/reports/164/S164367.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164381.html)
-- [391](http://www.nuforc.org/webreports/reports/164/S164609.html)
-- [390](http://www.nuforc.org/webreports/reports/164/S164370.html)
-- [389](http://www.nuforc.org/webreports/reports/164/S164372.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
