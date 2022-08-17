@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:49 on 17 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:33 on 17 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Stanton (DE) reported seeing craft that fit the description of some 'Circle' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Quick flash of light with vary distinguished shape!We saw a bright light moving slowly across the north east sky.  It was flying south. There were no flashing lights, like on every airplane that flies around here.  When it disappeared, we saw another light flash quickly and only once in the north eastern skyline.  The light had a vary distinguished shape to it.  It was circular with dark spots inside the light, I can draw what I saw but don't know how to explain it in words.  After that light, we saw another light with no flashing lights,vary high in the south eastern skyline.  It moved from south to north vary quickly.  We then saw two flashes of light similar to the one I explained already.  It was quick flash with the same shape as the other one.  The entire event took place in less than 7 mins.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121176.html](http://www.nuforc.org/webreports/reports/121/S121176.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Ellison Bay (WI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Yellowish-orange sphere traveling slightly erratically, but mostly southerly at 9 pm off Ellison Bay, WI.Spherical object came into view from the east over the body of water Green Bay outside of the Ellison Bay harbor.  It appeared to be spherical, with a slight tail, glowing orange.   Its movement, or path, was unusual, in that it appeared to move forward (towards us) and then veered sideways, was rather erratic, not completely smooth in its track.   Also, its speed wasn't that of any object with which we were familiar.     It continue to move like that, now in a southerly direction, and moved away from us.    We watched it until it was out of our sight, hidden by trees and the mere fact that the distance between us and the object became too great.    We have pictures on our phones.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91895.html](http://www.nuforc.org/webreports/reports/091/S91895.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [393](http://www.nuforc.org/webreports/reports/164/S164367.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164381.html)
-- [391](http://www.nuforc.org/webreports/reports/164/S164609.html)
-- [390](http://www.nuforc.org/webreports/reports/164/S164370.html)
-- [389](http://www.nuforc.org/webreports/reports/164/S164372.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
