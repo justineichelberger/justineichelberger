@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:44 on 17 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:15:21 on 17 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Erie (PA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright Cylinder Shaped  Object  Makes a Showing Over Lake Erie in August 2002We were on a Lake Erie ferry boat for the sunset cruise and about eight p.m. we spotted something in the sky that we concluded was not a plane.  The more we looked at it the more everyone agreed that it was not a plane.  The object was verticle and, cylinder shaped and very bright, like crome.  It looked as though it was going straight up in the sky and gaining  altitude. The craft had a very small after burn, or trail of smoke, but very, very short.  I took five pictures with my 35mm camera, but it did not pick up the trail of smoke. It all took place in about five minutes.  As soon as it was there ....it was gone out of sight.  I plan on enlarging the photos I had developed to get a begtter look at it. This object was viewed by more than 20 pairs of eyes and all agreed that the object in the sky was definitely NOT a plane.  So....what ...was...it?((NUFORC Note:  We spoke with this witness at length via telephone, and we found her to be lucid, sincere, and quite credible.  We do not know what it was she and the others witnessed.  We have requested additional reports from the other witnesses.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25085.html](http://www.nuforc.org/webreports/reports/025/S25085.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in New Port Richey (FL) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.5833333333333334 - 0.5833333333333334 minutes.</sub><blockquote><sub>Secret rocket launch in southern Florida, tonight?I went outside to smoke a cig around 21:00, and saw a bright object on fire.  I called my friends outside, and a second object appeared.  We watched both objects for about 35 seconds, as they headed up and out of site in a slight arch.  Looked like a rocket and booster.  Searched Internet for any Rocket Launches tonight in Florida….nothing.   Secret launch from Southern Florida?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135765.html](http://www.nuforc.org/webreports/reports/135/S135765.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [393](http://www.nuforc.org/webreports/reports/164/S164367.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164381.html)
-- [391](http://www.nuforc.org/webreports/reports/164/S164609.html)
-- [390](http://www.nuforc.org/webreports/reports/164/S164370.html)
-- [389](http://www.nuforc.org/webreports/reports/164/S164372.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
