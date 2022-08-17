@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:06:36 on 17 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:49 on 17 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in North Attleboro (MA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Two orange fireballs in the sky.Two orange fireballs went across the sky in the same trajectory.  They too large to be an object on fire, but too small to be an aircraft.  They were followed by jets that went in the same direction.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94693.html](http://www.nuforc.org/webreports/reports/094/S94693.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in El Dorado (KS) reported seeing craft that fit the description of some 'Circle' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>I was standing in my driveway getting into my car when it happened.  My back started to get extremly hot, it felt like I was getting a sunburn. I torned around and there not twenty feet from me was three red glowing objects I was in shock.  The glow off of the objects were dim but the heat was unbareable.  It was as if I had passes out because the next thing I remember was sitting in my car.  It was one of the strangest things that has ever hapened to me. I told the local police but the officer just told me I staired at the sun to long, but it wasnt the sun.I was standing in my driveway getting into my car when it happened.  My back started to get extremly hot, it felt like I was getting a sunburn. I torned around and there not twenty feet from me was three red glowing objects I was in shock.  The glow off of the objects were dim but the heat was unbareable.  It was as if I had passes out because the next thing I remember was sitting in my car.  It was one of the strangest things that has ever hapened to me. I told the local police but the officer just told me I staired at the sun to long, but it wasnt the sun.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04385.html](http://www.nuforc.org/webreports/reports/004/S04385.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [393](http://www.nuforc.org/webreports/reports/164/S164367.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164381.html)
-- [391](http://www.nuforc.org/webreports/reports/164/S164609.html)
-- [390](http://www.nuforc.org/webreports/reports/164/S164370.html)
-- [389](http://www.nuforc.org/webreports/reports/164/S164372.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
