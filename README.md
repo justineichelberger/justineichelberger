@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:41 on 18 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:29:28 on 18 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Sudbury (Canada) (ON) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Glowing sphere appeared in the night sky, hovered for 20 secs, then 7 smaller spheres   ejected and hovered nearby, then they all   dDETAILED EXPERIENCE:   It was a clear, summer night in Sudbury,  August 18, 2018.It was around 12:30 AM.I had left a friend's house at was riding a  bicycle.I was heading East on Auger Street.  There was  no traffic on the road and the neighborhood  was very quiet.I was riding in the middle of the road, and  looking up at the wonderful starry sky.  I was  looking toward the north-east part of the sky.As I was looking up, I seen a glowing sphere  appear out of nowhere.It appeared about 30 degrees above the horizon  line, and was directly facing me.It was perfectly round. At my distance from  the object, I couldn't tell if it was a sphere or a flat disc.  I assume it was a sphere like  craft.It glowed quite bright with a red-orange  color.  It didn't really pulsate, but it didn't  stay completely constant either.  It had slight  fluctuations, like dimming and brightening...a  slight twinkling effect.Approximately 20-25 seconds lapsed after it appeared.At that point, 7 other crafts exited, or  ejected from the original orb.This happened instantly. In one second, they  exited and traveled to another part of the  sky, and stopped instantly.  They stayed  somewhat in the vicinity of the primary craft.In my estimation from my ground  perspective… Maybe 100 kilometers apart. They  moved to my left, with a northerly trajectory.Again, from my perspective, maybe 35-40  degrees.The smaller craft all stayed in close  proximity to each other, but in no particular formation. They hovered somewhat still for  about 20 seconds.At that point, all the ships flew off  instantly, to the exact way-point.  I also  noticed they seemed to travel along a curved  flight path or trajectory, as if bending  space.After they disappeared, I didn't see nothing afterward.I stayed there for about another 10-15  minutes, and went on my way.Of course,  it was exhilaration.I've always believed we are not alone in this  cosmic domain.Witnessing that event reinforced my beliefs,  and satisfied my opinions relating to how man can travel far in an instant.The key has always been hidden in the conquest  of using space itself as our vehicle.  This is  what will give mankind the capabilities for  true space exploration.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144661.html](http://www.nuforc.org/webreports/reports/144/S144661.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Brentwood/Maplewood (MO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Glowing orange and white balls of light drifting steadily at different altitudes silently headed northwest from Brentwood, MO.I was driving south on brentwood blvd towards manchester rd when I looked up and saw what looked like the lights of a radio tower moving towards me from maplewood heading northwest.  I pulled over to the side of the road and rolled down my window after stopping my car.I wanted to make sure they were not helicopters or planes or even balloons set aflame.  They were totally silent and drifting in an upward spiral formation steadily and slowly.  I looked closely as each light was at a different altitude.  They were glowing orange and white.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92261.html](http://www.nuforc.org/webreports/reports/092/S92261.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164409.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164385.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164388.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164392.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164400.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
