@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:37 on 18 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:39 on 18 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Omaha (NE) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>A white aircraft, almost resembling a commercial airliner, vanished before my eyes. The aircraft did not posess normal characteristics.I have never experienced an incident in which the sight of something unfamiliar in the sky has compelled me to believe it to be foreign to Earth. However, I do seriously entertain the idea that there is intelligent life elsewhere in the vast depths of space, albeit with a small dose of skepticism. I do not want to jump to the conclusion that what I just encountered was truly an alien aircraft, but it's behavior puzzled me.At around 18:40 PM on Tuesday, August 18th of 2009, I was at work and decided to take a break for a cigarette. I was seated on the loading dock, facing south, when something in the sky caught my eye. The sky was very clear, almost cloudless, and I distinctly saw a white shape, which I first believed to be a normal commercial airplane, traveling west. After further inspection I realized that the object did not resemble any airplane I had seen before, as it had no markings on it. It also didn't have any distinct shading, by that I mean to say that I could not concretely identify any appendages that would normally be visible, such as the wings. It was also traveling at a higher speed than a plane like that normally seems to move.It was quite far away, and I do not have the best eyesight. I could not hear the roar of any engine, but that is most likely due to the distance. Also, there was no cloudy trail left behind in the craft's wake. While I was still inspecting the object, keeping it in my line of sight, it vanished. I got off the loading dock so I could have a better view of sky above me and searched for the object, but I could not find it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71736.html](http://www.nuforc.org/webreports/reports/071/S71736.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Gulf Shores (AL) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Looking out at the stars son and I noticed red craft come on like a beacon go off about six times then it did this with several times coming back in various spots facing the ocean from Baldwin county kiva dune area south west locations then seen multiple craft at various spots come on like lights all around them then they went off several times through out evening we did.  Hear military craft but I have seen puff in combat this wasn’t it.  It wasn’t flares and it went on and off then the final time they all went off together leaving us befuddled</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158719.html](http://www.nuforc.org/webreports/reports/158/S158719.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164409.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164385.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164388.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164392.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164400.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
