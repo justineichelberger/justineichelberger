@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:50 on 18 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:43 on 18 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1984, an anonymous witness in Countryside (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Grey, triangular shaped craft with green, blue, and white lights slowly floating over car.My father, friend, and I were driving through the country and noticed what looked like two red tail lights in a field.  We wondered why an automobile would be in the middle of a field.  Shortly after spotting the lights, the lights rose straight up in the air.  Then the red lights went off and other colored lights came on.  The lights were blue, green, and white.  The craft moved slowly to the left and came out of the area of the field and moved toward the road where our car was.  At this point my father stopped the car and told me to lean out and see if it was making any noise.  The craft was at this point directly over our car.  I opened the car door and leaned out of the car and looked up and saw the craft was a triangular shape with rounded points.  It appeared to be grey and was moving so slowly over the car is was almost floating.  It made no noise what so ever and it was only approximately 30 feet above our car.  I closed the door and my father drove off I'm sure from fear.  We didn't spot the craft after that but at one point on our return trip through the same country route we did spot the same type lights off in the distance though we weren't sure it was the same thing.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34583.html](http://www.nuforc.org/webreports/reports/034/S34583.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Macomb (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>On 8-18-12 at approximately 10pm in Macomb, MI  me and another person witnessed 3-4 groups of 6-8 circular amber lights travelling in a straight line from the south horizon heading north.  This lasted about 15 minutes and each light would dim and then disappear.  There was no sound at all.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91992.html](http://www.nuforc.org/webreports/reports/091/S91992.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164409.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164385.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164388.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164392.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164400.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
