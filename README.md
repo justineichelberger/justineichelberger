@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:43 on 18 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:54 on 18 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Macomb (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>On 8-18-12 at approximately 10pm in Macomb, MI  me and another person witnessed 3-4 groups of 6-8 circular amber lights travelling in a straight line from the south horizon heading north.  This lasted about 15 minutes and each light would dim and then disappear.  There was no sound at all.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91992.html](http://www.nuforc.org/webreports/reports/091/S91992.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Bradenton Beach (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Pulsing orange light disappears on vacationI am on a vacation with my family in Brandenton Beach on Anna Maria Island in Florida.  I was sitting outside with my sister listening to the sound of the waves, and suddenly an orange light appeared.  I knew it wasn't a plane because it didn't have blinking lights.  It was an orange circle that seemed to be pulsing.  We tried to take a photo but the condo owners have a screen over the balcony.  It dimmed slightly and just disappeared.  It never moved while we saw it.  It just seemed to hover.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101348.html](http://www.nuforc.org/webreports/reports/101/S101348.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164409.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164385.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164388.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164392.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164400.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
