@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:02:57 on 18 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:12:34 on 18 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Glenpool (OK) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Orange-Red lights/circles seen in SW sky near GlenpoolWhile driving home from work down peoria near 161st I spotted 3 lights in the sky to the south west. One was flashing, two were a consistant orange-red color that seemed to pulse ever so slighty.  I immidiately reached my home and woke up my father, who did see the lights as well.  The flashing light soon approached, going along the normal air traffic path as so many other airplanes have in this area, with the tell-tale flashings of white and red, the shape of its wings clearly seen.  There is an airport to the south west and they tend to travel in the general direction of the Tulsa airport, but the other two lights, which were not flashing, only slighty pulsing to where one could almost not notice, the other two stayed for a bit, then slighty went to the east, then faded away.The lights could be compared to a mix of the light that is given off by Venus and/or Mars, but both were not only in the wrong spot according to my google sky they also clearly moved, and then quickly disapeared into the night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112623.html](http://www.nuforc.org/webreports/reports/112/S112623.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Dallas (OR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Multiple colored orbs pulsating in sequence with eachother shooting things1 red/yellow flashing light surrounding ORB in the sky.  Once We noticed it we focused in more trying to videotape and noticed what seemed to be multiple crafts blinking in different color sequences.  Blue/Red x2 and the Yellow/red one looked to be the biggest one and the others were blinking to the large one.  The large one spits out another small orb at high speed and it disappeared.  Came inside to find somewhere to report to see if anyone else is seeing this.  It is not 23:21 and te Large Red/Yellow is still there pulsating.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158712.html](http://www.nuforc.org/webreports/reports/158/S158712.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164409.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164385.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164388.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164392.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164400.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
