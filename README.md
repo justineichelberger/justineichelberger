@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:45 on 18 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:40 on 18 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Aptos (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>12 objects observed on Monterey Ca coastHusbands report of sighting on 8/18/2012 at Aptos, CA near the Monterey Bay   My wife woke me about 2:15 A.M. and said to hurry out to the back deck to look at something strange in the sky.  I immediately went out on the deck and looked to the Southwest toward the Ocean.  (Later verified as 266 degrees SW)   There I saw 12 orange lights in a pattern 3 across at the top, then the next 4 was to the right, then 4 down in a straight line.  There could have been another below the tree line.  They were stationary, but while I was watching the pattern shifted a couple of times, but was still stationary.  It was very quiet and we did not hear any engine noise. They all started to slowly move away towards the NE and went behind a tall Redwood tree in my neighbor’s yard.   I then went to the door on the N end of the house and could see them moving away to NE and they disappeared about 2:40 A.M.  My wife said she had looked out about 2:05 A.M. so they were in view for about 35 minutes.Each of the objects looked to be about one half the size of the moon in the early morning sky.  I would guess the size was equivalent to 8 morning stars.  The shape was spherical.   We live on the Rio Del Mar side of Aptos about 800 yards from the Ocean and I estimate the objects were about another 800 yard over the Ocean, or approximately a mile from the house.  The elevation here is 82 feet.Wife’s report of sighting on 8/18/2012 at Aptos, CA near the Monterey Bay:  At approximately 2:05 A. M. on Saturday morning August 18/2012, I looked outside and saw several bright orange lights just above the tree tops out over the Ocean. They were almost due West.  When I walked outside some more rose over the tree tops. I saw 12 in all. They moved around some, but at first they were in a pattern.I ran in and woke my husband and we watched for a total of about 40 minutes and they started to move away slowly and disappeared to the Northeast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91966.html](http://www.nuforc.org/webreports/reports/091/S91966.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Hilo (HI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121161.html](http://www.nuforc.org/webreports/reports/121/S121161.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164409.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164385.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164388.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164392.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164400.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
