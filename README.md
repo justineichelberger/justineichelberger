@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:01:14 on 18 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:40 on 18 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Nottingham (UK/England) () reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>V shaped formation moving east to west, dim lights unlike aircraft.V shaped dim lights moving east to west in night sky, below big dipper.  Faded out as moved into east. Lights were dim white and did not resemble aircraft, looked like geese flying in formation but in complete darkness.  I have never seen anything like this and I am not a believer in ufos.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91913.html](http://www.nuforc.org/webreports/reports/091/S91913.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Brazoria (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Large UFO flew  over treetops above  the house emmitting LOUD reverbing zip gun sounds.We heard "it" go over the house..you could hear a huge rushing sound of air..there was a LOUD continous sound that sounded like a zip gun from a sci-fi movie..like a reverbing, siren sound.....the thing had to be very large and traveling  just above the treetops..it was very low..you could hear that rushing sound of air...but no motor sound..we live under a flight path of sorts..and we know what all make of aircraft sound like..this was nothing like anything we'd ever heard. Please advise if anyone else has heard this sound before from a ufo. By the time I got to the other side of the house it was gone..my mother was frozen to the couch..she didn't try to get up to see it..she thought whatever it was ..was  going to crach into the house.So we didn't get to see it..but I'm watching for it now.((NUFORC Note:  Witness is semi-anonymous, providing just an e-address.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19162.html](http://www.nuforc.org/webreports/reports/019/S19162.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164409.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164385.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164388.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164392.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164400.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
