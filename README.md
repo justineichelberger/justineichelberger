@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:04:04 on 18 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:02:57 on 18 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Massillon (OH) reported seeing craft that fit the description of some 'Oval' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>saw 4 ufo's up closewe saw 4 reddish orange oval lights - they flew by one at a time - north to south - no sound - no blinking lights - looked fairly big - flew on the same path - one after another - were bigger than most things you see in the sky - no dought they weren't planes - mother is 83 years old, and never seen anything like this</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91999.html](http://www.nuforc.org/webreports/reports/091/S91999.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Glenpool (OK) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Orange-Red lights/circles seen in SW sky near GlenpoolWhile driving home from work down peoria near 161st I spotted 3 lights in the sky to the south west. One was flashing, two were a consistant orange-red color that seemed to pulse ever so slighty.  I immidiately reached my home and woke up my father, who did see the lights as well.  The flashing light soon approached, going along the normal air traffic path as so many other airplanes have in this area, with the tell-tale flashings of white and red, the shape of its wings clearly seen.  There is an airport to the south west and they tend to travel in the general direction of the Tulsa airport, but the other two lights, which were not flashing, only slighty pulsing to where one could almost not notice, the other two stayed for a bit, then slighty went to the east, then faded away.The lights could be compared to a mix of the light that is given off by Venus and/or Mars, but both were not only in the wrong spot according to my google sky they also clearly moved, and then quickly disapeared into the night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112623.html](http://www.nuforc.org/webreports/reports/112/S112623.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164409.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164385.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164388.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164392.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164400.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
