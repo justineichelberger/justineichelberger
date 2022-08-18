@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:40 on 18 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:50 on 18 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Brazoria (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Large UFO flew  over treetops above  the house emmitting LOUD reverbing zip gun sounds.We heard "it" go over the house..you could hear a huge rushing sound of air..there was a LOUD continous sound that sounded like a zip gun from a sci-fi movie..like a reverbing, siren sound.....the thing had to be very large and traveling  just above the treetops..it was very low..you could hear that rushing sound of air...but no motor sound..we live under a flight path of sorts..and we know what all make of aircraft sound like..this was nothing like anything we'd ever heard. Please advise if anyone else has heard this sound before from a ufo. By the time I got to the other side of the house it was gone..my mother was frozen to the couch..she didn't try to get up to see it..she thought whatever it was ..was  going to crach into the house.So we didn't get to see it..but I'm watching for it now.((NUFORC Note:  Witness is semi-anonymous, providing just an e-address.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19162.html](http://www.nuforc.org/webreports/reports/019/S19162.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1984, an anonymous witness in Countryside (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Grey, triangular shaped craft with green, blue, and white lights slowly floating over car.My father, friend, and I were driving through the country and noticed what looked like two red tail lights in a field.  We wondered why an automobile would be in the middle of a field.  Shortly after spotting the lights, the lights rose straight up in the air.  Then the red lights went off and other colored lights came on.  The lights were blue, green, and white.  The craft moved slowly to the left and came out of the area of the field and moved toward the road where our car was.  At this point my father stopped the car and told me to lean out and see if it was making any noise.  The craft was at this point directly over our car.  I opened the car door and leaned out of the car and looked up and saw the craft was a triangular shape with rounded points.  It appeared to be grey and was moving so slowly over the car is was almost floating.  It made no noise what so ever and it was only approximately 30 feet above our car.  I closed the door and my father drove off I'm sure from fear.  We didn't spot the craft after that but at one point on our return trip through the same country route we did spot the same type lights off in the distance though we weren't sure it was the same thing.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34583.html](http://www.nuforc.org/webreports/reports/034/S34583.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164409.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164385.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164388.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164392.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164400.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
