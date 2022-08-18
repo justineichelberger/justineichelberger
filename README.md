@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:39 on 18 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:01:03 on 18 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Long Beach (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Orange bright light turned off into a sphere kept going.I saw a bright orange light in the sky traveling slowly south and it made a right turn towards west then the light started turning off slowly and a large sphere object kept going and spinning.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142775.html](http://www.nuforc.org/webreports/reports/142/S142775.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Dearborn (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>fire like triangular object  with sapphire blue cloud that pulsated  Lights On Object: YesI was at a stoplight in a car after picking up a friend from work facing north at 10:45pm.  I wore my hair without braids to work that day. Looking to my right I could see tiger stadium lights from a distance.   then felt a strange feeling in my hair,like a magnet was pulling my hair.I then felt my hair and looked up to my right up to the sky and seen a triangular fire-like object hovering beneath the clouds. it was beautiful, it was in a sapphire blue round like fog but the blue fog did not touch the ship. the fog was like a haze. I had goose bumps. Then I hit my friends leg and yelled look and they did and yelled what is that.The object then shot off north like the u.s.s. enterprise on startrek it left a shape of the ship after it streaked off and line after it left. It was like it was in two places at the same time. The ship was huge it made no noise. I yelled at two other drivers,the driver behind the car next to mine on my right nodded her head up and down and sped off. I could not catch her. I and my friend made a police report in dearborn.I also called airports,NASA,and FBI. They gave me a number to a scientist and he said he's studied ufo's since WW2 and said that's what we seen. That same night I seen it I believe I was visited mentally the night of the sighting as I slept, I had my eyes closed seen a dark figure but I could not move. When I did wake up the blinds were lowering. I was scared. I told fellow employees and supervisors and no one disagreed it was unbelievable the cloud around the ship pulsated.the ship was a reddish orange like a phoenix.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55072.html](http://www.nuforc.org/webreports/reports/055/S55072.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164409.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164385.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164388.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164392.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164400.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
