@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:51:01 on 18 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:43:37 on 18 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Danville (KY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Tiny moon shaped light in eastern sky, not moving, then disappeared after ten minutes.I saw a circle of light, just before the sun was up, in the eastern sky, south of where the sun would rise.  It caught my eye because it was perfectly round and not moving, bigger than any star, like a tiny moon. I got out my binoculars for a better look.  Perfect circle, looked like a dandelion with points of light over an open framework.  It did not move.  I watched for 10 minutes and then it sort of folded over and vanished. Just disappeared, no trail, no streak, just gone.  Took a photo with iPhone.  In the photo it shows a circle within a circle.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158684.html](http://www.nuforc.org/webreports/reports/158/S158684.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Hollywood (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Got it on video , ufo flying in speed unknown to human</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164440.html](http://www.nuforc.org/webreports/reports/164/S164440.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164409.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164385.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164388.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164392.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164400.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
