@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:47:42 on 19 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:35:16 on 19 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Bingham (ME) reported seeing craft that fit the description of some 'Flash' over a period of approximately 21;45 - 21;45 minutes.</sub><blockquote><sub>On the evening of above date was travelling home and noticed  1 object high in the sky, then another catching up to it quickly, thinking 2 planes might collide within minutes. they were on my leftside, then  within minutes they had decreased altitude and were far on my right, appearing to travel north together, flashing brightly as if the sun was being reflected off a large mirror.Each took turns flashing and this continued until I arrived home at 21:45</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24680.html](http://www.nuforc.org/webreports/reports/024/S24680.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Longueuil (Canada) (QC) reported seeing craft that fit the description of some 'Formation' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>On august 19 Iwas on my balcoon and I saw a formation of 3 lights coming from north and going south . The objet going in triangular formation . The fisrt objet was the leader of the direction .Later It was about 04:00 am I saw the same formation going west to east and now the single objet fallow the two other .I'am looking pratically every week-end the sky since 25 years and It's the third time I saw object .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39470.html](http://www.nuforc.org/webreports/reports/039/S39470.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164399.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164601.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164607.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164398.html)
-- [432](http://www.nuforc.org/webreports/reports/164/S164404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
