@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:51 on 19 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:21 on 19 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Birmingham (AL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>UFO Sighting over townhome community in Birmingham Alabama  On the night of August 19th 2007 at 8:30 P.m. my wife and I were driving home taking a road we drive very normally during the week. The road is Old Springville Road in Birmingham, Alabama, in a part of town called Clay, in Jefferson County. We were about driving down Old springville road, and were about to pass a townhome community named Sommersby. When turning the curve right in front of Sommersby my wife ectstatically yelled, "Look, Look right there." What we both saw was very surreal and chilling.  Off in the distance some 100 yards away, and about 50 ft above this particular grouping of town homes a multileveled, disc-like, object hovered.  It had rectangular lights solidly lit around the perimeter of the disc. It was saucer shaped, and appeared to have four banded levels. I immediately drove into the neighboorhood to get a closer look, but upon doing this the craft must have been aware and either manuvered away to fast to observe, or cloaked itself.  The real scary thing about this event is that we have seen a disc hovering above this same group of houses before several months ago. It was a nearly identical disc. I am afraid for the people of this neighborhood, and can only wander have they seen this too being in such closer proximity than myself on the road?((NUFORC Note:  We cannot certify that this is a serious report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58296.html](http://www.nuforc.org/webreports/reports/058/S58296.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Towson (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>8 or 9 fast moving lights following each other that got brighter at a pointLooked up toward the north over where I-695 and exit for Loch Raven Blvd.  is.  I thought it was a satellite as it passed over like a tiny fast moving star.  It got very bright for a second and  then went back to a moving dimmer light/star.  It was not a shooting star.  It was followed by 8-9 of these each 10-13 seconds apart pretty much on the same path.  Last one was a little to the left.  Each one got very bright when it was about 60 to 75 degrees out if looking up is 90 degrees.  Too tiny to be airplanes.  Starlink maybe?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158735.html](http://www.nuforc.org/webreports/reports/158/S158735.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164399.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164601.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164607.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164398.html)
-- [432](http://www.nuforc.org/webreports/reports/164/S164404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
