@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:53 on 19 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:47:42 on 19 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Dalton (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>1st encounter:  Around 2:30 AM, was going down Murray Ave in Dalton, Georgia, as I looked into my rear view mirror, seen a very bright white light zoom from one side of the Rd to the other side across the street.  There were no reflections of street lights because I was in a dark area!  2nd encounter: driving my car later that day and a light comes in my back window and out my front window, disappearing!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148381.html](http://www.nuforc.org/webreports/reports/148/S148381.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Bingham (ME) reported seeing craft that fit the description of some 'Flash' over a period of approximately 21;45 - 21;45 minutes.</sub><blockquote><sub>On the evening of above date was travelling home and noticed  1 object high in the sky, then another catching up to it quickly, thinking 2 planes might collide within minutes. they were on my leftside, then  within minutes they had decreased altitude and were far on my right, appearing to travel north together, flashing brightly as if the sun was being reflected off a large mirror.Each took turns flashing and this continued until I arrived home at 21:45</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24680.html](http://www.nuforc.org/webreports/reports/024/S24680.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164399.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164601.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164607.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164398.html)
-- [432](http://www.nuforc.org/webreports/reports/164/S164404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
