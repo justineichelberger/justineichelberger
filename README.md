@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:49 on 19 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:40 on 19 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Dallas (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Strange metallic, possibly triagular or pentagonal shaped, single object in sky above Dallas, TX on 8-19-21We were in the backyard on the evening of August 19th, 2021. We saw what we initially thought were three different planes flying in the sky, one small, privately owned plane low flying, and two commercial planes that appeared to be at cruising altitude. We quickly realized that one of the "commercial planes" did not look like a plane at all. It wasn't shaped like a plane, and it wasn't moving in a normal, uniform way. It also came from a very high elevation, to a much lower elevation, in an unusually short amount of time. I ran in to grab binoculars, and through the binoculars, I saw something that was unusually shaped (possibly diamond/triangular/pentagonal shaped), and there appeared to be 4-6 lights/engines/something glowing, eminating from the shape, but we didn't see anything that looked like a heat signature, or any other signs of propulsion. It appeared to be a silver/metallic shiny object. One of us thought the shape had a haze around it.  When I gaVe the binoculars to the other person, and I looked back, the shape/craft/thing was gone.  We only saw the single object, but the sky also seemed to have silver flashes occurring while we saw the object, but that could have just been glare from the sun. It was a perfectly clear sky, and the sun was still shining. The two people that saw this object are both college educated, and have professional occupations. Neither people have ever seen or reported anything like this prior to the 19th.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164399.html](http://www.nuforc.org/webreports/reports/164/S164399.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Reading (PA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Close sightingMaking what appeared to be triangular formation.  They were extremely low, so low I got this unsettling feeling I wasn't alone.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135808.html](http://www.nuforc.org/webreports/reports/135/S135808.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164399.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164601.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164607.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164398.html)
-- [432](http://www.nuforc.org/webreports/reports/164/S164404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
