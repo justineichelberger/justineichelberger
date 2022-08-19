@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:35:16 on 19 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:18:50 on 19 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Longueuil (Canada) (QC) reported seeing craft that fit the description of some 'Formation' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>On august 19 Iwas on my balcoon and I saw a formation of 3 lights coming from north and going south . The objet going in triangular formation . The fisrt objet was the leader of the direction .Later It was about 04:00 am I saw the same formation going west to east and now the single objet fallow the two other .I'am looking pratically every week-end the sky since 25 years and It's the third time I saw object .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39470.html](http://www.nuforc.org/webreports/reports/039/S39470.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Brewster (MA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>It was daylight on approxiamately 8/19/96  I just had graduated high school in June and i was living at home with my parents i was not working at the time and am a musician  i love science and art and we live on a farm i love animals too we have farm animals on our farmi am of sound mind i have better and worse days but this day i woke up i was very caught off guard. I was awake .Ilooked out my window and there was a bright light like a yellow fireball so i went outside to videotape it .  by the time i went out side the yellow glow went away and all there was left was a silver disc i captured on video .The disc looks like the shape of a shiny metallic tuna can it appears to be flat on the top and on the bottom and it also appears to be round like a can but it hovered above the treeline for about 45 minutes untill the sun came up and ithe image went out of range. The object looked like a metallic can like disk that had no opening it just i was startled at first and i could not believe my eyes but i was tired from not sleeping much the night before. others have seen the tape i showed it to them and they only saw  and heard of my experience after i videoed it and they dont know what it could be ..so its a unidentified flying object that i videoed in my back yard i thank you for your time</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11919.html](http://www.nuforc.org/webreports/reports/011/S11919.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164399.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164601.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164607.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164398.html)
-- [432](http://www.nuforc.org/webreports/reports/164/S164404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
