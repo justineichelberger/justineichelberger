@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:54 on 19 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:53 on 19 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Rochester (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Observed object hovering at low altitude, spinning,and changing colors. in S.W. evening sky.I viewed this light low in the S.W sky.  Approx. @9:02pm. The circular light appeared to spin and produce yellow,blue green light.  Only one light was viewed. I was able to drive close to its location in Oakville,Wa. 8 miles away to obtain a closer view.  The object hovered in the air at approximately 1000 ft.altitude.  And also moved slowly toward the western horizon until too far away to see detail.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101387.html](http://www.nuforc.org/webreports/reports/101/S101387.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Dalton (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>1st encounter:  Around 2:30 AM, was going down Murray Ave in Dalton, Georgia, as I looked into my rear view mirror, seen a very bright white light zoom from one side of the Rd to the other side across the street.  There were no reflections of street lights because I was in a dark area!  2nd encounter: driving my car later that day and a light comes in my back window and out my front window, disappearing!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148381.html](http://www.nuforc.org/webreports/reports/148/S148381.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164399.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164601.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164607.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164398.html)
-- [432](http://www.nuforc.org/webreports/reports/164/S164404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
