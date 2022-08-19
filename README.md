@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:50 on 19 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:50 on 19 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Lanesboro (MA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>At 3:10 PM DST, I was sitting in my backyard reading, when I heard a very high pitched crackling sound (a zing-g-g-g ?) overhead.  It was loud enough that my wife and sister-in-law heard it from the living room.  Within a second or two following the event, another sound came.  It was similar in effect to the sound of an acorn falling and hitting a leaf, yet sharper.  It dislodged several leaves which fluttered to the ground from my right to my left.  There was no breeze or wind.  Everything was quiet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135788.html](http://www.nuforc.org/webreports/reports/135/S135788.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>floated as if in water...I went out at to move my car due to city work at 5:10 am on aug.19,2009. I opened the front door and saw what looked like a three story building on it's side just floating as if it were in water. It had many white and red lights and was very quiet and to low to be an airplane.I stood there watching and in my head trying to reason "this can't be. It simply made a left turn and floated away. I used to think people who saw these things were nut cases, not anymore I belive.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71777.html](http://www.nuforc.org/webreports/reports/071/S71777.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164399.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164601.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164607.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164398.html)
-- [432](http://www.nuforc.org/webreports/reports/164/S164404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
