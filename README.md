@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:12:15 on 19 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:01:45 on 19 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Vale (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>In desert area of Malheur County observed 2 Triangular shaped craft, each containing 3 red lights. One craft floated directly over us,</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71867.html](http://www.nuforc.org/webreports/reports/071/S71867.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Appleton (WI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Appleton, Wisconsin UFO Silhouette Descending Towards Downtown.I was sitting on my porch in the Colony Oaks neighborhood of Appleton, WI, after watching a Packer game on TV and I looked up and saw the silhouette of a UFO descending west towards downtown. It was very quick and there were no lights on the object I saw.  It was perfectly saucer shaped, almost like two cymbals connected at their undersides. It was parallel to the horizon, and descending diagonally.  The lights of the city lit up the clouds overhead so I was able to see the silhouette. It flew behind a big tree across the road. It took a moment for me to come out of shock to get up and try and see where it went but it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83408.html](http://www.nuforc.org/webreports/reports/083/S83408.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164399.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164601.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164607.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164398.html)
-- [432](http://www.nuforc.org/webreports/reports/164/S164404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
