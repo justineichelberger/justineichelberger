@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:08:43 on 19 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:47 on 19 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Salt Lake City (UT) reported seeing craft that fit the description of some 'Changing' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright planet shaped white light that travelled in the night sky that went out replaced with a much smaller red light a short distance.Looked to the sky to observe possible meteor shower sighting.  Observed a larger bright light I assumed was a planet in the southwest sky.  Many smaller stars were visible which surprised me since I live in the city.  The light then proceeded to move in a southeast diagonal direction.  It stopped and the light went completely out.  To the left of where the light went out a smaller red light appeared.  It did not blink.  I watched that for a while and then it went out.  I was thinking to myself that I wished I had gone in the house to beckon my husband outside but I knew it would be gone by then so I stayed put.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130584.html](http://www.nuforc.org/webreports/reports/130/S130584.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Merritt Island (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Fireball over Merritt Island - leveled off and headed north toward space centerI saw an orange fireball through a skylight and alerted everyone to it's presence. We all raced outside in time to see it make a coarse correction and to see the flame dissipate.At first it appeared to be falling straight towards us however at some point it leveled off and flew in a north, north east direction straight toward Kennedy Space Center from our point of view.While it was falling the flame appeared quite large, after it leveled off the flame was mostly out however it did NOT lose speed or altitude during it's flight.  It's as if the flame was turned off but we could still see the afterglow until it got to far away.None of us saw a craft of any type.  The flame was too bright to see anything around it however there were 2 distinct intensities of luminescence.  The center portion was a yellow(er), more intense light than the outside area.  The outside light while still very bright was almost translucent.  Both lights dimmed at approximately the same rate.It moved completely across the sky in less than 30 seconds however there is no telling how long it was falling as I only saw it when it came into view.  I estimate it was traveling faster than a small plane, even as quick as a jet.One person described it as a rocket but I don't think that was likely considering it was descending and made no audible noise though the wind notoriously blows south west here so that isn't surprising.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83298.html](http://www.nuforc.org/webreports/reports/083/S83298.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164399.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164601.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164607.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164398.html)
-- [432](http://www.nuforc.org/webreports/reports/164/S164404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
