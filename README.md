@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:41 on 19 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:35 on 19 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Tustin (CA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>After sunset, I saw an upright rectangular object ringed with lights and the center was inset like a doorway.I was getting ready to pull into the driveway of the apartment complex and I was waiting for the gate to open.  The sun had set but it was still light out.  Above my 2-story apartment building, maybe 20 or so above, was an upright dark rectangular object.  It's front was ringed with two rows of square lights.  The outer ring of lights was turned to look like diamonds.  One ring was white and one red.  It was about 20 feet tall and the central core was inset several feet like a doorway or a hatch.  It stopped at the edge of the top of the building, hovered and then the rings of lights pulsed and it continued moving east at what seemed like 10 mph.  It made no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130845.html](http://www.nuforc.org/webreports/reports/130/S130845.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Clermont (FL) reported seeing craft that fit the description of some 'Changing' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>2 objects: 1.  Seeing with 4x40 binocular, white changing to blue, with small red dot.  Able to get video.Thougth it might be a satellite but it change color.Jupiter was out to make a comparison of brightness and color stability.2.  Appeared 5 min later, no sound small possible a large drone size, flew over the house.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148384.html](http://www.nuforc.org/webreports/reports/148/S148384.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164399.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164601.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164607.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164398.html)
-- [432](http://www.nuforc.org/webreports/reports/164/S164404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
