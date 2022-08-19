@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:21 on 19 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:44 on 19 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Towson (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>8 or 9 fast moving lights following each other that got brighter at a pointLooked up toward the north over where I-695 and exit for Loch Raven Blvd.  is.  I thought it was a satellite as it passed over like a tiny fast moving star.  It got very bright for a second and  then went back to a moving dimmer light/star.  It was not a shooting star.  It was followed by 8-9 of these each 10-13 seconds apart pretty much on the same path.  Last one was a little to the left.  Each one got very bright when it was about 60 to 75 degrees out if looking up is 90 degrees.  Too tiny to be airplanes.  Starlink maybe?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158735.html](http://www.nuforc.org/webreports/reports/158/S158735.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Northbrook (IL) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 98</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159072.html](http://www.nuforc.org/webreports/reports/159/S159072.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164399.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164601.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164607.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164398.html)
-- [432](http://www.nuforc.org/webreports/reports/164/S164404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
