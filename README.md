@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:50 on 19 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:42 on 19 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>floated as if in water...I went out at to move my car due to city work at 5:10 am on aug.19,2009. I opened the front door and saw what looked like a three story building on it's side just floating as if it were in water. It had many white and red lights and was very quiet and to low to be an airplane.I stood there watching and in my head trying to reason "this can't be. It simply made a left turn and floated away. I used to think people who saw these things were nut cases, not anymore I belive.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71777.html](http://www.nuforc.org/webreports/reports/071/S71777.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Dublin (OH) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Red light 1 blinkingHello, me & my girlfriend were sitting in the car in the carriage place shopping center, there is also a nearby runway in a field.  I notice a large light in the sky I thought to be a plane because.  It had blinking lights, but after 10 minutes it never fades away.  Then there's an object which had 1 red light in front, 1 large red light in back which blinked on & off.  It immediately struck us as odd but unfortunately missed it w/ the cell cam  as it flew over us.  What can I say?  It looked like a disc.   It was small, low flying & made 0 sound.  I'm not a believer, but this was weird.As we walk in the grocery I'm looking at the first large light tht was sitting in the middle of the sky for now the last 20 min.  When we came out it as gone.  This could not have been a helicopter.  Thanks</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101328.html](http://www.nuforc.org/webreports/reports/101/S101328.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164399.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164601.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164607.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164398.html)
-- [432](http://www.nuforc.org/webreports/reports/164/S164404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
