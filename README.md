@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:47 on 19 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:50 on 19 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Merritt Island (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Fireball over Merritt Island - leveled off and headed north toward space centerI saw an orange fireball through a skylight and alerted everyone to it's presence. We all raced outside in time to see it make a coarse correction and to see the flame dissipate.At first it appeared to be falling straight towards us however at some point it leveled off and flew in a north, north east direction straight toward Kennedy Space Center from our point of view.While it was falling the flame appeared quite large, after it leveled off the flame was mostly out however it did NOT lose speed or altitude during it's flight.  It's as if the flame was turned off but we could still see the afterglow until it got to far away.None of us saw a craft of any type.  The flame was too bright to see anything around it however there were 2 distinct intensities of luminescence.  The center portion was a yellow(er), more intense light than the outside area.  The outside light while still very bright was almost translucent.  Both lights dimmed at approximately the same rate.It moved completely across the sky in less than 30 seconds however there is no telling how long it was falling as I only saw it when it came into view.  I estimate it was traveling faster than a small plane, even as quick as a jet.One person described it as a rocket but I don't think that was likely considering it was descending and made no audible noise though the wind notoriously blows south west here so that isn't surprising.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83298.html](http://www.nuforc.org/webreports/reports/083/S83298.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Lanesboro (MA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>At 3:10 PM DST, I was sitting in my backyard reading, when I heard a very high pitched crackling sound (a zing-g-g-g ?) overhead.  It was loud enough that my wife and sister-in-law heard it from the living room.  Within a second or two following the event, another sound came.  It was similar in effect to the sound of an acorn falling and hitting a leaf, yet sharper.  It dislodged several leaves which fluttered to the ground from my right to my left.  There was no breeze or wind.  Everything was quiet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135788.html](http://www.nuforc.org/webreports/reports/135/S135788.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164399.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164601.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164607.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164398.html)
-- [432](http://www.nuforc.org/webreports/reports/164/S164404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
