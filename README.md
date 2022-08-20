@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:43 on 20 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:02:41 on 20 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Ardmore (OK) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>possable UFOI steped out side of the east side of my house threw the front door. I lit up a cigarette, and i noticed a light in the sky. at first i thought it was a plane with its head lights on. then i thought it was a hilicopter searching for someone but the altitude was to high for a hilicopter, and then the light apeered to turn toward me. then the light changed to a baby blue rocket tail and i felt the the surge of thrust slightly and heard ringing in my right ear due to previous dammage to my right ear my hearing is sensative, And with in 8 or 9 seconds it took off out of this atmosphere, and i was straining to follow it with my eyes untill it dissapered.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58313.html](http://www.nuforc.org/webreports/reports/058/S58313.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Independence (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>While driving along road I noticed a grouping of lights, ahead were a couple cars with hazards on,pulled to side with the others witnessing same thing.  There was a group oh maybe two dozen or so small but bright white lights that were sort of swirling around another stationary light that was more orange and maybe three times the size of the others.the smaller lights swirled the larger one for a few minutes and then broke away from it left a few at a time slithering across the sky after each other in a snake like motion.the small lights followed one another but still moved around randomly.  Organic movements no sharp angles or major speed variations.  It was a clear night and lights were very very high up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83320.html](http://www.nuforc.org/webreports/reports/083/S83320.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [545](http://www.nuforc.org/webreports/reports/164/S164473.html)
-- [544](http://www.nuforc.org/webreports/reports/164/S164456.html)
-- [543](http://www.nuforc.org/webreports/reports/164/S164603.html)
-- [542](http://www.nuforc.org/webreports/reports/164/S164402.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164602.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
