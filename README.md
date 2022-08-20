@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:55 on 20 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:44 on 20 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Two different color orbs playing chase over denver & shortly after military aircraft shows up.The second witness and I were sitting on a trampoline in the back yard looking up at the sky and as a single small cloud passed overhead two balls of fire or orbs one bluish white and the other reddish orange came down under the cloud and then played chase over and under and threw the cloud emitting bright lights that could be seen threw the cloud even during the day, they played for no more than two or three minutes and shot straight up in the sky disappearing. No more that 5 minutes went buy and two F-18 jets came screaming out of the east directly threw the cloud where the balls of fire where just playing giving me the chilling Idea we were not the only ones who seen the flying orbs. My then girl friend ran in the house terrified & I fallowed feeling the same fascinating fear.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72663.html](http://www.nuforc.org/webreports/reports/072/S72663.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Halifax (Canada) (NS) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.5 - 2.5 minutes.</sub><blockquote><sub>A bright green line about an inch in length, just beyond the cloud-line.One small line was spotted by two friends and I in the North end of Halifax.  It was almost neon green and pulsed in brightness from very bright to invisible.  The object was stationary and was about an inch long.  The longest sighting was maybe 30 seconds. Pretty erie…((NUFORC Note:  Source elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77384.html](http://www.nuforc.org/webreports/reports/077/S77384.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [545](http://www.nuforc.org/webreports/reports/164/S164473.html)
-- [544](http://www.nuforc.org/webreports/reports/164/S164456.html)
-- [543](http://www.nuforc.org/webreports/reports/164/S164603.html)
-- [542](http://www.nuforc.org/webreports/reports/164/S164402.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164602.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
