@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:29:11 on 20 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:10:34 on 20 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Tacoma (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright Red/Orange Fireball in North Tacoma moving very fast and smooth from North to SouthMy fiance was sitting on our back deck at around 8:45pm looking north at the sky.  It was dark, there was no wind and it was a completely clear sky.  He called for me to grab my phone and come out to the deck to 'take a look at something'.  When I got on the deck I witnessed a red/orange fireball in the sky moving very fast and smooth towards us (Southbound).  The object never changed speed, never change direction and never changed color or brightness.  The object was moving faster than a commercial plane and was very set in its course.After it passed over us, we noticed some type of debris falling from its path in the sky.  Due to the darkness it was very hard to see detail, but the falling object was round or ovoid in shape and was falling at a fairly slow, smooth pace.I was able to get 15-20 seconds of video of the fireball with my iPhone which does a great job representing speed, shape, brightness, path, as well as the conditions of the evening.  This is DEFINITELY something I have never seen before!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101300.html](http://www.nuforc.org/webreports/reports/101/S101300.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Bowman (SC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>At approximately 4 a.m. I wass sitting at at truck stop off Interstate 26 near Bowman South Carolina doing some paper work.  I noticed from just above tree level a craft surrounded by lights emerging from just above tree top level.  At first it appeared to be a small triangular object decorated with lights such as a hang glider.  Then as more of the object drifted into view it appeared to be one huge object that was made up of three smaller triangular objects.  Almost as if three hang gliders were attached together making up a larger triangular object.  As more of it became visible and it drifted into full view I realized that it was not hang gliders due to the enormous size of it.  It was almost silent.  Perhaps a small engine sound was barely audible such as a putter or hum, but not sure about that.  Then just as if it realized that it had drifted into a populated area it stopped, hovered, then the lights blinked once.. twice... three times... then absolutely dark it went.  But it was bright night and you could still see the object hovering above.  It then made a slow lumbering change of direction back to the cover of the tree top canopy and away from the interstate. If you've ever seen the floating laboratory that scientists use to study the rain forest canopy in South America.  It is a floating helium filled raft like craft used by scientsts to drift over the rain forest and gather data and experiments.    This UFO was similar to that with lights.  I'm convinced that it is definitely man made due to it's crudeness and slow mobility.  It probably is hydrogen cel or helium and is manned by military special ops types doing training((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57890.html](http://www.nuforc.org/webreports/reports/057/S57890.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [545](http://www.nuforc.org/webreports/reports/164/S164473.html)
-- [544](http://www.nuforc.org/webreports/reports/164/S164456.html)
-- [543](http://www.nuforc.org/webreports/reports/164/S164603.html)
-- [542](http://www.nuforc.org/webreports/reports/164/S164402.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164602.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
