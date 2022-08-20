@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:44 on 20 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:41 on 20 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Halifax (Canada) (NS) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.5 - 2.5 minutes.</sub><blockquote><sub>A bright green line about an inch in length, just beyond the cloud-line.One small line was spotted by two friends and I in the North end of Halifax.  It was almost neon green and pulsed in brightness from very bright to invisible.  The object was stationary and was about an inch long.  The longest sighting was maybe 30 seconds. Pretty erie…((NUFORC Note:  Source elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77384.html](http://www.nuforc.org/webreports/reports/077/S77384.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Southport (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Unusual space craft making erratic movements(turns) in the evening sky(21:45) , Aug 20th.2016 over Southport, FlaSaw an unusual object possibly some kind of space craft.  Very high in the night sky. Intermittent flashing red and white lights.  One time saw a flash of white light above and below craft looked like a photo flash.  If it was a space craft it made the most unusual moves.  Sometimes it would remain still and others it would abruptly turn right, go into circles, dart to the left, and back up.  All of these moves were done at what appeared to be a high rate of speed.  It seemed like the craft was searching for something like a bee going from flower to flower searching for nectar.  Acting very erratic.Has anyone seen this same object?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129405.html](http://www.nuforc.org/webreports/reports/129/S129405.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [545](http://www.nuforc.org/webreports/reports/164/S164473.html)
-- [544](http://www.nuforc.org/webreports/reports/164/S164456.html)
-- [543](http://www.nuforc.org/webreports/reports/164/S164603.html)
-- [542](http://www.nuforc.org/webreports/reports/164/S164402.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164602.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
