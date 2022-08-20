@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:41 on 20 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:35 on 20 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>Orange fireball hovers over southeast Portland than disappearsOrange Ball of light almost floating..kinda hovering came from northwest to southeast. Witnessed in Lents nieghborhood.  I pointed it out to my nieghbor and than it seemed to have stopped than it speed up and slowly faded away as it went upward into the sky. it went upward going southeast. I have never seen anything like that ever. Than I saw 3 aircrafts (human crafts) going the same direction with NO lights on.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101370.html](http://www.nuforc.org/webreports/reports/101/S101370.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Greece (NY) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>cylindrical shaped object, due west in western NY sky, revolving green, red and white lights...I went outside for a cigarette at about 11:15 pm, I always star gaze and as I was observing the beautiful night sky (uncompromised by the city lights out here) I noticed one star was twinkling a bit more then the other’s. As I watched it I realized that there was a ring of lights; green, red, and white that were swirling around it. I ran inside to grab my low grade binoculars which offered only a small increase in size to the object. I could see it wasn’t saucer shaped but rather cylindrical or barrel shaped almost swelling in the center where the lights were. Normally this would have been the “fools gold” of UFO’s eventually revealing itself to be a plane when it changed direction. This I stayed and watched for the better part of a half an hour. It did not move, or change its position in the sky. It stayed a consistent level on the horizon at about 35-34 degree’s due west. This is definitely no plane, no star, no planet, and no satellite. Which is the normal checklist for any rational person to run down when distinguishing anything to be unidentified.((NUFORC Note:  Star??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58317.html](http://www.nuforc.org/webreports/reports/058/S58317.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [545](http://www.nuforc.org/webreports/reports/164/S164473.html)
-- [544](http://www.nuforc.org/webreports/reports/164/S164456.html)
-- [543](http://www.nuforc.org/webreports/reports/164/S164603.html)
-- [542](http://www.nuforc.org/webreports/reports/164/S164402.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164602.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
