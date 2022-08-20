@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:42 on 20 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:41 on 20 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Falls Church (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two reddish-orange lights moving south to north, one after the other within 5 min., near Falls Church, VAAt about 22:00 on Aug. 20, 2011, I was in my front yard in Fairfax County, VA, just south of the City of Falls Church.  In the sky to the southeast, at an elevation of about 45 degrees, I saw a single reddish-orange point of light moving at a constant speed from south to north, eventually fading out and disappearing.  A few minutes later, I saw a second, identical light do exactly the same thing.  I was able to look at the second light through binoculars, but couldn’t make out any detail.  There was no sound associated with the lights.I’d say their speed was roughly the same as that of commercial jets.   In fact, I often see airplanes (from Reagan National Airport, I assume) with the same point of origin, elevation and speed as these lights, but they’re always readily identifiable by their bright white landing lights, red and green wingtip lights, and their sound.   We have a lot of air traffic in the area, and I’m quite familiar with the appearance of various types of aircraft at night.  These lights got my attention because they didn’t match anything I’d seen before, and because I didn’t hear any sound.There was no wind and the sky was overcast, with the temperature around 76F.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83316.html](http://www.nuforc.org/webreports/reports/083/S83316.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>Orange fireball hovers over southeast Portland than disappearsOrange Ball of light almost floating..kinda hovering came from northwest to southeast. Witnessed in Lents nieghborhood.  I pointed it out to my nieghbor and than it seemed to have stopped than it speed up and slowly faded away as it went upward into the sky. it went upward going southeast. I have never seen anything like that ever. Than I saw 3 aircrafts (human crafts) going the same direction with NO lights on.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101370.html](http://www.nuforc.org/webreports/reports/101/S101370.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [545](http://www.nuforc.org/webreports/reports/164/S164473.html)
-- [544](http://www.nuforc.org/webreports/reports/164/S164456.html)
-- [543](http://www.nuforc.org/webreports/reports/164/S164603.html)
-- [542](http://www.nuforc.org/webreports/reports/164/S164402.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164602.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
