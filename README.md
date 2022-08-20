@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:39 on 20 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:39 on 20 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Hartsville (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Extremely bright UFO staionary then spirals away out of sight.This is the second UFO sighting Ihave experienced.I was looking in the sky as I normally do when I step out at night since my previous sighting in 2004.I observed an extremely bright light from slightly to the west of the constellation Big Dipper (Ursa Major). It was about centered between Megrez and Phad, the two stars on the side of the Dipper near the "handle" and slightly out of line with them to the west. There was no star or planet there the night before and the sky was clear.I thought it looked too bright and too twinkly. I thought it may be an airplane with its landing lights on but as I stared at it it did not move. It did appear "twinkle" a lot more than any of the other stars. I moved back and forth west to east and back a 100ft or so,  to try and get a feeling of how close it was. It did not appear to change its position relative to the nearby stars. It must have been very high up, possibly not even in the atmosphere.Just as I was about to say "Hmm" and go inside, it changed from its bright white twinkly color to yellow and through to red and made a clockwise spiral that decreased in radius as it moved toward the SSW (toward the star Mizar in the middle of the "handle").The movement was so rapid it appeared to leave a trail to my eyes. The yellow to red color got dimmer as it spiraled off to the southwest. It disappeared in only a second after it moved, so the spiral was visible for a short time, but it was not very long.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67361.html](http://www.nuforc.org/webreports/reports/067/S67361.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Ocean Isle Beach (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>5 lights in the sky.One light appeared high in the sky, almost as a very close star and was orange/yellow in color.  Then, a second, third, forth and fifth light appeared.  Once the fifth light appeared, all the lights quickly disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112695.html](http://www.nuforc.org/webreports/reports/112/S112695.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [545](http://www.nuforc.org/webreports/reports/164/S164473.html)
-- [544](http://www.nuforc.org/webreports/reports/164/S164456.html)
-- [543](http://www.nuforc.org/webreports/reports/164/S164603.html)
-- [542](http://www.nuforc.org/webreports/reports/164/S164402.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164602.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
