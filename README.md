@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:41 on 20 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:47 on 20 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Southport (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Unusual space craft making erratic movements(turns) in the evening sky(21:45) , Aug 20th.2016 over Southport, FlaSaw an unusual object possibly some kind of space craft.  Very high in the night sky. Intermittent flashing red and white lights.  One time saw a flash of white light above and below craft looked like a photo flash.  If it was a space craft it made the most unusual moves.  Sometimes it would remain still and others it would abruptly turn right, go into circles, dart to the left, and back up.  All of these moves were done at what appeared to be a high rate of speed.  It seemed like the craft was searching for something like a bee going from flower to flower searching for nectar.  Acting very erratic.Has anyone seen this same object?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129405.html](http://www.nuforc.org/webreports/reports/129/S129405.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Lynn Haven (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>it was just therei had got up i could not sleep so i went out side to smoke and my dog had jumped the fince and i sat down with him and i was looking up at frist i though i was seeing things then i new that i was notit was a blue colored thing in the sky just over the bay from were i live i got up and walked to the back yard to get a beter look me dog had come with me it was just satting there no noise or any thing it was odd then me dog touched me andi looked down it him and when i looked up it was gone</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30850.html](http://www.nuforc.org/webreports/reports/030/S30850.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [545](http://www.nuforc.org/webreports/reports/164/S164473.html)
-- [544](http://www.nuforc.org/webreports/reports/164/S164456.html)
-- [543](http://www.nuforc.org/webreports/reports/164/S164603.html)
-- [542](http://www.nuforc.org/webreports/reports/164/S164402.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164602.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
