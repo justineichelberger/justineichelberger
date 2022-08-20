@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:43 on 20 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:41 on 20 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Blacklick (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright lights moving in unison.Six bright lights noted in the sky in the shape of a "L".  They moved in sync and ducked behind storm clouds.  These lights were unlike anything I have seen previously.  They were a deep orange and were not blinking as a plane would.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142815.html](http://www.nuforc.org/webreports/reports/142/S142815.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in San Antonio (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>STAR LIKE OBJECT SOUTHEAST OF MARS FLASHING RED,GREEN BLUE.TWINKLING STAR TO THE NAKED EYE,BLUE RED AND GREEN FLASHING LIGHTS. I WAS SITTING ON THE FRONT PORCH OBSERVING MARS. I NOTICED A STAR LIKE OBJECT SOUTH AND EAST OF MARS I WATCHED IT FOR A WHILE THINKING IT WAS A VERY DISTANT PLANE COMMING IN. THE LONGER I WATCHED IT THE MORE I NOTICED IT WAS NOT AN AIRPLANE. IT SEEM TO BE MOVING A LITTLE FASTER THAN MARS. I WENT TO GET MY TELESCOPE AND LOOK CLOSER,I COULD ONLY MAKE OUT A STAR LIKE OBJECT BUT IT WAS TRULY FLASHING GREEN,BLUE AND RED. IT LASTED ABOUT TWO HOURS AND I WAS TIRED SO I WENT TO BED BUT IT WAS STILL VISIBLE. I WAS SEARCHING THIS MORNING ON THE INTERNET AND FOUND THAT ANOTHER PERSON IN SAN ANTONIO ALSO HAD SEEN THE SAME LIGHT 09/30/2000. I DONT THINK THIS COULD BE A SATALITE IT IS MOVING WAY TO SLOW. MY TELESCOPE IS NOT VERY STRONG BUT ON THE STRONGEST SETTING THE OBJECT WOULD STAY IN VIEW ABOUT 45 SEC. CAN ANY ONE CONFIRM WHAT THIS THING IS.((NUFORC Note:  We suspect a celestial body would be the first possibility to be ruled out, before we could conclude that the individual had witnessed a "bona fide" UFO.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30812.html](http://www.nuforc.org/webreports/reports/030/S30812.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [545](http://www.nuforc.org/webreports/reports/164/S164473.html)
-- [544](http://www.nuforc.org/webreports/reports/164/S164456.html)
-- [543](http://www.nuforc.org/webreports/reports/164/S164603.html)
-- [542](http://www.nuforc.org/webreports/reports/164/S164402.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164602.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
