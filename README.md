@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:44:23 on 20 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:29:11 on 20 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>4 star-like lights in a diamond shape, moving in sky to form a vertical line in 3 orange lights then disappear.  Quickly.There were 4 lights in the sky.  Moving.  They were in the shape of a diamond, you could almost think they were stars.  Until they stopped, in a vertical line, looked more orange and full. then became one, and disappeared with the blink of an eye.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112794.html](http://www.nuforc.org/webreports/reports/112/S112794.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Tacoma (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright Red/Orange Fireball in North Tacoma moving very fast and smooth from North to SouthMy fiance was sitting on our back deck at around 8:45pm looking north at the sky.  It was dark, there was no wind and it was a completely clear sky.  He called for me to grab my phone and come out to the deck to 'take a look at something'.  When I got on the deck I witnessed a red/orange fireball in the sky moving very fast and smooth towards us (Southbound).  The object never changed speed, never change direction and never changed color or brightness.  The object was moving faster than a commercial plane and was very set in its course.After it passed over us, we noticed some type of debris falling from its path in the sky.  Due to the darkness it was very hard to see detail, but the falling object was round or ovoid in shape and was falling at a fairly slow, smooth pace.I was able to get 15-20 seconds of video of the fireball with my iPhone which does a great job representing speed, shape, brightness, path, as well as the conditions of the evening.  This is DEFINITELY something I have never seen before!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101300.html](http://www.nuforc.org/webreports/reports/101/S101300.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [545](http://www.nuforc.org/webreports/reports/164/S164473.html)
-- [544](http://www.nuforc.org/webreports/reports/164/S164456.html)
-- [543](http://www.nuforc.org/webreports/reports/164/S164603.html)
-- [542](http://www.nuforc.org/webreports/reports/164/S164402.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164602.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
