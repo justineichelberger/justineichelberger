@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:35 on 19 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:53 on 20 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Clermont (FL) reported seeing craft that fit the description of some 'Changing' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>2 objects: 1.  Seeing with 4x40 binocular, white changing to blue, with small red dot.  Able to get video.Thougth it might be a satellite but it change color.Jupiter was out to make a comparison of brightness and color stability.2.  Appeared 5 min later, no sound small possible a large drone size, flew over the house.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148384.html](http://www.nuforc.org/webreports/reports/148/S148384.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Lindenhurst (NY) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>red to orange flickering lights/flames attached to some type of object sailing fast in the sky over Lindenhurst,NYAbout 6 or so fast moving objects.  Kept thinking they were lanterns with reddish to then orange like flames like a hot air balloon because it either died out the further it went away or went behind some low lying clouds. They flickered as they went past, no sounds. Each one took about several minutes in between each pass. Thought it might have been some type of  hoax and or advertisement for a beach nearby. Crazy things can be bought online nowadays. Saw something during the daytime a couple of months ago. It was black/oblong and found out it was a kids solar powered balloon that can be bought online. It’s a mystery until someone finally spills the beans on what these objects can be or the FAA finds out that these objects are getting in the way of  airplanes. God help us if they do.  Lets’ hope it doesn’t lead to that. It was definitely something cool to see. Of course, once the binoculars were located they stopped going past.  Oh well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83369.html](http://www.nuforc.org/webreports/reports/083/S83369.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164399.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164601.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164607.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164398.html)
-- [432](http://www.nuforc.org/webreports/reports/164/S164404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
