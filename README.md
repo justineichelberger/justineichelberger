@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:10:34 on 20 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:03:43 on 20 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Bowman (SC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>At approximately 4 a.m. I wass sitting at at truck stop off Interstate 26 near Bowman South Carolina doing some paper work.  I noticed from just above tree level a craft surrounded by lights emerging from just above tree top level.  At first it appeared to be a small triangular object decorated with lights such as a hang glider.  Then as more of the object drifted into view it appeared to be one huge object that was made up of three smaller triangular objects.  Almost as if three hang gliders were attached together making up a larger triangular object.  As more of it became visible and it drifted into full view I realized that it was not hang gliders due to the enormous size of it.  It was almost silent.  Perhaps a small engine sound was barely audible such as a putter or hum, but not sure about that.  Then just as if it realized that it had drifted into a populated area it stopped, hovered, then the lights blinked once.. twice... three times... then absolutely dark it went.  But it was bright night and you could still see the object hovering above.  It then made a slow lumbering change of direction back to the cover of the tree top canopy and away from the interstate. If you've ever seen the floating laboratory that scientists use to study the rain forest canopy in South America.  It is a floating helium filled raft like craft used by scientsts to drift over the rain forest and gather data and experiments.    This UFO was similar to that with lights.  I'm convinced that it is definitely man made due to it's crudeness and slow mobility.  It probably is hydrogen cel or helium and is manned by military special ops types doing training((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57890.html](http://www.nuforc.org/webreports/reports/057/S57890.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in North Myrtle Beach (SC) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Sparkle lights turn to bright red/orange orbs over North Myrtle Beach.Around 10:45 pm I was looking put across the ocean when I looked up and saw what appeared to be 4 or 5 airplanes flying at high altitude.  I thought they were planes because if the white blinking lights.  I was on the phone when I said to my husband,  "I'm looking at like 5 airplanes in one spot."  At that exact moment the blinking lights stopped and three red/orange looking balls appeared in the sky for 5 or so seconds.  Then they vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112700.html](http://www.nuforc.org/webreports/reports/112/S112700.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [545](http://www.nuforc.org/webreports/reports/164/S164473.html)
-- [544](http://www.nuforc.org/webreports/reports/164/S164456.html)
-- [543](http://www.nuforc.org/webreports/reports/164/S164603.html)
-- [542](http://www.nuforc.org/webreports/reports/164/S164402.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164602.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
