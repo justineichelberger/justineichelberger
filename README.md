@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:15 on 20 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:44:23 on 20 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1967, an anonymous witness in Edgartown (MA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>WHITE SPHERE STOPS OVER HOUSEAT ABOUT AND HOUR AND A HALF BEFORE FIRST LIGHT ON THE 20TH OF AUGUST OF 1967, I WAS STANDING ON THE BEACH ON THE SOUTH SIDE OF THE ISLAND OF MARTHA'S VINEYARD MASSACHUSETTS, WHEN I NOTICED A WHITE LIGHT APPROACHING OVER THE WATER FROM THE SOUTH. IT PASSED WITHIN 100 YARDS TO THE EAST OF MY POSITION. I TURNED AND WATCHED IT CROSS THE BEACH, OVER THE DUNES, AND TOWARD A SMALL HOUSE ABOUT 150 YARDS INLAND. IT WAS A SPHERICAL OBJECT ABOUT 5 FEET IN DIAMETER, GLOWING SOFT WHITE, NO OTHER COLORS, NO FLASHING, AND WITHOUT ANY SOUND.IT STOPPED OVER THE HOUSE FOR 20-30 SECONDS BEFORE RESUMING FLIGHT. WHEN IT CONTINUED ON ITS WAY, IT CHANGED COURSE ABOUT 45 DEGREES TO THE NORTHEAST. IT APPEARED TO FLY AT A CONSTANT ALTITUDE (35-40 FEET) THROUGHOUT THE SIGHTING, WHICH LASTED ABOUT 1-1/2 MINUTES, I ESTIMATE ITS SPEED TO BE ABOUT 30-35 MPH. I WATCHED UNTIL IT WAS OUT OF VIEW.SECOND WITNESS IS UNAVAILABLE.((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52216.html](http://www.nuforc.org/webreports/reports/052/S52216.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>4 star-like lights in a diamond shape, moving in sky to form a vertical line in 3 orange lights then disappear.  Quickly.There were 4 lights in the sky.  Moving.  They were in the shape of a diamond, you could almost think they were stars.  Until they stopped, in a vertical line, looked more orange and full. then became one, and disappeared with the blink of an eye.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112794.html](http://www.nuforc.org/webreports/reports/112/S112794.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [545](http://www.nuforc.org/webreports/reports/164/S164473.html)
-- [544](http://www.nuforc.org/webreports/reports/164/S164456.html)
-- [543](http://www.nuforc.org/webreports/reports/164/S164603.html)
-- [542](http://www.nuforc.org/webreports/reports/164/S164402.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164602.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
