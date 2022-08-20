@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:40 on 20 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:07:26 on 20 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Ochelata (OK) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.21666666666666667 - 0.21666666666666667 minutes.</sub><blockquote><sub>Circle bluish light flashing.. Not moving hovering..I was driving home from work like I always do and something caught my eye and I looked over and there was this circle shape with tons of blinking lights just hovering over a field.  It did not move nor was it very loud. It spooked me that I was only able to video for 13 secs then I drove off as fast as I could. It was a dark road and I was the only car.  But I was able to get video of it.  The color of the lights were like a bluish tint.  The video I have makes it look like I was far away but I was not.  I was right there,this is not the first time I have seen something like it either, I have pictures of the others.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112705.html](http://www.nuforc.org/webreports/reports/112/S112705.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1976, an anonymous witness in Holden (MO) reported seeing craft that fit the description of some 'Disk' over a period of approximately ? - ? minutes.</sub><blockquote><sub>While inside this craft I noticed it was circle.I was six years old, at my grandparents house, playing hide and seek with my cousins.  We were in the back yard, fenced in area were my grandparents had kept their animals horses, donkey etc.   I decided to be sneaky and leave the pasture out the fenced area.  I ran along side the fence towards the woods behind the barn.  The next thing I know, I'm looking out a window above my grandparents house.  I was looking down at my cousins playing, and my  grandparents roof,  it seemed that I was about a little higher then my grandpas highest tree.  It happened so fast I really didn't have time to think about what was going on I turned around.  And I seen a little boy sitting crosslegged with his hands on his face elbows on his legs looking like he was crying when he looked up at me.  Around this little boy was small, Gray, creatures and around them was tricycles, balls, just some kids toys.  Immediately to the left of the boy was three gray bigger creatures the one in the middle was smaller than the two beside that one.  I began in my head  saying out loud that I want to go down there back down where I was.  The next thing I know I'm running the opposite direction towards my grandparents house.  I turned around and looked up and there was nothing there.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122865.html](http://www.nuforc.org/webreports/reports/122/S122865.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [545](http://www.nuforc.org/webreports/reports/164/S164473.html)
-- [544](http://www.nuforc.org/webreports/reports/164/S164456.html)
-- [543](http://www.nuforc.org/webreports/reports/164/S164603.html)
-- [542](http://www.nuforc.org/webreports/reports/164/S164402.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164602.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
