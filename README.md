@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:43 on 21 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:38 on 21 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in Monroe-Bastrop (LA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Rectangular bright craft on Hwy 139 From Monroe to Bastrop,LA.Leaving Monroe, LA, around dusk on Hwy 139,This was seen in the East appearing to be only just above the treetops.  It seemed to follow along the path our car was taking (North on Hwy 139) and even crossed the road once and came back to our left (East) side.It followed along until just before entering Bastrop, LA, between 7 and 8pm that night. My family and I have talked about this event for years and always wondered if anyone else had witnessed this as it was still early and there were plenty other vehicles on the road. My jaw dropped when I read the previous report on this last night, and after confirming with my daughter and nephew the time of night, as well as the date.  I have no doubt that the other poster saw the same object that we did.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47202.html](http://www.nuforc.org/webreports/reports/047/S47202.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Isle of Palms (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Strange red lights over the ocean - Isle of Palms, South CarolinaFive of us, on vacation, decided to go for a walk on the beach at approximately 10:30 p.m.  All of a sudden a red light appeared in the sky, approximately 35 degrees in the air, over the ocean.  It looked like the headlight of an airplane, large and bright.  Quickly though, we realized the light was not moving and looked peculiar.  It was red and glowing.  Within about 5 seconds another red light appeared to its right.  This light was far away, perhaps 500 yards (just guessing here).  Suddently four or five more lights turned on sequentially between the two outside lights.  All the lights together seemed to make a formation.  I was looking through my binoculars and thought I could makeout the shape of an aircraft.  But it was hard to tell for sure if it was one aircraft, or two, or whatever.  If it was one aircraft, it would be the largest aircraft I have ever seen!  The lights did not appear to move at all and there was no sound.  Then, suddenly, and all at once, the lights blinked off.  Gone.  The was a very real and unusual sighting, leaving all of us scratching our heads.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24625.html](http://www.nuforc.org/webreports/reports/024/S24625.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [399](http://www.nuforc.org/webreports/reports/164/S164466.html)
-- [398](http://www.nuforc.org/webreports/reports/165/S165065.html)
-- [397](http://www.nuforc.org/webreports/reports/159/S159492.html)
-- [396](http://www.nuforc.org/webreports/reports/158/S158804.html)
-- [395](http://www.nuforc.org/webreports/reports/158/S158852.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
