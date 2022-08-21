@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:38 on 21 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:28 on 21 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Hot Springs (AR) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Two red/orange orb like craft flying around 3000 feet above my home.It was sometime early after midnight I had just returned home from making a late night milk run for my infant son.  As I pull up to my driveway, outside of the driver side window, I see what I thought was the moon with a very bright orange tent to it so I went to grab my Phone so I could take a picture that’s when I noticed that this object was not only not the moon, but that there were two of them and they were moving. I got out of my car and immediately turned my video recorder on.  They gave absolutely no sound whatsoever and couldn’t have been moving faster than 25 to 35 miles an hour.  If I had to guess I would say they were about 3000 feet off the ground.  The one in the front eventually lined up with the street that I was on and stopped.  The other one followed behind it a little slower and sort of lined up next to it.  It hesitated for a moment but then flew under the other craft and stopped for a moment making a Vertical line.  This only lasted for about 10 ! seconds before the bottom craft continued to make what would end up being a half circle and lined up again on the other side of the craft that was stationary.  Both crafts eventually flew off in the distance no faster than they had moved when I first laid eyes on them.  I was fortunate enough to be able to record the incident on my cell phone.  The footage is a little bit shaky as I am struggling to process what I’m seeing as it’s happening.These craft look to be orb shaped however it almost looks as though there was a slight tail coming off of them.  I don’t know how to describe it better than that.  Overall the craft were red but in the center there was more of a brighter orange type glow so the red coloring would’ve been more of an afterglow.  No sound was emitted from these objects during the entire duration.  In the video the only sound you hear is of me talking my cats who honestly sound a little concerned given how they were reacting my car running in the background and crickets.  I don’t know what this was but I do not believe that it was something that was man-made.  If it is they did a damn good job of convincing me otherwise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148403.html](http://www.nuforc.org/webreports/reports/148/S148403.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Charlestown (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Light orb over Charlestown lake ontarioLight on orb appeared .it meandered then stopped dead and made a 90 degree turn  Then it flashed and was gone.  We are all university graduates</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101499.html](http://www.nuforc.org/webreports/reports/101/S101499.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [399](http://www.nuforc.org/webreports/reports/164/S164466.html)
-- [398](http://www.nuforc.org/webreports/reports/165/S165065.html)
-- [397](http://www.nuforc.org/webreports/reports/159/S159492.html)
-- [396](http://www.nuforc.org/webreports/reports/158/S158804.html)
-- [395](http://www.nuforc.org/webreports/reports/158/S158852.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
