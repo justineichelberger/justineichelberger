@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:43 on 21 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:43 on 21 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in I-84 (near Utah border) (ID) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Large, bright light streaking smooth and low across the night sky, off the side of the highway.I was driving south on I84, between Twin Falls and Ogden, somewhere between 11:30 on Aug 20th and 0:30 on Aug 21. There was one other car in the vicinity traveling in the same direction. That car had 2 occupants (male and female, I believe). Off to the right ride of the Interstate, there were some hills a few hundred meters away. A bright white-yellow light became apparent over the hills in my peripheral vision. I turned to watch the light, moving much faster than my car (70mph) and at least 200 meters away. It was traveling in a mostly S direction (the same as my car), streaking down in a 30-40 degree angle, and fast approaching the hills. At first I thought it was a crashing plane, but the speed and the angle of the motion resembled no plane that I have ever seen. The trajectory was completely smooth. The size of the light was far too big to be a shooting star. As it approached the hills, the light's speed slowed dramatically. Then the light disappeared completely, perhaps falling below the hills. After the light disappeared, I slowed my car down considerably to study the hills. There was no smoke, no sound, nothing. The other car traveling near me slowed down as well. We were both going between 30 and 40 mph. I looked into the front of the other car and the two occupants were both looking towards the hills as well. I felt that they had seen the light as well and were also trying to make sense of it. (The reason I am posting this now is that I just read about this site).((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60792.html](http://www.nuforc.org/webreports/reports/060/S60792.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Longmeadow (MA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>White ball, moves, navigates in sky , then leaves ..In longmeadow, in an area called the medows . Fanny stebbins refuge, Tonight. Me and one other person are in our 30's. Fished a small pond and headed back on train tracks going to springfield .. I looked into sky and notice a bright white moving east to west, and I commented "Huh, whats that ?" My buddy looks up and goes oh it's a plane. I exclaim, "yeah but its not blinking and its white, pure white. No colors, no pulsation, nothing.. just white and round"   We both agree this is odd, we watch it move east to west , then it navigates at about the distance a passenger jet would be at. We watch it expected it to continue on. Keep in mind, no direct path, just like an object deciding it movemnet. Not a coment , or metorite. I have seen hundreds of these , as I am a sky buff. They don't just glow pure white, and stay constant. They don't.  It doesn't. So we watch as it seems to turn away and up, then in about 2 seconds, leaves twoards space, then disappears. Before it does , there is a small glow as it leaves, like some sort of burner. and then its just gone.  I can say surley, for me a total non beleiver , this has made me believe.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92034.html](http://www.nuforc.org/webreports/reports/092/S92034.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [399](http://www.nuforc.org/webreports/reports/164/S164466.html)
-- [398](http://www.nuforc.org/webreports/reports/165/S165065.html)
-- [397](http://www.nuforc.org/webreports/reports/159/S159492.html)
-- [396](http://www.nuforc.org/webreports/reports/158/S158804.html)
-- [395](http://www.nuforc.org/webreports/reports/158/S158852.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
