@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:43 on 21 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:43 on 21 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Longmeadow (MA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>White ball, moves, navigates in sky , then leaves ..In longmeadow, in an area called the medows . Fanny stebbins refuge, Tonight. Me and one other person are in our 30's. Fished a small pond and headed back on train tracks going to springfield .. I looked into sky and notice a bright white moving east to west, and I commented "Huh, whats that ?" My buddy looks up and goes oh it's a plane. I exclaim, "yeah but its not blinking and its white, pure white. No colors, no pulsation, nothing.. just white and round"   We both agree this is odd, we watch it move east to west , then it navigates at about the distance a passenger jet would be at. We watch it expected it to continue on. Keep in mind, no direct path, just like an object deciding it movemnet. Not a coment , or metorite. I have seen hundreds of these , as I am a sky buff. They don't just glow pure white, and stay constant. They don't.  It doesn't. So we watch as it seems to turn away and up, then in about 2 seconds, leaves twoards space, then disappears. Before it does , there is a small glow as it leaves, like some sort of burner. and then its just gone.  I can say surley, for me a total non beleiver , this has made me believe.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92034.html](http://www.nuforc.org/webreports/reports/092/S92034.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in Monroe-Bastrop (LA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Rectangular bright craft on Hwy 139 From Monroe to Bastrop,LA.Leaving Monroe, LA, around dusk on Hwy 139,This was seen in the East appearing to be only just above the treetops.  It seemed to follow along the path our car was taking (North on Hwy 139) and even crossed the road once and came back to our left (East) side.It followed along until just before entering Bastrop, LA, between 7 and 8pm that night. My family and I have talked about this event for years and always wondered if anyone else had witnessed this as it was still early and there were plenty other vehicles on the road. My jaw dropped when I read the previous report on this last night, and after confirming with my daughter and nephew the time of night, as well as the date.  I have no doubt that the other poster saw the same object that we did.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47202.html](http://www.nuforc.org/webreports/reports/047/S47202.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [399](http://www.nuforc.org/webreports/reports/164/S164466.html)
-- [398](http://www.nuforc.org/webreports/reports/165/S165065.html)
-- [397](http://www.nuforc.org/webreports/reports/159/S159492.html)
-- [396](http://www.nuforc.org/webreports/reports/158/S158804.html)
-- [395](http://www.nuforc.org/webreports/reports/158/S158852.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
