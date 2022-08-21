@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:30:02 on 21 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:12:03 on 21 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in North Berwick (ME) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>9 dark orange orbs floating in eastern sky, in formation.After leaving a class at church, my wife & I pulled over, along with a half dozen other vehicles, on Rt. 4 to witness 9 dark orange "balls" of light moving from south to north in the eastern sky.  They appeared to be at different elevations & maintained their symetry (sp?) without straying too much.  Occasionally moving up, then down, then moving up again. The event (after we stopped) lasted about 10 minutes.  One (retired?) couple remarked that they'd lived nearby all of their lives and had heard about different sightings similar to this, and scoffed at the reports. One observer told me that he was a retired Air force pilot & that he'd never seen anything like this before but had heard all kinds of stories from other pilots.  He seemed unfazed by the incident.  We were all in awe more than fear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101443.html](http://www.nuforc.org/webreports/reports/101/S101443.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in College Station (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Military Helo following solid white orb.On the above date and time, I witnessed a solid white ball of light, traveling at a good speed followed by what sounded like a military helo.  The event was seen about 3/4 to 1 mile to my west.  The helo and light was traveling from the SW to N/NE.  I could clearly hear the motor from the helo but no notable sound coming from the white light and no blinking beacons were noted coming from it either.  I first noted the crafts when they were in close proximity to Easterwood Airport in College Station Texas.  The white orb appeared to be gaining distance from the helo.  I have a military and police history.  This was the strangest event I have witnessed</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121373.html](http://www.nuforc.org/webreports/reports/121/S121373.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [399](http://www.nuforc.org/webreports/reports/164/S164466.html)
-- [398](http://www.nuforc.org/webreports/reports/165/S165065.html)
-- [397](http://www.nuforc.org/webreports/reports/159/S159492.html)
-- [396](http://www.nuforc.org/webreports/reports/158/S158804.html)
-- [395](http://www.nuforc.org/webreports/reports/158/S158852.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
