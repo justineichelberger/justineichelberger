@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:33 on 21 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:44 on 21 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Charlestown (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Light orb over Charlestown lake ontarioLight on orb appeared .it meandered then stopped dead and made a 90 degree turn  Then it flashed and was gone.  We are all university graduates</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101499.html](http://www.nuforc.org/webreports/reports/101/S101499.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Brentwood (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two different white light objects moving in tandem in Brentwood, CARiding bikes through neighborhood down Breakwater Way to Minnesota Avenue/Carmel Parkway intersection at approximately 8:35 - 8:37 pm on 8/21/11.  In glancing up to the North/East, two unusual objects were clearly visible resting in the night sky.  Each object was about a half a hand outstretched and a hand apart.  The formation on the left had two large white lights - which looked almost like a car headlights to an invisible car. The object to the right looked something like the Pleiades but upon standing stationary and staring, there were white dots of lights grouped in a boomerang shape.  Both objects seemed to have a shape blending with the dark night sky to which the lights were attached.  The two-light object on the left had brighter lights than the one on the right.  The lights were white or whitish blue.  The lights did not blink. The objects made no detectible sound. Both objects appeared to be still but upon closer observation were moving in tandem of! f to the north/east.  While trying to follow the trajectory of the objects on bike and upon crossing the intersection, the objects were suddenly no longer visible.  If the objects were aircraft they would have still been quite visible from a farther distance but it appears as though they vanished from the night sky.  There was a lot of air traffic during this evening but these objects looked absolutely nothing like air traffic and appeared quite large. No air traffic appeared to be nearby these objects.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83367.html](http://www.nuforc.org/webreports/reports/083/S83367.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [399](http://www.nuforc.org/webreports/reports/164/S164466.html)
-- [398](http://www.nuforc.org/webreports/reports/165/S165065.html)
-- [397](http://www.nuforc.org/webreports/reports/159/S159492.html)
-- [396](http://www.nuforc.org/webreports/reports/158/S158804.html)
-- [395](http://www.nuforc.org/webreports/reports/158/S158852.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
