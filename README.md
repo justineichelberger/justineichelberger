@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:38 on 21 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:36 on 21 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Isle of Palms (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Strange red lights over the ocean - Isle of Palms, South CarolinaFive of us, on vacation, decided to go for a walk on the beach at approximately 10:30 p.m.  All of a sudden a red light appeared in the sky, approximately 35 degrees in the air, over the ocean.  It looked like the headlight of an airplane, large and bright.  Quickly though, we realized the light was not moving and looked peculiar.  It was red and glowing.  Within about 5 seconds another red light appeared to its right.  This light was far away, perhaps 500 yards (just guessing here).  Suddently four or five more lights turned on sequentially between the two outside lights.  All the lights together seemed to make a formation.  I was looking through my binoculars and thought I could makeout the shape of an aircraft.  But it was hard to tell for sure if it was one aircraft, or two, or whatever.  If it was one aircraft, it would be the largest aircraft I have ever seen!  The lights did not appear to move at all and there was no sound.  Then, suddenly, and all at once, the lights blinked off.  Gone.  The was a very real and unusual sighting, leaving all of us scratching our heads.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24625.html](http://www.nuforc.org/webreports/reports/024/S24625.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Port Clinto (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Circular orange/reddish objects above western Lake Erie 08.21.2012On Tuesday 21 August 2013 at approximately 21:30 hours myself and two others observed two (2) circular orange/red objects moving slowly from north to south.  The objects were moving parallel to one another over the western basin of Lake Erie.  No audible sound was heard, and no contrails were visible.  As this is a common east-west flight path, and it was dusk, I first thought that it may be man-made aircraft, reflecting sunlight.  They were too low to be military craft, and no north/south flight paths, either civilian or military are used in this area.After approximately 30 seconds the two objects made an abrupt 90-degree turn to the right.  Now the objects were moving west, with one of the objects now following the other.  Again they left no audible or visible traces of their movements, and quickly disappeared over the treeline.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104350.html](http://www.nuforc.org/webreports/reports/104/S104350.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [399](http://www.nuforc.org/webreports/reports/164/S164466.html)
-- [398](http://www.nuforc.org/webreports/reports/165/S165065.html)
-- [397](http://www.nuforc.org/webreports/reports/159/S159492.html)
-- [396](http://www.nuforc.org/webreports/reports/158/S158804.html)
-- [395](http://www.nuforc.org/webreports/reports/158/S158852.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
