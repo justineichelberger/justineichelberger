@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:03:36 on 21 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:50 on 21 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Seffner (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Round white object travelling against the windA White, round object proceeding from south to north above the low cloud layer due south of Vandenberg Airport outside of Tampa.  The object traveled in a straight, unvarying course.  When it passed over a cloud I could easily estimate where it would come out again further up the path. I just happened to look up at an aircraft that was heading south (I presume coming from Vandenberg due to its low altitude) and saw the object pass over it.  Round, white but not reflective, no noise and at first I thought it might be a parachute from the aircraft.  But after a few seconds it was obvious it was not an aircraft.  From when I saw it to when it was out of view was between 1 and 1.5 minutes. My niece was outside at the same moment and she saw it too.  There are storms coming in from the north-west and the wind is also swirling so any balloon or something like that should not have traveled in a straight line.  I have never seen anything weird in the sky before and I get to see a lot of aircraft every day and this just stood out as quite strange.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77332.html](http://www.nuforc.org/webreports/reports/077/S77332.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Somerset (NJ) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Backwards triangular formation moving from east to west, with the back point breaking off and going south.Seen by three people (ages 57, 28, and 21) three white objects in a triangle formation moving from west to east around or over 30,000 ft.  The formation looked like a backwards triangle with the two base points leading and the tip behind them seeming to go about as fast as a satellite.  The back light broke away from the formation about halfway through the event duration and headed south.  The other two that were leading did not change and kept on going east.  There was no sound heard.  The lights were small like stars so they could have been very high.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38812.html](http://www.nuforc.org/webreports/reports/038/S38812.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [399](http://www.nuforc.org/webreports/reports/164/S164466.html)
-- [398](http://www.nuforc.org/webreports/reports/165/S165065.html)
-- [397](http://www.nuforc.org/webreports/reports/159/S159492.html)
-- [396](http://www.nuforc.org/webreports/reports/158/S158804.html)
-- [395](http://www.nuforc.org/webreports/reports/158/S158852.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
