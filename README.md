@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:36 on 21 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:07:19 on 21 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Port Clinto (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Circular orange/reddish objects above western Lake Erie 08.21.2012On Tuesday 21 August 2013 at approximately 21:30 hours myself and two others observed two (2) circular orange/red objects moving slowly from north to south.  The objects were moving parallel to one another over the western basin of Lake Erie.  No audible sound was heard, and no contrails were visible.  As this is a common east-west flight path, and it was dusk, I first thought that it may be man-made aircraft, reflecting sunlight.  They were too low to be military craft, and no north/south flight paths, either civilian or military are used in this area.After approximately 30 seconds the two objects made an abrupt 90-degree turn to the right.  Now the objects were moving west, with one of the objects now following the other.  Again they left no audible or visible traces of their movements, and quickly disappeared over the treeline.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104350.html](http://www.nuforc.org/webreports/reports/104/S104350.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Rodanthe (Outer Banks) (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Red Orange lights exchange light pulses.My friend and I were on vacation with our families.  We are both former USCG officers.  We were on the upper deck of the house that we were renting, facing west, the house was on the west coast of the Outer Banks peninsula in the town of Rodanthe NC.  At approximately 2300 hrs, we both noticed directly to the west over the water, (approx. 15-20) miles away, an orange-red light suddenly illuminated, it was stationary, almost immediately another light illuminated at a lower altitude and to the north of the first light.  Next the original light emitted a series of light pulses directly in the direction of the second light.  All I can think of to describe is the old Star Trek episodes and the firing of a photon torpedo….   The second light immediately responded in kind with a series of light pulses (same orange-red color).  The two main lights then just went out.  And that was it.  No sounds, and the main lights did not move or travel away, they just went out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110610.html](http://www.nuforc.org/webreports/reports/110/S110610.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [399](http://www.nuforc.org/webreports/reports/164/S164466.html)
-- [398](http://www.nuforc.org/webreports/reports/165/S165065.html)
-- [397](http://www.nuforc.org/webreports/reports/159/S159492.html)
-- [396](http://www.nuforc.org/webreports/reports/158/S158804.html)
-- [395](http://www.nuforc.org/webreports/reports/158/S158852.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
