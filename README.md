@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:12:03 on 21 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:03:36 on 21 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in College Station (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Military Helo following solid white orb.On the above date and time, I witnessed a solid white ball of light, traveling at a good speed followed by what sounded like a military helo.  The event was seen about 3/4 to 1 mile to my west.  The helo and light was traveling from the SW to N/NE.  I could clearly hear the motor from the helo but no notable sound coming from the white light and no blinking beacons were noted coming from it either.  I first noted the crafts when they were in close proximity to Easterwood Airport in College Station Texas.  The white orb appeared to be gaining distance from the helo.  I have a military and police history.  This was the strangest event I have witnessed</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121373.html](http://www.nuforc.org/webreports/reports/121/S121373.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Seffner (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Round white object travelling against the windA White, round object proceeding from south to north above the low cloud layer due south of Vandenberg Airport outside of Tampa.  The object traveled in a straight, unvarying course.  When it passed over a cloud I could easily estimate where it would come out again further up the path. I just happened to look up at an aircraft that was heading south (I presume coming from Vandenberg due to its low altitude) and saw the object pass over it.  Round, white but not reflective, no noise and at first I thought it might be a parachute from the aircraft.  But after a few seconds it was obvious it was not an aircraft.  From when I saw it to when it was out of view was between 1 and 1.5 minutes. My niece was outside at the same moment and she saw it too.  There are storms coming in from the north-west and the wind is also swirling so any balloon or something like that should not have traveled in a straight line.  I have never seen anything weird in the sky before and I get to see a lot of aircraft every day and this just stood out as quite strange.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77332.html](http://www.nuforc.org/webreports/reports/077/S77332.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [399](http://www.nuforc.org/webreports/reports/164/S164466.html)
-- [398](http://www.nuforc.org/webreports/reports/165/S165065.html)
-- [397](http://www.nuforc.org/webreports/reports/159/S159492.html)
-- [396](http://www.nuforc.org/webreports/reports/158/S158804.html)
-- [395](http://www.nuforc.org/webreports/reports/158/S158852.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
