@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:50 on 21 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:44 on 21 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Somerset (NJ) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Backwards triangular formation moving from east to west, with the back point breaking off and going south.Seen by three people (ages 57, 28, and 21) three white objects in a triangle formation moving from west to east around or over 30,000 ft.  The formation looked like a backwards triangle with the two base points leading and the tip behind them seeming to go about as fast as a satellite.  The back light broke away from the formation about halfway through the event duration and headed south.  The other two that were leading did not change and kept on going east.  There was no sound heard.  The lights were small like stars so they could have been very high.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38812.html](http://www.nuforc.org/webreports/reports/038/S38812.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Pacific Ocean (east of Japan) () reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>A group of extremely bright lights, red, green, yellow, over the Pacific Ocean in the middle of the nightOne person opened their window on an overnight flight from Shanghai to Vanvouver.Ahead of the plane on the right were many extremely bright lights.  They seemed like they were up in the sky, but below the plane.  They were stationary.  There were more and more and they got extremely bright as we passed by.Then green and yellow lights also appeared.  We flew by and they stayed where they were.In total, we witnessed these lights for about 30 minutes</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143005.html](http://www.nuforc.org/webreports/reports/143/S143005.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [399](http://www.nuforc.org/webreports/reports/164/S164466.html)
-- [398](http://www.nuforc.org/webreports/reports/165/S165065.html)
-- [397](http://www.nuforc.org/webreports/reports/159/S159492.html)
-- [396](http://www.nuforc.org/webreports/reports/158/S158804.html)
-- [395](http://www.nuforc.org/webreports/reports/158/S158852.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
