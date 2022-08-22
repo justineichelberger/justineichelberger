@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:01:58 on 22 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:01:30 on 22 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Olympia (WA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Black tube aircraft with blue glowing orb flys faster then anything I have ever seenAround the intersection of Yelm highway and Henderson in Olympia WA there was a tubelike craft hovering or moving very slowly the object was SOLID black with a glowing blue globe shaped what I assume was the tail end this object then moved incredibly fast in a eastward direction until it was out of sight the object had no wings or propellers and when flying off moved faster then any aircraft I have ever seen</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158958.html](http://www.nuforc.org/webreports/reports/158/S158958.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Marion (VA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub>Far away 'thing'I also saw the star shaped, reddish colored 'thing' that just blinked off, from Marion Virginia.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13930.html](http://www.nuforc.org/webreports/reports/013/S13930.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [400](http://www.nuforc.org/webreports/reports/164/S164407.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164410.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164433.html)
-- [397](http://www.nuforc.org/webreports/reports/164/S164408.html)
-- [396](http://www.nuforc.org/webreports/reports/164/S164629.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
