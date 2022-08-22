@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:43 on 22 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:14:34 on 22 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Northbrook (IL) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node  098</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148548.html](http://www.nuforc.org/webreports/reports/148/S148548.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Fort Worth (TX) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>weird planeI am not saying that i saw an alien ship, but i am saying that i did see something very clear in the sky that i certianly couldnt identify. Myself and my younger brother were driving to the local movie rental store, we live in a pretty rural area so there werent that many other cars on the road. i was driving ast a local highschool and on the opposite side of the school there is a field. a very bright white light caught my eye, and i wasnt sure what it was i had never seen a light there before. i thought that maybe there was a stadium light in the field, because thats how bright it was. then it began t move, so naturally i figured it was a plane. then my younger brother said , wow thats a weird looking plane. i turned and looked agian and there were more than grren and red lights, like on a plane, and  te closer i looked at it , the les it was shaped like a plane, but more cigar shaped, and there was a very brightwhite light and a purple glow like i had never seen before. so naturaly i picked up my cell phone to call my mom to tell her what we had just seen, but my cell hone had no service. i drive on that road every day, i have never had recepetion problems on that road before.and thats my story</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30855.html](http://www.nuforc.org/webreports/reports/030/S30855.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [400](http://www.nuforc.org/webreports/reports/164/S164407.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164410.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164433.html)
-- [397](http://www.nuforc.org/webreports/reports/164/S164408.html)
-- [396](http://www.nuforc.org/webreports/reports/164/S164629.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
