@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:41:49 on 22 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:26:49 on 22 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Woodbury (CT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>It was augest 22, and we were driving home from my brithday party when I saw a disk with a slightly domed roof hovering in the sky.We were driving home from my brithday party and I looked up in the sky and saw a ufo hovering in the sky (it seemed like it was at a very high altitude).  I could tell it was metalic because the sun glemed off its surfase.  I could see enough of the craft to tell it was a disk with a slightly domed roof. As I looked at it I said to my mom "look! its a ufo" she responed "ok cool I belive you (in a sarcastic tone)" I turned to argue, when I looked back it was gone.((NUFORC Note:  We spoke with this young man, and he sounded quite credible to us.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38838.html](http://www.nuforc.org/webreports/reports/038/S38838.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Taveriner (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 22:13 - 22:13 minutes.</sub><blockquote><sub>Unexplainable lights rise and disappear above Taveriner, Fl.Six golden red fireballs type lights rise into a clear night sky from over land area heading slowly in a westerly direction.At different levels as the highest object in elevation lights disappear as the next one Follows also disappearing within four minutes.  No trail.  No sound.  No aircraft nearby.  No flashing lights.Once all 6 lights disappeared all which remained was a stary clear night sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112790.html](http://www.nuforc.org/webreports/reports/112/S112790.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [400](http://www.nuforc.org/webreports/reports/164/S164407.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164410.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164433.html)
-- [397](http://www.nuforc.org/webreports/reports/164/S164408.html)
-- [396](http://www.nuforc.org/webreports/reports/164/S164629.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
