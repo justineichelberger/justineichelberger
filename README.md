@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:54 on 22 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:39 on 22 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Kansas City (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Sweeping light soutwest to north observed central KC.I was walking in a park on a high hill at more or less 11 pm.  I didn't think too much of it.  I often observe the night sky.  There was a haze due to water vapor in the sky.I saw a light beam originating from a point almost due South sweep Esst to North.  It swept about 120 degrees.  It was like those powerful lights they shine up into the clouds like at a store opening or event they want to attract people to.  BUT BUT the odd thing is it wasn't from the ground up it was from the sky downward.((NUFORC Note:  Witness provides no contact information; indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101424.html](http://www.nuforc.org/webreports/reports/101/S101424.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Glasgow (outside of) (UK/Scotland) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Sighting near to Glasgow Scotland by police officers.Well we're two police officers from Yorkshire England sent to collect a prisoner from Glasgow, Scotland- a distance of about 250 miles. Just outside a place called Hamilton near to Glasgow saw what i thought was at first a low flying aircraft, could see the sun refelcting on the metal body work, craft was flying in a straight line and horizontal, appeared to be traveling at around 200mph and a height of around 2000 feet, as it drew closer could see object did not have wings or any kind of rotor blades and was in fact revolving around its axis in the direction it was traveling. Weather was good scattered cloud with sunshine about an hour and half before sun set.Object was round in shape and metalic about size of a small truck, definitley not an aircraft or helicopter or weather balloon. Mentioned it to other colleagues but have only been met with laughter and odd looks, not saying it was aliens but sure was strange!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52126.html](http://www.nuforc.org/webreports/reports/052/S52126.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [400](http://www.nuforc.org/webreports/reports/164/S164407.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164410.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164433.html)
-- [397](http://www.nuforc.org/webreports/reports/164/S164408.html)
-- [396](http://www.nuforc.org/webreports/reports/164/S164629.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
