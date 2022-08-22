@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:31 on 22 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:47:43 on 22 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Scottsdale (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Three white circular objects flying in a triangular shape over the skys of Scotsdale, Arizona.When I got back from my vacation in Scotsdale, Arizona and looked at my pictures from my digital camera i was amazed to see three round objects in the sky.  At the time the picture was taken you can see that the sky is extreamly clear with no clounds.  Due to the early evening our the sky is in a darker shade that makes the rounds white objects stand out.  I ignored it at first, but looked awfully suspicious.  The three objects look almost the same and seemes to be flying in the sky in a triangular shape.  My luck to take landskape picture for background on my computer and get the three objects in it too, without even seeing them!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45827.html](http://www.nuforc.org/webreports/reports/045/S45827.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Greensboro (NC) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>At appx 4 am on 8/22/06, a diamond shaped object flew by . It had 4 whitish/yellow lights on the bottom, which flashed in sequence, front then back. I couldn't judge the height, but it was large enough to see very clearly, and it passed through some clouds and could still be made out. It made no sound what so ever. There was an  aircraft off in the distance that could be seen and heard. This object was directly overhead. The time of the flight occurance was about 30 sec. The object came through the clouds flying west to east, broke through the clouds, and then disapeared. Once again it made no sound and had no flashing marker lights like a normal aircraft would have. What lights that were on it were much larger and did not flash on a timed interval.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52129.html](http://www.nuforc.org/webreports/reports/052/S52129.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [400](http://www.nuforc.org/webreports/reports/164/S164407.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164410.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164433.html)
-- [397](http://www.nuforc.org/webreports/reports/164/S164408.html)
-- [396](http://www.nuforc.org/webreports/reports/164/S164629.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
