@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:37 on 22 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:46 on 22 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Dallas (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>3 bright flashing lights in triangle formation with a red light in the centerAt 10:39pm on August 22nd, I saw a “UFO” with three white lights in a triangle pattern that were flashing intermittently. There was also a red light in the center of the triangle that would flash less often. It flew over my house.  I came inside to see what kind of airplane it was and couldn’t find anything except for previous potential “UFO” sightings that were similar to mine</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164410.html](http://www.nuforc.org/webreports/reports/164/S164410.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1970, an anonymous witness in Sebastian (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Blue cone shaped light appears from sky and flashes downward as it pursues a family in vehicle.Father, mother, mother's 16 year old sister, 11 year old son with 12 year old friend, and 5 year old daughter were southbound near the coast on a deserted (at that time) stretch of Highway A1A in a Country Squire station wagon. The Two boys sitting in a fold-up seat and facing out the back window were the first to observe a blue cone shaped light beam that appeared to originate maybe one or two hundred feet above the ground and then flash downwards to the ground as it spread out.  The beam would flash and then dissapear only to flash again from another point. The beam was roughly following the path of the two lane roadway and was catching up to the vehicle which was traveling at about 60 miles per hour. The boys alerted the other vehicle occupants who then turned or used the rearview mirrors to see the the blue light.  The father began to slow the vehicle saying he wanted to stop to get a better look.  This panicked the mother who was afraid of the light, so the father accelerated and the light was soon not seen anymore.I was the 11 year old son.  I don't really believe in extraterrestrial visitors but after 8 years in the US Air Force and 20 years as a police officer, I am still unable to explain what I saw that night.  The hardest and most disturbing part to explain is how slowly the beam moved as it progressed down towards the ground.  To the best of my knowledge, even today, light can only be made to move like that in certain tightly controlled laboratory environments and then only on a very small scale.((NUFORC Note:  Date of incident may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45443.html](http://www.nuforc.org/webreports/reports/045/S45443.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [400](http://www.nuforc.org/webreports/reports/164/S164407.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164410.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164433.html)
-- [397](http://www.nuforc.org/webreports/reports/164/S164408.html)
-- [396](http://www.nuforc.org/webreports/reports/164/S164629.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
