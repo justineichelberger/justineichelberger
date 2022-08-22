@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:40 on 21 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:45 on 22 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Santa Rosa (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>A low flying cylinder shaped obect with a propeller fan looking device at the end about 150 above ground.It was yesterday- Saturday, August 21, 2010.  I live in Santa Rosa, CA.  It was right after I left Wal-mart In Windsor, Ca, (just a few towns north of Santa Rosa).  There was an Airshow going on at the Santa Rosa Charles Shultz Airport and as my girlfriend and I were walking out of walmart we were looking in the sky towards the west direction watching a jet in the sky.  Once it was out of sight we got into the car and proceeded to drive home.  Before getting on the freeway heading west on Shiloh road in Windsor Ca, myself and one passenger in my car both witnessed a very strange craft in the sky about 1000 feet ahead of us.  It was flying really low, maybe 100 to 200 feet max. above the road.  It was a cylinder object with a fan looking propeller device at the back end of it. Instead of a propeller on the front of it like a normal looking plane.  It was a bright silver, almost white looking color. It looked to be about 20 or 30 feet long by 10 to 15 feet wide-(about ! the size of a personal 1 to 2 man plane)   Like I said there was an airshow going on so I was kind of looking towards the sky when it happened, and so when I saw it I thought to myself am I really seeing this?- what is this thing flying so low and it seemed to be moving at a good speed but I could see it so clearly.  And as I thought that my friend riding in the passenger seat yelled out "look at that!" and we were both in such awe because we think we just a ufo.  It was wierd it looked like something that would'nt even be able to fly.  I had her describe to me what she saw and she explained it the same as me.  We both went home and drew out what it looked like but she doesnt really want to look like a crazy person. Our drawings look just about similar.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77360.html](http://www.nuforc.org/webreports/reports/077/S77360.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Greensboro (NC) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>At appx 4 am on 8/22/06, a diamond shaped object flew by . It had 4 whitish/yellow lights on the bottom, which flashed in sequence, front then back. I couldn't judge the height, but it was large enough to see very clearly, and it passed through some clouds and could still be made out. It made no sound what so ever. There was an  aircraft off in the distance that could be seen and heard. This object was directly overhead. The time of the flight occurance was about 30 sec. The object came through the clouds flying west to east, broke through the clouds, and then disapeared. Once again it made no sound and had no flashing marker lights like a normal aircraft would have. What lights that were on it were much larger and did not flash on a timed interval.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52129.html](http://www.nuforc.org/webreports/reports/052/S52129.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [399](http://www.nuforc.org/webreports/reports/164/S164466.html)
-- [398](http://www.nuforc.org/webreports/reports/165/S165065.html)
-- [397](http://www.nuforc.org/webreports/reports/159/S159492.html)
-- [396](http://www.nuforc.org/webreports/reports/158/S158804.html)
-- [395](http://www.nuforc.org/webreports/reports/158/S158852.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
