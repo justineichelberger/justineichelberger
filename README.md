@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:47:43 on 22 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:41:49 on 22 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Greensboro (NC) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>At appx 4 am on 8/22/06, a diamond shaped object flew by . It had 4 whitish/yellow lights on the bottom, which flashed in sequence, front then back. I couldn't judge the height, but it was large enough to see very clearly, and it passed through some clouds and could still be made out. It made no sound what so ever. There was an  aircraft off in the distance that could be seen and heard. This object was directly overhead. The time of the flight occurance was about 30 sec. The object came through the clouds flying west to east, broke through the clouds, and then disapeared. Once again it made no sound and had no flashing marker lights like a normal aircraft would have. What lights that were on it were much larger and did not flash on a timed interval.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52129.html](http://www.nuforc.org/webreports/reports/052/S52129.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Woodbury (CT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>It was augest 22, and we were driving home from my brithday party when I saw a disk with a slightly domed roof hovering in the sky.We were driving home from my brithday party and I looked up in the sky and saw a ufo hovering in the sky (it seemed like it was at a very high altitude).  I could tell it was metalic because the sun glemed off its surfase.  I could see enough of the craft to tell it was a disk with a slightly domed roof. As I looked at it I said to my mom "look! its a ufo" she responed "ok cool I belive you (in a sarcastic tone)" I turned to argue, when I looked back it was gone.((NUFORC Note:  We spoke with this young man, and he sounded quite credible to us.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38838.html](http://www.nuforc.org/webreports/reports/038/S38838.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [400](http://www.nuforc.org/webreports/reports/164/S164407.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164410.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164433.html)
-- [397](http://www.nuforc.org/webreports/reports/164/S164408.html)
-- [396](http://www.nuforc.org/webreports/reports/164/S164629.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
