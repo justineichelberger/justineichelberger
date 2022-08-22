@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:01:18 on 22 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:49 on 22 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Pensacola (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Three bright lights in the sky forming straight line then triangle.While driving east on Cervantes in Pensacola, FL, I notices 3 lights in the sky to my left over Bayview park that would shine bright red in a straight line then would fade out then would re appear in the form of a triangle then would fade out then only 2 would appear.  The lights then started moving east and faded away.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83376.html](http://www.nuforc.org/webreports/reports/083/S83376.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Philadelphia (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Flash of light falls from sky and disappears when it hits the ground.Walking home from dinner and drinks w/ friends at a local restaurant.  Met my roommate before leaving campus to head back to our apartment together instead of alone as it was getting late.  Walking back with my roommate, I saw a streak of light, that I thought was a helicopter crashing to the ground.  I grabbed my roommate's arm and screamed to make sure she saw it, and she agreed that she also had.  I had a drink with dinner and wanted to make sure I wasn't just seeing things, since she was totally sober, I knew what we had seen was real.  As we crossed the street to get closer to where the object had "crash landed" and there was nothing in sight.  On the object, there was a bright white light, that was streaked and almost had a tail, with a duller blue light at the end of the tail.  It had a similar shape to a stroke of a paint brush or something like that.  There was only one, but it was clear that it disappeared by the time it hit or got close to the ground.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129464.html](http://www.nuforc.org/webreports/reports/129/S129464.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [400](http://www.nuforc.org/webreports/reports/164/S164407.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164410.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164433.html)
-- [397](http://www.nuforc.org/webreports/reports/164/S164408.html)
-- [396](http://www.nuforc.org/webreports/reports/164/S164629.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
