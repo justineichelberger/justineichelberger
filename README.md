@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:42 on 22 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:37 on 22 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Hossegor (France) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Black silent hight speed triangle.I was watching the sky at night expecting some falling stars, when I saw for a second, with no noise at all, a fully black triangle, passing by at very high speed, at more or less 200 meters high.  I only had the opportunity to see it because as I was watching.  It emitted a brief two spots flashlights.  It couldn’t have been a regular plane, as regular planes have constant blue/red lights, and they make noise!!!  I looked in the direction the object was flying but didn’t notice any other light coming from it.  Again, I only saw it for a glimpse of an eye, but I’m sure of what I’ve seen!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129446.html](http://www.nuforc.org/webreports/reports/129/S129446.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Dallas (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>3 bright flashing lights in triangle formation with a red light in the centerAt 10:39pm on August 22nd, I saw a “UFO” with three white lights in a triangle pattern that were flashing intermittently. There was also a red light in the center of the triangle that would flash less often. It flew over my house.  I came inside to see what kind of airplane it was and couldn’t find anything except for previous potential “UFO” sightings that were similar to mine</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164410.html](http://www.nuforc.org/webreports/reports/164/S164410.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [400](http://www.nuforc.org/webreports/reports/164/S164407.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164410.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164433.html)
-- [397](http://www.nuforc.org/webreports/reports/164/S164408.html)
-- [396](http://www.nuforc.org/webreports/reports/164/S164629.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
