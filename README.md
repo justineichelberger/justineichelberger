@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:03:15 on 22 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:39 on 22 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Greensboro (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Cluster of potential UFOsIn the middle of the day (sparse cloud coverage but otherwise bright, blue sky) my friend and I were down at the park near my house and we were just looking at the clouds and we see this collection of about 8/9 tiny dots in the sky.  They were too small to capture on camera and we didn’t have a telescope or binoculars.  They were above cloud level and sort of bright/reflective and a couple seemed to have red lights on the bottom.  There were two more close by but not part of the cluster.  As we watched them the would move closer together and then spread out again and at one point formed a triangle formation (like birds or airplanes might).  They eventually moved out of sight behind the clouds and we didn’t see them any more.  The whole event lasted about 30 minutes.  Afterwards we saw a couple planes fly past that were much, much closer to earth.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164408.html](http://www.nuforc.org/webreports/reports/164/S164408.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Hondo (Canada) (AB) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>SymetricalHi there,  i have a video of a something flying to wards a wild game camera in the middle of a pea field.   Very strange object, carry's with it a vantage point and perception that appears circular in shape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97130.html](http://www.nuforc.org/webreports/reports/097/S97130.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [400](http://www.nuforc.org/webreports/reports/164/S164407.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164410.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164433.html)
-- [397](http://www.nuforc.org/webreports/reports/164/S164408.html)
-- [396](http://www.nuforc.org/webreports/reports/164/S164629.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
