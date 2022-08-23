@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:42 on 23 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:53 on 23 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1984, an anonymous witness in Garden City (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Possible triangular ship.On the drive home from Harrisonville, heading east on 7, it was about 11:45 ((sic.  p.m.)), my carpooling friend noticed the 3 lights first.  He said they would appear, then disappear.  He asked me if it was a plane or whatever the hell it could be.  I was driving, so I had to keep glancing out his window, it appeared and disappeared what looked like south of garden city.  The 3 lights looked in line horizontally.  The 3 lights were orange, would glow brighter and then disappear.  It would do that for a few minutes, then vanished.Upon approaching the exit would garden city, it was back.  We pulled over to get a good look and got out of the car.  It looked further away, somewhere south east garden city. There were a couple aircraft flying in its location, circling it.  Could tell they were jets by there lights.  The ship this time was much further away, it looked like one glowing orb this time.  I took a picture with my phone as quick as I could, but being so dark and far away the quality of the snap does no justice.  I assumed from references that the 3 lights were part of the triangular style ship.((NUFORC Note:  Source of the report elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133057.html](http://www.nuforc.org/webreports/reports/133/S133057.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Exeter (UK/England) () reported seeing craft that fit the description of some '' over a period of approximately still going on at 23.30 - still going on at 23.30 minutes.</sub><blockquote><sub>two objects in sky with flashing lightsMy husband went to look outside to see if he could see Mars.  He spotted flashing lights that were stationary.  He first thought either a helicopter or a plane.  After 10 minutes of watching he called me into the garden to have a look.  I watched for about 10 minutes with binoculars and the naked eye (the clours flashing were to me blue and red).  The lights did not move.  We both watched as an aeroplane higher up than the lights went past it and past us, so this confirmed it was not an aeroplane nor we agreed the local police helicopter.  We then spotted another light that was lower and off to the left of the first one, this was hidden by low cloud.  After about 15 minutes and returned indoors.  My husband had gone in and got the video camera and carried on filming the lights and did not come indoor until 23.30.  During this time the lights did not move and as I am typing this I've sent him outside to see if they are still there.  Having never experienced anything like this before and being of an open mind about ufos is there an rational explanation for these lights?  I have just gone outside with my husband at 23.50 and the two lights are still there they have moved slightly from their original places but one does seem bigger than the other. We were stood in our garden with backs to a fence and there were no lights from houses behind us and we had no lights on in the garden.((NUFORC Note:  We suspect a twinkling star is a possible explanation for the sighting, although that is just a guess.  We will invite the witnesses to look at the same area of the sky at about the same time on the next clear night.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30863.html](http://www.nuforc.org/webreports/reports/030/S30863.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [414](http://www.nuforc.org/webreports/reports/164/S164419.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164429.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164422.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164428.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164687.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
