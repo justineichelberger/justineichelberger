@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:59 on 23 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:47 on 23 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1958, an anonymous witness in Snellville (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I was in traffic on hwy 78 E into Snellville, right past the intersection of the lake Lucerne near Home Depot.  There was a sparkling light in the sky.  It was stationary, just set in one position.  I stared for maybe 1-2 min, and turned for a literally a second and it was gone! Not a plane, not clouds, just gone!  I’m just wondering if anyone else may have witnessed it also?  Maybe I’m wrong?  m, but no plane goes out of sight that quick!  ((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153291.html](http://www.nuforc.org/webreports/reports/153/S153291.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Comer's Rock (near) (VA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Triangular objects moving East within fast moving clouds at Comer's Rock campground, Grayson, VAI drove up to Comer's Rock campground in the Jefferson National forest, which straddles the Wythe County/Grayson County, VA line.  It rained for three days solid.  On the fourth day, I was able to explore outside the tent and campsite.  On the afternoon of August 24th, the wind shifted and the weather finally broke.  I took the cot out of my tent and laid in the breeze watching the sky.  A  low level of cirrocumulous clouds approached from the West.  Below these mottled clouds was another string of mottled clouds going in the opposite direction, which was fun to watch.  The wind picked up and the lower Altocumulus clouds zoomed to the East.  As I lay there looking at the sky show, I began to see triangular shaped objects inside the clouds.  In the space between the cloud structures, there were several things that appeared to be solid triangular objects.  Honestly, I was stunned and couldn't take my eyes off them.  Perfect, clearly-formed triangular shapes almost hiding in the clouds.  I felt totally mesmerized.  Eventually the entire cloud bank passed to the East and I never saw anything unusual again that day.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130297.html](http://www.nuforc.org/webreports/reports/130/S130297.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [414](http://www.nuforc.org/webreports/reports/164/S164419.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164429.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164422.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164428.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164687.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
