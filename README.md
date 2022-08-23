@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:25:02 on 23 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:08:25 on 23 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in New Lenox (IL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Light coming down from the sky to the earth at a moderate speed.I was driving down I-80 west bound towards the New Lenox exit.  I saw a light come down from the sky towards the ground but not fast like a meteor.  The light was so visible that all the cars and trucks around me hit their brakes to watch this thing land come down.  I knew I was not the only one to see this.  I think it landed somewhere south of Rt 30 East of Exit 137 off of I-80.  Quite impressed by this I never reported something of this nature before.  Since I saw everyone else step on their brakes to look at it, I decided to put up a report.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135853.html](http://www.nuforc.org/webreports/reports/135/S135853.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Clark (WY) reported seeing craft that fit the description of some 'Light' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>Two  lights flashing & moving near Cody, WY.I have seen strange lights here for years but this is the time I've seen 2 of them at once. At 9:55 PM on 08/23/06 I stepped out on the porch and I saw a very bright light so I got out my spotting scope and this light seems to be turning in a circle from left to right. Then it would drop down and disappear behind a mountain, then back up again this time with another one. The one on the left would get as bright as the moon or brighter and the other would come close to it as if to become one. Then 2 again, the one on the left would stay put and the other would move up and down, closer then farther apart. Then both of them went way up in the sky and seem to move away at the same time faster than any Helicopter. I live 35 miles North of Cody, WY. and these lights looked be South West of Cody. Then they came back, a few times you could see a large flash when it went down below the mountain. I got out my 600,000 candle power spot light and would flash my light at it and the one on the left seem to shine its light back at me a hold it there as long as I did. This went on for 35 minutes. I have no idea what these things were but I'm 54 years old and have been around planes and coppers and I know it was neither.At one time when I saw lights I called the Cody airport and ask if a plane just took off and they told me no, the tower is close after dark and it's land at your own risk. I have talked with others that have seen the same lights here for years no one knows what they are. When ever I see these lights they seem to hover in one place for about 15 minutes or so then move very slowly to the left or right then disappear in a blink of an eye.I wish there was some way or someone to call to report this as it happens so we could find out what they are. I know its not a plane or copper.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52136.html](http://www.nuforc.org/webreports/reports/052/S52136.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [414](http://www.nuforc.org/webreports/reports/164/S164419.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164429.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164422.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164428.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164687.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
