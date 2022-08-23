@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:42 on 23 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:39 on 23 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>when out side to see the sunset and noticed 2 UFOs flying by I don't really know what it was but I kept seeing flashes apart by 5 seconds</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142914.html](http://www.nuforc.org/webreports/reports/142/S142914.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Garden City (KS) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>dont know????let my dog out,thought i would follow and have a smoke,my daughter followed.went to  my car out by the street looked up towards the sky to check things out there wer some storms tonight towards the north and south.Seen a plane heading west towards denver or maybe the springs.out of my left eye i caught a movement there was a lightcoming from the south I estimated it was three to four times higher then the plane.And it was moving jack  i called my daughter over who was playing with  our dog.She  couldnt believe it. Sattelite?  alien spacecraft? govt. test plane ? (in kansas,think not)  dont know .The light continued north at a good rate of speed, it was like the plane i had previosly saw was crawling</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19243.html](http://www.nuforc.org/webreports/reports/019/S19243.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [414](http://www.nuforc.org/webreports/reports/164/S164419.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164429.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164422.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164428.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164687.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
