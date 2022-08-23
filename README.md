@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:03:16 on 23 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:49 on 23 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Riga (Latvia) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Triangle shape and seperated pulsating lightballs moving over city to the north.6-10 Pulsating lightballs moving together at high speed in triangle shape figure and seperated balls moving at the same speed and same north direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65370.html](http://www.nuforc.org/webreports/reports/065/S65370.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Glen Mills (PA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Four bright yellow-orange lights (three of which were in triangle formation) hovering/suspended in airMy boyfriend was driving down an unlit road when we suddenly noticed four points of light that were seemingly hovering/suspended in the sky. The lights were very bright, steady (not blinking), and had a warm yellow/orange glow. Three of the lights were arranged in a triangle formation, and the fourth one was was more or less parallel to the light that made up the bottom left point of the triangle. The lights may have moved slightly up or down, but for the most part they appeared to be hovering in air. We watched them for about 20 seconds before we continued driving. A few notes: we have traveled down this road hundreds of times and are very familiar with the area, so we know the lights were not coming from a tower or other manmade structure. We were traveling east on the road, and saw the lights while we were looking south/south east. We were in a suburban/semi-rural area that is subdivided into 1-5 acre parcels, and we were not close to any major cities. The formation and appearance of the lights were so peculiar that it caused my boyfriend to immediately stop the car in the middle of the road. At first we thought it was a low flying plane, but quickly realized that the lights were not moving. We then thought it was some type of celestial event, but it appeared to be far too close to the earth to be a star formation. Again, it seemed so close to the earth that we first thought it was a low flying plane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164428.html](http://www.nuforc.org/webreports/reports/164/S164428.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [414](http://www.nuforc.org/webreports/reports/164/S164419.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164429.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164422.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164428.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164687.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
