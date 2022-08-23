@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:45:51 on 23 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:31:05 on 23 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Anaheim (CA) reported seeing craft that fit the description of some '' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Mother & son witness bizarre obj., "the size of a football," hovering in sky.  They pursue it in truck for some reason.  Both alarmed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00748.html](http://www.nuforc.org/webreports/reports/000/S00748.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Stroudsburg (PA) reported seeing craft that fit the description of some 'Flash' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>Ball Of Light White In Color & Possibly Related To East Coast EarthQuake 8-23-11 Over PaI work overnight...I was having my lunch at 3 am at the East Stroudsburg Walmart Super Center....We usually flip a shopping cart on its side to sit on i was near the Soda Vending Machines....Near the grocery side door....i looked up in the sky and seen a flash of light heading east it was shaped like a ball of light white in color the event that happened lasted seconds....im concerned because an earthquake hit the eastcoast same day ,,,,this happened at 3am on 8-23-2011....This could of been a meteorite just letting you know what i saw possible link between quake and flash of light  Please investigate this matter</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83452.html](http://www.nuforc.org/webreports/reports/083/S83452.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [414](http://www.nuforc.org/webreports/reports/164/S164419.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164429.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164422.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164428.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164687.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
