@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:53 on 23 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:52:01 on 23 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Exeter (UK/England) () reported seeing craft that fit the description of some '' over a period of approximately still going on at 23.30 - still going on at 23.30 minutes.</sub><blockquote><sub>two objects in sky with flashing lightsMy husband went to look outside to see if he could see Mars.  He spotted flashing lights that were stationary.  He first thought either a helicopter or a plane.  After 10 minutes of watching he called me into the garden to have a look.  I watched for about 10 minutes with binoculars and the naked eye (the clours flashing were to me blue and red).  The lights did not move.  We both watched as an aeroplane higher up than the lights went past it and past us, so this confirmed it was not an aeroplane nor we agreed the local police helicopter.  We then spotted another light that was lower and off to the left of the first one, this was hidden by low cloud.  After about 15 minutes and returned indoors.  My husband had gone in and got the video camera and carried on filming the lights and did not come indoor until 23.30.  During this time the lights did not move and as I am typing this I've sent him outside to see if they are still there.  Having never experienced anything like this before and being of an open mind about ufos is there an rational explanation for these lights?  I have just gone outside with my husband at 23.50 and the two lights are still there they have moved slightly from their original places but one does seem bigger than the other. We were stood in our garden with backs to a fence and there were no lights from houses behind us and we had no lights on in the garden.((NUFORC Note:  We suspect a twinkling star is a possible explanation for the sighting, although that is just a guess.  We will invite the witnesses to look at the same area of the sky at about the same time on the next clear night.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30863.html](http://www.nuforc.org/webreports/reports/030/S30863.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Niceville (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I saw a dark chunky object floating in the skySaw a dark object floating low in the sky.  Was "chunky" shaped much like a witch on a broomstick almost.  There were smaller black dots circled above that I thought were birds, but they chased and then attached to the large object.  Only saw this for a few seconds and then lost sight as I drove through shaded areas of the street.  Never saw again.  Looked for days in local papers and online to see if any other reports. nothing.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83425.html](http://www.nuforc.org/webreports/reports/083/S83425.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [414](http://www.nuforc.org/webreports/reports/164/S164419.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164429.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164422.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164428.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164687.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
