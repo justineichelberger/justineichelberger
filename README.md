@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:42 on 23 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:36 on 23 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Wallingford (CT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Fleet of white triangular airplanes, circular center with three lights, rear again trangular.The night was comfortable for August, despite heavy clouds all day threatening rain.  I'm not a good judge of distance, but my guess is that the cloud ceiling began at about 500 to 700 feet. The airborne vehicle was inside the clouds, seemingly trying to hide in them.  As the atmosphere around it swirled about, different views of the ship came into sight.  Eventually, the complete outline was revealed. The nose of the ship was gently rounded, the body, triangular with rounded corners.  The circular center had three "running lights," two white and one red.  The rear section was again in a triangular shape. The ship was silent, still, completely white except for the running lights. There was no engine sound.  As other portions of the huge cloud formation swirled,  I noticed part of another craft, exactly like the one I was watching just to the right, and then another to it’s left.  As my gaze moved over the low cloud cover, I could see portions of other crafts in front of it and behind it.  The object I first noticed was part of a fleet of ships and because of the swirling masses, most of what was up there was obscured.  As far as I could see, and that distance was extremely limited, the area of sky over my head was filled with them. Did anyone see what I saw?  Can anyone help me verify?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51804.html](http://www.nuforc.org/webreports/reports/051/S51804.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Paulsboro (NJ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>UFO with white light and green (ultra light) moved slowly downward on a diagonal path, then disappeared.I was getting in my truck to go to work.  Truck was running but the lights were off.  Noticed an aircraft in front of me pretty high in the sky.  Another aircraft slowly came in from the left and moved on a diagonal path downward.  There was a white light on the right side of the ufo and a bright green light on the left.  I could not stop staring at the green light.  Object was moving slowly but I still saw trails from the green light.  In my head I jokingly told myself that might be a UFO. Just then, it either vanished, or took off super fast.  All that was left was a green hue in the clouds.  On my way to work, I saw at least 10 aircrafts hovering in the sky.  Some were helicopters  but at least three of them had huge panel lights on the front and looked like airplanes hovering.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148440.html](http://www.nuforc.org/webreports/reports/148/S148440.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [414](http://www.nuforc.org/webreports/reports/164/S164419.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164429.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164422.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164428.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164687.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
