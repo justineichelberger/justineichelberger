@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:35 on 22 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:42 on 23 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Simla (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>kinda like a triangle with blinking lights on the 2 sides.…((NUFORC Note:  Paucity of information provided by witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24628.html](http://www.nuforc.org/webreports/reports/024/S24628.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1984, an anonymous witness in Garden City (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Possible triangular ship.On the drive home from Harrisonville, heading east on 7, it was about 11:45 ((sic.  p.m.)), my carpooling friend noticed the 3 lights first.  He said they would appear, then disappear.  He asked me if it was a plane or whatever the hell it could be.  I was driving, so I had to keep glancing out his window, it appeared and disappeared what looked like south of garden city.  The 3 lights looked in line horizontally.  The 3 lights were orange, would glow brighter and then disappear.  It would do that for a few minutes, then vanished.Upon approaching the exit would garden city, it was back.  We pulled over to get a good look and got out of the car.  It looked further away, somewhere south east garden city. There were a couple aircraft flying in its location, circling it.  Could tell they were jets by there lights.  The ship this time was much further away, it looked like one glowing orb this time.  I took a picture with my phone as quick as I could, but being so dark and far away the quality of the snap does no justice.  I assumed from references that the 3 lights were part of the triangular style ship.((NUFORC Note:  Source of the report elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133057.html](http://www.nuforc.org/webreports/reports/133/S133057.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [400](http://www.nuforc.org/webreports/reports/164/S164407.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164410.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164433.html)
-- [397](http://www.nuforc.org/webreports/reports/164/S164408.html)
-- [396](http://www.nuforc.org/webreports/reports/164/S164629.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
