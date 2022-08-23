@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:51 on 23 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:01:21 on 23 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Garfield Heights (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>have been seeing orange lights in sky that flicker and go out.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92094.html](http://www.nuforc.org/webreports/reports/092/S92094.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Greenwich (CT) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Chevron shaped formation of orange lights shaped like stunted bowling pins streaked across the sky from N to S directly overhead.At about 10 past midnight on August 23rd, I went outside to admire the stars which were unusually abundant.  A few minutes in, I saw a chevron formation of lights streak across the sky directly overhead.  The lights were orange in color and were not round but rather looked like stunted bowling pins.  There were about 4 or five on each side for a total of 9 to 11.  They appeared to be low enough above the tree tops that at first I thought, "cool bats flying in formation!" after which I quickly thought, "no, bats don't fly in formation, maybe they're ducks."   Then of course almost instantly I realized that neither bats nor ducks glow orange and that it must have in fact been a vessel of some sort which blocked out the stars behind it.  Then, while it was still in a visible spot, unimpeded by treetops, the lights went out and that was it.  I did not notice if the stars continued to be blotted out in the same trajectory, as it all happened so fast.  What was mos! t noticeable was the speed at which it moved across the sky-- 2-3 seconds heading from north to south and the fact that there was absolutely no sound associated with the movement.  Could that have been a stealth bomber? And would it fly  at such a low altitude?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71939.html](http://www.nuforc.org/webreports/reports/071/S71939.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [414](http://www.nuforc.org/webreports/reports/164/S164419.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164429.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164422.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164428.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164687.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
