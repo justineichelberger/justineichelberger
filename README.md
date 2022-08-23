@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:36 on 23 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:40 on 23 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Paulsboro (NJ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>UFO with white light and green (ultra light) moved slowly downward on a diagonal path, then disappeared.I was getting in my truck to go to work.  Truck was running but the lights were off.  Noticed an aircraft in front of me pretty high in the sky.  Another aircraft slowly came in from the left and moved on a diagonal path downward.  There was a white light on the right side of the ufo and a bright green light on the left.  I could not stop staring at the green light.  Object was moving slowly but I still saw trails from the green light.  In my head I jokingly told myself that might be a UFO. Just then, it either vanished, or took off super fast.  All that was left was a green hue in the clouds.  On my way to work, I saw at least 10 aircrafts hovering in the sky.  Some were helicopters  but at least three of them had huge panel lights on the front and looked like airplanes hovering.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148440.html](http://www.nuforc.org/webreports/reports/148/S148440.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Morrisville (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>30-40 round lights moving slowly, without noise, flickering like candles through sky.Seen coming from far 30 to 40 lights moving slowly over route 1 and route 13 flying over snipe farm.  Objects where high in the clouds.  Lights where moving slowly and where sort of yellow. Lights where flickering like candles and would disappear in the clouds after reaching certain spot</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112743.html](http://www.nuforc.org/webreports/reports/112/S112743.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [414](http://www.nuforc.org/webreports/reports/164/S164419.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164429.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164422.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164428.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164687.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
