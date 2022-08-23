@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:33 on 23 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:04:10 on 23 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Auburn (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Several objects from south east.Saw seven objects that appeared as fireballs traveling at a slower velocity than a meteor.  Two of the objects witnessed appeared to have mass and could see the red-orange glow reflecting off the rest of it.  Seven of them appeared over the span of about twenty minutes, coming in from the east south east and heading west north west at about a 30 degree angle. At one point in their travel they seemed to veer towards the north and blink out either due to cloud cover or some other reason.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112757.html](http://www.nuforc.org/webreports/reports/112/S112757.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Uniontown (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>I was in my upstairs bathroom looking out of the window and I saw what appeared to be a teardrop shaped fireball moving northwest through the sky.   At first I thought it was an airplane simply because I live by an airport but this light was not flashing like an airplane signal light usually does, but the light I witnessed was much larger, brighter, and vividly orange.  As my curiosity grew, I opened the window and listened but there wasn't any noise whatsoever.  The light was visible for about 45 seconds to a minute and appeared to be gradually rising before disappearing into the night.((NUFORC Note:  We presume a nighttime sighting, and have changed the time above, accordingly.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92070.html](http://www.nuforc.org/webreports/reports/092/S92070.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [414](http://www.nuforc.org/webreports/reports/164/S164419.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164429.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164422.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164428.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164687.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
