@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:01:21 on 23 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:42 on 23 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Greenwich (CT) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Chevron shaped formation of orange lights shaped like stunted bowling pins streaked across the sky from N to S directly overhead.At about 10 past midnight on August 23rd, I went outside to admire the stars which were unusually abundant.  A few minutes in, I saw a chevron formation of lights streak across the sky directly overhead.  The lights were orange in color and were not round but rather looked like stunted bowling pins.  There were about 4 or five on each side for a total of 9 to 11.  They appeared to be low enough above the tree tops that at first I thought, "cool bats flying in formation!" after which I quickly thought, "no, bats don't fly in formation, maybe they're ducks."   Then of course almost instantly I realized that neither bats nor ducks glow orange and that it must have in fact been a vessel of some sort which blocked out the stars behind it.  Then, while it was still in a visible spot, unimpeded by treetops, the lights went out and that was it.  I did not notice if the stars continued to be blotted out in the same trajectory, as it all happened so fast.  What was mos! t noticeable was the speed at which it moved across the sky-- 2-3 seconds heading from north to south and the fact that there was absolutely no sound associated with the movement.  Could that have been a stealth bomber? And would it fly  at such a low altitude?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71939.html](http://www.nuforc.org/webreports/reports/071/S71939.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Wallingford (CT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Fleet of white triangular airplanes, circular center with three lights, rear again trangular.The night was comfortable for August, despite heavy clouds all day threatening rain.  I'm not a good judge of distance, but my guess is that the cloud ceiling began at about 500 to 700 feet. The airborne vehicle was inside the clouds, seemingly trying to hide in them.  As the atmosphere around it swirled about, different views of the ship came into sight.  Eventually, the complete outline was revealed. The nose of the ship was gently rounded, the body, triangular with rounded corners.  The circular center had three "running lights," two white and one red.  The rear section was again in a triangular shape. The ship was silent, still, completely white except for the running lights. There was no engine sound.  As other portions of the huge cloud formation swirled,  I noticed part of another craft, exactly like the one I was watching just to the right, and then another to it’s left.  As my gaze moved over the low cloud cover, I could see portions of other crafts in front of it and behind it.  The object I first noticed was part of a fleet of ships and because of the swirling masses, most of what was up there was obscured.  As far as I could see, and that distance was extremely limited, the area of sky over my head was filled with them. Did anyone see what I saw?  Can anyone help me verify?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51804.html](http://www.nuforc.org/webreports/reports/051/S51804.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [414](http://www.nuforc.org/webreports/reports/164/S164419.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164429.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164422.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164428.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164687.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
