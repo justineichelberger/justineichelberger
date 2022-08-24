@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:27:17 on 24 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:20:47 on 24 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Cutchogue (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>large black triangular craft seen over Interstate 80 in north west New Jersey.We were west bound on I 80 just east of wxit 12 and a bright light was shining directly at us. It looked like a plane coming directly toward us was going to land on the road.  Got closer and saw it was a large triangular craft with brightly shining lights in the front point of the triangle. I t had two blinking green lights off either side (about 10 feet from edge of craft) but did not appear to be attached to craft. craft looked to be about 200 feet above the ground and drifted directly over us as I had slowed down to about 5-10 mph. and pulled off road.  I pulled off road and watched craft disappear over tree tops along road side.  It also had lights across the back straight line of the triangle.  It traveled very slowly like a blimp and made no noise.((NUFORC Note:  Witness elects to provide no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83485.html](http://www.nuforc.org/webreports/reports/083/S83485.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Pensacola (FL) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 157</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148536.html](http://www.nuforc.org/webreports/reports/148/S148536.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164478.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164635.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164416.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164630.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
