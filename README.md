@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:01:30 on 24 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:32 on 24 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lake Wales (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Another fireball sighting in Lake Wales, FLOn the evening of 8/23/2013 my wife and I once again observed an orange fireball decending in the vicinity of our house.  As with our previous fireball sighting, it occured on an over cast night.  The fireball was noticed first by my wife as we walked out onto our back porch.  The object was pulsing slowly and without rhythm and it appeared to be decending as it headed in an E/SE direction.  The time was 10:08 PM.This is the third time we've witnessed one of these fireballs.  We look at the sky every night and these objects are very unusual.  If anyone knows what they are I'd love to hear it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101544.html](http://www.nuforc.org/webreports/reports/101/S101544.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Watchung (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I saw two circular silver/white round objects very high in the sky that did not behave like conventional aircraft.I went shopping at Home Depot in Watchung, NJ (off Rt 22).  I had just parked my vehicle in the lot (blue Chevy pickup truck).  As I exited my truck I looked up to watch a commercial jet liner crossing overhead ... coming over the mountains from north to south.  I thought to myself ... "what a beautiful day ... the sky was dark blue ... perfectly clear".  I was facing west/northwest.  As I watched the jet liner cross overhead I noticed there was another object in the sky (at about 10 O'clock)... it was a circular object ... it was very high up in the sky ... and just a couple seconds later I noticed there was another object (a duplicate) moving behind the first object to the left ... both objects seemed to be moving slowly approaching from the west ... both objects were moving toward me ... approximately 20 seconds later the second object made  a 90 degree change of direction (to my left) and disappeared very rapidly ... it streaked and was gone quickly ... the first object continued moving toward me and reached a position at about 11 O'clock ... I watched the first object ... it seemed to be hovering at a very high altitude ... it was very high in the sky ... it was silver in color ... it gave off a silver/white glow or sheen ... perfectly round in shape ... it seemed to be glowing ... I watched the second object for maybe 2 minutes plus ... I thought to myself does anybody else see this ... there wasn't too many cars in the parking lot ... I looked around to see if anyone was close by ... when I looked back up in the sky I could not relocate the first object ... it had disappeared. I would say that from my position the objects were definitely not conventional aircraft ... they were perfectly round in shape ... they were much smaller than the airplane that had just passed in front ... they seemed much smaller than the airplane because they were so much higher altitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30890.html](http://www.nuforc.org/webreports/reports/030/S30890.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164478.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164635.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164416.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164630.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
