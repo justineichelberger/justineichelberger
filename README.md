@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:03:08 on 24 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:02:13 on 24 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Cleveland (Oneida Lake) (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately snap of camera - snap of camera minutes.</sub><blockquote><sub>Partial CLOSE-UP picture of UFO over Oneida Lake, NY. 8/24/16 @ 6:31amThe morning of the 24th we left dockside @ apx 6:10am in a rented 10 person pontoon boat (with the top folded down completely). After clearing the warning buoys in the bay we proceeded out and head due west at full speed. We were heading for the 2 large islands on the west end of the lake. The trip would take apx 35-40 minutes.The sun had not come up yet but as it did begin to rise we took a few pics (Iphone 5S) (while moving). I was driving the boat, but at a slow speed. I turned around to snap a few pics of the sun which was in full beautiful view, and ended up with an excellent picture of the sunrise. at this point we were well out on the lake with only the water around us and the sky above.A week later as I was reviewing my pictures and posting them to facebook, I noticed that I had captured something in the picture that we were not aware of during the fishing trip. The object is on the far left middle of the pic, and appears higher than us and above the water.The picture does not show the entire craft, only a portion of it...but you can see structure to it, and It has  definite angles to the design, and you can see the rising sun shining on it / illuminating it.We heard nothing that morning except the wind, waves and the roar of the boats motor. We saw nothing other than the sunrise...I have zoomed in on the object and it is not a "normal" saucer shaped UFO, but it does have well defined surfaces that reflect light. The ufo appears to be following or passing us on the starboard side of the boat and behind us apx 100 yards?.There were 3 others in the boat with me, and subsequently i requested copies of their pics. In 1 of those other pictures taken apx 3 mins prior to my photo i found a picture of the sunrise that also includes the skies and the clouds behind us. Upon zooming in there appears to be an octagon shaped object in the clouds.I "theorize" it traveled from the clouds to a position behind us in a matter of 3 minutes.None of us recall experiencing missing time, marks on our bodies ect... It was quite a surprise to me, to see this thing.  Also the pictures are high resolution images....and we caught no fish!   If anyone @ NUFORC has questions, feel free to call.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129801.html](http://www.nuforc.org/webreports/reports/129/S129801.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Belo (WV) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>red orange lights in the wv skymy neighbor called and told me to go outside and look up in the sky towards the west...there were three reddish orange balls of lights...they seemed to be moving fast and coming and going....im not sure what they were....ive seen plenty of planes and such in the sky and i am an avid sky watcher...but i have never ever seen anything like this before in my life....</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101533.html](http://www.nuforc.org/webreports/reports/101/S101533.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164478.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164635.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164416.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164630.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
