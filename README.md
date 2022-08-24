@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:02:13 on 24 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:01:30 on 24 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Belo (WV) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>red orange lights in the wv skymy neighbor called and told me to go outside and look up in the sky towards the west...there were three reddish orange balls of lights...they seemed to be moving fast and coming and going....im not sure what they were....ive seen plenty of planes and such in the sky and i am an avid sky watcher...but i have never ever seen anything like this before in my life....</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101533.html](http://www.nuforc.org/webreports/reports/101/S101533.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lake Wales (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Another fireball sighting in Lake Wales, FLOn the evening of 8/23/2013 my wife and I once again observed an orange fireball decending in the vicinity of our house.  As with our previous fireball sighting, it occured on an over cast night.  The fireball was noticed first by my wife as we walked out onto our back porch.  The object was pulsing slowly and without rhythm and it appeared to be decending as it headed in an E/SE direction.  The time was 10:08 PM.This is the third time we've witnessed one of these fireballs.  We look at the sky every night and these objects are very unusual.  If anyone knows what they are I'd love to hear it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101544.html](http://www.nuforc.org/webreports/reports/101/S101544.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164478.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164635.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164416.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164630.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
