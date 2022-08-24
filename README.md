@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:50:15 on 24 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:45:21 on 24 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Grand Rapids (MI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I saw 2 red lights moving silently through the night sky.  The lights appeared to be on the same horizontal line and flew directly above my house in a west to east direction disappearing into the clouds.The sighting of the lights occurred at 12.48am Sunday morning.  I can't seen to get my computer to accept military time notation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112826.html](http://www.nuforc.org/webreports/reports/112/S112826.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Reno (NV) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>object moved west-northwest for about 10 sec.  very white color, sparks flew from behindI didn't think of this as anything more than a meteor, albeit a strange one.  It was large enough for me to notice that it was a disk or spherical shaped object.  My attention was drawn to the window next to my bed, where it moved slowly enough for me to notice its size and color.  What threw me were the "sparks" that flew off the back, and the sort of "wavy" outline of the disk.  I live just north of Reno, in Stead, NV--just 10 miles from the California border.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09403.html](http://www.nuforc.org/webreports/reports/009/S09403.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164478.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164635.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164416.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164630.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
