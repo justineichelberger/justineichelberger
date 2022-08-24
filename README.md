@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:50 on 24 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:43 on 24 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Laguna Niguel (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Four Glowing OrbsI was standing in my backyard which is on a hill and overlooks the valley and then more hills to the south.  Hovering right above the tree tops on the hill to the south were four large glowing orbs that were golden in color and completely silent.  I could not stop looking at them, like I was drawn to them. I walked to the furthest spot in the backyard never taking my eyes off of them.  As I reached that spot they began to descend slowly below the tree tops until I could no longer see them.  I want to know what they were.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83414.html](http://www.nuforc.org/webreports/reports/083/S83414.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Changing' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>bright white light then turned black moved very fast then goneTime 18:10 spotted over phoenix Arizona  just west of international airport close to storm clouds or just below it.  Bright round light hovering  I would say 5 to 6 thousand feet not sure it just stayed steady then turned into black dot moved west  I’m looking form south mountain looking north it was moving fast then gone.  There are plans flying around and non of them have there lights on.  If this was a plan it can hover.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77398.html](http://www.nuforc.org/webreports/reports/077/S77398.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164478.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164635.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164416.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164630.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
