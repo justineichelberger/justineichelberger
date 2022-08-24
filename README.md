@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:37 on 24 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:32 on 24 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in D'lberville (MS) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>it was huge light we thought it was a plane or something so we just keep on parting then it got bigger or closer it didn't look like a plane it was 3 lights and they were very bright my friend took several pictures some people ran away and like 30 mins. later it had gone away like it was nothing</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52221.html](http://www.nuforc.org/webreports/reports/052/S52221.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Jordan (MN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>White, red, green, metallic colored objects moving in brief zig zag patterns, bouncy movements and stay at stand still would form weird patterns in sky.  Also formed straight lines, or bow like lines, sometimes a couple stayed together,some moved slow, fast, or lightning fast .my fiancé and I sat and watched them for over an hour and a few disappeared out of thin air and came back web they did apart from others they would be in all different kinds of patterns.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148460.html](http://www.nuforc.org/webreports/reports/148/S148460.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164478.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164635.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164416.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164630.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
