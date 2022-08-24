@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:12:39 on 24 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:34 on 24 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Carolina (South Africa) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>On video one craft ..  On amateur rocket launch .. 1 min and 29 seconds after rocket was launch,UFO appear for split second .  it look disk shape I had mail the video to MR Davenport .Sorry on my last rapport I had put in the date wrong so here is a new rapport with correct date.((name deleted))((NUFORC Note:  The source of the report has sent video, but we are unable to determine what it is that he finds anomalous in the film.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94164.html](http://www.nuforc.org/webreports/reports/094/S94164.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Whitesboro (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Object flashes after making a high altitude U-turnI was outside with my binoculars around 6am this morning, drinking coffee and looking at the sky.  I was specifically looking at Orion's Belt, which is visible right now early in the morning.  It was still dark out.  While looking at the center star of Orion's belt, I saw a small light fly by at a high rate of speed.  I followed the light and watched it fly in a southeasterly direction.  I watched it for several seconds.  After about 10 seconds the light stopped and made a "U" turn.  After the U turn, I brought the binoculars down to see if I could observe the object with the naked eye.  I could not.  I was about to re-acquire the object with my binoculars when I saw a bright flash from the object, just to the left of Orion's belt.  After the flash, I never saw the object again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142909.html](http://www.nuforc.org/webreports/reports/142/S142909.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164478.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164635.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164416.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164630.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
