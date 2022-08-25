@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:35 on 25 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:42 on 25 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Waverly (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>An object that produced yellow/orange and red bursts of light, moved in a zig-zag pattern at near light speed.The object appeared in the southern sky at about 12 oclock. I was facing east.There was a tall building to my right which prevented me from seeing it until the 12 o clock position. What I saw first was a burst of light, yellow/orange in front and red in rear blending together in the middle. The object seemed to be much higher than an airplane. I thought it was a star to star to start with. The object began moving in a zig-zag pattern from south to north and at every change of direction the same burst of light would appear. what was so amazing was the speed at which it traveled, it seemed to almost jump from point to point. the object disappeared at about the 9 o clock position. Nothing that I know of can move that fast at that altitude. It was about the speed of a shooting star only much much higher.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13900.html](http://www.nuforc.org/webreports/reports/013/S13900.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1965, an anonymous witness in Elmira (Canada) (ON) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>In the evening of August 25?/65, I was eleven, my brother, thirteen, and our next door neighbour also thirteen, were assigned to take our dogs out for a walk. I know it was a Sunday evening as the rest of our family were inside watching Ed Sullivan at the time and mom wanted us to get in the habit of coming in early as school was starting soon. In the duration of playing I noticed a funny orange star right beside the full moon. When I looked up again there appeared to be two moons except one was very blood orange in colour. When I caught my brother's attention to look at the other moon this object (within fractions of a second) was hovering over us the size two foot ball feilds. The ground and everything was illuminating an orange colour. My brother said quick go get mom, and within a fraction of a second it vanished.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16661.html](http://www.nuforc.org/webreports/reports/016/S16661.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [469](http://www.nuforc.org/webreports/reports/164/S164564.html)
-- [468](http://www.nuforc.org/webreports/reports/164/S164438.html)
-- [467](http://www.nuforc.org/webreports/reports/164/S164436.html)
-- [466](http://www.nuforc.org/webreports/reports/164/S164437.html)
-- [465](http://www.nuforc.org/webreports/reports/164/S164460.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
