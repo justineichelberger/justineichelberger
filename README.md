@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:05:02 on 25 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:35 on 25 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Hanford (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Brightly colored silent craft moving right over houses and treesI'm retired military.  I live in Hanford, Ca.  I went out to call the cat in and wondered if the moon was viewable.  I walked out to the pool and out of the corner of my left side I saw bright lights very low and slow.  There was no sound.  Bigger than an F-18 smaller than a 747.  It was weird.  The colors were weird. Blue ish purple, red, yellow and white.  I thought I was probably misidentifying a helo or plane but my house was in the middle of the horse shoe path it made.  I don't know what it was but it was very pretty and creepy at the same time like it had thoughts.  Anyway it went from my left neighbors house down to my back neighbor then arced up around my right neighbors house.  Very low and slow no sound.  I ran through to the front of the house and poof it was gone.  Very smooth.In the military, I do have witnesses to other things, but those looked different and I believe I've reported those.  Ok, we'll hope that helps anyone else that saw it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118242.html](http://www.nuforc.org/webreports/reports/118/S118242.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Arlington (VT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>reddish-orange orbI looked out my kitchen window as I was turning off the night light on my microwave, and noticed a bright “star” in the northern sky.  After turning out the light, I went to the sliding back door next to my kitchen, and observed the “star”.  Turns out it wasn’t a star after all since it was moving. It was by far the brightest object in the sky, and was heading in the northeastern direction. I watched it for about 20 seconds, and then it just faded away.  I would say it was an orb shape, and was reddish-orange in color. It was not the ISS or a satellite or a shooting star. I have actually seen a number of these in the past few years now.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92243.html](http://www.nuforc.org/webreports/reports/092/S92243.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [469](http://www.nuforc.org/webreports/reports/164/S164564.html)
-- [468](http://www.nuforc.org/webreports/reports/164/S164438.html)
-- [467](http://www.nuforc.org/webreports/reports/164/S164436.html)
-- [466](http://www.nuforc.org/webreports/reports/164/S164437.html)
-- [465](http://www.nuforc.org/webreports/reports/164/S164460.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
