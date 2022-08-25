@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:32 on 25 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:33 on 25 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Rutland (VT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Lights over Rutland, VT, 8/25/2014.I was out side star gazing looking up and a saw a light moving not a plane all the sudden the light got very white bright.  I called my daughter and looked back up and the white bright light had receded to the norm and was gone than i saw a plane coming fast and closing on another light that was heading west turning south. In middle of turn bright lights streached back twards both wings and looked like a triangle but we could still see the plane tail lights.All the sudden, i noticed a plane coming north right towards it than the lights disappeared and the plane tailing it kept going south and the other passed it to the left of the plane still heading north.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112871.html](http://www.nuforc.org/webreports/reports/112/S112871.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Lopez Island (WA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Flashing comet shaped lights in the Western SkyWe saw flashing white lights in the Western sky.  There were several that seemed to flash in sequence, but at various intervals.  They were confined to an area 30 to 40 degrees above the horizon.  The lights were shaped like comets, with the tails to the East.  At times at least two of the lights appeared more intense and green in color.  At first the lights would flash slowly and then progressively more rapidly until they went very fast, then would pause and start over again.  Near the end of the show an occasional light would streak accross the sky.((NUFORC Note:  We suspect that the witness may have been observing the laser-based advertising lights that were reported to the Victoria, B.C., police by many people there.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19270.html](http://www.nuforc.org/webreports/reports/019/S19270.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [469](http://www.nuforc.org/webreports/reports/164/S164564.html)
-- [468](http://www.nuforc.org/webreports/reports/164/S164438.html)
-- [467](http://www.nuforc.org/webreports/reports/164/S164436.html)
-- [466](http://www.nuforc.org/webreports/reports/164/S164437.html)
-- [465](http://www.nuforc.org/webreports/reports/164/S164460.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
