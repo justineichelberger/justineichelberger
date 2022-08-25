@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:04:05 on 25 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:32 on 25 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Klamath Falls (OR) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>I saw a saucer fly above my neighbor's house at 1:35AM and head to a military airport.At 1:35AM I heard what sounded like a helicopter flying above my neighbor’s house across the street.  My area usually does not have very many helicopters, so I peeked outside of my window to check it out.When I looked out, I instead saw a saucer flying at a slight angle (bottom facing me) directly above the street I live on. Usually you’d expect an aircraft to be flying quite a bit above the ground, but this UFO was about as high up as a 3-4 story building or a tall tree.I’m not very good at describing things, but the sound of the craft was akin to what a faraway helicopter sounds like.  Not like when you are close to it and you can hear the blades, but just the general rumble of the helicopter.I’m not sure if the UFO had a bump on the bottom like stereotypical depictions, but I don’t recall seeing one.  I was not able to see the top of the craft either.The UFO had small lights on the bottom, but not like you’d see on traditional UFO depictions.The lights were all over the place (more towards the middle than the outside of the saucer) and were colored red and blue.The lights were like looking at a distant street light, they were small and circular.I’d say the saucer was about the size of a jet, and it was very fast too.It was heading towards the nearby military airport as well. It got from where I lived on the outskirts of the city to the other side of the city in about 10-15 seconds.I personally believe that it was a military engineered aircraft, due to the fact it was flying so low, and heading towards the military airport with its lights on while flying straight over the city.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142891.html](http://www.nuforc.org/webreports/reports/142/S142891.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Indianapolis (IN) reported seeing craft that fit the description of some '' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright reddish objectWe were just getting ready to go to bed, when we noticed a bright reddish color object moving towards south west direction. The westerly sky was partly cloudy so the object kept disappearing and again reappearing from behind the cloud. It was definitely moving at least at the speed of a jet plane. I looked at it with my astronomical binoculars. The object was crescent or round shape - the full object was never visible due to cloud. I have seen numerous planes and ballons with this binoculars to know that this object was not like anything I have seen before. Unfortunately I do not remember the exact date of the sighting. Object kept travelling in the same direction till it was quite far away - it was looking much smaller - and also was covered by cloud.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39122.html](http://www.nuforc.org/webreports/reports/039/S39122.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [469](http://www.nuforc.org/webreports/reports/164/S164564.html)
-- [468](http://www.nuforc.org/webreports/reports/164/S164438.html)
-- [467](http://www.nuforc.org/webreports/reports/164/S164436.html)
-- [466](http://www.nuforc.org/webreports/reports/164/S164437.html)
-- [465](http://www.nuforc.org/webreports/reports/164/S164460.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
