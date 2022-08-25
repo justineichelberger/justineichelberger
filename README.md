@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:46:12 on 25 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:30:05 on 25 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Carnation (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Saucer shaped aircraft with lights going around the rim.  Took off at an angle.I was at a summer camp and my unit was camping out at "Horse Country" in one of the rings. I was very restless and could not sleep.  I had a feeling that something was wrong. As I laid there and tried to sleep I heard a loud buzzing.  t first I thought it was wasps, who live out there, but I realized that the buzzing sounded as if it were coming from the woods. It got louder and louder. Then I saw bright flashes of white light emanating from the woods. The light was so bright I had to shield my eyes. All I saw was flashing.  And as I continued to look I saw a saucer shaped aircraft with multi-colored lights going around the rim.  The body looked to be gold colored.  Then it took off at an angle.  The craft looked quite large from my location.  There was no sound.  It was just silent. After the craft took off everything went back to normal. The light was gone and the buzzing had ceased.((NUFORC Note:  Witness indicates that date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46188.html](http://www.nuforc.org/webreports/reports/046/S46188.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Murray (UT) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Dim white lights, oval/cicle pulsing shape, hundreds bright red small lights.The four of us were sitting outside on my front porch talking, we had been out there for two hours before we all saw something in the sky.  We all went silent because all four of us were trying to figure out if we were seeing things but the object was flying from north to south, when we saw the ufo it appeared to be in the sky above about 4800 south and it flew south and disappeared at about 5900 south.  When we first saw the ufo it was some what of an oval shape and had alot of very small very dim white lights (at least 50 or more).  Then, as it was flying across the sky, dead silent, Right before it disappeared the lights multiplied to probably a few hundred and was about the size of two cars put together and each light was moving and the shape changed to a circle like shape that looked like it was pulsing. I have never seen anything like this and I don't have any idea what it could have been and all four of us saw it…</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112872.html](http://www.nuforc.org/webreports/reports/112/S112872.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [469](http://www.nuforc.org/webreports/reports/164/S164564.html)
-- [468](http://www.nuforc.org/webreports/reports/164/S164438.html)
-- [467](http://www.nuforc.org/webreports/reports/164/S164436.html)
-- [466](http://www.nuforc.org/webreports/reports/164/S164437.html)
-- [465](http://www.nuforc.org/webreports/reports/164/S164460.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
