@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:01:52 on 25 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:43 on 25 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in West Bend (WI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Three friends and I saw a orange triangle shape fade away and disapear twise.	I was riding in my friends car along with two other friends.  We were on our way home when I saw a bright light that, to me, looked like a street light.  But as we drove along the turn, I noticed that it was not a street light.  The light appeared to be going higher then when I first saw it.  The light looked like a triangle with three glowing orange lights.  The object did not have any strobes and did not move in a consistent pattern.  It was approximately 100 feet in the air when I first saw it, and then rose about another 200 or so feet up.  By this time, everyone else in the car saw it as well and we all got out of the car.  Then light then appeared to hover still for a few seconds and then started moving south-east.  We then decided to follow it and it seemed to be moving in circles until we came to a parking lot on top of a hill.	When we got out of the car again we watched it continue south-east and for about ten minuets.  It then appeared to stop moving and was about 3-5 miles away.  It then stopped moving and then faded away to nothing.  After it faded we watched for another five minuets and didn’t see anything.	Then on the way home from my friends, we saw it again about 10 miles west from where it was.  This time, it did not move and instantly faded away without any trails and with out it dropping in height.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58382.html](http://www.nuforc.org/webreports/reports/058/S58382.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Hauppauge (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>bright orange fireball flying westward over long islandBright round orange fireball sighted flying east to west, low flying, then gained height after it passed, high in the sky.  Seemed slower than a plane.  Did not make a sound, headed towards a star in the west and vanished.  Did try to record it with my phone camera, but it did not appear on the video, which was odd.  It was very odd looking.  It was shades of orange, darker, medium and lighter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92139.html](http://www.nuforc.org/webreports/reports/092/S92139.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [469](http://www.nuforc.org/webreports/reports/164/S164564.html)
-- [468](http://www.nuforc.org/webreports/reports/164/S164438.html)
-- [467](http://www.nuforc.org/webreports/reports/164/S164436.html)
-- [466](http://www.nuforc.org/webreports/reports/164/S164437.html)
-- [465](http://www.nuforc.org/webreports/reports/164/S164460.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
