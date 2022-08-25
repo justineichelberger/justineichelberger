@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:33 on 25 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:34 on 25 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Lopez Island (WA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Flashing comet shaped lights in the Western SkyWe saw flashing white lights in the Western sky.  There were several that seemed to flash in sequence, but at various intervals.  They were confined to an area 30 to 40 degrees above the horizon.  The lights were shaped like comets, with the tails to the East.  At times at least two of the lights appeared more intense and green in color.  At first the lights would flash slowly and then progressively more rapidly until they went very fast, then would pause and start over again.  Near the end of the show an occasional light would streak accross the sky.((NUFORC Note:  We suspect that the witness may have been observing the laser-based advertising lights that were reported to the Victoria, B.C., police by many people there.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19270.html](http://www.nuforc.org/webreports/reports/019/S19270.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Sandpoint (ID) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>While traveling north on rapid lightning, my husband, myself and a family friend observed a bright silver disc hovering motionless in the sky above a ridge just east of us.  Distance appeared to be about a mile. The object was less than 100 feet above the ground. The object simply blinked out of existance after a few seconds.  no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05594.html](http://www.nuforc.org/webreports/reports/005/S05594.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [469](http://www.nuforc.org/webreports/reports/164/S164564.html)
-- [468](http://www.nuforc.org/webreports/reports/164/S164438.html)
-- [467](http://www.nuforc.org/webreports/reports/164/S164436.html)
-- [466](http://www.nuforc.org/webreports/reports/164/S164437.html)
-- [465](http://www.nuforc.org/webreports/reports/164/S164460.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
