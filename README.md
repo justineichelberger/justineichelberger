@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:36 on 25 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:49 on 25 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in New London (IA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 108</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148655.html](http://www.nuforc.org/webreports/reports/148/S148655.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Concord (CA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>shooting star-like stops then a rectangular sivery metal ship appears going slow straight 400 ft in the airi was riding my bicycle on the bike path which is parellel with the high school playing fields. the path is about 8-10 feet higher & its a wide open area. i was riding towards walnut creek when out to the right of me i saw out the corner of my eye what seemed to be a shooting star. then i noticed it wasnt headed downward as shooting stars do. it was much brighter & larger going in a straight line. it was up a about 300-400 feet. it looked similar to someone throwing a sparkler by you about 15 feet away. it made low jet like burning noise. then all of a sudden it stopped. then a 3 sec pause of blankness no light nothing then a sivery metal ship appeared going about 30-40 mph, the size of a semi-trailer truck whithout the cab in a straight line. it had 4 orangy round constant lights & was rectangular in shape, it had 4 round shapes like windows across the side & it was cloaking the color of the sky which was blue-ish but the sun wasnt up yet. it had four outer! pads on each corner kinda like the first nasa moon landing ship. on the underside of the pads is where the orange lights were. it did make a low type whiz hovering sound & went straight across the sky. i was in amazement as i realized what i just obsevered & how it changed from 1 stage being star like then turning ship like.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78649.html](http://www.nuforc.org/webreports/reports/078/S78649.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [469](http://www.nuforc.org/webreports/reports/164/S164564.html)
-- [468](http://www.nuforc.org/webreports/reports/164/S164438.html)
-- [467](http://www.nuforc.org/webreports/reports/164/S164436.html)
-- [466](http://www.nuforc.org/webreports/reports/164/S164437.html)
-- [465](http://www.nuforc.org/webreports/reports/164/S164460.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
