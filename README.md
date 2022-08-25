@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:51:54 on 25 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:46:12 on 25 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Loveland (CO) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>saucer or disklike object with white strobe on top and orange, rotating band around circumference.On the night of August 25th, my 14 year old son and I were returning home from football practice.  As we were headed in a northerly direction at approximately 21:30 MT, my son exclaimed, "Hey Dad,what the heck kind of aircraft is that?"  As I looked out the driver side window, I saw exactly what he was puzzled over.  About 1000 feet up, directly over the city was what appeared to be a saucer or disk-shaped craft.  This craft had, what I can best describe as a white, strobe-like light on top. Around it's entire circumference was a rotating orange band which seemed to revolve in a clockwise motion around the object.  What was even more interesting was that this object then turned off the strobe effect and it's rotating orange light.  At this point in time the craft was roughly 300 yards away from our car and we had been viewing it for about 1 minute.  It then appeared to assume the conventional aviation lights of a small plane!  As we turned west to continue the drive home, my son said "Look, that thing is following us!"  It seemed to be keeping a parallel course with the route we were taking.  As we pulled into our driveway, it remained on it's current course and we quickly lost site of view.  The total viewing time of this incident was between 2 and 3 minutes.  I am a computer specialst by trade and my son is a bright, mature, and fairly average teenage kid who dislikes being the center of attention.  The only reason I'm reporting this incident is because we felt it so bizarre and it needed to be archived somewhere.  We live about 5 miles from a small airport and see aircraft in the night sky all the time, but this is the first time I've seen anything close to this......!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13912.html](http://www.nuforc.org/webreports/reports/013/S13912.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Carnation (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Saucer shaped aircraft with lights going around the rim.  Took off at an angle.I was at a summer camp and my unit was camping out at "Horse Country" in one of the rings. I was very restless and could not sleep.  I had a feeling that something was wrong. As I laid there and tried to sleep I heard a loud buzzing.  t first I thought it was wasps, who live out there, but I realized that the buzzing sounded as if it were coming from the woods. It got louder and louder. Then I saw bright flashes of white light emanating from the woods. The light was so bright I had to shield my eyes. All I saw was flashing.  And as I continued to look I saw a saucer shaped aircraft with multi-colored lights going around the rim.  The body looked to be gold colored.  Then it took off at an angle.  The craft looked quite large from my location.  There was no sound.  It was just silent. After the craft took off everything went back to normal. The light was gone and the buzzing had ceased.((NUFORC Note:  Witness indicates that date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46188.html](http://www.nuforc.org/webreports/reports/046/S46188.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [469](http://www.nuforc.org/webreports/reports/164/S164564.html)
-- [468](http://www.nuforc.org/webreports/reports/164/S164438.html)
-- [467](http://www.nuforc.org/webreports/reports/164/S164436.html)
-- [466](http://www.nuforc.org/webreports/reports/164/S164437.html)
-- [465](http://www.nuforc.org/webreports/reports/164/S164460.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
