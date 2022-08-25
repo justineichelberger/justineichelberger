@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:43 on 25 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:37 on 25 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Hauppauge (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>bright orange fireball flying westward over long islandBright round orange fireball sighted flying east to west, low flying, then gained height after it passed, high in the sky.  Seemed slower than a plane.  Did not make a sound, headed towards a star in the west and vanished.  Did try to record it with my phone camera, but it did not appear on the video, which was odd.  It was very odd looking.  It was shades of orange, darker, medium and lighter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92139.html](http://www.nuforc.org/webreports/reports/092/S92139.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Onoway-Gunn (Canada) (AB) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15-20 - 15-20 minutes.</sub><blockquote><sub>UFO sighting from directly under and watched moving in various directions,triangular shaped threelights.Me and my cousin were driving back from gunn alberta when we seen a bright light  towards the town of onoway.  The light suddenly dissapeared. We drove a bit more when we looked upward and we seen two lights one greenish-blue one red.  We got pretty close so we pulled into a back road two miles west of onoway we drove for a bit while keeping an eye on it . We drove until it  was a little to the left of it and it was hovering. There was now a third light which was yellow-orange. The craft was triangular shaped but was square on the corners like so:      __ | R | /        \ _ /            \_ Y      \_ -------------_/   G It sat and hovered there at about 400 meters in the air. It then started to move westward really slowly then it was directly above us.the green and red lights were at the front of the craft. It slowly accelerated and then made an abrupt turn left heading south while the red and yellow lights were facing south so the craft didn't really rotate.it then stopped and hovered for about 15 seconds we then turned my truck around and started to head home.  I live on the other side of the highway from the back road I was on. the Craft started to follow us. We went north towards my house while the craft went northnorthwest we got home and it was still tavelling the same direction.  We got home and could not see it because it was probably behind the trees.  We jumped on the quad and drove into the field we seen it again it was coming straight at us and then stopped and hovered while the only lights we could see was orange and red beccause of the angle it was at. It then dissappeared.  we seen it aways higher and then dissappeared again. it was then higher tan before and had travelled double the distance it had before it this once more and there was like lightning that lit up the sky and the craft was gone.but there was not a cloud in the sky. we could see all the stars Thats about it but I have seen lights similar to this for the past week or two.((NUFORC Note:  The image may have started out OK, but it probably did not survive the changes caused by our 1) e-mail program and 2) database formatting.  We will attempt to get an illustration of the object.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13905.html](http://www.nuforc.org/webreports/reports/013/S13905.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [469](http://www.nuforc.org/webreports/reports/164/S164564.html)
-- [468](http://www.nuforc.org/webreports/reports/164/S164438.html)
-- [467](http://www.nuforc.org/webreports/reports/164/S164436.html)
-- [466](http://www.nuforc.org/webreports/reports/164/S164437.html)
-- [465](http://www.nuforc.org/webreports/reports/164/S164460.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
