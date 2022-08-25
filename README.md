@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:32 on 25 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:37 on 25 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Indianapolis (IN) reported seeing craft that fit the description of some '' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright reddish objectWe were just getting ready to go to bed, when we noticed a bright reddish color object moving towards south west direction. The westerly sky was partly cloudy so the object kept disappearing and again reappearing from behind the cloud. It was definitely moving at least at the speed of a jet plane. I looked at it with my astronomical binoculars. The object was crescent or round shape - the full object was never visible due to cloud. I have seen numerous planes and ballons with this binoculars to know that this object was not like anything I have seen before. Unfortunately I do not remember the exact date of the sighting. Object kept travelling in the same direction till it was quite far away - it was looking much smaller - and also was covered by cloud.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39122.html](http://www.nuforc.org/webreports/reports/039/S39122.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Bellingham (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Triangular blinking object, low on the horizon, north of Bellingham.I recently downloaded an app to my phone which tells us when the International Space Station is going to be traveling over our house, so we (me and two teenage sons) were out on the deck watching the ISS to the west when I noticed this bright, blinking light almost directly to the north.  At first we were certain it was an airplane or a helicopter, and stopped watching it to follow the ISS across the sky.  But after the ISS disappeared, we looked again to the north and this object was still there.  It was about 15-20 degrees off the horizon, and completely stationary for the 30-40 minutes that we watched it.  It appeared to be triangular in shape, and there were at least 3-4 lights blinking erratically - red, green, and blue.  I went inside to get my camera (your basic Canon point-and-shoot) and set it to video mode, and ended up getting a pretty good video of it.  In the video it appears to have multiple lights, of different sizes, and possibly some smaller! lights blinking nearby.  My son has a high-def video camera that we tried to use, too, but we couldn't get a good shot of it.  After watching it for about 15 minutes I went inside and woke up my husband, who is a pilot (and who is very skeptical about UFO's).  He came out and took a look through the binoculars, and watched my video.  After watching for several minutes said he had no idea what it was but was sure it was not a star.((NUFORC Note:  Sighting of Sirius??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83449.html](http://www.nuforc.org/webreports/reports/083/S83449.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [469](http://www.nuforc.org/webreports/reports/164/S164564.html)
-- [468](http://www.nuforc.org/webreports/reports/164/S164438.html)
-- [467](http://www.nuforc.org/webreports/reports/164/S164436.html)
-- [466](http://www.nuforc.org/webreports/reports/164/S164437.html)
-- [465](http://www.nuforc.org/webreports/reports/164/S164460.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
