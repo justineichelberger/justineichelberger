@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:42 on 25 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:36 on 25 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1965, an anonymous witness in Elmira (Canada) (ON) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>In the evening of August 25?/65, I was eleven, my brother, thirteen, and our next door neighbour also thirteen, were assigned to take our dogs out for a walk. I know it was a Sunday evening as the rest of our family were inside watching Ed Sullivan at the time and mom wanted us to get in the habit of coming in early as school was starting soon. In the duration of playing I noticed a funny orange star right beside the full moon. When I looked up again there appeared to be two moons except one was very blood orange in colour. When I caught my brother's attention to look at the other moon this object (within fractions of a second) was hovering over us the size two foot ball feilds. The ground and everything was illuminating an orange colour. My brother said quick go get mom, and within a fraction of a second it vanished.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16661.html](http://www.nuforc.org/webreports/reports/016/S16661.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Bristol (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Circling light in sky over Bristol's Rockwell ParkLight in the sky moved in a tight consistent circle, avoiding leaving cloud cover.  When it had no choice, it seemed to disappear.  Camera phone glitched out taking picture of star and child chalk drawing, and bright white light flashed, turning red.  No shaft of life (as per a spotlight) could be seen.  A friend and I pursued it , and noted the circular pattern was consistent. Always making the rotation in the same time (slower for slow rotations, faster for large).  4 crafts, like from Bradly AFB seemed to be monitoring.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135927.html](http://www.nuforc.org/webreports/reports/135/S135927.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [469](http://www.nuforc.org/webreports/reports/164/S164564.html)
-- [468](http://www.nuforc.org/webreports/reports/164/S164438.html)
-- [467](http://www.nuforc.org/webreports/reports/164/S164436.html)
-- [466](http://www.nuforc.org/webreports/reports/164/S164437.html)
-- [465](http://www.nuforc.org/webreports/reports/164/S164460.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
