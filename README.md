@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:08:43 on 25 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:05:02 on 25 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Pawtucket (RI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I was staring at this bright flickering star in the sky, when from behind the star appeared a slightly smaller brightly lit orb, which floated slightly above the star and then stood still for at least 3 seconds.  Then shot east from the star, going from visibly traveling east to vanishing through thin air.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135905.html](http://www.nuforc.org/webreports/reports/135/S135905.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Hanford (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Brightly colored silent craft moving right over houses and treesI'm retired military.  I live in Hanford, Ca.  I went out to call the cat in and wondered if the moon was viewable.  I walked out to the pool and out of the corner of my left side I saw bright lights very low and slow.  There was no sound.  Bigger than an F-18 smaller than a 747.  It was weird.  The colors were weird. Blue ish purple, red, yellow and white.  I thought I was probably misidentifying a helo or plane but my house was in the middle of the horse shoe path it made.  I don't know what it was but it was very pretty and creepy at the same time like it had thoughts.  Anyway it went from my left neighbors house down to my back neighbor then arced up around my right neighbors house.  Very low and slow no sound.  I ran through to the front of the house and poof it was gone.  Very smooth.In the military, I do have witnesses to other things, but those looked different and I believe I've reported those.  Ok, we'll hope that helps anyone else that saw it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118242.html](http://www.nuforc.org/webreports/reports/118/S118242.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [469](http://www.nuforc.org/webreports/reports/164/S164564.html)
-- [468](http://www.nuforc.org/webreports/reports/164/S164438.html)
-- [467](http://www.nuforc.org/webreports/reports/164/S164436.html)
-- [466](http://www.nuforc.org/webreports/reports/164/S164437.html)
-- [465](http://www.nuforc.org/webreports/reports/164/S164460.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
