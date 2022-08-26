@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:33 on 26 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:40 on 26 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Fort Wayne (IN) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Silver UFO seen up close on U.S. 37My girl friend and I in the same exact area we seen the previous UFO on U.S. 37. We observed another UFO in broad daylight and clear skys. We were traveling up U.S. 37 towards Fort Wayne, Indiana. We were just on the out-skirts of the city. When my girlfriend seen the object and directed my attention to it. The object was flying very low, about 30-35ft from the ground, following the Highway. It was very shiney and metallic like chrome, very reflective. It was about 20ft long and about 15ft wide. It looked almost identical to the UFO shown in the Disney movie, "Flight of the Navigator" only it was smooth over the top and not humped. It appeared to have no seems and had no identifing markings on the outside. It flew completely silent and did not interfere with my Camaro's operation.  It was traveling about 50 MPH as I was able to keep up with it. Their is a military depot close to that area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42925.html](http://www.nuforc.org/webreports/reports/042/S42925.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Granville (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>LED LIGHTS IN CORN FIELD AND WOODSLED flashing lights above corn field with other small flashing LED lights in tree line. Lights above corn were flashing in pattern and bobbing changing from circle to square. LED lights in tree line were flashing different colors and patterns as well as a pulsating rainbow light rod. No houses near by and all is very overgrown and nowhere people would be. Watched for 3 hours. First hour I thought I was on the phone with my husband for the whole hour. Timestamp on call was only 17 minutes.possible loss of time.  Investigated the next day and found the corn to be too high and the wooded area to be too overgrown.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164463.html](http://www.nuforc.org/webreports/reports/164/S164463.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [336](http://www.nuforc.org/webreports/reports/164/S164443.html)
-- [335](http://www.nuforc.org/webreports/reports/164/S164442.html)
-- [334](http://www.nuforc.org/webreports/reports/164/S164459.html)
-- [333](http://www.nuforc.org/webreports/reports/164/S164530.html)
-- [332](http://www.nuforc.org/webreports/reports/164/S164631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
