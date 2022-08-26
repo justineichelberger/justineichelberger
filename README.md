@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:34 on 26 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:50 on 26 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Spring Bank Airport (Canada) (AB) reported seeing craft that fit the description of some 'Egg' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Still following up on this report.Alberta UFO study group.Peter We are a small group in Alberta and I had this report sent to us.I did send it on to Chris Rutkowski of Canufo.What prompted me to write to you is this is similar to the recent one at O'Hare Chicago sighting.3 pilots saw this object and reported it to the tower at Spring Bank airport.I followed this one up and am still trying to get more info.The report I got was from a small A/C waiting to take off as he saw this object about a mile away.The tower reply was that they had nothing on radar.Another A/C coming into land also reported this object.There was another A/C behind the first one that also saw the object.I contacted the airport manager and he contacted the 2 controllers and they said they never saw any thing.Spring bank is a small airport west of Calgary and is used by small A/C only.The color was said to be dark grey/black.The sun would have been setting in the west and the object was observed looking east..The observer said that once airborne he would report back to the tower but after T/O the object had dissapeared.Why the controllers could not see the object is a mystery as they would have had a perfect view of the object.It could have been a weather balloon but then the tower should have had a warning of this and also most of the balloons have radar reflectors on them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54326.html](http://www.nuforc.org/webreports/reports/054/S54326.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Johnson City (NY) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 20 sceonds - 20 sceonds minutes.</sub><blockquote><sub>Silver cigar shaped craft sighted flying over Binghamton, NY, headed towards Chenango bridge/chenango Forks area.Spotted a plane with no wings, long cigar shape, very silver/chrome, headed north east at about 1/4 the speed of an airplane. ran inside to get camcorder and it was gone by the time i returned. any one else seeit?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65461.html](http://www.nuforc.org/webreports/reports/065/S65461.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [336](http://www.nuforc.org/webreports/reports/164/S164443.html)
-- [335](http://www.nuforc.org/webreports/reports/164/S164442.html)
-- [334](http://www.nuforc.org/webreports/reports/164/S164459.html)
-- [333](http://www.nuforc.org/webreports/reports/164/S164530.html)
-- [332](http://www.nuforc.org/webreports/reports/164/S164631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
