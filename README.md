@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:04:40 on 26 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:37 on 26 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Prince Albert (Canada) (SK) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Bluish diamond very fast no soundTwo bluish diamond shapes with what looked like a line between them high and very fast heading nw. Then straight up and gone. Satellite or is station visible floating by in same area of sky about 10 seconds later.((NUFORC Note:  We spoke with the witness, and he reported to us that each of the two objects was approximately 10-20 times the apparent size of the International Space Station.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112951.html](http://www.nuforc.org/webreports/reports/112/S112951.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Portland (ME) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>4 small red disappearing lights in arch formationMy friend and I were out at night visiting the East End Waste Treatment Facility to check out the graffiti done on the wall by some local artists.  At one point around 10:30, we began walking back to the car. I looked up and noticed three dim red lights ascending slowly into the sky, all in line in an arch.  They seemed all very close to the ground.  Neither of us could figure out what they were since they had no white blinking light or noise to show that it was a legitimate aircraft. We watched as the red lights climbed in the sky, and soon a fourth appeared.  The first red light in line suddenly flickered and disappeared into the sky, followed soon thereafter by the second, third, and fourth. The altitude of the lights were estimated to be around 1,000 feet or so. We waiting outside the car until nearly 11:00 at night and seeing nothing else, left.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83471.html](http://www.nuforc.org/webreports/reports/083/S83471.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [336](http://www.nuforc.org/webreports/reports/164/S164443.html)
-- [335](http://www.nuforc.org/webreports/reports/164/S164442.html)
-- [334](http://www.nuforc.org/webreports/reports/164/S164459.html)
-- [333](http://www.nuforc.org/webreports/reports/164/S164530.html)
-- [332](http://www.nuforc.org/webreports/reports/164/S164631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
