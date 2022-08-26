@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:36 on 26 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:11:37 on 26 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Red light in the sky, hovering no motion in any direction.  Blinked white light and them seemed to grow brighter and explode.At the beach at Crown Point by Sea World in San Diego.  Teenager pointed out red light stationary in the sky directly over us. Aircraft were taking off from Lindbergh so we knew this was stationary not a moving aircraft.  This was not a Helicopter, We flashed our flash light at the red light.  It responded back with a white blink which left a halo effect of white light with the red light in the middle. The white light went out and then flashed again without any further blink  from our flash light.  The white light then appeared to grow and it seemed as though the object exploded. I read the UFO sighting from San Diego Search and Rescue from July.  This episode seems to be a mirror image of what was reported at that time. We tried to determine if this was a Laser being fired from one of the local military installations but could not ascertain any other light beams.  This was a single red light without any other objects near it.((NUFORC Note:  We have received several similar reports from the San Diego area.  The first recent sighting of a red light in that city was reported on July 25th, and it was covered by the local television news.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13920.html](http://www.nuforc.org/webreports/reports/013/S13920.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1954, an anonymous witness in Ferndown-Bournemouth (UK/Wales) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>U F O Hovering over Ferndown in Bournemouth 1954 EnglandWalking down a farm lane late in the afternoon, we must have sensed something above us, we looked up and there was this Discus shaped object above us no more than 200 metres. It just hovered over us for what seemed to be quite sometime. The outer edge of the disc has round windows all the way round, then suddenly, silently, shot straight up into the sky never to be seen again. It was almost like it had some sort of anti-gravity system. Sorry, that's all I can tell you with it being so long ago. Perhaps you may have other records around the same time.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92985.html](http://www.nuforc.org/webreports/reports/092/S92985.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [336](http://www.nuforc.org/webreports/reports/164/S164443.html)
-- [335](http://www.nuforc.org/webreports/reports/164/S164442.html)
-- [334](http://www.nuforc.org/webreports/reports/164/S164459.html)
-- [333](http://www.nuforc.org/webreports/reports/164/S164530.html)
-- [332](http://www.nuforc.org/webreports/reports/164/S164631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
