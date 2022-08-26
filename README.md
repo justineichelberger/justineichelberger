@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:37 on 26 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:32 on 26 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Portland (ME) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>4 small red disappearing lights in arch formationMy friend and I were out at night visiting the East End Waste Treatment Facility to check out the graffiti done on the wall by some local artists.  At one point around 10:30, we began walking back to the car. I looked up and noticed three dim red lights ascending slowly into the sky, all in line in an arch.  They seemed all very close to the ground.  Neither of us could figure out what they were since they had no white blinking light or noise to show that it was a legitimate aircraft. We watched as the red lights climbed in the sky, and soon a fourth appeared.  The first red light in line suddenly flickered and disappeared into the sky, followed soon thereafter by the second, third, and fourth. The altitude of the lights were estimated to be around 1,000 feet or so. We waiting outside the car until nearly 11:00 at night and seeing nothing else, left.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83471.html](http://www.nuforc.org/webreports/reports/083/S83471.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Downers Grove (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two bright lights in sky that almost hit then turned and went in various directions at high rate of speed.At about 8:30 Thus 8/26/10 my wife and I witnessed two bright white lights.  One was coming from the south toward the road we were traveling on.  The other came from the north. Initally I thought it was two planes and I told my wife that they are going fast toward one another and they were going to hit. They came very close in front of us down the road (up in the sky) and almost hit...then the one that came from the north turned and headed due west at a high rate of speed.  The other light stopped and turned and headed south at a high rate of speed.  The lights were circular a bright blue/white twice the size of a planet in the night sky.  I know these were not planes or helicopters.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77437.html](http://www.nuforc.org/webreports/reports/077/S77437.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [336](http://www.nuforc.org/webreports/reports/164/S164443.html)
-- [335](http://www.nuforc.org/webreports/reports/164/S164442.html)
-- [334](http://www.nuforc.org/webreports/reports/164/S164459.html)
-- [333](http://www.nuforc.org/webreports/reports/164/S164530.html)
-- [332](http://www.nuforc.org/webreports/reports/164/S164631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
