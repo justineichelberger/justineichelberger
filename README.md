@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:53:45 on 26 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:50:59 on 26 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in South Negev Desert (Israel) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>On Google Earth N29°46'6.28" by E34°58'40". White sphere about 120' across, shadow below it.On August 26, 2010, at about 11:00 I was looking for a map of a place where I found an artifact in Israel back in 1982.I was searching the south Negev Desert on Google Earth, and at the coordinates  North 29°46’6.28” and East 34°58’40” I found a white sphere about 120’ across, several hundred to thousands of feet in the air. The object appeared white, spherical, and has a distinct shadow below it.I would very much appreciate someone going to those coordinates on Google Earth and telling me what they think this object is. Thanks.PS Having trouble sending image.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77432.html](http://www.nuforc.org/webreports/reports/077/S77432.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Black object was moving slowly across the sky and did not look or move like anything I had seen in the sky beforeWhile watching the "Birds of Flight" show at Disney World on August 26, 2015, I noticed a black object hovering in the sky.  The object was moving slowly across the sky and did not look or move like anything I had seen in the sky before.  It was taller than it was wide and did not display any distinct symbols.After watching it for about 30 seconds to a minute I was unable to indentify what it was but am certain it was not a plane.  It appeared to be either below the clouds or at cloud level because at one point a cloud passed behind it.Based on it movement it was maybe moving as fast as a hot air balloon does in the sky. It's speed or direction did not change while I was watching and I lost interest. I did look up a couple times after my initial siting to confirm what I had saw and the object was still there.  I did not however see what happened to the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121561.html](http://www.nuforc.org/webreports/reports/121/S121561.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [336](http://www.nuforc.org/webreports/reports/164/S164443.html)
-- [335](http://www.nuforc.org/webreports/reports/164/S164442.html)
-- [334](http://www.nuforc.org/webreports/reports/164/S164459.html)
-- [333](http://www.nuforc.org/webreports/reports/164/S164530.html)
-- [332](http://www.nuforc.org/webreports/reports/164/S164631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
