@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:11:37 on 26 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:39 on 26 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1954, an anonymous witness in Ferndown-Bournemouth (UK/Wales) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>U F O Hovering over Ferndown in Bournemouth 1954 EnglandWalking down a farm lane late in the afternoon, we must have sensed something above us, we looked up and there was this Discus shaped object above us no more than 200 metres. It just hovered over us for what seemed to be quite sometime. The outer edge of the disc has round windows all the way round, then suddenly, silently, shot straight up into the sky never to be seen again. It was almost like it had some sort of anti-gravity system. Sorry, that's all I can tell you with it being so long ago. Perhaps you may have other records around the same time.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92985.html](http://www.nuforc.org/webreports/reports/092/S92985.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Rochester (NY) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>12 to 15 points of light in formation of 2 triangle shapes, 2 loose ones on the left  very fast heading northAugust 26, 2008 UFO possibly sighted at 21:15 hours over Rochester New York.A double formation of 5 to 7, with a couple on outside of the 2 diamond shaped formations.Very high like star points of light, traveling north my vantagepoint put them traveling past the big Dipper.Only visible for about 5 seconds before lost in the horizon.To high for birds, to fast for jets.Question has this formation been seen by any others this day 26 of Aug. 08?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65413.html](http://www.nuforc.org/webreports/reports/065/S65413.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [336](http://www.nuforc.org/webreports/reports/164/S164443.html)
-- [335](http://www.nuforc.org/webreports/reports/164/S164442.html)
-- [334](http://www.nuforc.org/webreports/reports/164/S164459.html)
-- [333](http://www.nuforc.org/webreports/reports/164/S164530.html)
-- [332](http://www.nuforc.org/webreports/reports/164/S164631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
