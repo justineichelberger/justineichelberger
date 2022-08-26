@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:06:00 on 26 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:35 on 26 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Westmoreland (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>two orange/red glowing balls of light. hardly moving, if moving at all.Two reddish orange glowing balls of light flying next to each other hardly moving.  I thought they were small airplanes at first, then maybe a couple uav/ drones.  But there was no body of an air craft.  Then I thought maybe Chineese lanterns, but ice seen them before and these were not them. They flikered red and orange.  A really vibrant red and a bright glowing orange color. I was driving so it was hard to really stare and there was no where to pull over.  When i finally did, i couldnt find them.  I have clear video of these objects, however the colors don't show.  I don't mind being contacted.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112948.html](http://www.nuforc.org/webreports/reports/112/S112948.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Holland (MI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>Me and two other people where standing outside in our apartment complex parking lot when about 50 or so away we see this bright object. At first we thought it was a plane being it's cloudy and we live about a mile away from an airport. We witness the object staying in one spot, then it took off east and it went north into the atmosphere. It took less than a second to got about 1/4 a mile and out of site. No noise was heared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  Possible hoax?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58397.html](http://www.nuforc.org/webreports/reports/058/S58397.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [336](http://www.nuforc.org/webreports/reports/164/S164443.html)
-- [335](http://www.nuforc.org/webreports/reports/164/S164442.html)
-- [334](http://www.nuforc.org/webreports/reports/164/S164459.html)
-- [333](http://www.nuforc.org/webreports/reports/164/S164530.html)
-- [332](http://www.nuforc.org/webreports/reports/164/S164631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
