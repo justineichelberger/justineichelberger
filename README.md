@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:27:23 on 26 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:13:03 on 26 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Terre Haute (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>A HUGE LIGHT THAT WAS MOVING - THEN IN A SEC WENT DIM LIKE A STAR STILL MOVINGI WAS OUTSIDE IN THE HOT TOB AND LOOKIN AT THE STARS WHEN OUT OF THE CORNER OF MY EYE THERE WAS A BRIGHT LIGHT, WHEN I LOOKED TO SEE, IT FLASHED/PULSATED AND WENT DIM AS A STAR AND KEPT FLIGHING TILL THE TREE BLOCKED MY VIEW. THE BRIGHT LIGHT WAS TOO BIG TO BE ANYTHING OF OURS (PLANES OR ANYTHING OF THE SORT). I CAN'T EXPLAIN WHAT I SAW, OTHER THAN AS A UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38925.html](http://www.nuforc.org/webreports/reports/038/S38925.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lansing (MI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3 lights in a triangle - 3 lights in a triangle minutes.</sub><blockquote><sub>Three lights forming a triangle, appeared after the hospital helicopter took off from the roof and headed south east.I remember it like it was yesterday. I was working in the parking ramp booth, when suddenly I heard the helicopter overhead.  I a lways like to watch it take off from the roof and fly either west to a hospital in Grand Rapids, MI, or south east, to a hospital in Ann Arbor, MI.  This time, I didn't catch it in time to watch it fly from the roof. Instead, I quickly poked my head out the sliding glass window, and watched as it flew over my booth, heading south east, to Ann Arbor, MI.  However, once I looked to the immediate south, I noticed three bright lights, or orbs, forming a perfect triangle.  This triangle appeared to be watching either me, or the helicopter.  Once the helicopter flew so far, that it was hardly visible, the triangle of lights, one by one, disappeared.  This all happened on a bright sunny summer day.I have always wanted to report this, but never had the time to . Today, I stumbled upon this site, so I said, "why not do it tonight".I can draw you a map, as well as an illustration of the objects, then send them via email.I so wanted to take a picture with me cell phone, but every time I tried, another car would pull up to pay for parking.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155658.html](http://www.nuforc.org/webreports/reports/155/S155658.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [336](http://www.nuforc.org/webreports/reports/164/S164443.html)
-- [335](http://www.nuforc.org/webreports/reports/164/S164442.html)
-- [334](http://www.nuforc.org/webreports/reports/164/S164459.html)
-- [333](http://www.nuforc.org/webreports/reports/164/S164530.html)
-- [332](http://www.nuforc.org/webreports/reports/164/S164631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
