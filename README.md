@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:43 on 26 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:34 on 26 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Lake View area (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>UFO sighting on Hwy 140 entering Oregon.I saw a UFO last night.  It was really quiet and it was very close to me.  I was in the middle of nowhere.  Between Nevada and Oregon.  I turned the car off the look at the stars.  It had 3 points of energy output and was a warm flare looking color.  It was definitely and triangle shape and something that was strange was it seemed to disappear and reaper as if it was going behind something in the sky. I wasn't in the mood to get abducted so I got the hell out of there :)((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112945.html](http://www.nuforc.org/webreports/reports/112/S112945.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Greenish Diamond shaped object with five smaller orbs in formation, daytime.I was waiting for my wife today in our yard, and I looked up into a crystal blue sky and saw what appeared to be a star in the sky.  I was wearing polarized sunglasses and this object was not visible to the naked eye. There were several jet aircraft in the sky at the same time, but this object was much higher up, I thought it might have been the international space station or something. I went and grabbed my binoculars and I was astounded to see a greenish glowing diamond shaped object, which had five orbs in a formation heading from the north to the southeast. For a second I thought it was a balloon or something, but this object was diamond shaped and had a glowing greenish hue, and had to be near sub orbital, and left no contrails to be a jet plane. I observed these objects for about ten to fifteen minutes, I showed my wife and her mom and a family friend and they were astounded. The five orbs seemed to be out in front of the greenish diamond object in a perfect formation pattern; their size was much more diminished compared to the greenish object. I didn't even notice them at first and spotted them after watching the Diamond shaped object. I must emphasize that these objects could not be seen with the naked eye, and if I did not have my sunglasses on, I would not have even seen the intial object. I searched the sky to make sure I was not in fact seeing stars, but no other objects similar to it could be seen in the crystal blue sky’s background. After sometime of viewing them, about only fifteen minutes the objects I was observing simply vanished.  I live on the North side of Chicago and see Aircraft on approach to O’Hare international every day, but these objects had to be 50’000 feet or so, and the greenish Diamond object had to be quite large as it appeared to me to be a star.((FOLLOW-UP FROM SAME WITNESS))follow upI contacted the flight service station and for my report they told me the following  45 thousand feet winds were at 290@33 53 thousand feet winds were at 300@16  I saw the formation moving from the North to the Southeast.((END))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58392.html](http://www.nuforc.org/webreports/reports/058/S58392.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [336](http://www.nuforc.org/webreports/reports/164/S164443.html)
-- [335](http://www.nuforc.org/webreports/reports/164/S164442.html)
-- [334](http://www.nuforc.org/webreports/reports/164/S164459.html)
-- [333](http://www.nuforc.org/webreports/reports/164/S164530.html)
-- [332](http://www.nuforc.org/webreports/reports/164/S164631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
