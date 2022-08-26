@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:42 on 26 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:36 on 26 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Redwood City (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>8/26/2006 2200 HOURS THREE UFO"S OVER SANTA CRUZ MOUNTAINS.2200.IT WAS A CLEAR NIGHT, I WAS WATCHING THE PLANES FLY THREW THE SKY FROM MY BALCONY. I NOTICED THAT WHAT I THOUGHT WAS A PLANE WAS HOOVERING OVER THE SANTA CRUZ MOUNTAINS.IT APPEARED TO BE SQUARE THEN THE LIGHTS STARTED. BLINKING WHITE ,RED, WHITE, RED. THE TWO RED ON TOP AND THE TWO WHITE ON THE BOTTOM, LIKE A SQUARE. AT THAT POINT I CALLED MY BROTHER WHO SAW THE SAME THING.WE THEN SAW THE CRAFT START FLASHING RAPID COLORS,RED,GREEN, BLUE,ORANGE,YELLOW.THIS WAS VERY STRANGE BECAUSE A.) YOU COULD SEE IT WITH THE NAKED EYE AND THE LIGHTS STARTED TAKING SHAPES. OBLONG,ROUND,SQUIGGLEY. MY BROTHER WAS LOOKING THROUGH THR BINOCULAR'S AND SEND "OH MY GOD" THERE ARE TWO MORE ON EITHER SIDE OF HIM. THEY WERE MUCH SMALLER BUT ALSO USING COLORS.THEN I SAW A LARGE BEACON OF LIGHT THAT LOOKED TO BE COMMING FROM MOFFAT AIR FORCE BASE. THE UFOS STARTED FLASHING FASTER AND FASTER.THE TWO SMALLER ONES FLEW ABOVE THE LARGE ONE MAKING A PERFECT TRIANGLE.THERE WAS MORE COLORED LIGHTS FLASHING FROM ALL THREE.THEN THE TWO SMALL ONES JUST DISSAPPEARED. THE LARGE ONE STOPPED ALL THE COLOR FLASHES.THEN THERE WERE TWO BRIGHT FLASHES  AND THE CRAFT WAS GONE. THE INTERESTING THING ABOUT THIS ALSO WAS THAT THERE WAS NOT ONE PLANE IN SIGHT THE WHOLE THIRTY MINUTES. THIS FLIGHT PATH IS ONE OF THE BUSIEST FOR SFO AIRPORT. THERE ARE USUALLY THREE TO FOUR PLANES IN THE AIR AT ONE TIME FOR AT LEAST THREE HOURS. PLANES WERE ALL OVER THE SKY. THESE THINGS SHOW UP AND KNOW PLANES ANYWHERE.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52197.html](http://www.nuforc.org/webreports/reports/052/S52197.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Red light in the sky, hovering no motion in any direction.  Blinked white light and them seemed to grow brighter and explode.At the beach at Crown Point by Sea World in San Diego.  Teenager pointed out red light stationary in the sky directly over us. Aircraft were taking off from Lindbergh so we knew this was stationary not a moving aircraft.  This was not a Helicopter, We flashed our flash light at the red light.  It responded back with a white blink which left a halo effect of white light with the red light in the middle. The white light went out and then flashed again without any further blink  from our flash light.  The white light then appeared to grow and it seemed as though the object exploded. I read the UFO sighting from San Diego Search and Rescue from July.  This episode seems to be a mirror image of what was reported at that time. We tried to determine if this was a Laser being fired from one of the local military installations but could not ascertain any other light beams.  This was a single red light without any other objects near it.((NUFORC Note:  We have received several similar reports from the San Diego area.  The first recent sighting of a red light in that city was reported on July 25th, and it was covered by the local television news.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13920.html](http://www.nuforc.org/webreports/reports/013/S13920.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [336](http://www.nuforc.org/webreports/reports/164/S164443.html)
-- [335](http://www.nuforc.org/webreports/reports/164/S164442.html)
-- [334](http://www.nuforc.org/webreports/reports/164/S164459.html)
-- [333](http://www.nuforc.org/webreports/reports/164/S164530.html)
-- [332](http://www.nuforc.org/webreports/reports/164/S164631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
