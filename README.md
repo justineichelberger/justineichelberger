@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:13:03 on 26 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:06:00 on 26 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lansing (MI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3 lights in a triangle - 3 lights in a triangle minutes.</sub><blockquote><sub>Three lights forming a triangle, appeared after the hospital helicopter took off from the roof and headed south east.I remember it like it was yesterday. I was working in the parking ramp booth, when suddenly I heard the helicopter overhead.  I a lways like to watch it take off from the roof and fly either west to a hospital in Grand Rapids, MI, or south east, to a hospital in Ann Arbor, MI.  This time, I didn't catch it in time to watch it fly from the roof. Instead, I quickly poked my head out the sliding glass window, and watched as it flew over my booth, heading south east, to Ann Arbor, MI.  However, once I looked to the immediate south, I noticed three bright lights, or orbs, forming a perfect triangle.  This triangle appeared to be watching either me, or the helicopter.  Once the helicopter flew so far, that it was hardly visible, the triangle of lights, one by one, disappeared.  This all happened on a bright sunny summer day.I have always wanted to report this, but never had the time to . Today, I stumbled upon this site, so I said, "why not do it tonight".I can draw you a map, as well as an illustration of the objects, then send them via email.I so wanted to take a picture with me cell phone, but every time I tried, another car would pull up to pay for parking.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155658.html](http://www.nuforc.org/webreports/reports/155/S155658.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Westmoreland (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>two orange/red glowing balls of light. hardly moving, if moving at all.Two reddish orange glowing balls of light flying next to each other hardly moving.  I thought they were small airplanes at first, then maybe a couple uav/ drones.  But there was no body of an air craft.  Then I thought maybe Chineese lanterns, but ice seen them before and these were not them. They flikered red and orange.  A really vibrant red and a bright glowing orange color. I was driving so it was hard to really stare and there was no where to pull over.  When i finally did, i couldnt find them.  I have clear video of these objects, however the colors don't show.  I don't mind being contacted.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112948.html](http://www.nuforc.org/webreports/reports/112/S112948.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [336](http://www.nuforc.org/webreports/reports/164/S164443.html)
-- [335](http://www.nuforc.org/webreports/reports/164/S164442.html)
-- [334](http://www.nuforc.org/webreports/reports/164/S164459.html)
-- [333](http://www.nuforc.org/webreports/reports/164/S164530.html)
-- [332](http://www.nuforc.org/webreports/reports/164/S164631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
