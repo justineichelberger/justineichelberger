@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:52 on 26 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:53:45 on 26 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Flagler (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>A bright light appeared out of a black sky over the ocean then turned orange and dimmed out.I was driving north on A1A near the Flagler peir. I could see a clear view of the Ocean with two shrimp boats off shore. To the south about 11 miles behind me were several strikes of heat lightning. I could only see flashes of the lightning from my rear view mirror. Above me was a dark sky with some stars visable. I was glancing up at the sky while also driving when a light appeared out of the dark sky like someone turned on a switch. I did not think much of it at first believing it was just a plane at first, but and light was stationary. So my next thought was it was a helicopter, but, the light turned from white to orange. It looked like the end of a cigarette when someone inhales off it. It had a bright glow and slowly dimmed to nothing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38928.html](http://www.nuforc.org/webreports/reports/038/S38928.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in South Negev Desert (Israel) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>On Google Earth N29°46'6.28" by E34°58'40". White sphere about 120' across, shadow below it.On August 26, 2010, at about 11:00 I was looking for a map of a place where I found an artifact in Israel back in 1982.I was searching the south Negev Desert on Google Earth, and at the coordinates  North 29°46’6.28” and East 34°58’40” I found a white sphere about 120’ across, several hundred to thousands of feet in the air. The object appeared white, spherical, and has a distinct shadow below it.I would very much appreciate someone going to those coordinates on Google Earth and telling me what they think this object is. Thanks.PS Having trouble sending image.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77432.html](http://www.nuforc.org/webreports/reports/077/S77432.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [336](http://www.nuforc.org/webreports/reports/164/S164443.html)
-- [335](http://www.nuforc.org/webreports/reports/164/S164442.html)
-- [334](http://www.nuforc.org/webreports/reports/164/S164459.html)
-- [333](http://www.nuforc.org/webreports/reports/164/S164530.html)
-- [332](http://www.nuforc.org/webreports/reports/164/S164631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
