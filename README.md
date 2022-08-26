@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:39 on 26 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:43 on 26 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Rochester (NY) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>12 to 15 points of light in formation of 2 triangle shapes, 2 loose ones on the left  very fast heading northAugust 26, 2008 UFO possibly sighted at 21:15 hours over Rochester New York.A double formation of 5 to 7, with a couple on outside of the 2 diamond shaped formations.Very high like star points of light, traveling north my vantagepoint put them traveling past the big Dipper.Only visible for about 5 seconds before lost in the horizon.To high for birds, to fast for jets.Question has this formation been seen by any others this day 26 of Aug. 08?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65413.html](http://www.nuforc.org/webreports/reports/065/S65413.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Lake View area (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>UFO sighting on Hwy 140 entering Oregon.I saw a UFO last night.  It was really quiet and it was very close to me.  I was in the middle of nowhere.  Between Nevada and Oregon.  I turned the car off the look at the stars.  It had 3 points of energy output and was a warm flare looking color.  It was definitely and triangle shape and something that was strange was it seemed to disappear and reaper as if it was going behind something in the sky. I wasn't in the mood to get abducted so I got the hell out of there :)((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112945.html](http://www.nuforc.org/webreports/reports/112/S112945.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [336](http://www.nuforc.org/webreports/reports/164/S164443.html)
-- [335](http://www.nuforc.org/webreports/reports/164/S164442.html)
-- [334](http://www.nuforc.org/webreports/reports/164/S164459.html)
-- [333](http://www.nuforc.org/webreports/reports/164/S164530.html)
-- [332](http://www.nuforc.org/webreports/reports/164/S164631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
