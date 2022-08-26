@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:40 on 26 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:40 on 26 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Granville (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>LED LIGHTS IN CORN FIELD AND WOODSLED flashing lights above corn field with other small flashing LED lights in tree line. Lights above corn were flashing in pattern and bobbing changing from circle to square. LED lights in tree line were flashing different colors and patterns as well as a pulsating rainbow light rod. No houses near by and all is very overgrown and nowhere people would be. Watched for 3 hours. First hour I thought I was on the phone with my husband for the whole hour. Timestamp on call was only 17 minutes.possible loss of time.  Investigated the next day and found the corn to be too high and the wooded area to be too overgrown.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164463.html](http://www.nuforc.org/webreports/reports/164/S164463.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Deatsville (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Star like object traveling at super extreme speed covering most of the night sky, with a 2 second spotlight burst halfway in flight .Roughly about 8:30 pm CST, myself and my daughter were outside.  As I looked to the north, northwest and noticed the big dipper, I told my daughter about seeing the big dipper in that direction.  At that time, I observed a steady light, which appeared to be a star.  The star was stationary.  While observing the Big Dipper, this particular star started moving.  The star like object had no flashing lights and stayed luminescent the entire time myself and my daughter were observing it.  As i continued to watch, it seemed to move faster.  The lit object was traveling in an east, southeast direction.  There was no noise associated with this object. Myself and my daughter continued watching this object in flight.  In my opinion, and i have seen thousands of planes at night and the speed in which they move....this object traveled at a speed unknown to my eyes and probably 8 to 10 times faster than anything we have in our current military.  I could not guess the altitude in which the object was traveling.  But, it did appear at what some would call a possible normal cruising altitude for a commercial airliner.  As the object traveled about halfway across the sky, all of a sudden it emitted the brightest, most concentrated light i have ever seen in the sky, brighter than any full moon.  The light started as a concentrated beam, then it was as if it gazed directly down on my daughter and myself, then aimed away and off in roughly about 2 seconds.  The object then traveled on in an easterly, southeast direction.  It crossed the majority of the sky that I can see from my house in roughly a 15 second time frame.  The angle of travel I would guess, would be about 160 degrees to 170 degrees.  Almost a straight line from the North-Northwest, to the South-Southwest.  And I live next to a wide open field and can see the majority of the night sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112920.html](http://www.nuforc.org/webreports/reports/112/S112920.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [336](http://www.nuforc.org/webreports/reports/164/S164443.html)
-- [335](http://www.nuforc.org/webreports/reports/164/S164442.html)
-- [334](http://www.nuforc.org/webreports/reports/164/S164459.html)
-- [333](http://www.nuforc.org/webreports/reports/164/S164530.html)
-- [332](http://www.nuforc.org/webreports/reports/164/S164631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
