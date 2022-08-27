@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:30 on 27 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:02:55 on 27 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Palm Harbor (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Two orange lights on each end.Equally compared to the elevation and speed that a helicopter flies.There was absolutely no audible sound.It appeared invisible although it blocked out some stars as it traveled southward.There were 2 orange lights. One on each end. The lights were small and dimly lit.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150031.html](http://www.nuforc.org/webreports/reports/150/S150031.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Cadillac (MI) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately don't know - don't know minutes.</sub><blockquote><sub>I saw a rectangular, silver, shiney object in the sky, & I thought it was a plane, but it made no noise & it didn't have a vapor trail.I'm investigating a UFO siting for a newspaper. I'd like to get your expert opinion on whether or not this is an actual UFO or if this is a hoax.Here's the information I received from my interviewee: The sky was pretty bright blue at about 8:30 p.m. on Aug. 27, 2007, in Cadillac, Mich.At first I thought it was a plane, but the object was not making any noise and it did not leave a vapor trail behind it like the other planes I've photographed before. Then I thought it was a blimp, but there wasn't a platform below the body of the object for people to stand on. The object's shape is rectangular, and the color is very silver and shiny. I went inside to tell my family to come look at the object, but when I came back out (10 seconds later), the object had propelled out of sight -- or, at least, it was not near the same area as my first sighting.What do you think it is? I'm e-mailing a photo to the address listed at the bottom of this site. Please contact me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58692.html](http://www.nuforc.org/webreports/reports/058/S58692.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/164/S164624.html)
-- [373](http://www.nuforc.org/webreports/reports/164/S164637.html)
-- [372](http://www.nuforc.org/webreports/reports/164/S164447.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164455.html)
-- [370](http://www.nuforc.org/webreports/reports/159/S159027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
