@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:36 on 27 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:32 on 27 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Winterset (IA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>The Closest thing anyone will ever come to a actual real life encounter.It was at about 11:30 pm on the 26th of august and i was out for a nightly stroll and on my way back home, i looked up in the sky and there were what appeared to be one saucer-disk shaped object about as big as anything that i have ever seen, and it made no noise what so ever, just looked like it was attached by a string, the next surprise was there were 2 more just like it and they made no noise and no lights were visible on those not till they got to where i could actually see them, and the lights seem to change colors from red, to white, and then a off green color, I remembered something from a movie (Close Encounters Of The 3rd Kind) and i made several movements with my hands and they seemed to respond back to me, then it got really wierd, while my focus was on the other 2, i felt like there was something behind me, so i turned around, and there was a small creature, hard to really describe but, it was about 3 1/2- 4 feet tall, a pear shaped head, huge eyes, and completley, gray colored, no visible mouth, it seemed to me communicating with me via telepahy.  the little being and i were sending message back and forth for about 5 min or so, i mean it seems longer, and it said, and i say it cause there were no visible sexual organs, the creature said that they were not hear to harm us and they are just here, to view and observe us, the being also said that the roswell incident that had everyone talking about actually did happen and they way to prove it is to go to Roswell, and there is an abandoned underground room, that is where they had kept the flying disk since 1947, i tried to ask the creature how it knows all of this and the responce that i got was they have been trying to get their ships, back and they have quietly looking in on area 51 since the time of the wreck in July of 1947.  So with all of that the being told me it turned and went quietly back to the ship and the 3 took off but not before a goodbye light show.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52176.html](http://www.nuforc.org/webreports/reports/052/S52176.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Davison (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Scalene triangles over Davison MIThe ufo we saw looked like 3 "stars" flying North East in a scalene triangle formation.  It was flying in a straight line parallell to the triangles longest side.  We then saw another bright moving star heading south.  It flashed liked a camera then disappeared.((NUFORC Note:  The three objects flying in triangular formation may have been what are thought to be U. S. Navy "NOSS" satellites.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30956.html](http://www.nuforc.org/webreports/reports/030/S30956.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/164/S164624.html)
-- [373](http://www.nuforc.org/webreports/reports/164/S164637.html)
-- [372](http://www.nuforc.org/webreports/reports/164/S164447.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164455.html)
-- [370](http://www.nuforc.org/webreports/reports/159/S159027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
