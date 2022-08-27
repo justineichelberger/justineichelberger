@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:37 on 27 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:09:05 on 27 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Hyannis (MA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Again the orange orb appeared; sighting number two.I attempted to file a report several days ago when my brother and stepfather witnessed an unusual orange sphere near our home in Hyannis on the 20th of August.  For some reason, maybe because I didn't witness it personally or because I used names it wasn't posted.  That said, last night my brother and I again were hanging out at night at my property on Ocean St. in Hyannis.  At approximately 10:30 pm I look up and right there in front of us, maybe 200 feet away is an orange orb hovering absolutely still.  I grabbed my cell phone and took a very short video approximately 3 seconds (I inadvertently turned it off) the object seemed to move just when I pointed it out while carrying on like a fool.  I was shocked.  The orb changed shape, started bouncing around, and then seem to spiral or barrel roll away and then poof... it was gone. The weather was excellent with a west-southwest breeze of approximately 10-15mph, the visibility was very good.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112981.html](http://www.nuforc.org/webreports/reports/112/S112981.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Comox (Canada) (BC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>bright lime green light streaked across the sky at night.i was lying in bed last night when a silent bright lime green light catches my eye through the window, i had no idea what i was seeing. as i jumped out of bed and took three strides towards the window i watched it streak across the sky and dissapear inbehind a forest that is north of our house. this light was traveling by my judgement at about MOCH 1 or MOCH 2.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52210.html](http://www.nuforc.org/webreports/reports/052/S52210.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/164/S164624.html)
-- [373](http://www.nuforc.org/webreports/reports/164/S164637.html)
-- [372](http://www.nuforc.org/webreports/reports/164/S164447.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164455.html)
-- [370](http://www.nuforc.org/webreports/reports/159/S159027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
