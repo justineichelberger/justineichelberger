@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:43 on 27 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:29:06 on 27 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Timmins (near) (Canada) (ON) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>saw a red orange object with red orange and blue trailer flame behind it</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92214.html](http://www.nuforc.org/webreports/reports/092/S92214.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Woodinville (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>A white color circle light flying low to the ground with a black circle in the middle of the white oneI was sitting on my coutch and my dad had just walked in from getting some food to sit on a chair to the right of me and i looked up at him and when i did so i saw a Single Perfectly Circuliar disk flying 25-70 feet above tree line threw my skylight for a single second and i couldent belive that i had seen that.To immagin what i had just seen,  Look at a CD and from the outside of the CD put ur finger 1 1/2 inches on it and immagine that with a event ammount of light all the way around it was not a very bright light but like a normal bedroom white colored light but a bit brighter with pitch black in the middle of what i could see. Flying at a Fairly quick speed with no sound i heard. i could hardly belive that that had just happend i was speechless.((NUFORC Note:  Original date was flawed.  Correct date is August 27, not December 27, 2009.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71902.html](http://www.nuforc.org/webreports/reports/071/S71902.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/164/S164624.html)
-- [373](http://www.nuforc.org/webreports/reports/164/S164637.html)
-- [372](http://www.nuforc.org/webreports/reports/164/S164447.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164455.html)
-- [370](http://www.nuforc.org/webreports/reports/159/S159027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
