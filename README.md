@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:38 on 26 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:43 on 27 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Springdale (AR) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>On August 26, 2010, while driving by Arvest Ball Park with a friend, I saw what looked like a huge airliner just sitting in midair.  Upon closer observation, I realized there were no wings and no tail on this object.  It was 1.5 times longer than an airplane.  There were no windows and it was silver with a curved white streak down the middle and was overall cigar shaped.I saw this thing for about 45 seconds to a minute.   As we passed a tree, we momentarily lost sight of the craft.  After we passed the tree, the thing had vanished</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77595.html](http://www.nuforc.org/webreports/reports/077/S77595.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Timmins (near) (Canada) (ON) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>saw a red orange object with red orange and blue trailer flame behind it</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92214.html](http://www.nuforc.org/webreports/reports/092/S92214.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [336](http://www.nuforc.org/webreports/reports/164/S164443.html)
-- [335](http://www.nuforc.org/webreports/reports/164/S164442.html)
-- [334](http://www.nuforc.org/webreports/reports/164/S164459.html)
-- [333](http://www.nuforc.org/webreports/reports/164/S164530.html)
-- [332](http://www.nuforc.org/webreports/reports/164/S164631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
