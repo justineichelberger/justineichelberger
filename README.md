@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:23 on 27 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:30 on 27 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1980, an anonymous witness in Delran (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I was out back on this chilly night i was looking into the sky and i see this object not far away from me moving side to sideand stop than the craft would move up and stop ...than move down and stop I thought it would be a helicopter but there was no noise did continue these maneuvers for another five minutes then all of a sudden the craft shot into the heavens thousands of miles an hour gone I got scared and ran into the house what eyewitness was Unreal</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143963.html](http://www.nuforc.org/webreports/reports/143/S143963.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Storm Lake (IA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 12:00 am - 12:00 am minutes.</sub><blockquote><sub>Huge formation with many smaller formations. Some brighter than others.This has happened for to nights.  There seems to be a very large formation and a couple other small formations also.  They are moving very slowly when changing  formation but are moving very fast back and forth.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92104.html](http://www.nuforc.org/webreports/reports/092/S92104.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/164/S164624.html)
-- [373](http://www.nuforc.org/webreports/reports/164/S164637.html)
-- [372](http://www.nuforc.org/webreports/reports/164/S164447.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164455.html)
-- [370](http://www.nuforc.org/webreports/reports/159/S159027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
