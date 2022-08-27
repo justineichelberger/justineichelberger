@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:30 on 27 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:37 on 27 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Roosevelt (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately monday - monday minutes.</sub><blockquote><sub>i sow the ufo around 2:23 in the morning i was stuned at want i sow i went out side to see it but then i sow 4 lights and a flash like a carmra then puff its gone((NUFORC Note:  Source of report indicates that date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58465.html](http://www.nuforc.org/webreports/reports/058/S58465.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Hot Springs (AR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Three blinking lights, two red, one yellow, attached to a fast, silent, invisible craft flying very low and steady, headed Southwest.I was on 1000 block on Malvern Ave..  Although the sky was dark, it still had some light.  The craft did not.  I only saw three blinking lights, two red, on yellow, that appeared to be attached to an invisible object flying southwest VERY LOW, VERY fast, and VERY smooth.  I rolled my window down and there was no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121510.html](http://www.nuforc.org/webreports/reports/121/S121510.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/164/S164624.html)
-- [373](http://www.nuforc.org/webreports/reports/164/S164637.html)
-- [372](http://www.nuforc.org/webreports/reports/164/S164447.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164455.html)
-- [370](http://www.nuforc.org/webreports/reports/159/S159027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
