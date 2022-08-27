@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:33 on 27 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:37 on 27 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Differdange (Luxemburg) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>unidentified sphere over Differdange, Luxemburg.)We have seen a sphere-shaped unidentified object that changed light (several lights around the sphere) from blue to white to red, staying on the same place till disappearing on the sky and reappearing after 40 seconds and re-disapearing for all, no sound only some dogs sounds not moving at all.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121626.html](http://www.nuforc.org/webreports/reports/121/S121626.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Thompson Springs (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Walking home from 7-eleven only station in town.  Due east near Venus on the south east side three light's.  Green, blue, red.  Noticed it wasn't moving, I believe it was stationary, seamed to follow the horizion.  It was flashing unlike other stars or planets.So once I got home I took my telescope which is only D=60mm F=700mm model RB-60 couldn't zoom in close enough to see shape.  Though the light's were lined up in triangle postion.  Note: noticed it for three months before this repart.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135919.html](http://www.nuforc.org/webreports/reports/135/S135919.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/164/S164624.html)
-- [373](http://www.nuforc.org/webreports/reports/164/S164637.html)
-- [372](http://www.nuforc.org/webreports/reports/164/S164447.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164455.html)
-- [370](http://www.nuforc.org/webreports/reports/159/S159027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
