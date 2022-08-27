@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:23:12 on 27 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:12:03 on 27 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Carbondale (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Bright light moving across sky at very fast speed & very high alttitudeI had just walked outside to find my wife. She was sitting on the driveway & admiring the night sky. I had just sat down with her & looked up. Whne I did I saw a bright light almost directly overhead but it was moving at a very fast speed. I said to my wife look at that light it us really moving quickly. Since it was dark out it was difficult to determine its altittude but I would say it was extremely high up (maybe 50,000 ft or so). It traveled almost in a straight line moving west to east-southeast. The light was steady & did not flash as an airplane would. There wasn't any noise accompanying the movement. The sighting lasted approx. 20-30 seconds & the light dis-appeared as it moved towards the horizon/tree line of my neighborhood. My wife & I have seen many airplanes in our lifetime, but I can assure you that this was not any plane I have ever seen.. Maybe some type of secret millitary craft.. but certainly not a commercial craft..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13922.html](http://www.nuforc.org/webreports/reports/013/S13922.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Burdur (Turkey) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub>Just the photo...Dear NUFORC, These photos were taken by me on the date of 27 August 2015, like 19:00 o’clock (07:00 pm) in Turkey, Burdur province, noticed the object at the photo just now.We – me and girlfriend - were returning to Burdur, from a visit to the Lake Salda, and on the way I saw the ‘’Burdur slickenside 1 km’’ sign.  I have never seen anything like it before, so we moved our car to the side road to see the slickenside, we investigated a little and realizing the beautiful scenery, we moved about 400 meters further up the same road to take some pics and move back.  I took the pics and saw nothing abnormal.  These are the pics, taken by the Nokia cell phone model: C3-00 Type: RM-614, a little old one.I also send you the other photos which I took from the same place. I can't tell you the object at the photo named ''look at the air please'' is a bird, an insect or an ufo?  If you find something remarkable, I'll be glad if you get a chance to turn back to me.  I wish you success in your work.  Best regards.((NUFORC Note:  We cannot positively identify the anomalous object in the photo.  Possible bird?  D))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121569.html](http://www.nuforc.org/webreports/reports/121/S121569.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/164/S164624.html)
-- [373](http://www.nuforc.org/webreports/reports/164/S164637.html)
-- [372](http://www.nuforc.org/webreports/reports/164/S164447.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164455.html)
-- [370](http://www.nuforc.org/webreports/reports/159/S159027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
