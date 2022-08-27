@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:41 on 27 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:37 on 27 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Fort Collins (CO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Strange orange flickering ball as big as the moon, bright like a street lamp, 1000 to 2000 ft away traveled NE in a steady pace.A group of about 20 friends were having an evening Birthday party when one of us saw a weird glowing orange ball flying across the sky.  It flickered like fire. It made no sound at all.We all watched it slowly travel in a north east direction.  Everyone in the group had different ideas on exactly how far it was from us, but I thought it seemed close.  Maybe 1000 to 2000 feet high in the air.It appeared about as big as the moon and looked like it was traveling about 40-50 mph in a steady direction (straight).  No one could explain it and we all talked about what it could have been, but the conclusion was no one new. UFO!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77491.html](http://www.nuforc.org/webreports/reports/077/S77491.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Harriman State Park (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0:04 - 0:04 minutes.</sub><blockquote><sub>Lights seen over lake on 7 lakes drive in Harriman State Park.I was driving home at about 11:30pm with my girlfriend, coming from my friend’s apartment in Highland Falls.  I decided to cut through 7 lakes drive on the ride home and then get on the Thruway. When we were driving on 7 lakes road (or drive?), my girlfriend was in the passenger seat looking out the window.  We passed the silver mine pond on the left and then the road took a small dip. I was going fairly slow, about 25 mph as to avoid deer.  About a ½ mile after we passed the silver mine parking lot we saw bright lights to the right as we approached a slight left turn.  I slowed down a little to about 5-10 mph so we could get a better look at what we saw.  About 50 feet out over a small lake we saw 6-8 red and green lights in a row formation about 10 feet long, just over the surface of the lake. As we got closer the lights moved at a somewhat brisk pace to the right on the water’s surface and turned off sequentially from left to right.  We only saw the lights for about 4 seconds before they disappeared completely.  There were no boats in the lake that either of us could see.  I don’t think there is a launch on that particular lake either.  We had the windows closed but there was no noticeable noise. We didn’t stop to turn around but instead drove onwards past other lakes but saw nothing over any of those. I told family members what I saw but no one had an explanation other than maybe a small boat someone was fishing off of. I know I didn’t see a boat though.  There was plenty of moonlight so I think either my girlfriend or I would have seen if there was a boat.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77485.html](http://www.nuforc.org/webreports/reports/077/S77485.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/164/S164624.html)
-- [373](http://www.nuforc.org/webreports/reports/164/S164637.html)
-- [372](http://www.nuforc.org/webreports/reports/164/S164447.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164455.html)
-- [370](http://www.nuforc.org/webreports/reports/159/S159027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
