@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:30 on 27 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:30 on 27 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Storm Lake (IA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 12:00 am - 12:00 am minutes.</sub><blockquote><sub>Huge formation with many smaller formations. Some brighter than others.This has happened for to nights.  There seems to be a very large formation and a couple other small formations also.  They are moving very slowly when changing  formation but are moving very fast back and forth.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92104.html](http://www.nuforc.org/webreports/reports/092/S92104.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Palm Harbor (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Two orange lights on each end.Equally compared to the elevation and speed that a helicopter flies.There was absolutely no audible sound.It appeared invisible although it blocked out some stars as it traveled southward.There were 2 orange lights. One on each end. The lights were small and dimly lit.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150031.html](http://www.nuforc.org/webreports/reports/150/S150031.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/164/S164624.html)
-- [373](http://www.nuforc.org/webreports/reports/164/S164637.html)
-- [372](http://www.nuforc.org/webreports/reports/164/S164447.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164455.html)
-- [370](http://www.nuforc.org/webreports/reports/159/S159027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
