@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:09:05 on 27 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:23 on 27 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Comox (Canada) (BC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>bright lime green light streaked across the sky at night.i was lying in bed last night when a silent bright lime green light catches my eye through the window, i had no idea what i was seeing. as i jumped out of bed and took three strides towards the window i watched it streak across the sky and dissapear inbehind a forest that is north of our house. this light was traveling by my judgement at about MOCH 1 or MOCH 2.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52210.html](http://www.nuforc.org/webreports/reports/052/S52210.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1980, an anonymous witness in Delran (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I was out back on this chilly night i was looking into the sky and i see this object not far away from me moving side to sideand stop than the craft would move up and stop ...than move down and stop I thought it would be a helicopter but there was no noise did continue these maneuvers for another five minutes then all of a sudden the craft shot into the heavens thousands of miles an hour gone I got scared and ran into the house what eyewitness was Unreal</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143963.html](http://www.nuforc.org/webreports/reports/143/S143963.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/164/S164624.html)
-- [373](http://www.nuforc.org/webreports/reports/164/S164637.html)
-- [372](http://www.nuforc.org/webreports/reports/164/S164447.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164455.html)
-- [370](http://www.nuforc.org/webreports/reports/159/S159027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
