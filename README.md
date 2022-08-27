@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:38 on 27 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:32 on 27 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Hyannis (MA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Again the orange orb appeared; sighting number two.I attempted to file a report several days ago when my brother and stepfather witnessed an unusual orange sphere near our home in Hyannis on the 20th of August.  For some reason, maybe because I didn't witness it personally or because I used names it wasn't posted.  That said, last night my brother and I again were hanging out at night at my property on Ocean St. in Hyannis.  At approximately 10:30 pm I look up and right there in front of us, maybe 200 feet away is an orange orb hovering absolutely still.  I grabbed my cell phone and took a very short video approximately 3 seconds (I inadvertently turned it off) the object seemed to move just when I pointed it out while carrying on like a fool.  I was shocked.  The orb changed shape, started bouncing around, and then seem to spiral or barrel roll away and then poof... it was gone. The weather was excellent with a west-southwest breeze of approximately 10-15mph, the visibility was very good.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112981.html](http://www.nuforc.org/webreports/reports/112/S112981.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Joliet (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange/Red Glowing Triangular object travels across skyIt was a clear evening, warm, no breeze. My husband and I and our dogs were sitting on the patio enjoying the evening air and looking at the star view.My husband went inside the house and I was sitting on the patio facing North. As I was looking at the sky I noticed an odd colored ball of light coming from the North, going South, it appeared to be orange/red. As it got closer I realized this was not a usual aircraft and ran to the door to call my husband to come out right away. He did and he also saw it. It continued flying, not fast, and in a straight line. As it got closer over our head, I realized it was not round but triangular, with the point facing North, and very bright orange/red glowing light in the middle,there was a white haze surrounding the object,there was no sound,and it was traveling in a straight path, North to South. It was not going real fast, so the whole incident probably lasted about 3 minutes. I ran inside to get my camera and ran back out and it was already over the tree line. We both have never seen anything like that and were just stunned at what we saw. I called 911 to report it also. It looked to be about 4 times smaller than the moon. I couldn't really tell how close it was, but it was close enough for me to recognize that it was triangular shaped. I saw planes flying after it passed and they were much much higher than the object was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83499.html](http://www.nuforc.org/webreports/reports/083/S83499.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/164/S164624.html)
-- [373](http://www.nuforc.org/webreports/reports/164/S164637.html)
-- [372](http://www.nuforc.org/webreports/reports/164/S164447.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164455.html)
-- [370](http://www.nuforc.org/webreports/reports/159/S159027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
