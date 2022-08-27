@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:32 on 27 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:38 on 27 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Davison (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Scalene triangles over Davison MIThe ufo we saw looked like 3 "stars" flying North East in a scalene triangle formation.  It was flying in a straight line parallell to the triangles longest side.  We then saw another bright moving star heading south.  It flashed liked a camera then disappeared.((NUFORC Note:  The three objects flying in triangular formation may have been what are thought to be U. S. Navy "NOSS" satellites.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30956.html](http://www.nuforc.org/webreports/reports/030/S30956.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Hyannis (MA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Again the orange orb appeared; sighting number two.I attempted to file a report several days ago when my brother and stepfather witnessed an unusual orange sphere near our home in Hyannis on the 20th of August.  For some reason, maybe because I didn't witness it personally or because I used names it wasn't posted.  That said, last night my brother and I again were hanging out at night at my property on Ocean St. in Hyannis.  At approximately 10:30 pm I look up and right there in front of us, maybe 200 feet away is an orange orb hovering absolutely still.  I grabbed my cell phone and took a very short video approximately 3 seconds (I inadvertently turned it off) the object seemed to move just when I pointed it out while carrying on like a fool.  I was shocked.  The orb changed shape, started bouncing around, and then seem to spiral or barrel roll away and then poof... it was gone. The weather was excellent with a west-southwest breeze of approximately 10-15mph, the visibility was very good.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112981.html](http://www.nuforc.org/webreports/reports/112/S112981.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/164/S164624.html)
-- [373](http://www.nuforc.org/webreports/reports/164/S164637.html)
-- [372](http://www.nuforc.org/webreports/reports/164/S164447.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164455.html)
-- [370](http://www.nuforc.org/webreports/reports/159/S159027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
