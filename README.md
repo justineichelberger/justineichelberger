@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:37 on 27 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:41 on 27 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Pahrump (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>3 lights triangle ,to 2 lights moved fast until 2 minutes or so dimmed and disappeared.Saw 3 lights arranged in triangle , 1 light dissappeared the other 2 lights moved upward qickly. both lights dimmed and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92230.html](http://www.nuforc.org/webreports/reports/092/S92230.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Fort Collins (CO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Strange orange flickering ball as big as the moon, bright like a street lamp, 1000 to 2000 ft away traveled NE in a steady pace.A group of about 20 friends were having an evening Birthday party when one of us saw a weird glowing orange ball flying across the sky.  It flickered like fire. It made no sound at all.We all watched it slowly travel in a north east direction.  Everyone in the group had different ideas on exactly how far it was from us, but I thought it seemed close.  Maybe 1000 to 2000 feet high in the air.It appeared about as big as the moon and looked like it was traveling about 40-50 mph in a steady direction (straight).  No one could explain it and we all talked about what it could have been, but the conclusion was no one new. UFO!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77491.html](http://www.nuforc.org/webreports/reports/077/S77491.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/164/S164624.html)
-- [373](http://www.nuforc.org/webreports/reports/164/S164637.html)
-- [372](http://www.nuforc.org/webreports/reports/164/S164447.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164455.html)
-- [370](http://www.nuforc.org/webreports/reports/159/S159027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
