@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:07:58 on 28 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:34 on 28 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Ferrisburg (VT) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>shining point of light traveling steadly west to eastWhile observing Mars with a Sony videocamera, I videoed a point of light steadily passing from west to east intersecting the positon of Mars and proceeding to the east.  At the time the camera was set on a fixed tripod on telescopic, "super night vision" mode, and background stars can be seen accompanying Mars's progress across the night sky, while the point of light traveled in the opposite direction!  The light shone steadily and did not appear to be an aircraft or a satellite.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30983.html](http://www.nuforc.org/webreports/reports/030/S30983.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Burlington (NJ) reported seeing craft that fit the description of some 'Changing' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A shape shifting UFOA very luminous light sat in the sky for approximately 2 minutes, I turned my head, looked back and it seemed to be moving.  It looked like it was changing from red to white in color.  Sometimes it would be flat and sometimes it would be on a tilt.((NUFORC Note:  Source is anonymous.  Reports appears to be not inconsistent with the sighting of a celestial body.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19317.html](http://www.nuforc.org/webreports/reports/019/S19317.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164626.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164450.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164449.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164475.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
