@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:42:03 on 28 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:22:02 on 28 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Salt Lake City (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>reflection in skyWest of I-15 and north of I-80 around roughly 19:00 on 08/28/14, saw a reflection of light in the sky.  Myself and my wife both thought it was a plane but then we could not find it after we saw the reflection.  About 5-10 seconds later we saw the reflection again and then saw some kind of craft in the sky, it was very small.  Then it really quickly just faded away and we couldn't see anything anymore.  After that we did not see any more reflections or any planes in the area.((NUFORC Note:  Witness provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113011.html](http://www.nuforc.org/webreports/reports/113/S113011.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Milton (FL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>08/28/03   10:30pm object appeared  houvered,pulsated,and blinked while it rotated for 30 to 40 sec. then disapperedabout ten thirty at night, I was laying in bed and I saw a light that seemed to b pulsating. It had a sort of throbbing sonic sound to it. At first I thoght it was a ambulance or fire truck at first and I thought I wonder what is going on ,so I got up to see what was going on. When I first looked at it I was thinking what in the blakety blank is that! I remember saying again what in the heck is that! Then it hit me that it was a UFO! It was oblong like a cigar and ahad a soft glowing light at one end of it and a very bright pulsating light at the other end of it. You could acually here it like a pulsating throb.as I was watching it it started to turn real slow in a circular motion, I turned around real fast to wake up my husband and I told him hurry up and get up there is a UFO out here! He started to jump up and I was turning around to look back out the window and it was gone! There is noway that something that big got away that fast! My husband and I went outside to see if we could see anything. We were out there about ten minutes seeing nothing . We came back in the house and went back to bed. Short time later maybe five minutes or so we started seeing different lights, but they were apache helicopters with search lights on swarming the area. They continued to do that back and forth for about two or three hoursor more because I fell asleep finally about one ,two o`clock in the morning.  The funny thing is my middle child came in our bedroom about three days before this incident wild eyed and said she had seen a UFO and we kind of laugheds at her and told her to go back to bed . It was around the same time that I had seen mine ,about ten thirty.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31072.html](http://www.nuforc.org/webreports/reports/031/S31072.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164626.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164450.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164449.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164475.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
