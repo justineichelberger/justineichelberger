@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:32 on 28 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:36 on 28 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Mt. Eden (KY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.2 - 0.2 minutes.</sub><blockquote><sub>Firstly, I'm a veteran who has served in an AO.  I'm very familiar with all sorts of military aircraft.  As I stepped out the front door to observe three deer grazing in my front yard, movement in the sky caught my eye.  A solid orange circular object having the appearance of a glowing ember was traveling southwest to northeast approximately 30° above the horizon. It made no sound and maintained a constant rate of speed.  The brightness was unchanged as well.  I could not ascertain the size or distance of the phenomenon.  Also, the altitude seemed steady and the flight path was perpendicular to the ground.  This was not a meteor.  I'm a bit of a skywatcher and enjoy the meteor showers.  This did not burn up or dissipate and the path was not consistent with a meteor.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142869.html](http://www.nuforc.org/webreports/reports/142/S142869.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Hilton Head (SC) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Green flashy lights it was hovering above trees near ocean.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101652.html](http://www.nuforc.org/webreports/reports/101/S101652.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164626.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164450.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164449.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164475.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
