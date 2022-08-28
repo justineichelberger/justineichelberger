@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:39 on 28 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:32 on 28 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Santa Maria (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>OBSERVED A SLOW MOVING OBJECT OVER SANTA MARIA, CA. THEN IT SUDDENLY VANISHEDMY COWORKER AND I LOCKED UP FOR THE NIGHT AND WHILE WE WALKED TO OUR CAR'S WE NOTICED A VERY SHINNY OBJECT IN THE SKY MOVING VERY SLOW. AS WE CONTINUED TO WATCH IT MOVE IT SUDDENLY VANISHED.THIS IS THE SECOND TIME I'VE SEEN SOMETHING LIKE THIS THE FIRST TIME WAS BACK IN JULY OF '08 OVER THE CITY OF LANCASTER,CA. WHEN I WAS ON MY WAY BACK FROM ARIZONA.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  Possible satellite, perhaps the ISS.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65453.html](http://www.nuforc.org/webreports/reports/065/S65453.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Mt. Eden (KY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.2 - 0.2 minutes.</sub><blockquote><sub>Firstly, I'm a veteran who has served in an AO.  I'm very familiar with all sorts of military aircraft.  As I stepped out the front door to observe three deer grazing in my front yard, movement in the sky caught my eye.  A solid orange circular object having the appearance of a glowing ember was traveling southwest to northeast approximately 30° above the horizon. It made no sound and maintained a constant rate of speed.  The brightness was unchanged as well.  I could not ascertain the size or distance of the phenomenon.  Also, the altitude seemed steady and the flight path was perpendicular to the ground.  This was not a meteor.  I'm a bit of a skywatcher and enjoy the meteor showers.  This did not burn up or dissipate and the path was not consistent with a meteor.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142869.html](http://www.nuforc.org/webreports/reports/142/S142869.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164626.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164450.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164449.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164475.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
