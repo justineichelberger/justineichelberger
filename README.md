@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:43 on 28 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:32 on 28 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Bracknell (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>bright light moving very quickly with no tailBright light with no tail suddenly appeared in the sky. It then moved off very rapidly, almost as though it was falling. We are used to seeing planes in and out of Heathrow and this moved a lot quicker than that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13927.html](http://www.nuforc.org/webreports/reports/013/S13927.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Hanalei (HI) reported seeing craft that fit the description of some 'Light' over a period of approximately 1:30 - 1:30 minutes.</sub><blockquote><sub>We saw six orange lights appear over Hanalei Bay, KauaiiMy partner and I were walking on the beach at about 9:00 pm on August 28, 2008 at the Hanalei Colony Resort, on Kauai’s north shore looking across Hanalei bay towards the Princeville resort when an orange light appeared in the sky.  It glowed orange with a slight flicker.  Then it went out and another one appeared to the left of it. Then another one appeared so there were two.  Both of them went out and one more appeared to the left of those. That one went out and another one appeared. Each of them only lasted maybe five to seven seconds before going out.  Then after a pause of about a minute another appeared MUCH closer to us (westward).  It was really bright orange and it was in the shape of a square. It lasted a few seconds and went out.  We watched for an hour but didn’t see anything more.  There some small clouds in the sky but no moon. We could see the airport search light and lighthouse but it wasn’t either of them and it was in the sky over the water.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65566.html](http://www.nuforc.org/webreports/reports/065/S65566.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164626.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164450.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164449.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164475.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
