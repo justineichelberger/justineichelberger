@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:48 on 28 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:30 on 28 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Rochester (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Lighted object in orbital motion changed color, stopped, moved erratically at varying speeds, on a non-orbital path.08/28/2011   @ 2145 CT  Observed a lighted object moving W to E at zenith position.Thought this was perhaps the ISS as we had followed sightings in the last couple of weeks.The object was white, and brightened from zenith to 10 degrees declination, then began to dim, and appear to diminish in size by roughly ½, and went from white to red in color.  At this point the object stopped tracking to the east and held stationary for approximately 5-8 seconds, then began to move in a northerly direction at a slow speed, paused, moved north again, moving faster and stopped again.The object moved back after that in an east to west direction at varying speeds, pausing at times, sometimes making abrupt sweeping curves and coming to sudden stops, then beginning to move in slow, small movements for short distances, pausing and moving again.It did not move like any plane or helicopter I have ever seen.No sound was observed related to this object.The light from the object was red, steady, and seemed to dim in relation to traveling a greater distance from my position of observation.  The duration of the sighting was approximately 3 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83526.html](http://www.nuforc.org/webreports/reports/083/S83526.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Dandridge (TN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>White orbs appeared beyond trees nne an moved south across the lake.  There were between 10-20 and seemed to move in a formation that seemed fast and slow.  Could see the going orbs for 3-5 minutes.  Rain was falling moderately.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159031.html](http://www.nuforc.org/webreports/reports/159/S159031.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164626.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164450.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164449.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164475.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
