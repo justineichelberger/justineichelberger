@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:30 on 28 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:33 on 28 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Raeford (NC) reported seeing craft that fit the description of some '' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>2 nights consecutive, I witnessed from my back deck facing West toward Ft. Bragg an illuminous orange orb slowly moving north level view above trees but estimate 5-10 Miles away.  The object hovered over 1 hour and Lowered out of direct sight although a strobe from The object was seen pulsating from object for another 20 minutes.  2nd night witnessed same thing along With my 22 year old daughter.  1 week later a friend Whose husband is military was visiting and we stood At front (east) side of my house when she caught Sight of this orb on south side streaking east.  It was Just above tree top line of view approximately 5 or So miles away, since there was no sound.  This orb Was orange but changed to green, white and orange  Again before losing sight of it as it looked like it was Going downward at fast rate of speed.  That night Out of the 3 sightings was the 1st time military Helicopters (3) circled high over the area for 2 hours.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132254.html](http://www.nuforc.org/webreports/reports/132/S132254.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Peach Orchard (AR) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Midnight Sighting over Black River RefugeWas travelling late on 08/28/02.  At midnight I seen a vary bright star to the west as i turned on Arkansas State Route 90 going to Walnut Ridge, Arkansas.  The sky was cloudless ful of stars, and it was hot out that evening about 85 F.  As I was driving south the star I noticed got larger and brighter.  I pulled over because it seemed to be following me, but kept going.  Then it droppedin altitude over the black river refude area.  Then 3-4 smaller red lights came out from it!  I was damned scared, i got the hell ou of there becaus this was no airplane.  I got into delaplaine, ar an saw another truck so i pulled over but the driver was asleep, the truck eas runing lights on but he was asleep very strange.  by this time I have seen noone else on Arkanasas State Route 90 comming from Walnut Ridge or behind me.  The bright star was following me and there was a red light flying to the east of me, the redlight pulsed it must have traveled aboput 50 ft above ground.I went to O'Keene and saw nobody there so I floored it by then coming to Walnut Ridge.  Got inot town and the objects were gone.  I am a retired Air Force Officer (Lt Colonel), Korean and Veitnam Confliect Veteran, I am not crazy or deranged but have been a skeptic in light of my experiences in USAF, now do not know what to believe.  I have seen and flown in more than my fairshare of aircraft, these were not earthly origin aricraft, they were to adavcned to do the maneuavers I saw, This whole chase an observation period lasted 45 minutes.  My radio did not work because all I got was static noise, stattio after station.  All AM and FM were jammedwhile i obsevred the object.((NUFORC Note:  Witness elects to remain totally anonymous.  We would like to communicate with this witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24780.html](http://www.nuforc.org/webreports/reports/024/S24780.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164626.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164450.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164449.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164475.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
