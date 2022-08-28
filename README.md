@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:11:42 on 28 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:30 on 28 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in West Hills (CA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Two perfectly vertical frosty white trails of light in the night sky.West Hills, California, Thurs., 1028 pm, 08-28-2014.  Sitting in my back yard looking to the north in about the 10 o’clock position.  Two frosty white streaks appeared.  Just for a fraction of a second they seemed to be falling vertically downward.  Then stopped and stayed stationary.  After 4 to 5 seconds they disappear quickly.They were right next to each other and perfectly parallel to each other in a vertical orientation of 90 degrees.  Each were slightly wider at the bottom than the top kind of resembled what you could describe as a comet tail and were identical in shape and length..I estimate that they were 20 to 30 mile away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113057.html](http://www.nuforc.org/webreports/reports/113/S113057.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Raeford (NC) reported seeing craft that fit the description of some '' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>2 nights consecutive, I witnessed from my back deck facing West toward Ft. Bragg an illuminous orange orb slowly moving north level view above trees but estimate 5-10 Miles away.  The object hovered over 1 hour and Lowered out of direct sight although a strobe from The object was seen pulsating from object for another 20 minutes.  2nd night witnessed same thing along With my 22 year old daughter.  1 week later a friend Whose husband is military was visiting and we stood At front (east) side of my house when she caught Sight of this orb on south side streaking east.  It was Just above tree top line of view approximately 5 or So miles away, since there was no sound.  This orb Was orange but changed to green, white and orange  Again before losing sight of it as it looked like it was Going downward at fast rate of speed.  That night Out of the 3 sightings was the 1st time military Helicopters (3) circled high over the area for 2 hours.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132254.html](http://www.nuforc.org/webreports/reports/132/S132254.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164626.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164450.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164449.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164475.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
