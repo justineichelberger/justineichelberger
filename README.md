@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:37 on 27 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:39 on 28 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Thompson Springs (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Walking home from 7-eleven only station in town.  Due east near Venus on the south east side three light's.  Green, blue, red.  Noticed it wasn't moving, I believe it was stationary, seamed to follow the horizion.  It was flashing unlike other stars or planets.So once I got home I took my telescope which is only D=60mm F=700mm model RB-60 couldn't zoom in close enough to see shape.  Though the light's were lined up in triangle postion.  Note: noticed it for three months before this repart.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135919.html](http://www.nuforc.org/webreports/reports/135/S135919.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Moncton (Canada) (NB) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Odd fireball seen in Moncton night skies.at approximately 12:15 am, myseld and my girlfriend were looking into the sky at another clear night and observed what appeared to be a ball of light that was changing colors from red-blue to green. it then moved what seems to be a short distance to the north west and was followed by the same 5 lights but in different places compared to where we first saw them. the main light changed places in the night sky from below the tree line to above and very visible. it then disappeared and showed up at another location but alone. we have seen these lights for the past few months but always at a different location but not too far from where they were seen last. as well i have seen lights in the night sky from passing planes that fell behind the craft(s) giving me the impression the it was more near and ground oriented rather than high in the skies. if there are any other people who have and interesting perspective on this i would appreciate it if they would post comments especially those from moncton new brunswick canada</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65437.html](http://www.nuforc.org/webreports/reports/065/S65437.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/164/S164624.html)
-- [373](http://www.nuforc.org/webreports/reports/164/S164637.html)
-- [372](http://www.nuforc.org/webreports/reports/164/S164447.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164455.html)
-- [370](http://www.nuforc.org/webreports/reports/159/S159027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
