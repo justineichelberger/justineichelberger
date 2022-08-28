@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:52:00 on 28 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:42:03 on 28 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Petaluma (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>UFO over Petaluma on August 28, 2016, @ approximately 7:30 pm.My nine-years-old son was in the backyard and noticed a light in the sky, mentioning that it was too early for the stars and it this one didn’t even look like one.  I came out and saw a bright object, obviously not a star, staying in one spot with the sun clearly reflecting off it.  Got binoculars and couldn’t believe my eyes.  It looked like a semi-transparent sphere with five white lights under it.  Gave my son the binoculars and asked him what he sees. His words were:  “No way, no way.”  He also saw the lights underneath it.  Called my husband to come out and look.  By then the object wasn’t transparent but was an oval shape and reflecting the sun like metal.   The object was there for approximately an hour, and then began slowly drifting east until it disappeared.  I took a (very bad) picture with my phone but was only be able to capture a faint light spot in the sky.  But the picture has a date and time stamp.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129591.html](http://www.nuforc.org/webreports/reports/129/S129591.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Salt Lake City (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>reflection in skyWest of I-15 and north of I-80 around roughly 19:00 on 08/28/14, saw a reflection of light in the sky.  Myself and my wife both thought it was a plane but then we could not find it after we saw the reflection.  About 5-10 seconds later we saw the reflection again and then saw some kind of craft in the sky, it was very small.  Then it really quickly just faded away and we couldn't see anything anymore.  After that we did not see any more reflections or any planes in the area.((NUFORC Note:  Witness provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113011.html](http://www.nuforc.org/webreports/reports/113/S113011.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164626.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164450.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164449.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164475.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
