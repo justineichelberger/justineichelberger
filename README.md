@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:06:36 on 29 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:39 on 29 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in La Palma (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.025 - 0.025 minutes.</sub><blockquote><sub>Green Object flying over LA AreaThis morning Aug 29th, 2009 at 5:20 A.M. approximately, coming back home from work in La Palma, California, I saw a flying object in front of me.The object was about 2/3rds the size of the sun, round, green, like the green traffic lights, but reflecting some kind of less brilliant, faded light, like an aurora, possibly due to clouds in the sky.I was traveling North on Valley View Blvd, and the object went from SWW to NNE and started at about an altitude of 40 degrees end ended at about 25 degrees from horizontal.It covered about 90 degree of my peripheral view and lasted about 1.5 to 2 seconds.  No noise was produced and I don’t know the distance of the object from my point of view.When I got home I commented it to my son, and he affirms that he saw the same thing, only that this object was changing colors from green to orange to yellow, something I didn’t catch.As a reference, Mars, the most brilliant star at that time was at about an altitude of 45 deg in the NEE position.  The flying object was three to four times more brilliant and bigger than Mars, but in green color.((NUFORC Note:  Mars not visible from Earth on this date, at this time.  Possibly a sighting of Sirius, if it was in the northeast sky, we suspect.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71935.html](http://www.nuforc.org/webreports/reports/071/S71935.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Salford (UK/England) () reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>THE CRAFT WAS MOVING VERY FAST SHIMMERING GOLD/YELLOW I LIVE IN THE FLIGHT PATH OF MANCHESTER AIRPORT AT THE TIME A 747 WAS WINDING DOWN ON APPROACH FOR LANDING THE SPACECRAFT THEN MOVED IN A90 DEGREE ANGLE RACED OVER TO THE 747 THEN BEGAN TO MOVE AROUND THE PLANE 3.4 TIMES IN AMATTER OF SECONDS.. THEN THE CRAFT MOVED AWAY FROM THE PLANE AS IF TO OBSERVE WHERE IT JUST SAT THERE MOTIONLESS IN THE SKY 5.MINS OR SO CLOUDS WERE LOW IN THE SKY BUT SCATTERED AND THE CRAFT WAS JUST VISIBLE IT HAD 3 BIG SLITS IN THE SIDE RED GREEN BLUE COLOURS WERE VISIBLE AND THEY SEEMED TO PULSATE THEN THE COLOURS FADEDOUT AND THE CRAFT BECAME SURROUNDED BY AVERY BRIGHT GOLDISH/DIAMONDWHITE LIGHT THEN IT SHOT OF IN THE OPPOSITE DIRECTION FOLLOWED BY TWO EXTREMELY BRIGHT FLASHES (AS IF SOMEONE HAD TAKEN APHOTO WITH AFLASH FITTED)((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34681.html](http://www.nuforc.org/webreports/reports/034/S34681.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164469.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164490.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164500.html)
-- [348](http://www.nuforc.org/webreports/reports/164/S164488.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164842.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
