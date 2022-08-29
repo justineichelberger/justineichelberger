@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:39 on 29 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:50 on 29 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Saint Andrews (Canada) (NB) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Possible UFO siting over the St. Croix River during Hurricane Irene in St.Andrews, New Brunswick.I awoke at 5am on August 29, 2011, due to high winds from Hurricane Irene coming through my bedroom window. I went to the bathroom, checked on my son and then proceeded to close the window in my bedroom that looks out onto the St.Croix River.  I marveled at the sounds from the storm and watched the tree next to my deck sway in the wind.  Then the sky lit up where a cloud was over the water, it glowed red in a circular shape and a sound came from the direction of the cloud 3 times.  Then it stopped.  The sky lit up 2 more times after this with the same glowing red and same sound.  Then the power went off. This occurred around 5:15am on August 29,2011.  I tried to wake my boyfriend who was in bed next to me, but I couldn't get him to wake up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83551.html](http://www.nuforc.org/webreports/reports/083/S83551.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Satsop (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>It was neon bright and moved faster than anything I have ever seen!I was sitting out in my side yard (which is on the west side of house).  I lit up my cigarette and just happen to look up to the west and this neon green/blue light fell from the sky, stopped half way and went directly north in a matter of seconds.  It was fast really fast.  I could hear that the power lines were buzzing loud!  Prior to the light incident my husband also said he could hear a rumble sound.  He thought possible thunder. My daughter says that once the green/blue light went poof she noticed off to the north that the sky lite up really bright for a second or so...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113070.html](http://www.nuforc.org/webreports/reports/113/S113070.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164469.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164490.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164500.html)
-- [348](http://www.nuforc.org/webreports/reports/164/S164488.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164842.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
