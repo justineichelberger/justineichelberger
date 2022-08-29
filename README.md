@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:39 on 29 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:38 on 29 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Salford (UK/England) () reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>THE CRAFT WAS MOVING VERY FAST SHIMMERING GOLD/YELLOW I LIVE IN THE FLIGHT PATH OF MANCHESTER AIRPORT AT THE TIME A 747 WAS WINDING DOWN ON APPROACH FOR LANDING THE SPACECRAFT THEN MOVED IN A90 DEGREE ANGLE RACED OVER TO THE 747 THEN BEGAN TO MOVE AROUND THE PLANE 3.4 TIMES IN AMATTER OF SECONDS.. THEN THE CRAFT MOVED AWAY FROM THE PLANE AS IF TO OBSERVE WHERE IT JUST SAT THERE MOTIONLESS IN THE SKY 5.MINS OR SO CLOUDS WERE LOW IN THE SKY BUT SCATTERED AND THE CRAFT WAS JUST VISIBLE IT HAD 3 BIG SLITS IN THE SIDE RED GREEN BLUE COLOURS WERE VISIBLE AND THEY SEEMED TO PULSATE THEN THE COLOURS FADEDOUT AND THE CRAFT BECAME SURROUNDED BY AVERY BRIGHT GOLDISH/DIAMONDWHITE LIGHT THEN IT SHOT OF IN THE OPPOSITE DIRECTION FOLLOWED BY TWO EXTREMELY BRIGHT FLASHES (AS IF SOMEONE HAD TAKEN APHOTO WITH AFLASH FITTED)((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34681.html](http://www.nuforc.org/webreports/reports/034/S34681.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1974, an anonymous witness in Rochester Hills (MI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>UFO MICHIGANMY DAD WAS SITTING OUTSIDE WHEN HE CAME RUNNING IN TO THE HOUSE YELLING FOR EVERYONE TO COME OUT QUICK. WE RAN OUT AND HE POINTED ABOVE THE TREES ABOUT 200 FEET AWAY. ABOUT 30 FEET IN THE AIR WAS A CRAFT MOVING VERY,VERY SLOW AND SPINNING SLOW ALSO. IT CAME TO A STOP EXCEPT IT WAS STILL SPINNING. WE HEARD A COUPLE OF JETS COMING AND THE CRAFT TILTED A LITTLE AND SHOT AWAY AT GREAT SPEED. NOTHING WE HAD COULD MOVE THIS FAST. I HAD BEEN IN THE ARMY AIR CORP TWO YEARS BEFORE. AND NEVER SAW ANYTHING MOVE LIKE IT DID. IT NEVER EVER MADE A SOUND THE WHOLE TIME.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45821.html](http://www.nuforc.org/webreports/reports/045/S45821.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164469.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164490.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164500.html)
-- [348](http://www.nuforc.org/webreports/reports/164/S164488.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164842.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
