@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:38 on 29 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:39 on 29 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1974, an anonymous witness in Rochester Hills (MI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>UFO MICHIGANMY DAD WAS SITTING OUTSIDE WHEN HE CAME RUNNING IN TO THE HOUSE YELLING FOR EVERYONE TO COME OUT QUICK. WE RAN OUT AND HE POINTED ABOVE THE TREES ABOUT 200 FEET AWAY. ABOUT 30 FEET IN THE AIR WAS A CRAFT MOVING VERY,VERY SLOW AND SPINNING SLOW ALSO. IT CAME TO A STOP EXCEPT IT WAS STILL SPINNING. WE HEARD A COUPLE OF JETS COMING AND THE CRAFT TILTED A LITTLE AND SHOT AWAY AT GREAT SPEED. NOTHING WE HAD COULD MOVE THIS FAST. I HAD BEEN IN THE ARMY AIR CORP TWO YEARS BEFORE. AND NEVER SAW ANYTHING MOVE LIKE IT DID. IT NEVER EVER MADE A SOUND THE WHOLE TIME.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45821.html](http://www.nuforc.org/webreports/reports/045/S45821.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Saint Andrews (Canada) (NB) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Possible UFO siting over the St. Croix River during Hurricane Irene in St.Andrews, New Brunswick.I awoke at 5am on August 29, 2011, due to high winds from Hurricane Irene coming through my bedroom window. I went to the bathroom, checked on my son and then proceeded to close the window in my bedroom that looks out onto the St.Croix River.  I marveled at the sounds from the storm and watched the tree next to my deck sway in the wind.  Then the sky lit up where a cloud was over the water, it glowed red in a circular shape and a sound came from the direction of the cloud 3 times.  Then it stopped.  The sky lit up 2 more times after this with the same glowing red and same sound.  Then the power went off. This occurred around 5:15am on August 29,2011.  I tried to wake my boyfriend who was in bed next to me, but I couldn't get him to wake up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83551.html](http://www.nuforc.org/webreports/reports/083/S83551.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164469.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164490.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164500.html)
-- [348](http://www.nuforc.org/webreports/reports/164/S164488.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164842.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
