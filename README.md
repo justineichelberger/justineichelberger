@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:50 on 29 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:45 on 29 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Satsop (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>It was neon bright and moved faster than anything I have ever seen!I was sitting out in my side yard (which is on the west side of house).  I lit up my cigarette and just happen to look up to the west and this neon green/blue light fell from the sky, stopped half way and went directly north in a matter of seconds.  It was fast really fast.  I could hear that the power lines were buzzing loud!  Prior to the light incident my husband also said he could hear a rumble sound.  He thought possible thunder. My daughter says that once the green/blue light went poof she noticed off to the north that the sky lite up really bright for a second or so...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113070.html](http://www.nuforc.org/webreports/reports/113/S113070.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Maplesville (AL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>I have been hearing a low rumbling sound outside for the past 2-3 nighrs.  I do not see any aircraft of any sort.  Natural or unnatural.  The sound itself is eerie enough to frighten you back into your home.  It's so loud and deep I can hear it in my home.  It sounds as if a rocket is about to take off, and it's coming from the woods from across the highway.  It sounds maybe a mile away at best.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148556.html](http://www.nuforc.org/webreports/reports/148/S148556.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164469.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164490.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164500.html)
-- [348](http://www.nuforc.org/webreports/reports/164/S164488.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164842.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
