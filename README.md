@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:46 on 29 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:41 on 29 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Mancelona (MI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately most nights - most nights minutes.</sub><blockquote><sub>Strange objects blinking red and white and moveing in weird directions.Ive noticed on clear nights when the stars are clearly visable a couple of what apear at first to be stars. At a closer look i can see objects in the sky blinking red and white. (a different number of object every night, always more than one.)  At first i thought they might be planes or mabey even hellocopters, but they move back and forth and all kinds of ways that are impossable for them to do. The past couple of nights there have been at least nine.  Some of them will get closer to the earth then get farther, they will move slowly then suddenly move faster changing speed.  They will apear to be going backwords then suddenly forwords, witch i am alost 100% sure "human" crafts can't do.  A couple of times i seen what apeared to be a shooting star.  I'm not to sure what these obects are but i do know that it is really weird and im suprised noone else has noticed them. but how many peaple really spend time looking in the night sky.  I am not giving my na! me or contact info due to the fact that i am a very untrusting person. I advise this be at least checked into!!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Possible twinkling stars, we suspect.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92303.html](http://www.nuforc.org/webreports/reports/092/S92303.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Breaux Bridge (LA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Very fast and bright, fighter jet flying high speed close by.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113076.html](http://www.nuforc.org/webreports/reports/113/S113076.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164469.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164490.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164500.html)
-- [348](http://www.nuforc.org/webreports/reports/164/S164488.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164842.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
