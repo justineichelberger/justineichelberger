@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:37 on 28 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:48 on 29 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Marmora (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Three V shaped objects with lights flying over treetops on Route 9 in Marmora, NJ.On Route 9 a mile or two from the entrance for the North Parkway to Somer’s Point, we saw three lights with the last two lights dimming their lights.  The first set of lights was bright in a V shape.  They traveled slowly and there was no sound. The last two V shaped objects were lit, but then suddenly dimmed their lights.  There was a little bit of flickering of the lights, but you could see their shadow following behind the main V shaped object.  They started off in a sandwiched formation, and then slowly separated into a line formation. The car in front of me even stopped to watch them fly slowly over the treetops.  It was drizzling rain at the time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101727.html](http://www.nuforc.org/webreports/reports/101/S101727.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1967, an anonymous witness in Fort Mitchell (KY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>08/29/1967  9:31 pm  saucer shaped object, change positions, wobbled ,stopped, watched for15 minutesObserved a dull yellow object hovering in the southern sky. It moved in a slow erratic path due north, sometimes appearing to wobble, stop and move again. As it moved overhead of my position the object was about the size of a dime held at arms length, I also could make out a blue halo of light around the outer rim and a yellow glow from the center of (crafts) belly. I ran into our house and yelled for my mother to come outside and we watched the UFO as it would dissappear and reappear at a higher altitudes.It also seemed to change shape as if it were plasma but it was far to our north by now and getting lost in the haze of city lights, it also seemed to be joined by another light but it was so far away it was hard to tell from our position. We never saw or heard any reports in the newspaper of what we saw, and later tried to contact Len Stringfield at his office in Cincinnati but he was out of town, and didnt contact us about it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36149.html](http://www.nuforc.org/webreports/reports/036/S36149.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164626.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164450.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164449.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164475.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
