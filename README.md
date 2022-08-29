@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:42 on 29 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:41 on 29 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Spanaway (WA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Bright green oval light go down around 224th St.  Green streak in low sky...above trees and disappear into the trees.((NUFORC Note:  Possible meteor, we suspect.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113049.html](http://www.nuforc.org/webreports/reports/113/S113049.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Port St. Lucie (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Fiery Colored Silent Agile Ball Of Light.At 9:15 PM, we came on to our back patio which faces West.  We saw what looked like a planet or a star at tree line level.  Very bright.  Golden Orange in color.   We found this strange as we are not used to seeing anything like that so low in the sky.  We sat and looked at it for about 5 minutes.  As it was so still, my Husband took out his iPhone Planet/Star  Finder and nothing was indicated in that area.  At this time the object began to move slightly up, down, left and right in the same area.  It was silent.  Glowing brightly, but not casting light beyond itself.  No blinking or pulsing lights.  It did this for about 5 minutes before heading below the tree line briefly and then up and out to the N-NW at a rapid speed.  As it was traveling, it kept its sawtooth like pattern.  We watched it until it was out of our sight.  We have never seen anything like it.  About a half hour later, there were multiple aircraft in the vicinity.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101732.html](http://www.nuforc.org/webreports/reports/101/S101732.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164469.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164490.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164500.html)
-- [348](http://www.nuforc.org/webreports/reports/164/S164488.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164842.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
