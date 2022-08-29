@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:32:05 on 29 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:28:55 on 29 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Charlotte (NC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Green fireball with orange trail following.Standing in the backyard looking at the sky and out of no where observed a burst over the tree line then saw a illuminated neon green fireball hold a consistent altitude and speed shoot across the sky with an orange trail following.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92291.html](http://www.nuforc.org/webreports/reports/092/S92291.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Pickering (Canada) (ON) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Husband's Report: Small round white ball shape hovering in the sky.It first appeared as a small white round ball.  It seemed to be spinning, and at the same time, moving around in a small circle.  I lost sight of it and then found it slightly lower than when i first saw it.  It still appeared to be spinning and moving around in a small circle, but was now glowing red, then white and disappear.  It continued this way for a least 10 minutes and then it disappeared and never saw it again.  We were looking in the north east direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113022.html](http://www.nuforc.org/webreports/reports/113/S113022.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164469.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164490.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164500.html)
-- [348](http://www.nuforc.org/webreports/reports/164/S164488.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164842.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
