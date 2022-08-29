@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:20:36 on 29 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:06:36 on 29 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Little Rock (AR) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Alien ship moving at a high rate of speed but very silent across Little Rock ArkansasI was standing outside talking with a friend in the neighborhood an I just so happen to look up at the sky an I seen a cigar white object flying silently at a High rate of speed about 10,000 feet in the air for about 10 or 15 seconds an then it just vanished.  So I ask my friend if he seen what I saw an he said yea I seen it to so I know it was real.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142927.html](http://www.nuforc.org/webreports/reports/142/S142927.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in La Palma (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.025 - 0.025 minutes.</sub><blockquote><sub>Green Object flying over LA AreaThis morning Aug 29th, 2009 at 5:20 A.M. approximately, coming back home from work in La Palma, California, I saw a flying object in front of me.The object was about 2/3rds the size of the sun, round, green, like the green traffic lights, but reflecting some kind of less brilliant, faded light, like an aurora, possibly due to clouds in the sky.I was traveling North on Valley View Blvd, and the object went from SWW to NNE and started at about an altitude of 40 degrees end ended at about 25 degrees from horizontal.It covered about 90 degree of my peripheral view and lasted about 1.5 to 2 seconds.  No noise was produced and I don’t know the distance of the object from my point of view.When I got home I commented it to my son, and he affirms that he saw the same thing, only that this object was changing colors from green to orange to yellow, something I didn’t catch.As a reference, Mars, the most brilliant star at that time was at about an altitude of 45 deg in the NEE position.  The flying object was three to four times more brilliant and bigger than Mars, but in green color.((NUFORC Note:  Mars not visible from Earth on this date, at this time.  Possibly a sighting of Sirius, if it was in the northeast sky, we suspect.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71935.html](http://www.nuforc.org/webreports/reports/071/S71935.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164469.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164490.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164500.html)
-- [348](http://www.nuforc.org/webreports/reports/164/S164488.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164842.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
