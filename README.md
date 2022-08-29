@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:41 on 29 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:41 on 29 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Port St. Lucie (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Fiery Colored Silent Agile Ball Of Light.At 9:15 PM, we came on to our back patio which faces West.  We saw what looked like a planet or a star at tree line level.  Very bright.  Golden Orange in color.   We found this strange as we are not used to seeing anything like that so low in the sky.  We sat and looked at it for about 5 minutes.  As it was so still, my Husband took out his iPhone Planet/Star  Finder and nothing was indicated in that area.  At this time the object began to move slightly up, down, left and right in the same area.  It was silent.  Glowing brightly, but not casting light beyond itself.  No blinking or pulsing lights.  It did this for about 5 minutes before heading below the tree line briefly and then up and out to the N-NW at a rapid speed.  As it was traveling, it kept its sawtooth like pattern.  We watched it until it was out of our sight.  We have never seen anything like it.  About a half hour later, there were multiple aircraft in the vicinity.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101732.html](http://www.nuforc.org/webreports/reports/101/S101732.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Saint Andrews (Canada) (NB) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Possible UFO siting over the St. Croix River during Hurricane Irene in St.Andrews, New Brunswick.I awoke at 5am on August 29, 2011, due to high winds from Hurricane Irene coming through my bedroom window. I went to the bathroom, checked on my son and then proceeded to close the window in my bedroom that looks out onto the St.Croix River.  I marveled at the sounds from the storm and watched the tree next to my deck sway in the wind.  Then the sky lit up where a cloud was over the water, it glowed red in a circular shape and a sound came from the direction of the cloud 3 times.  Then it stopped.  The sky lit up 2 more times after this with the same glowing red and same sound.  Then the power went off. This occurred around 5:15am on August 29,2011.  I tried to wake my boyfriend who was in bed next to me, but I couldn't get him to wake up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83551.html](http://www.nuforc.org/webreports/reports/083/S83551.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164469.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164490.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164500.html)
-- [348](http://www.nuforc.org/webreports/reports/164/S164488.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164842.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
