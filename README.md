@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:38 on 29 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:34 on 29 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Clarence Center (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Object seen flashing red and blue quickly hovering over Akron, NY, morning of 8/28 and then Pendleton, NY, 8/29. Object remains at same hight and static in sky at about 2000 to 3000 ft.  It does not move.  Definitely not a star.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113012.html](http://www.nuforc.org/webreports/reports/113/S113012.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Cutchogue (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1hr+ - 1hr+ minutes.</sub><blockquote><sub>Bright object seen moving north of Riverhead, Long Island, NY.I have been witnessing a very bright unknown lighted object in the sky to the west of my residence. Even with the use of a decent set of binoculars, I have been unable to determine exactly what it is.  I have been seeing the exact same object almost every night for the last two weeks. It moves very slowly to the north until it can no longer be seen.  I would estimate that the object is flying somewhere over riverhead or calverton, then north to the long island sound out of my view. I'm definitely not implying that this is an alien spacecraft, but I would like to know exactly what it is. If you live on eastern long island and have been seeing this same object, please report it on this site.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77508.html](http://www.nuforc.org/webreports/reports/077/S77508.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164469.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164490.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164500.html)
-- [348](http://www.nuforc.org/webreports/reports/164/S164488.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164842.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
