@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:54:22 on 29 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:46:25 on 29 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Bountiful (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Rapidly moving formation of lights. I was leaving for work Sunday night and looked up in the sky to check the weather. To the north I saw a fuzzy blob that was coming my way very fast.  It quickly became several points of light that flew over slightly east of my position and kept going south until they vanished into the sky glow over Salt Lake City to the south.There must have been about two dozen of them flying in formation.  They looked like stars of medium intensity, that is, they were the about the same size and color.  It wasn't a fixed pattern but they moved in relation to each other.  There was no sound that I could hear and the lights did not flash or leave a trail.  They covered about 2/3 of the visible sky in about 10 seconds.  There was no telling how high or how fast they were actually going but I’m guessing they were about the height of the nearby mountain tops.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77542.html](http://www.nuforc.org/webreports/reports/077/S77542.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>yellow orange possibly transparent sphere of lightWhile I was talking on the phone with a friend I looked out my window to the east and saw a glowing, possibly transparent, yellow orange ball of light hovering about one or two miles away.  From my point of view it was about half the size of a penny.  When I went out to my front balcony to get a better look it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159244.html](http://www.nuforc.org/webreports/reports/159/S159244.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164469.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164490.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164500.html)
-- [348](http://www.nuforc.org/webreports/reports/164/S164488.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164842.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
