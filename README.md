@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:54:16 on 30 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:51:24 on 30 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Pasadena (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Object  over  Altadena  witnessed  by  2Looking  northward , I  observed  a  black  object  slowly  floating  across  the  sky  in  a  northward  direction , over  Altadena , very  close  to  JPL . After  watching  it  for  approximately  20  seconds , it  dramatically  flattened  out  to  a  near-perfect  arch . It  was  then  when  my  fiance' joined  me . We  immediately  observed  the  object  emit  an  arching  light  from  just  above  the  leading  edge , (the  sun  had  set  entirely  within  the  past  hour  of  our  observation , solar  reflection  was  improbable ).The  object  continued  to  change  shape ; similar  to  a  large  plastic  trash  bag . As  it  approached  the  the  ridge  of  the  mountains , to  our  surprise , it  disappeared  behind  the  mountains , indicating  it's  extreme  size . This  is  the  third  time  in  the  last  three  weeks , we've  seen  these  peculiar  'floaters' and  they've  always  been  observed  near  the  western  ridge  of  the  San  Gabriel  Mountains((NUFORC Note:  We assume the witness intended a date in August 2003, not September.  We have amended the date above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31123.html](http://www.nuforc.org/webreports/reports/031/S31123.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Vallejo (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Bright burning white light suddenly appearing then fading into a small shooting starBright white light that appeared out of nowhere looked like a plane appeared flying towards us, then died down to a small looking shooting star or satelite but traveling slow until it faded away((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.   PD))((NUFORC Note:  Iridium satellite?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101746.html](http://www.nuforc.org/webreports/reports/101/S101746.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [418](http://www.nuforc.org/webreports/reports/164/S164480.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164481.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164834.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164837.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164533.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
