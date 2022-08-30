@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:45 on 30 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:42 on 30 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Racine (WI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Disk shaped craft with amber/orange light, flying low without sound.On 8/30/2014 at 23:23, we observed a disk shaped craft in the night sky.  When we first saw the craft, the craft was lit up with an amber/orange colored light.  We immediately started to discuss the craft and as soon as we spoke about it, the light dimmed and turned off, as if to camouflage itself from view.  The craft was still visible even without the light, as it was flying very low and was quite large.  The craft moved rather quickly but made no noise as it moved above us.  The craft continued to fly past and eventually, we lost view of it.  This was not an airplane or helicopter.  This was something much, much different and something I have never seen before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113093.html](http://www.nuforc.org/webreports/reports/113/S113093.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Sandy (UT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Incredible moving lights in the skyTwo nights in a row over salt lake city we have seen very strange objects in the sky.  The best way I can discribe it a circular shape of light and a stream of light that looks to he hanging below.  Flashes of color (red and green) can be seen at times.  They hover without hardly moving.  Last night my husband ((name deleted)) to convience me it was an odd looking star, but then it began to move (he lost it and startedjumping up and down).  It looked as if it went thru the atmosphere because the light dimmed and disappeared.  It was moveing extremely fast.  I know we can't be the only ones that saw this.  Incredible!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83588.html](http://www.nuforc.org/webreports/reports/083/S83588.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [418](http://www.nuforc.org/webreports/reports/164/S164480.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164481.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164834.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164837.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164533.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
