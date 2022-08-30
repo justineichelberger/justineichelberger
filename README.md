@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:30:43 on 30 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:54:16 on 30 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Black oval shape w/heat waves visible over 5 freeway in SilverlakeOn the morning of August 30, 2010, I was taking pictures of the beautiful sunrise in LA, looking southeast from my balcony toward Eagle Rock and the 5 freeway.  I took 15-20 pics every couple of minutes as the sun broke through the clouds.The following morning I downloaded the pics off the camera and saw this black, oval object toward the right of the clouds that I did not see while taking the pictures.  It only appeared in this one picture so I am CERTAIN it is not a dust speck on the lens.  I can see heat waves around it.  Also, I am pretty sure it’s not a helicopter.  They fly over all the time and I hear them.  This was a silent morning, except for the freeway sounds below.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77861.html](http://www.nuforc.org/webreports/reports/077/S77861.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Pasadena (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Object  over  Altadena  witnessed  by  2Looking  northward , I  observed  a  black  object  slowly  floating  across  the  sky  in  a  northward  direction , over  Altadena , very  close  to  JPL . After  watching  it  for  approximately  20  seconds , it  dramatically  flattened  out  to  a  near-perfect  arch . It  was  then  when  my  fiance' joined  me . We  immediately  observed  the  object  emit  an  arching  light  from  just  above  the  leading  edge , (the  sun  had  set  entirely  within  the  past  hour  of  our  observation , solar  reflection  was  improbable ).The  object  continued  to  change  shape ; similar  to  a  large  plastic  trash  bag . As  it  approached  the  the  ridge  of  the  mountains , to  our  surprise , it  disappeared  behind  the  mountains , indicating  it's  extreme  size . This  is  the  third  time  in  the  last  three  weeks , we've  seen  these  peculiar  'floaters' and  they've  always  been  observed  near  the  western  ridge  of  the  San  Gabriel  Mountains((NUFORC Note:  We assume the witness intended a date in August 2003, not September.  We have amended the date above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31123.html](http://www.nuforc.org/webreports/reports/031/S31123.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [418](http://www.nuforc.org/webreports/reports/164/S164480.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164481.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164834.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164837.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164533.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
