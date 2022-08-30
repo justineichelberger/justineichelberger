@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:42 on 30 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:50 on 30 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Sandy (UT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Incredible moving lights in the skyTwo nights in a row over salt lake city we have seen very strange objects in the sky.  The best way I can discribe it a circular shape of light and a stream of light that looks to he hanging below.  Flashes of color (red and green) can be seen at times.  They hover without hardly moving.  Last night my husband ((name deleted)) to convience me it was an odd looking star, but then it began to move (he lost it and startedjumping up and down).  It looked as if it went thru the atmosphere because the light dimmed and disappeared.  It was moveing extremely fast.  I know we can't be the only ones that saw this.  Incredible!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83588.html](http://www.nuforc.org/webreports/reports/083/S83588.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Troy (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright white light which appeared and disapeared in northern sky, in approx. one minute.This was second sighting in one week. First occured Monday Aug 28 at 21:15 local time. Second sighting was Aug 30 at 21:10 local time. Both were exactly the same. From my position in west central Ohio, a bright light appreared approx 35 degrees from horizon due north. Light appreared from pin point to become a very bright light. Brighter than any star visible. The light lasted for approx 30-40 seconds the faded away to a pin point, then vanished. On Monday the 28th I noted it, and thought hard about making a report. The second sighting on the 30th convinced me this was not any type of aircraft or natural phenonmenon. I am a 42 year old male. Married. Own my own home. Currently employed full time, and with my current job 10 years. I have eight years active duty in the US Coast Guard as a Quartermaster (navigator) and have been trained to make true and keen observations. In 42 years I have never seen anything that remotely resembles this.((NUFORC Note:  We do not know what it was the witness observed.  However, a regular reader of our posted reports has cited the fact that an Iridium was scheduled to "flare" ( Magnitude:  -3) in the northern sky, as viewed from Troy, at 31 degrees above the horizontal plane, at 2109 hrs., on this date.  The description is not entirely consistent with a sighting of an Iridium satellite, but we cite the coincidence of the two events.  Our thanks to Lexy.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13953.html](http://www.nuforc.org/webreports/reports/013/S13953.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [418](http://www.nuforc.org/webreports/reports/164/S164480.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164481.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164834.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164837.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164533.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
