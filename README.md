@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:23:12 on 30 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:10:09 on 30 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Mt. Katahdin area (ME) reported seeing craft that fit the description of some 'Egg' over a period of approximately  -  minutes.</sub><blockquote><sub>Unexplainable shapes in photosDid I catch UFOs in my old camera?  In the first shot you can actually count 5 shapes in formation.In the second, 2 closest/largest ones have moved over toward the moon with s maller ones. The fifth which is not too visible in this scanned image was left hanging out on the right side of the photo (opposite side of the moon)  What are these??!!!  How would you classify the shape?  I didn't see these shapes in the sky when I photographed this sunset over a lake in Maine last summer (Mt. Katahdin, Maine, Labor Day weekend 2003). When I got my prints last nite in the mail I was so upset about what I thought were thumbprints of a sloppy lab printer on these 2 photos. I have other shots of the same area which I took at various times of the day when we went for a hike and all of them were nice clean prints. (I tend to collect a batch of films and then send them all together to Clark Color Lab. Today, I now have an Olympus 750 which would have given even better images of this sunset over Katahdin, I suspect.)  Thinking it's just dirty print, I looked for the negs so I could send them back to the lab and have them do these 2 shots over again. I was very surprised to find these shapes in the negatives!  Where can I take the negs and prints for further analysis?  Thanks.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35959.html](http://www.nuforc.org/webreports/reports/035/S35959.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in North Charleston (SC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Tried to go to the store while on a phone call, strange noise happened call was disrupted, and car shut down, still wont turn on.  Heard a noise behind the car and ran inside the house.  Feel like I'm crazy but figured I would report it anyways.  I'm still not completely sure what happened.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158997.html](http://www.nuforc.org/webreports/reports/158/S158997.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [418](http://www.nuforc.org/webreports/reports/164/S164480.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164481.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164834.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164837.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164533.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
