@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:43 on 30 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:46 on 30 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Woodlands (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>Summary : i and my best freind took my telescope to test it out(my freind's in college sr. 1 of his subjects is astronomythe night was bright with stars and i saw through my telescope a moving light,i told my freind and he said it was probobly a meteor.then after he looked he said, "I have never seen anything like this,and i've studied astronomy sense i was 11!i think it's a U.F.O come on let's go to my house and we'll go on the net and look for a place where we can report this." it was 1 light moving quite rapidly,i would estimate about 800 mph or so then it was 2 lights then 3 then 5 then 7 then 1 and so forth for around 6 or 7 times over</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02777.html](http://www.nuforc.org/webreports/reports/002/S02777.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Oriskany Falls (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright cicrclar objects moved VERY fastWe were at a party at Lebanon reservoir when a very bright circular object appeared the horizon to the south. It appeared almost as if it were engulfed in flames. The object came north towards us then turned and went east very quickly. much faster than any terrestrial air craft Ive ever encountered. Then about a half hour later another came and went. It was obviously not a balloon or a firework or something due to the longevity of its flight and its ridiculous speed. There were several witnesses in attendance. There were several other commercial aircraft in the vivinity at the time suggesting governmental experimentation. There is a air force base within 20 or so minutes of here but its in the middle of the city of Rome, NY, what ever this was would have been easily spotted on take off.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65555.html](http://www.nuforc.org/webreports/reports/065/S65555.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [418](http://www.nuforc.org/webreports/reports/164/S164480.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164481.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164834.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164837.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164533.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
