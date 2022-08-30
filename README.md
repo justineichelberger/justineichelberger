@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:40 on 30 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:47 on 30 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Manahawkin (NJ) reported seeing craft that fit the description of some 'Cone' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Shiny metallic upside down cone shaped object over Jersey Shore.The sky was crystal clear and the humidity was very low, below 40%.The wind was calm at ground level. I noticed three distinct clouds that caught my intrest. Two were parallel to each other looking like they had been emitted by jet exhaust. They were approximately two miles long. There was also another cloud just to the east/ south east that was fatter and shorter and was directly over me at one point. All three clouds were dispersing their content as they were being gently moving with the wind to the  east / south east. The short fat cloud looked rather strange at the time slowly turning into a circular shape with a waterfall of mist being left behind. While I was looking at this I notice a stationary speck in the sky just under this cloud. I quickly (10 to 15 seconds) retrieved my binoculars and focused on this object.  It moved up into this cloud for 20 seconds then moved back down.  When it had cleared the cloud I could see it was a shiny metallic object,! upside down cone shape with a domed top.  It was hovering near the cloud for approximately 20 seconds and then started moving down in a slow fluid motion occasionally skipping North East on its seeming descent.  It only took 20 seconds of observation before I lost sight of it behind some large trees.I moved to a clearing but could not regain sight of the object.  I do not think this was a metallic Mylar balloon. If it was it would have blown with the winds aloft to the east/ south east. Object appeared to be much larger than a Mylar balloon also.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77541.html](http://www.nuforc.org/webreports/reports/077/S77541.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Vacaville or Fairfield (?) (near) (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Shiny with sun reflecting on what looked like cigar-shaped object, hovering for 10-20 seconds, then line of extremely bright lights flash in sequential line.  Object vanished.  Clear sky, no clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135974.html](http://www.nuforc.org/webreports/reports/135/S135974.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [418](http://www.nuforc.org/webreports/reports/164/S164480.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164481.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164834.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164837.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164533.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
