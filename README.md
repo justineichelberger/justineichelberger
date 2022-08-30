@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:45 on 30 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:33 on 30 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Dover (DE) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>triangle with white lightsMe and my girlfriend were on our way to the Deleware beach when we saw a triangle with white lights on it. i saw it through trees so i assumed that it was a plane or even a kin dof light post but somethign wasnt right about it. later on i found out my step brother saw the same thing. and there is also a report of a similiar sighting apx 2 years ago</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24999.html](http://www.nuforc.org/webreports/reports/024/S24999.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Boise (ID) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Reported light may not have been the ISS.I am writing this report as an attachment, and in reference to another report that was recently filed through your agency.  The report that I am referring to is the one that is sited below...Occurred : 8/15/2011 22:00 (Entered as : 08/15/2011 22:00) Reported: 8/15/2011 9:15:19 PM 21:15 Posted: 8/21/2011 Location: Boise, ID Shape: Circle Duration:5 minutes high flying thing  I happen to go out in the back yard and watched this thing. It was moving from south west to north east. No blinking lights and it was just between a plane and a satellite. What moves like that? If it was a satellite it would have changed its brightness and be in a polar orbit. No way it was a meteor. No plane flies this fast.((NUFORC Note: ISS over-flight at 21:57 hrs.; SW to NE. PD))    I also live in Boise, Idaho and have seen these lights as well on numerous occasions.  The reason that I am disputing the claim that what was seen is the ISS, is due to the fact that on the evenings that I witness these lights I sometimes see multiple lights within an hour of each other, or sometimes within minutes of each other.  They are not always traveling from the Southwest to the Northeast.  Over a period of about two years I have seen these same objects, and I have also witnessed them traveling from due South, to due North.  I have also seen them bend their trajectory, and alter their velocity from slow to very fast.  These objects appear at first as a very bright white light, (sometimes amber in color), and appear to be intelligently controlled.  They travel along at a steady velocity, and then fade in their intensity, then just simply blink out and disappear.  These objects are moving far too slowly to be a meteorite, and far too fast to be an airplane.  They appear! to be above the upper atmosphere, as there is absolutely no sound associated with them. These objects are one solid color.  (As I mentioned above, white or amber).  There are no FAA lights on them whatsoever. (Red,Green, or strobing). I usually see them between 22:00 and 24:00 Hours.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83834.html](http://www.nuforc.org/webreports/reports/083/S83834.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [418](http://www.nuforc.org/webreports/reports/164/S164480.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164481.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164834.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164837.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164533.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
