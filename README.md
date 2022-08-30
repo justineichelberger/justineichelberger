@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:10:09 on 30 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:37 on 30 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in North Charleston (SC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Tried to go to the store while on a phone call, strange noise happened call was disrupted, and car shut down, still wont turn on.  Heard a noise behind the car and ran inside the house.  Feel like I'm crazy but figured I would report it anyways.  I'm still not completely sure what happened.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158997.html](http://www.nuforc.org/webreports/reports/158/S158997.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in NiagaraFfalls (ON) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>White light with undulating mist around it disappearing and leaving a cloudAugust 30 the wind was traveling 4 kilometers an hour from the south west.  I was setting up my telescope for astrophotography when a bright light appeared in the NNW beside the roof of a house but off in the distance.  It was well under 500 feet altitude and anywhere from a quarter mile to a mile away.  It was a very bright white light with an undulating mist cloud in front of it.  The light seemed to be saucer shaped but it was hard to see with the undulating cloud in front of it.I scrambled to set my phone up to take a video and when I looked up the bright light was now a tiny white circular dot light and the undulating cloud was now a perfect sphere around the white light which slowly changed into more of a donut shape darker in the center but still spherical looking from my angle.  This cloud was also about 1 1/2 times larger than the initial cloud around the bright light.It was slowly traveling south at the same speed the entire time. Even the cloud kept moving south. After about five or so seconds the tiny dot light disappeared and I was just a cloud moving south and it went behind trees out of sight and didn’t emerge out the other side.I reported this to MUFON that night and respect this organization as well and wanted to report it here also since there were numerous people within a 250km radius that saw the exact same thing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159095.html](http://www.nuforc.org/webreports/reports/159/S159095.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [418](http://www.nuforc.org/webreports/reports/164/S164480.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164481.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164834.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164837.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164533.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
