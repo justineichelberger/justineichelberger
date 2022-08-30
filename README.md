@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:47 on 30 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:01:04 on 30 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Vacaville or Fairfield (?) (near) (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Shiny with sun reflecting on what looked like cigar-shaped object, hovering for 10-20 seconds, then line of extremely bright lights flash in sequential line.  Object vanished.  Clear sky, no clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135974.html](http://www.nuforc.org/webreports/reports/135/S135974.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1980, an anonymous witness in Llandudno (UK/Wales) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>there were lights on the objectThe object was circular in shape which gave the impression u could see through it.  The lights coming from the object where like a whitey  blue. It was above us and seemed to moving down on top of us.T  The person i was with said it felt like some one was taking pictures.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13271.html](http://www.nuforc.org/webreports/reports/013/S13271.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [418](http://www.nuforc.org/webreports/reports/164/S164480.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164481.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164834.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164837.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164533.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
