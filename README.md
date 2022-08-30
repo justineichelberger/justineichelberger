@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:07:29 on 30 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:45 on 30 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Newcastle upon Tyne (UK/England) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.058333333333333334 - 0.058333333333333334 minutes.</sub><blockquote><sub>recorded on ring door bell camera</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159080.html](http://www.nuforc.org/webreports/reports/159/S159080.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Dover (DE) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>triangle with white lightsMe and my girlfriend were on our way to the Deleware beach when we saw a triangle with white lights on it. i saw it through trees so i assumed that it was a plane or even a kin dof light post but somethign wasnt right about it. later on i found out my step brother saw the same thing. and there is also a report of a similiar sighting apx 2 years ago</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24999.html](http://www.nuforc.org/webreports/reports/024/S24999.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [418](http://www.nuforc.org/webreports/reports/164/S164480.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164481.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164834.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164837.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164533.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
