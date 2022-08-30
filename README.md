@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:45 on 30 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:30:43 on 30 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Eustace (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>Yellow/Orange Blinking Light Drops Down From The SkyLooking East, I could see a star and what appeared to be another star right under it.  I first took it for as an airplane or air craft.  I could see the light and noticed it twinkling like a star. Then it got brighter though didn't seem to be getting closer which a plane would.  It stayed in place for about 10 minutes.  I did mention it to my friends but they weren't paying attention so I kept my eye on it because it kept flashing brighter and brighter.  Imagine a firefly's light going from high to low, that's what it was like and it was a combination of yellow/white/orange.  Then the object made what could have been 3-5 sharp drop moves.  The only way to describe it would be to compare it to the game of Plinko on the Price Is Right, you didn't know which way it was going until it got there.  Zigzag is another way to describe the drop; after its short sharp descend, it was to the lower left of the star that didn't move.  From the distance that I was at, it was still far away in the sky.   I remember saying "if I were 30 miles closer we could get an amazing look at it."   That's when I got up to get my phone and see if I could photograph it.  I stepped away from the camp site in order to walk into complete darkness, but the distance was too high for my iPhone to capture.  It stayed in place for another 10 minutes, blinking.  Then it made a straight move down.  That's when I knew I was seeing something other than a plane.  The descend lasted less than 10 seconds (5 maybe) it was fast and noticeable. It dropped all the way down to the horizon and just like that it stopped, and (with me facing East) it made a right turn, now traveling South until it went behind the mounds and woods.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113146.html](http://www.nuforc.org/webreports/reports/113/S113146.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Black oval shape w/heat waves visible over 5 freeway in SilverlakeOn the morning of August 30, 2010, I was taking pictures of the beautiful sunrise in LA, looking southeast from my balcony toward Eagle Rock and the 5 freeway.  I took 15-20 pics every couple of minutes as the sun broke through the clouds.The following morning I downloaded the pics off the camera and saw this black, oval object toward the right of the clouds that I did not see while taking the pictures.  It only appeared in this one picture so I am CERTAIN it is not a dust speck on the lens.  I can see heat waves around it.  Also, I am pretty sure it’s not a helicopter.  They fly over all the time and I hear them.  This was a silent morning, except for the freeway sounds below.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77861.html](http://www.nuforc.org/webreports/reports/077/S77861.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [418](http://www.nuforc.org/webreports/reports/164/S164480.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164481.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164834.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164837.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164533.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
