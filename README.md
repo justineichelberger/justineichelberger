@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:38 on 31 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:42 on 31 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Orleans (Canada) (ON) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Sphere of Light moving at High rate of speed over East OttawaI was out at 11:15pm last night in my back yard having a cigarette, looking at the stars in the sky and the moon, I was looking east when I turned around to see a spherical object (a ball of light) moving quickly across the horizon from SSE to NNW.  It was at a low altitude (approx. 5,000-10,000 feet)and moving at a high rate of speed and with no noise.  I followed it visually until it passed out of sight behind the tall hedges at the rear of my property. I doubt it was a meteorite since I have seen plenty in my time.  The trajectory was all wrong for this altitude since it was travelling across the horizon rather than downwards. I have also witnessed a natural fireball fall to earth and this lacked the material ("sparks" and flames) trailing behind it. I have seen countless types of aircraft (military, private, commercial) travelling at all sorts of altitudes, at all times of day and in all weather conditions.  This was not an aircraft.  Travelling in front of me left to right, I should not have been able to see the cockpit light or the landing lights that brightly from the side. I did not see any standard anti-collision lights either which would have been plainly visible at that altitude. I doubled-checked my glasses to see if I had mistaken the sphere for a reflection off the lenses of my glasses from the moon. I couldn't recreate the effect myself.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71998.html](http://www.nuforc.org/webreports/reports/071/S71998.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Oconto Falls (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>11 bright orange circles seen, within 20 minutes.My husband and I were sitting by the bonfire, looking up in the sky, when we noticed 2 orange objects coming from the south heading northwest.  They disappeared in the northwest clouds when 2 more appeared and did the same thing.  We seen a total of 11 orange objects within a half hour period.  They all went the same way and disappeared, there was no engine sound or anything, for that matter.  I took my cell phone and tried to record it and one did turn out somewhat.  My husband and I never seen anything like this in our lifetime.((NUFORC Note:  We wonder whether the date shown above may be flawed.  We have written the witness, requesting confirmation of the August 1st, 2001, date.  PD))((ADDENDUM FROM WITNESS))I have an error on my report  It was August 31st, 2014, not August 2001.  I must not have paid attention to the entire e-mail and how I replied to it.  I do have a short video that I can send but you can't really see it that good. sorry for the error on my part but was just found my report and it was way wrong on the date.((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113184.html](http://www.nuforc.org/webreports/reports/113/S113184.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [396](http://www.nuforc.org/webreports/reports/164/S164483.html)
-- [395](http://www.nuforc.org/webreports/reports/164/S164476.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164479.html)
-- [393](http://www.nuforc.org/webreports/reports/164/S164844.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164474.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
