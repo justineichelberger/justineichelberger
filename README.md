@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:48 on 31 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:50 on 31 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Cloquet (MN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright red lights moving in steady progressionWe were working night shift at Paper mill.  1 guy mentioned on the radio that there was some red lights in the sky. I was with a co worker in the pick-up truck and got out to look. We saw about 7 red lights in a triangle shape traveling from west to east moving towards Duluth.  There was 2 sets of 3 lights in the back with a somewhat larger light in the front.  All the lights were moving together, although I couldn't tell if it was one large object.  If it was one object, IT WAS HUGE. My coworker said there was a low pitched noise but it wasn't loud like a jet or something.  I know these were not airplane lights, (I used to work avionics for a local airplane manufacturer).  These lights moved in a steady progression and we watched it until the lights faded to the east. I also saw  what looked like a streak of light shoot from the object, which looked like a shooting star. These lights were not blurry but quite bright and crisp. The night was clear and I dont think the moon was out; so it was dark.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65506.html](http://www.nuforc.org/webreports/reports/065/S65506.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Yelm (WA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Two witnessed glowing orange rectangular object moving through the sky on the night of the "Blue Moon."My daughter stepped outside onto our back deck to smoke a cigarette at approximately 1720 hours on August 31, 2012.  She called to me and said, "Mom, what is that?  Come here!"I ran out back and looked up.  In between the tall fir trees, there was a glowing orange rectangular object moving through the sky heading north.  It started heading out over our house, so we both ran through the house to the front yard.  It had now changed direction and was heading east.  I told my daughter to go get her brother, and just as they came out of the house, the object just evaporated.   There were only a few clouds;  it was clear where it had been.   Also, the moon was unusually large and was in the same direction that the object was travelling.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92357.html](http://www.nuforc.org/webreports/reports/092/S92357.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [396](http://www.nuforc.org/webreports/reports/164/S164483.html)
-- [395](http://www.nuforc.org/webreports/reports/164/S164476.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164479.html)
-- [393](http://www.nuforc.org/webreports/reports/164/S164844.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164474.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
