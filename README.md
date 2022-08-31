@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:40 on 31 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:46 on 31 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Lake Oswego (OR) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Noon siting of multiple fast moving objectsI witnessed a large group (15-20) - quick approximate) of grayish egg shaped objects moving very fast at what appears to be high altitude.  No discernible sounds was heard but that may not be surprising given its high altitude.Many change position as they moved.  You can see this in the video.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148583.html](http://www.nuforc.org/webreports/reports/148/S148583.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Williston (ND) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Three orange dots in a triangular shape over NDMy friend and I were outside having a cigarette. My friend stated "UFO! and pointed in the sky. I looked up and saw three orange dots traveling northeast to Southwest. The dots were in a triangular shape traveling at a high rate of speed faster than a shooting star.  The dots were spaced evenly as they moved. Just before we lost site of the shape the bottom two dots broke formation and headed in opposite directions as if the shape were expanding. The dots picked up speed and we lost site of them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65483.html](http://www.nuforc.org/webreports/reports/065/S65483.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [396](http://www.nuforc.org/webreports/reports/164/S164483.html)
-- [395](http://www.nuforc.org/webreports/reports/164/S164476.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164479.html)
-- [393](http://www.nuforc.org/webreports/reports/164/S164844.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164474.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
