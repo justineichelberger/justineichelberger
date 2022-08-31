@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:02:17 on 31 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:41 on 31 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Dayton (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright fireball/ord seen over house.I walked out on my front porch saw saw a bright light reflecting from my blk truck I looked up and saw a bright fireball in the sky really close yelled for my girlfriend we watched it fly north until out of sight.  Lasted about 5 min…((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113116.html](http://www.nuforc.org/webreports/reports/113/S113116.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Oakland (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>three trianglular objects moving silently across entire sky before turningThree Triangular, dimly lit objects in a triangular grouping crossed the sky, then apeared to change angle and continue. Object(s) moved very fast, traveled in a straight line and made no sound.((NUFORC Note:  Possible sighting of "NOSS" satellites.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31108.html](http://www.nuforc.org/webreports/reports/031/S31108.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [396](http://www.nuforc.org/webreports/reports/164/S164483.html)
-- [395](http://www.nuforc.org/webreports/reports/164/S164476.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164479.html)
-- [393](http://www.nuforc.org/webreports/reports/164/S164844.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164474.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
