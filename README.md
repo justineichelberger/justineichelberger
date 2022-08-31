@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:32:44 on 31 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:26:39 on 31 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Magna (UT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Bright glowing, reflected surface.  Sphere-like, seemed to change shape slightly.  Hovered below clouds for 30 minutes.Two other friends and I were walking around a cemetery in Magna, Utah.  It was just before the sun was setting, so still day time.  I looked up directly above me for some reason and noticed a circular object hovering in the sky.  My friends noticed it and we thought it was a balloon, but then noticed how big it was but also bright.  It didn't move; clouds moved away from it and we saw it clearly and it was definitely a stationary object of some sort.  It didn't move at all for the 30 minutes we observed it.  It almost looked like it was changing shapes slightly.  It reflected the colors of the sunset as the sun was setting in that half hour.  When the sun faded, it seemed to get smaller and smaller, and then by the time it got dark it almost seemed like just another star in the sky.When we first saw it when it was still light out, we called a couple of friends who were driving and asked if they could see it.  They could as well and didn't know what it was, but commented that it seemed large, stationary, and bright.We all felt as if this was out of the ordinary.  We are all educated, logically people who tried to explain this away, but couldn't.  There was a brief moment when we got somewhat frightened, not sure what it was.  But at the same time, we felt like it was a lucky thing to see.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135987.html](http://www.nuforc.org/webreports/reports/135/S135987.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Saline (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 amber/orange circles in triangle pattern.Driving westbound on Michigan Ave from Saline there were fireworks going off 15 minutes prior.  Then when reaching Saline And Clinton border, I see 3 amber colored circles in a triangle pattern.  There were not red or flashing similar to airplane lights, but more of a glimmer.  The three amber/orange shapes were in a triangle pattern for several minutes and then formed a straight vertical line.  I was pulled over watching at this point.  They stood in a vertical line for a minute or so and then phased out one by one.((NUFORC Note:  We have corrected the date above, to reflect a sighting in 2014.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113125.html](http://www.nuforc.org/webreports/reports/113/S113125.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [396](http://www.nuforc.org/webreports/reports/164/S164483.html)
-- [395](http://www.nuforc.org/webreports/reports/164/S164476.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164479.html)
-- [393](http://www.nuforc.org/webreports/reports/164/S164844.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164474.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
