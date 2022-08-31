@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:43 on 31 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:40 on 31 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Tuscaloosa (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>At least 7 high speed lights seen over Tuscaloosa/Hillcrest, ALI went outside to have a cigarette on my balcony (which faces east south east) and saw strange lights moving in a pattern which no airplane could.  I counted at least 7 but there could've been as many as 12.  The lights would come and go like fire-flys.  It looked like bee's swarming around a nest.  They were all moving at incredibly high speed doing loops and rolls, but not like an airplane could.  All the turns were incredibly tight.  It's been about thirty minutes and its still going on.  I wish I had a camera.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71983.html](http://www.nuforc.org/webreports/reports/071/S71983.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Lake Oswego (OR) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Noon siting of multiple fast moving objectsI witnessed a large group (15-20) - quick approximate) of grayish egg shaped objects moving very fast at what appears to be high altitude.  No discernible sounds was heard but that may not be surprising given its high altitude.Many change position as they moved.  You can see this in the video.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148583.html](http://www.nuforc.org/webreports/reports/148/S148583.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [396](http://www.nuforc.org/webreports/reports/164/S164483.html)
-- [395](http://www.nuforc.org/webreports/reports/164/S164476.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164479.html)
-- [393](http://www.nuforc.org/webreports/reports/164/S164844.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164474.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
