@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:48 on 31 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:13:59 on 31 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in St. Louis Park (MN) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.5 - 3.5 minutes.</sub><blockquote><sub>Large dark black,blue tilting,wablleing object from N.mpls flew over lake Harriet area,then quickly into strange cloud over downtown.I was observing a odd looking cloud over downtown when out of the corner of my eye ,from the north(north mpls) a black circular object appeared heading south.The object was swaying back and forth, at a tilt.  While it moved it seemed to tilt back and forth and up and down while wablleing slightly.Fascinated i ran and grabbed my android phone(model#N800virgin mobile)to take a picture and retured within 20 seconds.The object had slowed to a stop and was hovering over what ide guess the lake Harriet area.I took a picture and was mesmerized by how strange it was tilting.It seemed to be in motion while hovering like it was spinning.I took the picture from my 3rd floor apt about a mile an a half from craft, west of the object.The object seemed to be emitting a aura or faint light around it.It was slightly fuzzy.A few seconds after taking picture, the object made a 90 degree turn at incredible speed into the unusual cloud formation over mpls(close to downtown).  As it flew it gained altitude.  It seemed to know i had taken its picture, but this could be my imagination.  From my apt, its 5.5 miles downtown and this object traveled into the cloud in less than 3-4 seconds.  The cloud was probably 6-7 miles from object.With the background (buildings) as a guide or refrence, i could tell it was at about 2-3 thousand ft altitude range during event.Maybe at about 35 degrees.This object had to be massive,as large as commercial airliner or larger(300+ft)After watching planes at about the same distance,i could tell it was quite large.I should have taken more pictures but didn't get the chance.After blowing up my picture for a better detailed view, it seemed to have a blue outer layer around the perimeter of object.It also seems to have a antenna like apparatus.  The air around craft seemed distorted.  And if you look very closely it seemed to have dome on top.I'm x-military,and can tell you without a doubt that this object isn't a plane,helicopter,or drone.It gave off no emission, or fuel trail, and made no noise.And the object showed intelligence with maneuvers.  The craft itself seemed alive and not mechanical.The cloud it flew into was odd in itself,and had a circular formation and was massive.  Mother ship?  The object never reappeared,  and the storm clouds rolled in after a short time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113157.html](http://www.nuforc.org/webreports/reports/113/S113157.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Takoma (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Flying disk shape object in Takoma, WAMy boy friend and I were celebrating our one year anniversary and took a walk outside our appartment and saw two disk shape objects.  The disk shape objects were just hovering.  It was green in color and I have videos I would like to share.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101846.html](http://www.nuforc.org/webreports/reports/101/S101846.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [396](http://www.nuforc.org/webreports/reports/164/S164483.html)
-- [395](http://www.nuforc.org/webreports/reports/164/S164476.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164479.html)
-- [393](http://www.nuforc.org/webreports/reports/164/S164844.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164474.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
