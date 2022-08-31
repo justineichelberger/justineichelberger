@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:50 on 30 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:39 on 31 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Troy (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright white light which appeared and disapeared in northern sky, in approx. one minute.This was second sighting in one week. First occured Monday Aug 28 at 21:15 local time. Second sighting was Aug 30 at 21:10 local time. Both were exactly the same. From my position in west central Ohio, a bright light appreared approx 35 degrees from horizon due north. Light appreared from pin point to become a very bright light. Brighter than any star visible. The light lasted for approx 30-40 seconds the faded away to a pin point, then vanished. On Monday the 28th I noted it, and thought hard about making a report. The second sighting on the 30th convinced me this was not any type of aircraft or natural phenonmenon. I am a 42 year old male. Married. Own my own home. Currently employed full time, and with my current job 10 years. I have eight years active duty in the US Coast Guard as a Quartermaster (navigator) and have been trained to make true and keen observations. In 42 years I have never seen anything that remotely resembles this.((NUFORC Note:  We do not know what it was the witness observed.  However, a regular reader of our posted reports has cited the fact that an Iridium was scheduled to "flare" ( Magnitude:  -3) in the northern sky, as viewed from Troy, at 31 degrees above the horizontal plane, at 2109 hrs., on this date.  The description is not entirely consistent with a sighting of an Iridium satellite, but we cite the coincidence of the two events.  Our thanks to Lexy.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13953.html](http://www.nuforc.org/webreports/reports/013/S13953.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lake Geneva (near) (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>5 orange balls of light moving off towards the southwest of Lake Geneva Wi.I was driving my semi-truck in a northwesterly direction on hwy.12 about 3 miles north of the city of LakeGeneva Wi.When I observed a formation of 5 orange balls of light,I first thought they were not moving but then I realized they were travelling in a southwesterly direction.They crossed over the highway about the time I got there but I could not guess the height that they were at. I continued to watch them in my mirrors as I travelled up the road, till I lost sight of them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101964.html](http://www.nuforc.org/webreports/reports/101/S101964.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [418](http://www.nuforc.org/webreports/reports/164/S164480.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164481.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164834.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164837.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164533.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
