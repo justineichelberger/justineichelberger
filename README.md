@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:57:14 on 31 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:01:08 on 31 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Orleans (Canada) (ON) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Sphere of Light moving at High rate of speed over East OttawaI was out at 11:15pm last night in my back yard having a cigarette, looking at the stars in the sky and the moon, I was looking east when I turned around to see a spherical object (a ball of light) moving quickly across the horizon from SSE to NNW.  It was at a low altitude (approx. 5,000-10,000 feet)and moving at a high rate of speed and with no noise.  I followed it visually until it passed out of sight behind the tall hedges at the rear of my property. I doubt it was a meteorite since I have seen plenty in my time.  The trajectory was all wrong for this altitude since it was travelling across the horizon rather than downwards. I have also witnessed a natural fireball fall to earth and this lacked the material ("sparks" and flames) trailing behind it. I have seen countless types of aircraft (military, private, commercial) travelling at all sorts of altitudes, at all times of day and in all weather conditions.  This was not an aircraft.  Travelling in front of me left to right, I should not have been able to see the cockpit light or the landing lights that brightly from the side. I did not see any standard anti-collision lights either which would have been plainly visible at that altitude. I doubled-checked my glasses to see if I had mistaken the sphere for a reflection off the lenses of my glasses from the moon. I couldn't recreate the effect myself.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71998.html](http://www.nuforc.org/webreports/reports/071/S71998.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Columbia Heights (MN) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>It was reddish and had rays comming out of it like when you look at the sun.When me and my friends were playing football we took a brake and when i looked up I saw an odd reddish object that had rays comming around it like when u look at the sun it was pretty dark and that's why it sorta stuck out to me once i realized wat i saw i told ran to my computer and reported it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13958.html](http://www.nuforc.org/webreports/reports/013/S13958.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [396](http://www.nuforc.org/webreports/reports/164/S164483.html)
-- [395](http://www.nuforc.org/webreports/reports/164/S164476.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164479.html)
-- [393](http://www.nuforc.org/webreports/reports/164/S164844.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164474.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
