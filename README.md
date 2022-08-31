@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:39 on 31 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:29:01 on 31 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lake Geneva (near) (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>5 orange balls of light moving off towards the southwest of Lake Geneva Wi.I was driving my semi-truck in a northwesterly direction on hwy.12 about 3 miles north of the city of LakeGeneva Wi.When I observed a formation of 5 orange balls of light,I first thought they were not moving but then I realized they were travelling in a southwesterly direction.They crossed over the highway about the time I got there but I could not guess the height that they were at. I continued to watch them in my mirrors as I travelled up the road, till I lost sight of them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101964.html](http://www.nuforc.org/webreports/reports/101/S101964.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Malden Bridge (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>A shallow disc of light in cloudy light 45 degrees above horizon, 8:45PM, Columbia County, New York.We were standing on the deck of our house on a hill, with an unobscured view of the western sky.  We observed what appeared to be a shallow disk emanating light from within, and surrounded by a cloud of light, through binoculars.  This object was approxamately 45 degrees off the horizon in the west-southwestern sky.  It remained stationary for several minutes and then moved in a hortherly direction, appearing to recede as it moved.  Without binoculars it appeared to be a cloud of light without specific shape.((NUFORC Note:  Result of earlier missile launch.  Please see: http://www.spaceflightnow.com/atlas/ac167/040824track.htmlhttp://space.com/spacewatch/mystery_cloud_040901.htmlPD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39036.html](http://www.nuforc.org/webreports/reports/039/S39036.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [396](http://www.nuforc.org/webreports/reports/164/S164483.html)
-- [395](http://www.nuforc.org/webreports/reports/164/S164476.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164479.html)
-- [393](http://www.nuforc.org/webreports/reports/164/S164844.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164474.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
