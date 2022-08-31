@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:42 on 31 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:48 on 31 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Oconto Falls (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>11 bright orange circles seen, within 20 minutes.My husband and I were sitting by the bonfire, looking up in the sky, when we noticed 2 orange objects coming from the south heading northwest.  They disappeared in the northwest clouds when 2 more appeared and did the same thing.  We seen a total of 11 orange objects within a half hour period.  They all went the same way and disappeared, there was no engine sound or anything, for that matter.  I took my cell phone and tried to record it and one did turn out somewhat.  My husband and I never seen anything like this in our lifetime.((NUFORC Note:  We wonder whether the date shown above may be flawed.  We have written the witness, requesting confirmation of the August 1st, 2001, date.  PD))((ADDENDUM FROM WITNESS))I have an error on my report  It was August 31st, 2014, not August 2001.  I must not have paid attention to the entire e-mail and how I replied to it.  I do have a short video that I can send but you can't really see it that good. sorry for the error on my part but was just found my report and it was way wrong on the date.((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113184.html](http://www.nuforc.org/webreports/reports/113/S113184.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Cloquet (MN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright red lights moving in steady progressionWe were working night shift at Paper mill.  1 guy mentioned on the radio that there was some red lights in the sky. I was with a co worker in the pick-up truck and got out to look. We saw about 7 red lights in a triangle shape traveling from west to east moving towards Duluth.  There was 2 sets of 3 lights in the back with a somewhat larger light in the front.  All the lights were moving together, although I couldn't tell if it was one large object.  If it was one object, IT WAS HUGE. My coworker said there was a low pitched noise but it wasn't loud like a jet or something.  I know these were not airplane lights, (I used to work avionics for a local airplane manufacturer).  These lights moved in a steady progression and we watched it until the lights faded to the east. I also saw  what looked like a streak of light shoot from the object, which looked like a shooting star. These lights were not blurry but quite bright and crisp. The night was clear and I dont think the moon was out; so it was dark.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65506.html](http://www.nuforc.org/webreports/reports/065/S65506.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [396](http://www.nuforc.org/webreports/reports/164/S164483.html)
-- [395](http://www.nuforc.org/webreports/reports/164/S164476.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164479.html)
-- [393](http://www.nuforc.org/webreports/reports/164/S164844.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164474.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
