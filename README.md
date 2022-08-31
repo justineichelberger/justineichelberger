@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:01:08 on 31 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:32:44 on 31 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Columbia Heights (MN) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>It was reddish and had rays comming out of it like when you look at the sun.When me and my friends were playing football we took a brake and when i looked up I saw an odd reddish object that had rays comming around it like when u look at the sun it was pretty dark and that's why it sorta stuck out to me once i realized wat i saw i told ran to my computer and reported it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13958.html](http://www.nuforc.org/webreports/reports/013/S13958.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Magna (UT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Bright glowing, reflected surface.  Sphere-like, seemed to change shape slightly.  Hovered below clouds for 30 minutes.Two other friends and I were walking around a cemetery in Magna, Utah.  It was just before the sun was setting, so still day time.  I looked up directly above me for some reason and noticed a circular object hovering in the sky.  My friends noticed it and we thought it was a balloon, but then noticed how big it was but also bright.  It didn't move; clouds moved away from it and we saw it clearly and it was definitely a stationary object of some sort.  It didn't move at all for the 30 minutes we observed it.  It almost looked like it was changing shapes slightly.  It reflected the colors of the sunset as the sun was setting in that half hour.  When the sun faded, it seemed to get smaller and smaller, and then by the time it got dark it almost seemed like just another star in the sky.When we first saw it when it was still light out, we called a couple of friends who were driving and asked if they could see it.  They could as well and didn't know what it was, but commented that it seemed large, stationary, and bright.We all felt as if this was out of the ordinary.  We are all educated, logically people who tried to explain this away, but couldn't.  There was a brief moment when we got somewhat frightened, not sure what it was.  But at the same time, we felt like it was a lucky thing to see.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135987.html](http://www.nuforc.org/webreports/reports/135/S135987.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [396](http://www.nuforc.org/webreports/reports/164/S164483.html)
-- [395](http://www.nuforc.org/webreports/reports/164/S164476.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164479.html)
-- [393](http://www.nuforc.org/webreports/reports/164/S164844.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164474.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
