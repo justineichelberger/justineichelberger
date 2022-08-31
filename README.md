@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:46 on 31 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:41 on 31 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Williston (ND) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Three orange dots in a triangular shape over NDMy friend and I were outside having a cigarette. My friend stated "UFO! and pointed in the sky. I looked up and saw three orange dots traveling northeast to Southwest. The dots were in a triangular shape traveling at a high rate of speed faster than a shooting star.  The dots were spaced evenly as they moved. Just before we lost site of the shape the bottom two dots broke formation and headed in opposite directions as if the shape were expanding. The dots picked up speed and we lost site of them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65483.html](http://www.nuforc.org/webreports/reports/065/S65483.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Palmyra (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Starlike object witnessed in morning skyI came out of Wal-Mart in Palmyra at 6:16 AM and looked up in the northwestern part of the sky at an angle of approx. 80 degrees and saw a bright light in the sky. At first I thought it could be a star or planet, but no other stars were seen. Being that the sky was already light due to the sun rising, the light from it was constant for the first 4 minutes that I observed it. My thoughts that it was a star or planet changed when it gave off a burst of bright white light and increased in size for a moment. It then started to gradually fade out until it was gone. It never moved from its location in the sky and I heard no noise from the object. I wish I had a camera with me to capture this object, but I don’t even own a cell phone so I was left just observing it by eye.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92837.html](http://www.nuforc.org/webreports/reports/092/S92837.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [396](http://www.nuforc.org/webreports/reports/164/S164483.html)
-- [395](http://www.nuforc.org/webreports/reports/164/S164476.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164479.html)
-- [393](http://www.nuforc.org/webreports/reports/164/S164844.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164474.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
