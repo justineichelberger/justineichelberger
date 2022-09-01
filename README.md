@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:27:33 on 1 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:23:21 on 1 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in N. Myrtle Beach (SC) reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Lights off and on swishing back and forth, very clear night and no sound.Lights, no sound, shot a bright light at us.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108464.html](http://www.nuforc.org/webreports/reports/108/S108464.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Pleasant View (TN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>large white fireball or super flare...i was with a friend sitting in a car smoking. we were on another friends property which was a soybean field. we were waiting and chatting. i brought up the fact that every time that this person and i hung out together strange things seemed to happen and no sooner did i say this a large white fireball or flare shot down from the sky there was no sound and if it was indeed a flare it seemed to be shot from the highway towards the local middle-school.this incident occurred about a quarter mile from us and lasted about 5 seconds. we both passed it off as coincidence but who wouldnt?((NUFORC Note:  One of two reports from same witness.  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32302.html](http://www.nuforc.org/webreports/reports/032/S32302.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [729](http://www.nuforc.org/webreports/reports/164/S164588.html)
-- [728](http://www.nuforc.org/webreports/reports/164/S164835.html)
-- [727](http://www.nuforc.org/webreports/reports/164/S164495.html)
-- [726](http://www.nuforc.org/webreports/reports/164/S164496.html)
-- [725](http://www.nuforc.org/webreports/reports/164/S164847.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
