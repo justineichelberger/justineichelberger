@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:03:15 on 1 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:42 on 1 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Alaska (AK) reported seeing craft that fit the description of some 'Light' over a period of approximately all week - all week minutes.</sub><blockquote><sub>There is High Auroral Activity all week that can probably be seen in Juneau to Seattle Lots of nuts will mistaken this as Unidentified objects...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09401.html](http://www.nuforc.org/webreports/reports/009/S09401.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Mesquite (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Alien face observes man from behind in his house.One particular night I was working on my computer working on my web camera. Nothing strange had happened and seemed like a normal day.  I was trying a technique with the camera, by filming the monitor of my computer. at first it was on, then I shut it off. I was alone in the room and noticed after I was done and reviewing the video I could see a face in the bottom right corner of the video.  It was actually moving in the video and you can see 2 big black eyes a small nose and mouth.  There is nothing in the room that could be mistaken for that image. It scared me and it looks like a alien face observing me from behind. I'm not sure why, and I don't want to know.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59898.html](http://www.nuforc.org/webreports/reports/059/S59898.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [729](http://www.nuforc.org/webreports/reports/164/S164588.html)
-- [728](http://www.nuforc.org/webreports/reports/164/S164835.html)
-- [727](http://www.nuforc.org/webreports/reports/164/S164495.html)
-- [726](http://www.nuforc.org/webreports/reports/164/S164496.html)
-- [725](http://www.nuforc.org/webreports/reports/164/S164847.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
