@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:45 on 1 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:41 on 1 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Florence (OR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Orange, moving south, followed by small illuminated object below and slightly behind. Continued burning until obscured by trees.We live 3 miles from Pacific Ocean.  Objects?, were moving at consistent speed entire time.  I can't  really quess the altitude, but was able to see a second object both times I focused on it.  Now sure the shape of second object but it was faintly illuminated, following closely below and slightly behind.  I initially thought this was a meteor slowly burning up, but it continued across the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09503.html](http://www.nuforc.org/webreports/reports/009/S09503.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1979, an anonymous witness in Crowley (LA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Machine Sounding Heart Beat  I was sleeping after working night and woke to find no one home. I looked over to the left of the room after seeing something move. There was a very small person, no different then pics we see of so called Aliens today. This little guy move across my room and went into the living room. I jumped out of bed to see where he was going. He vanished.. About 3 months later I was living at my sisters house. I woke on night,there was a sound of a huge heart beat,very loud, but machine like. I could not move, not even open my eyes. I than could fill myself moving, but I couldn't fill anything below me. I think I was just floating, I then found myself outside of my bedroom, I could fill the cold air now, smell the pine tree next to my room. I was scared to death. I have told my children of this, they always laughed at me.((NUFORC Note:  Source of report indicates that date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58521.html](http://www.nuforc.org/webreports/reports/058/S58521.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [729](http://www.nuforc.org/webreports/reports/164/S164588.html)
-- [728](http://www.nuforc.org/webreports/reports/164/S164835.html)
-- [727](http://www.nuforc.org/webreports/reports/164/S164495.html)
-- [726](http://www.nuforc.org/webreports/reports/164/S164496.html)
-- [725](http://www.nuforc.org/webreports/reports/164/S164847.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
