@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:36 on 1 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:42 on 1 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Dollar Bay (MI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Strange lights in the sky!Drove towards the bright white/green lights.  They seemed to be jumping around.  They were brighter in some spots and dimmer in others.  We tried to take pictures but it would NOT show up on camera or video.  We thought it was the northern lights but they are not like any we have seen before.  It was almost like a portal looking thing!!  Like, if you went out into the woods it would get brighter and find the cause.  We didnt.  The entire county has been notified and I am sure that more than 5 people have seen it!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129639.html](http://www.nuforc.org/webreports/reports/129/S129639.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Lakewood (CO) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 19:44 - 19:44 minutes.</sub><blockquote><sub>A very bright white rectangular object which did not appear to be moving, but instead a clould moved over it and then it went behind Green mountain.My husband,and I were on our way home, we were stopped at a stop light. At the stop light we observed, in the northwest sky a very bright white light that was rectangular in shape, heading in a westerly direction.  It was observed between one power line and it approximately filled that space. The lenght was approximately three to four times the width.  It did not appear to be moving but instead the rotation of the earth covered it with a small dark cloud for about 8 to 10 seconds, and then as the earth continued to move it went behind the mountain.  The sky had dark small clouds and the sun was not shinning.  Where there were no clouds the sky was a dull bluish gray.  The front of the object appeared to be flat and as we looked towards the end of the object the bright white grew fainter and the end looked some what like a thinning tail.  It's trajectory appeared to be flat and parelell with the earth.  The overall size of the object was about one third of a full moon.  Ini! tially, we thought it was a contrail, however, the size was too large, it was too bright a white, and it did not dissapate.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09538.html](http://www.nuforc.org/webreports/reports/009/S09538.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [729](http://www.nuforc.org/webreports/reports/164/S164588.html)
-- [728](http://www.nuforc.org/webreports/reports/164/S164835.html)
-- [727](http://www.nuforc.org/webreports/reports/164/S164495.html)
-- [726](http://www.nuforc.org/webreports/reports/164/S164496.html)
-- [725](http://www.nuforc.org/webreports/reports/164/S164847.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
