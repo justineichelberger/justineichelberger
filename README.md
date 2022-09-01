@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:44:59 on 1 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:27:33 on 1 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Woodmont (CT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>walking my dog along the beach,I was taking pictures of the oyster boats with my digital camera, when I viewed the pictures, I found a disk shaped object hovering overhead in one of the pictures. I was walking my dog along the beach,I was taking pictures of the oyster boats with my digital camera, when I viewed the pictures, I found a disk shaped object hovering overhead in one of the pictures. You can see the picture at http://(Address deleted)) This occurred over Long Island sound</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04379.html](http://www.nuforc.org/webreports/reports/004/S04379.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in N. Myrtle Beach (SC) reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Lights off and on swishing back and forth, very clear night and no sound.Lights, no sound, shot a bright light at us.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108464.html](http://www.nuforc.org/webreports/reports/108/S108464.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [729](http://www.nuforc.org/webreports/reports/164/S164588.html)
-- [728](http://www.nuforc.org/webreports/reports/164/S164835.html)
-- [727](http://www.nuforc.org/webreports/reports/164/S164495.html)
-- [726](http://www.nuforc.org/webreports/reports/164/S164496.html)
-- [725](http://www.nuforc.org/webreports/reports/164/S164847.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
