@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:41 on 1 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:43 on 1 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1979, an anonymous witness in Crowley (LA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Machine Sounding Heart Beat  I was sleeping after working night and woke to find no one home. I looked over to the left of the room after seeing something move. There was a very small person, no different then pics we see of so called Aliens today. This little guy move across my room and went into the living room. I jumped out of bed to see where he was going. He vanished.. About 3 months later I was living at my sisters house. I woke on night,there was a sound of a huge heart beat,very loud, but machine like. I could not move, not even open my eyes. I than could fill myself moving, but I couldn't fill anything below me. I think I was just floating, I then found myself outside of my bedroom, I could fill the cold air now, smell the pine tree next to my room. I was scared to death. I have told my children of this, they always laughed at me.((NUFORC Note:  Source of report indicates that date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58521.html](http://www.nuforc.org/webreports/reports/058/S58521.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Canton (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.61 - 1.61 minutes.</sub><blockquote><sub>white-ish moving lights/dotsIt was September 1st 2019. I had been  away all day, where I was is roughly 2 to 2.5 hours from my home. I was traveling back home on a dark country road around 11:15-11:25.  I stopped to take a pee on the side of the road I was nearly home about 30 minutes left.  Did i mention nobody else around.  As I was hiding on the back side of my vehicle I noticed to my right lightning or so I thought.  Wrong!  So I said to myself get your phone stupid.  I got my phone and for approx 2 minutes or more watched and recorded.  There was what  appeared to be two lights or big dots that where bright white-ish in color on top of each other slowly moving swaying side to side.  There may have been a slight up and down motion as well and if moved the right way another light/dot seemed to appear making it  almost like a triangle pattern.  Let me tell you it was interesting, I wasnt scared but I wasn't waiting around to see what happened either!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149166.html](http://www.nuforc.org/webreports/reports/149/S149166.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [729](http://www.nuforc.org/webreports/reports/164/S164588.html)
-- [728](http://www.nuforc.org/webreports/reports/164/S164835.html)
-- [727](http://www.nuforc.org/webreports/reports/164/S164495.html)
-- [726](http://www.nuforc.org/webreports/reports/164/S164496.html)
-- [725](http://www.nuforc.org/webreports/reports/164/S164847.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
