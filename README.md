@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:45 on 1 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:45 on 1 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Jackson (WI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>large bright blue triangular shaped moving in figure 8 pattern, dipping up and down in the skyMy son and I were outside on the porch of our house. My 13 year old son pointed to the sky and said "what is that mom?!? Is that a UFO?!?"  I thought he was joking, but when I looked where he was pointing there was a triangular shaped very bright lighted, what looked to be like some sort of vehicle. At first I assumed it must be a helicopter or a plane, but there were no flashing red lights on it and it was flying much to low to be a plane. Plus it was a very bright blue and it seemed like the whole thing was lit up. I was still skeptical that it could possibly be wa UFO. But then it started to fly very strangely, like nothing I had ever in my 38 years before. It seemed to fly in a figure 8 pattern and then it dipped down below some trees in the distance, blocking our view. At this point I thought we had possibly witnessed a small airplane crash.  Suddenly it came back up from beneath the view of the trres and began to fly erratically again.  A few mi! nutes later it dipped below the trees and our view once again.  We kept watching for it to reappear, even walked around the corner of the neighborhood to see if we could see it again but it never reappeared.   Also, it was much to large to be some sort of remote control aircraft someone might use to fly for fun.  Unexplainable.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92390.html](http://www.nuforc.org/webreports/reports/092/S92390.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Florence (OR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Orange, moving south, followed by small illuminated object below and slightly behind. Continued burning until obscured by trees.We live 3 miles from Pacific Ocean.  Objects?, were moving at consistent speed entire time.  I can't  really quess the altitude, but was able to see a second object both times I focused on it.  Now sure the shape of second object but it was faintly illuminated, following closely below and slightly behind.  I initially thought this was a meteor slowly burning up, but it continued across the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09503.html](http://www.nuforc.org/webreports/reports/009/S09503.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [729](http://www.nuforc.org/webreports/reports/164/S164588.html)
-- [728](http://www.nuforc.org/webreports/reports/164/S164835.html)
-- [727](http://www.nuforc.org/webreports/reports/164/S164495.html)
-- [726](http://www.nuforc.org/webreports/reports/164/S164496.html)
-- [725](http://www.nuforc.org/webreports/reports/164/S164847.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
