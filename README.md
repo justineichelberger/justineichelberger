@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:58 on 1 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:36 on 1 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in South Bend (IN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Saw triangular craft in early Fall 9-12 years ago that was either jet black or transparent with three lights in Northern Indiana.I believe this event took place in the early Fall of the year 2000 or 2003 (sorry about the gap) at approximately 10:00 pm. My best friend and I had just finished clearing trails in his woods and we were making our way back to his house, crossing a grassy field to get there. Headed towards us we saw what we thought was an airplane at first, especially considering that there is an airport somewhat nearby. This craft had three solid white lights on it, arranged in a wide triangle shape. The lights were not blinking and the craft was completely silent. It seemed to be flying very low, enough so that we certainly would have heard this thing if it was just another passenger airplane. Besides the fact that this craft was completely silent, a couple of things really grabbed our attention. First, we realized that this thing was either jet black or totally transparent between the lights. Realizing that detail was very unsettling. The second thing that really grabbed ! our attention, and the thing that caused us to run towards his house (this whole time we were just standing there watching this thing), was when it changed direction. Up to this point the craft was moving very slowly, as far as we could tell, in a straight line directly toward and over us. This thing seemed to suddenly and completely stop, do a 180 degree turn, and head back in the direction that it came from. There was never a shift in speed, from what I could tell. After that 180 degree turn we were both startled enough to run to the house and pretty much pretend that none of that happened. All of this happened about 9-12 years ago and I've told very few people about the event, probably because I'm afraid of what they'd think of me. I'm no expert on aircraft but I was in the U.S. Army and I saw my fair share of passenger, fighter, transport/cargo, and unmanned aircraft during my service and never once did I see anything like that. I heard about you last night on Coast to Coast (I work midnights and have nothing to do on my break so, typically, I listen to Coast to Coast) and so I figured I'd file the report. Thank you for your time((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89874.html](http://www.nuforc.org/webreports/reports/089/S89874.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Dollar Bay (MI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Strange lights in the sky!Drove towards the bright white/green lights.  They seemed to be jumping around.  They were brighter in some spots and dimmer in others.  We tried to take pictures but it would NOT show up on camera or video.  We thought it was the northern lights but they are not like any we have seen before.  It was almost like a portal looking thing!!  Like, if you went out into the woods it would get brighter and find the cause.  We didnt.  The entire county has been notified and I am sure that more than 5 people have seen it!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129639.html](http://www.nuforc.org/webreports/reports/129/S129639.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [729](http://www.nuforc.org/webreports/reports/164/S164588.html)
-- [728](http://www.nuforc.org/webreports/reports/164/S164835.html)
-- [727](http://www.nuforc.org/webreports/reports/164/S164495.html)
-- [726](http://www.nuforc.org/webreports/reports/164/S164496.html)
-- [725](http://www.nuforc.org/webreports/reports/164/S164847.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
