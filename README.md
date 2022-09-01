@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:42 on 1 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:32 on 1 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Pottsboro (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>white snake-like figure moving fluidly through the clouds.My brother and I were on our way to school one morning when something in the sky caught my eye. A seemingly large snake-like figure was moving fluidly through the clouds. I pointed it out to my brother and asked him if i was seeing things. He was shocked at the site; he too saw a snake-like figure.The figure seemed to be at about the same altitude as an airliner but it was clearly not. The sighting lasted the whole commute to school.((NUFORC Note:  Source of report indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69164.html](http://www.nuforc.org/webreports/reports/069/S69164.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Glens Falls (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Bright white light does flyby.While skywatching at 8 pm I saw a bright white light traverse the sky from horizon to horizon.  It travelled extremely fast at about 400 to 500 ft above the ground.  The duration of the sighting was about 5 seconds.  The light seemed to have a slight arc downward as it passed about two houses south of my home.  It ocurred so  quickly that I was unable to do anything but stare as it whizzed by, silently.  There was no discernible structure, and it didn't blink, or flash.  It just vanished to the east going below the tree line.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113622.html](http://www.nuforc.org/webreports/reports/113/S113622.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [729](http://www.nuforc.org/webreports/reports/164/S164588.html)
-- [728](http://www.nuforc.org/webreports/reports/164/S164835.html)
-- [727](http://www.nuforc.org/webreports/reports/164/S164495.html)
-- [726](http://www.nuforc.org/webreports/reports/164/S164496.html)
-- [725](http://www.nuforc.org/webreports/reports/164/S164847.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
