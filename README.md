@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:12:50 on 1 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:01:18 on 1 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1977, an anonymous witness in Bourbonnais (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>BOLIDE RELATED UFOIM BREAKING 24 YRS OF SILENCE. WE WITNESSED A BOLIDE ONE NIGHT OUT IN THE COUNTRY. IT LIT THE WHOLE NIGHT SKY. ABOUT 30 MIN LATER, A CRAFT WAS HOVERING OVER OUR CAR. WE GOT OUT AND OBSERVED WHAT APPEARED TO BE TWO TRIANGULAR OBJECTS REVOLVING AROUND EACH OTHER. IT MADE NO NOISE. IT HAD SMALL LIGHTS AROUND ITS PERIMETER. AFTER ABOUT 30 MIN IT STREAKED AWAY LIKE A SHOOTING STAR. WE TOLD NO ONE.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22600.html](http://www.nuforc.org/webreports/reports/022/S22600.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1957, an anonymous witness in Brecksville (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>20 ft in diameter glowing ufo landed a few feet from my car .Looked like a falling star coming down and in seconds landed on the ground behind my car with in a few feet of it. No noise at all and it was round and glowing as if the moon was sitting there.  Approximate size was 20 ft in diamater.  I could have touched it but made a quick exit instead .((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54841.html](http://www.nuforc.org/webreports/reports/054/S54841.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [729](http://www.nuforc.org/webreports/reports/164/S164588.html)
-- [728](http://www.nuforc.org/webreports/reports/164/S164835.html)
-- [727](http://www.nuforc.org/webreports/reports/164/S164495.html)
-- [726](http://www.nuforc.org/webreports/reports/164/S164496.html)
-- [725](http://www.nuforc.org/webreports/reports/164/S164847.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
