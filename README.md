@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:23:21 on 1 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:06:32 on 1 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Pleasant View (TN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>large white fireball or super flare...i was with a friend sitting in a car smoking. we were on another friends property which was a soybean field. we were waiting and chatting. i brought up the fact that every time that this person and i hung out together strange things seemed to happen and no sooner did i say this a large white fireball or flare shot down from the sky there was no sound and if it was indeed a flare it seemed to be shot from the highway towards the local middle-school.this incident occurred about a quarter mile from us and lasted about 5 seconds. we both passed it off as coincidence but who wouldnt?((NUFORC Note:  One of two reports from same witness.  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32302.html](http://www.nuforc.org/webreports/reports/032/S32302.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1958, an anonymous witness in Perry (IA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Triangular formation of red objects flying soundlessly across the sky.My sister (11) and I (14) walked out into our back driveway well after sunset.  It was fully dark and there were few or no clouds in the sky.  We were on a childish mission at the time. We were just out of the door when my sister said, “George…look!”, while pointing upward. There, north of where we stood, against a dark sky filled with stars, was a formation of red (fiery but dull red) objects (12-15) arrayed in a filled in equilateral triangle traveling across the sky.  I was transfixed and rapid-fire questions were zipping through my mind.  Geese?  Aircraft?  Sun reflection?  What is altitude?  Speed?  Why are they making no noise?  They traveled north to south in roughly 15-20 seconds.  I noticed slight changes in position between objects as they flew.  That observation told me that they were individual objects.Both my sister and I were very savvy science oriented kids.  These objects simply didn’t meet any criteria that related to “normal.”  Can you imagine standing there dumbfounded while examining every possible source in your arsenal of “normal”.  No noise, not cloud reflection, simply doesn’t fit within experiential normal.  I had seen B52’s flying at altitude.  They appeared to move slowly across the sky.  I had the impression that these objects were at a high altitude and traveling very fast. In retrospect, I think the “red” color was frictional heating. We ran in the house hysterical telling our mother that we had just seen UFOs.  She eventually believed us and called the local newspaper the next day.  An article appeared in the Perry (Iowa) Daily Chief concerning our sighting.  I suffered endless harassment at school because I didn’t know how to recognize…Geese, B52’s, fighter aircraft, balloons…blah, blah, blah.  The same crap every UFO experience receives.That experience is indelibly etched upon my mind.  That is the moment at which I knew beyond any doubt that UFOs did exist. Extra terrestrial?  Who knows?.  My sister and I witnessed a technology that just didn’t exist in that day and age in the known human realm.  Further, it was apparent that each object in the formation was guided by an intelligence.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110526.html](http://www.nuforc.org/webreports/reports/110/S110526.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [729](http://www.nuforc.org/webreports/reports/164/S164588.html)
-- [728](http://www.nuforc.org/webreports/reports/164/S164835.html)
-- [727](http://www.nuforc.org/webreports/reports/164/S164495.html)
-- [726](http://www.nuforc.org/webreports/reports/164/S164496.html)
-- [725](http://www.nuforc.org/webreports/reports/164/S164847.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
