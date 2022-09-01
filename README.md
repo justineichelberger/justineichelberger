@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:36 on 1 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:23 on 1 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Hodgkins (IL) reported seeing craft that fit the description of some 'Other' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Three Tic-Tac UFO’s flying over UPSThere were no clouds outside at the time it happened at about 6:52PM. There were clouds in area at around 4PM. It was a perfect blue sky at 6:52PM. I noticed like a white tic-tac shaped object moving super slow while it was flying as high as you can fly in the sky that looked like it was headed towards the town of Willowbrook while I am in Hodgkins. I told myself watch there be another so I turned my head to the right and there was another one following it at the same height in sky and going the same speed about 4 miles apart from each other. Then noticed a low flying plane flying on the side below going the opposite way thinking maybe the passengers in plane can maybe see them if looking out window while looking up. I kept watching both at all times. I had no phone with me. Then noticed maybe the sun started glaring on the first one for a few seconds. After watching both for about 4 minutes both of them disappeared at the same time. Then as I walked off I w! alked about 700 feet away I noticed another one in sky same height in sky and same speed in sky for 8 seconds headed towards Chicago then disappeared. I told one person I saw three out here that disappeared. Then told 2 others 10 minutes later what happened. All 3 looked like tic-tacs.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164495.html](http://www.nuforc.org/webreports/reports/164/S164495.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Clarksville (TN) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 138</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148651.html](http://www.nuforc.org/webreports/reports/148/S148651.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [729](http://www.nuforc.org/webreports/reports/164/S164588.html)
-- [728](http://www.nuforc.org/webreports/reports/164/S164835.html)
-- [727](http://www.nuforc.org/webreports/reports/164/S164495.html)
-- [726](http://www.nuforc.org/webreports/reports/164/S164496.html)
-- [725](http://www.nuforc.org/webreports/reports/164/S164847.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
