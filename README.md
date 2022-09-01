@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:35 on 31 August 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:36 on 1 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Albuquerque (southeast) (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>THE SKY SOUTHEAST OF ABQ THERE WAS A GROUPING OF LIGHTS JUMPING IN ONE AREA FOR OVER AN HOUR.  I USED BINOCULARS TO VIEW THIS UNUSUAL FLYING OBJECT THAT IS HARD TO DESCRIBE.  IT SEEMED TO HAVE THREE TO FOUR DIFFERENT COLORS</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101730.html](http://www.nuforc.org/webreports/reports/101/S101730.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Hodgkins (IL) reported seeing craft that fit the description of some 'Other' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Three Tic-Tac UFO’s flying over UPSThere were no clouds outside at the time it happened at about 6:52PM. There were clouds in area at around 4PM. It was a perfect blue sky at 6:52PM. I noticed like a white tic-tac shaped object moving super slow while it was flying as high as you can fly in the sky that looked like it was headed towards the town of Willowbrook while I am in Hodgkins. I told myself watch there be another so I turned my head to the right and there was another one following it at the same height in sky and going the same speed about 4 miles apart from each other. Then noticed a low flying plane flying on the side below going the opposite way thinking maybe the passengers in plane can maybe see them if looking out window while looking up. I kept watching both at all times. I had no phone with me. Then noticed maybe the sun started glaring on the first one for a few seconds. After watching both for about 4 minutes both of them disappeared at the same time. Then as I walked off I w! alked about 700 feet away I noticed another one in sky same height in sky and same speed in sky for 8 seconds headed towards Chicago then disappeared. I told one person I saw three out here that disappeared. Then told 2 others 10 minutes later what happened. All 3 looked like tic-tacs.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164495.html](http://www.nuforc.org/webreports/reports/164/S164495.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [396](http://www.nuforc.org/webreports/reports/164/S164483.html)
-- [395](http://www.nuforc.org/webreports/reports/164/S164476.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164479.html)
-- [393](http://www.nuforc.org/webreports/reports/164/S164844.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164474.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
