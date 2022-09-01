@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:32 on 1 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:45 on 1 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Glens Falls (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Bright white light does flyby.While skywatching at 8 pm I saw a bright white light traverse the sky from horizon to horizon.  It travelled extremely fast at about 400 to 500 ft above the ground.  The duration of the sighting was about 5 seconds.  The light seemed to have a slight arc downward as it passed about two houses south of my home.  It ocurred so  quickly that I was unable to do anything but stare as it whizzed by, silently.  There was no discernible structure, and it didn't blink, or flash.  It just vanished to the east going below the tree line.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113622.html](http://www.nuforc.org/webreports/reports/113/S113622.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Jackson (WI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>large bright blue triangular shaped moving in figure 8 pattern, dipping up and down in the skyMy son and I were outside on the porch of our house. My 13 year old son pointed to the sky and said "what is that mom?!? Is that a UFO?!?"  I thought he was joking, but when I looked where he was pointing there was a triangular shaped very bright lighted, what looked to be like some sort of vehicle. At first I assumed it must be a helicopter or a plane, but there were no flashing red lights on it and it was flying much to low to be a plane. Plus it was a very bright blue and it seemed like the whole thing was lit up. I was still skeptical that it could possibly be wa UFO. But then it started to fly very strangely, like nothing I had ever in my 38 years before. It seemed to fly in a figure 8 pattern and then it dipped down below some trees in the distance, blocking our view. At this point I thought we had possibly witnessed a small airplane crash.  Suddenly it came back up from beneath the view of the trres and began to fly erratically again.  A few mi! nutes later it dipped below the trees and our view once again.  We kept watching for it to reappear, even walked around the corner of the neighborhood to see if we could see it again but it never reappeared.   Also, it was much to large to be some sort of remote control aircraft someone might use to fly for fun.  Unexplainable.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92390.html](http://www.nuforc.org/webreports/reports/092/S92390.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [729](http://www.nuforc.org/webreports/reports/164/S164588.html)
-- [728](http://www.nuforc.org/webreports/reports/164/S164835.html)
-- [727](http://www.nuforc.org/webreports/reports/164/S164495.html)
-- [726](http://www.nuforc.org/webreports/reports/164/S164496.html)
-- [725](http://www.nuforc.org/webreports/reports/164/S164847.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
