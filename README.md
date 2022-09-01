@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:39 on 1 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:57 on 1 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in North Providence (RI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>bright greenish blue circular disc object moving over head leaving a white trail behind it.I was Driving south on 146 south going towards Providence RI when in front of me I see this circular object moving at a very high speed flash by over head of my car heading north on 146.  The Object was a greenish blue light that was leaving a almost white trail behind it.  The light gave me the impression the object was spinning as it moved through the night sky.  My first thought was “Oh look a shooting star”, but I quickly detained that idea because of the flight the object was on and the color it radiated.  I would say the disc object was no more than 500ft in the air.  Also at the time I saw the object I got a great look at it because of the heat lightning that was occurring during my entire drive.  This is why I was glaring up at the sky on this night because of the beautiful lighting.  The lighting gave me a clear look at this object and all I can say is it was nothing I have ever seen before in my life.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101789.html](http://www.nuforc.org/webreports/reports/101/S101789.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Rockford (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>UFO moving in a triangular movement over Rockford, IL. It moved back and forth and up and down. Then slowly dissapeared.I was camping on Labor day weekend at a State Park near Loves Park, IL/ Rockford, IL.  The state park is called Rock Cut State Park.My husband and I went to sleep in our tents but left the top open with the screen on so we can look at the stars.  Off to my right I saw a so-called star that was a bit brighter than most and kept going in and out of being dim and bright.  I focused on this one single object. All of a sudden it started going up and down quickly then right to left quickly. I immediately pointed this out to my husband and asked him it was just me or did that move.  He agreed with me. he said it moved.  Then he stared at it with me and pointed out that it was going in a triangular movement. Sort of like it was making a invisible triangle.This seemed to be quite far away. Eventually it got so dim that it was gone. I kept questioning myself thinking that maybe  it was something else but we KNOW NOW that this was a UFO.We saw planes go by late at night and they were planes.  I saw 2 shooting stars and those were shooting stars.  This object that I thought was a star until it started making these movements was, indeed, a UFO.It was the color of a star mainly.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD)) Thank you for listening to me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65519.html](http://www.nuforc.org/webreports/reports/065/S65519.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [729](http://www.nuforc.org/webreports/reports/164/S164588.html)
-- [728](http://www.nuforc.org/webreports/reports/164/S164835.html)
-- [727](http://www.nuforc.org/webreports/reports/164/S164495.html)
-- [726](http://www.nuforc.org/webreports/reports/164/S164496.html)
-- [725](http://www.nuforc.org/webreports/reports/164/S164847.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
