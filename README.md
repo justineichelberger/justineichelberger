@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:23 on 1 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:52:12 on 1 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Clarksville (TN) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 138</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148651.html](http://www.nuforc.org/webreports/reports/148/S148651.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Seaside (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately moments - moments minutes.</sub><blockquote><sub>On this warm night I was watching the starry sky, suddenly and lasting only moments, a silk-like floated over my sight line.  It gave the idea of a large very large soap blubbe floating off into the aid.  Later on Art Bell show talked about the contrail and as they decribed those contrail it was what I saw.It reflected light it was transparent it was short lived one time only slight wind I live two block from Pacific Ocean reddish color</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05898.html](http://www.nuforc.org/webreports/reports/005/S05898.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [729](http://www.nuforc.org/webreports/reports/164/S164588.html)
-- [728](http://www.nuforc.org/webreports/reports/164/S164835.html)
-- [727](http://www.nuforc.org/webreports/reports/164/S164495.html)
-- [726](http://www.nuforc.org/webreports/reports/164/S164496.html)
-- [725](http://www.nuforc.org/webreports/reports/164/S164847.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
