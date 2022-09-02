@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:14:12 on 2 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:50 on 2 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Leadville (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>We were camping near Mt. Massive near Leadville, CO.  A bright orange/amber orb appeared from the southwest, traveling towards the northeast.  Was traveling faster than an airplane (we saw several planes passing overhead), but not as fast as a meteor.  A distinct vapor trail was visible behind the craft, as reflected by the moonlight.  I would estimate the altitude to be between 15,000 to 18,000 ft above sea level.  As an airline pilot, it was something unique that I was unable to explain.  The orb disappeared behind Mt. Massive.((NUFORC Note:  Suspected to have been a re-entry of a portion of the Russian Cosmos 2495.  Our gratitude to Mr. Ted Molczan for his proper identification of the object.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113404.html](http://www.nuforc.org/webreports/reports/113/S113404.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in River Valley (Canada) (ON) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>On September 2nd, at approximately 21:12, I was at my mother's visiting, when she told me to come outside to look at something.  I followed her out the front door and once outside on the front deck, she pointed up to the sky and asked me if I was seeing that?  I looked up and observe a number of red lights travelling through the sky.  From our location, they were lined up with the big dipper and we're traveling from south to north.  I counted at least 5.  They appeared to be traveling in formation at the same rate of speed.  I ran into the house to grab my phone and grab a photo or video.  I was only gone for 10 to 15 seconds.  When I came back out, there where only a couple left but I watched one disappear as I was trying to video.  I was able to capture the last one before it disappeared.  They did not look like any airplanes or satellites I have seen in the sky in the past.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136011.html](http://www.nuforc.org/webreports/reports/136/S136011.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164766.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164492.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164501.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164565.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164727.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
