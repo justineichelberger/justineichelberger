@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:50 on 2 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:39 on 2 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in River Valley (Canada) (ON) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>On September 2nd, at approximately 21:12, I was at my mother's visiting, when she told me to come outside to look at something.  I followed her out the front door and once outside on the front deck, she pointed up to the sky and asked me if I was seeing that?  I looked up and observe a number of red lights travelling through the sky.  From our location, they were lined up with the big dipper and we're traveling from south to north.  I counted at least 5.  They appeared to be traveling in formation at the same rate of speed.  I ran into the house to grab my phone and grab a photo or video.  I was only gone for 10 to 15 seconds.  When I came back out, there where only a couple left but I watched one disappear as I was trying to video.  I was able to capture the last one before it disappeared.  They did not look like any airplanes or satellites I have seen in the sky in the past.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136011.html](http://www.nuforc.org/webreports/reports/136/S136011.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Gold Beach (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Red lights in V formation less than 2 miles off Paf.coast-westerly flew off due North first.  Easterly advanced of center light & went So.east center remained statitonary 30 sec.  All vanished"poof!" NO sound. Not Russian Rocket. 3rd sighting in 2 years all early morn.  This one was the closest. "Old timers" here are used to it.I believed the Russian rocket stuff until I read the Oregonina last week which said it all happened around 9:30p.m.  At first I thought it was a plane except 1. it was to close to the tideline(the coast is scatered with monoliths) 2. too big for the small planes that land at this airport. 3 red lights in a tight V formation.  The light on the most westerly side broke first and went due north.  The light on the easterly advanced of the center an went due south. The center stayed stationary then was gone.  These lights were bright as headlights and steady until they vanished. The folks that have grown-up around here say these sightings are common.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10093.html](http://www.nuforc.org/webreports/reports/010/S10093.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164766.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164492.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164501.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164565.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164727.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
