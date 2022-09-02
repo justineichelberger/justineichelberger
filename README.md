@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:42 on 2 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:35 on 2 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Fort Lauderdale (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>object vented some type of vapor and left a cone shaped vortex when it left the atmosphereTwo days before Hurricane Francis came ashore in south Fl. I was preparing my home and property for the storm. As I walked around my pool, I noticed off to the west what I thought was just a bright star and only looked at it for a second as I was quite busy. A few minutes later I thought to look at it again just because it was so bright. This time it appeared much closer so I watched it for a moment. It was a clear evening with just a few puffy white clouds moving to the west and I knew this was an object other than a star because it was moving to the east, towards my location. I called into the house for my wife and friend to step outside and watch the light. It got to within I would say a mile off where I was and it height was below the level of the clouds as I noticed one pass behind what ever it was I was looking at. It slowed to a stop and began to hover and then it went dark. We could tell there was something there but even with binoculars we could not make out the shape of the object. There was no sound that we could connect with the object but it was right in the middle of a large residential/commercial area and within a mile of the executive airport. What really got us a little freaked out about it was when the object began to expell some sort of mist or fumes that took the form of wings or some type of venting and both of the flumes, for lack of a better word, were huge. I estimate they were more than 100 yards one off to each side of the object. After 15 minutes or so, the craft moved off to the north and appeared to be going higher. As it disappeared out of site a cone shaped, I want to say vortex, appeared way up in the sky about where we last saw the craft. THe point of the cone was pointing towards space but angled off to the north a bit. I have no clue what this could have been but it was truly a life changing experience for me as it has truly opened my mind far beyond what I would have previosly considered within the realm of possibilities.((NUFORC Note:  Date of sighting may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54315.html](http://www.nuforc.org/webreports/reports/054/S54315.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Falls Church (VA) reported seeing craft that fit the description of some 'Disk' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>Small blue dot traveling swiftly across sky.Yesterday, Friday, Sept. 02, a ring appeared around the sun over Falls Church, VA.  My daughter and I stopped the car to take a few pictures.  Today, while deleting some of the photos, I noticed something strange.  In each of three photos there is a blue dot.  This dot moved rapidly in each of the photos. The photos were taken just seconds apart.And suggestions what this might be?  I have some good photos and will attempt to to post them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129723.html](http://www.nuforc.org/webreports/reports/129/S129723.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164766.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164492.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164501.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164565.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164727.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
