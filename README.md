@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:42 on 2 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:35 on 2 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Calgary (Canada) (AB) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Blue/White flat oval thing in sky at dusk.Oval I think. Blimp shape. No fins. Seemed to get flatter then longer.Then disappeared in a blink of my eye.I had a feeling it knew I saw it.  Kinda like it was hiding.Didn't look like a falling star.  It didn't really move.  It was there, then it wasn't.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136026.html](http://www.nuforc.org/webreports/reports/136/S136026.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Casper (WY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Fast moving stars flying in a V formation.I have never seen anything like this in my entire life. I was on the deck of our home at approximately 10:30 p.m. mountain time tonight, and as I looked into the night sky (it was virtually cloudless) something caught my eye. At first I thought it was a satellite because that is about how bright it was, but I quickly noticed it was made up of at least three objects in a forward facing V formation and it was traveling many many times faster than any satellite I have ever seen before, yet much slower than any meteorite I have ever seen. It did not leave any kind of streak behind it, or have any kind of tail, it just looked like a formation of stars in a V shape traveling in a straight line at a very high rate of speed. I do not have an explanation for what I saw. I hope someone may by chance have seen the same thing at the same time as me somewhere in the United States. It was on a southeast heading. I am located in central Wyoming. I honestly believe there were a total of five lights, I said three in the first post because I was trying to describe a V shape. I am sure these weren't lights on the forward edge of some kind of giant object. There was no blocking out of adjacent stars around the lights. It just looked fast moving stars flying in formation, and I didn't get the sense they were even in earth's atmosphere. When I was explaining it to my wife we did see some meteors that were streaking from the east to the west. Perhaps they were from the Aurigid shower, and we also saw a satellite or two orbiting, but trust me, I am a country kid used to seeing all kinds of stuff in the sky. This forever changes my thoughts about what kind of stuff that out there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58554.html](http://www.nuforc.org/webreports/reports/058/S58554.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164766.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164492.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164501.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164565.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164727.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
