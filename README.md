@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:07:11 on 2 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:38 on 2 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Falls Church (VA) reported seeing craft that fit the description of some 'Disk' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>Small blue dot traveling swiftly across sky.Yesterday, Friday, Sept. 02, a ring appeared around the sun over Falls Church, VA.  My daughter and I stopped the car to take a few pictures.  Today, while deleting some of the photos, I noticed something strange.  In each of three photos there is a blue dot.  This dot moved rapidly in each of the photos. The photos were taken just seconds apart.And suggestions what this might be?  I have some good photos and will attempt to to post them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129723.html](http://www.nuforc.org/webreports/reports/129/S129723.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1976, an anonymous witness in Moose Lake (MN) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Floating down the light beamI woke up hearing the phone ringing & saw that I was floating down from the ceiling in a beam of light, then I was in the bed & sat up to answer the phone, which was continuing to ring. I saw that the light beam was still streaming through the ceiling and looked up to see my friend floating down. She landed on the bed and sat straight up and gaped back at me. We just looked at each other, flabergasted, and then both looked up just as the light blinked out. I immediately got up & went into the other room to answer the phone which was placed next to the picture window in the living room. As I picked up the reciever I was that there was a disc shaped craft hovering about 50 feet over the house. At first I could see the edge of a dark circular shape with an extremely bright circle of light coming out of the middle of the bottom. As I said 'Hello" it was slowly traveling northeast away from the house and when it got about 500 yards away the light blinked off and the disc zoomed away into the horizon. I have no other memories of the event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17469.html](http://www.nuforc.org/webreports/reports/017/S17469.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164766.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164492.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164501.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164565.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164727.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
