@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:30:17 on 2 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:27:50 on 2 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Alberta Beach (AB) reported seeing craft that fit the description of some 'Disk' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>I was heading north on Hwy 43 in Alberta and around 130am I noticed some lights to the west of me.  Pulled over and saw 3 lights with 1 pulsing light between the 2nd and 3rd light from the left.  I would estimate it was 200 feet away and maybe 100 feet in the air.  There was no noise and it didnt move the whole time.  The lights were a difuse yellow.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132486.html](http://www.nuforc.org/webreports/reports/132/S132486.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Bloomington (IN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>SEVEN CRAFTS FLASHING , IN ORION'S BELT CONSTALATION FORMATION!!!!Oval shaped discs, with flashing lights going around the outside. The crafts are shaped into the constallation of orion, but that doesn't come out til winter, so i know it couldn't be the stars. The crafts are all blinking with white, red and green lights going around. three of the crafts are stacked in a row, one on top of each other, they are about a thumb apart from top to bottom. clear night on the Iu campus, on the outskirts of campus so not much light filtering through. VERY Strange, it looks like they are just staying in the same place.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19376.html](http://www.nuforc.org/webreports/reports/019/S19376.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164766.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164492.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164501.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164565.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164727.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
