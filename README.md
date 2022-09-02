@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:29:09 on 2 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:54:07 on 2 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Center Moriches (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>3 red lights form triangleSeen 3 red lights over moriches bay.  The lights formed a perfect isosceles triangle.  Huge in size.  Some aircraft seem to be observing the triangle...maybe helicopters, or possibly planes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148669.html](http://www.nuforc.org/webreports/reports/148/S148669.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Bigfork (MN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Outdoor grilling with neighbor, when he spotted red glowing object in the sky.  Altitude of object was approx. what you'd expect from a small plane, but there was no noise from it nor the blinking light[s].  I can only guess its distance because we couldn't be sure of its scale.  It moved from south to north at a steady but slow pace....  We had trees near us that obscured it partially, but actually had time to try [unsuccessfully] to get our wives to come out and view this.  We had been out on our pontoon less than an hour earlier on probably the calmest evening I can ever remember so thinking this was a burning ember being blown about by the wind wouldn't have made sense.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136010.html](http://www.nuforc.org/webreports/reports/136/S136010.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164766.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164492.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164501.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164565.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164727.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
