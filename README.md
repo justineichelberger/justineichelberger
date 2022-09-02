@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:38 on 2 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:39 on 2 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1976, an anonymous witness in Moose Lake (MN) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Floating down the light beamI woke up hearing the phone ringing & saw that I was floating down from the ceiling in a beam of light, then I was in the bed & sat up to answer the phone, which was continuing to ring. I saw that the light beam was still streaming through the ceiling and looked up to see my friend floating down. She landed on the bed and sat straight up and gaped back at me. We just looked at each other, flabergasted, and then both looked up just as the light blinked out. I immediately got up & went into the other room to answer the phone which was placed next to the picture window in the living room. As I picked up the reciever I was that there was a disc shaped craft hovering about 50 feet over the house. At first I could see the edge of a dark circular shape with an extremely bright circle of light coming out of the middle of the bottom. As I said 'Hello" it was slowly traveling northeast away from the house and when it got about 500 yards away the light blinked off and the disc zoomed away into the horizon. I have no other memories of the event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17469.html](http://www.nuforc.org/webreports/reports/017/S17469.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Moreno Valley (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>unidentified hovering object in the morning sky above Riverside, CA.It was a bit past 7am in the morning PST on a clear blue morning sky morning (no clouds).  I looked out of my bedroom balcony toward the mountains. I looked up into the sky and saw what appeared to be a "white" (colored) object.  It's shape is difficult to discern, but it was a solid mass, a compact object, with no wings (like an airplane), no propellers, just a mass moving at a very, very slow speed giving an appearance that it was hovering. What immediately struck me as odd about this object was the rate of speed by which it moved.  I have never seen an object move that slow in the air, like at a snails pace. I observed the object for about 15 seconds, then turned way. When I looked back, I could not find the object in the sky, it simply disappeared from the morning blue sky. The best I can describe it's flying altitude is that it was significantly higher than what a helicopter typically flies, and lower than a high altitude plane (the ones that leave a cloud like trail).  So, it's shape is difficult to identify. All i can say is that it was unidentified, it was flying (hovering), and it was an object.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58524.html](http://www.nuforc.org/webreports/reports/058/S58524.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164766.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164492.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164501.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164565.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164727.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
