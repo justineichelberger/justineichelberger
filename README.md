@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:39 on 2 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:42 on 2 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Gold Beach (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Red lights in V formation less than 2 miles off Paf.coast-westerly flew off due North first.  Easterly advanced of center light & went So.east center remained statitonary 30 sec.  All vanished"poof!" NO sound. Not Russian Rocket. 3rd sighting in 2 years all early morn.  This one was the closest. "Old timers" here are used to it.I believed the Russian rocket stuff until I read the Oregonina last week which said it all happened around 9:30p.m.  At first I thought it was a plane except 1. it was to close to the tideline(the coast is scatered with monoliths) 2. too big for the small planes that land at this airport. 3 red lights in a tight V formation.  The light on the most westerly side broke first and went due north.  The light on the easterly advanced of the center an went due south. The center stayed stationary then was gone.  These lights were bright as headlights and steady until they vanished. The folks that have grown-up around here say these sightings are common.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10093.html](http://www.nuforc.org/webreports/reports/010/S10093.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Berlin (NH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>large orange light in sky over berlin nhI went outside for a cigarette and my two children and two nephews followed me out to get some fresh air.  As I lit my cigarette my daughter says to me, daddy whats that in the sky that don’t look like a airplane (we see a lot of air planes in the night sky) that’s weird.  So I looked up and saw a orange circular object traveling through the sky.  It was about 5 times larger than any star.  The object traveled from east to west very slowly for about 3 mins then faded away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92448.html](http://www.nuforc.org/webreports/reports/092/S92448.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164766.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164492.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164501.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164565.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164727.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
