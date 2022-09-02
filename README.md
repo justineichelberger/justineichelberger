@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:34 on 2 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:33 on 2 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in White Rock (Canada) (BC) reported seeing craft that fit the description of some 'Other' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>bright orange lights we have video and photosthis is incredibly REAL!!!  4 adults 4 kids.  orange ball flying over past san juan islands over white rock.  last one went over point roberts.  we have photos and video.  they disappeared... vanished.  this must be investigated!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92436.html](http://www.nuforc.org/webreports/reports/092/S92436.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Pierre (SD) reported seeing craft that fit the description of some '' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Three objects with blue and red blinking lights were spotted traveling at massive speeds in zig zag patterns across the nite sky.Late this evening I stepped outside to join my boyfriend for a breath of fresh air and he was staring at the sky.  He had just seen the first of three of what I am about to describe.  I am not sure what shape the object was, for it was too far away, however it was moving at an unbelievable fast speed it made Saturn look standstill for a moment).   This was no airplane. It had very bright blue and red blinking lights. The space between the lights made the craft look like it is probably gigantic up close. It did not seem as if the lights were red on one side and blue on the other, and the lights were not blinking with a certain rhythm at all.  The craft was silent and was moving West / Northwest for about 15 or 20 seconds...zooming!!  Then it stopped for a fraction of a second, dipped a massive dip downward, and started moving North.  After zooming by a few more stars in my sky, it was gone. It was very far away but seemed almost definitely to be in our solar system, ! for it moved past Saturn and then almost halfway across the sky in just 20 seconds or so.  That is what I saw tonight.My boyfriend had seem one very similar to that just a few minutes before this described sighting going in a different direction, North I think. Within 10-15 minutes after the second sighting, (the one of which I had observed) maybe less, my boyfriend reported to me that he saw another craft (I don't know the shape) very similar to the previously described. However, he described this third craft to be much closer to Earth than the other two but it was still in space. This one, like the other two, not only had blinking blue and red lights all over the craft, it also had white blinking light(blinking without order or rhythm) all over it as well. I am not sure how long it was visible - maybe a minute at most... He noted that it was moving South/Southwest and then West, also without sound. (Note, it is very quiet here in this part of the country. No major airports for hours in all directions.)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77590.html](http://www.nuforc.org/webreports/reports/077/S77590.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164766.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164492.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164501.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164565.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164727.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
