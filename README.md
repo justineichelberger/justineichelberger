@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:48:42 on 2 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:30:17 on 2 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Adelaide (Australia) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>reddish fire ball/falling star doubles back on its-self before my eyesAt approx 21:30 i saw what i thought was a reddish/yellow falling star but instead of burning out it seemed to double back on its self it was heading toward the south and was right above me and i could see it very clearly and it turned on itself and headed north before it vanished, i have seen many falling stars but this one was very bright and seemed a little odd which was confirmed when it very clearly doubled back and headed north</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101849.html](http://www.nuforc.org/webreports/reports/101/S101849.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Alberta Beach (AB) reported seeing craft that fit the description of some 'Disk' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>I was heading north on Hwy 43 in Alberta and around 130am I noticed some lights to the west of me.  Pulled over and saw 3 lights with 1 pulsing light between the 2nd and 3rd light from the left.  I would estimate it was 200 feet away and maybe 100 feet in the air.  There was no noise and it didnt move the whole time.  The lights were a difuse yellow.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132486.html](http://www.nuforc.org/webreports/reports/132/S132486.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164766.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164492.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164501.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164565.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164727.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
