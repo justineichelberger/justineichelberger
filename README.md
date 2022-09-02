@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:46 on 2 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:34 on 2 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Salem (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Observed slowly moving white light at 10:40 pm heading north from direcly overheadObserved a REALLY SLOWLY moving white light (as bright as Venus) heading north from directly overhead that lasted 4 seconds before gradually fading out. It took me a second or two to realize that it was actually moving. I checked the schedule for "Iridium Flares" and none were supposed to be in the vicinity at that time. I have never seen a satellite moving that slowly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46007.html](http://www.nuforc.org/webreports/reports/046/S46007.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in White Rock (Canada) (BC) reported seeing craft that fit the description of some 'Other' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>bright orange lights we have video and photosthis is incredibly REAL!!!  4 adults 4 kids.  orange ball flying over past san juan islands over white rock.  last one went over point roberts.  we have photos and video.  they disappeared... vanished.  this must be investigated!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92436.html](http://www.nuforc.org/webreports/reports/092/S92436.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164766.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164492.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164501.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164565.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164727.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
