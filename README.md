@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:14:27 on 2 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:07:11 on 2 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in McMinnville (OR) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Loud buzzing/rumbling noise, nothing was seen in sky, wind was extreme during sound.About 3:20 PM, I heard a loud buzzing/rumbling noise, almost like a plane was passing over, but louder and more extreme.  There were clouds outside, but it was like the sound was right above me.  The sky was clear above me, and I didn't see anything.  When the sound started, the wind was very extreme, stopping when the sound did.  This lasted about a minute.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129650.html](http://www.nuforc.org/webreports/reports/129/S129650.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Falls Church (VA) reported seeing craft that fit the description of some 'Disk' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>Small blue dot traveling swiftly across sky.Yesterday, Friday, Sept. 02, a ring appeared around the sun over Falls Church, VA.  My daughter and I stopped the car to take a few pictures.  Today, while deleting some of the photos, I noticed something strange.  In each of three photos there is a blue dot.  This dot moved rapidly in each of the photos. The photos were taken just seconds apart.And suggestions what this might be?  I have some good photos and will attempt to to post them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129723.html](http://www.nuforc.org/webreports/reports/129/S129723.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164766.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164492.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164501.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164565.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164727.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
