@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:42 on 2 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:05:02 on 2 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Berlin (NH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>large orange light in sky over berlin nhI went outside for a cigarette and my two children and two nephews followed me out to get some fresh air.  As I lit my cigarette my daughter says to me, daddy whats that in the sky that don’t look like a airplane (we see a lot of air planes in the night sky) that’s weird.  So I looked up and saw a orange circular object traveling through the sky.  It was about 5 times larger than any star.  The object traveled from east to west very slowly for about 3 mins then faded away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92448.html](http://www.nuforc.org/webreports/reports/092/S92448.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Fort Worth (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Circular light seen zig-zagging over Ft Worth on Sept. 2nd, 2001While walking with my wife in Foster parkk this morning, I observed a circular white light moving across the sky in a southeasterly direction for approximately 15 seconds. It appeared to have a constant speed and at one point zigzagged (i.e. moved at the same relative speed to the East, then to the South, and then to the Southeast), and then proceeded in the direction that it was taking when I first observed it.  I finally got my wife's attention and she observed the same object for approximately 5 seconds.  We both watched it suddenly disappear.  It did not have any characteristics belonging to those of a meteorite which I have seen many times.  I have never seen anything like this in my entire life.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19388.html](http://www.nuforc.org/webreports/reports/019/S19388.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164766.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164492.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164501.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164565.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164727.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
