@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:54:07 on 2 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:48:42 on 2 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Bigfork (MN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Outdoor grilling with neighbor, when he spotted red glowing object in the sky.  Altitude of object was approx. what you'd expect from a small plane, but there was no noise from it nor the blinking light[s].  I can only guess its distance because we couldn't be sure of its scale.  It moved from south to north at a steady but slow pace....  We had trees near us that obscured it partially, but actually had time to try [unsuccessfully] to get our wives to come out and view this.  We had been out on our pontoon less than an hour earlier on probably the calmest evening I can ever remember so thinking this was a burning ember being blown about by the wind wouldn't have made sense.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136010.html](http://www.nuforc.org/webreports/reports/136/S136010.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Adelaide (Australia) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>reddish fire ball/falling star doubles back on its-self before my eyesAt approx 21:30 i saw what i thought was a reddish/yellow falling star but instead of burning out it seemed to double back on its self it was heading toward the south and was right above me and i could see it very clearly and it turned on itself and headed north before it vanished, i have seen many falling stars but this one was very bright and seemed a little odd which was confirmed when it very clearly doubled back and headed north</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101849.html](http://www.nuforc.org/webreports/reports/101/S101849.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164766.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164492.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164501.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164565.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164727.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
