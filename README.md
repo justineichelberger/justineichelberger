@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:42 on 2 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:29:09 on 2 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Leicester (UK/England) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Daytime sighting - fast object, trick of the mind, I dont know!The object was seen whilst I was laid on my back on the grass in park local to me. I was on the phone to my girlfriend, enjoying the clear sunny sky. Whilst talking i was observing the small clouds disapating under the suns stress and glint caught my eye. I followed the object from directly above me, several times higher than the planes flying overhead, to the horizon to the east. The object was oval in shape and appeared white, but that could have been the sun reflecting at relative angles to my position. The entire duration of its flight to the horizon was between 6-10 seconds in length maybe faster, because I only questioned what my eyes were seeing after it had disappeared. I am hesitant to presume what i saw to be alien, all i know is i have been observing the skies for about a year now through a telecope. I have seen stars, planets, satellites in my time studying astronomy but this object moved faster than i can comprehend and has no natural or man made explanation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46072.html](http://www.nuforc.org/webreports/reports/046/S46072.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Center Moriches (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>3 red lights form triangleSeen 3 red lights over moriches bay.  The lights formed a perfect isosceles triangle.  Huge in size.  Some aircraft seem to be observing the triangle...maybe helicopters, or possibly planes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148669.html](http://www.nuforc.org/webreports/reports/148/S148669.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164766.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164492.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164501.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164565.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164727.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
