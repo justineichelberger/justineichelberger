@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:36 on 3 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:25 on 3 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Bainbridge Island (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Late afternoon sighting of four objects over Seattle seen from Bainbridge.Pulled into my driveway and last of afternoon sun hit a plane flying up in sky - caught my eye.  As I looked at plane I notice four round white objects way up in sky and wondered what they were. They seemed to move into a formation of a Z and held their position.  Then one white orb starts moving up and looks like it's going to hit one of the orbs and then moves and hovers over the top. Either a cloud passed by or they recessed into clouds then next thing there are three in a vertical row with one off to the left.  Shortly thereafter,again, a cloud either passes or they somehow recess and next there's only three and they haveformed an upside down V. I watched until they disapeared and did not come back. I was freaking out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129759.html](http://www.nuforc.org/webreports/reports/129/S129759.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Englewood (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>An object passed quickly through the sky with 6 circles of luminescence with absolutely no sound as it passed overhead.I brought my spouse outside to view the Milky Way and as we were looking up I noticed a craft passing overhead and was very excited and pointed it out to my husband.  He did not see it much in the manner as if you try and point out a shooting star to someone.   It passes so quickly. That is what happened with this object.  I saw it and pointed very excitedly but he did not see it.  I watched it pass over and saw its shape.  I knew it was not a plane or a helicopter or a satellite or anything else I am familiar with seeing.  It was definately a UFO and I am 100% certain I had an alien encounter of the second kind.  I was so certain, I also quickly sketched its shape so as not to forget.  I am very excited to ascertain if others in my area were out and viewed the same thing as I am very certain of what I saw.((NUFORC Note:  We will request a copy of the graphic.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39089.html](http://www.nuforc.org/webreports/reports/039/S39089.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164587.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165722.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164506.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164657.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164504.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
