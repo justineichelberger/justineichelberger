@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:24:25 on 3 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:13:19 on 3 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Athens (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Stationary or almost stationary bright red light turns white and drops a smaller red light that moves away.This evening, while my neighbor and I were taking the dogs for their nightly walk, we noticed a bright red light high up in the sky. It looked similar to the red lights on radio towers, it was that bright, but it was not blinking and it seemed to be stationary, or moving very slowly.As we watched, trying to decide if it was moving by gauging its position in relation to some telephone lines, it suddenly turned very white, then a smaller red light dropped down from it. As the smaller red light dropped away, the white light disappeared, but for a few seconds both the white light above and the red light dropping away were visible. Then the white light went out and we could see nothing of it. The red light then moved away and we watched it until it passed from view.I believe the light was high in the southeastern sky, then the red light that moved away was moving east. The whole event lasted maybe three minutes from the time we noticed the bright redlight until the smaller red one passed from view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65542.html](http://www.nuforc.org/webreports/reports/065/S65542.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Burnt Ranch (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Huge disk with hour glass directly above (center) silver type ball, moving eractly, but in some sort of sync with each pattern different colored lights would react accordingly,and above the ball a gigantic looking skyscraper. People kept passing us on the highway and stopping But these people were giving off a feeling to me as though they missed the bus. Will never forget that smell (Corona) from the intense energyit was at tree top level gliding alongside the highway as my wife and i drove</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05310.html](http://www.nuforc.org/webreports/reports/005/S05310.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164587.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165722.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164506.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164657.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164504.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
