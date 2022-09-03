@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:13:19 on 3 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:43 on 3 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Burnt Ranch (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Huge disk with hour glass directly above (center) silver type ball, moving eractly, but in some sort of sync with each pattern different colored lights would react accordingly,and above the ball a gigantic looking skyscraper. People kept passing us on the highway and stopping But these people were giving off a feeling to me as though they missed the bus. Will never forget that smell (Corona) from the intense energyit was at tree top level gliding alongside the highway as my wife and i drove</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05310.html](http://www.nuforc.org/webreports/reports/005/S05310.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>More Phoenix lights, in a line formationOn September 3rd around 19:24, my husband, 2 year old and I were driving in Phoenix, Arizona, near Glendale.  I looked out the window to my left and saw 6-10 bright lights in a line formation coming from the horizon.  We found a place to pull over on a quiet road and waited for the objects to pass over.  Once they did, we were shocked at how silent they were.  We couldn’t hear the craft at all.  From a distance they were white lights but once they passed us they were green red and white.  The objects were flying very low, right above the buildings and yet I couldn’t make out the shape of any of the craft.  They started to disperse after flying over.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143231.html](http://www.nuforc.org/webreports/reports/143/S143231.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164587.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165722.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164506.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164657.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164504.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
