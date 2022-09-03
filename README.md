@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:38 on 3 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:08:09 on 3 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Rangely (CO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Two objects, one trailing the other, extremely high altitude (looked like two satellites). As bright as Sirius.While star gazing, facing directly up from ground.Two objects, very distant (thought were satellites at first) crossing galactic plane from south-west in north-east directionality. Both objects started out very dim, increased in brightness until a visual magnitude of approximately equal to the star Sirius. Faded out approximately same speed as faded in. Saw for a total of about 30 seconds.Brightness peaked as it was directly overhead.Trailing object appeared to 'weave' back and forth slightly, but stayed a constant distant behind lead object. No visible blinking on either object.Looked up ISS and it was reported to be over Indian Ocean at the time, so could not have been that.Sighted from: http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=loc:+40.00784,-108.80491&sll=40.00784,-108.80491&sspn=0.063639,0.104628&ie=UTF8&z=15</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77616.html](http://www.nuforc.org/webreports/reports/077/S77616.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Edmonds (WA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 61</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159422.html](http://www.nuforc.org/webreports/reports/159/S159422.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164587.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165722.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164506.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164657.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164504.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
