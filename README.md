@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:51:39 on 3 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:42:58 on 3 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in North Hollywood/Burbank (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Large green ball of light dropping from sky over North Hollywood/Burbank California.I was driving home from Burbank to North Hollywood when I noticed a large green ball of light drop from the sky overlooking Burbank airport.  I thought about what I had just seen and decided to call North Hollywood Police Department to make a report.  They recommended I reach Burbank Airport/Bob Hope Airport Police department.  They, in turn, gave me your contact info.  I already left a msg with the voicemail, but, a move was mentioned so I decided to try the website as well. Thank you for being around in this random event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52298.html](http://www.nuforc.org/webreports/reports/052/S52298.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1984, an anonymous witness in Plumas Eureka State Park Camp Grounds (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Huge triangular UFO travelling extremely slow, but with impossible right and left darting movements.My wife and I were camping at the Plumas Eureka Camp Grounds, approximate elevation of 7,000 feet. It was Monday evening, near 11pm, all but one other camp site had folded up and left for home. The night was clear with no moon. The object came from NW travelling SE at a very slow rate of speed (estimate 40 to 70 MPH). Too slow to remain airborn. The shape was triangular (at the time I was calling it Delta Wing Shape). It was approx. 1000 to 2500 ft above us. The triangular shape was decerned by the stars it block out. There were circular white lights emmitting from the bottom of the craft.The craft appeared to be HUGE, over 200 feet. It was eerily silent. The remarkable thing was how it made these occasional sporadic quick moves, as it darted left or right, like a kit being jerked by string. No human could have withstood the movements without being severe damage to body or brain. We watched the craft until it dissapeard over the mountain. It never changed altitude. We asked people in Grey Eagle the next day about it, thinking everyone would be talking about it. No one saw it. After packing up and coming home we thought about it for a day or two. Then thought someone should be notified. Called the USAF. They weren't interested, told us to file a report with the Sherrif if we wanted. Now, we were starting to feel foolish, but called the Plumas county Sherrif anyway. I was hoping he would tell me he had many reports. He didn't have any, but was kind enough to take the report without ridiculing me. I am now 56 years old, a loan officer at a major bank. Was in the military with a secret security clearanced. Worked with helicopters and spent two years at a missle site.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11046.html](http://www.nuforc.org/webreports/reports/011/S11046.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164587.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165722.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164506.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164657.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164504.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
