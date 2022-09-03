@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:39 on 3 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:36 on 3 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Rio Vista (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Military Cloaks PlaneWhile traveling west on 160 just south of Rio Vista before the draw bridge I noticed a faint glow at around 1500 ft and traveling 400 - 600 mph.  The object if you could call it one had a trail behind it roughly a few hundred feet.  The thing I saw is kind of hard to describe.  The front of the object, (assuming the front was pointing to the direction it was traveling), had a copper like glow emitting from it and the trail behind it had the same glow just less intense.  I tracked the object as it went from east to west until I lost view of it.  I do not believe what I saw is extraterrestial but a military cloaking plane on a test run.  This is the second time I have seen this object.  The first was a few months back but in Stockton, CA.  Same description.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72056.html](http://www.nuforc.org/webreports/reports/072/S72056.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Farmington (AR) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>orange/amber orb. NO sound. NO other lights. moving horizontally from south to north 200 ft above groundSeptember 3, 2012  Sitting on my back patio tonight.  Neighbors had been shooting fireworks in celebration of Labor Day holiday.  Time was 9:50pm.  Orange/amber orb appeared from nowhere approximately 200 ft. vertical above my backyard.  I live in a very populated neighborhood; however, lots of farmland surrounding area.  I first thought this was some sort of remnant from a firework and it appeared to be “on fire”.  It was moving very, very slowly from the southeast sky toward the northern sky.  It literally stopped overhead and hovered for approximately 1 minute and then continued on this northern direction, remaining perfectly horizontal to the ground at the same altitude it first approached.  As I watched it glide across the sky, totally without sound, I kept trying to process what this could be.  I even thought someone must have an awesome remote control toy, until it disappeared in the distance.  During its flight, it would get brighter, then dimmer but was absolutely NOT an airplane or h! elicopter and no other lights or colors----just the steady glowing orange/amber color.  I can only seem to describe it as what the sun against the night sky would look like, only much smaller form.  As I was trying to explain this, another one appeared in the exact location as the first and mimicked the flight pattern exactly as the first, just as the first was almost out of sight range.  I am not panicked about this….just extremely curious.  Another side note, temperatures outside 80 degrees and zero wind.  I am a very sane person…….this was VERY odd.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92472.html](http://www.nuforc.org/webreports/reports/092/S92472.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164587.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165722.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164506.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164657.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164504.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
