@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:45 on 3 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:29:07 on 3 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Aalborg (Denmark) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>small white object flew a bit slow.i was driving home from a movie and i was just looking out of the window and then i see a small white object. I think its a kind of UFO but i dont know. it was small white and just a circle. and ofc. i took a picture of it on my phone :D! so i just sit here and think of what it is.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53224.html](http://www.nuforc.org/webreports/reports/053/S53224.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Yorktown Heights (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0:00:35;00 - 0:00:35;00 minutes.</sub><blockquote><sub>White Spheres Sail Across Early Evening Skies.I am not sure, I noticed a pure white sphere heading agains the cloud direction at a somewhat slow pace...like the pace of an air plane.  I couldn't tell the altitude, but as that one sphere went across and disappeared another one followed behind it in the same direction, speed, and altitude.  I don't know if they were balloons or what they were and I couldn't tell if the went behind the cloud level or infront, but it was really neat to see and I snapped off three shots on my digital camera, but I don't know if you could even see the spheres or not.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46003.html](http://www.nuforc.org/webreports/reports/046/S46003.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164587.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165722.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164506.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164657.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164504.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
