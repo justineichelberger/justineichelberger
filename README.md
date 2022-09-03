@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:39 on 3 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:35 on 3 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in New York City (NY) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Yankees vs Redsox Broadcast YES Network close up of the moon shows something shooting from the moonOn the Yankees vs Boston Redsox Broadcast on September 3rd.  They had a close up of the moon from one of their high lense television camera pointed at the moon (at about 1 hour 52 minutes and 24 seconds into the broadcast)(approx)If you look to the bottom left of the screen when they are showing the moon, you will see something streaking from the moon.  Its very quick shot but definitely something shooting from the moon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113284.html](http://www.nuforc.org/webreports/reports/113/S113284.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Owasso (OK) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Driving south toward Tulsa from Owasso OK, a green and white bar of light was seen traviling at a high rate of speed.  What I at first believed to be a plane,was traveling at a 45 degree dive toward the horizon when it disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92469.html](http://www.nuforc.org/webreports/reports/092/S92469.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164587.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165722.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164506.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164657.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164504.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
