@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:37 on 3 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:36 on 3 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Oneonta (NY) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Diamond-shaped object with 4 blinking lights very highJust after 12:35am EST on 9/3/02 in Oneonta, NY, I saw a blinking light in the sky... it was travelling West to East in the North sky, basically in line with the Milky Way... there was no noise, it seemed very high, and it was moving at a moderate pace...I had someone grab me a pair of binoculars, and I saw that it had 4 blinking lights, although they never blinked at the same time, and there didn't seem to be a pattern to the blinking. The positions of the lights on the craft seemed to form a diamond, with one light on what appeared to be the front.  I could not see any shape to it, only the lights when they blinked.  I lost it in my binocualrs soon after, but it seemed to just vanish... I'm pretty sure I didn't just lose it, it seemed like the lights stopped blinking, and when I put down the binoculars I could not see it anymore. Maybe it was a military craft or something else, but I'm pretty sure it was not a satellite, nor a passenger plane. Please help if you have any ideas!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24821.html](http://www.nuforc.org/webreports/reports/024/S24821.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Hartville (MO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately  -  minutes.</sub><blockquote><sub>LARG FIRE BALL TREE TOP LEVEL SPOTED ABOVE MY HOUSE ON SPT 3 05 IN HARTVILL MISSOURI AT 11:16 PMSEPT 9 05 AT 11:00 P.M I WAS DRIVING FROM TOWN I HAD MY DOG AND JUST WHEN I PULLED IN TO THE DRIVE WAY I NOTECED MY WHOLE YARD GOT REALY BRIGHT WHEN I LOOKED UP I COULD NOT BELEAVE WHAT I WAS SEEING IT THISE ENOURMOUS FIRE BALL AND IT WAS DARTING FROM THE NE SKY TO THE EAST SKY IN A MATTER OF SECONDES THEN IT WOULD SHOOT UP TO WHERE YOU COULD JUST BARLEY SEE IT I MEEN VERY VERY HIGH ALTATUDES IVE NEVER SEEN ANY THING LIKE THIS AFTER IT WENT UP I WENT TO GET MY TELESCOPE TO JUST TO SEE WHAT IT WAS WHEN I WENT BACK OUT IT ALMOST TREE TOP LEVEL IVE NEVER BEEN SO FREAKED OUT IN MY LIFE THEN I JUST SHOT STREIGHT UP AND JUST IN A HALF OF SECOND IT WAS GONE I MEEN BY BY SEE YA OUTA HERE JUST LIKE THAT IT WAS GONE WE NEED TO DO SOMTHING TRY TO FIND OUT WHER THEY COME FROM AND WHAT THEY WANT AND WHY US  .......PLEAS BELEAVE ME ON THISE I NEVER BELEAVED IN THEM UN TILE TONIGHT  THANK U((NUFORC Note:  Witness elects to remain totally anonymous, and provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46011.html](http://www.nuforc.org/webreports/reports/046/S46011.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164587.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165722.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164506.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164657.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164504.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
