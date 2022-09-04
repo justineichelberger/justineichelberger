@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:36 on 4 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:44 on 4 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Chennai (India) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>blackhole like object seen in chennai I noticed a black object and looked similar to a black hole, not a single reflection of light from it. It had two pair of its own shape, one is half of its own size located on its sides and another small pair below its side objects. It did not have wings. It just looked like two pair’s of tennis ball attached to a foot ball. It released black gases twice its own size and looked like it was floating. I was able to notice it because of complete absence of light.I was facing east and the object was facing the sun, I saw it at an angle of 30-40 degrees some 1-2 km’s distance from it. I am not able to mention the exact size of it .imagine a plane take off and see it after 2 or 3 min. I could not tell to anyone as I was really stunned looking at it.  I never spoke a word about it as I knew no one would believe me.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73238.html](http://www.nuforc.org/webreports/reports/073/S73238.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in International Falls (MN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Very small with pink and blue lights and could move very fast. It flew very close  to usThe size was 1 foot by 1and 1 half feet with blue and pink or red lights and made no sound.  I was about 10 or 15 feet away.  It flew next to the garage and over the neighbors house zig-zagged left and right and then took off fast.  It was the size and shape of a  Whirley Bird on a roof.  I contacted authoritys yet were skeptical.((NUFORC Note:  We spoke with this witness on December 03rd, 2011, and he asserted that some kind of strange sounds, which sounded to us like a person screaming into a microphone, appeared suddenly on a tape or DVD that was present at the time of the sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83864.html](http://www.nuforc.org/webreports/reports/083/S83864.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [371](http://www.nuforc.org/webreports/reports/164/S164518.html)
-- [370](http://www.nuforc.org/webreports/reports/164/S164516.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164520.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164833.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164839.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
