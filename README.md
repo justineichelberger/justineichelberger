@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:40 on 4 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:34 on 4 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Minneapolis (MN) reported seeing craft that fit the description of some 'Formation' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Three faint blue triangles high in the sky.I'm amazed. I hope someone else saw some of this too. I arrived home at approx. 3:15 in the morning on sept. 4. as I was walking toward the house from the back alley/driveway I noticed what appeared to be a sattelite moving slowly from southeast to northwest. I didn't think much of it, other than it was quite bright, and seemed a bit low in the sky. It also was a tiny bit orange-ish in color which I thought was odd, but it was partly cloudy so I thought it may be just something to do with the atmosphere. Then I noticed the strange part. Moving at the same speed, and in the same direction, were three faint blue triangles of lights, all about a hands legnth(to the eye) apart from each other. They were each about the size of my thumb across, which seems quite large for how high they appeared to be. I immediately ran in the house and grabbed my video camera. I came back out to film the objects(which were moving very slow) but the darkness of the sky, and the lightness of the city made it impossible to see anything on my viewfinder, so I was unable to get any footage. The objects slowly moved out of veiw to the northeast. I also saw probably five to ten shooting stars, but I doubt if they were related in any way.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31202.html](http://www.nuforc.org/webreports/reports/031/S31202.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in North Myrtle Beach (SC) reported seeing craft that fit the description of some 'Cone' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Four  bright lights over Atlantic Ocean flying in rectangle formation, changed to orange cones then orangle cirlces with black core.Gazing into a black sky over the Atlanta Ocean from our condominium balcony.4 extremely bright lights flying in a rectangle formation with a light at the corner of each "point" of the rectangle.  Then, to our amazement each of the four lights turned into "orange" cone and appeared suspended.  The "orange" cone then turned into an orange circle with a perfectly round "black" core.  Then the orange and black circle seemed to fade until we could not see it.  After only a few minutes another group of 4 lights, same rectangle formation, same orange cone changing to a circle with black core.  We thought we heard thunder over the ocean, but the sound could have happened during the transformation of the lights to the cones.  The 4 observers were all over 40 college degreed professionals.((NUFORC Note:  We have contacted the Myrtle Beach newspaper, in order to determine whether they knew what caused the lights, and they had never heard of them.  We will submit a letter to the editor, urging anyone who knows what they are to contact our Center.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59800.html](http://www.nuforc.org/webreports/reports/059/S59800.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [371](http://www.nuforc.org/webreports/reports/164/S164518.html)
-- [370](http://www.nuforc.org/webreports/reports/164/S164516.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164520.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164833.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164839.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
