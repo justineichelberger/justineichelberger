@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:36 on 4 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:37 on 4 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Trenton (Canada) (ON) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>White cigar, tic tac shaped object moving at a steady pace west to east.  Thought it was a plane till it was over me an didn't have wings.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148664.html](http://www.nuforc.org/webreports/reports/148/S148664.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Shoto/Two Rivers (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>white light that seemed to disapear then reapear further down. plane spotted in same area.At about 10:15 p.m. I was driving down old Q when i spotted a light moving slowly above the tree line. I'm not sure about the direction but as I turned onto Shoto road it(the light) was on my left. I live on Shoto road about a half mile from where I saw the u.f.o. It was a constant light with no blinking lights or anything of that sort. I actually pulled over on Shoto road to watchas I was a little bewildered. There was a high flying plane in the same direction as the u.f.o. I could see the two crafts out my left window as I pulled over. On the plane I could make out the two flashing wing lights, but the u.f.o. was a constant white light. I watched it above the tree line for about 3 to 4 minutes then it seemed to disapear, only to reapear not far away. I lost sight of it so I turned around and followed shoto down to Q(not old Q). I turned onto highway Q but couldn't find it again. The craft moved at a constant speed never speeding up or slowing down. I'm interested to see if the pilot in this area reports it. I'm not easily excited and I'm also not a u.f.o. buff or necessarily interested in the paranormal. I hope to find other witnesses to confirm my sighting, although it was very short, it left a lasting impression on me! There were no clouds at the time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31217.html](http://www.nuforc.org/webreports/reports/031/S31217.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [371](http://www.nuforc.org/webreports/reports/164/S164518.html)
-- [370](http://www.nuforc.org/webreports/reports/164/S164516.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164520.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164833.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164839.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
