@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:26:35 on 4 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:14:44 on 4 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Mojave (Red Rock Canyon Rec.) (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>2 lights moving quickly & erraticly north of mojave ca. (edwards???)2 lights very high no sound moving very quickly in many directions instant turns, loops, circles. Moving around entire sky. very clear night, not stars, not satillites very fast movements & immediate 90+ degree turns.Got spooked & left</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39786.html](http://www.nuforc.org/webreports/reports/039/S39786.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Lincolnton (GA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>bright lights seen over Lincolnton, GA., 9:30PM- Set.4TH-2012It was 9:30 pm last night ( 09/04/2012) I took my dog out,looked up to the sky ( south)and noticed red,green,clear or white lights, thought at first plane, but it never moved, so I called my husband out to show him ( didn't want him to think I'm nuts) he also saw them.  I had enough time to go in our house and get binoculars  .We watched for several minutes and eventually it moved further up so high that i lost sight.I know it wasn't a plane...((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92512.html](http://www.nuforc.org/webreports/reports/092/S92512.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [371](http://www.nuforc.org/webreports/reports/164/S164518.html)
-- [370](http://www.nuforc.org/webreports/reports/164/S164516.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164520.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164833.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164839.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
