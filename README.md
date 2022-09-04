@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:29:20 on 4 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:52:12 on 4 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Manahawkin (?) (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>3 round bright firery objects.I noticed one bright orange red circular object traveling slow.  Then a minute later another, and another minute another.  All three disappeared</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113247.html](http://www.nuforc.org/webreports/reports/113/S113247.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Richmond (ME) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 12.00AM to 4PM - 12.00AM to 4PM minutes.</sub><blockquote><sub>these objects darted about.  Quarter size objects with radiant light beams all around hovered in vertical line then dartedMy daughter called me from Richmond Maine to tell me of this event.  I did not see them.  But she and 2 women saw them and a police officer as well. They were all over the sky all night long. Many of them were orange in color.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24876.html](http://www.nuforc.org/webreports/reports/024/S24876.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [371](http://www.nuforc.org/webreports/reports/164/S164518.html)
-- [370](http://www.nuforc.org/webreports/reports/164/S164516.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164520.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164833.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164839.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
