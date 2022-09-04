@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:03:31 on 4 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:36 on 4 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Jacksonville (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I'm standing outside smoking a wine black n mild..looking up @the stars,as always..to my upper right,I see somewhat of a V-shaped craft traveling around the normal altitude of a seahawk/Warhawk helicopter..seemed somewhat translucent..no sound,could barely see the craft,but it was THERE!..traveling from my right to left,once out of my sight,I turned back to my right,looking upwards,and a (flash) of light shot across the sky..no..joke..these events occur often, BUT THAT was waaaayyy different..nooooo way cld this be explained..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164503.html](http://www.nuforc.org/webreports/reports/164/S164503.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Trenton (Canada) (ON) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>White cigar, tic tac shaped object moving at a steady pace west to east.  Thought it was a plane till it was over me an didn't have wings.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148664.html](http://www.nuforc.org/webreports/reports/148/S148664.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [371](http://www.nuforc.org/webreports/reports/164/S164518.html)
-- [370](http://www.nuforc.org/webreports/reports/164/S164516.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164520.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164833.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164839.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
