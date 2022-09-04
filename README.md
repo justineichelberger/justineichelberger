@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:39 on 3 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:36 on 4 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Pelzer (SC) reported seeing craft that fit the description of some 'Changing' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>3 red lights in shape of a perfect triangle over the steam mill in Pelzer,scThe first night i saw the objects it started at around 1:00 am.  It was 3 red lights all spaced out in the shape of a perfect triangle, the objects moved slowly foward but then stopped and en t backwards and just stayed there untill exactly 5:30am.  The second time 09/03/2010 wich is what i am reporting now the same objects were spotted in the same area as the first time. I sat and watched them change shape and color from red to green.  i watched them untill the sun began to rise and as I was watching an airplane came by and it looked as though it scared the objects because 2 of them disapeared and the 3rd looked as though it was lost because it began to move back and forth and all around as though it was on a winding road and finally disappeared completely. It was to say the least..amazing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77646.html](http://www.nuforc.org/webreports/reports/077/S77646.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Red Rock Canyon (NV) reported seeing craft that fit the description of some '' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>I took several pictures in Red Rock Canyon near Las Vegas on the fourth of Sept.  I had them developed the other day and in one of the pictures I inadvertantly took a picture of a saucer shaped ufo flying above a mountain formation.  I have the negative if you want a copy.  Possibly it can be enlarged.  I did not physically see or hear the object and was unaware of it until I received the pictures back.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09798.html](http://www.nuforc.org/webreports/reports/009/S09798.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164587.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165722.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164506.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164657.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164504.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
