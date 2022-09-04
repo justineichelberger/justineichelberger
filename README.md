@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:42 on 4 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:38 on 4 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Mariposa (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>it appeared to be a meteror entering the earth's atmosphere and was large enough that it may not have completely burned prior to impactI believe the object was a meteror, however, no current news reports substantiate that observational opinion.  The object entered the atmosphere as a large ball of light (fire?) with a long tail that turned green as it moved rapidly across the horizon from west to east.  It appeared to be in close proximity to northwestern usa.  I don't believe the whole object burned-up before impact which I propose is somewhere within a couple hundred miles of 95338 (Mariposa,CA).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31221.html](http://www.nuforc.org/webreports/reports/031/S31221.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Duarte (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Two lights flickering over the san gabriel mountains.  The two lights were moving east quite fast without any sound.Two bright white lights moving east very rapidly over the san gabriel mountains.  There was no sound during this event as the lights moved above and behind the mountain rigde.  Very unusual since there is a very low cloud cover over the mountains.  It is the strangest thing I have ever seen.  Hope someone else witness this event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04042.html](http://www.nuforc.org/webreports/reports/004/S04042.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [371](http://www.nuforc.org/webreports/reports/164/S164518.html)
-- [370](http://www.nuforc.org/webreports/reports/164/S164516.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164520.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164833.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164839.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
