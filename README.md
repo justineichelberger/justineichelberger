@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:34 on 4 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:39 on 4 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Brighton (outside of) (IA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>camping, object zig-zagged, stopped off and on, went behind a large cloud bank and was so bright it lit through the cloud, weird hard to describe when objects do not light a cloud, was seen later approx 2:20 a.m. and then appeatead even with the horizon and was a dark orangish colorthe area has had several sighti9ngs in the last two weeks and has been reported in the jefferson county paper, and in the fairfield paper, it was brought up in church by the pastor if anyone else had seen something as he was confounded and a nonbeliever, when the object came down the dogs and coyotes in the area howled like crzy and then ceased when it went back up. two days later the farmer who owns the area found a depression area with no tracks in or anything later two more depressions were gound that have been verified with four more reported but not verified as yet for a total of seven.  On the area where the farmer had the field, two miles from anything and in govt. set aside for the past ten years or so we took soil and plant samples inside the area and outside the area for comparison they were immediately sealed in bags and you may have them if you wish. pictures were also taken along with video. don,t know what else to add but our area has been really going weirdr in the past couple of weeks. well let us know if you want the samples or no thanks for your time. I will send a map of the area or what ever else you need.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09742.html](http://www.nuforc.org/webreports/reports/009/S09742.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Wake Forest (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Driving down a local road, we witnessed 4 bright orange lights in the sky.  They seemed circular in shape and traveling pretty fast.  They remained in a straight line as if they were connected.  They flew from north east to South west.  The lights flickered and then faded away.  Shortly after they faded, another light from the north, flew across the sky.  It soon faded away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121685.html](http://www.nuforc.org/webreports/reports/121/S121685.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [371](http://www.nuforc.org/webreports/reports/164/S164518.html)
-- [370](http://www.nuforc.org/webreports/reports/164/S164516.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164520.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164833.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164839.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
