@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:36 on 4 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:40 on 4 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Telford (Shropshire) (UK/England) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>09/04/10 TELFORD, ORANGE BALL, 35 MINSMY SON WAS OUT IN THE GARDEN, I WAS IN THE FRONT ROOM. DAD COME AND LOOK AT THIS THERE WAS ORANGE BALL OF LIGHT GOING CROSS THE SKY, THEN ABOUT ONE MINUTE LATER THEN THERE WAS AN OTHER ONE, AND AGAIN AND SO ON IN TOTAL THERE WAS 11. THERE WERE NO SOUND.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77625.html](http://www.nuforc.org/webreports/reports/077/S77625.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Minneapolis (MN) reported seeing craft that fit the description of some 'Formation' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Three faint blue triangles high in the sky.I'm amazed. I hope someone else saw some of this too. I arrived home at approx. 3:15 in the morning on sept. 4. as I was walking toward the house from the back alley/driveway I noticed what appeared to be a sattelite moving slowly from southeast to northwest. I didn't think much of it, other than it was quite bright, and seemed a bit low in the sky. It also was a tiny bit orange-ish in color which I thought was odd, but it was partly cloudy so I thought it may be just something to do with the atmosphere. Then I noticed the strange part. Moving at the same speed, and in the same direction, were three faint blue triangles of lights, all about a hands legnth(to the eye) apart from each other. They were each about the size of my thumb across, which seems quite large for how high they appeared to be. I immediately ran in the house and grabbed my video camera. I came back out to film the objects(which were moving very slow) but the darkness of the sky, and the lightness of the city made it impossible to see anything on my viewfinder, so I was unable to get any footage. The objects slowly moved out of veiw to the northeast. I also saw probably five to ten shooting stars, but I doubt if they were related in any way.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31202.html](http://www.nuforc.org/webreports/reports/031/S31202.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [371](http://www.nuforc.org/webreports/reports/164/S164518.html)
-- [370](http://www.nuforc.org/webreports/reports/164/S164516.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164520.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164833.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164839.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
