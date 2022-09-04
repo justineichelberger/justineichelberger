@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:36 on 4 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:48 on 4 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Hanover (MD) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 77</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164839.html](http://www.nuforc.org/webreports/reports/164/S164839.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Dardanelle (AR) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Slow moving, hovering, flashing light above Yell County, AR.My nephew and I was stargazing on the deck when we saw this blinking light in the southern sky.  This was about 11:30 at night and the sky was clear.  This was a white light that would do a quick flash, or blink every 4 seconds.  I timed it and it would flash right on 4 seconds.  It was the same color and about the same brightness as the rest of the stars in the sky. With some binoculars I was able to see it slightly better.  It was moving SSE really slowly and was in the same area of sky for at least 20 minutes. I've seen aircraft and satellites move across the sky and this was going way too slow for any I had ever seen.  There was no sound from this.  I'm not too familiar with constellation names, but after looking it up, I think this light was in the same area of the sky as the constellation Aquila, if that helps.  It was hard to tell it was moving at all and until I got my binoculars out, I wasn't 100% sure it was.  I'm thinking it might be a weather bal! loon, maybe with some kind of strobe light on it, but I wanted to be sure.  When it did light up, it seemed to be lighting something from bellow, kind of the way lighting lights up a cloud.  I could be wrong about that since it would blink so quickly, it was hard to tell for sure.  It also seemed to change brightness.  Sometimes it would seem very bright and other times you could barely notice it flashing.  The brightness seemed to come and go.  I followed this flashing light with my binoculars for about 20 minutes until it went out of sight behind some trees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77602.html](http://www.nuforc.org/webreports/reports/077/S77602.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [371](http://www.nuforc.org/webreports/reports/164/S164518.html)
-- [370](http://www.nuforc.org/webreports/reports/164/S164516.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164520.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164833.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164839.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
