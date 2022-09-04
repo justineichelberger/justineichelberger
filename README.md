@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:34 on 4 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:33 on 4 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in North Myrtle Beach (SC) reported seeing craft that fit the description of some 'Cone' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Four  bright lights over Atlantic Ocean flying in rectangle formation, changed to orange cones then orangle cirlces with black core.Gazing into a black sky over the Atlanta Ocean from our condominium balcony.4 extremely bright lights flying in a rectangle formation with a light at the corner of each "point" of the rectangle.  Then, to our amazement each of the four lights turned into "orange" cone and appeared suspended.  The "orange" cone then turned into an orange circle with a perfectly round "black" core.  Then the orange and black circle seemed to fade until we could not see it.  After only a few minutes another group of 4 lights, same rectangle formation, same orange cone changing to a circle with black core.  We thought we heard thunder over the ocean, but the sound could have happened during the transformation of the lights to the cones.  The 4 observers were all over 40 college degreed professionals.((NUFORC Note:  We have contacted the Myrtle Beach newspaper, in order to determine whether they knew what caused the lights, and they had never heard of them.  We will submit a letter to the editor, urging anyone who knows what they are to contact our Center.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59800.html](http://www.nuforc.org/webreports/reports/059/S59800.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Visalia (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 150.0 - 150.0 minutes.</sub><blockquote><sub>One main craft with bright rotating lights and orange light crafts flying in and out of and around the main craft.There was one main one that was a disk shape that had bright individual lights that would sporadically turn on  and sometimes rotate and for various amounts of time.  After some time yellowish/orange lights shot in and out of the main craft and would fly/move around in unpredictable movements. Some of theses lights shot towards the ground others around the main craft.  As the hours went on the craft moved father away with the lights continuing to shoot in, out, and around it. We believe the lights to be smaller crafts that were able to fly into the main craft.  The first person to sight the main craft says she saw the main craft have 5 or 6 windows.  This was all seen from a second story house and the craft(s) were low in sky and above fields/ bird land.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83691.html](http://www.nuforc.org/webreports/reports/083/S83691.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [371](http://www.nuforc.org/webreports/reports/164/S164518.html)
-- [370](http://www.nuforc.org/webreports/reports/164/S164516.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164520.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164833.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164839.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
