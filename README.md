@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:38 on 5 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:51 on 5 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Lewisville (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>long oval cloud with red light in the exact middleWhen I was in second grade in 2004, I saw a extremely strange cloud formation over the playground of Degan elementary school I cannot specify the date but it was in September. It looked like a perfect long oval thing(not including cloud bumps) with a red dot in the exact middle. It was in a perfect circle of clouds(not including cloud bumps).((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64235.html](http://www.nuforc.org/webreports/reports/064/S64235.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Coweta (OK) reported seeing craft that fit the description of some 'Disk' over a period of approximately 240.0 - 240.0 minutes.</sub><blockquote><sub>I have done conciderable research on this subject since contact. It fits documented discriptions listed in UFOlogy by Jim Marrs.We heard what sounded as if a jet passing low over our country home. I went outside in the rear of our home facing the pasture, opposite of where the noise went. I was facing west. At that time something with an approximate wingspan of ten feet flew from east to west, 2o meters from the ground above the Elm trees next to our home. It had a large head and thin hominid body, wings like a moth or insect but did not flap them. This entity landed. My wife saw it also. It was ten or twelve feet tall, red oilish skin, smelled as ammonia. This creature spoke in a very strange manor. I demanded it speak in English of which it spoke in older European dialect. It did us no harm but we fled afterward. It referred to itself as Ivan Cole. I am an analyst and was a complete skeptic until this event. I would have preferred it never occurred. Whatever the EBE are they are not human and they do exist.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57690.html](http://www.nuforc.org/webreports/reports/057/S57690.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/164/S164510.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164584.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164509.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164531.html)
-- [374](http://www.nuforc.org/webreports/reports/164/S164923.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
