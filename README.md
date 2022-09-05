@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:34 on 5 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:40 on 5 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Etters (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Multi-colored blinking lights in western sky not moving. After 15 minutes disapeared.Saw object over Etters, PA in Western Sky. Could on see colors blinking Red,Green, Blue and White lights. Could only see the lights blinking for about15 minutes. While seeing object it appeared not to move. After about 15 minutes the object disapeared from sky. While watching a smaller white blinking light moved quickly from south to north. If this was a plane we have never seen one move so fast. Only a few seconds and small white blink light disapeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113298.html](http://www.nuforc.org/webreports/reports/113/S113298.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Fairborn (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>THE CRAFT GLIDED OVER ME SILENTLY ONE LIGHT IN FRONT THREE IN BACK AND ONE RED IN THE MIDDLE.OBSERVED RED LIGHT IN THE NORTHEAST SKY IN THE 10 O"OCLOCK POSITION GLIDEING TOWARDS THE SOUTHEAST, I WANTED TO SEE IF MY CAR WAS LOCKED, WHEN I SAW THIS OBJECT JUST GLIDEING TOWARDS ME, I HAD MY BINOS IN THE CAR I GOT THEM OUT AND STARTED TO WATCH THIS OBJECT COMING AT ME AT AN INCREASEING SPEED,IT HAD ONE LARGE WHITE LIGHT IN FRONT AND THREE IN BACK AND ONE RED IN THE CENTER NONE WERE FLASHING AS IT WENT BY IT BANKED AND AND THE MOON LIT IT UP, THE LIGHTS IN THE BACK WERE STRAIGHT ACROSS AS IT WENT OVER ME IT WAS SILENT AND CLOSE ENOUGH I SHOULD OF HEARD IT GOING THROUGH THE AIR BUT I DID'NT HEAR ANYTHING AND IT MOVED FAST AFTER PASING OVER ME AND OUT OF MY SITE, I KNOW THIS WAS'NT AN AIRCRAFT BEEING SURE OF WHAT I SAW,IT WAS ABOUT THE SIZE OF A 737 JET EXCEPT IT WAS TRIANGLER IN SHAPE, IT WAS GREAT.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19443.html](http://www.nuforc.org/webreports/reports/019/S19443.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/164/S164510.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164584.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164509.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164531.html)
-- [374](http://www.nuforc.org/webreports/reports/164/S164923.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
