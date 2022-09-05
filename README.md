@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:05:00 on 5 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:33 on 5 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Kimball Twp. (5 miles S.W. of Port Huron) (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I was at my residence when I and two other subjects observed a green fireball proceed from the West to the East. The green fireball was observed to be "very" bright and was observed to have a long tail following the main part of the fireball. I have seen these green fireballs on other incidents but I have never reported any of these observations due to the fact that I thought that they were just meterors.There really is not much more information to say about this observation other than it was a bright green color. The observation was brief as it was moving at a high rate of speed from the West to the East. I'm currently a police officer for a local city police department in St. Clair County, Michigan. I have been a police officer since 1991 and have witnessed one other strange observation way back on 1984 in Livonia Michigan which was also witnessed by two other subjects. The incident was reported in our local newspaper (Livonia Observer and the Detroit News). I can supply dates and times if you are interested. I became a member of Mufon several months ago and I'm aware of several of the reports out there about "Green Fireballs". I also listen to Art Bell and have heard Peter Davenport on the radio concerning these incidents. I decided to finally send you this report after hearing other people report similar  observations.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03940.html](http://www.nuforc.org/webreports/reports/003/S03940.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Lake Elsinore (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Was sitting upstairs feeding baby and looking out window to pass time. Saw lights in the form of a triangle above the house across the street. Was sitting still then started moving slowing. Vanished in thin air. Just gone and never reappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164510.html](http://www.nuforc.org/webreports/reports/164/S164510.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/164/S164510.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164584.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164509.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164531.html)
-- [374](http://www.nuforc.org/webreports/reports/164/S164923.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
