@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:47 on 5 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:39 on 5 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>strange bright light in north east skyi was outside having a smoke and looked up at a bright star or planet,the light just got brighter and then all of a sudden it faded into nothing. i 've never seen that ever happen before. did anyone else happen to see it? it was in the north east sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52378.html](http://www.nuforc.org/webreports/reports/052/S52378.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Rochester (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Orange circular light , it hovered for a time before moving away at a high rate of speedI saw a bright orange light in the sky.  It moved right to left.  Hovered for a few seconds.  After which it moved at a high rate of speed out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77651.html](http://www.nuforc.org/webreports/reports/077/S77651.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/164/S164510.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164584.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164509.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164531.html)
-- [374](http://www.nuforc.org/webreports/reports/164/S164923.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
