@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:29:46 on 5 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:53:09 on 5 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Hanover Park (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>7 ufo triangles HUGE over hanover park, then stopped in mid air and rotated lights to look like constelations!was smoking a cigarett and looked up in a cler night sky at 3:53 am to see a  formation of 7 (almost see through) craft, they seamed to glide over the night sky andwere HUGE, the only thing one could see is 5 lights (might have been 7) with one craft in the lead they had onelight in front and ten going outwards into a triangle 2 more and 2 more  one in the lead and 3 behind him and3 behind them, the strange thing is that they stopped as if they hoovered, and all of them started rotating their lights to resemble constelations, and in about 5 seconds a massive cloud cover came over the sky (unnatural) to cover them a couple miles in a radius, the whole event lasted about 5-7 minutes i wish i had a camera, it was something else! all 7 of them made it looks like 3 different constelations, they were workingin sync! moved very slow. put wrong date in other report sorry (remake)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77608.html](http://www.nuforc.org/webreports/reports/077/S77608.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>this object appeared to be off the coast of los angeles, from where we were standing it was for sure over the ocean, it was a very clear morning the bright red ,yellow oval shaped thing seemed to change colors,it was very low to the horizon,the thing appeared to be dumping something into the ocean, it dropped four oval shapped thinggs that looked similar to itself but smaller it started to move slowly to the south then dissappeared for a second reappeared the left so fast i couldnt estimate the speed it turned a bluish color the faster it went we stood there and my co worker said it was agoverment ufo i say what we saw was a genuine ufo i also think we had a once in a lifetime sighting</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31601.html](http://www.nuforc.org/webreports/reports/031/S31601.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/164/S164510.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164584.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164509.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164531.html)
-- [374](http://www.nuforc.org/webreports/reports/164/S164923.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
