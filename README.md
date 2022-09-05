@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:47 on 5 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:05:00 on 5 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Kamiah (ID) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>maybe a  somewhat round craft with three large lights per side, with a seperate round craftMoonless, but clear night. zero traffic. Saw what looked like a house window light in an area I knew there were no homes (very rural).I Slowed way down, then we realized the light was over the (Clearwater) river. At first I could see only one sq. window like light. Then it seemed as though we came around to the other side and there were three sq. lights and one round light. Like an exclamation sign on it's side. The sq lights were shaped like the legs of the 'Hilton H' (tighter in the middle and flared at the ends). The craft (object) seemed to float (no noise heard) over the top of us-about 100 ft high..then rise over the timbered hill to to the south of our then stopped vehicle. There remained a glow of light reflecting over the top of the night horizon. After a few minutes, just "a" round light came over (seemd to just "pop over" the hill top. It halted for a short amount of seconds, then expoded with speed straight up to the "heavens". It seemed like it was in outer space in just a few seconds. The color of the light faded to a white color and the path seemed to bend as though it was changing course to more westerly direction. Common sense would tell me the path was optical illusion and just "bent".</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14864.html](http://www.nuforc.org/webreports/reports/014/S14864.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Kimball Twp. (5 miles S.W. of Port Huron) (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I was at my residence when I and two other subjects observed a green fireball proceed from the West to the East. The green fireball was observed to be "very" bright and was observed to have a long tail following the main part of the fireball. I have seen these green fireballs on other incidents but I have never reported any of these observations due to the fact that I thought that they were just meterors.There really is not much more information to say about this observation other than it was a bright green color. The observation was brief as it was moving at a high rate of speed from the West to the East. I'm currently a police officer for a local city police department in St. Clair County, Michigan. I have been a police officer since 1991 and have witnessed one other strange observation way back on 1984 in Livonia Michigan which was also witnessed by two other subjects. The incident was reported in our local newspaper (Livonia Observer and the Detroit News). I can supply dates and times if you are interested. I became a member of Mufon several months ago and I'm aware of several of the reports out there about "Green Fireballs". I also listen to Art Bell and have heard Peter Davenport on the radio concerning these incidents. I decided to finally send you this report after hearing other people report similar  observations.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03940.html](http://www.nuforc.org/webreports/reports/003/S03940.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/164/S164510.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164584.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164509.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164531.html)
-- [374](http://www.nuforc.org/webreports/reports/164/S164923.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
