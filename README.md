@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:36 on 5 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:34 on 5 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Clermont (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>24 bright lights over Clermont, FL, headed in southerly direction at approximately 9:30 at night on Sept. 5th, 2015.Approximately 9:15 to 9:30 in Clermont Florida, at least 24 orange balls of light coming from east to west and turning south in an uneven line, in pairs of twos and threes.  Speed unknown but steady.  No blinking or sound took approximately five videos, with neighbors(7) and passerby watching for approximately fifteen minutes.  Quite beautiful lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121707.html](http://www.nuforc.org/webreports/reports/121/S121707.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Etters (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Multi-colored blinking lights in western sky not moving. After 15 minutes disapeared.Saw object over Etters, PA in Western Sky. Could on see colors blinking Red,Green, Blue and White lights. Could only see the lights blinking for about15 minutes. While seeing object it appeared not to move. After about 15 minutes the object disapeared from sky. While watching a smaller white blinking light moved quickly from south to north. If this was a plane we have never seen one move so fast. Only a few seconds and small white blink light disapeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113298.html](http://www.nuforc.org/webreports/reports/113/S113298.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/164/S164510.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164584.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164509.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164531.html)
-- [374](http://www.nuforc.org/webreports/reports/164/S164923.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
