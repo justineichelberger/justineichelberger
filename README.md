@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:34 on 5 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:47 on 5 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>this object appeared to be off the coast of los angeles, from where we were standing it was for sure over the ocean, it was a very clear morning the bright red ,yellow oval shaped thing seemed to change colors,it was very low to the horizon,the thing appeared to be dumping something into the ocean, it dropped four oval shapped thinggs that looked similar to itself but smaller it started to move slowly to the south then dissappeared for a second reappeared the left so fast i couldnt estimate the speed it turned a bluish color the faster it went we stood there and my co worker said it was agoverment ufo i say what we saw was a genuine ufo i also think we had a once in a lifetime sighting</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31601.html](http://www.nuforc.org/webreports/reports/031/S31601.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Kamiah (ID) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>maybe a  somewhat round craft with three large lights per side, with a seperate round craftMoonless, but clear night. zero traffic. Saw what looked like a house window light in an area I knew there were no homes (very rural).I Slowed way down, then we realized the light was over the (Clearwater) river. At first I could see only one sq. window like light. Then it seemed as though we came around to the other side and there were three sq. lights and one round light. Like an exclamation sign on it's side. The sq lights were shaped like the legs of the 'Hilton H' (tighter in the middle and flared at the ends). The craft (object) seemed to float (no noise heard) over the top of us-about 100 ft high..then rise over the timbered hill to to the south of our then stopped vehicle. There remained a glow of light reflecting over the top of the night horizon. After a few minutes, just "a" round light came over (seemd to just "pop over" the hill top. It halted for a short amount of seconds, then expoded with speed straight up to the "heavens". It seemed like it was in outer space in just a few seconds. The color of the light faded to a white color and the path seemed to bend as though it was changing course to more westerly direction. Common sense would tell me the path was optical illusion and just "bent".</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14864.html](http://www.nuforc.org/webreports/reports/014/S14864.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/164/S164510.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164584.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164509.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164531.html)
-- [374](http://www.nuforc.org/webreports/reports/164/S164923.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
