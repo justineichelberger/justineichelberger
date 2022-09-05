@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:31:33 on 5 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:27:59 on 5 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Fife (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 300.0 - 300.0 minutes.</sub><blockquote><sub>reflected cloud white glowing lights randomly apearing and spinning around a center piont and reversing4 to 5 white glows exactly the same as a reflected spotlight in the clouds rotating in a wide cirular formation stopping before one full turn then reversing reflection was angled as from above whith no aircaft noise and no beam evidence from the ground. lights traveled over a distance of 12 miles over countryside and towns at a good speed, apearing and dissapearing pereodicaly anywhere within a 15 mile radius. a radio anouncment was also made means 1000s of people seen the reflected light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46271.html](http://www.nuforc.org/webreports/reports/046/S46271.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Mexico City (Mexico) () reported seeing craft that fit the description of some '' over a period of approximately ?? - ?? minutes.</sub><blockquote><sub>hey did anyone see that thing on CNN about a single ufo in Mexico? I dont remember the time that it happened or even what month it was,(probly a couple months ago) but i definitely remember seeing something on CNN about a UFO in Mexico City. I looked on this website about the time it happened and no one was talking about it. Im starting to wonder if u guys are a legitamite UFO site or if you guys are just a bunch of government officials getting paid to tell lies and make us think there is really something out there. But if your not govt. employees, then SOMEONE must have seen this sighting in Mexico on CNN. email me with info.((NUFORC Note:  Date of sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41093.html](http://www.nuforc.org/webreports/reports/041/S41093.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/164/S164510.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164584.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164509.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164531.html)
-- [374](http://www.nuforc.org/webreports/reports/164/S164923.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
