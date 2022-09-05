@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:33 on 4 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:45 on 5 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Visalia (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 150.0 - 150.0 minutes.</sub><blockquote><sub>One main craft with bright rotating lights and orange light crafts flying in and out of and around the main craft.There was one main one that was a disk shape that had bright individual lights that would sporadically turn on  and sometimes rotate and for various amounts of time.  After some time yellowish/orange lights shot in and out of the main craft and would fly/move around in unpredictable movements. Some of theses lights shot towards the ground others around the main craft.  As the hours went on the craft moved father away with the lights continuing to shoot in, out, and around it. We believe the lights to be smaller crafts that were able to fly into the main craft.  The first person to sight the main craft says she saw the main craft have 5 or 6 windows.  This was all seen from a second story house and the craft(s) were low in sky and above fields/ bird land.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83691.html](http://www.nuforc.org/webreports/reports/083/S83691.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Wexford (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>2 adults and 1 child saw dark orange/reddish round &quot;fireball&quot; traveling across sky, moving from South to North above McKnight2 adults and 1 child saw dark orange/reddish round "fireball" traveling across sky, moving from South to North above McKnight Rd. at approximately 11:30 pm. No sound heard. Did not flash or anything like that. It maintained a steady speed and even/equal brightness for around 2 minutes, then light dimmed (briefly) and then returned to original level of brightness, disappeared quickly traveling North. Seemed to have smokey ring around it. I haven't seen anything like it before. Very interesting. Tried to record a video clip but object wouldn't show up on video; however a still image was taken; and is somewhat visible. Would love to know what we saw! Comet? Meteor? UFO?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113300.html](http://www.nuforc.org/webreports/reports/113/S113300.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [371](http://www.nuforc.org/webreports/reports/164/S164518.html)
-- [370](http://www.nuforc.org/webreports/reports/164/S164516.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164520.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164833.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164839.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
