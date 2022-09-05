@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:33 on 5 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:33 on 5 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Lake Elsinore (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Was sitting upstairs feeding baby and looking out window to pass time. Saw lights in the form of a triangle above the house across the street. Was sitting still then started moving slowing. Vanished in thin air. Just gone and never reappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164510.html](http://www.nuforc.org/webreports/reports/164/S164510.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Cougar (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub>Red, blue, green and yellowish lights on quick craft in Cougar, WAWe were out in cougar at about midnight when my boyfriend pointed out the red, blue, green, and slightly yellowish lights in the sky. When I started watching it more closely i notice that it would move as a plane did, then it stopped and hovered as a dog is trying to find the right spot on its bed.  Then it started to, very quickly, shoot diagonal, up, down, and sideways again.  Then stop once again and hover.  All as the lights are going around and morphing into the next.  (I had another experience with the same kind of craft, but multiple, and a different night.  Look for another report on 10/24/11)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84927.html](http://www.nuforc.org/webreports/reports/084/S84927.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/164/S164510.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164584.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164509.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164531.html)
-- [374](http://www.nuforc.org/webreports/reports/164/S164923.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
