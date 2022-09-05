@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:51:25 on 5 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:31:33 on 5 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Asbury Park (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>A technicolor arrangement of colors beaming from ufo for 60 minutes from 2:30 am-3:30 am the dates are estimates facts true.I was out on the boardwalk walking alone at about 2:30 am and I saw for the second time in the same spot in the sky - this brilliant beaming emerald green light appear. This time it was green and it was coming from the southern portion of the horizon line - moving quickly towards me getting bigger and brighter moving further up coast but then paused. Instead of filming or taking pictures I embraced the moment and blasted music in effort to communicate, for this was the second time this has occurred. The light beamed green and flickered bright white for quite some time. It remained in the distance but I started to feel good energy, as it remained where it was and stayed green for over thirty minutes time. As all that occurred, I sat quietly and saw that the beaming light beginning to beam and grow in size; it began to beam a beautiful and calming technicolor arrangement of lights as if it was telling me everything was okay and they recognized my presence. This carried on for another thirty minutes. In the last few minutes, it went back to emerald green. It shifted to the left zipping quickly then gliding to the right - back to center - up and then down almost hovering down to the horizon line and then boom it shot straight back into the sky moving at a rate that no man made craft could possibly move. Just as it disappeared, I saw (government) aircraft with flashing lights flying up and down the coast line and as they passed me they flew off into the northern coastal distance, minutes later circling back and passing me by flying further down the southern coast line. From that point on, I knew whatever it was was highly intelligent and emotionally in tune with me. Never was one to believe in superficial things but of course there is intelligent life out in space other than us. This was clearly a confirmation of just that very instinctual sense of life and of a higher capacity of intelligence that I had always knew to exist but no! w had been visually granted the factual evidence to confirm su! ch an in nate yet un accepted undocumented unreleased blip on the radar of life and intelligence that exists beyond our world.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164945.html](http://www.nuforc.org/webreports/reports/164/S164945.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Fife (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 300.0 - 300.0 minutes.</sub><blockquote><sub>reflected cloud white glowing lights randomly apearing and spinning around a center piont and reversing4 to 5 white glows exactly the same as a reflected spotlight in the clouds rotating in a wide cirular formation stopping before one full turn then reversing reflection was angled as from above whith no aircaft noise and no beam evidence from the ground. lights traveled over a distance of 12 miles over countryside and towns at a good speed, apearing and dissapearing pereodicaly anywhere within a 15 mile radius. a radio anouncment was also made means 1000s of people seen the reflected light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46271.html](http://www.nuforc.org/webreports/reports/046/S46271.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/164/S164510.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164584.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164509.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164531.html)
-- [374](http://www.nuforc.org/webreports/reports/164/S164923.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
