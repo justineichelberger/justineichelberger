@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:35 on 5 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:38 on 5 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Hillsboro (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Green ball with a pink/red tail entering our atmosphere , then flying of over the horizon.Me and my friend were driving on this dark mountain road by our house when all of the sudden we saw a glowing,bright green ball, with a reddish/pink tail come down like it was entering our atmosphere.The ball began to shoot of (in our atmosphere)over the hills about 20-30 miles away, it was almost as if it was circling our atmosphere to check it out.The object came in pretty slow then very quickly left.i cant really explain what it was when i saw it i wasn't sure if my friend did or not but his and my reaction answered that question.I used to not believe in life out there, now i sure  do!    ( unfortunately i had no camera at hand )</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31252.html](http://www.nuforc.org/webreports/reports/031/S31252.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Lewisville (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>long oval cloud with red light in the exact middleWhen I was in second grade in 2004, I saw a extremely strange cloud formation over the playground of Degan elementary school I cannot specify the date but it was in September. It looked like a perfect long oval thing(not including cloud bumps) with a red dot in the exact middle. It was in a perfect circle of clouds(not including cloud bumps).((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64235.html](http://www.nuforc.org/webreports/reports/064/S64235.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/164/S164510.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164584.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164509.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164531.html)
-- [374](http://www.nuforc.org/webreports/reports/164/S164923.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
