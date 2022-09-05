@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:40 on 5 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:36 on 5 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Spotsylvania (VA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>A bright green light caught the corner of my eye and I turned and a large neon green orb fell out of the sky over interstate 95 and then all the neighborhood dogs went crazy</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129728.html](http://www.nuforc.org/webreports/reports/129/S129728.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Clermont (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>24 bright lights over Clermont, FL, headed in southerly direction at approximately 9:30 at night on Sept. 5th, 2015.Approximately 9:15 to 9:30 in Clermont Florida, at least 24 orange balls of light coming from east to west and turning south in an uneven line, in pairs of twos and threes.  Speed unknown but steady.  No blinking or sound took approximately five videos, with neighbors(7) and passerby watching for approximately fifteen minutes.  Quite beautiful lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121707.html](http://www.nuforc.org/webreports/reports/121/S121707.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/164/S164510.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164584.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164509.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164531.html)
-- [374](http://www.nuforc.org/webreports/reports/164/S164923.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
