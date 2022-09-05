@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:45 on 5 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:29:46 on 5 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Wexford (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>2 adults and 1 child saw dark orange/reddish round &quot;fireball&quot; traveling across sky, moving from South to North above McKnight2 adults and 1 child saw dark orange/reddish round "fireball" traveling across sky, moving from South to North above McKnight Rd. at approximately 11:30 pm. No sound heard. Did not flash or anything like that. It maintained a steady speed and even/equal brightness for around 2 minutes, then light dimmed (briefly) and then returned to original level of brightness, disappeared quickly traveling North. Seemed to have smokey ring around it. I haven't seen anything like it before. Very interesting. Tried to record a video clip but object wouldn't show up on video; however a still image was taken; and is somewhat visible. Would love to know what we saw! Comet? Meteor? UFO?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113300.html](http://www.nuforc.org/webreports/reports/113/S113300.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Hanover Park (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>7 ufo triangles HUGE over hanover park, then stopped in mid air and rotated lights to look like constelations!was smoking a cigarett and looked up in a cler night sky at 3:53 am to see a  formation of 7 (almost see through) craft, they seamed to glide over the night sky andwere HUGE, the only thing one could see is 5 lights (might have been 7) with one craft in the lead they had onelight in front and ten going outwards into a triangle 2 more and 2 more  one in the lead and 3 behind him and3 behind them, the strange thing is that they stopped as if they hoovered, and all of them started rotating their lights to resemble constelations, and in about 5 seconds a massive cloud cover came over the sky (unnatural) to cover them a couple miles in a radius, the whole event lasted about 5-7 minutes i wish i had a camera, it was something else! all 7 of them made it looks like 3 different constelations, they were workingin sync! moved very slow. put wrong date in other report sorry (remake)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77608.html](http://www.nuforc.org/webreports/reports/077/S77608.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/164/S164510.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164584.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164509.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164531.html)
-- [374](http://www.nuforc.org/webreports/reports/164/S164923.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
