@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:29:03 on 6 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:56:07 on 6 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Gibbon (MN) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>My wife and I were watching a beautiful lightning storm when we were walking our three dogs.  Off to the left hand side of what had to be the most lightning I have ever seen come out of one cloud, was a black almost motionless object.The shape of it is hard to describe, but it was rounded on the top with pointed ridges on the bottom and points to either side.  I would say it was akin to a cookie broken in half.Only after watching for a few moments thinking it was shrinking did we realize it was moving into this cloud.  From my position in Gibbon, Minnesota, it appeared to be heading south-east toward  the Klossner or southern Lafayette.However, according to the national weather service this cloud was no more than 67 miles from us. This gives me an approximate distance of thirty to forty miles away from us at its closest point to us and was approximately the diameter of a full moon, at my first sighting.As we watched, the object continued toward and into the lightning cloud and faded from veiw.  I will forever wonder what my wife and I saw this evening.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121760.html](http://www.nuforc.org/webreports/reports/121/S121760.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Frankfort/New Lenox (IL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>First noticed object in Western sky, like a craft with a small contrail.As veiwing object it seemed to look like a cigar shape.  My husband and I parked off the road for a few minutes to watch,then noticed one craft like object over sunset and then another to the right of the sun.  The sun was very low in the horizon.After a few minutes the two on the right seemed to move one ontop of the other.As we began to travel South on Rt. 45 they stayed in view until the sun went down and could not be seen any more.  They did not seem to be moving.The first object we seen seemed to change shape.  From a craft with contrail to just a cigar shape.  The other two were just cigar shapped objects.  After the two on the right moved close to one another they stayed that way until we could not see them any longer.  We started to travel and their are many corn fields obstructing our view some of the time.  I did not see the two move they just seemed all of a sudden to be one ontop of the other.  They were oblong or cigar in shape.  After the sun went down we could no longer see anything. They were very far from us not close at all.Would like to know if anyone else seen this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09577.html](http://www.nuforc.org/webreports/reports/009/S09577.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [359](http://www.nuforc.org/webreports/reports/165/S165176.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164537.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164556.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164521.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164557.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
