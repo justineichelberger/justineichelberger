@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:37 on 6 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:50 on 6 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Swansea (IL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>moving around in a way that not possible through normal flightI didn't know where to report this but I just say a bright orange globe, about 7-8 feet in length, go across the sky from south to North, traveling 3-5 miles a secondand then slowed down and stopped in front of a church in the middle of this park area in Swansea, IL.  When it was in front of the church to the left side of me about 100 yards away, the orange glow it had been letting off vanished, but I could see the black dark sphere hovering about 10 feet from the ground.  I was driving in my car about 20 mph through the park at this time.  But as it was in front of the church on the side of me I got some crazy chills, didn't bother looking again at it, and drove faster down the road.  Faster than the speed limit at that point. This all happened between 8:28pm- 8:35pm CT 9/6/2015</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121743.html](http://www.nuforc.org/webreports/reports/121/S121743.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Ottawa (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Bright light slowly rotating around the moon.  Almost a full rotation in the last hour.  We noticed it because it seemed to be an unfamiliar star, and then we saw it moce upwards and parked to watch it.  It was still there after an hour but we stopped watching for sleep.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159169.html](http://www.nuforc.org/webreports/reports/159/S159169.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [359](http://www.nuforc.org/webreports/reports/165/S165176.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164537.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164556.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164521.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164557.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
