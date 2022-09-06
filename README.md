@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:50 on 6 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:01:30 on 6 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Ottawa (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Bright light slowly rotating around the moon.  Almost a full rotation in the last hour.  We noticed it because it seemed to be an unfamiliar star, and then we saw it moce upwards and parked to watch it.  It was still there after an hour but we stopped watching for sleep.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159169.html](http://www.nuforc.org/webreports/reports/159/S159169.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Newmarket (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three lights close to each other glowing and fading.It was just before 330 and I stepped out on my balcony sat down and sparked a joint.  I was staring up in the sky when three lights appeared.  The light seemed to glow and fade repeatedly.  I didn’t  wanna move fearing that I would lose sight of these lights, so I called for my wife and together we witnessed it glowing and fading away.  This went on for about 5 minutes until lights disappeared in thin air .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148737.html](http://www.nuforc.org/webreports/reports/148/S148737.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [359](http://www.nuforc.org/webreports/reports/165/S165176.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164537.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164556.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164521.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164557.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
