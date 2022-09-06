@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:28:53 on 6 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:24:34 on 6 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Duvall (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>The bright red object moved at speed from one place to enother then stop and started again - with no sound at all.My husband and I were sitting watching TV when we saw a bright red blurry light in the sky, almost like a triangle in shape.  It was flying lower than an aircraft and was not following the normal flight pattern for the area.  There was also no sound to it.  We watched it for about 5 minutes as it hovered and then moved.  Then it just disappeared.  GONE-</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83785.html](http://www.nuforc.org/webreports/reports/083/S83785.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Sharon (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A strange orange light seen in the night sky.Well, I went outside because my wife told me she had seen a strange light in the sky.  We traveled for several minutes trying to observe it.  When we were reentering the house, it was in the sky and I spotted it.  I was facing west.What I saw seemed like a small ball of gas rolling across the sky.  It was orange and larger than a star.  It was about an 8th of the size of the full moon.  It appeared to flicker.  It seemed like a ball of gas burning and seemed to roll.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121749.html](http://www.nuforc.org/webreports/reports/121/S121749.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [359](http://www.nuforc.org/webreports/reports/165/S165176.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164537.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164556.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164521.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164557.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
