@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:53:25 on 6 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:34:36 on 6 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Tacoma (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>on 09-06-00 @ approximately 19:15 hours Our Son spotted what he called a "falling star", However the object appeared to be make a contrAt approximately 19:15 hours on the evening of Wednesday Sept. 6th 2000. Our son brought to our attention what he called a "falling star". My wife, older son and my self looked up into the sky, to see what appeared to be an object (fireball) in the South Western sky. It appeared, to be traveling in a south westerly direction, on a re-enrty path. It was obviously generating quite a bit of heat as it was producing, an orange glow and contrails. It turned rather sharpley to the west as it was decesending, and contiued in a westerly direction. It seemed that the contrails split apart 2-3 minutes after it turned. The turn that it made was very quickly executed as though it almost turned at a right angle. This didn't appear to be a normal aircarft turn as it was done at high rate speed. We continued to watch it until it dissapeared behind a cloud bank.((NUFORC Note:  We have changed the time here to 1915 hrs., which was the correct time of the sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14021.html](http://www.nuforc.org/webreports/reports/014/S14021.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Ufo sighting in San Jose, calif around 7:47 pmI saw a tube shaped  ufo with a bright orange light coming off of it.  I got it on camera too!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113338.html](http://www.nuforc.org/webreports/reports/113/S113338.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [359](http://www.nuforc.org/webreports/reports/165/S165176.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164537.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164556.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164521.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164557.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
