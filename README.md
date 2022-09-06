@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:01:11 on 6 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:01:22 on 6 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Grants/Albuquerque (NM) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>we were driving on I 40 E, a long diamond shaped craft appeared on the passenger side, approximately 300 ft in length with flashing red, blue and white lights. silently, it flew over our car and crossed the freeway and hovered over the city of grants, nm shining what appeared to be a bright white light and then it  flew higher into the sky and we lost sight of it as we were still driving eastbound on the freeway. about 20 minutes later, the craft appeared again heading east toward albuquerque, perhaps landing at Kirtland AFB. it didn't seem to be a helicopter since the flight looked smoother and the craft did not make any typical copter sounds. it could have been a stealth but not sure if stealths are able to hover in a stationary position.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46126.html](http://www.nuforc.org/webreports/reports/046/S46126.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Lancaster (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.4666666666666667 - 0.4666666666666667 minutes.</sub><blockquote><sub>Red orange fireball no sound heard. Unknown speed more like gradual glidingThis unidentified flying object gliding through like a fireball and then dissipated out of the sky like a light bulb Lights out as it was gliding away. There was only one unidentified flying object gliding in the sky. The color of this flying object was like a red orange colored fireball, sought of like an oval shape object. The background skies was dark night, recorded from the grounds. Location direction facing South East from the back yard of the address submitted</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164556.html](http://www.nuforc.org/webreports/reports/164/S164556.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [359](http://www.nuforc.org/webreports/reports/165/S165176.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164537.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164556.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164521.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164557.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
