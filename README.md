@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:01:22 on 6 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:47 on 6 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Lancaster (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.4666666666666667 - 0.4666666666666667 minutes.</sub><blockquote><sub>Red orange fireball no sound heard. Unknown speed more like gradual glidingThis unidentified flying object gliding through like a fireball and then dissipated out of the sky like a light bulb Lights out as it was gliding away. There was only one unidentified flying object gliding in the sky. The color of this flying object was like a red orange colored fireball, sought of like an oval shape object. The background skies was dark night, recorded from the grounds. Location direction facing South East from the back yard of the address submitted</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164556.html](http://www.nuforc.org/webreports/reports/164/S164556.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Sheridan (WY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>blue-green bright oval was spotted 20 miles south of Sheridan, WY descending to earthMy wife and I were driving about 20 miles south of Sheridan, WY when we witnessed a bright blue-green oval falling from a west to east direction.  The oval was very large in size and lit up the clouds as it passed through the sky.  There were parts of the craft falling off as it descended.  There was no noise heard from such a large craft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24919.html](http://www.nuforc.org/webreports/reports/024/S24919.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [359](http://www.nuforc.org/webreports/reports/165/S165176.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164537.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164556.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164521.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164557.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
