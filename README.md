@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:47 on 6 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:37 on 6 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Sheridan (WY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>blue-green bright oval was spotted 20 miles south of Sheridan, WY descending to earthMy wife and I were driving about 20 miles south of Sheridan, WY when we witnessed a bright blue-green oval falling from a west to east direction.  The oval was very large in size and lit up the clouds as it passed through the sky.  There were parts of the craft falling off as it descended.  There was no noise heard from such a large craft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24919.html](http://www.nuforc.org/webreports/reports/024/S24919.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Myrtle Beach (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>5-6 orange lights appear over North Myrtle Beach and in a linear fashion, slowly move in unison.I never thought I would ever file a report like this, but I would like to get to the bottom of what I saw.  I just got back from my vacation at Myrtle Beach.  We were there since 8/31 and just got back today, Friday 9/7/07.  We stayed in North Myrtle Beach. Last night (Thursday 9/6/07) around 11:30 pm, my friend and I were walking along the beach toward the Apache Pier. We were in deep conversation as I looked up to my left at the clear night sky over the ocean.  There were a few cumulous clouds that were visible.  As I looked, I saw a bright orange slow moving object moving to the north.  At first I thought it was plane, but it didn’t look like a typical plane light you would see at night.  Before I could say anything to my friend, it faded away.  Consequently, I just let it go and didn’t mention anything. Shortly after that moment, we turned around and started walking back to our resort.  About 15 minutes later, my friend nudged me as he pointed up to the sky and asked, “What is that?”  There in the sky, was the same slow orange light.  As we both watched in silence, the light separated into 5 or 6 other orange lights that lined up in a perfectly straight diagonal line.  Then, in perfect unison, they slowly started moving to the left.  Then they simultaneously faded away. Neither one of us could come up with a reasonable explanation.  My friend’s first proposed explanation was that it could have been a flare.  But can a flare separate into 5 or 6 other orange lights, evenly spaced apart in a perfect diagonal line, and all move in unison in the same direction?  We stood there staring for about 15 more minutes, hoping that the strange lights would reappear.  Unfortunately, that was the last we saw of them.  As we walked back to the resort we kept our eyes on the sky.  We even stayed on our balcony for a good while.  We were hoping that there would be something about it in the news this morning.  But no such luck. I would just like to add that I’m not a believer in little green men visiting the earth from other planets.  I’m just perplexed as to what this could be..  I’m sure that there is a rational explanation to this.  I would just like to know what it is.((NUFORC Note:  Please see other reports from this area of South Carolina.  If anyone knows what causes the lights, we would welcome such information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58620.html](http://www.nuforc.org/webreports/reports/058/S58620.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [359](http://www.nuforc.org/webreports/reports/165/S165176.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164537.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164556.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164521.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164557.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
