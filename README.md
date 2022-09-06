@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:40 on 6 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:29:03 on 6 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Pemaquid (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>My wife and went to have a nice relaxing night on a Sunday night just got dark and laying on beach watching stars and talking and I grabbed my spot light with led high power continues straight beam and pointed it around sky to say things like there’s Jupiter or whatever and around hour later we just watched stars no spotlight or anything and right above us a star , or thought was one just moved so fast completely blended in like a star and went north almost out of view and back to above us and then got erratic  like mad dog or something would do flyin in circles fast and jumping around , my wife said yep I see it and it’s time to go now  I talked to her when home and see said she heard loud noises before we left like power or something and I also was uncomfortable feeling like I was surrounded !  Went home about 10 minutes ride and we couldn’t relax after talking about this sighting and finally went to bed and around 2am dog jumped up freaked out barking “ f! irst time ever “ on my bed and blew door open to go out to living room!  Cat was on edge also ... I loaded my side piece went out to living room and animals staring out to front porch screen room , I heard loud banging and door slam and that was it for night !! I know it wasn’t a animal my dog and cat seen many skunks and critters on porch ! Whatever I see or I got it’s attention it was scary ! If u wana see a ufo / something amazing In sky at night go to ocean to see as far as u can and wait with a spotlight u will see something !! I’ve had many close encounters with ufos and my father and stepdad also ! ! It’s nothing to play around with ,</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159314.html](http://www.nuforc.org/webreports/reports/159/S159314.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Gibbon (MN) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>My wife and I were watching a beautiful lightning storm when we were walking our three dogs.  Off to the left hand side of what had to be the most lightning I have ever seen come out of one cloud, was a black almost motionless object.The shape of it is hard to describe, but it was rounded on the top with pointed ridges on the bottom and points to either side.  I would say it was akin to a cookie broken in half.Only after watching for a few moments thinking it was shrinking did we realize it was moving into this cloud.  From my position in Gibbon, Minnesota, it appeared to be heading south-east toward  the Klossner or southern Lafayette.However, according to the national weather service this cloud was no more than 67 miles from us. This gives me an approximate distance of thirty to forty miles away from us at its closest point to us and was approximately the diameter of a full moon, at my first sighting.As we watched, the object continued toward and into the lightning cloud and faded from veiw.  I will forever wonder what my wife and I saw this evening.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121760.html](http://www.nuforc.org/webreports/reports/121/S121760.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [359](http://www.nuforc.org/webreports/reports/165/S165176.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164537.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164556.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164521.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164557.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
