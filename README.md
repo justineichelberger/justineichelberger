@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:14:18 on 6 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:04:02 on 6 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Glastonbury (CT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Unexplained Noise and Energy Reported Across TownI was awake at 4am trying to get to sleep. Suddenly I heard an extremely loud noise that sounded like it was coming from all directions. The only way I can describe it is a whirring sound, like something going in a circular motion. I’d say it’s like an old washing machine but the noise didn’t sound crisp, it was dull. The noise was accompanied by a strange feeling in the air, almost electric. I quickly got a bad migraine; I get them when there are drops in barometric pressure so I’m not sure if that was the case or the noise was so loud it caused one. The noise then abruptly left, and it sounded like it suddenly started down the road with the same whirring. Sometimes it would cut out and in again. Sometimes it would reappear near my house then move again. After about 10 minutes it stopped. I thought I was the only one that heard it but then the town Facebook page exploded with reports of the same noise. Another person said it felt like the noise “vibrated her body”. More reported waking from a dead sleep to the noise and that it was like a bass tone because of the depth and feeling. The reports came mostly from the northern and central part of the town, but a few reported hearing it in the south, east, and west. I saw a UFO once before, with my mom about 7 years ago. We were both skeptics, but our experience made us both believers. When this recent incident occurred I didn’t immediately think of a UFO, but when I felt the energy I could sense this was something not normal. I’m an academic with a MA working in a field that is very no-nonsense. I want to find an explanation for everything, but I can’t find one for this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159238.html](http://www.nuforc.org/webreports/reports/159/S159238.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Frederick (MD) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>While commuting to Bethesda Md. from Hagerstown Md. I noticed a fluorescent cloud in the eastern sky. This cloud glowed with light similar to a fluorescent lamp over a 25 mile range. Despite the sunrise it did not change to the typical pickish color that clouds do when the sun rises or sets.It stayed bright white and looked like no other cloud I have seen. I guess it could have been some sort of reflective entrail... at any rate it was very odd((NUFORC Note:  Reported to be re-entry of Soviet space debris.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19438.html](http://www.nuforc.org/webreports/reports/019/S19438.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [359](http://www.nuforc.org/webreports/reports/165/S165176.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164537.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164556.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164521.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164557.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
