@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:41 on 6 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:42 on 6 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Ufo sighting in San Jose, calif around 7:47 pmI saw a tube shaped  ufo with a bright orange light coming off of it.  I got it on camera too!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113338.html](http://www.nuforc.org/webreports/reports/113/S113338.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1985, an anonymous witness in Monroe (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>a light blue rigid disk object with dome decended in an out of control, flip floping pattern about a mile from my point of view.Approximately 1,000 feet u and maybe as much as one and a half miles distance from me I observed a light blue disk (classic saucer with small dome in the middle) falling somewhat out of control.  I would best describe it's falling pattern as zig zagging as though it was made of an ultra light material being affected by the weight of air.  It clearly had a distinct rigid fo with a dome in the center.  It had to have been at least 30 feet in diameter and mayb to 10 feet in height.  I observed it flipping and falling for about half a minute before it disappeared behind the horizon of pine trees about half a mile or more away.  I believe I was facing west as I was walking north on the highway.  My taxi had just broke down and my fair was walking down the same road ahead of me.  I don't believe they observed what I saw.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118514.html](http://www.nuforc.org/webreports/reports/118/S118514.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [359](http://www.nuforc.org/webreports/reports/165/S165176.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164537.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164556.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164521.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164557.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
