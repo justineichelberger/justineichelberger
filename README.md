@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:16:23 on 6 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:01:11 on 6 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Frignano (Italy) () reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Avvistamento oggetti non identificatiTre luci rosso intenso pulsante in formazione di triangolo rettangolo. La base di questo triangolo era composto da due luci rosse pulsanti che pur rimanendo ferme sullo stesso asse di riferimento (quasi parallelo alla terra) si dissolvevano per poi riapparire il movimento aveniva sia a destra che a sinistra della loro posizione inizale. il vertice superiore non si spostava continuava solo a pulsare. La cosa che + mi ha insospettito che il guiorno dopo aver fatto l'avvistamento ho notato che nello stesso luogo c'era un F16 che sorvolava la zona.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77848.html](http://www.nuforc.org/webreports/reports/077/S77848.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Grants/Albuquerque (NM) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>we were driving on I 40 E, a long diamond shaped craft appeared on the passenger side, approximately 300 ft in length with flashing red, blue and white lights. silently, it flew over our car and crossed the freeway and hovered over the city of grants, nm shining what appeared to be a bright white light and then it  flew higher into the sky and we lost sight of it as we were still driving eastbound on the freeway. about 20 minutes later, the craft appeared again heading east toward albuquerque, perhaps landing at Kirtland AFB. it didn't seem to be a helicopter since the flight looked smoother and the craft did not make any typical copter sounds. it could have been a stealth but not sure if stealths are able to hover in a stationary position.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46126.html](http://www.nuforc.org/webreports/reports/046/S46126.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [359](http://www.nuforc.org/webreports/reports/165/S165176.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164537.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164556.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164521.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164557.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
