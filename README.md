@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:40 on 5 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:40 on 6 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Fairborn (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>THE CRAFT GLIDED OVER ME SILENTLY ONE LIGHT IN FRONT THREE IN BACK AND ONE RED IN THE MIDDLE.OBSERVED RED LIGHT IN THE NORTHEAST SKY IN THE 10 O"OCLOCK POSITION GLIDEING TOWARDS THE SOUTHEAST, I WANTED TO SEE IF MY CAR WAS LOCKED, WHEN I SAW THIS OBJECT JUST GLIDEING TOWARDS ME, I HAD MY BINOS IN THE CAR I GOT THEM OUT AND STARTED TO WATCH THIS OBJECT COMING AT ME AT AN INCREASEING SPEED,IT HAD ONE LARGE WHITE LIGHT IN FRONT AND THREE IN BACK AND ONE RED IN THE CENTER NONE WERE FLASHING AS IT WENT BY IT BANKED AND AND THE MOON LIT IT UP, THE LIGHTS IN THE BACK WERE STRAIGHT ACROSS AS IT WENT OVER ME IT WAS SILENT AND CLOSE ENOUGH I SHOULD OF HEARD IT GOING THROUGH THE AIR BUT I DID'NT HEAR ANYTHING AND IT MOVED FAST AFTER PASING OVER ME AND OUT OF MY SITE, I KNOW THIS WAS'NT AN AIRCRAFT BEEING SURE OF WHAT I SAW,IT WAS ABOUT THE SIZE OF A 737 JET EXCEPT IT WAS TRIANGLER IN SHAPE, IT WAS GREAT.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19443.html](http://www.nuforc.org/webreports/reports/019/S19443.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Pemaquid (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>My wife and went to have a nice relaxing night on a Sunday night just got dark and laying on beach watching stars and talking and I grabbed my spot light with led high power continues straight beam and pointed it around sky to say things like there’s Jupiter or whatever and around hour later we just watched stars no spotlight or anything and right above us a star , or thought was one just moved so fast completely blended in like a star and went north almost out of view and back to above us and then got erratic  like mad dog or something would do flyin in circles fast and jumping around , my wife said yep I see it and it’s time to go now  I talked to her when home and see said she heard loud noises before we left like power or something and I also was uncomfortable feeling like I was surrounded !  Went home about 10 minutes ride and we couldn’t relax after talking about this sighting and finally went to bed and around 2am dog jumped up freaked out barking “ f! irst time ever “ on my bed and blew door open to go out to living room!  Cat was on edge also ... I loaded my side piece went out to living room and animals staring out to front porch screen room , I heard loud banging and door slam and that was it for night !! I know it wasn’t a animal my dog and cat seen many skunks and critters on porch ! Whatever I see or I got it’s attention it was scary ! If u wana see a ufo / something amazing In sky at night go to ocean to see as far as u can and wait with a spotlight u will see something !! I’ve had many close encounters with ufos and my father and stepdad also ! ! It’s nothing to play around with ,</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159314.html](http://www.nuforc.org/webreports/reports/159/S159314.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/164/S164510.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164584.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164509.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164531.html)
-- [374](http://www.nuforc.org/webreports/reports/164/S164923.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
