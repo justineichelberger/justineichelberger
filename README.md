@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:29:07 on 7 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:55:12 on 7 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Mountaindale (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>white object with red blinking lights appears every night for the last weekObject appears every night for the last week. Object appears as a light in the sky with blinking red lights. The object stays in the area for 1-4 hours moving about the area. The object sometimes stays still for long amounts of time.I have seen sometimes one and sometimes up to three of the objects at one time in the last week.Last night on 9/6/10 two objects were in the sky when another object with a very bright blinking white light appeared between the for about 2 minutes. I am starting to feel concern for my safety.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Star or planet, we suspect.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77698.html](http://www.nuforc.org/webreports/reports/077/S77698.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Longmont (CO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Fireball sighted in a northerly direction from near Longmont, Colorado. (Clicking "...examples gives "Not Found")I was northbound on I-25 and was approximately at milepost 234 ( north of Exit 232 to Erie). The fireball was green and was probably a meteorite. It was at a heading of approximately 350 degrees. It descended vertically to less than 5 degrees above the horizon. The topography is relatively flat at  that location and continuing north into Wyoming. I noted some landmarks, so the accuracy of these data could be improved if necessary, especiially if triangulation is used. I cannot estimate my distance from the object. (Note: I was unable to send this report from Netscape 4.5)((NUFORC Note:  Another report received about this event.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14033.html](http://www.nuforc.org/webreports/reports/014/S14033.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164684.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164597.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164900.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164898.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164566.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
