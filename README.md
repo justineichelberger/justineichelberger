@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:47 on 7 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:41 on 7 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Columbus (OH) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Driving down Henderson RD towards High St with my boyfriend, we saw what appeared to be 2 connected oval/disk like crafts that had bright glow.  Upon inspection, did not appear to be a drone or blimp.  I honestly have never seen anything like it before and was shocked, as it was a busy evening and there were many people out and about.  We watched and observed for as long as we could, whilst driving, and when our view was blocked by trees for a few minutes, we could not longer see the UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136080.html](http://www.nuforc.org/webreports/reports/136/S136080.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Fairview (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Star like object flying around the moon.While in my car and stopped at a red light I glance up at the moon tonight which was bright and out with clear skies only to notice an objects which looked exactly like a star in the night sky would near the moon, except this object was moving very slow above the moon.  To me it was moving to slow to be an airplane and was to far (or to high) for it to be an airplane. As I mentioned it looked exactly like a star in the sky.  It crossed above the moon then it seemed as it moved away further into space until it just vanished.  It never moved across the sky, it just stayed near the moon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66102.html](http://www.nuforc.org/webreports/reports/066/S66102.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164684.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164597.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164900.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164898.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164566.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
