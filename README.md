@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:45 on 7 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:46 on 7 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Witchita Falls/Ft Worth (between) (TX) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>an orange light observed going from the N.W to the S.E on 09/07/99 lower tx panhandlein the early moring of sept.7.99 I observed an orange ball of light travelling in a S.E direction between Witchita falls & Ft Worth Tx. It was approx 5000ft up and about 1/4 mile away there were other aircraft around and although they were farther away I could see there indicator lights flashing but this was just a steady orange glow I drive an 18 wheeler for a living and am always watching the skies and stars at night and although I have seen other odd lights I still felt i could explain them but then I heard your report on Art's show re: sightings on the 7th farther to the S.E I felt this might be relevent I might also say that the area of texas I was in tends to be flat with a long horizon line and from the time I first saw the object to disapperence took approx 1 minute it was moving straight,flat and fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09892.html](http://www.nuforc.org/webreports/reports/009/S09892.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Upper Ssaddle River (NJ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>On my deck trying to show my 3 year old a bat flying over the house, sun was down it was nearly dark.  Scouring the bat was why I continued to look up when from the corner of my eye a craft not more than 500 ft appeared and quickly went behind the tree line.  No lights, silent, only 1, gray oval football shape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148719.html](http://www.nuforc.org/webreports/reports/148/S148719.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164684.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164597.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164900.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164898.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164566.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
