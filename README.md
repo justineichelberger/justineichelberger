@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:15:02 on 7 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:02:57 on 7 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Maricopa (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright light moving irregularly.I was watching an extraordinarily bright light in the southeastern sky.  Suddenly,it moved straight up and stopped.  Then it began to do half figure-eights.  Eventually, it blinked out altogether.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31288.html](http://www.nuforc.org/webreports/reports/031/S31288.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Tavares (FL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>driving west on s.r. #19 @ 5:00 A.M. ON 9-7-99.on the right windshield area i noticed a low large cigar shaped object with 3 lights (bright) hovering above the telephone poles. the craft was a military standard silver color with no sound. it then disappeared to the north in a laterial direction. called police that evening at 6:00p.m. they said they had a helicopter in air at midnight,early a.m.9-7-99. reports that falling space debis over area was the repport on the 10:00 p.m. news that night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09625.html](http://www.nuforc.org/webreports/reports/009/S09625.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164684.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164597.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164900.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164898.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164566.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
