@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:09:12 on 7 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:38 on 7 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Ocoee, FL but reported on radio as far south as Lake Wales,  (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>5 upright disks traveling south, low altitude, medium speed, with light beams directly between each disk, which appeared to be in align with one another (front to back), and illuminated from the rear and sides.At 5:05am, I noticed a "bead" of lights to my west, so I looked.  They appeared to be moving so I got out of my car to get a better look, thinking they were water on a power line.  There were at least 5 very distinct upright disks or spheres, the first being a pulsating green, and the other 4 behind it bright white (and all exactly the same size).  The disks were spaced evenly apart and each had an INTENSE beam of light shining from one to the next. It had been raining so we knew the object(s) were under 2000' (clouds did not interrupt the light), and the object was traveling (apparently) the speed of a cessna aircraft, but was obiously much higher.  The size of each disk was about 1/4 moon, or the size of your thumbnail at arms length, but MUCH brighter.  I followed the object visually for over 20 seconds from my direct west, until it disapeared over my southern horizon (about where Disney World is). I've worked midnight shifts for over 3 years, the last 2 sitting exactly where I was; in my car facing south, and I have seen planets, meteors, low and high flying planes and jets, bugs, you name it...this was NONE of those things. By the way...it did not make ANY sound at all, OR leave a visible com-trail. My estimate is that if it was a single object would have HAD to be (at the apparent height; just under 2000 feet), at least a quarter of a mile long. Please take note that the "leading" disk was green and pulsing, there were NO "trails" of any kind, and there were VERY clearly visible light "beams" (equal in size to each disk/sphere), between each of the 5.  Also note that we are in close proximity to Orlando International Airport, and this "thing" did not follow any usual approach pattern, or even go toward that airport. If it had, they would've needed to significantly lengthen the runways.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09585.html](http://www.nuforc.org/webreports/reports/009/S09585.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Gulf of Mexico (LA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Mercury colored Cigar shaped USO surfaced near Oil Plarform in Gulf of MexicoObject surfaced near Production Platform, it was bright silver in color, cigar shaped, maybe 14 feet wide and 60 feet long. There were no windows, fins, or any other notice of hinges or bolts on the craft, very smooth surface.There was not any construction going on in the area. It floated for approx. 5 mins and slowly sank out of sight.((NUFORC Note:  Source of report indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67637.html](http://www.nuforc.org/webreports/reports/067/S67637.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164684.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164597.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164900.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164898.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164566.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
