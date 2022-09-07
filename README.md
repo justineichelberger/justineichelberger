@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:41 on 7 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:47 on 7 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Ocean City (MD) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>White diamond out over ocean in daylight... hovering  (over 2 hours)Around 12:45 p.m. today (east coast time), I was sitting on my ocean front balcony facing east.  The sky was clear blue with clouds out far over the ocean.  I noticed a white dot hovering out over the ocean...many miles out.  It was about 2-3 inches above the horizon.  It was still & not moving.  I kept watching & finally decided to get my grandfathers old binoculars.  Through them, it looked like either a square or diamond shape, but solid white.  It can be seen with the naked eye as just a white dot, but through the binocs, it had the square or diamond shape.  Definitely had 4 points. I then remembered I had newer & stronger binoculars in my Jeep.  I walked out & grabbed them, & returned to the balcony (5 min duration).  I saw the same thing through the stronger binocs, but could def. see a diamond shaped object.  With the clouds & lines in the clouds as my backdrop, I could clearly see the object wasn't moving up/down, or left/right.  I was planning on going to the beach, & after watching this for 30-40 minutes, I gathered my stuff & walked out to the beach (10 min duration).  I brought the stronger binoculars & continued watching from the beach level.  My balcony is about 20 feet above the beach FYI. I watched this object for another 30-40 minutes, when at 1 point, I looked in that direction, & it was gone.  I continued looking in the general direction of where it was for another hour or 2, but it never returned. It was very far out over the ocean, it never moved, & was still the entire time.  It was the only thing in the sky, that far out, bright white, & about the size of a pencil eraser, from where I watched from.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159247.html](http://www.nuforc.org/webreports/reports/159/S159247.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Columbus (OH) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Driving down Henderson RD towards High St with my boyfriend, we saw what appeared to be 2 connected oval/disk like crafts that had bright glow.  Upon inspection, did not appear to be a drone or blimp.  I honestly have never seen anything like it before and was shocked, as it was a busy evening and there were many people out and about.  We watched and observed for as long as we could, whilst driving, and when our view was blocked by trees for a few minutes, we could not longer see the UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136080.html](http://www.nuforc.org/webreports/reports/136/S136080.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164684.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164597.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164900.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164898.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164566.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
