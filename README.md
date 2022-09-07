@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:41 on 7 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:46 on 7 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Fairview (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Star like object flying around the moon.While in my car and stopped at a red light I glance up at the moon tonight which was bright and out with clear skies only to notice an objects which looked exactly like a star in the night sky would near the moon, except this object was moving very slow above the moon.  To me it was moving to slow to be an airplane and was to far (or to high) for it to be an airplane. As I mentioned it looked exactly like a star in the sky.  It crossed above the moon then it seemed as it moved away further into space until it just vanished.  It never moved across the sky, it just stayed near the moon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66102.html](http://www.nuforc.org/webreports/reports/066/S66102.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1975, an anonymous witness in Toronto (Canada) (ON) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Stationary shimmering ball of light.About 7pm, someone noticed a light out over Lake Ontario.  I initially thought it was a small plane which was heading to the Toronto Island airport.  Within a few seconds I could tell that the light was stationary.  I happened to have a small telescope already setup in our spare bedroom.  I brought it out to our balcony and focused it to the light.  It was a round shimmering ball.  Not hard surfaced, but gaseous.  I could focus to the far side of the lake and see trees and buildings on the far shore.  Focusing back on the light, it appeared to be at least ¾ of the way across the lake, maybe more.  Hard to estimate the size of the light/object:  maybe as small as a Volkswagen, or as large as a small bus?  We were on the 16th floor our apartment building at 22 Close Avenue in Toronto.  Our vantage point was to the south.  The light/object was at about the same height as us.  Around 8pm we went inside to have dinner.  I left the table several times: the light was still in scope.  I never moved my scope once.  Shortly after 9pm, I went back out to the balcony and before I could put my eye to the eyepiece, I could see the light was finally moving; slowly but steadily to the right, heading west towards Hamilton, Ontario.  I lost sight of the light when it went out of view behind the corner of our apartment building.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145558.html](http://www.nuforc.org/webreports/reports/145/S145558.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164684.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164597.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164900.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164898.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164566.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
