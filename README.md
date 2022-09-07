@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:39 on 7 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:29:07 on 7 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Richmond (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Orange/red lights moving east to west over Richmond's near west end.Noticed three orange/red lights that at first appeared to be aircraft, but they had no blinking lights.  They also made no sounds.  We could see them come from the east moving west typically in groups of 3s.  They were relatively low.  Did not travel in a line - some where higher, some were lower.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102007.html](http://www.nuforc.org/webreports/reports/102/S102007.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Mountaindale (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>white object with red blinking lights appears every night for the last weekObject appears every night for the last week. Object appears as a light in the sky with blinking red lights. The object stays in the area for 1-4 hours moving about the area. The object sometimes stays still for long amounts of time.I have seen sometimes one and sometimes up to three of the objects at one time in the last week.Last night on 9/6/10 two objects were in the sky when another object with a very bright blinking white light appeared between the for about 2 minutes. I am starting to feel concern for my safety.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Star or planet, we suspect.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77698.html](http://www.nuforc.org/webreports/reports/077/S77698.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164684.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164597.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164900.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164898.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164566.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
