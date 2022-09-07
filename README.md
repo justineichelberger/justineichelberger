@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:54:07 on 7 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:38:17 on 7 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Tampa (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>4am I was up listening to podcasts on my smart phone. I work overnights.  And I was up relaxing after a week of work.  I went to relieve myself outside of my screened in pool area. The door is on the west side of my house.  My house faces south.  I looked up in the sky and saw the constellation Orion.  But just south of Orion I saw a mettalic disk with 3 black orbs directly under me.  I guess it was about 1,000ft above me.  As I looked,  I tried to comprehend what I was seeilg.  Then it shot of southward like a bullet leaving a streak of white light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143349.html](http://www.nuforc.org/webreports/reports/143/S143349.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Oakland (ME) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Green flash.The object was in the West heading North, fast. It started out a glowing green the stopped after about 40 seconds and started to blink red.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65596.html](http://www.nuforc.org/webreports/reports/065/S65596.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164684.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164597.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164900.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164898.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164566.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
