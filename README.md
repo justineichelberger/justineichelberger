@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:46 on 7 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:15:47 on 7 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Upper Ssaddle River (NJ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>On my deck trying to show my 3 year old a bat flying over the house, sun was down it was nearly dark.  Scouring the bat was why I continued to look up when from the corner of my eye a craft not more than 500 ft appeared and quickly went behind the tree line.  No lights, silent, only 1, gray oval football shape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148719.html](http://www.nuforc.org/webreports/reports/148/S148719.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Bethel Park (PA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>On my way home I saw this flashing light which soon was showing different colors.It was 7:53pm on September 7,2005 I was on my way home from work when I noticed a flashing light in the night sky. I continued to drive my way home(roughly about five mins of the sighting itself) and noticed it was blinking on and off like a tower for the airplanes but this was white and steady on and off not red like they normally are. As I got closer home I was able to stop (due to the red lights and examine it closer)it was moving very slow across the sky. Once it was getting closer I could see the colors started to change. They went from red to green to blue to white again but each one flashed a different way.I could tell by now that there was no wings like and airplane. I also know it wasnt a blimp- that would have been closer to me and I know it wasnt a helicopter either that too would have been closer.I have never seen anything like it before. When I got home I tried to see it again but it was no where to be found.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46098.html](http://www.nuforc.org/webreports/reports/046/S46098.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164684.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164597.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164900.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164898.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164566.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
