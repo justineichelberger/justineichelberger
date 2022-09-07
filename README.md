@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:46 on 7 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:44 on 7 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1975, an anonymous witness in Toronto (Canada) (ON) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Stationary shimmering ball of light.About 7pm, someone noticed a light out over Lake Ontario.  I initially thought it was a small plane which was heading to the Toronto Island airport.  Within a few seconds I could tell that the light was stationary.  I happened to have a small telescope already setup in our spare bedroom.  I brought it out to our balcony and focused it to the light.  It was a round shimmering ball.  Not hard surfaced, but gaseous.  I could focus to the far side of the lake and see trees and buildings on the far shore.  Focusing back on the light, it appeared to be at least ¾ of the way across the lake, maybe more.  Hard to estimate the size of the light/object:  maybe as small as a Volkswagen, or as large as a small bus?  We were on the 16th floor our apartment building at 22 Close Avenue in Toronto.  Our vantage point was to the south.  The light/object was at about the same height as us.  Around 8pm we went inside to have dinner.  I left the table several times: the light was still in scope.  I never moved my scope once.  Shortly after 9pm, I went back out to the balcony and before I could put my eye to the eyepiece, I could see the light was finally moving; slowly but steadily to the right, heading west towards Hamilton, Ontario.  I lost sight of the light when it went out of view behind the corner of our apartment building.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145558.html](http://www.nuforc.org/webreports/reports/145/S145558.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Tavares (FL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>driving west on s.r. #19 @ 5:00 A.M. ON 9-7-99.on the right windshield area i noticed a low large cigar shaped object with 3 lights (bright) hovering above the telephone poles. the craft was a military standard silver color with no sound. it then disappeared to the north in a laterial direction. called police that evening at 6:00p.m. they said they had a helicopter in air at midnight,early a.m.9-7-99. reports that falling space debis over area was the repport on the 10:00 p.m. news that night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09625.html](http://www.nuforc.org/webreports/reports/009/S09625.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164684.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164597.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164900.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164898.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164566.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
