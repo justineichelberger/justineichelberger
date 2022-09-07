@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:01:29 on 7 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:59 on 7 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in LaSalle (MI) reported seeing craft that fit the description of some 'Other' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>I saw what looked like a twinkling star with lights on it that were green, red and white - flashing.I/we were out on our deck enjoying the evening (6 of us) and I saw a star that was brighter than the others and twinkled enough to get my attention. When it twinkled, I saw diferent colors.  Red, green and white - flashing.  We got out the binnoculars and saw more clearly the individual flashing lights.  It was stationary for a long time.  Then after 11:00 sometime, I saw the it was gone.  It had been located in the North just above the tree tops in a distance.  Then I looked to the east over Lake Erie (NE)and there it was.  We went to bed at about Midnight so I do not know what happened to it.I had seen this star(?) a week or two before in the northern sky but this time, I asked my friends to view it also.  We all agreed it was quite unusual.  In all, 7 of us saw it.  Two teachers, one scientist, one government employee, two marina owners and one teenager. Only four of us saw it in the eastern sky - the others had gone in by then.I would appreciate it if you could let me know what you believe it was.  Thankyou. I plan to look for it again when we go down there this weekend.((NUFORC Note:  We suspect a twinkling star may, indeed, have been the cause of the sighting, but that is surmise.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24991.html](http://www.nuforc.org/webreports/reports/024/S24991.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Cambridge (OH) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 137</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148762.html](http://www.nuforc.org/webreports/reports/148/S148762.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164684.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164597.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164900.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164898.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164566.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
