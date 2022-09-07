@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:22:40 on 7 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:15:02 on 7 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Lewis Center (OH) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Mysterious oval in sky above all of the treesMe and my brother were watching the Steelers game that night and my frind was on his way over to our house to pick up his cell phone when on the way he saw a bright red oval just sitting over the trees it almost looked like it had flames or something coming coming off it. About a minute later he ran over to our house and told me and my brother to hurry up and come out here.  When we went out the mysterious light was gone. So me my brother and my friend were standing outside in the street talking about it. About 2 minutes later this HUGE radar plane was hovering around the area. The radar plane was so low we could make out all the details on it.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  Possible hoax??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52412.html](http://www.nuforc.org/webreports/reports/052/S52412.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Maricopa (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright light moving irregularly.I was watching an extraordinarily bright light in the southeastern sky.  Suddenly,it moved straight up and stopped.  Then it began to do half figure-eights.  Eventually, it blinked out altogether.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31288.html](http://www.nuforc.org/webreports/reports/031/S31288.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164684.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164597.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164900.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164898.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164566.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
