@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:07:40 on 7 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:32 on 7 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Anaheim (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately Several hours - Several hours minutes.</sub><blockquote><sub>White orb flying over Anaheim, CAI had just parked my car, when i noticed a white orb moving slowly, but remained in the same place.  I started to record it and take pictures, but the camera has poor quality images.  There was no sound coming from that object.  A man who was running away from the police passed by and also noticed the light but he was so paranoid that he thought it was the police looking for him.  (I say this because he comes out in one of the videos and the sound is of a helicopter flying nearby).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121775.html](http://www.nuforc.org/webreports/reports/121/S121775.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Hamilton (Canada) (ON) reported seeing craft that fit the description of some 'Cross' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Conditions were clear, not a cloud in the sky. My mother, and brother were over for Sunday dinner and we were sitting on my balcony off of my kitchen when my mother said, "look, what is that".I looked up and seen a clear, illuminated object in the west sky.  If was difficult to make out a defined shape of the object but it appeared wider horizontally that vertically.  The object seemed to have a strange illumination that gave a cross kind of shape.  It was sunny and clear so it was difficult to tell how much of the illumination was caused by the Sun's reflection, but it appeared to reflect the Sun differently than normal metal would.The object was stationary and than made a few sharp 90 degree movements at a speed that would be impossible for any none technology to replicate.  It then seemed to have a rapid elevation again unlike any none aircraft could, which made its visibility more like a bright dot.  A couple of seconds later it disappeared from sight.  We all seen the same thing, and all agreed we had just witnessed a UFO sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113357.html](http://www.nuforc.org/webreports/reports/113/S113357.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164684.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164597.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164900.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164898.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164566.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
