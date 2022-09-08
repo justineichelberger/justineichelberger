@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:39 on 8 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:38 on 8 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Lock Haven (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Large orange fireball moving at the speed of a small planeAn orange fireball (almost the size of a full moon) moving about the speed of a small plane appeared in the north sky as my husband and I were in our backyard hottub.  It made no noise at all. We watched it moving south for  about 30 seconds. While I went iside to get my camera, he said it took a sharp turn west.  We lost sight of it due to houses and trees before I was able to snap a photo.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83791.html](http://www.nuforc.org/webreports/reports/083/S83791.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Washington, D.C. (Georgetown) (DC) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Red white and green rectangular object tilted rhythmically while moving horizontally above the Potomic River.A thin metallic rectangular object appeard to float accross the skyline above the Potomic River and the key bridge.  The object tilted in a rhymthic manner while moving horizontally. The object was red white and green.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24958.html](http://www.nuforc.org/webreports/reports/024/S24958.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [370](http://www.nuforc.org/webreports/reports/165/S165229.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164568.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164575.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164620.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164558.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
