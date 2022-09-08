@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:44 on 7 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:01:42 on 8 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Tavares (FL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>driving west on s.r. #19 @ 5:00 A.M. ON 9-7-99.on the right windshield area i noticed a low large cigar shaped object with 3 lights (bright) hovering above the telephone poles. the craft was a military standard silver color with no sound. it then disappeared to the north in a laterial direction. called police that evening at 6:00p.m. they said they had a helicopter in air at midnight,early a.m.9-7-99. reports that falling space debis over area was the repport on the 10:00 p.m. news that night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09625.html](http://www.nuforc.org/webreports/reports/009/S09625.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Anaconda (MT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.5 - 2.5 minutes.</sub><blockquote><sub>Two bright lights travelling fast across the sky, then disappear.Two illuminated spherical objects travelled  from south to the east.  They were not flashing or pulsating in any way, just floating extremely smoothly and fast.  One sphere was traveling behind the smaller sphere, but traveling parallel to each other, approximately 1 ½ ” apart (from where we were).  The larger and brighter (orange) sphere (which is comparable to the brightness of Mars right now, and only a fraction smaller) was trailing the smaller one at the same speed and same direction.  The objects travelled from the south side of the sky to the east side of the sky within a couple of minutes, then disappeared in the sky.((NUFORC Note:  ISS and Space Shuttle in formation.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72168.html](http://www.nuforc.org/webreports/reports/072/S72168.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164684.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164597.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164900.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164898.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164566.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
