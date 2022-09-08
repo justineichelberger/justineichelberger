@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:40 on 8 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:13:17 on 8 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Windsor (CO) reported seeing craft that fit the description of some 'Changing' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Splitting lightI was walking my dog around 22:45. I got to the end of the alley and was looking up, I saw a bright round white light heading east/south east traveling in an arc.  No running lights what so ever. As I watched the white light split into 3 amber lights in a triangular formation, no flashing, just steady amber lights. Then it seemed to disappear. There was a small airplane a few minutes later traveling the same path about the same height in the sky.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85041.html](http://www.nuforc.org/webreports/reports/085/S85041.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Boston (northeast of) (MA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright fiery elongated object seen in sky northeast of Boston Ma, on Sept 8, 2015 at 6 am.Driving to work at 6 AM, heading North on route 24 towards Brockton, MA, saw orange/pink wide streak in sky.  It looked like it was northeast and possibly over or near Atlantic Ocean.  It was slowly working its way downward.  I watched it until I could no longer see it behind the trees.  I don't think it was a craft.  It looked fiery, but perfectly formed in a wide line that was rectangular. It had beautiful colors.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121847.html](http://www.nuforc.org/webreports/reports/121/S121847.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [370](http://www.nuforc.org/webreports/reports/165/S165229.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164568.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164575.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164620.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164558.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
