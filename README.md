@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:45 on 8 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:41 on 8 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in York (PA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Diamond-shaped object with lights seen flying over Interstate 83.I was on my way home from work at 8:48 p.m. As I pulled up in front of my house (just outside of inner city York), I noticed something in the sky moving out from behind the trees near my yard. I looked up and spotted a large, irregularly-shaped diamond-like object travelling at a high rate of speed overhead. By my estimations, the object was flying at an altitude of 8,000-10,000 feet, and was between roughly 100 and 120 feet in length, though this was hard to determine as it was dark outside and I could only vaguely discern the sides of the object. There were 3 solid yellow lights on its points, and a blinking white light in its center. It was completely silent as it passed. It was heading northeast over Interstate 83, and disappeared from my field of vision after about 1 minute.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164575.html](http://www.nuforc.org/webreports/reports/164/S164575.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Silveradale (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Very fast descending large green ball scene above Silverdale/Poulsbo Washington.Sunday September 8th at 21:15 hours our family was traveling back home from a barbeque with some friends when we seen a large bright green ball appear in the sky above the Poulsbo area.   It was quite large in size and it appeared to just show up from no where.After appearing for approximately 2 seconds it dived downward toward the horizon at what seemed like incredible speeds, faster than a rocket or any airplane I have ever seen.  It appeared at about the 30-35 degrees in the sky.  That is if you consider the horizon as 0 and straight up at 90 degrees. It only took it approximately 1 to 1.5 seconds to meet the horizon. From our location is was approximately 10 miles away as the crow flies.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102060.html](http://www.nuforc.org/webreports/reports/102/S102060.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [370](http://www.nuforc.org/webreports/reports/165/S165229.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164568.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164575.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164620.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164558.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
