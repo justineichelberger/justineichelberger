@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:01:42 on 8 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:48 on 8 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Anaconda (MT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.5 - 2.5 minutes.</sub><blockquote><sub>Two bright lights travelling fast across the sky, then disappear.Two illuminated spherical objects travelled  from south to the east.  They were not flashing or pulsating in any way, just floating extremely smoothly and fast.  One sphere was traveling behind the smaller sphere, but traveling parallel to each other, approximately 1 ½ ” apart (from where we were).  The larger and brighter (orange) sphere (which is comparable to the brightness of Mars right now, and only a fraction smaller) was trailing the smaller one at the same speed and same direction.  The objects travelled from the south side of the sky to the east side of the sky within a couple of minutes, then disappeared in the sky.((NUFORC Note:  ISS and Space Shuttle in formation.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72168.html](http://www.nuforc.org/webreports/reports/072/S72168.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1967, an anonymous witness in Hermosa Beach (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>5 Red Glowing Cigar Shaped Ships Sighted at Hermosa Beach in 1967We were on the boardwalk at the beach, it had just gotten dark when 5 red cigar shaped lights came quickly out of nowhere, moving VERY fast toward the beach.  About 1 mile out they simply stopped and hovered there for a minute and then left even more quickly than they came.  When they left, they went back in the direction they had come from, the horizon, and it was so fast that they almost seemed to diappear.  Everyone saw them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34527.html](http://www.nuforc.org/webreports/reports/034/S34527.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [370](http://www.nuforc.org/webreports/reports/165/S165229.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164568.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164575.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164620.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164558.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
