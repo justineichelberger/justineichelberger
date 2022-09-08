@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:42 on 8 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:40 on 8 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Santa Claus (IN) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 114</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148767.html](http://www.nuforc.org/webreports/reports/148/S148767.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Humble (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Reddish orange light North of the Houston area, travelling South, stops for about 20 seconds, dims, brightens then vanishes.Reddish orange light slowly travelling North to South at about a 65 to 70 degree inclination above the horizon where it stopped and stood still for about 20 seconds, dimmed, brightened, then disappeared. The object was below the anvil of a large thunderstorm complex that was off to my North. I'm an avid aircraft observer and live in the approach path's of Houston's two largest airports so I'm accustomed to watching planes fly over.  This object looked, and behaved like no aircraft I have ever observed.  I checked Flightradar 24 and ADSB flight tracker and noted no aircraft in the area of the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143046.html](http://www.nuforc.org/webreports/reports/143/S143046.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [370](http://www.nuforc.org/webreports/reports/165/S165229.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164568.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164575.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164620.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164558.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
