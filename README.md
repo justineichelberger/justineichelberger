@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:30 on 8 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:34 on 8 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Murray (UT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Blueish orb which flew away to the North into clouds.MY VEIWING REPORT:  On Friday evening 9/8/17, at approximately 9:45 PM, I was looking at what I thought was a beautiful blueish moon, when with an unbelievable speed the moon (or orb as it seemed to turn out to be) flew from south to north into the clouds as witnessed by my adult daughter also.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136121.html](http://www.nuforc.org/webreports/reports/136/S136121.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Greesnboro (NC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>i was in the car while we were going to my home and I looked out the window and I saw something unusuall so i stoped the car and i looked up on the sky and i cant described what i saw but i know it wasn't from these world i saw five objects on the sky the were kind of round like litle balls  .------->                                     ..  .they were in these position when i saw then mannn i got scared((NUFORC Note:  The formation provided by the witness did not survive the transfer to our database program.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22471.html](http://www.nuforc.org/webreports/reports/022/S22471.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [370](http://www.nuforc.org/webreports/reports/165/S165229.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164568.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164575.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164620.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164558.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
