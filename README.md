@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:02:03 on 8 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:45 on 8 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Norton (MA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Flying wing shaped aircfaft silently flew overhead, no jet trail, no lights during broad daylight in Massachusetts.Hang-glider or flying wing shaped aircraft that was solid black silently flew overhead on a clear and sunny Saturday.  There was no jet trail behind the craft.  There were no lights seen on the craft.  It was flying as high as commercial jets fly and it was approximately 1-1/4” at arm’s length.  The craft smoothly moved from east to west. I was the only witness and went inside the house to sketch it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109766.html](http://www.nuforc.org/webreports/reports/109/S109766.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in York (PA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Diamond-shaped object with lights seen flying over Interstate 83.I was on my way home from work at 8:48 p.m. As I pulled up in front of my house (just outside of inner city York), I noticed something in the sky moving out from behind the trees near my yard. I looked up and spotted a large, irregularly-shaped diamond-like object travelling at a high rate of speed overhead. By my estimations, the object was flying at an altitude of 8,000-10,000 feet, and was between roughly 100 and 120 feet in length, though this was hard to determine as it was dark outside and I could only vaguely discern the sides of the object. There were 3 solid yellow lights on its points, and a blinking white light in its center. It was completely silent as it passed. It was heading northeast over Interstate 83, and disappeared from my field of vision after about 1 minute.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164575.html](http://www.nuforc.org/webreports/reports/164/S164575.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [370](http://www.nuforc.org/webreports/reports/165/S165229.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164568.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164575.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164620.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164558.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
