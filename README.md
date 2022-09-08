@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:54:30 on 8 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:45:03 on 8 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Portage la Prairie (Canada) (MB) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>3 orange/red balls ufo,Sitting outside having a smoke, and two orange/red glowing objects in the shape of a ball as I'm writing this another one is coming, the third one is getting brighter and brighter as it is coming towards me. Definitely not a plane as it is moving farey slow, this one hasn't disappeared yet like the other ones have. Its just flashed and went straight into the sky, amazing. The reason I could write this report is because I am doing so on my cell phone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92567.html](http://www.nuforc.org/webreports/reports/092/S92567.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Santa Clarita (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Color Changing Light Over Sant Clarita ValleyMy mother and I were driving home on the freeway when I noticed a very bright green light that appeared to be floating about 1,000-1,500 feet above the wash next to the freeway.  The movement pattern of the light was akin to the way a balloon moves through the air, floating with mild changes in altitude.  The light then changed from green to bright violet blue at which point it became markedly brighter and appeared to grow in size by about 50 percent.  It then shrunk back to it’s normal size then changed colors again to red and then to white and back to green.  The whole time the light was moving away from us and we lost sight of it as we exited to freeway.   However as we turned of the main road down our street we saw the light which had changed back to violet blue over the trees.  As we went down the hill to our house we lost sight of the light and did not see it again even though we went back up to the main road to see if it could be seen from there.  My ! mother and I had both independently witnessed similar lights on separate occasions during the week or so proceeding this sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92627.html](http://www.nuforc.org/webreports/reports/092/S92627.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [370](http://www.nuforc.org/webreports/reports/165/S165229.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164568.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164575.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164620.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164558.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
