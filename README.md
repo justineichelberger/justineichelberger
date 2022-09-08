@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:40 on 8 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:39 on 8 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Humble (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Reddish orange light North of the Houston area, travelling South, stops for about 20 seconds, dims, brightens then vanishes.Reddish orange light slowly travelling North to South at about a 65 to 70 degree inclination above the horizon where it stopped and stood still for about 20 seconds, dimmed, brightened, then disappeared. The object was below the anvil of a large thunderstorm complex that was off to my North. I'm an avid aircraft observer and live in the approach path's of Houston's two largest airports so I'm accustomed to watching planes fly over.  This object looked, and behaved like no aircraft I have ever observed.  I checked Flightradar 24 and ADSB flight tracker and noted no aircraft in the area of the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143046.html](http://www.nuforc.org/webreports/reports/143/S143046.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1966, an anonymous witness in Hundred (WV) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Object traveled across hills at moderate speed illuminating tree tops as it passed.Object traveled from the West towards the East across US route 250 at moderate speed.  It pulsed with a red hue as it traveled and the pulsing (dull red to bright red) illuminated the tree tops as it passed overhead.  My friend and I were the only observers.  We were 14 at the time and were returning from a Boy Scout meeting.  We have slightly dissimilar memories of the object to this day, but I recall the hazing we recieved at school the next day because the first or second episode of Star Trek was on at the time of our sighting(unknown by us at the time because neither of our families received NBC broadcasts at that time) and our classmates teased us about seeing the "Enterprise."  It therefore had to be in September 1966 that we witnessed the craft.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66531.html](http://www.nuforc.org/webreports/reports/066/S66531.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [370](http://www.nuforc.org/webreports/reports/165/S165229.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164568.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164575.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164620.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164558.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
