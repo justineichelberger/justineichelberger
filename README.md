@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:26:31 on 8 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:15:00 on 8 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Matthews (NC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately as long as i could see it - as long as i could see it minutes.</sub><blockquote><sub>Flaming Fireball sitting in the sky immoble over a house!I was driving by a house that was all lit up by lights in the middle of a huge field, probably wheat or cotton, late at night about , roughly, 9 o'clock eastern standard time. I saw something about the house so i looked and about 100 feet about, maybe, was what loked like a pole or long cylindrical object that looked to be on fire or coved in a plasma. the red-orange "fire" swept to one side but moved extremely slow, not like a lighter that flickers but really really slow. It sat, immoble over the house and did not change in possitions one little bit. The sky was completely dark but could see some stars.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24961.html](http://www.nuforc.org/webreports/reports/024/S24961.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Charlotte (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>((NUFORC Note:  No information provided by witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121822.html](http://www.nuforc.org/webreports/reports/121/S121822.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [370](http://www.nuforc.org/webreports/reports/165/S165229.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164568.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164575.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164620.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164558.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
