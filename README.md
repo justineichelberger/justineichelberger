@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:45:03 on 8 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:28:39 on 8 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Santa Clarita (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Color Changing Light Over Sant Clarita ValleyMy mother and I were driving home on the freeway when I noticed a very bright green light that appeared to be floating about 1,000-1,500 feet above the wash next to the freeway.  The movement pattern of the light was akin to the way a balloon moves through the air, floating with mild changes in altitude.  The light then changed from green to bright violet blue at which point it became markedly brighter and appeared to grow in size by about 50 percent.  It then shrunk back to it’s normal size then changed colors again to red and then to white and back to green.  The whole time the light was moving away from us and we lost sight of it as we exited to freeway.   However as we turned of the main road down our street we saw the light which had changed back to violet blue over the trees.  As we went down the hill to our house we lost sight of the light and did not see it again even though we went back up to the main road to see if it could be seen from there.  My ! mother and I had both independently witnessed similar lights on separate occasions during the week or so proceeding this sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92627.html](http://www.nuforc.org/webreports/reports/092/S92627.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Redding Airport (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2:47 - 2:47 minutes.</sub><blockquote><sub>((NUFORC Note:  The MiG-29 is not capable of achieving Mach 3.8.  Moreover, we doubt whether the MiG-29 is capable of supersonic flight for 1.8 hrs. and 1,400 miles without refueling.  We are not aware of any MiG-29 in the U. S. that is privately owned.))Chased light approxamentley 1400 miles in plane at mk. 3.8 for 1.8 hoursWe took off from Redding at 20:34 doing touch and goes when a light apeered out of the west by northwest ski at an altitude of around 35,000. We noticed that it was flying stright and level with a headding of east by southeast we decided to take chase with objuct the aircraft we were in was a migg 29A capable of mk. 4.2 call me and i'll give an interview in full.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09747.html](http://www.nuforc.org/webreports/reports/009/S09747.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [370](http://www.nuforc.org/webreports/reports/165/S165229.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164568.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164575.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164620.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164558.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
