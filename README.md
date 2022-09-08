@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:09:58 on 8 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:37 on 8 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Edmonds (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Incredibly Fast moving Bright White Light Seen in Edmonds, Washington climbed straight up into space....On the evening of September 8th 2007 at approximately  10:30PM I was in my backyard  - there were no lights on, it was very dark.  The sky was totally clear – all you could see were the stars.  I was putting my head back in disgust of how fast the day had gone by in other words, in other words..  I wasn’t looking for UFO’s… in fact, I never look for weird things in the sky. Within seconds of looking up at the dark sky I saw a bright white light that seemed could have been as high as 10,000 feet in the air, suddenly became smaller and smaller as it seemed to climb in elevation and move in a northwesterly direction at a startling rate of speed. I jumped out of my lawn chair and immediately pointed to it trying to get my wife’s attention.  She was able to see it climb and disappear in probably less than 5 seconds.  Unfortunately she missed out on seeing just how low to the earth it was and how incredibly bright it was before it started to take off.  She agreed that it did appear to be moving upward and very fast. My wife who used to be a flight attendent, obviously has been around a lot of airports and has seen a lot of thing- but she said this was certainly something to report.  It was truly amazing to see something like this.  I have seen satellites, shooting stars and have even watched the space shuttle land.  This was something special to see and for me – unexplainable.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58647.html](http://www.nuforc.org/webreports/reports/058/S58647.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Pittsburgh (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Falling blue round object southern sky pittsburgh helicopters flying around area of possible sighting.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121816.html](http://www.nuforc.org/webreports/reports/121/S121816.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [370](http://www.nuforc.org/webreports/reports/165/S165229.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164568.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164575.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164620.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164558.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
