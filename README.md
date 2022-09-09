@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:06:43 on 9 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:47 on 9 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Tallahassee (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>rocket shaped, flat bottom, changing from vertical to horizontal, speed increasing suddenly seen floating aroundObserved by 2 graduate students from National High Magnetic Field Laboratory. The object had a rocket shape with a flat bottom, was flying extremely slowly, at an angle changing from 0 to almost 45. almost motionless and floating in the air at very low height, almost 40-50 ft above the tree tops. A blue light flashing in the bottom of the object and 2 red lights flashing on 2 sides. The object made a low rumbling sound like an aircraft's engine. It suddenly went vertical and then as we followed it and parked our cars, it became horizontal and increased the speed all of a sudden and vanished quickly.Again seen near our home, floating around 30-40 ft above tree tops and then vanishing quickly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31344.html](http://www.nuforc.org/webreports/reports/031/S31344.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Long Beach (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately :45 - :45 minutes.</sub><blockquote><sub>Immobile, white dot, not shiny and appeared to be very high in altitude.I was at the soccer field at California State University/Long Beach, when I noticed a small white dot in the sky not moving at all.  It looked like it was very high up and did not look like anything I have ever seen before in the sky, as it was very still and was not shiny.  It was next to a crescent shaped cloud (within the crest, south east from where I was), which I found interesting because I found video footage online of the same object I saw, sitting in the crest of a cloud that looked just like the one that I had seen, which also occurred in Long Beach.I spotted the object while doing sit-ups, and stared at it for about 45 seconds.  I switched positions to do a different exercise and took my eyes off the object for about 5 seconds, when I looked back the object was no where to be seen.  And that's when I started to actually digest what I may had just seen.  I stopped my workout and scanned the area of sky I originally saw the object, for about 5-10 minutes.  I was baffled that it had just disappeared so quickly after I looked away for a brief moment.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136114.html](http://www.nuforc.org/webreports/reports/136/S136114.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [363](http://www.nuforc.org/webreports/reports/164/S164571.html)
-- [362](http://www.nuforc.org/webreports/reports/164/S164563.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164569.html)
-- [360](http://www.nuforc.org/webreports/reports/159/S159312.html)
-- [359](http://www.nuforc.org/webreports/reports/159/S159309.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
