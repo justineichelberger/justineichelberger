@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:09:48 on 9 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:06:43 on 9 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Toronto (Canada) (ON) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Around 0300 my best friend and I were having a beer on my tailgate on Lake Ontario.  I witnessed a blinking ball with a v shaped tail at end.  We thought it was a drone but given the time and size were amazed.  There was no sound and when it went behind an apartment building it appeared to be at least three stories tall.  It flew in a direct line at an extremely slow pace with no sound at all.  Out of fear we hid behind the truck and after that it disappeared behind the city skyline.  No one believes us because we have no video proof.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127022.html](http://www.nuforc.org/webreports/reports/127/S127022.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Tallahassee (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>rocket shaped, flat bottom, changing from vertical to horizontal, speed increasing suddenly seen floating aroundObserved by 2 graduate students from National High Magnetic Field Laboratory. The object had a rocket shape with a flat bottom, was flying extremely slowly, at an angle changing from 0 to almost 45. almost motionless and floating in the air at very low height, almost 40-50 ft above the tree tops. A blue light flashing in the bottom of the object and 2 red lights flashing on 2 sides. The object made a low rumbling sound like an aircraft's engine. It suddenly went vertical and then as we followed it and parked our cars, it became horizontal and increased the speed all of a sudden and vanished quickly.Again seen near our home, floating around 30-40 ft above tree tops and then vanishing quickly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31344.html](http://www.nuforc.org/webreports/reports/031/S31344.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [363](http://www.nuforc.org/webreports/reports/164/S164571.html)
-- [362](http://www.nuforc.org/webreports/reports/164/S164563.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164569.html)
-- [360](http://www.nuforc.org/webreports/reports/159/S159312.html)
-- [359](http://www.nuforc.org/webreports/reports/159/S159309.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
