@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:36 on 9 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:15:16 on 9 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Raeford (NC) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Pinkish/Orange oval shaped object seen over Raefod North Carolina.I was sitting outside with my wife, when I happened to look up in the sky and saw a pinkish/orange oval shape, about 20 to 25 thousand feet high, I assume.  It had no other colors other than pinkish/orange mixed.  I watched the object for about 10 to 12 seconds while it moved at a high rate of speed that i have seen from other known flying aircraft.  it was about 1/8 of an inch long from where i was sitting to the altitude where it was traveling.  it was going south west to north east from raeford to the direction of fayetteville.  not to sure if it was an object burning in from space or something else.  it had a constant speed and a constant direction the whole time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39207.html](http://www.nuforc.org/webreports/reports/039/S39207.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Cranbrook (Canada) (BC) reported seeing craft that fit the description of some 'Light' over a period of approximately A very long time. - A very long time. minutes.</sub><blockquote><sub>I talked with one witness for this report. From what I was told there were a number of other witnesses who watched an object, orange in color move strangely in the sky. From the description I received I believe this sighting was of the planet Mars. A bunch of folks were observing the Moon and Mars in the Cranbrook, B.C. area. There were some clouds which moved in front of the Moon and the planet Mars, as the clouds moved out of the way before the next batch roll by all the witnesses observed a orange colored moving around the night sky, but where the light was located was in exactly the same position Mars was. I believe when everyone lost sight of the planet due to clouds, and then seeing it again as the clouds passed by, it gave the illusion of the planet moving, or an object as reported to me. Also due to the length of time the light was seen, my conclusion after talking with the witness is that everyone was watching the planet Mars. I was also told that this sighting was the talk of one of the local coffee shops in town. Brian Vike, Director HBCC UFO Research Canadian Toll Free UFO Hotline 1 866 262 1989 - Free call.Phone/Fax 1 250 845 2189 HBCC UFO Forum Board http://216.147.50.102/HBCC-UFO/index.php email: hbccufo@telus.net Website: http://www3.telus.net/public/wilbur8/hbcc_ufo_research.htm</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31556.html](http://www.nuforc.org/webreports/reports/031/S31556.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [363](http://www.nuforc.org/webreports/reports/164/S164571.html)
-- [362](http://www.nuforc.org/webreports/reports/164/S164563.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164569.html)
-- [360](http://www.nuforc.org/webreports/reports/159/S159312.html)
-- [359](http://www.nuforc.org/webreports/reports/159/S159309.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
