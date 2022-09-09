@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:37 on 9 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:06:19 on 9 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1944, an anonymous witness in Germany or France (from aircraft) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately short - short minutes.</sub><blockquote><sub>Cigar shaped craftObjects were silver in color and cylindrical in shape. Seen during bombing mission from England enroute to Berlin. Our aircraft was a B-17m and held acrew of 10 men. We were told that these were experimental aircraft that the Germans were developing. My memory is probably fogged due to the number of years thar have passed but I can't forget those objects</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12970.html](http://www.nuforc.org/webreports/reports/012/S12970.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Dubai (UAE) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>silver, disk shaped object with lights surrounding edge of underside, which hovered for about 15 secs.I first saw what seemed to be a disk shaped object appearing from over the top of my building (I live on the top floor of a 22 storey apartment block)and rotating in a northerly direction over the sea.  A few seconds later I looked from a window in a southeasterly direction and saw a silver coloured craft, surrounded with lights (maybe 15 or so) on its underside, hovering over the apartment building next to mine.  It hovered for about 15 seconds and then moved at extreme speed in a southerly direction.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39257.html](http://www.nuforc.org/webreports/reports/039/S39257.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [363](http://www.nuforc.org/webreports/reports/164/S164571.html)
-- [362](http://www.nuforc.org/webreports/reports/164/S164563.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164569.html)
-- [360](http://www.nuforc.org/webreports/reports/159/S159312.html)
-- [359](http://www.nuforc.org/webreports/reports/159/S159309.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
