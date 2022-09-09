@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:38 on 8 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:01:06 on 9 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Washington, D.C. (Georgetown) (DC) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Red white and green rectangular object tilted rhythmically while moving horizontally above the Potomic River.A thin metallic rectangular object appeard to float accross the skyline above the Potomic River and the key bridge.  The object tilted in a rhymthic manner while moving horizontally. The object was red white and green.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24958.html](http://www.nuforc.org/webreports/reports/024/S24958.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Malden (MA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Triangular in shape.  Moving forward and flying low. Lights blue, yellow, green.  Was not revolving but instead moving like a plane would; but it was much faster and smooth, no noise produced by the craft.  Also seemed like the back if the craft had a propulsion thing because as the craft moved forward the back of the air (not the craft) of it appeared blurry ( something you would see like in the movies, or like a strong magnetic field)   This is my second sighting within 5 days.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92585.html](http://www.nuforc.org/webreports/reports/092/S92585.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [370](http://www.nuforc.org/webreports/reports/165/S165229.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164568.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164575.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164620.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164558.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
