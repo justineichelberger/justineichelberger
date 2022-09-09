@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:23:20 on 9 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:09:48 on 9 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Glowing Object moving West to East in North PhoenixThursday, September 09, 2010 8:45pm  North Phoenix, AZ  I spotted an orange glow moving from West to East along the 101 Freeway in N. Phoenix.  Orange glow was spotted about 15 degrees west of my location moving easterly at high speed.  It disappeared at about 20 degrees above the horizon in about 5-6 seconds at what I believe was approximately 2000 to 3000 feet in elevation above my home.  No sound or shockwave was evident, no vapor trail, only the sound of chirping crickets.The sky was cloudless and winds calm.  As the object moved directly overhead the neighborhood dogs began barking as if startled and as soon as the object disappeared they stopped.  Airplanes in a pattern for Phoenix Sky Harbor Airport were plainly visible along with the outline of the aircraft and cross the pattern at about 5000 feet at 150 knots.  No outline was visible with the glowing object which I would describe as the glow of a toaster against a wall and not that of a nozzle of a fighter jet.I witnessed a similar object hovering in the same neighborhood about 2 weeks earlier then moving to the north at a very low altitude and speed as it disappeared behind a home.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77737.html](http://www.nuforc.org/webreports/reports/077/S77737.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Toronto (Canada) (ON) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Around 0300 my best friend and I were having a beer on my tailgate on Lake Ontario.  I witnessed a blinking ball with a v shaped tail at end.  We thought it was a drone but given the time and size were amazed.  There was no sound and when it went behind an apartment building it appeared to be at least three stories tall.  It flew in a direct line at an extremely slow pace with no sound at all.  Out of fear we hid behind the truck and after that it disappeared behind the city skyline.  No one believes us because we have no video proof.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127022.html](http://www.nuforc.org/webreports/reports/127/S127022.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [363](http://www.nuforc.org/webreports/reports/164/S164571.html)
-- [362](http://www.nuforc.org/webreports/reports/164/S164563.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164569.html)
-- [360](http://www.nuforc.org/webreports/reports/159/S159312.html)
-- [359](http://www.nuforc.org/webreports/reports/159/S159309.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
