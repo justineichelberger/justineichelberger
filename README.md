@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:32 on 9 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:37 on 9 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Shelbyville (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>triangle ,3 huge bright lights, fly over me at 100 feet (silent)Ive been watching the skies since 1978 when had first ufo sighting.But this night im ashamed to say i was caught off guard. I had stepped out on back deck which faces the west, in my back yard are 50 foot pine trees in a line. I noticed what appeared to be a bright light , like landing lights on a plane. I watched the light get closer but was shielded by trees as object was very low.  My mistake after all these years, i assumed this to be a plane ! Object moving , my guess 30 mph, as it cleared the trees , the object was not over 100 feet in the air. To my shock, it flew right over me silently! and disappeared to the east over the tree in my side yard. The object was triangle ,had 3 huge lights (approx 4 to 5 feet across)on each tip and a small light in middle blinking. The lights actually lite up the ground and i had to shield my eyes to get a good look at it.The lights were bright enough for me to see the shape ., triangle smooth rounded edges and corners, approx. 35 to 40 feet in length. The lights were unusual, they werent a focused light like a flashlight , more diffused almost like frosted glass, in the light it appeared like filaments with light pulsing all over it, if you will sparkly. Ive never seen anything like it , it could be military , i dont have a clue. I didnt report this for awhile on purpose hoping if military they might use this flight path again. To date have not see again ., will keep observing.I would take a lie detector test to what i saw and to all the hoaxers out there , you non believers are in for a surprise and the truth is coming i just hope its a good thing.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65990.html](http://www.nuforc.org/webreports/reports/065/S65990.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1944, an anonymous witness in Germany or France (from aircraft) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately short - short minutes.</sub><blockquote><sub>Cigar shaped craftObjects were silver in color and cylindrical in shape. Seen during bombing mission from England enroute to Berlin. Our aircraft was a B-17m and held acrew of 10 men. We were told that these were experimental aircraft that the Germans were developing. My memory is probably fogged due to the number of years thar have passed but I can't forget those objects</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12970.html](http://www.nuforc.org/webreports/reports/012/S12970.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [363](http://www.nuforc.org/webreports/reports/164/S164571.html)
-- [362](http://www.nuforc.org/webreports/reports/164/S164563.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164569.html)
-- [360](http://www.nuforc.org/webreports/reports/159/S159312.html)
-- [359](http://www.nuforc.org/webreports/reports/159/S159309.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
