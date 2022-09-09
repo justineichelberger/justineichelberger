@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:01:07 on 9 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:36 on 9 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Ventura (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright Blue Object seen floating in sky near Coast in Ventura, CaliforniaMy husband and I were driving southbound toward the Pacific Ocean, and we saw a bright blue light in the sky.  It didn't look like airplane lights, and it was too high up in the atmosphere to be a helicopter.  The bright blue light was shining steadily, and it wasn't blinking.  There were times when it looked like it may have disappeared behind a cloud, but we weren't quite sure, because the visibility was quite clear out that night.  It was going in one direction, then it switched back to the other direction.  After a few seconds, it switched back to the other direction. It looked like it was 'floating' floating down from the atmosphere.  We drove the beach to see if we could see it.  When we got there, we couldn't find it in the sky anymore.  Another family (a man and his son) had pulled over in their car behind us, and said they saw the same thing.  They said they saw the color red before it turned to the blue color.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92608.html](http://www.nuforc.org/webreports/reports/092/S92608.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Raeford (NC) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Pinkish/Orange oval shaped object seen over Raefod North Carolina.I was sitting outside with my wife, when I happened to look up in the sky and saw a pinkish/orange oval shape, about 20 to 25 thousand feet high, I assume.  It had no other colors other than pinkish/orange mixed.  I watched the object for about 10 to 12 seconds while it moved at a high rate of speed that i have seen from other known flying aircraft.  it was about 1/8 of an inch long from where i was sitting to the altitude where it was traveling.  it was going south west to north east from raeford to the direction of fayetteville.  not to sure if it was an object burning in from space or something else.  it had a constant speed and a constant direction the whole time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39207.html](http://www.nuforc.org/webreports/reports/039/S39207.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [363](http://www.nuforc.org/webreports/reports/164/S164571.html)
-- [362](http://www.nuforc.org/webreports/reports/164/S164563.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164569.html)
-- [360](http://www.nuforc.org/webreports/reports/159/S159312.html)
-- [359](http://www.nuforc.org/webreports/reports/159/S159309.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
