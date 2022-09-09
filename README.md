@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:47 on 9 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:02:23 on 9 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Long Beach (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately :45 - :45 minutes.</sub><blockquote><sub>Immobile, white dot, not shiny and appeared to be very high in altitude.I was at the soccer field at California State University/Long Beach, when I noticed a small white dot in the sky not moving at all.  It looked like it was very high up and did not look like anything I have ever seen before in the sky, as it was very still and was not shiny.  It was next to a crescent shaped cloud (within the crest, south east from where I was), which I found interesting because I found video footage online of the same object I saw, sitting in the crest of a cloud that looked just like the one that I had seen, which also occurred in Long Beach.I spotted the object while doing sit-ups, and stared at it for about 45 seconds.  I switched positions to do a different exercise and took my eyes off the object for about 5 seconds, when I looked back the object was no where to be seen.  And that's when I started to actually digest what I may had just seen.  I stopped my workout and scanned the area of sky I originally saw the object, for about 5-10 minutes.  I was baffled that it had just disappeared so quickly after I looked away for a brief moment.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136114.html](http://www.nuforc.org/webreports/reports/136/S136114.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1984, an anonymous witness in California (entire west coast) (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately hours - hours minutes.</sub><blockquote><sub>lots of "them "are already here,I saw so.       none below apply,was very clear shape,orange/red,in spacehi, thought you should add this huge red/orange ship to your records,if not there now.one nite girlfreind called me, went to her, she was looking up. I couldn't beleive it! above us in space a cigar shaped ship. to give idea of size, do this; streach up your arm,then open your thumb and finger 1 inch.thats how long it was. it was huge,mabey 1 mile long.scary what that means,lots of "them" here.the ship moved so slowly up coast that was visible for long time.next day paper said;unknown object moved up coast.so I can prove it.many saw it.please forgive, dates aprox. but, I could probably still find article in library if had time.  sincerely,  ((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41268.html](http://www.nuforc.org/webreports/reports/041/S41268.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [363](http://www.nuforc.org/webreports/reports/164/S164571.html)
-- [362](http://www.nuforc.org/webreports/reports/164/S164563.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164569.html)
-- [360](http://www.nuforc.org/webreports/reports/159/S159312.html)
-- [359](http://www.nuforc.org/webreports/reports/159/S159309.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
