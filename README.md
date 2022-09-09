@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:49 on 9 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:48 on 9 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Reading (PA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Bright blue-green flash lights up early morning sky like dayllight.I was sitting on the front porch of my home. The exact time was around 2:30 or 3:30am. There was a brilliant blue-green flash that lasted about 5 seconds. I thought a power transformer blew up - but there was no sound. On the National Police frequency I heard different departments talking about the flash also. Some departments I heard talk about the flash were from nearby counties. The flash was so bright it lit up the whole area like daytime. I've seen meteors/fireballs before, but none lit up the area like whatever caused this flash. I work as shift leader at a local factory. I'm an Amateur radio operator and radio communications is my hobby. I scanned the local aircraft frequencies, but there was no traffic in the area at the time of the flash. I didn't notice any radio interference on any of the VHF/UHF frequencies I was scanning at the time of the flash.((NUFORC Note:  Several other reports of this event at 0330 hrs. on Saturday, 09SE00.  Several individuals were adamant in stating that the brightly lighted object stopped and hovered for at least a few seconds.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14150.html](http://www.nuforc.org/webreports/reports/014/S14150.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Kannapolis (NC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Fireball traveling in the skyI was inside watching tv when I noticed a bright red light outside my window.  I went outside and saw what looked like something on fire.  I thought it was a plane in trouble.  It travel in a slow steady pace from south to north then turned going east.  After it turned the fire died down and it looked like red lights of some kind moving still steady going east until out of site.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92618.html](http://www.nuforc.org/webreports/reports/092/S92618.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [363](http://www.nuforc.org/webreports/reports/164/S164571.html)
-- [362](http://www.nuforc.org/webreports/reports/164/S164563.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164569.html)
-- [360](http://www.nuforc.org/webreports/reports/159/S159312.html)
-- [359](http://www.nuforc.org/webreports/reports/159/S159309.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
