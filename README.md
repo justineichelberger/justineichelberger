@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:41 on 9 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:01:07 on 9 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>it was a very interesting object.the detail i saw was changing shapees as it was moving. so i couldnt exactly see what it was. it was two glowing lights around 15x the size of normal stars. it was really fast. it rotated five times above me and left my view in around 5 seconds.((NUFORC Note:  We wonder whether the objects might have been lights from an advertising light.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31349.html](http://www.nuforc.org/webreports/reports/031/S31349.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Ventura (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright Blue Object seen floating in sky near Coast in Ventura, CaliforniaMy husband and I were driving southbound toward the Pacific Ocean, and we saw a bright blue light in the sky.  It didn't look like airplane lights, and it was too high up in the atmosphere to be a helicopter.  The bright blue light was shining steadily, and it wasn't blinking.  There were times when it looked like it may have disappeared behind a cloud, but we weren't quite sure, because the visibility was quite clear out that night.  It was going in one direction, then it switched back to the other direction.  After a few seconds, it switched back to the other direction. It looked like it was 'floating' floating down from the atmosphere.  We drove the beach to see if we could see it.  When we got there, we couldn't find it in the sky anymore.  Another family (a man and his son) had pulled over in their car behind us, and said they saw the same thing.  They said they saw the color red before it turned to the blue color.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92608.html](http://www.nuforc.org/webreports/reports/092/S92608.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [363](http://www.nuforc.org/webreports/reports/164/S164571.html)
-- [362](http://www.nuforc.org/webreports/reports/164/S164563.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164569.html)
-- [360](http://www.nuforc.org/webreports/reports/159/S159312.html)
-- [359](http://www.nuforc.org/webreports/reports/159/S159309.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
