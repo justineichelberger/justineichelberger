@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:01:06 on 9 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:29:53 on 9 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Malden (MA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Triangular in shape.  Moving forward and flying low. Lights blue, yellow, green.  Was not revolving but instead moving like a plane would; but it was much faster and smooth, no noise produced by the craft.  Also seemed like the back if the craft had a propulsion thing because as the craft moved forward the back of the air (not the craft) of it appeared blurry ( something you would see like in the movies, or like a strong magnetic field)   This is my second sighting within 5 days.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92585.html](http://www.nuforc.org/webreports/reports/092/S92585.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Vienna (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>saw a five gold lit cicular craft moving fastly from rght to left.We were walking when we saw in the night sky a fast moving circular craft with five gold lights that were solid and moving from right to left.  The craft did not make sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102067.html](http://www.nuforc.org/webreports/reports/102/S102067.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [363](http://www.nuforc.org/webreports/reports/164/S164571.html)
-- [362](http://www.nuforc.org/webreports/reports/164/S164563.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164569.html)
-- [360](http://www.nuforc.org/webreports/reports/159/S159312.html)
-- [359](http://www.nuforc.org/webreports/reports/159/S159309.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
