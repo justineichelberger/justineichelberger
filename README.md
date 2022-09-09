@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:02:23 on 9 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:41 on 9 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1984, an anonymous witness in California (entire west coast) (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately hours - hours minutes.</sub><blockquote><sub>lots of "them "are already here,I saw so.       none below apply,was very clear shape,orange/red,in spacehi, thought you should add this huge red/orange ship to your records,if not there now.one nite girlfreind called me, went to her, she was looking up. I couldn't beleive it! above us in space a cigar shaped ship. to give idea of size, do this; streach up your arm,then open your thumb and finger 1 inch.thats how long it was. it was huge,mabey 1 mile long.scary what that means,lots of "them" here.the ship moved so slowly up coast that was visible for long time.next day paper said;unknown object moved up coast.so I can prove it.many saw it.please forgive, dates aprox. but, I could probably still find article in library if had time.  sincerely,  ((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41268.html](http://www.nuforc.org/webreports/reports/041/S41268.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>it was a very interesting object.the detail i saw was changing shapees as it was moving. so i couldnt exactly see what it was. it was two glowing lights around 15x the size of normal stars. it was really fast. it rotated five times above me and left my view in around 5 seconds.((NUFORC Note:  We wonder whether the objects might have been lights from an advertising light.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31349.html](http://www.nuforc.org/webreports/reports/031/S31349.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [363](http://www.nuforc.org/webreports/reports/164/S164571.html)
-- [362](http://www.nuforc.org/webreports/reports/164/S164563.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164569.html)
-- [360](http://www.nuforc.org/webreports/reports/159/S159312.html)
-- [359](http://www.nuforc.org/webreports/reports/159/S159309.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
