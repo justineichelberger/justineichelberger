@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:02:24 on 10 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:51 on 10 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Cherry Grove (Canada) (AB) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Sighting in Canada: Rural AreaI can't remember the exact date this happened but I am sure that I had school the next day and there was no snow on the ground... so it must have been in September. I was lying in my bed and decided to look out my window at the stars so I did and I noticed that there was very odd movement in some of the stars I was looking at. I then decided to go outside for a closer look. I went out site and noticed the stars were slowly moving in the sky... sometime in the midst of all this I saw something drop about 25-50m away on the other side of some trees and I can recall a strange steady beeping noise... beep. beep. beep. beep. then I went inside and came back out for another look this time I decided to look around the corner of the house for some reason and there was this huge thing with lights on it hovering must have been 15ft above the power poles I quickly ran in and got my mom to come see it as soon as we opened the door three flying objects flew through our backyard about 20ft over the trees. These flying objects were triangular in shape, had lights white/yellow and one green light on them. It was weird normally with jets the sound is behind them because light travels faster than sound but with these the sound was in front or ahead of them. During this ordeal I can still remember that steady beeping noise.((NUFORC Note:  Source of report indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68020.html](http://www.nuforc.org/webreports/reports/068/S68020.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Reelsville (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately Several minutes - Several minutes minutes.</sub><blockquote><sub>Craftlike object, rectangular projection on a circular object.  Animal reactions.Witness noticed Venus, following the sunset, and Saturn, in the SSW, were very bright as he arrived home.  As usual his neighbor's dog, a large but very friendly, female, Pit Bull mix, was there to greet him.  After watching Venus for a moment he saw, a few degrees off, what looked like a huge band of lights - white surrounded by red - began flashing and moving in his direction.  As soon as the flashing began the dog seemed frightened.  Whining, repeatedly bumping his legs and jumping up to push on his chest.  When the object was almost directly overhead the lights changed to all white and flashing sequentially from rear to front.  At that point a soft gold color glow defined the edges, giving him the shape he tried to illustrate.  The object silently continued east until lost behind a stand of trees.  As soon as the object was out of sight the dog made a short huffing sound, looked at him for a moment, then, seeing no reaction, calmly went home.  He noticed something else.  He has raccoons in his attic space.  They are usually active from dusk til dawn.  At that time it was strangely quiet up there - an hour after the event. (MUFON CMS)((NUFORC Note:  Source of report indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143192.html](http://www.nuforc.org/webreports/reports/143/S143192.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [432](http://www.nuforc.org/webreports/reports/164/S164600.html)
-- [431](http://www.nuforc.org/webreports/reports/164/S164599.html)
-- [430](http://www.nuforc.org/webreports/reports/164/S164574.html)
-- [429](http://www.nuforc.org/webreports/reports/164/S164578.html)
-- [428](http://www.nuforc.org/webreports/reports/164/S164896.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
