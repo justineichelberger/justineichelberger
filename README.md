@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:54:05 on 10 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:47:05 on 10 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Fairdale (KY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.2 - 0.2 minutes.</sub><blockquote><sub>Green &quot;fireball&quot; with streak, East to West.  While speaking to oldest daughter on phone *we both heard interference* Both heaGreen "fireball" with streak, East to West.  While speaking to oldest daughter on phone *we both heard interference*  Both heard 4x: 'nyet-nyet' as if it knew we were watching!  All while pushing my youngest in stroller walking down our street</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146047.html](http://www.nuforc.org/webreports/reports/146/S146047.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Hemsby , Norfolk (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>2 lights just appeared and moved rapidly across the sky paralel to each other then seemed to close in on eachother then drift away. then disapeared just as quickly. It was a clear sky with no clouds at all.My friend and I were looking up at the stars and watching the shooting stars in the early hours of the morning, when 2 lights suddenly appeared they then flew across the sky (east to west?)side by side then closed in towards each other then drifted apart they done this for apprx 8 seconds. Then disappeared as quickly as they appeared. The sky was clear and there were no objects as to give distance or size to the lights. Neither of us has never seen anything like this before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09802.html](http://www.nuforc.org/webreports/reports/009/S09802.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [432](http://www.nuforc.org/webreports/reports/164/S164600.html)
-- [431](http://www.nuforc.org/webreports/reports/164/S164599.html)
-- [430](http://www.nuforc.org/webreports/reports/164/S164574.html)
-- [429](http://www.nuforc.org/webreports/reports/164/S164578.html)
-- [428](http://www.nuforc.org/webreports/reports/164/S164896.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
