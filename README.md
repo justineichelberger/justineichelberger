@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:37 on 10 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:39 on 10 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Omaha (NE) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>50 lights in sky over 72nd street attached to black silhouette.I've lived in Omaha all my life, I've had my share of strange things happen to me but the night I saw this with my mother and friend it changed me, we were pulling out of my mothers driveway when we noticed around 50 lights all spaced out around 15ft apart from each other but moving simultaneously, we decided to follow whatever these things were heading north from 72nd and maple down 72nd street.  Once we got close and I meen literally 40 to 50 feet under it I saw that the lights were attached to a black silhouette of a craft that when it passed by stars they would disappear behind the darkness of this craft, it was bigger than anything I've ever seen in the sky, once it reached crown point on 72nd all the lights disappeared at once and I could no longer see the silhouette either, but the thing is I'm surprised that it wasn't on the news or anything, there were so many people out that night, we couldn't have been the only ones who saw this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105963.html](http://www.nuforc.org/webreports/reports/105/S105963.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Kemah (TX) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2 stationary cigar-shaped objects clearly visible  in morning sunlight.Driving east during morning commute.  These objects appeared to hover in the same spot in the sky.  There was a distinct line of clouds under the objects.  They both reflected the  morning sun on the same side and were floating at the exact same angle.  They stayed offset to one another.  It was difficult to gauge distance  and scale but they appeared to be big, high in the sky and at least six miles away.  They were visible in the same spot for at least five minutes and my drive turned me away from them.  I could not recall ever seeing anything like them.  My phone pics do not do justice.  They were not orbs but had clearly defined edges.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113455.html](http://www.nuforc.org/webreports/reports/113/S113455.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [432](http://www.nuforc.org/webreports/reports/164/S164600.html)
-- [431](http://www.nuforc.org/webreports/reports/164/S164599.html)
-- [430](http://www.nuforc.org/webreports/reports/164/S164574.html)
-- [429](http://www.nuforc.org/webreports/reports/164/S164578.html)
-- [428](http://www.nuforc.org/webreports/reports/164/S164896.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
