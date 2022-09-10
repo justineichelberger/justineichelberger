@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:51 on 10 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:01:06 on 10 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Reelsville (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately Several minutes - Several minutes minutes.</sub><blockquote><sub>Craftlike object, rectangular projection on a circular object.  Animal reactions.Witness noticed Venus, following the sunset, and Saturn, in the SSW, were very bright as he arrived home.  As usual his neighbor's dog, a large but very friendly, female, Pit Bull mix, was there to greet him.  After watching Venus for a moment he saw, a few degrees off, what looked like a huge band of lights - white surrounded by red - began flashing and moving in his direction.  As soon as the flashing began the dog seemed frightened.  Whining, repeatedly bumping his legs and jumping up to push on his chest.  When the object was almost directly overhead the lights changed to all white and flashing sequentially from rear to front.  At that point a soft gold color glow defined the edges, giving him the shape he tried to illustrate.  The object silently continued east until lost behind a stand of trees.  As soon as the object was out of sight the dog made a short huffing sound, looked at him for a moment, then, seeing no reaction, calmly went home.  He noticed something else.  He has raccoons in his attic space.  They are usually active from dusk til dawn.  At that time it was strangely quiet up there - an hour after the event. (MUFON CMS)((NUFORC Note:  Source of report indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143192.html](http://www.nuforc.org/webreports/reports/143/S143192.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Laconia (NH) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>6 disks  look like white lines  in skyI looked out over Lake Winnisquam at 6:30 PM and saw a white line against the blue of the afternoon sky. It held its straight-line features and didn't disolve like a cloud or chem trail would. It hovered at an angle then slowly went down below the trees in Sanbornton. We were able to count 4 more appear and slowly go down the same way. A 6th white line came UP from the trees in a different area and slowly took off going up. Through binoculars we could see soft blinking white lights on the tops and underneath these crafts.  I think the reason we could see them was the setting sun causing light to reflect on them, when normally they can't be seen during the day.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46536.html](http://www.nuforc.org/webreports/reports/046/S46536.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [432](http://www.nuforc.org/webreports/reports/164/S164600.html)
-- [431](http://www.nuforc.org/webreports/reports/164/S164599.html)
-- [430](http://www.nuforc.org/webreports/reports/164/S164574.html)
-- [429](http://www.nuforc.org/webreports/reports/164/S164578.html)
-- [428](http://www.nuforc.org/webreports/reports/164/S164896.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
