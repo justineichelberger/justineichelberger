@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:05:06 on 10 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:02:24 on 10 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Hilltown (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Large fireball entered atmosphere with windblown fire until parachutes opened and landed about ¾ mile apart. Shaped like an Elon Musk capsule. 1 landed in a wooded area Called NASA, they don’t care about their trash.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160538.html](http://www.nuforc.org/webreports/reports/160/S160538.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Cherry Grove (Canada) (AB) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Sighting in Canada: Rural AreaI can't remember the exact date this happened but I am sure that I had school the next day and there was no snow on the ground... so it must have been in September. I was lying in my bed and decided to look out my window at the stars so I did and I noticed that there was very odd movement in some of the stars I was looking at. I then decided to go outside for a closer look. I went out site and noticed the stars were slowly moving in the sky... sometime in the midst of all this I saw something drop about 25-50m away on the other side of some trees and I can recall a strange steady beeping noise... beep. beep. beep. beep. then I went inside and came back out for another look this time I decided to look around the corner of the house for some reason and there was this huge thing with lights on it hovering must have been 15ft above the power poles I quickly ran in and got my mom to come see it as soon as we opened the door three flying objects flew through our backyard about 20ft over the trees. These flying objects were triangular in shape, had lights white/yellow and one green light on them. It was weird normally with jets the sound is behind them because light travels faster than sound but with these the sound was in front or ahead of them. During this ordeal I can still remember that steady beeping noise.((NUFORC Note:  Source of report indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68020.html](http://www.nuforc.org/webreports/reports/068/S68020.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [432](http://www.nuforc.org/webreports/reports/164/S164600.html)
-- [431](http://www.nuforc.org/webreports/reports/164/S164599.html)
-- [430](http://www.nuforc.org/webreports/reports/164/S164574.html)
-- [429](http://www.nuforc.org/webreports/reports/164/S164578.html)
-- [428](http://www.nuforc.org/webreports/reports/164/S164896.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
