@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:01:06 on 10 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:41 on 10 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Laconia (NH) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>6 disks  look like white lines  in skyI looked out over Lake Winnisquam at 6:30 PM and saw a white line against the blue of the afternoon sky. It held its straight-line features and didn't disolve like a cloud or chem trail would. It hovered at an angle then slowly went down below the trees in Sanbornton. We were able to count 4 more appear and slowly go down the same way. A 6th white line came UP from the trees in a different area and slowly took off going up. Through binoculars we could see soft blinking white lights on the tops and underneath these crafts.  I think the reason we could see them was the setting sun causing light to reflect on them, when normally they can't be seen during the day.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46536.html](http://www.nuforc.org/webreports/reports/046/S46536.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Clayton (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Solid Ball light, decends then goes dark as leveling out heading due north.On September 10th, 2016, at 9:38pm PST.Facing exactly north, I was peering upwards at about a 50°, just at my field of view, vertically up in the sky a slow moving luminous ball of light three times the visual mass of any speck in the sky began descending down words at a rate that I, thought too slow to be a satellite and much too vivid as well to be far away.If you were to hold out your hand in front of you and extend your index finger and your thumb, then just half a pinkys worth, you would get the distance the object move from my perspective in the sky in the time frame of 10 seconds during the last five seconds of that 10 seconds is when I was hurriedly reaching for my camera phone which was right next to me to then attempt to capture to no avail, for it was too dark.When I finally did bring the camera to face in front of me to attempt to video this the luminosity on this ball object began to dim and it wasn't flickering it wasn't shorting it was manually being controlled it seemed and this craft in question while maintaining the slow rate of speed began to level out.  While it was dimming which took another five seconds, you could just make out some shape at least and the craft moved along dimmed and was gone.Essentially it seemed as if there was a telepathic connection with my knowing and witnessing the object and said object concealing itself.I apologize for the late response.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129875.html](http://www.nuforc.org/webreports/reports/129/S129875.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [432](http://www.nuforc.org/webreports/reports/164/S164600.html)
-- [431](http://www.nuforc.org/webreports/reports/164/S164599.html)
-- [430](http://www.nuforc.org/webreports/reports/164/S164574.html)
-- [429](http://www.nuforc.org/webreports/reports/164/S164578.html)
-- [428](http://www.nuforc.org/webreports/reports/164/S164896.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
