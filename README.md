@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:29:49 on 10 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:54:05 on 10 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in North Myrtle Beach (SC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>3 orange lights at Myrtle Beach, triangle shapeI was enjoying my first night at Myrtle Beach with mom.  I was having a convo on our balcony when something caught my attention. 3 very bright orange lighs were flashing at each other.  Then they starting going out.  I told my mom to turn her attention to the ocean night.  She saw the last one flash before it went out.  I then noticed the smaller white lifts strobing  betweeen the points. And another triangle appeared to my left ding the same. Almost like they were strobing to each other. Not at the same time.  The lights would strobe drone one point were the orange lights were to ge other or flag anywhere in between, then the triangle to the left moved away and slowly both lights died. Later as I called my boyfriend one lone orange flashing light reappeared then dissapprared.  We saw a plane about 30 mins later when still talking about it and not even close to what we'd seen earlier. Id saw 3 football field across each in size. I don't know what I saw but I want! to see it again!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92642.html](http://www.nuforc.org/webreports/reports/092/S92642.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Fairdale (KY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.2 - 0.2 minutes.</sub><blockquote><sub>Green &quot;fireball&quot; with streak, East to West.  While speaking to oldest daughter on phone *we both heard interference* Both heaGreen "fireball" with streak, East to West.  While speaking to oldest daughter on phone *we both heard interference*  Both heard 4x: 'nyet-nyet' as if it knew we were watching!  All while pushing my youngest in stroller walking down our street</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146047.html](http://www.nuforc.org/webreports/reports/146/S146047.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [432](http://www.nuforc.org/webreports/reports/164/S164600.html)
-- [431](http://www.nuforc.org/webreports/reports/164/S164599.html)
-- [430](http://www.nuforc.org/webreports/reports/164/S164574.html)
-- [429](http://www.nuforc.org/webreports/reports/164/S164578.html)
-- [428](http://www.nuforc.org/webreports/reports/164/S164896.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
