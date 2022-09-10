@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:57 on 10 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:37 on 10 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Sydney (Australia) (NS) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2 green lights that moved very fast can also disappear and stop on a dime in mid air and made no noise whatsoever2 green lights seen in sky moving very fast looked like part of one ufo since they never changed distance when they moved.  disappeared then reappeared moved right over the top of us and stopped dead moved away disappeared again and reappeared then moved over the top of us yet again and stopped dead again it made no noise whatsoever it was completely silent i knew right then what i was looking at i waited my whole life to see a ufo not thinking i would ever see one ran and got the other people that were with us as they weren't standing right next to us at the time as soon as they came over it took off into the distanceso only me and my girlfriend whos was scared out of her mind were the only ones too see it and was too in awe at what i was looking at too even think about taking a video. it made no noise whatsoever it was completely silent.  I wish i had of thought about taking a video of it.  It was too much of an exciting moment.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129925.html](http://www.nuforc.org/webreports/reports/129/S129925.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Omaha (NE) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>50 lights in sky over 72nd street attached to black silhouette.I've lived in Omaha all my life, I've had my share of strange things happen to me but the night I saw this with my mother and friend it changed me, we were pulling out of my mothers driveway when we noticed around 50 lights all spaced out around 15ft apart from each other but moving simultaneously, we decided to follow whatever these things were heading north from 72nd and maple down 72nd street.  Once we got close and I meen literally 40 to 50 feet under it I saw that the lights were attached to a black silhouette of a craft that when it passed by stars they would disappear behind the darkness of this craft, it was bigger than anything I've ever seen in the sky, once it reached crown point on 72nd all the lights disappeared at once and I could no longer see the silhouette either, but the thing is I'm surprised that it wasn't on the news or anything, there were so many people out that night, we couldn't have been the only ones who saw this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105963.html](http://www.nuforc.org/webreports/reports/105/S105963.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [432](http://www.nuforc.org/webreports/reports/164/S164600.html)
-- [431](http://www.nuforc.org/webreports/reports/164/S164599.html)
-- [430](http://www.nuforc.org/webreports/reports/164/S164574.html)
-- [429](http://www.nuforc.org/webreports/reports/164/S164578.html)
-- [428](http://www.nuforc.org/webreports/reports/164/S164896.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
