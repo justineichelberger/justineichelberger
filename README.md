@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:32 on 10 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:39 on 10 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Shiprock (NM) reported seeing craft that fit the description of some 'Other' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>orange balls manifesting out of shiprock mountainme and my wife are truck drivers we were driving on highway 64 in shiprock at about 2am as i was driving next to shiprock mountain i saw glowing orange balls about maybe  10 of them it looked like they where coming out of the mountain so i pulled over and watched them form a octagon shape as soon as it was formed it hovered over are semi about 200 feet in the sky all of a sudden are truck lights where flickering so i step out side and watched it gain altitude and dissapear in the sky ass soon as that happened all power on the truck was gained back normal</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92616.html](http://www.nuforc.org/webreports/reports/092/S92616.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Virginia Beach (VA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>A bright white angular object in the sky during an approaching thunderstorm.I took this photograph at a skatepark where my son was skating.  I was photographing a significant approaching storm.It was 30 minutes later, at another location, when I noticed the strange object in the photo.I took the photo with an iPhone 6 which remained in my possession from the time I took the photo until it was viewed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121874.html](http://www.nuforc.org/webreports/reports/121/S121874.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [432](http://www.nuforc.org/webreports/reports/164/S164600.html)
-- [431](http://www.nuforc.org/webreports/reports/164/S164599.html)
-- [430](http://www.nuforc.org/webreports/reports/164/S164574.html)
-- [429](http://www.nuforc.org/webreports/reports/164/S164578.html)
-- [428](http://www.nuforc.org/webreports/reports/164/S164896.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
