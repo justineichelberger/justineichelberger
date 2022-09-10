@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:29:07 on 10 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:21:51 on 10 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Quakertown (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>AbductedI had fallen asleep around 11pm and around 2am I started having a dream that I was floating in the stars in mid air.  Around 3am I woke up I found myself in my bedroom on my bed lying on my side.  I saw a female alien 4 ft tall in front of me standing three feet away from me.  I felt 3 male 6ft tall aliens behind me.  As I woke up the female alien was approximately 4ft tall she blew in the dark the colors of a glitter turquoise, gray, silverish mix.  Her eyes looked relaxed and small, but than I screamed and she shape-shifted and grew one foot taller and her eyes expanded upside down almond black.  She than telepathically made my vision go away because she knew I was terrified.  My body was paralyzed I couldn't do anything she was telepathically too strong but within 10mins they disappeared and I didn't watch them ascend etc.  My eyes had been shut.((NUFORC Note:  We tried to contact the witness, in attempt to certify  the report is a serious account of a real experience, but were unable to reach her.  PD))((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139319.html](http://www.nuforc.org/webreports/reports/139/S139319.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Kenai (AK) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>A Light In The SkyIt happen last night I went out side the sky was clear and the moon was full,the moon light shined so bright,that I could see the moonlight very bright in the night sky's/ when I looked up I seen a flashing light, it made no nosie,it was one big flashing light in the sky, it seem  it was not very high uo either,a few thousands yards up,it went off then few seconds it was another  feet away and flash a bright white light.It went on a few more  seconds then it dissapear. It did not make  any nosie,it just gliuded over the sky. also in Aug,97  i picked up a hitchikeer and drove down the deserted road, and he was talking about ufo's,about 2 miles down the road he looked up and said whats that so I looked up.  There was a huge cigar shaped object right above my car,it wwas bigger thween the cvar and i was going about 55 and the thing was going the same speed, when I looked up it had blue,red,white lights kind of look like out side lights It was huge,Ijust looked up there for a 22nd did not think nothing of it,then it was gone. What Ishould of done was stoped,but the huge object just was gone when I looked up again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31414.html](http://www.nuforc.org/webreports/reports/031/S31414.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [432](http://www.nuforc.org/webreports/reports/164/S164600.html)
-- [431](http://www.nuforc.org/webreports/reports/164/S164599.html)
-- [430](http://www.nuforc.org/webreports/reports/164/S164574.html)
-- [429](http://www.nuforc.org/webreports/reports/164/S164578.html)
-- [428](http://www.nuforc.org/webreports/reports/164/S164896.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
