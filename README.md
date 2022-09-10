@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:48 on 10 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:32 on 10 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Vineland (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately all night - all night minutes.</sub><blockquote><sub>moving stars in the night sky.  viewable sun like formationsnightly sightings of lighted objects stationed in the sky.  For hours at a time.  They also move a lot.  Sometimes if you look long enough what seems to be a regular plane appears in the objects place.  Various lights will start to blink like a regular air craft.  They look like stars in the sky as they shift from place to place.  They show up in the evening and at night sometimes most of the night.  Sometimes they emit bright lighted objects to the side which disappear.  One sighting in particular I set up a space telescope to view one the objects and witnessed a white sun like object.  It was all whitish and had plumes emitting from it like a sun. It was viewable for 2 or 3 nights and then was gone.  Everyone sees these things no one says anything.  I think I must have stepped into the twilight zone cause these sightings are so bizarre to normal air traffic that it's painfully obvious they are not real airplanes.((NUFORC Note:  We suspect a sighting of stars or planets.  PD))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123955.html](http://www.nuforc.org/webreports/reports/123/S123955.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Shiprock (NM) reported seeing craft that fit the description of some 'Other' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>orange balls manifesting out of shiprock mountainme and my wife are truck drivers we were driving on highway 64 in shiprock at about 2am as i was driving next to shiprock mountain i saw glowing orange balls about maybe  10 of them it looked like they where coming out of the mountain so i pulled over and watched them form a octagon shape as soon as it was formed it hovered over are semi about 200 feet in the sky all of a sudden are truck lights where flickering so i step out side and watched it gain altitude and dissapear in the sky ass soon as that happened all power on the truck was gained back normal</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92616.html](http://www.nuforc.org/webreports/reports/092/S92616.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [432](http://www.nuforc.org/webreports/reports/164/S164600.html)
-- [431](http://www.nuforc.org/webreports/reports/164/S164599.html)
-- [430](http://www.nuforc.org/webreports/reports/164/S164574.html)
-- [429](http://www.nuforc.org/webreports/reports/164/S164578.html)
-- [428](http://www.nuforc.org/webreports/reports/164/S164896.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
