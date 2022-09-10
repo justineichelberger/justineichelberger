@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:41 on 10 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:10:41 on 10 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Milwaukee (WI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>One dark morning I saw a triangular shaped object with lights and it made no sound just before I pulled out of my driveway.I was on my way to work one dark Sept. morning. (about 5 am.) I got into my car as usual,sat there for just a minute before putting the keys into the ignition when I just happened to glance up into the sky just in front of me. For a split second I figured it was just an airplane until I realized I was looking at a fairly low flying triangular object with one bright light in the center and clusters of lights on each point of the triangle.I could hardly believe my eyes and remember saying out loud to myself"No way!!" I then recall just how low it actually was flying. It was just above the trees and was making no sound at all. It came out of the south east and curved very gracefully going just in front of the trees in front of my house twards the north west. As it disappeared over the house I quickly started my car up and pulled out of the driveway to see if I could follow it. There was no sign of it any place in the sky!((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23378.html](http://www.nuforc.org/webreports/reports/023/S23378.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Poway (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Flash of the brightest light ever, fire colored, tail twice as long, travelling west to east,horizontally.  Was in the Union tribune on Sept. 11, 1998</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03942.html](http://www.nuforc.org/webreports/reports/003/S03942.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [432](http://www.nuforc.org/webreports/reports/164/S164600.html)
-- [431](http://www.nuforc.org/webreports/reports/164/S164599.html)
-- [430](http://www.nuforc.org/webreports/reports/164/S164574.html)
-- [429](http://www.nuforc.org/webreports/reports/164/S164578.html)
-- [428](http://www.nuforc.org/webreports/reports/164/S164896.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
