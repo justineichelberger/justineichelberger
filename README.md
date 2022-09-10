@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:35 on 10 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:39 on 10 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1977, an anonymous witness in Texas (empty desert) (TX) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>UFO "cigar" crosses immense Texas skyWe were on the highway going west. Big empty sky. I was driving our motorhome westbound and the sun was behind us. It could possibly have been a bit before one PM. I noticed a cigar shape in the southern sky going north. It was at 10 O'clock and very distant. It caught my eye as it was extremely far away as big as a city moving in a straight line without any contrail. It would seem it was above our stratisphere. My husband had worked on the space program and was aware of more possibilities than I, as to the distance and size. We were estimating by going against the flat surface of earth, distant mountains and such. I pulled off the highway as quickly as I could and we, including our four children, watched it cross the sky. It was amazing. To get an idea of its size to our eye, it was the length of the breath of my fingernail and as thick as my short nail, a grain of rice!!! In a clear sky moving as fast as it was, was a UFO as nothing made by us could achieve the speed in which this moved at that distance.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36177.html](http://www.nuforc.org/webreports/reports/036/S36177.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Hamilton (OH) reported seeing craft that fit the description of some 'Other' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>5 Bright star like lights in the Sky of Hamilton ,OhioI was letting me dog out the house ruffly about 8:53 P.M when out of the cornner of my eye I seen this extremly bright light come towards me at high speeds and then it disappeared. It came back and formed a triangel like shape and it was so bright like a star this frighten my and my children. As we were going back in the house this triangel turn into four bright lights or stars 3 at the bottom and one at the top and started to moved side to side however this thing was going forward (west). This is some we have never seen. the distance was about 100 feet or less and these lights were very low in the sky((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72247.html](http://www.nuforc.org/webreports/reports/072/S72247.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [432](http://www.nuforc.org/webreports/reports/164/S164600.html)
-- [431](http://www.nuforc.org/webreports/reports/164/S164599.html)
-- [430](http://www.nuforc.org/webreports/reports/164/S164574.html)
-- [429](http://www.nuforc.org/webreports/reports/164/S164578.html)
-- [428](http://www.nuforc.org/webreports/reports/164/S164896.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
