@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:47:05 on 10 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:29:07 on 10 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Hemsby , Norfolk (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>2 lights just appeared and moved rapidly across the sky paralel to each other then seemed to close in on eachother then drift away. then disapeared just as quickly. It was a clear sky with no clouds at all.My friend and I were looking up at the stars and watching the shooting stars in the early hours of the morning, when 2 lights suddenly appeared they then flew across the sky (east to west?)side by side then closed in towards each other then drifted apart they done this for apprx 8 seconds. Then disappeared as quickly as they appeared. The sky was clear and there were no objects as to give distance or size to the lights. Neither of us has never seen anything like this before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09802.html](http://www.nuforc.org/webreports/reports/009/S09802.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Quakertown (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>AbductedI had fallen asleep around 11pm and around 2am I started having a dream that I was floating in the stars in mid air.  Around 3am I woke up I found myself in my bedroom on my bed lying on my side.  I saw a female alien 4 ft tall in front of me standing three feet away from me.  I felt 3 male 6ft tall aliens behind me.  As I woke up the female alien was approximately 4ft tall she blew in the dark the colors of a glitter turquoise, gray, silverish mix.  Her eyes looked relaxed and small, but than I screamed and she shape-shifted and grew one foot taller and her eyes expanded upside down almond black.  She than telepathically made my vision go away because she knew I was terrified.  My body was paralyzed I couldn't do anything she was telepathically too strong but within 10mins they disappeared and I didn't watch them ascend etc.  My eyes had been shut.((NUFORC Note:  We tried to contact the witness, in attempt to certify  the report is a serious account of a real experience, but were unable to reach her.  PD))((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139319.html](http://www.nuforc.org/webreports/reports/139/S139319.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [432](http://www.nuforc.org/webreports/reports/164/S164600.html)
-- [431](http://www.nuforc.org/webreports/reports/164/S164599.html)
-- [430](http://www.nuforc.org/webreports/reports/164/S164574.html)
-- [429](http://www.nuforc.org/webreports/reports/164/S164578.html)
-- [428](http://www.nuforc.org/webreports/reports/164/S164896.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
