@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:10:41 on 10 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:48 on 10 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Poway (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Flash of the brightest light ever, fire colored, tail twice as long, travelling west to east,horizontally.  Was in the Union tribune on Sept. 11, 1998</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03942.html](http://www.nuforc.org/webreports/reports/003/S03942.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Vineland (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately all night - all night minutes.</sub><blockquote><sub>moving stars in the night sky.  viewable sun like formationsnightly sightings of lighted objects stationed in the sky.  For hours at a time.  They also move a lot.  Sometimes if you look long enough what seems to be a regular plane appears in the objects place.  Various lights will start to blink like a regular air craft.  They look like stars in the sky as they shift from place to place.  They show up in the evening and at night sometimes most of the night.  Sometimes they emit bright lighted objects to the side which disappear.  One sighting in particular I set up a space telescope to view one the objects and witnessed a white sun like object.  It was all whitish and had plumes emitting from it like a sun. It was viewable for 2 or 3 nights and then was gone.  Everyone sees these things no one says anything.  I think I must have stepped into the twilight zone cause these sightings are so bizarre to normal air traffic that it's painfully obvious they are not real airplanes.((NUFORC Note:  We suspect a sighting of stars or planets.  PD))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123955.html](http://www.nuforc.org/webreports/reports/123/S123955.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [432](http://www.nuforc.org/webreports/reports/164/S164600.html)
-- [431](http://www.nuforc.org/webreports/reports/164/S164599.html)
-- [430](http://www.nuforc.org/webreports/reports/164/S164574.html)
-- [429](http://www.nuforc.org/webreports/reports/164/S164578.html)
-- [428](http://www.nuforc.org/webreports/reports/164/S164896.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
