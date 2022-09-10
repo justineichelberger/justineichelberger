@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:40 on 10 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:41 on 10 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Weiden (NE Bavaria) (Germany) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>2 bright light "events" happening about 10 min. apart.Was observing the night sky (cloudless, moonless) from my balconey when I observed a star like object which, all of a sudden, gained great brilliance and was surrounded by an illuminated "haze"(similar to the consistency of a haze you would see surrounding the moon).  The brilliance peaked then wained, however the object moved, slowly, in a hook pattern (like the letter "J" starting at the top of the letter) until it vanished.  The area it moved in could be described as a 3inch by 3 inch square area of sky at arms length.  At first I thought it was a supernova explosion, but ruled it out due to the haze (plasma?)and apparent movement.  The star-like object in the center of the haze maintained it´s shape as a "star" or point of light without warping or dissipating. It steadily lost its lumonisity until it disappeared (along with the haze, which mimiced the brilliance accordingly). The event lasted about 5-6 seconds.  Maybe it was a meteorite entering the atmosphere at such an angle as to be "head on" if you catch my drift. Or a satellite activating a booster rocket?  Well about 10 minutes later the same event happened again...about 12 inches at arms length to the right of the previous event.  Charecteristics almost identical only this time the patern of movement was of a reversed "J". This was no flare, no sound was emmitted.  Since only I witnessed the event (my wife heard me yell "wow!") a report such as this would only be of use if others reported activity in this part of Bavaria.  A correlation maybe, at best, but worth reporting.  By the way, there was heavy observable satellite activity around this time.  I am 32 years old, married, an ex-US Army air traffic controller with over 5 years of active duty (Fort Rucker, AL and Grafenwehr Germany).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09651.html](http://www.nuforc.org/webreports/reports/009/S09651.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Milwaukee (WI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>One dark morning I saw a triangular shaped object with lights and it made no sound just before I pulled out of my driveway.I was on my way to work one dark Sept. morning. (about 5 am.) I got into my car as usual,sat there for just a minute before putting the keys into the ignition when I just happened to glance up into the sky just in front of me. For a split second I figured it was just an airplane until I realized I was looking at a fairly low flying triangular object with one bright light in the center and clusters of lights on each point of the triangle.I could hardly believe my eyes and remember saying out loud to myself"No way!!" I then recall just how low it actually was flying. It was just above the trees and was making no sound at all. It came out of the south east and curved very gracefully going just in front of the trees in front of my house twards the north west. As it disappeared over the house I quickly started my car up and pulled out of the driveway to see if I could follow it. There was no sign of it any place in the sky!((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23378.html](http://www.nuforc.org/webreports/reports/023/S23378.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [432](http://www.nuforc.org/webreports/reports/164/S164600.html)
-- [431](http://www.nuforc.org/webreports/reports/164/S164599.html)
-- [430](http://www.nuforc.org/webreports/reports/164/S164574.html)
-- [429](http://www.nuforc.org/webreports/reports/164/S164578.html)
-- [428](http://www.nuforc.org/webreports/reports/164/S164896.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
