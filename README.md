@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:54:11 on 11 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:45:21 on 11 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Fireball passes overhead, shiny disc appears and landsAn enormous fireball zipped overhead, leaving a trail behind it, and apparently landed on the ground.  Several citywide blackouts and electronic disturbances took place in the hours prior to this happening.I was driving along I-35 around 7:43PM, when I saw a massive spherical ball of yellow light moving along the sky leavng behind a blue-white trail behind.  Sparks were emanating from it similar to those a large Tesla coil produces.  The light then disappeared and a smaller metallic object appeared where the light was.  The object was a lustrous disc or saucer-shaped object and appeared to land west of I-35.  Hundreds of people saw this.There were massive and alternating blackouts in Austin 12-24 hours before this took place.  Several radio towers were also malfunctioning that day, leading to certain television programs such as CBS not airing.Please investigate this incident.  I am shocked and frightened by what I saw.((NUFORC Note:  A well written report, but we wonder whether it is a serious-minded, and sincere, report.  If anyone knows anything about the alleged blackouts, or about the event itself, we would welcome additional reports.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129867.html](http://www.nuforc.org/webreports/reports/129/S129867.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Toledo (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>the craft came from the south at a very low speed an turned to the north east . it didnt bank like a plane but more like a sweepjust like logans craft on your web page but w/ a red none blinking light in the middle of craft next to the yellow none blinking light</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34025.html](http://www.nuforc.org/webreports/reports/034/S34025.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164646.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164585.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164598.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164589.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
