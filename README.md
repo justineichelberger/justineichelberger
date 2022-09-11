@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:10:57 on 11 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:35 on 11 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Acton (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>While driving westbound on I14 from Acton I saw green ball of light move across the sky from my upper left to my lower right view through the windshield.While driving westbound on I14 from Acton I saw green ball of light move across the sky from my upper left to my lower right view through the windshield. The fireball was visable for 3 seconds , was a light luminous green in color and traveled in a slight arc towards the ground.  It disappeared behind a mountain with no noticable impact indicators.  This was consistant with the other three green fireballs I saw last fall while driving in this area. This is a suburb about 30 miles north of Los Angeles in the mountains so sky conditions are good enough to see the Milky Way. Approximate size was a sixteenth inch in diameter at arms length. I have a very technical background in electronics, optics, photography and astronomy. I am quite familiar with the air traffic routes and seeing objects in the night sky.  This was definitly not a plane, a jet, a weather ballon :-), a crash test dummy :-), a typical meteor, an orbiting satellite although it might have been a part of one.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09715.html](http://www.nuforc.org/webreports/reports/009/S09715.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Saw four orange lights appear over ocean then disappear.Saw four orange lights appear over the ocean forming a square then one by one they disappeared into thin air.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102250.html](http://www.nuforc.org/webreports/reports/102/S102250.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164646.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164585.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164598.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164589.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
