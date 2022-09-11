@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:40 on 11 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:38 on 11 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Scarborough (Canada) (ON) reported seeing craft that fit the description of some 'Oval' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Slow Moving Daytime Oval Object with flashing white lightsToday on Tuesday, September 11th 2012 at work in Scarborough Yet now another daylight UFO sighting has again been witnessed and filmed over Scarborough   While on break talking with a coworker outside I noticed something suspicious flying above from the northwest.The object was flashing and movement was slower than a Cessna   The object was noticed at 10:13am moving across towards the east near over my work roof I pointed it out to the coworker and after 30 seconds she too could see it ! After she could see it for about half a minute  She ran off saying I have to go back to work!  I took most pictures from my old camera [11 pictures], as I had a problem with my new camera  Though have three other pictures taken and one short video clip taken on the new camera  This unknown object appeared about 5 -10 ,000 ft in elevation.It had size of a small plane  The white light was flashing on and off brightly on the object  I have downloaded 11 pictures and my friend mg has enhanced them splendidly  The sighting lasted about four minutes.The structure does look disk like   I’m sure the pictures tell the story   Enjoy further photographic evidence.PS Can’t wait to see the much bigger ones that fly above I’ve seen in the past *</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92740.html](http://www.nuforc.org/webreports/reports/092/S92740.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Ojai (CA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately months - months minutes.</sub><blockquote><sub>O k so we know there all ojai valley in the foothills and all over. seems to me that there all over the wourld.to me its realy exciteing that its true as to what iv been seeing is realy there.what i would like to know is how should i enter act with them. im at the point nex time i serch them out and find them im going to interact with them. iv studdy them so persizetion that i think that i can but i dont know what they are about or who they are. they never hurt me, they find me realy intrasting cause i serch them out and find them.not many people do that.i feel its getting closer to the time when it happens,i make contact with them.seem to me when i an close to them they are afrade of me ,im like a monster to them.could be theres all forms many different kinds of beings  the ones i see most are the ones that live in tunnals in the rocks in the mountain. were im serching is bellie ache springs((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92673.html](http://www.nuforc.org/webreports/reports/092/S92673.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164646.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164585.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164598.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164589.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
