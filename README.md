@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:02:15 on 11 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:01:39 on 11 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in New Kent (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Amber light over new kent, vaWhile flying from Richmond, Va to West Point, Va we observed an amber light (round) similar to appearance as if an approaching aircraft.  It appeared to be 5 miles north east of us (we were heading east/south east).  We noticed it when it appeared to be at 800 feet asl and climbing.  If had to guess, rate of speed it would be 150kts.  The light appeared to climb straight-vertical until extinguishing near 5000 feet (guesstimate).  ATC did not see aircraft on radar when inquired.  No trailing seen.  No blinking seen.  One solid orb.  Thank you  It is ok to contact me. Not requesting contact.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92677.html](http://www.nuforc.org/webreports/reports/092/S92677.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Bristol (VA) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>((NUFORC Note:  Witness provides no information about sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120231.html](http://www.nuforc.org/webreports/reports/120/S120231.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164646.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164585.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164598.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164589.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
