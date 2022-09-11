@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:48 on 11 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:37 on 11 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Solon (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>a hovering  large round objectit was a round silver metalic object about 150 feet in the air,it hovered over the street,i was driving and pulled into a  fast food parking lot observed the object for sevaral min. , it moved very little, i began on my way home driving under the object then  as i drove away i looked behind me it started moving slowly at a 90 deg. angle from me, this was on 9-11-01 at 1:30 in the afternoon all aircraft was grounded at that time</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22460.html](http://www.nuforc.org/webreports/reports/022/S22460.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Corpus Christi (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Four of us saw a pulsing white sphere in the sky in our backyard.My husband and I as well as another couple noticed a strange object flying in the sky.  We were all in our backyard talking and relaxing as we noticed the "star-like" object moving in the sky.As we all  were keeping our eyes on it there was no sound.  It looked as if it was an ordinary star in the sky.  The night was clear and stars were visible.  It was a sphere shape and pulsing white light emitted from it.After the first few minutes the pulsing started to get brighter. Then it started to move getting higher in the atmosphere and leaving altogether. Almost shooting with great speed out into space.It left us confused and baffled after witnessing this object's strange movements then leaving altogether without a sound. It only lasted for about 5 minutes. </sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92648.html](http://www.nuforc.org/webreports/reports/092/S92648.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164646.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164585.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164598.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164589.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
