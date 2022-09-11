@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:35 on 11 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:31 on 11 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Agoura Hills (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Saucer shape w/lghts around rim that were in a chasing pattern. Red light on top in the center.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58680.html](http://www.nuforc.org/webreports/reports/058/S58680.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Flagler (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>On the morning of september 11, 2001 I seen a huge bright light. It looked like a light from a jet plane. The light appeared over the Ocean north, north-east and was very low over the water. There were no other boats or planes in the area that I could see, but it was still dark at this time in the morning. I immediately got a bad feeling about the light when it did not move like an aircraft it hovered over the ocean. I wanted to think it was a hellicopter, but the light was so big, so bright and low to the water. I have seen several hellicopters from the medical flight copters, life guard, coast guard to some aircraft choppers that come out of Jacksonville Navy base, and this was like none I had ever seen. I know there is a military copter that can hover but it has a forceful airflow beneath it and it makes a great deal of noise. I believe if it was that type of aircraft, I could of heard the sound or seen water being forced up from the ocean, but it did neither. When I made a turn off A1A onto state road 100 (going west) the light moved over the ocean to the side of my car just above the tree line and stayed directly to the side of my car past I-95 through the city of Bunnell about ten miles from where I turned off A1A. In Bunnell state road 100 turns to the north north-west and when I made this turn it again aligned up with the right side of my car, and fallowed me again. I lost sight of it behind some trees about 3 miles after the turn. Given the events of that day I did nothing to follow up on it. But, about three weeks later while driving home I heard the Rush Limbaugh show and he mentioned seeing a huge bright light in the sky about 1/2 hour after I first seen the light. He, I believe, lives about 6 hours by car south of where I live. I wrote into his show, but never got a reply. And, until I found the UFO reporting center, I never mentioned it to anyone else, but would love to know what it was I saw and if anyone else seen the same light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38933.html](http://www.nuforc.org/webreports/reports/038/S38933.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164646.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164585.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164598.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164589.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
