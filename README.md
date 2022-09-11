@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:43 on 11 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:36 on 11 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Downtown Nashville (TN) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Few cigar shaped UFOs only captured in pictures, not seen with the naked eye.The date may have been 9/10/2016.  It was around 1930.  Driving by downtown Nashville on I-24 (we went in both directions) my sister was taking pictures of the city during sunset. I drove by it a few times so she could get some good shots.  We looked at the pics later and saw the bright white lit, cigar shaped UFOs (about 4) hovering in the pictures, also looked as if there was a trail of some sort like they were moving upward.  We still have the pictures that I emailed in.  You can see them over the Korean Veteran's bridge as well as the AT&T Building.  Can't explain what else they would be.  We zoomed in to make sense of it.  The windows were down and she didn't take the pics with a flash so we know it wasn't a reflection of anything.  None of this was seen with the naked eye.  Someone can get back to me if they wish to.  I'll mark it that they can if they have any questions.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134769.html](http://www.nuforc.org/webreports/reports/134/S134769.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Golden triangular object reshaping into golden half moon or dome before disappearing.My Wolfie and I like to hike the desert together in the mornings before it gets too hot.  We were hiking in the area near Old Tucson Studios with Golden Gate Mountain in the background.Approximately 9:00 a.m. September 11, 2007 a golden triangular object hovered west of Tucson, Arizona over the Tucson Mountains between Golden Gate Mountain and Old Tucson Studios.  The object was as big as a dime with arm extended, on a clear day with few clouds. The clouds closest to the golden triangular object were most brilliant and vivid compared to the other clouds furthest away from it.There appeared to be a dome in the center of the golden triangular object with the sun’s shadow visible on one side.  Also the triangle reshaped into a golden half moon or dome before vanishing into thin air.Image of the golden triangular object was captured on digital camera and printed on 8x10 enlargement glossy Fuji photo paper at a local Walgreens by my friend, a Tucsonian, who immediately recognized it as a UFO.  And there was a 2 for $5.00 sale on the 8x10’s.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58673.html](http://www.nuforc.org/webreports/reports/058/S58673.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164646.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164585.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164598.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164589.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
