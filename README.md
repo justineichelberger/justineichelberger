@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:38 on 11 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:45 on 11 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Hillsboro (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Very bright in the sky, orange sparks before take-offSept.11, 2007 Sighting happened between 9:30 PM and 10:30 PM EST  State Route 73, north of Peebles Ohio my husband and I saw rising in the Northeast horizon four very bright lights stacked on top of each other in a vertical fashion. They pulsed independent of each other in a random series three times.  They all took off in different directions with what seemed to be sparks flying behind them faster than any airplane or helicopter.  My husband at first thought they were comets but they circled back over the house again.  Two of them seem to stay together while the other two flew into the woods across from us and the other over the back of our house. We could not hear a sound except where ever their location was, the dogs in those particular areas would start barking.  Our two dogs were barking and they were in the house. We have lived in this location for a short time. My father has lived here for the past twelve years and he claims he’s seen the same type of ‘stars’ many times.  Most people in the area blame the goings on with an Air Force Base over thirty miles away. This area was much closer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58696.html](http://www.nuforc.org/webreports/reports/058/S58696.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Oak Lawn (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two round orange with white flaming lights on top</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83867.html](http://www.nuforc.org/webreports/reports/083/S83867.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164646.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164585.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164598.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164589.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
