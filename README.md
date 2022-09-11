@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:36 on 11 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:35 on 11 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Golden triangular object reshaping into golden half moon or dome before disappearing.My Wolfie and I like to hike the desert together in the mornings before it gets too hot.  We were hiking in the area near Old Tucson Studios with Golden Gate Mountain in the background.Approximately 9:00 a.m. September 11, 2007 a golden triangular object hovered west of Tucson, Arizona over the Tucson Mountains between Golden Gate Mountain and Old Tucson Studios.  The object was as big as a dime with arm extended, on a clear day with few clouds. The clouds closest to the golden triangular object were most brilliant and vivid compared to the other clouds furthest away from it.There appeared to be a dome in the center of the golden triangular object with the sun’s shadow visible on one side.  Also the triangle reshaped into a golden half moon or dome before vanishing into thin air.Image of the golden triangular object was captured on digital camera and printed on 8x10 enlargement glossy Fuji photo paper at a local Walgreens by my friend, a Tucsonian, who immediately recognized it as a UFO.  And there was a 2 for $5.00 sale on the 8x10’s.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58673.html](http://www.nuforc.org/webreports/reports/058/S58673.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Ireland () reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Strange circular lights in the sky over Co.Limerick, Ireland.On the 25th of May I saw what I thought was a UFO out my window, I told my family but no one believed me. On the 10th of September (20:55) my mother was out the back garden letting the dog out and called my sister and I to see lights in the sky they were circular and moved fast in different angles and made no noise.  They finally believed me about what I saw.  The next day my other sister who was asleep the night before when we saw the lights let the dog out at 21:23 and called us out to see some lights in the sky.  This time there were 4 crafts but they were flashing and changing colours and they kept fading away and flashing back again. This time myself, my mother, my two sisters, my brother and both my friends were there and we all saw them they were moving very quickly and again didn't make any sound. When we tried to get them on video it wouldn't turn up on screen and two of the lights seemed to be following each other. We are going to go out every night f! rom now on with more people so they'll see the UFO's too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72232.html](http://www.nuforc.org/webreports/reports/072/S72232.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164646.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164585.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164598.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164589.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
