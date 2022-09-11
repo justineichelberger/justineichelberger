@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:39 on 11 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:43 on 11 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Gig Harbor (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Multi-colored sphere hovering over SeattleDate: 9/11/2009 Time: 9:00p – 10:00p Conditions: Spectacularly clear night.Viewing Location: Gig Harbor, Key Peninsula, WA Sighting Summary: The night was spectacularly clear and my family and I were out looking at the stars when my youngest child observed a flashing multi-colored object hovering roughly 5° above the horizon and 10° NE off true north.  It seemed to be generally over Seattle, directly to the east of the Bangor submarine base on the Kitsap Peninsula.  It hovered in roughly the same location for over an hour, however it drifted slightly to the east over the timeframe we observed it.From our viewing location, the object was small and difficult to observe with the naked eye so we used a pair of 10X25 Binoculars for improved detail.  The colors alternated fairly quickly between red, green, purple, aqua blue, violet, dark blue, orange, yellow, and white and appeared like electrical arcs surrounding a sphere.There was a fair amount of air traffic that evening but it didn’t seem to draw much attention which I thought was strange.Witnesses: Adult – Mechanical Engineer 3 Children (13, 10.5, 8.5) - Homeschooled</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72249.html](http://www.nuforc.org/webreports/reports/072/S72249.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Downtown Nashville (TN) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Few cigar shaped UFOs only captured in pictures, not seen with the naked eye.The date may have been 9/10/2016.  It was around 1930.  Driving by downtown Nashville on I-24 (we went in both directions) my sister was taking pictures of the city during sunset. I drove by it a few times so she could get some good shots.  We looked at the pics later and saw the bright white lit, cigar shaped UFOs (about 4) hovering in the pictures, also looked as if there was a trail of some sort like they were moving upward.  We still have the pictures that I emailed in.  You can see them over the Korean Veteran's bridge as well as the AT&T Building.  Can't explain what else they would be.  We zoomed in to make sense of it.  The windows were down and she didn't take the pics with a flash so we know it wasn't a reflection of anything.  None of this was seen with the naked eye.  Someone can get back to me if they wish to.  I'll mark it that they can if they have any questions.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134769.html](http://www.nuforc.org/webreports/reports/134/S134769.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164646.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164585.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164598.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164589.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
