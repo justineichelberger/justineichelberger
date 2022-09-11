@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:37 on 11 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:04:55 on 11 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Corpus Christi (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Four of us saw a pulsing white sphere in the sky in our backyard.My husband and I as well as another couple noticed a strange object flying in the sky.  We were all in our backyard talking and relaxing as we noticed the "star-like" object moving in the sky.As we all  were keeping our eyes on it there was no sound.  It looked as if it was an ordinary star in the sky.  The night was clear and stars were visible.  It was a sphere shape and pulsing white light emitted from it.After the first few minutes the pulsing started to get brighter. Then it started to move getting higher in the atmosphere and leaving altogether. Almost shooting with great speed out into space.It left us confused and baffled after witnessing this object's strange movements then leaving altogether without a sound. It only lasted for about 5 minutes. </sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92648.html](http://www.nuforc.org/webreports/reports/092/S92648.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Studio City (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright white light surrounded by revolving colored lights suggesting a disc shape travelling east over the San Fernando Valley.U.F.O Sighting on Tuesday the 11th of September 2007 at 19:50  Driving east on the Ventura freeway between Van Nuys and Coldwater Blvd in rush hour traffic, I noticed some light on my right (at one o’clock and 30 degrees) just above the tree lining the freeway and moving parallel to my direction of travel and slightly faster than my own speed of about 50 to 60 mph.The sky was dark but not black in that direction and clear of clouds.I had a good look at a bright white light crowned by an arc of smaller colored light blinking and traveling left to right. Those lights appeared to be traveling around the circumference of a disk, disappearing on the right side and coming back around on the left, with the white light at the center of the under side. Even if, in the distance and darkness, I could only see lights, the impression of a disc-like object was reinforced by the flattening of that shape as it moved away in the distance.At first the apparent size was that of a compact disc held at arm length. By the time I lost site of it behind trees at the Coldwater off-ramp it had shrunk to maybe a quarter of that size.A few minutes later when I had again an unobstructed view of this area of the sky, all I could see was the regular air traffic. A plane was taking off nearby Burbank airport directly in the flight path of  whatever I had seen and a couple of choppers or small planes were up over the valley.To my knowledge, nothing was ever reported by local papers or radios.I sent a report to a local newspaper but never heard back.I am a 43 years old professional designer and art director. I am married and a father of three lovely kids. I have lived in this neighborhood for 14 years and I am well accustomed to the usual air traffic in the area including the occasional blimp.  This was nothing I had ever seen before. Sincerely.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62530.html](http://www.nuforc.org/webreports/reports/062/S62530.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164646.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164585.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164598.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164589.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
