@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:31 on 11 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:37 on 11 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Hamilton (Canada) (ON) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>I was sitting in my hot tub looking up into an unusually clear night (nights this clear are rare in Hamilton during the summer due to high smog levels), and I noticed directly overhead, at least three times, faint light moving across the sky. At first I thought it was light from the type of searchlight that bars or clubs may occaisionally use, and I kept watching for it to come around again, but it did not. Maybe two minutes after this, a triangular formation of three lights came into view, travelling incredibly fast from NNW to SSE. It was probably only about six seconds from the time they came into view from over the roof of my  North-side neighbour's garage until they passed out of view behind the roof of my South-side neighbours house. I would estimate this to offer me a view of sixty to seventy percent of the sky along the flight path. I did not see any metallic type of craft, only three distinct, equally bright lights that were a dull yellow colour, and not sharp, but rather fuzzy, as if slightly out of focus.(Perhaps I should mention that I was only drinking bottled water). Each light was, I would guess, to be about the size of a dime if I were holding it at arm's length, spaced about triple that length apart, with the two trailing lights about sixty degrees off from the leading light. It passed over without making any discernible sound at all.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25028.html](http://www.nuforc.org/webreports/reports/025/S25028.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Mebane (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>saw a bright light with red and green lights sitting in the sky, too slow for a plane,moving very slowly to the north.Looking west/northwest along interstate 40 in NC we saw a light in the sky that was moving very slowly to the north. It was a bright light with red and green lights on it that looked like they were moving around the bright light. It was too stationary for an airplane. We were thinking it might be a blimp but there were none in the area. There were planes in the sky but they were moving consistant with normal plane flights. The bright light we saw was moving tooo slow for a plane.((NUFORC Note:  We wonder whether the witnesses might have been observing a twinkling star.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31408.html](http://www.nuforc.org/webreports/reports/031/S31408.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164646.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164585.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164598.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164589.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
