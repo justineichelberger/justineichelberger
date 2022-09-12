@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:23:58 on 12 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:13:42 on 12 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Red Bluff (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orange fireball emitting smoke with bright white light, while hovering and spinning.I was outside smoking, when I noticed a orange light floating north closer to town.  It suddenly stopped in mid air, the orange faded to white, and became very bright.  It looked like it started spinning while releasing some kind of mist or smoke.  I think it was spinning because the bright white light kept highlighting the smoke/mist.  While still letting off the must it started moving west.  Then its lights went out, smoke stopped and it was gone.  This happened right before dawn and I was able to watch few a few seconds till I couldn't see it anymore.  I tried to get video but happened too fast. I've never seen anything like this, and it did blow my mind.  There was no sound either just a strange fireball looking light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113463.html](http://www.nuforc.org/webreports/reports/113/S113463.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Henniker (NH) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>2 bright lights moving erratically in sky and blinking.First off, I dont know if/think this was an 'alien' ship - but I couldnt figure out WHAT it was, even using binoculars. So I am interested in knowing if anyone else reported seeing anything at the same time/night or if you know of any monitoring equipment that was flying around over NH that night. I took my dog outside at around 1:30 am and was sitting on my porch and noticed a relatively large, bright light in the sky. I started staring at it and then noticed that it was moving around randomly in the sky almost like it was being blown by a light wind or something. It was visable above the treeline and looked like an extremely large/bright star, but then I noticed the strange movement. I used binoculars and did not see it much more clearly so I imagine it was quite high in the sky, but realized it definitely had lights on it of some sort - and they were bright enough that it was throwing light around it like a halo. From MY PERSPECTIVE, way away from it, when moving it was only covering a patch of sky about 3 inches X 2 inches. It kept moving around in that general area. I also noticed a few times that a short distance from it there were flashing lights, coming off from about 2:00 and 9:00 and 5:00 if the object was in the middle of a clock-face. I then noticed a second one to the right but farther away as the light was much smaller and dimmer, but I could still see it was moving around also. I thought maybe it was a satellite, but then realized that the movement was not right and it was not tracking across the sky on any sort of trajectory. I also thought maybe it was a weather monitoring device, but didnt understand why it was covered in lights... I studied it with binoculars for about 1/2 hr and couldnt get any clearer picture of it. I looked for it in the morning but could not see anything in the sky so imagine it was either gone or far enough up to not be visible by day.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46207.html](http://www.nuforc.org/webreports/reports/046/S46207.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/164/S164581.html)
-- [437](http://www.nuforc.org/webreports/reports/164/S164644.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164621.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164617.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164901.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
