@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:44 on 12 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:34 on 12 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Anthem (AZ) reported seeing craft that fit the description of some 'Changing' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Circular Red/White Light Doing Acrobatics In the AirMy sister and I witnessed a circular, red light zooming across the sky when we took the dog out, far faster than any commercial aircraft/drone we've seen before.  It did a loop in the air, the light turned white, it did another loop and promptly moved away within seconds.  There was only one craft.  We didn't hear any noises like a plane or helicopter make (we get those quite frequently living near a police station and an airport)...it was eerily silent.  It made us feel quite uneasy.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159324.html](http://www.nuforc.org/webreports/reports/159/S159324.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in League City (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Possible UFO sighting traveling on I-45 towards Galveston.I looked up at the sky and saw a blue light like you would see on an aircraft but it was just one light and is moved so fast that I just saw it for a few seconds.  It was there then gone in the clouds. It was around 8:30 pm so it was dark outside, not sure if there were clouds but thats what it seemed like when i saw the light and then it was gone.  Not sure what I saw but I know it moved way to fast to be a plane or helicopter.  I was traveling down I-45 heading towards Galveston.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83883.html](http://www.nuforc.org/webreports/reports/083/S83883.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/164/S164581.html)
-- [437](http://www.nuforc.org/webreports/reports/164/S164644.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164621.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164617.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164901.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
