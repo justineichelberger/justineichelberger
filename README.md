@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:34 on 12 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:38 on 12 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in League City (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Possible UFO sighting traveling on I-45 towards Galveston.I looked up at the sky and saw a blue light like you would see on an aircraft but it was just one light and is moved so fast that I just saw it for a few seconds.  It was there then gone in the clouds. It was around 8:30 pm so it was dark outside, not sure if there were clouds but thats what it seemed like when i saw the light and then it was gone.  Not sure what I saw but I know it moved way to fast to be a plane or helicopter.  I was traveling down I-45 heading towards Galveston.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83883.html](http://www.nuforc.org/webreports/reports/083/S83883.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Springfield (MO) reported seeing craft that fit the description of some 'Oval' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Two Brightly lit craft observed  around Springfield Missouri.At 04:00 hours an oval object appeared to the northeast of Springfield mo. It had what appeared to be an oval shape and had strobe lights that changed from red, green, blue, and white. While sitting in the same spot for the first fifteen minutes, from the edges of the craft it emitted round bright white balls of light. These balls would come out of the craft horizontally then disappear altogether. This happened a total of four times then no more came out. I called a friend to confirm what I was seeing, and she saw another one to the south of Springfield. Oval in shape but turned upright. With the same colored strobes as the one above. No balls of light came from the second craft. To ensure it was not moving I placed a couple of pieces of tape on the glass surrounding the object and watched from the same location. The stars were of course slowly dropping below the tape line but not this object. The one to the south of Springfield had a bright flash that was produced several times from the craft. Similar to a camera flash at night. We watched both objects from 04:00 hours until they went dark suddenly at around 04:47. We could not figure out if they left or just went dark and remained in the same location.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58685.html](http://www.nuforc.org/webreports/reports/058/S58685.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/164/S164581.html)
-- [437](http://www.nuforc.org/webreports/reports/164/S164644.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164621.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164617.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164901.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
