@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:38 on 12 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:37 on 12 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Springfield (MO) reported seeing craft that fit the description of some 'Oval' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Two Brightly lit craft observed  around Springfield Missouri.At 04:00 hours an oval object appeared to the northeast of Springfield mo. It had what appeared to be an oval shape and had strobe lights that changed from red, green, blue, and white. While sitting in the same spot for the first fifteen minutes, from the edges of the craft it emitted round bright white balls of light. These balls would come out of the craft horizontally then disappear altogether. This happened a total of four times then no more came out. I called a friend to confirm what I was seeing, and she saw another one to the south of Springfield. Oval in shape but turned upright. With the same colored strobes as the one above. No balls of light came from the second craft. To ensure it was not moving I placed a couple of pieces of tape on the glass surrounding the object and watched from the same location. The stars were of course slowly dropping below the tape line but not this object. The one to the south of Springfield had a bright flash that was produced several times from the craft. Similar to a camera flash at night. We watched both objects from 04:00 hours until they went dark suddenly at around 04:47. We could not figure out if they left or just went dark and remained in the same location.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58685.html](http://www.nuforc.org/webreports/reports/058/S58685.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Naperville (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Naperville IL Triangle shaped UFO , video evidence.My friend sent me a picture of a black hawk helicopter at 6:20 pm and told me it was headed my direction.  I ran outside with my camera so I could snap a photo of it, and instead I saw the most massive triangle shaped UFO instead.   The black hawk was flying East, toward chicago, and UFO flying southwest.   There was a passenger jet in viewing distance of this flying object.Guaranteed to be on radar.  AND I GOT IT ON VIDEO.http://youtu.be/B6mU38PbHF8</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102259.html](http://www.nuforc.org/webreports/reports/102/S102259.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/164/S164581.html)
-- [437](http://www.nuforc.org/webreports/reports/164/S164644.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164621.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164617.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164901.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
