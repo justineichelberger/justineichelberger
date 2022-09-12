@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:01:47 on 12 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:03:32 on 12 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Malaga (Spain) () reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>I was on my way to work along the costal road with sea to my left & mountains to my right. It was a gray morning with the sun rising, the visibility was good. The silver UFO appeared in front of me with its nose pointing down about 15 degrees. The UFO was to low to be a plane and to high to be reflection of some sort. The UFO was smaller than a helicopter to put in perspective and had a white hue around the object.The UFO was tear shaped with one light at the front acting as a window which was glowing bright white with a spec of neon blue light along the bottom of the window.The UFO was visible for 3 or 4 seconds then vanished into what it seemed liked an orange glow.This was the only UFO in sight.Freaked!((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65642.html](http://www.nuforc.org/webreports/reports/065/S65642.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Andover (UK/England) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>formation of   slow moving pairs of rapid flashing lights possibly trianglesI was letting dog out earley morning sunday 12/9/04 about 5am,just getting light.I first noticed what looked like a satalite going east to west but there were 2 side by side.Are there satalite formations? These were obviously quite high up. Then going west to east came a rapidly flashing light red,white. Moved slowley and silently, about 500m altitude. As this crossed the sky another came into view directly underneath the first at about 200m altitude, moving same speed,in formation. This pair drifted passed followed by another 3 sets of pairs all going the same direction.The strange thing was that i could see the lights flashing down the side of the craft(?) and on the back could be seen two fixed lights(exhausts?) but the objects themselves were invisable.I first thought military helicopters,but the lights were too rapid and there really was no sound at all for something flying that low. Struck me as being like the flying tringles that have been reported. This was then followed by a standard plane going south to north, much higher, which I could hear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39273.html](http://www.nuforc.org/webreports/reports/039/S39273.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/164/S164581.html)
-- [437](http://www.nuforc.org/webreports/reports/164/S164644.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164621.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164617.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164901.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
