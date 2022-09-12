@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:03:32 on 12 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:28 on 12 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Andover (UK/England) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>formation of   slow moving pairs of rapid flashing lights possibly trianglesI was letting dog out earley morning sunday 12/9/04 about 5am,just getting light.I first noticed what looked like a satalite going east to west but there were 2 side by side.Are there satalite formations? These were obviously quite high up. Then going west to east came a rapidly flashing light red,white. Moved slowley and silently, about 500m altitude. As this crossed the sky another came into view directly underneath the first at about 200m altitude, moving same speed,in formation. This pair drifted passed followed by another 3 sets of pairs all going the same direction.The strange thing was that i could see the lights flashing down the side of the craft(?) and on the back could be seen two fixed lights(exhausts?) but the objects themselves were invisable.I first thought military helicopters,but the lights were too rapid and there really was no sound at all for something flying that low. Struck me as being like the flying tringles that have been reported. This was then followed by a standard plane going south to north, much higher, which I could hear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39273.html](http://www.nuforc.org/webreports/reports/039/S39273.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Milford (CT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Vertical formation of Glowing orange lights seen over Silver Sands State Park in Milford Ct.I let my dog out the back of my yard and saw a formation of orange lights in a vertical formation of orange lights comming over toward my house near Silver Sands State Park.  I asked my room mate to come out and he saw them as well.  He wen't in to get a camera but they had begun to fade. He tried to take a picture but nothing good.  They were extremely bright to begin with and made no noise even as they got closer.  After about a minute as they got closer they started to get duller but I could still tell there was some kind of craft there.  We both are professionals and have never reported or seen anything like this before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92721.html](http://www.nuforc.org/webreports/reports/092/S92721.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/164/S164581.html)
-- [437](http://www.nuforc.org/webreports/reports/164/S164644.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164621.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164617.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164901.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
