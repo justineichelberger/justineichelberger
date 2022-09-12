@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:02:07 on 12 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:44 on 12 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Malvern (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 2880.0 - 2880.0 minutes.</sub><blockquote><sub>green white and red flashing lights in the sky9/11 seen two flashing red green and white lights in the shape of an oval in north western sky, stayed in one place for two hours. 9/12 seen one flashing red green and white oval, in north western sky at 8:45 p.m. 15 minutes later had moved to the south western skys. current time 9:15 p.m. still there</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31426.html](http://www.nuforc.org/webreports/reports/031/S31426.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Anthem (AZ) reported seeing craft that fit the description of some 'Changing' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Circular Red/White Light Doing Acrobatics In the AirMy sister and I witnessed a circular, red light zooming across the sky when we took the dog out, far faster than any commercial aircraft/drone we've seen before.  It did a loop in the air, the light turned white, it did another loop and promptly moved away within seconds.  There was only one craft.  We didn't hear any noises like a plane or helicopter make (we get those quite frequently living near a police station and an airport)...it was eerily silent.  It made us feel quite uneasy.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159324.html](http://www.nuforc.org/webreports/reports/159/S159324.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/164/S164581.html)
-- [437](http://www.nuforc.org/webreports/reports/164/S164644.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164621.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164617.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164901.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
