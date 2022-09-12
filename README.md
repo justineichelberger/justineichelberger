@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:07:16 on 12 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:36 on 12 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Zagreb (Croatia) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Photo of UFOI was takeing photo when i saw a object; but I thought that it is a plane or a bird and didn't concentrate attention upon object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51648.html](http://www.nuforc.org/webreports/reports/051/S51648.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Brookfield (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Three amber colored lights moving at various distances.  No blinking aircraft lights or sound.I clean an accountants office in the Town of Brookfield at the corner of Capitol Drive and Lilly Road.  My son and I do the job together. I had to step outside and get some furniture polish from my van.  Out of the corner of my eye I noticed some lights that appeared to be about 3 blocks south of me across the very busy Capitol Drive.  They were orange like the lights on a TV broadcast antenna.  The lights were stacked vertically exactly like the safety lights on a tall antenna.  I thought to myself , "I don't recall seeing an antenna there before."  At that I turned to take another look and noticed they weren't in a vertical stack anymore, but were moving closer together and lower down toward the level of the tree tops.I called my son outside to get his opinion about what I was seeing.  Just when he came out he was able to get a glimpse of them dip below the tree tops and we figured they were gone.  He went into the van and grabbed his little hand held video camera just in case they appeared again.  We then noticed the lights were still visible through the trees.  The lights then started to rise again.  They moved in relation to each other in a sort of triangle.  After getting bright and dim a couple times they suddenly disappeared.My son's video is on YouTube.  http://www.youtube.com/watch?v=od637rz2U00  I later looked up on google maps where we saw the lights descend below the tree tops to see what was over that way because they would have had to be practically on the ground.  On google earth we found a swampy area near Brookfield Highschool that would is about 80ft lower in altitude then our observation location.  So the lights could have still been above the ground but appear to us as being at ground level through the trees.I originally posted a report on Mufon.  Unfortunately I'm not a member so I can't seem to access that information which included a video.  They called me back and said they thought the video was interesting but they never investigated.  I thought about going from door to door in that area to see if anyone else saw the lights but I figured Mufon would do that.When I looked up that date on Nuforc I noticed a husband and wife reported seeing the lights in the same area on the same date - same time.  Their location was south of mine.  If Nuforc wants to give anyone my phone number they can.Also someone recently reported a pizza truck driver at Capitol Drive and Lilly road that witnessed something similar on September 5 2010.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77901.html](http://www.nuforc.org/webreports/reports/077/S77901.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/164/S164581.html)
-- [437](http://www.nuforc.org/webreports/reports/164/S164644.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164621.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164617.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164901.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
