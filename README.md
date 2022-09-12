@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:35 on 11 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:32 on 12 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Ireland () reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Strange circular lights in the sky over Co.Limerick, Ireland.On the 25th of May I saw what I thought was a UFO out my window, I told my family but no one believed me. On the 10th of September (20:55) my mother was out the back garden letting the dog out and called my sister and I to see lights in the sky they were circular and moved fast in different angles and made no noise.  They finally believed me about what I saw.  The next day my other sister who was asleep the night before when we saw the lights let the dog out at 21:23 and called us out to see some lights in the sky.  This time there were 4 crafts but they were flashing and changing colours and they kept fading away and flashing back again. This time myself, my mother, my two sisters, my brother and both my friends were there and we all saw them they were moving very quickly and again didn't make any sound. When we tried to get them on video it wouldn't turn up on screen and two of the lights seemed to be following each other. We are going to go out every night f! rom now on with more people so they'll see the UFO's too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72232.html](http://www.nuforc.org/webreports/reports/072/S72232.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Christiansburg (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>two objects high in the sky ,round and traveling at a rate of speed compared to a normal jet-about 100 times faster.covered the horizon from side to side in about 8 seconds. one made sharp turn to right of the other -made a circle,   and then came back to the other. both objects then dispappered behind the horizon the one that made right turn ,increased speeed to about double but sphere was plainly visible at their speeds.bright ,white spere. I listened but no sound was heard.no trail</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31591.html](http://www.nuforc.org/webreports/reports/031/S31591.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164646.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164585.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164598.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164589.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
