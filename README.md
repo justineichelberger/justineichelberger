@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:28 on 12 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:35 on 12 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Milford (CT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Vertical formation of Glowing orange lights seen over Silver Sands State Park in Milford Ct.I let my dog out the back of my yard and saw a formation of orange lights in a vertical formation of orange lights comming over toward my house near Silver Sands State Park.  I asked my room mate to come out and he saw them as well.  He wen't in to get a camera but they had begun to fade. He tried to take a picture but nothing good.  They were extremely bright to begin with and made no noise even as they got closer.  After about a minute as they got closer they started to get duller but I could still tell there was some kind of craft there.  We both are professionals and have never reported or seen anything like this before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92721.html](http://www.nuforc.org/webreports/reports/092/S92721.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Claremont (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>I was walking home from work (Domino's Pizza) and i always look at the stars when i walk because i like to.This time when i looked i saw a really bright object.At first i thought it was a plane but it didn't have the red or blue lights.Second, i though it was a meteor but meteors don't stop form up and then go again.I got scared and ran to work again because someone had to see it with me.Once i got there i ws screming and i dragged them out to see.They were as shocked at what they saw.It was the size of 6 north stars!The thing was it looked like one light but there were three of them "Fireballs" i guess.They were the color but Parking lights on cars. All of a suudden it realeased or shot out about 6 little Neon red balls! Tiny ones! Then i called my house screaming for thewm to look but as i was talking it faded away. It was like someone turned a switch to dim them. it was really creepy.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31438.html](http://www.nuforc.org/webreports/reports/031/S31438.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/164/S164581.html)
-- [437](http://www.nuforc.org/webreports/reports/164/S164644.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164621.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164617.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164901.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
