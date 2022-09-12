@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:29:24 on 12 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:56:01 on 12 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Bloomington (IL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>7 low flying, in formation aircraft seen over Bloomington, IL.I was driving southbound on Towanda Ave, over the railroad bridge off of Ft. Jesse Rd. my son and I witnessed 7 black objects flying in formation about 1000 ft off the ground.  They were flying from northwest to south east in a rapid manner.  At first, I thought they were Chinook helicopters as they routinely fly over head.  However, being a 16 year vet of the Army, I've never seen Chinooks fly that fast and never in that close of formation.  Also, the profile seemed skinnier than that of a Chinook.  I heard no noise as is typical with Chinooks even at the distance, about a mile out, from my position.  It could be drilling aviation unit, but I'm not certain that it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121892.html](http://www.nuforc.org/webreports/reports/121/S121892.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Greeley (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately still visible - still visible minutes.</sub><blockquote><sub>mulitiple white lights moving across sky above uslights way up looks like sattelites but multiple grouped together in a semi circle seeming to move north or out since lights are fading ...but it looked like the stars were moving in formation...many of our neighbors and kids watched it pass overhead and move to the north spread out roughly oblong formation horizontly</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121903.html](http://www.nuforc.org/webreports/reports/121/S121903.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/164/S164581.html)
-- [437](http://www.nuforc.org/webreports/reports/164/S164644.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164621.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164617.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164901.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
