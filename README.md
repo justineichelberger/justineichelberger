@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:15:18 on 12 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:07:16 on 12 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1946, an anonymous witness in Oak Lawn (IL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>V-formation 5 silver disks with 1 trailing behind, size of small peas high & fast  heading NE  bypassing Chicago  to IndianaDuring the War II, I collected airplane cards, so I naturally looked in he sky and did observe many war planes in our area during the war.  One fall morning going to school and waiting in line to get on the school bus, I was looking up at the very blue sky.  It was a very clear day.  I saw six silver discs flying in V-formation and there was one in the following in back of it, like the war planes flew.  They were very high in the sky and about the size of very small peas, heading northeast as if to bypass Chicago and head into Indiana.  They made no noise (as the airplanes were quite noisy) and they were crossing the sky at a very great speed.  There were no jets at that time that I knew of and if there were, they would have made lots of noise and not have gone that fast.  I stood there and watched them and the kids were calling me to get on the bus.  I believe there was something in the Chicago newspapers about others sighting them.((NUFORC Note:  Source indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43077.html](http://www.nuforc.org/webreports/reports/043/S43077.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Zagreb (Croatia) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Photo of UFOI was takeing photo when i saw a object; but I thought that it is a plane or a bird and didn't concentrate attention upon object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51648.html](http://www.nuforc.org/webreports/reports/051/S51648.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/164/S164581.html)
-- [437](http://www.nuforc.org/webreports/reports/164/S164644.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164621.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164617.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164901.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
