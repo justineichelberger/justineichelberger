@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:55:53 on 12 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:38:12 on 12 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1990, an anonymous witness in Cairo (Desert Storm) (Egypt) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>This sighting took place in 1990 over in the middle east during Desert Storm.This sighting took place in 1990 over in the middle east.  At that time I was in the military the US AirForce  we were dispatched to Egypt pryor to the start up of desert strom to build a fuling base in the desert along with a large MASH unit.  While at the site we would start working at dawn and many times would not finish up to well after dark.  The first 30 days we were in country we were house at a large hotel complex in Cairo Egypt.   Not sure of the date but one evening after we had finished work we all were waiting on the tarmac for our buses to takes us back to Cairo it was about 72 Degs and a very clear night.  Their was aprox 70 of use including our commander.Shortly after we all gathered to wait for the buses one of the guys pointed to the south east and said what is that well we turned around and looked up.  I have never seen anything this until at that moment.  There were aprox 100 objects pale orange in color that were at a very high altitude in two V formations one next to the other looked like a W in the sky. These objects moved very slowly from the south east to the northwest.  As they approached our location you could drop a pin and hear it hit the sand not a single person was making a sound.  Once they got over head at a high altitude they changed course in unison to the north.   We watched them for about 30 to 35 minuets. I looked over and saw our commander looking up at the objects and asked him what he thought they were.  He said I have no idea.  To this day I have not been able to determine what the objects were.  I did go to base ops the next day to see if their may have been a large military flyover.  NO traffic was in the air that night  The Egyptican military do not fly at night and no commercial traffic was in the area.I submitted this report some years ago to MUFON but have never heard anything back from them or if they received It.  I am now retired from the Air Force and this incident still bugs me I would like to know what they were.  By the way being in the middle of the desert their were no external lights other than a bldg light that was on about 500 yards away .((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49827.html](http://www.nuforc.org/webreports/reports/049/S49827.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Covington (WA) reported seeing craft that fit the description of some 'Oval' over a period of approximately minutes - minutes minutes.</sub><blockquote><sub>object viewed above 256th street looking eastward high in the sky a white oval suspended above.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113482.html](http://www.nuforc.org/webreports/reports/113/S113482.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/164/S164581.html)
-- [437](http://www.nuforc.org/webreports/reports/164/S164644.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164621.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164617.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164901.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
