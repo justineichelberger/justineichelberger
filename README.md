@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:32:31 on 13 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:28:45 on 13 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Destin (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Solo rotating hovering light, second sighting in as many days.This is my 2nd report.  I went outside tonight sporadically, looking for "my ufo" again tonight.  Up until around 10:30pm (central time) I saw nothing, then BAM, it was there again, same time as last night, same place as last night, doing the same thing.  Charging video camera tonight to get footage tomorrow.  Not a star, willing to bet money on that.  I guess it could be a satellite, though most of the info I have read indicates that it will look like a very slow moving star.  This isn't the case, this thing hovers in one spot and spins in a circle.  Imagine someone pointing a flashlight at you, and spinning slowly with it.  You see the light bright, then slowly fade, then nothing, then slowly see it, then bright again.  And repeat.  45 degree angle from horizon, east of Destin, FL.((NUFORC Note:  Possible sighting of a star??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83906.html](http://www.nuforc.org/webreports/reports/083/S83906.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Gilbert (AZ) reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>Gilbert, Az. 09/13/09  11:30pmSeptember 13, 2009 we arrived at home about 11:05pm due to recent burglaries to the home we have surveillance recording during the times we are gone.  Somewhere between 11:20-11:40pm as we sat down in front of the television suddenly seen a flash of light move very fast across the screen thinking it was a car, we were shocked as to how fast it was moving.  At this point, we stopped recording and started to back track, in order to see what kind of car it was. As we watched and slowed down the footage we had seen a speeding light.  It clearly looked to be two ships swooping down our street. I have never seen anything like this before. This sighting was amazing in a scary sort of way.  We have saved the footage if needed please contact for release this is no hoax.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72276.html](http://www.nuforc.org/webreports/reports/072/S72276.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164594.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164658.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164596.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165008.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164654.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
