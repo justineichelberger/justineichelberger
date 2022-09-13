@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:37 on 12 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:01:14 on 13 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Naperville (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Naperville IL Triangle shaped UFO , video evidence.My friend sent me a picture of a black hawk helicopter at 6:20 pm and told me it was headed my direction.  I ran outside with my camera so I could snap a photo of it, and instead I saw the most massive triangle shaped UFO instead.   The black hawk was flying East, toward chicago, and UFO flying southwest.   There was a passenger jet in viewing distance of this flying object.Guaranteed to be on radar.  AND I GOT IT ON VIDEO.http://youtu.be/B6mU38PbHF8</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102259.html](http://www.nuforc.org/webreports/reports/102/S102259.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>It was 2:30am 09/12/19 my brother was outside and called to me with fear, i run out as fast as i could, he told me to look up and there it was a white Triangle shape UFO with many lights on it, my mom and girlfriend ran outside to join us and saw the UFO then within 10 seconds or less it was gone</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148892.html](http://www.nuforc.org/webreports/reports/148/S148892.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/164/S164581.html)
-- [437](http://www.nuforc.org/webreports/reports/164/S164644.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164621.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164617.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164901.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
