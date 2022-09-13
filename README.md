@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:38 on 13 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:42 on 13 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Lake (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>White orbAfter hurricane Irma we lost power and had a generator running for the 2nd night in a row. The windows were wide open and the blinds all the way open.  I could easily see outside.  At 3:30 in the morning. I noticed a white glow then an orb ascend towards the sky.  It was about 100 feet from where i observed this.  My wife saw the same thing the following night but much closer.  No sound from the orb.  Similar to the sighting in Lee County.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136302.html](http://www.nuforc.org/webreports/reports/136/S136302.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Kearney (NE) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Husband and wife witness a "phalanx" of lights pass overhead.Telephoned Report:  This is a preliminary written report, submitted on behalf of a husband and wife, who witnessed a peculiar object pass overhead their location.During a telephone call to the Hotline, the husband reported a sighting of an object that reminded him of the objects seen during the dramatic "Phoenix Lights" event, i.e. a seemingly quite large, phalanx-shaped formation of lights.  The witness reported that the formation was approximately the apparent size of a full Moon, and that the lights in the formation were approximately the size, and color, of stars in the nighttime sky.NUFORC is awaiting written reports, as well as illustrations, from both witnesses, and will post them once they have arrived at our Center.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136157.html](http://www.nuforc.org/webreports/reports/136/S136157.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164594.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164658.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164596.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165008.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164654.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
