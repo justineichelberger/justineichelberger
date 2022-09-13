@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:15:22 on 13 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:08:33 on 13 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Silverdale (WA) reported seeing craft that fit the description of some '' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Man feels urge to go outside house.  Briefly sees formation of 4 "bright, pale orange" objects streak overhead very fast to N horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00816.html](http://www.nuforc.org/webreports/reports/000/S00816.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Dublin (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>5-6 red lights with faint orange rim traveling a slow speed from north to south like a small aircraft.The time was the beginning the half time of Michigan State Oregon about 11:00 on September 12, 2015.I was walking the dog in Dublin, Ohio, and saw 4-5 individual red lights with slight orange rim in a group ( in somewhat of a line) moving south.  They appeared to be at an elevation similar to a small airplane (1000-2000 feet) and travelling about the same speed.  I was listening for sound of a propeller or jet engine, but there was no sound.As they slowly disappeared in the distance heading south another single light (same color) approached from the same direction as the others and on the same path.  It continued to the south until disappearing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121975.html](http://www.nuforc.org/webreports/reports/121/S121975.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164594.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164658.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164596.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165008.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164654.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
