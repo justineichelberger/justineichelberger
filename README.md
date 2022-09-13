@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:01:08 on 13 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:51 on 13 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Manchester (UK/England) () reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>it looked like a missile but then it suddenly changed direction and sped toward the clear blue skyon the above date at the above time (approx) i saw a plume of smoke traveling on the horizon. At first i thought it was a plane so i thought nothing of it untill i looked back about 2 minutes later and saw it stop and suddenly start traveling verticaly in a perfect right angle monuver i told the other people in the car who were traveling with me and no one could explain it. The only thing i could liken it to was a missile launch but i dont think a conventional missile can move at that angle. The sky was clear blue so it could be seen easily. After a few miutes it suddenly stopped and then started again a little higher and after a minute it just sped upwards and disapeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31587.html](http://www.nuforc.org/webreports/reports/031/S31587.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Export (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Multi Orange gold lights with slight wobble moving east, second sightingOrange Gold in color, multi lights that moved east in a strait line with some wobble. there was low cloud cover and was hard to tell if lights where moving in and out of clouds or did they just turn off and on slowly.  It second time I seen these lights, other time was 07/04/15 moving south.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121933.html](http://www.nuforc.org/webreports/reports/121/S121933.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164594.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164658.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164596.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165008.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164654.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
