@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:02:12 on 14 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:37 on 14 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Launceston (TAS, Australia) () reported seeing craft that fit the description of some 'Other' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>to the east of tasmania, australiait looked like a star but it was stationary but would move every now and again, from the distance it was it was moving in approx a i cm circle and was moving rapidly and slowly. i do not know what it was but i would like to know. it was in the east of launceston, tasmania, australia</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39278.html](http://www.nuforc.org/webreports/reports/039/S39278.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in College Station (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Blue Floating LightSaw blue light hovering and floating. Light turned white and red then back to blue.  While floating, it turned and twisted, then floated away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102204.html](http://www.nuforc.org/webreports/reports/102/S102204.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164674.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164680.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164641.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164888.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
