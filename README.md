@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:09:14 on 14 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:39 on 14 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Worcester (MA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Fireballs seen above Route 290 near Holy Cross CollegeDriving towards Auburn, MA on Route 290 near Holy Cross.  Two fireballs above the road.Orange, blue, red.  Hovering.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92814.html](http://www.nuforc.org/webreports/reports/092/S92814.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in New Paltz (NY) reported seeing craft that fit the description of some 'Diamond' over a period of approximately NA - NA minutes.</sub><blockquote><sub>Yellow/orange, angular &quot;minivan&quot; shapedI was hiking in Miniwaska state park in New Paltz, NY, on Saturday 9/14/13.  Towards the end of the hike (approx 3-4 pm) my friends and I climbed to the top of the Skytop Tower at Mohonk Mt Preserve.  We were just enjoying the view and the weather.  I was taking photos with my phone, mostly of my friends, but one or two looking at the Shawangunk Ridge in the park to the west of the tower.  I didn’t see anything myself at the time, but later on when I was looking through my photos noticed a strange object in the sky in one photo.  I thought it must have been an insect that passed in front of the camera, or a helicopter that I just hadn’t remembered seeing.  Attached is the photo.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117500.html](http://www.nuforc.org/webreports/reports/117/S117500.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164674.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164680.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164641.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164888.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
