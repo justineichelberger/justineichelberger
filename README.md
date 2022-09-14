@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:39 on 14 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:47 on 14 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in New Paltz (NY) reported seeing craft that fit the description of some 'Diamond' over a period of approximately NA - NA minutes.</sub><blockquote><sub>Yellow/orange, angular &quot;minivan&quot; shapedI was hiking in Miniwaska state park in New Paltz, NY, on Saturday 9/14/13.  Towards the end of the hike (approx 3-4 pm) my friends and I climbed to the top of the Skytop Tower at Mohonk Mt Preserve.  We were just enjoying the view and the weather.  I was taking photos with my phone, mostly of my friends, but one or two looking at the Shawangunk Ridge in the park to the west of the tower.  I didn’t see anything myself at the time, but later on when I was looking through my photos noticed a strange object in the sky in one photo.  I thought it must have been an insect that passed in front of the camera, or a helicopter that I just hadn’t remembered seeing.  Attached is the photo.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117500.html](http://www.nuforc.org/webreports/reports/117/S117500.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Denham Springs (LA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Unusual bright lights moving high in the night skyWalking out of my mother's house last night, I casually looked into the sky and noticed a "star" that was just fading into visibility and moving north. This was not a meteor, as the light appeared constant and controlled. I pointed it out to my girlfriend but she couldn't track it before it faded out. Curiosity had me scanning the sky at this point.Within a minute, a brighter light caught my attention near the treetops, due north. She saw this one. It was a pure, bright, white light. More intense than any star or planet currently visible. We watched as it appeared to rise from its position and move across the sky towards SE, only not in a straight trajectory. The Baton Rouge airport is tens of miles west of my house, and an airplane (at or near cruising altitude) was also apparent, serving as a means of comparison. Seeing that the light was not fading, I quickly went back to the door of the house to get another witness. The man saw it, and wondered out loud what it could be.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77837.html](http://www.nuforc.org/webreports/reports/077/S77837.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164674.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164680.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164641.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164888.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
