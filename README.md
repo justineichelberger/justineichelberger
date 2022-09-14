@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:27:49 on 14 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:20:48 on 14 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Pittsburgh (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Large circular light spotted in airspace above Consol Energy CenterWhile on a FaceTime call, I noticed a bright light out the window, large and circular in shape.  It was being followed by two jets, but the lighted craft was silent.  It's not the first time I've seen it, it's shown up several (aprox. 3 times since the start of August) and tonight was the first time we've noted crafts following behind it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129939.html](http://www.nuforc.org/webreports/reports/129/S129939.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Fairbanks (AK) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Grey, triangular object with no lights moving across the sky.My daughter and I were looking at the sky tonight when we saw something moving across the sky.  I only noticed it because it blocked out the stars.  I looked at it through binoculars and saw that it was triangular in shape, no lights, was grey and very smooth, and made no noise whatsoever.  It was bigger than a commercial airplane, but I could not tell exactly how big.  It was moving very fast, and the movement was in a single direction and very smooth.  It was moving from Fairbanks area, over Ft. Wainwright going towards North Pole.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113561.html](http://www.nuforc.org/webreports/reports/113/S113561.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164674.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164680.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164641.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164888.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
