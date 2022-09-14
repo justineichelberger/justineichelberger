@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:01:12 on 14 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:30:16 on 14 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>3 Lighted Objects Spotted in Chicago 9-14-2012We got a call from a relative 2 miles away. He wanted us to look up in the sky southeast. There were three lighted objects, rotating and changing in color. They were in a straight line formation, diagnal. Video footage shows them in a nearly triangular shape. We spotted them -- watched for almost a minute and one by one they disappeared.  Weather forecast reported clear skies!  Objects were chaning color, moving quickly in a straight line across the sky. Reportedly from the west to the east. Colors ranged from green, orange, red, white and yellow-ish. Last light seen seemed to leave a trail of orange sparks behind it. It was not an airplane. Flying too low and too close to each other. Def. not an airplane becuase of the space between each object and the formations in which the objects evolved.Watched hours of UFO youtube footage and have been able to identify similar objects in ohter videos, including footage from Illinois area in the last month.ABSOLUTELY AMAZING SIGHT!!!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92775.html](http://www.nuforc.org/webreports/reports/092/S92775.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Laurel (MD) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I saw a orange/red glowing object that stopped glowing and then moved, at a very high rate of speed, out into space at about a 20-30 degree angle.I was walking my dog past the Maryland City Elementary school down the street from my house at approx. 6am.  As we were passing the school heading down Crumpton South, I noticed what appeared to be a planet sized orange/red object in the sky.  It was at about 40 degrees above the horizon (facing south/southwest). At first I thought it was mars or mercury, but it seemed to big to be a planet (appeared a little bigger than I have seen Venus). I kept walking while watching the object.  It appeared to become slightly bigger, so I stopped before I reached a group of trees that would block my view so I could see if it was moving like an airplane with its lights on.  It wasn't, so I started walking again and thinking about what it could be.  When I got past the trees to where I could see it again, it had changed from an orange/red glow to a single white light(much smaller), like you would see on a plane.  It blinked once, maybe twice, then moved in a quickly accelerating motion at approx 20 degrees up and to my left, out into the atmosphere. At it's fastest rate, it looked just a little slower than a shooting star.  I was looking south/slightly southwest the entire time.  It was still very dark, enough so to still be able to see all the stars in the sky. I was going to call the local airports to see if they noticed anything unusual on their radars at that time, but didn't think I could get through to the controllers, or whether they would give me the information if I could get through.  If you can get that type of information, I would appreciate you letting me know what they picked up on their equipment.  Thanks.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09739.html](http://www.nuforc.org/webreports/reports/009/S09739.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164674.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164680.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164641.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164888.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
