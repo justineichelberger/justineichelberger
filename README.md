@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:38 on 14 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:35 on 14 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Chandler (OK) reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>There were two sets that with the naked eye appeared round.  They were above us in Chandler, Oklahoma, for about 10 and 20 minutes.  Through a pair of binoculars they reminded us of wheels inside of wheels.  They lifted up and out rather quickly then one returned and stayed for a bit longer before fading out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148863.html](http://www.nuforc.org/webreports/reports/148/S148863.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Blossvale (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Fire ball chase.We were driving on rt 49 headed towards oswego rd once we hit erie canal village i noticed about 1,000 ft up in the sky there was a bright white tear drop shaped object it did not flash or change colors it almost looked as it was just haning there on a invisiable string. Once we got to oswego rd i noticed noticed a red and green flying object in the shape of a triangle it was hovering the whole way up oswego rd until we hit pine haven trailer park once we entered the park there was a huge round object that was travling at a fast speed and looked like there was a huge fire ball under it and almost looked like there was a red glow around it almost like a shield or ring behind it was another red and green flashing triangular object almost as if it were chasing the fire ball object.  That was headed towards the tear drop and right before it could even make it to the tear drop it litteraly just dissapered there was no light trail or anything just gone right after, that the tear drop dissapered as well and the flashing red and green object was left once i got to my house we could see four of fhe flashing red and green triangular objects hovering pretty much surrounding the perimeter ob the tear drop that dissappered almost like they were waiting for the teardrop and fire ball come back and this is not the first time we have seen red and green flashing objects or the tear drop we  have seen this quite a bit in the past two.month months well the red and green more than anything and i would say the tear dropi would say this was my fifth time seeing that in two months period but this was the first time i.ever saw the fire ball and the first time i have ever seen a chase it was about 8pm every star was bright and visible it was cold  and while taking the video my phone died but i still caught sone of it</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102164.html](http://www.nuforc.org/webreports/reports/102/S102164.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164674.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164680.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164641.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164888.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
