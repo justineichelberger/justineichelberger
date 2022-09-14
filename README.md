@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:30:16 on 14 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:53:57 on 14 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Laurel (MD) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I saw a orange/red glowing object that stopped glowing and then moved, at a very high rate of speed, out into space at about a 20-30 degree angle.I was walking my dog past the Maryland City Elementary school down the street from my house at approx. 6am.  As we were passing the school heading down Crumpton South, I noticed what appeared to be a planet sized orange/red object in the sky.  It was at about 40 degrees above the horizon (facing south/southwest). At first I thought it was mars or mercury, but it seemed to big to be a planet (appeared a little bigger than I have seen Venus). I kept walking while watching the object.  It appeared to become slightly bigger, so I stopped before I reached a group of trees that would block my view so I could see if it was moving like an airplane with its lights on.  It wasn't, so I started walking again and thinking about what it could be.  When I got past the trees to where I could see it again, it had changed from an orange/red glow to a single white light(much smaller), like you would see on a plane.  It blinked once, maybe twice, then moved in a quickly accelerating motion at approx 20 degrees up and to my left, out into the atmosphere. At it's fastest rate, it looked just a little slower than a shooting star.  I was looking south/slightly southwest the entire time.  It was still very dark, enough so to still be able to see all the stars in the sky. I was going to call the local airports to see if they noticed anything unusual on their radars at that time, but didn't think I could get through to the controllers, or whether they would give me the information if I could get through.  If you can get that type of information, I would appreciate you letting me know what they picked up on their equipment.  Thanks.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09739.html](http://www.nuforc.org/webreports/reports/009/S09739.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Milon Keynes (UK/England) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Bright Orange Orb Milton Keynes, England 14/09/2007Today there is some cloud cover in the sky but not much. I saw a big break in the clouds at the time I saw a bright Orange Orb. It was not flashing and there were no lights. It moved left to right twice over a distance and then it looked as if it was moving away from me, and then disappeared. The object was quite high in the sky higher than the clouds coming over head. There was only one Orb in the sky that I could see also to the right of it there was a big contrail dispersing in the sky with X shaped trails to the left.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58728.html](http://www.nuforc.org/webreports/reports/058/S58728.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164674.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164680.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164641.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164888.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
