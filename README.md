@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:42 on 13 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:01:12 on 14 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Ypsilanti (MI) reported seeing craft that fit the description of some 'Changing' over a period of approximately Several Hours - Several Hours minutes.</sub><blockquote><sub>Very bright object hovered aboved the treetops for a long time before moving extremely slowly toward the westThe object was high above the treetops to the southeast, and was stationary for at least 45 minutes.  When it did move, it moved extremely slowly and moved in a circular direction.  It then stopped temporarily, and then began to move very slowly again, but this time in a trajectory to the right or west, but each time it did this, it would stop, and start going in a circle toward the east once again as if to stay above the treetops.   After a few minutes, it would begin the trajectory to the west again, each time climbing higher into the sky.   With time, the object made its way high enough into the sky that it need not attempt to venture back toward the treetops.  At the beginning, the object appeared to look like a cylinder with one part divided into two parts, with antennas coming off the top and from the middle section.   When it began the trajectory portion of its journey the object took on an oval shape resembling an eye with multi-colored lights projectin! g from underneath its shape.   Another shape that the object took on resembled a ball with spikes on all sides instead of soft edges.  The spikes took on multi-colored lights, green, red, white, and yellow.  At its highest elevation, the object resembled a cross between a round shape and an oval.  It was bright white in color, and continued to move extremely slowly as it climbed higher and higher into the sky.((NUFORC Note:  Possible sighting of a star or planet??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72285.html](http://www.nuforc.org/webreports/reports/072/S72285.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>3 Lighted Objects Spotted in Chicago 9-14-2012We got a call from a relative 2 miles away. He wanted us to look up in the sky southeast. There were three lighted objects, rotating and changing in color. They were in a straight line formation, diagnal. Video footage shows them in a nearly triangular shape. We spotted them -- watched for almost a minute and one by one they disappeared.  Weather forecast reported clear skies!  Objects were chaning color, moving quickly in a straight line across the sky. Reportedly from the west to the east. Colors ranged from green, orange, red, white and yellow-ish. Last light seen seemed to leave a trail of orange sparks behind it. It was not an airplane. Flying too low and too close to each other. Def. not an airplane becuase of the space between each object and the formations in which the objects evolved.Watched hours of UFO youtube footage and have been able to identify similar objects in ohter videos, including footage from Illinois area in the last month.ABSOLUTELY AMAZING SIGHT!!!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92775.html](http://www.nuforc.org/webreports/reports/092/S92775.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164594.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164658.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164596.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165008.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164654.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
