@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:34 on 14 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:45 on 14 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Perfect orange orb shape UFO splits in several before disappearing. Over ATLANTIC OFF MYRTLE BEACHStarted as 1 light in two different close areas off Myrtle Beach to the east over the Atlantic. Bright orb shape each one each light was high above the horizon before a approaching rain several miles away. No lightening.  I went to get my camera after that went right back out and I saw ,  1 splits to 2 then 3,4,5  then disappeared.  Perfect circle shape.  No sound no blinking.  Zoom in shows the split of the PERFECT ORBS.  Orange and much larger then appear on camera</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159361.html](http://www.nuforc.org/webreports/reports/159/S159361.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Farmington (CT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>15-20 similar objects with orange light (no sound) seen moving across night sky from west to southMultiple similar circular objects with orange steady light moving across the night sky without sound, as many as 4 at a time, then 2 or 3 at a time continuing for up to a total seen of 15 to 20 all moving in the same direction from west to south.  Orange lights would fade out but could still see the outline of some of the objects continuing on the same course.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102180.html](http://www.nuforc.org/webreports/reports/102/S102180.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164674.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164680.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164641.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164888.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
