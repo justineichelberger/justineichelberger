@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:16:00 on 14 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:09:14 on 14 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Isle of Palms (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>7 lights sighted off of Isle of Palms, SC, 9/14/09Me and and friend of mine were walking down the beach just left of the IOP pier when i was stoped in my tracks by 3 orange lights in a line with the middle one closer than the outside two.  The three ufo's started to rotate counter clockwise and another light droped staight down from the center at a rapid rate of speed about twice as fast as free fall.  All four of the lights disappeared and showed up three more times.  The second time it was only one light that stayed in place for 5 seconds and disappeared. The third time there were 5 lights that were seeming to be in a flight patteren.  The fourth time there were 7 lights in a line very close to each other rotating counter clockwise.  These lights were about 5-7 times the size of a Boeing 747.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72305.html](http://www.nuforc.org/webreports/reports/072/S72305.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Worcester (MA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Fireballs seen above Route 290 near Holy Cross CollegeDriving towards Auburn, MA on Route 290 near Holy Cross.  Two fireballs above the road.Orange, blue, red.  Hovering.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92814.html](http://www.nuforc.org/webreports/reports/092/S92814.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164674.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164680.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164641.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164888.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
