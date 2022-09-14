@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:45 on 14 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:39 on 14 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Farmington (CT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>15-20 similar objects with orange light (no sound) seen moving across night sky from west to southMultiple similar circular objects with orange steady light moving across the night sky without sound, as many as 4 at a time, then 2 or 3 at a time continuing for up to a total seen of 15 to 20 all moving in the same direction from west to south.  Orange lights would fade out but could still see the outline of some of the objects continuing on the same course.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102180.html](http://www.nuforc.org/webreports/reports/102/S102180.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Glendale (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>PHOENIX TRIANGLE U.F.O SPOTTED AGAIN- SEP/ 14/ 2002 AT 12:05 AMI had just stepped outside to smoke a ciggaret, facing dew south.  Just as I had lit the ciggarette a what I thought to be a shooting star appered out of the corner of my eye.  The only thing unussuall about this paticular shooting star was that it was fairly large, headed straight for the ground, instead of accross the sky, and it was so bright yellow I had never seen anything like it before. Then as soon as the shooting star faded, directly behind it I saw 4-5 very faint but organized what appered to be stars.  Except that these stars shaped like a rounded triangle.  And by that mean the lines we not straight but instead curved just so. Another characteristic that ws very peculier was that they to have moved very slowly but always staying the excattly the same distance apart.  Which may suggest 4-5 objects flying in formation or one large ship with just its perimiter lights on for lack of a better term. So in other words it just defined the outline of the ship.  The ship came out of the Eastern sky heading west at about 10 miles an hour tops, assumeing that in flying terms that is very slow. It almost seemed to creep along at a snails pace.  After heading west for about two solid minutes it then turned south and headed directly towards south mountain where alot of other sightings have accured.  I also believe that this is the same ship that was wittnessed on march 16 1997 over presscott, paulden, glendale, and then finnally in Tucson all on the same night.  This triangle shaped ship seems to almost haunt Phoenix, Presscott, and all of Arizona.((NUFORC Note:  We observe that it is surmise to assume the object described here is the same as any of the multiple objects observed on March 13, 1997.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25057.html](http://www.nuforc.org/webreports/reports/025/S25057.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164674.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164680.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164641.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164888.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
