@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:53:57 on 14 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:49:20 on 14 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Milon Keynes (UK/England) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Bright Orange Orb Milton Keynes, England 14/09/2007Today there is some cloud cover in the sky but not much. I saw a big break in the clouds at the time I saw a bright Orange Orb. It was not flashing and there were no lights. It moved left to right twice over a distance and then it looked as if it was moving away from me, and then disappeared. The object was quite high in the sky higher than the clouds coming over head. There was only one Orb in the sky that I could see also to the right of it there was a big contrail dispersing in the sky with X shaped trails to the left.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58728.html](http://www.nuforc.org/webreports/reports/058/S58728.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Marco Island (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately over an hour - over an hour minutes.</sub><blockquote><sub>many ufos forming shapes together over gulf of mexico, one entered watermy father called me telling me he was seeing Glowing orange balls of light, many of them, forming shapes together, circles, straight lines, triangles even looking like they are arranging letters. They would disappear and reappear,  one entered the Gulf of Mexico, others hovered over water in circle. Shapes visible from beach.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77839.html](http://www.nuforc.org/webreports/reports/077/S77839.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164674.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164680.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164641.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164888.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
