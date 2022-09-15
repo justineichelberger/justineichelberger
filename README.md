@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:34 on 15 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:36 on 15 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Pomona (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>object was heading north toward mt.baldy,reversed course(on a dime)headed south traversed the sky.about a fist away from moon it zig zaged 3times ..disappeard...reappearing and disappearing 3 times in all...lost sight of it ..last seen going south.it looked like a star.same as above.   i was outside smoking a cigg.i seewhat i thought was a very high altitude aircraft..but no beacn lights.it was headed north towards mt. baldy ..then the damn thing stops!!and goes in the opposite direction!1imean on a dime too!!crosses the entire sky .mean while im screaming to my 20 year old son "get out here!!he came so did my wife ...and we watched the object stall zig zag 3 times  and move on  when it disappeared and reappeared 3 times ...lost track of it ..heading south.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09766.html](http://www.nuforc.org/webreports/reports/009/S09766.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Columbia Falls (MT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Bright object seen close up in Montana '99My girlfriend was driving.  I was in the passenger seat.  We were headed to my house late at night.  The forest was thick along the road but opens at one point to a clearing.  We drove into the clearing and were surprised beyond belief.  The clearing was illuminated as if it was daytime. In the clearing at about 300 feet was a massive glowing object the size of a cruise ship.  It was football shaped and glowing a fluorescent blue/green that was the most beautiful thing I've ever seen.  Although it was illuminating all around we could see it clearly without hurting our eyes.  We were only about 200 yards from it. I said,"do you see that?!" and my girlfriend replied,"of course I (bleeping) see it!"  She slowed the car as we watched it but it shot off over the mountains like something out of Star Wars.  Then we were both gripped by a paralyzing fear like nothing I've ever felt before or since.  When I say fear, I sincerely mean it.  My very soul was struck in fear.  What we saw shook us to our core.  We drove to my house and talked about it for hours trying to console ourselves.  We were afraid it would come back and still felt its presence although we saw it shoot off and away.  For over ten years now I have thought of it everyday and am now afraid of the dark and of being alone.  I'm a grown man but the memory of that fear has left its mark deeply.  Years later I looked up my girlfriend on Facebook and asked her about it.  She was amazed I brought it up but I wanted to make sure it wasn't something I mistook.  We talked about it for awhile but we both felt the fear again and stopped talking to each other altogether.  The fear of that thing we saw is still real.  I wish I could describe it better.  It froze my blood. I am finally reporting it because of it being on my mind every single day.  It may be childish but the feeling of that fear is with me every night.  The fear always makes me think more happened and we don't remember.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103665.html](http://www.nuforc.org/webreports/reports/103/S103665.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [790](http://www.nuforc.org/webreports/reports/164/S164668.html)
-- [789](http://www.nuforc.org/webreports/reports/164/S164798.html)
-- [788](http://www.nuforc.org/webreports/reports/164/S164652.html)
-- [787](http://www.nuforc.org/webreports/reports/164/S164656.html)
-- [786](http://www.nuforc.org/webreports/reports/164/S164655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
