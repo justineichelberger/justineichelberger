@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:03:14 on 15 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:33 on 15 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1969, an anonymous witness in Merced (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>One evening when I was returning from classes at the local college, I was driving west on M Street that at that time led back into town from where the college was located on the outskirts.  Merced is located about six miles, I believe south, from Castle Air Force Base, which at that time was a SAC base.  It was very dark, as there were no street lights yet erected, and very little housing along the road.  As I approached town I looked to my right, and out in the field there appeared to be a cone of light shining down from somewhere high in the sky.  My heart started pounding, so I pulled over to the side of the road, and rolled my window down to see if it was possibly a helicopter of some sort.  The cone of light was devoid of light in its center, which is a little hard to explain just how it appeared to me.  It was as if only the edges of the cone were lighted, and the interior was hollow.  It was static, never moved as far as I can remember, but every exact in its appearance.  I sat and watched it for several minutes, never hearing any sound at all.  I assumed any helicopter would have made a sound, but all was silence.  Merced at the time was a very small town, and there were no cars on the road, or foot traffic on the road that night.  I sat there entranced until all of a sudden the cone of light sucked up into itself ... just disappeared as if it had never happened.  With my heart still pounding, and shaking like a leaf, I started the car, drove to my parnets house, and woke my dad up from a sound sleep. I insisted he call the air base to see if they'd spotted anything unusual on their radar, or if they'd received any more reports of a strange sighting.  I spoke with them myself then, and they assured me nothing unusual had been reported, or sighted ... I still, to this day, don't believe them, because I know what I saw, and didn't hear.  I can remember how eerily calm the night was, and how totally enchanting the sight was to see a hollow cone of light shining down from high in the sky onto nothing, only a few hundred feet from my car.  As a photographer I'm usually very observant, critical, and attuned to trusting my eye.  There was definetly something strange in the sky that night for me to remember it so vividly today. Since ...  I have seen an irregular triangle of lights hovering above the 405  freeway on the way back from Mexico, and a strange brilliant flash of green light that covered most of the sky, as far as the eye could see, in the area around the San Onofre nuclear plant, and another time coming over what is commonly know as "The Grapevine", a section of what is now Interstate Five between Los Angeles, and Bakersfield.  My daughter, and I both witness a bright red light bouncing all over the sky.  On the other two occassions my daughters also witnessed the phenomenem</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44102.html](http://www.nuforc.org/webreports/reports/044/S44102.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Sandy (OR) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>2 saw it.Was 300 or 4oo feet long didn't see both ends very well looked like brushed aluminum no lights or sound.  It just stayed there than vanished 1 or 2 miles away 2 o'clock after noon</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118482.html](http://www.nuforc.org/webreports/reports/118/S118482.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [790](http://www.nuforc.org/webreports/reports/164/S164668.html)
-- [789](http://www.nuforc.org/webreports/reports/164/S164798.html)
-- [788](http://www.nuforc.org/webreports/reports/164/S164652.html)
-- [787](http://www.nuforc.org/webreports/reports/164/S164656.html)
-- [786](http://www.nuforc.org/webreports/reports/164/S164655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
