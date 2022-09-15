@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:41 on 15 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:39 on 15 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Bethel (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>two stars rotating 180 degrees and spliting apartTwo points of light, just like stars, started rotating in a perfect circle they were 180 degrees apart, then reversed direction staying 180 degrees, then reversed again.Then they stopped and split apart on a line. I lost track of one of them and the other stopped and just looked any star in the night sky. thats it!((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59080.html](http://www.nuforc.org/webreports/reports/059/S59080.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Hamilton (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was walking with my father heading north.  Just after 2pm, I heard a jet in the sky, i looked up and seen a privet jet and on its right side tailing it was a glow of light following along side.  Have never seen anything like it,  I told my father to look but he didn't see it, being 83.  Thought i was seeing things, I told him what i just seen.  I'm sure if you contacted Mount Hope airport in Hamilton, the prvt jet would of been on the radar.  Just after or around 2pm ....heading north/northeast over the city of Hamilton.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129962.html](http://www.nuforc.org/webreports/reports/129/S129962.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [790](http://www.nuforc.org/webreports/reports/164/S164668.html)
-- [789](http://www.nuforc.org/webreports/reports/164/S164798.html)
-- [788](http://www.nuforc.org/webreports/reports/164/S164652.html)
-- [787](http://www.nuforc.org/webreports/reports/164/S164656.html)
-- [786](http://www.nuforc.org/webreports/reports/164/S164655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
