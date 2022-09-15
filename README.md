@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:15:24 on 15 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:10:50 on 15 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in Wootton Bridge, Isle of Wight (UK/England) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Squat 'arrow' shaped craft seen over Wootton on the Isle of WightWalking across the recreation ground, my friend and I saw a light rising in the distance. As it did so, it appeared to 'jettison' a stream of falling lights as it rose. This caught our attention, and we stopped to watch this strange object. The main light continued to move, and over the next minute of watching it became clear it was coming our way. I'm not sure how we realised this, time having dimmed my recollection. But, we were aware of a shape that blocked out the stars as it moved (it was a very clear night), and in the event the craft moved directly over us. Its shape was like a triangle added to a square - so a 'squat arrow' shape. The triangle point was the 'nose'. It was completely silent. As it passed over us it was larger than a hand-span at arm's length. Once we were viewing the flat rear of the craft as it moved away from us, three large round white 'engine ports' were clearly visible. As it slowly flew out over the Solent, we saw a commercial aircraft (probably a passenger jet) flying across the sky also. It was in the same 'general' airspace, so I've wondered whether anything else was reported. It's all so long now that I can't be sure of the precise year it happened, let alone the date. But I know I was about 15, it was a cold, clear dark night, and I remember hurrying home with my friend to tell my mum and dad. They weren't particularly interested. I wrote it all down, but the notes have long since disappeared. I often wonder whether other reports might describe something similar. But I am also interested by my own lack of drive to research more.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45469.html](http://www.nuforc.org/webreports/reports/045/S45469.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1972, an anonymous witness in Panama City (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>This was more of an audible sighting instead of a visual. At approx. 3:00 in the morning, my backyard suddenly lit up with a brilliant bright, white light.  The light came from above the trees because the shadows looked like shadows at noon.  There was no wind to disturb any of the trees or shrubbery.  Above the trees were yellow and red strobing lights.  Accompaning the bright lights was a very high pitch warbling sound (think typical sci-fi sound effect).I pulled on some pants and ran outside with my dad but by this time the object had turned on what sounded like a jet engine and headed toward the east.  The warbling continued but the primary sound was one of a jet.With the departure of the object, everything returned to quiet.We have rarely spoken about this incident.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34072.html](http://www.nuforc.org/webreports/reports/034/S34072.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [790](http://www.nuforc.org/webreports/reports/164/S164668.html)
-- [789](http://www.nuforc.org/webreports/reports/164/S164798.html)
-- [788](http://www.nuforc.org/webreports/reports/164/S164652.html)
-- [787](http://www.nuforc.org/webreports/reports/164/S164656.html)
-- [786](http://www.nuforc.org/webreports/reports/164/S164655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
