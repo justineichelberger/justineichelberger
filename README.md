@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:08:49 on 15 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:34 on 15 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Gainesville (GA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>16 orange lights in shape of butterflySaw 16 orange lights in the shape of what appeared to be a butterfly in sky for about 5 to 10 minutes and then they separated into 16 orange lights and went different directions????</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102188.html](http://www.nuforc.org/webreports/reports/102/S102188.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Hawkinsville (GA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Sept 1998 hawkinsville,ga. 10-15minconsciously 3men flat silver disk.Me n 2 friends left a frinds in a old 77pickup and i immediately saw disk begin following us.  i got frinds attention and as he looked him and i were completely shocked, scared, confused, and petrified by fear becuz ths flat colored silver disk was only 50-60ft frm us and it was real and totally silent. It followed rite bside us 3quartrs mile exact speed as us until 200yrds b4stopsign.it was instantly 200yrd front of us only 40ft above ground n we were stopd but dont remembr stoppng it crept so slowly towards us for 6 min at least until directly above us as we were litteraly scared to death.  It was 30 plus ft across length of it no matter where measured.  Perfect circle with 3yellow lites on bottom that were clear and looked like glass and circle in shape and were positioned trianagle from one anothr.  Couldn't distinguish any part of object as being the frnt, bk or sides.  lookd exactly same all way around it.  we saw ths disk travel in 6 diffrnt directions by somethng controlling its direction.  We were terrified whole time</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129257.html](http://www.nuforc.org/webreports/reports/129/S129257.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [790](http://www.nuforc.org/webreports/reports/164/S164668.html)
-- [789](http://www.nuforc.org/webreports/reports/164/S164798.html)
-- [788](http://www.nuforc.org/webreports/reports/164/S164652.html)
-- [787](http://www.nuforc.org/webreports/reports/164/S164656.html)
-- [786](http://www.nuforc.org/webreports/reports/164/S164655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
