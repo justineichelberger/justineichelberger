@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:34 on 15 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:45 on 15 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Hawkinsville (GA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Sept 1998 hawkinsville,ga. 10-15minconsciously 3men flat silver disk.Me n 2 friends left a frinds in a old 77pickup and i immediately saw disk begin following us.  i got frinds attention and as he looked him and i were completely shocked, scared, confused, and petrified by fear becuz ths flat colored silver disk was only 50-60ft frm us and it was real and totally silent. It followed rite bside us 3quartrs mile exact speed as us until 200yrds b4stopsign.it was instantly 200yrd front of us only 40ft above ground n we were stopd but dont remembr stoppng it crept so slowly towards us for 6 min at least until directly above us as we were litteraly scared to death.  It was 30 plus ft across length of it no matter where measured.  Perfect circle with 3yellow lites on bottom that were clear and looked like glass and circle in shape and were positioned trianagle from one anothr.  Couldn't distinguish any part of object as being the frnt, bk or sides.  lookd exactly same all way around it.  we saw ths disk travel in 6 diffrnt directions by somethng controlling its direction.  We were terrified whole time</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129257.html](http://www.nuforc.org/webreports/reports/129/S129257.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Trinidad (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Around 8:30PM at dusk 2 disc shaped, dull/ white in color flew side by side in a perfectly straight line from East to west in the southern sky at a very high rate of speed, well over the speed of sound suddenly stopped perfectly together and shot off dead south towards New Mexico. Though out the night we witnessed  up to 50 of these discs dancing throughout the sky from a dull color and would light bright white when making sudden stops and cuts. At one point about 30-40 of these disc formed together, almost like a swarm of bees slowly moving from west to south eventually shooting dead south in a flash. I took 2 videos on my phone thinking it would not be powerful enough to capture the dull, silent fast disc...rechecking, I did capture them! Never seen anything like it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151344.html](http://www.nuforc.org/webreports/reports/151/S151344.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [790](http://www.nuforc.org/webreports/reports/164/S164668.html)
-- [789](http://www.nuforc.org/webreports/reports/164/S164798.html)
-- [788](http://www.nuforc.org/webreports/reports/164/S164652.html)
-- [787](http://www.nuforc.org/webreports/reports/164/S164656.html)
-- [786](http://www.nuforc.org/webreports/reports/164/S164655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
