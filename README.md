@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:45 on 15 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:06:10 on 15 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Trinidad (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Around 8:30PM at dusk 2 disc shaped, dull/ white in color flew side by side in a perfectly straight line from East to west in the southern sky at a very high rate of speed, well over the speed of sound suddenly stopped perfectly together and shot off dead south towards New Mexico. Though out the night we witnessed  up to 50 of these discs dancing throughout the sky from a dull color and would light bright white when making sudden stops and cuts. At one point about 30-40 of these disc formed together, almost like a swarm of bees slowly moving from west to south eventually shooting dead south in a flash. I took 2 videos on my phone thinking it would not be powerful enough to capture the dull, silent fast disc...rechecking, I did capture them! Never seen anything like it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151344.html](http://www.nuforc.org/webreports/reports/151/S151344.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Glenarm (IL) reported seeing craft that fit the description of some 'Changing' over a period of approximately several hours - several hours minutes.</sub><blockquote><sub>Shape changing star explodes into a beautiful rainbow, and returns to original shapeFor the past few weeks I have observed a star in the sky that appeared to be changing colors. I took pictures and got amazing results.  On this particular night as I was watching it, it literally exploded into color(I, could see it with my own eyes) creating a beautiful rainbow effect and I captured a beautiful picture of it, as I had my camera rolling on a timer.  Within a few seconds a fountain like falling star lit up the sky, which I was able to catch on my camera.  I have numerous photo's of this (what I thought was a star) changing shape, changing orbit and changing color. I would love to know what it is. Meteor or Comet?   the item is located (straight west is 12 o'clock) at approximately 10:30 the first times I saw it and it rose. It is now appearing high in the sky, approximately 60 degrees, and lowering in the sky.  It definately has its own orbit, unique from the other stars. I have captured several pictures of the item changing shape. I am using a Nikon D5000  I will forward the pictures to you via email.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84167.html](http://www.nuforc.org/webreports/reports/084/S84167.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [790](http://www.nuforc.org/webreports/reports/164/S164668.html)
-- [789](http://www.nuforc.org/webreports/reports/164/S164798.html)
-- [788](http://www.nuforc.org/webreports/reports/164/S164652.html)
-- [787](http://www.nuforc.org/webreports/reports/164/S164656.html)
-- [786](http://www.nuforc.org/webreports/reports/164/S164655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
