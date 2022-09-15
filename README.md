@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:15:33 on 15 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:08:49 on 15 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1987, an anonymous witness in Liverpool (NY) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Cigar-shaped object with three white lights above LongBranch Elementary School, Liverpool, NYI am sorry I cannot be more specific on date or time of the event, as this was when I was attending elementary school (3rd or 4th grade).  Therefore, I have given as many details as I can below that further clarify the information I’ve entered in other fields.Date: Fall of 1987 or 1988 Location: Longbranch Elementary School, Liverpool, central upstate New York Google Maps: http://goo.gl/maps/Y4Kp Time:  Morning, between 7 and 8 am EST Weather: overcast, fairly low cloud  Details: I was on my way into the front doors of my elementary school one morning, just after getting off the bus, when I felt the urgent need to look up.  When I did, I saw a cigar-shaped object (it appeared dark grey, to me) with three, evenly-spaced circular white lights appear in an opening in the clouds.  There was absolutely no sound, so I knew (intuitively) that it wasn’t an airplane.  The object did not appear to move while I was looking at it, and after 1 to 3 seconds, the clouds seemed to close in and cover up the object.As far as I know, there were no other witnesses.  I was facing west as I entered the school, and the object appeared directly above the school.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91241.html](http://www.nuforc.org/webreports/reports/091/S91241.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Gainesville (GA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>16 orange lights in shape of butterflySaw 16 orange lights in the shape of what appeared to be a butterfly in sky for about 5 to 10 minutes and then they separated into 16 orange lights and went different directions????</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102188.html](http://www.nuforc.org/webreports/reports/102/S102188.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [790](http://www.nuforc.org/webreports/reports/164/S164668.html)
-- [789](http://www.nuforc.org/webreports/reports/164/S164798.html)
-- [788](http://www.nuforc.org/webreports/reports/164/S164652.html)
-- [787](http://www.nuforc.org/webreports/reports/164/S164656.html)
-- [786](http://www.nuforc.org/webreports/reports/164/S164655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
