@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:01:05 on 15 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:42 on 15 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Air Force jets chased triangular UFO over Las Vegas, NV. one mile west of Nellis AFBWhile living in Las Vegas, NV. less than one mile west of Nellis AFB where my husband was stationed, I stepped out into our back yard one evening during early fall around 20:00. It was dusk. I looked straight overhead as I heard jet engine sounds. Two fighter jets were chasing a triangular UFO at fairly low altitude. The shape of the UFO was not clearly defined due to it being dusk, but the object appearing dark,had faint,fairly large circular lights in the shape of a triangle. Three in back and one in front. The object was not much larger than the jets.I called Nellis afterwards to report it, but they seemed uninterested and said there are no UFO's.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163654.html](http://www.nuforc.org/webreports/reports/163/S163654.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Salem (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.005 - 0.005 minutes.</sub><blockquote><sub>We saw a bright green object that looked like a comet or shooting star but it moved very slowly.My wife and I were driving East on State St. Between Lancaster Dr. Cordon Rd. When suddenly from no where appeard in front of us a bright green light. It appeared to be falling and had a tail that you would expect to see on a fast moving burning object, but was desending very slowly as if it had no wieght what so ever. It looked as if it decended into the Cascade Mountains somewhere. It was nearly Impossible to judge the distance to this thing It could have been a couple of miles away or it could have been a couple of hundred miles away. One reason I desided to report this now is that I noticed that some one in the Dallas,Or. Reported something that sounded very similar on 10/18/98</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07933.html](http://www.nuforc.org/webreports/reports/007/S07933.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [790](http://www.nuforc.org/webreports/reports/164/S164668.html)
-- [789](http://www.nuforc.org/webreports/reports/164/S164798.html)
-- [788](http://www.nuforc.org/webreports/reports/164/S164652.html)
-- [787](http://www.nuforc.org/webreports/reports/164/S164656.html)
-- [786](http://www.nuforc.org/webreports/reports/164/S164655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
