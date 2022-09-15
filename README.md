@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:34:35 on 15 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:26:35 on 15 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Bishop (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Large sphere witnessed at music festival.One night myself and a couple friends were off-roading in the foothills behind Millpond in Bishop, Ca. We stopped at one point to look down into the valley to look at the lights coming from the music festival that happens every year there. We noticed a light coming from farther back into the hills and all noticed how the light neither changed position, nor intensity as it came towards us. It was distant enough that we could not make out any detail as to what it was or its size, but just upon casual observation, it was obvious it was not a car or anyone carrying a light.  I jokingly flashed an SOS at it a few times. Our friend who was driving us around in his truck said he had to go, so he could take his mom to work. So we jumped into his pickup, a Nissan extra-cab, and drove back into town.I had thought nothing of the incident until my Mom had asked me a number of days later if I had seen the UFO article in the Register newspaper. It described a ball of light some 100-200 feet in diameter, and how it had passed over the Millpond area and the sighting of it by hundreds of people, there was also a contact number in the article (at the end IIRC) for anyone that had anything to say about it, I don't believe the number was a local one. I believe it is still on microfilm at the local paper.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62369.html](http://www.nuforc.org/webreports/reports/062/S62369.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Edmond (OK) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Crash site is known as Cherry Farm Edmond Oklahoma 1998While drinking a cup of coffee on my front lawn and listening to the band of our local junior college a half mile north of my house  I suddenly saw a small four to five foot cylinder like object flying very very slowly about 25 feet off the ground coming north to south between my house and my next door neighbor.  It was silent.  It slowed to a stop, it had a small cockpit on the south top side, I noticed light smoke inside the cockpit,it then started moving again and appeared to be having trouble, it headed down directly into the woods and disappeared from my view, it either landed or crashed into the area across the street known as the Cherry Farm, a neighbor and myself did a light search but never found it, this is private property and in my opinion it is still there. I have never talked about it because its hard to believe, I would be more than happy to have my neighbor talk to you and confirm this account.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72781.html](http://www.nuforc.org/webreports/reports/072/S72781.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [790](http://www.nuforc.org/webreports/reports/164/S164668.html)
-- [789](http://www.nuforc.org/webreports/reports/164/S164798.html)
-- [788](http://www.nuforc.org/webreports/reports/164/S164652.html)
-- [787](http://www.nuforc.org/webreports/reports/164/S164656.html)
-- [786](http://www.nuforc.org/webreports/reports/164/S164655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
