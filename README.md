@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:10:50 on 15 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:39 on 15 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1972, an anonymous witness in Panama City (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>This was more of an audible sighting instead of a visual. At approx. 3:00 in the morning, my backyard suddenly lit up with a brilliant bright, white light.  The light came from above the trees because the shadows looked like shadows at noon.  There was no wind to disturb any of the trees or shrubbery.  Above the trees were yellow and red strobing lights.  Accompaning the bright lights was a very high pitch warbling sound (think typical sci-fi sound effect).I pulled on some pants and ran outside with my dad but by this time the object had turned on what sounded like a jet engine and headed toward the east.  The warbling continued but the primary sound was one of a jet.With the departure of the object, everything returned to quiet.We have rarely spoken about this incident.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34072.html](http://www.nuforc.org/webreports/reports/034/S34072.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1976, an anonymous witness in Llanelli, Dyfed (UK/Wales??) () reported seeing craft that fit the description of some 'Other' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Cuboid app. 15ft - non reflective matt color, with red, blue, yellow lights with polymorphic abilitiesCuboid with half hemispheres (like domes) one on each side, we only saw three facets, left, lower, and right due to being almost underneath it. It resonated when it moved, about 5 mph. It followed the electricity wires, and hung by a similar matt black attachment from a void above it, like a rip in the sky but with soft edges.  The cuboid didn't halt when it got to the steelwork of the pylon, it passed through it and retained its shape.  We got freaked out at that.  Then it noticed us and then stopped for about five seconds, hovering perfectly still, with no noise. It was watching us.  We felt as though it had registered us and then continued to go on along the grid over the housing estate at a height of about seventy five feet. Remarkably, no one but us saw it that night.  I was 7 years old, and no one would listen to me. Me and my step brother kind of just looked at each other with bemusement.  But it has caused severe problems with my relationships.  I feel totally alienated from humanity...and abandoned by that whatever it was.  It just went off like we just didn't matter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08609.html](http://www.nuforc.org/webreports/reports/008/S08609.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [790](http://www.nuforc.org/webreports/reports/164/S164668.html)
-- [789](http://www.nuforc.org/webreports/reports/164/S164798.html)
-- [788](http://www.nuforc.org/webreports/reports/164/S164652.html)
-- [787](http://www.nuforc.org/webreports/reports/164/S164656.html)
-- [786](http://www.nuforc.org/webreports/reports/164/S164655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
