@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:42 on 15 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:34 on 15 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Salem (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.005 - 0.005 minutes.</sub><blockquote><sub>We saw a bright green object that looked like a comet or shooting star but it moved very slowly.My wife and I were driving East on State St. Between Lancaster Dr. Cordon Rd. When suddenly from no where appeard in front of us a bright green light. It appeared to be falling and had a tail that you would expect to see on a fast moving burning object, but was desending very slowly as if it had no wieght what so ever. It looked as if it decended into the Cascade Mountains somewhere. It was nearly Impossible to judge the distance to this thing It could have been a couple of miles away or it could have been a couple of hundred miles away. One reason I desided to report this now is that I noticed that some one in the Dallas,Or. Reported something that sounded very similar on 10/18/98</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07933.html](http://www.nuforc.org/webreports/reports/007/S07933.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Pomona (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>object was heading north toward mt.baldy,reversed course(on a dime)headed south traversed the sky.about a fist away from moon it zig zaged 3times ..disappeard...reappearing and disappearing 3 times in all...lost sight of it ..last seen going south.it looked like a star.same as above.   i was outside smoking a cigg.i seewhat i thought was a very high altitude aircraft..but no beacn lights.it was headed north towards mt. baldy ..then the damn thing stops!!and goes in the opposite direction!1imean on a dime too!!crosses the entire sky .mean while im screaming to my 20 year old son "get out here!!he came so did my wife ...and we watched the object stall zig zag 3 times  and move on  when it disappeared and reappeared 3 times ...lost track of it ..heading south.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09766.html](http://www.nuforc.org/webreports/reports/009/S09766.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [790](http://www.nuforc.org/webreports/reports/164/S164668.html)
-- [789](http://www.nuforc.org/webreports/reports/164/S164798.html)
-- [788](http://www.nuforc.org/webreports/reports/164/S164652.html)
-- [787](http://www.nuforc.org/webreports/reports/164/S164656.html)
-- [786](http://www.nuforc.org/webreports/reports/164/S164655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
