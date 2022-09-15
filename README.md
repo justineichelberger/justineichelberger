@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:26:35 on 15 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:15:24 on 15 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Edmond (OK) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Crash site is known as Cherry Farm Edmond Oklahoma 1998While drinking a cup of coffee on my front lawn and listening to the band of our local junior college a half mile north of my house  I suddenly saw a small four to five foot cylinder like object flying very very slowly about 25 feet off the ground coming north to south between my house and my next door neighbor.  It was silent.  It slowed to a stop, it had a small cockpit on the south top side, I noticed light smoke inside the cockpit,it then started moving again and appeared to be having trouble, it headed down directly into the woods and disappeared from my view, it either landed or crashed into the area across the street known as the Cherry Farm, a neighbor and myself did a light search but never found it, this is private property and in my opinion it is still there. I have never talked about it because its hard to believe, I would be more than happy to have my neighbor talk to you and confirm this account.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72781.html](http://www.nuforc.org/webreports/reports/072/S72781.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in Wootton Bridge, Isle of Wight (UK/England) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Squat 'arrow' shaped craft seen over Wootton on the Isle of WightWalking across the recreation ground, my friend and I saw a light rising in the distance. As it did so, it appeared to 'jettison' a stream of falling lights as it rose. This caught our attention, and we stopped to watch this strange object. The main light continued to move, and over the next minute of watching it became clear it was coming our way. I'm not sure how we realised this, time having dimmed my recollection. But, we were aware of a shape that blocked out the stars as it moved (it was a very clear night), and in the event the craft moved directly over us. Its shape was like a triangle added to a square - so a 'squat arrow' shape. The triangle point was the 'nose'. It was completely silent. As it passed over us it was larger than a hand-span at arm's length. Once we were viewing the flat rear of the craft as it moved away from us, three large round white 'engine ports' were clearly visible. As it slowly flew out over the Solent, we saw a commercial aircraft (probably a passenger jet) flying across the sky also. It was in the same 'general' airspace, so I've wondered whether anything else was reported. It's all so long now that I can't be sure of the precise year it happened, let alone the date. But I know I was about 15, it was a cold, clear dark night, and I remember hurrying home with my friend to tell my mum and dad. They weren't particularly interested. I wrote it all down, but the notes have long since disappeared. I often wonder whether other reports might describe something similar. But I am also interested by my own lack of drive to research more.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45469.html](http://www.nuforc.org/webreports/reports/045/S45469.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [790](http://www.nuforc.org/webreports/reports/164/S164668.html)
-- [789](http://www.nuforc.org/webreports/reports/164/S164798.html)
-- [788](http://www.nuforc.org/webreports/reports/164/S164652.html)
-- [787](http://www.nuforc.org/webreports/reports/164/S164656.html)
-- [786](http://www.nuforc.org/webreports/reports/164/S164655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
