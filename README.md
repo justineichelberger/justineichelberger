@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:29:12 on 15 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:56:02 on 15 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Sammamish (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I looked North toward Mt. Baker, I saw a bright light that hoovered for about 15 seconds, then shot up, then to my left, then disappeared. ((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36089.html](http://www.nuforc.org/webreports/reports/036/S36089.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1990, an anonymous witness in Greencastle (west of) (IN) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A silver-metallic hockey puck shaped object just hanging in the daytime sky.This sighting occurred during full-daylight, in a beautiful blue near-cloudless sky. I was traveling north on a popular rural route (Manhattan Road) in western Putnam County, when I noticed an object up in the sky probably many miles ahead of me at an altitude of several thousand feet. My first impression was it must be a balloon, but very quickly knew it was not one as it was completely motionless in the sky. While it was a fairly serene day, obviously anything in the sky such as a balloon at that altitude, would have been moving at least a little bit. Since it was in the sky ahead of me, I was able to try to watch it for several minutes, maybe as much as 10 minutes. But because I had a commitment that I had to be at, I couldn't stop, and of course I didn't have a camera to take a picture of it. The entire time I was viewing it, it never seemed to move. Rather it just hung there motionless in the air. I have never to this day have seen anything that could just stay motionless in the air, except this one object I saw in broad daylight. The best way to describe the shape of it is to compare it to a hockey puck. It appeared flat on two sides and perfectly circular in shape. The color was silver-metallic. I couldn't make out any features such as "windows", or "engine ports". The object's surfaces seemed perfectly smooth. While it looked like a hockey puck, it didn't lie flat in the sky, but was "tilted" at about 30 degrees. Once again, nothing about the appearance of the object during the time that I observed it changed. It never rotated on its own axis, or moved in the sky. It was clear to me that it was some kind of solid object, and not something "celestial" in the sky I was looking at. It finally was out of my view after driving about 15 miles, but when I was able to take a peak behind me in the sky, it was still there. I am an open-minded person, but always look for a logical solution first. This sighting to this day, still has me baffled as to what could just "hang in the sky".((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16596.html](http://www.nuforc.org/webreports/reports/016/S16596.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [790](http://www.nuforc.org/webreports/reports/164/S164668.html)
-- [789](http://www.nuforc.org/webreports/reports/164/S164798.html)
-- [788](http://www.nuforc.org/webreports/reports/164/S164652.html)
-- [787](http://www.nuforc.org/webreports/reports/164/S164656.html)
-- [786](http://www.nuforc.org/webreports/reports/164/S164655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
