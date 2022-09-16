@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:56:05 on 16 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:36:41 on 16 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Sebago (ME) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Strange slow moving light over Sebago maine.Me and a friend of mine were fishing for cat fish all night in the town of Sebago, on Sebago Lake.  I had noticed across the lake over by a large radio tower (near the town of Raymond), a strange whitish orange light.  It was just moving slowly then it had climbed high.  I thought that it was just a military jet. Then all of a sudden another one appeared by the radio tower.  Thinking, "It's just another jet,"  Then it started to dart left and right up and down and "wobble} in the sky.  I was starting too get vary curious about the object.  So I called my friend over too witness it too, and get his opinion on it.  He said oh its a helicopter.  Then he said no, they can't do those kinds of maneuvers that quickly. We had just watched it for about 15 or so minutes, then it started to hover over the lake (100/200 feet)but had no noise, just a whitish orange light.  So now we were getting spooked, so we quickly cleaned up our gear and moved back to the truck were we watched it for another 15 or so minutes. Then we noticed it was coming closer and closer too our side of the lake.  So we we're now getting out of there, seen enough of it, as we drove down Rt. 11 I had noticed that it was still moving slowly across the sky in the same direction as us, but in the distance.  Above tree level.  So he dropped me off at my house on Rt. 25 in Limington, it was still there.  But off in the distance.  He drove off, but I noticed from my bedroom window that it was still hovering (near or in the town of Standish).   I was a bit freaked out, so I locked my window, closed the curtain around 04:30.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92827.html](http://www.nuforc.org/webreports/reports/092/S92827.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Long Beach (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Last night I saw a roundish orange light come up from the west behind our neighbor's tree.  It was probably 100-200 feet up and steadily moved horizontally to the southeast out over the ocean before it blinked out.  I got a good look at it through my binoculars.  Sad to say, I was disappointed; I immediately recognized it as some kind of lantern.  I saw a burning flame surrounded by an egg-shaped transparent "plastic bag" and I could even see a few strings dangling from the bottom.  I called my wife out to take a look at it and she reached the same verdict.  No other orbs followed.This is not to say that I think all orange orb sightings are lanterns.  There have been numerous truly puzzling orb sightings that don't seem to match the description of something that was human-made.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130004.html](http://www.nuforc.org/webreports/reports/130/S130004.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [361](http://www.nuforc.org/webreports/reports/164/S164761.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164678.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164659.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164681.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164889.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
