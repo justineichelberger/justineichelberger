@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:36:41 on 16 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:27:45 on 16 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Long Beach (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Last night I saw a roundish orange light come up from the west behind our neighbor's tree.  It was probably 100-200 feet up and steadily moved horizontally to the southeast out over the ocean before it blinked out.  I got a good look at it through my binoculars.  Sad to say, I was disappointed; I immediately recognized it as some kind of lantern.  I saw a burning flame surrounded by an egg-shaped transparent "plastic bag" and I could even see a few strings dangling from the bottom.  I called my wife out to take a look at it and she reached the same verdict.  No other orbs followed.This is not to say that I think all orange orb sightings are lanterns.  There have been numerous truly puzzling orb sightings that don't seem to match the description of something that was human-made.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130004.html](http://www.nuforc.org/webreports/reports/130/S130004.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Singapore () reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>they have light all round their carft.they were shining with light ans hovering around the sky.((NUFORC Note:  Report does appear to have been submitted from a Singapore address.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24599.html](http://www.nuforc.org/webreports/reports/024/S24599.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [361](http://www.nuforc.org/webreports/reports/164/S164761.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164678.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164659.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164681.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164889.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
