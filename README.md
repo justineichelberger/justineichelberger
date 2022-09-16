@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:09:31 on 16 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:35 on 16 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1966, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Chicago 1966 sighting when no aircraft were flying.Craft was seen several miles away in the beginning by myself and our neighbors. My friends parents, his aunt, my mother, him and myself witnessed the event. Within a few minutes it almost flew directly over us (aprox 300 to 400 feet above us)traveling from south to north, it was between 400 and 500 hundred feet long and about 75 to 100 feet wide. What was strange is that we all watched it pass by and none of us said anything about it until it had passed. We just looked at it without saying anything until it had pasted by. The next day it was front page news of the Chicago Times, many other people saw it and called police. The commerical pilots were on strike at the time and no planes were in the air. Air force stated that they had nothing in the air over Chicago at the time of the sighting. Craft was fully illuminated all around, there was no sound and it traveled at maybe 40 to 60 miles per hour.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41002.html](http://www.nuforc.org/webreports/reports/041/S41002.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Grand Junction (CO) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>first object was huge second much smaller both chased by fighter jets.I was hunting and just as the sun was going down I looked at the horizon and noticed two airliners reflection from the setting sun.The date was 9/16/04 at approxamently 7:15pm.As I was looking at the airliners I realized I was looking at another reflection that was higher than the airliners and seemed closer but I think it was as far if not farther than the airliners.This object was huge, looking through my binoculers it did not seem to have a definet solid appearance but was flat with a slight dome shape to it and moveing at about the same speed as the airliners.In cmpareison in size to the airliners the airliners would have made a small dot on the object it looked that big.At this time I was trying to understand what I was seeing when a jet fighter banked over Grand Junction.When I looked at the fighter I saw 2 more fighters higher up and none where in any kind of formation.The fighter that banked over GJ got on a straight course towards the huge object and hit his after burners flying west the other fighters did not follow.I watched this pursuit and the huge object just faded out,if I had to guess this happened closer to Green River UT.I kept watching the horizon after the huge object dissapeared and saw on the horizon a much smaller object holding in the sme spot.I thought this was a star but then another fighter flew over GJ heading directly for this object as the fighter grew closer this object dissapered like turning off a light.All this took place in 15 min.And ther was not a cloud in the sky and I never saw the third again.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39366.html](http://www.nuforc.org/webreports/reports/039/S39366.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [361](http://www.nuforc.org/webreports/reports/164/S164761.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164678.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164659.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164681.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164889.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
