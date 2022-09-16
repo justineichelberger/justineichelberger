@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:30:23 on 16 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:56:36 on 16 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Salt lake city (UT) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Rectangular Glowing ufo above Salt Lake City enters lightspeedWas up neffs canyon near holladay utah 9-16-2018  late at night with friends around 23:00 I noticed something appear in the sky that was maybe 20-45 feet long hard to tell because it was so high up. I could only see the bottom of it but it looked rectangular with the lengths of the aircraft were slightly curved inwards. The bottom was glowing a bright greenish blue but it was changing colors so fast my brain couldn’t even realize that it changed colors if that makes sense. I would be looking at it and it would change colors and before my brain could process the change it would change over and over again. It was in the air for maybe 10 seconds before it left. It started accelerating picked up speed and vanished. I didn’t see it go over the horizon or past my field of view it started going and completely vanished in less than a second.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161659.html](http://www.nuforc.org/webreports/reports/161/S161659.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Fort Worth (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Red light that flew almost horizonally then suddenly "fell" from the sky.I don't know if this qualifies or not, I started second guessing myself after I saw it, but I thought I would send it in. Maybe you have heard this before!! I was on my way to work(I'm a police officer), traveling on a major freeway(I-30 just west of Ft Worth, TX), when I spotted this red light. It was almost like a helicopter or plane light, but it never "blinked". It was a solid red light for about 2 or 3 minutes. It was flying at an angle as if it was "taking off". I feel it was flying too slow to be an airplane. It continued flying at this angle for a minute or two, slowly, then all of the sudden it took a dive!! The solid red light just fell from the sky. I kept watching to see if it had been a plane crash or something, but nothing ever happened. I never heard of anything on the news, and have never seen anything like this again.I should also tell you that this was just south of an Air Force Base. This is why I was second guessing myself. I guess it could have been a "Top Secret" aircraft the military is developing, but I don't know???((NUFORC Note:  Date of event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32331.html](http://www.nuforc.org/webreports/reports/032/S32331.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [361](http://www.nuforc.org/webreports/reports/164/S164761.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164678.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164659.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164681.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164889.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
