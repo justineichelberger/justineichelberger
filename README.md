@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:49 on 16 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:48 on 16 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Omaha (NE) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Originally, I was a bit skeptical about aliens and UFO's, but I definitely saw something unusual over downtown Omaha at about 7:40 A.M. on September 16, 2014.I was actually coming from Council Bluffs, Iowa.  Everything was very foggy and I seen lights from no where.  I was with someone and they said, "That's a UFO."  I originally thought a building was on fire or that an aircraft had exploded.  Shortly after, I begin thinking about the possibilities and explanations of the sighting, the object begin hovering around and more lights begin to turn on.  I would say the sighting lasted about 45 seconds to a min.  After the lights begin to cut off and on it slowly begin to drift east towards Iowa.  The speed of the object begin to pick up, and after I blinked, it was gone.  It wasn't until about 5 minutes after the event did I realize this could have been something that was extraterrestrial.  It was shaped like a diamond though, not the circular traditional shape.  Unfortunately, I don't have pics or video.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113625.html](http://www.nuforc.org/webreports/reports/113/S113625.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Bangor (ME) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Driving down Palm st. I seen a medium sized triangle hovering low above the tree line.  The object had 2 red lights flashing on 2 of the corners, and a bright white steady light in the other corner.  It then slowly started moving and disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129995.html](http://www.nuforc.org/webreports/reports/129/S129995.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [361](http://www.nuforc.org/webreports/reports/164/S164761.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164678.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164659.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164681.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164889.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
