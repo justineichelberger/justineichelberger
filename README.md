@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:44 on 16 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:37 on 16 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Asotin (WA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Flash in the sky moving south, south of asotin washingtonApproximately 8:30 PM Pacific Mountain Time, September 16th 2009, me and another person saw a possible UFO in the southern sky.Two other people and I were sitting out on the beach on the above evening, looking at the stars, talking about the universe and such. We had seen one possible UFO before this account, but it may have just been a satellite.The event in question though was a bright light that me and one of the other people had just happened to notice.  This location was approximately 25 miles south of Lewiston, ID, and Clarkston, WA.  It appeared shortly before we looked up, and just as we both saw it, it quickly faded from a bright light in the sky to what almost looked like a small star.  It also seemed to be moving southward as well. The location of this sighting in the sky was right above the Southern Cross northward, and just south between Orion, and the little dipper.This could have been a possible UFO, or maybe even a super nova or some other unexplainable event. But as to the fact that both the other person and I saw it, it may have been noticed by other people as well.Thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72343.html](http://www.nuforc.org/webreports/reports/072/S72343.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Anaheim (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Ten spheres in sky.Ten spheres random in sky.  Couple of them moved then stopped.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143138.html](http://www.nuforc.org/webreports/reports/143/S143138.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [361](http://www.nuforc.org/webreports/reports/164/S164761.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164678.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164659.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164681.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164889.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
