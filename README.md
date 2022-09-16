@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:35 on 16 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:36 on 16 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Grand Junction (CO) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>first object was huge second much smaller both chased by fighter jets.I was hunting and just as the sun was going down I looked at the horizon and noticed two airliners reflection from the setting sun.The date was 9/16/04 at approxamently 7:15pm.As I was looking at the airliners I realized I was looking at another reflection that was higher than the airliners and seemed closer but I think it was as far if not farther than the airliners.This object was huge, looking through my binoculers it did not seem to have a definet solid appearance but was flat with a slight dome shape to it and moveing at about the same speed as the airliners.In cmpareison in size to the airliners the airliners would have made a small dot on the object it looked that big.At this time I was trying to understand what I was seeing when a jet fighter banked over Grand Junction.When I looked at the fighter I saw 2 more fighters higher up and none where in any kind of formation.The fighter that banked over GJ got on a straight course towards the huge object and hit his after burners flying west the other fighters did not follow.I watched this pursuit and the huge object just faded out,if I had to guess this happened closer to Green River UT.I kept watching the horizon after the huge object dissapeared and saw on the horizon a much smaller object holding in the sme spot.I thought this was a star but then another fighter flew over GJ heading directly for this object as the fighter grew closer this object dissapered like turning off a light.All this took place in 15 min.And ther was not a cloud in the sky and I never saw the third again.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39366.html](http://www.nuforc.org/webreports/reports/039/S39366.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Menomonie (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Woman taking break from work sees a ball of light change color and then shoot off out of her sight.At 10:00 PM on Thursday September 16th a woman was taking a break from work and looked up to the sky and noticed a ball of light rapidly changing color from blue to red to green.  After watching this object for only 5-6 seconds, it shot off out of the womans sight.  When asked the woman said the was not a "shooting star" as she has seen plenty of those before. She also stated that this object shot off very fast.  The object was seen in the Western Part off the sky.  The witness stated that the object was very low and had no sound to it.  The woman came forward with this story several days after finding out that a local paper ran a story on a UFO being reported the same day as her sighting.((NUFORC Note:  Report submitted by Mr. Chad Lewis, SD for Wisconsin for MUFON>))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10170.html](http://www.nuforc.org/webreports/reports/010/S10170.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [361](http://www.nuforc.org/webreports/reports/164/S164761.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164678.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164659.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164681.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164889.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
