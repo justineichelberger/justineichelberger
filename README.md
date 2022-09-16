@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:09:42 on 16 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:36 on 16 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Grayling (MI) reported seeing craft that fit the description of some '' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>We were in our house when 3 bright orange flashes lit up the sky.  Too fast to go out to see any objects.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130007.html](http://www.nuforc.org/webreports/reports/130/S130007.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Kapalua/Molokai (HI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Four vertical lights, evenly spaced, top three lights LED white, bottom light LED red. Observed at Kapalua looking up and out to the right of Molokai in open ocean, silently descending from stratosphere toward horizon where sky meets water.  Took about 3 minutes for bottom red light to reach horizon, then they moved to the left in unison, remaining in perfect vertical formation and disappeared in front of Molokai cliffs. Project Loon perhaps?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149044.html](http://www.nuforc.org/webreports/reports/149/S149044.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [361](http://www.nuforc.org/webreports/reports/164/S164761.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164678.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164659.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164681.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164889.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
