@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:01:31 on 16 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:30:23 on 16 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Sylmar (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>7 small objects appeared as birds then after 3 seconds they form 1 big object then disappeared into the sky Fast very Fast.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129998.html](http://www.nuforc.org/webreports/reports/129/S129998.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Salt lake city (UT) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Rectangular Glowing ufo above Salt Lake City enters lightspeedWas up neffs canyon near holladay utah 9-16-2018  late at night with friends around 23:00 I noticed something appear in the sky that was maybe 20-45 feet long hard to tell because it was so high up. I could only see the bottom of it but it looked rectangular with the lengths of the aircraft were slightly curved inwards. The bottom was glowing a bright greenish blue but it was changing colors so fast my brain couldn’t even realize that it changed colors if that makes sense. I would be looking at it and it would change colors and before my brain could process the change it would change over and over again. It was in the air for maybe 10 seconds before it left. It started accelerating picked up speed and vanished. I didn’t see it go over the horizon or past my field of view it started going and completely vanished in less than a second.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161659.html](http://www.nuforc.org/webreports/reports/161/S161659.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [361](http://www.nuforc.org/webreports/reports/164/S164761.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164678.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164659.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164681.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164889.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
