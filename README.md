@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:11:54 on 16 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:01:35 on 16 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Sapulpa (OK) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Orange glowing fireball over Sapulpa, OK.Approx 10pm, heading towards the south, a large bright orange object with numerous orange pieces falling off object and towards earth.  Passed almost directly over Tulsa, headed southerly direction over Sapulpa.  Just before disappearing behind tree line, object just blinked out.  Duration:  approx 3-4 seconds, with no noise evident.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122045.html](http://www.nuforc.org/webreports/reports/122/S122045.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Cannon Beach (OR) reported seeing craft that fit the description of some 'Sphere' over a period of approximately  -  minutes.</sub><blockquote><sub>Unknown Object Over Cannon BeachOn a short visit to Cannon Beach Oregon on September 16, 2006, roughly 13:30 I snapped a photo of the beach scenery with my digital camera. Upon later review of my photo (Sept 17, 2006) I noticed a small unidentified object in the photo. When i zoom in on the photo (which is 5 mega pix), the object appears metalic, spherical, and does NOT resemble a plane. I only have this one picture and did NOT see the object when taking the picture. I was looking for someone to help identify the object in the photo. If you are the wrong party, can you please point me in the right direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52541.html](http://www.nuforc.org/webreports/reports/052/S52541.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [361](http://www.nuforc.org/webreports/reports/164/S164761.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164678.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164659.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164681.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164889.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
