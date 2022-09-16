@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:56:36 on 16 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:56:05 on 16 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Fort Worth (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Red light that flew almost horizonally then suddenly "fell" from the sky.I don't know if this qualifies or not, I started second guessing myself after I saw it, but I thought I would send it in. Maybe you have heard this before!! I was on my way to work(I'm a police officer), traveling on a major freeway(I-30 just west of Ft Worth, TX), when I spotted this red light. It was almost like a helicopter or plane light, but it never "blinked". It was a solid red light for about 2 or 3 minutes. It was flying at an angle as if it was "taking off". I feel it was flying too slow to be an airplane. It continued flying at this angle for a minute or two, slowly, then all of the sudden it took a dive!! The solid red light just fell from the sky. I kept watching to see if it had been a plane crash or something, but nothing ever happened. I never heard of anything on the news, and have never seen anything like this again.I should also tell you that this was just south of an Air Force Base. This is why I was second guessing myself. I guess it could have been a "Top Secret" aircraft the military is developing, but I don't know???((NUFORC Note:  Date of event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32331.html](http://www.nuforc.org/webreports/reports/032/S32331.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Sebago (ME) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Strange slow moving light over Sebago maine.Me and a friend of mine were fishing for cat fish all night in the town of Sebago, on Sebago Lake.  I had noticed across the lake over by a large radio tower (near the town of Raymond), a strange whitish orange light.  It was just moving slowly then it had climbed high.  I thought that it was just a military jet. Then all of a sudden another one appeared by the radio tower.  Thinking, "It's just another jet,"  Then it started to dart left and right up and down and "wobble} in the sky.  I was starting too get vary curious about the object.  So I called my friend over too witness it too, and get his opinion on it.  He said oh its a helicopter.  Then he said no, they can't do those kinds of maneuvers that quickly. We had just watched it for about 15 or so minutes, then it started to hover over the lake (100/200 feet)but had no noise, just a whitish orange light.  So now we were getting spooked, so we quickly cleaned up our gear and moved back to the truck were we watched it for another 15 or so minutes. Then we noticed it was coming closer and closer too our side of the lake.  So we we're now getting out of there, seen enough of it, as we drove down Rt. 11 I had noticed that it was still moving slowly across the sky in the same direction as us, but in the distance.  Above tree level.  So he dropped me off at my house on Rt. 25 in Limington, it was still there.  But off in the distance.  He drove off, but I noticed from my bedroom window that it was still hovering (near or in the town of Standish).   I was a bit freaked out, so I locked my window, closed the curtain around 04:30.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92827.html](http://www.nuforc.org/webreports/reports/092/S92827.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [361](http://www.nuforc.org/webreports/reports/164/S164761.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164678.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164659.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164681.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164889.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
