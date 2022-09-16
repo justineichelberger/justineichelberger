@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:01:28 on 16 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:44 on 16 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Cherry Grove (SC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Orange orb saw by three people that suddenly vanished away from us.Myself, my father, and my grandfather were standing on the balcony at prince resort on the 16th floor. My father saw the object first. He got my and my grandfather's attention and then we looked.  It was a glowing bright orange orb probably out a few miles past the pier.  It was over the ocean at least 500 feet above it. We were all asking each other what it was.  It slowly moved to the left and then looked like it was slowly moving toward us.  At that point we ruled a flare out because it did not travel as such. After it slightly moved towards us it took a move away and then vanished with no trace or trail. Almost like a teleport.  I have or had never seen anything like this so to me it can only be a UFO or a government test.  Upon research of sightings on this area the next day, I concluded that most of the reports I saw were of the same object or similar multiple objects. I would just like to know for peace of mind. Could not get a photo because it happened so fast and did not want to stop watching it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164761.html](http://www.nuforc.org/webreports/reports/164/S164761.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Asotin (WA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Flash in the sky moving south, south of asotin washingtonApproximately 8:30 PM Pacific Mountain Time, September 16th 2009, me and another person saw a possible UFO in the southern sky.Two other people and I were sitting out on the beach on the above evening, looking at the stars, talking about the universe and such. We had seen one possible UFO before this account, but it may have just been a satellite.The event in question though was a bright light that me and one of the other people had just happened to notice.  This location was approximately 25 miles south of Lewiston, ID, and Clarkston, WA.  It appeared shortly before we looked up, and just as we both saw it, it quickly faded from a bright light in the sky to what almost looked like a small star.  It also seemed to be moving southward as well. The location of this sighting in the sky was right above the Southern Cross northward, and just south between Orion, and the little dipper.This could have been a possible UFO, or maybe even a super nova or some other unexplainable event. But as to the fact that both the other person and I saw it, it may have been noticed by other people as well.Thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72343.html](http://www.nuforc.org/webreports/reports/072/S72343.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [361](http://www.nuforc.org/webreports/reports/164/S164761.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164678.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164659.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164681.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164889.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
