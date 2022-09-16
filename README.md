@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:46 on 15 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:01:31 on 16 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Hawkinsville (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Object appeared to be a star for 30 minutes then moved.My sighting occurred one morning in mid-September 2016.  I’ve been so bus, I keep putting off writing this, but realize I should still make the report.  I live about 30 minutes west of an air force base.  I know commercial and private air craft have blinking lights, so I discount those.  I occasionally see lights that don’t blink but I assume military aircraft aren't required to have blinking lights?  So I discount those unless an extreme maneuver or other highly strange activity is noted.  Therefore, the only other report I ever made was 06/2015 about a bright flash just after day break that appeared from nowhere and then vanished.                                                                     For this report , as most days, I woke up early and had coffee on my patio which faces east.  I was on my patio about 430 am and star gazing as usual.  Nothing strange or eventful, plenty of stars out including 4 bright ones that were 10 degrees south east of straight up.  About 5 am, movement caught my eye,  What I thought was one of the stars began to move at a medium pace and crossed the sky traveling south east to north west and was out of sight in about 90 seconds.  It was one of the 4 brighter stars I noted when I first sat down and seemed to be same height as the other 3 stars.  It had been motionless about 30 minutes.((NUFORC Note:  Source of report indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132813.html](http://www.nuforc.org/webreports/reports/132/S132813.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Sylmar (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>7 small objects appeared as birds then after 3 seconds they form 1 big object then disappeared into the sky Fast very Fast.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129998.html](http://www.nuforc.org/webreports/reports/129/S129998.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [790](http://www.nuforc.org/webreports/reports/164/S164668.html)
-- [789](http://www.nuforc.org/webreports/reports/164/S164798.html)
-- [788](http://www.nuforc.org/webreports/reports/164/S164652.html)
-- [787](http://www.nuforc.org/webreports/reports/164/S164656.html)
-- [786](http://www.nuforc.org/webreports/reports/164/S164655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
