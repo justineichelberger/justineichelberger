@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:48 on 16 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:26 on 16 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Bangor (ME) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Driving down Palm st. I seen a medium sized triangle hovering low above the tree line.  The object had 2 red lights flashing on 2 of the corners, and a bright white steady light in the other corner.  It then slowly started moving and disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129995.html](http://www.nuforc.org/webreports/reports/129/S129995.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Goshen (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Multiple large bright objects in western skyAt first as we were driving home we noticed a triangular formation of bright orange lights. One was cigar shaped, the other two were circular.  One of the circular ones started to alternate between circular and cigar shaped.  It was almost like it was accelerating then decelerating, but it was very difficult to notice the transition as it was happening.  After a few more minutes several more lights appeared in the sky with the same orange-ish cast to them.  They seemed like really bright stars, but we've ever seen any stars that large before.  They must have been pretty far away, or very high up in the sky because as the earth rotated away from the sun we started to lose sight of the lights as they dipped lower and lower into the horizon.  The final lights we saw appear were very distinctly cigar shaped and almost seemed like comets.  Not sure if it was simply sunlight reflecting off some phenomena in the atmosphere or what.  Definitely a strange sight to behold.  It was hard to tell if they were moving because they were so far away they almost looked stationary.My fiancee took a photo but her camera was not able to distinguish the objects very clearly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122023.html](http://www.nuforc.org/webreports/reports/122/S122023.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [361](http://www.nuforc.org/webreports/reports/164/S164761.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164678.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164659.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164681.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164889.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
