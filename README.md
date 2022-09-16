@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:36 on 16 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:11:54 on 16 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Menomonie (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Woman taking break from work sees a ball of light change color and then shoot off out of her sight.At 10:00 PM on Thursday September 16th a woman was taking a break from work and looked up to the sky and noticed a ball of light rapidly changing color from blue to red to green.  After watching this object for only 5-6 seconds, it shot off out of the womans sight.  When asked the woman said the was not a "shooting star" as she has seen plenty of those before. She also stated that this object shot off very fast.  The object was seen in the Western Part off the sky.  The witness stated that the object was very low and had no sound to it.  The woman came forward with this story several days after finding out that a local paper ran a story on a UFO being reported the same day as her sighting.((NUFORC Note:  Report submitted by Mr. Chad Lewis, SD for Wisconsin for MUFON>))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10170.html](http://www.nuforc.org/webreports/reports/010/S10170.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Sapulpa (OK) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Orange glowing fireball over Sapulpa, OK.Approx 10pm, heading towards the south, a large bright orange object with numerous orange pieces falling off object and towards earth.  Passed almost directly over Tulsa, headed southerly direction over Sapulpa.  Just before disappearing behind tree line, object just blinked out.  Duration:  approx 3-4 seconds, with no noise evident.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122045.html](http://www.nuforc.org/webreports/reports/122/S122045.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [361](http://www.nuforc.org/webreports/reports/164/S164761.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164678.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164659.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164681.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164889.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
