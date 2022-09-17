@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:05:17 on 17 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:36 on 17 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Hurst (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>A bright white circular object being circled by a smaller objectWhile talking to a neighbor on the evening of 9/1/08 we saw a very bright object in the eastern sky at approx. 50 to 55 degrees of elevation, it did not appear to be moving.  After about 10 minutes I went to get my brother and my telescope.  Through the telescope the object was a very bright white circle being circled rapidly by a much smaller object that appeared to have a constant beam of light hitting the larger object.  This went on long enough for all three of us to watch it through the telescope.  When I again looked through the telescope, there appeared to be an explosion on the larger object and I could see what looked like a fireworks star-burst.The smaller object then rapidly left the view through my telescope.  Once that happened, you could no longer see the larger object with the naked eye.  It all ended approx. 19:45 central time.  The larger object was brighter than the planet Jupiter which was also visible but in the southerly direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65733.html](http://www.nuforc.org/webreports/reports/065/S65733.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Marietta (GA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 90</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159650.html](http://www.nuforc.org/webreports/reports/159/S159650.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/164/S164671.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164676.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164675.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164677.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164890.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
