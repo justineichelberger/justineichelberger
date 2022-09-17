@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:01:40 on 17 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:38 on 17 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Indianapolis (IN) reported seeing craft that fit the description of some 'Changing' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>family and i seen objects of light moving and hovering south west of downtown light had a tail the first object looked like a tear drop then it change smaller like the  others objects in the air but it was way different in activeties. color i noticed goldish yellow,red ,and white . some photo's were takin also</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31663.html](http://www.nuforc.org/webreports/reports/031/S31663.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Wickenburg (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>4 bright amber lights.On Wednesday September 17th, 2014, at approximately 9:35 PM Pacific Time, I was driving west on Sun Valley Parkway and saw two amber lights that were circular in shape about a mile apart and about 2 miles up in the sky. My guess the location was about 15 miles south to southwest of Wickenburg Arizona. About a minute later 2 more appeared near the north amber light. They appeared at times to be slightly glowing. They were not moving and I heard no noise.  At about 9:40 PM, they just disappeared within a few seconds of each other. I then looked everywhere in that general direction for the remainder of my trip home for the next 10 minutes but never saw them again. This incident occurred about 30 miles northwest of Luke Air Force Base and about 10 miles west of the secondary Luke Air Force Base used for emergency landings.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113672.html](http://www.nuforc.org/webreports/reports/113/S113672.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/164/S164671.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164676.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164675.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164677.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164890.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
