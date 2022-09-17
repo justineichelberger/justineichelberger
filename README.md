@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:45 on 17 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:10:59 on 17 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Grafton () reported seeing craft that fit the description of some '' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>((NUFORC Note:  No information provided by witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122058.html](http://www.nuforc.org/webreports/reports/122/S122058.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Stamford (CT) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Dark night sky about a dozen came low over the Long Island Sound then went higher in the sky as they moved from the northwest to the northeast.  There was a second wave of several more.  Not solid looking.  Orange, roundish/oval and glowing.  There was an aura or haze around the objects.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130016.html](http://www.nuforc.org/webreports/reports/130/S130016.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/164/S164671.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164676.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164675.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164677.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164890.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
