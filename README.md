@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:42:24 on 17 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:24:36 on 17 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Fayetteville (AR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Triangle with orange lights traveled from 180° S to 240° SW over 45 seconds, then dropped vertically behind tree line.Just after midnight, my girlfriend and I went out to smoke a cigarette.  We were on our balcony facing SW.  She noticed it first and we watched it for 45 seconds as it traveled from the South to SW.  It traveled from 180° to 240° in that time then dropped vertical behind the tree line.  Approximately 20 miles away.  Lighting was three to five orange lights, at first we saw three lights in a row but as it moved to the SW just before it dropped vertically the lights made a distinct V shape.  My girlfriend is a stay at home mom, and I'm an honorably discharged United States Marine Corps veteran.  We were both completely sober and in our right minds (which are currently going crazy now).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102122.html](http://www.nuforc.org/webreports/reports/102/S102122.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Sonora (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A triangular object with three red lights was sighted and videotaped to our Northeast, heading North very swiftly.  This object was flying about a mile or two over the treeline to the Northeast.  The treeline being about 50 to 60 yards from us.  The object at first looked to be a line of red light, but when seen through the viewfinder of the camcorder, had three distinct red lights.  This is the fourth triangular object videotaped over Sonora, CA since May and the only one to be seen with all red lights, and the only one flying North over Lyons Bald Mountain.  Object flew in a straight line without deviating from its course.  No sound was associated with the object whatsoever.((NUFORC Note:  One of several reports from same witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39403.html](http://www.nuforc.org/webreports/reports/039/S39403.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/164/S164671.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164676.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164675.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164677.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164890.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
