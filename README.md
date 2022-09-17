@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:37 on 17 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:38 on 17 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Littleton (CO) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Cigar shaped flying object appears for 3-5 seconds in the southern skyI was driving south towards C-470 on Kipling with my car window rolled down.  Through the winshield of my car I spotted a silver cigar shaped object appear in the sky (the object looked like a silver platter until it rolled on it's side then it looked like a cigar).  Once I saw the thing in the air I looked out my car driver side window as I was at a stop light and the thing was still there.  Unfortunately this thing only was around for about 5 seconds that I could see it.  I would have to say that if straight up was 12 o'clock and the base of the foothills were 3 o'clock then it appeared to be in the 1 o'clock position.  The object was moving in an easterly direction initially, I would say the length seemed to be bigger than most airplanes  and helicopters that usually fly in our area. Up until that point I saw no planes, helicopters or hot air balloons in the sky.  The object seemed to rotate or flip on it's side and move up in the straight up in the air.  At this time I thought it might be a plane, but it then disappeared.  It seemed to faded in the background of the sky, but there were no clouds or anything else to hide it.  I continued to look for any signs of planes or anything that could explain this but I cannot find any.  I continued to look in the southern sky for the next 5 minutes but could not find any signs of it again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39340.html](http://www.nuforc.org/webreports/reports/039/S39340.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Cincinnati (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15nin - 15nin minutes.</sub><blockquote><sub>.I was lying down for the night and looked up to see a very large orange orbe in the window that would minamize then expand to become larger it freaked me out!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72358.html](http://www.nuforc.org/webreports/reports/072/S72358.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/164/S164671.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164676.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164675.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164677.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164890.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
