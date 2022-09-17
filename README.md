@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:40 on 17 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:28 on 17 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Jordan (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately  -  minutes.</sub><blockquote><sub>We were using a Bushnell Equinox Z night vision monocular; the night was clear.  While we looked in the direction of North suddenly a sphere appeared in the viewfinder.  It went left to right, then behaved in an erratic manner, dropping down suddenly.  We shined a laser pointer in its general direction; it seemed to hesitate, then continued to head in an easterly direction.  We lost sight of it behind a tree.  We have a film.((NUFORC Note:  The witnesses apparently have a film, but do not appear to have sent it.  They remain totally anonymous, and provide no contact information, so we have no means of contacting them.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136546.html](http://www.nuforc.org/webreports/reports/136/S136546.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>UFO's in sunny San Diego CaliforniaEvery night it seems that from the front yard of my friends house on 35th st in Shelltown, all the way above us luminescent lights, balls, whatever you want to call them, always appear.  Airplanes? They can't be because these things are lit up all around consistently from every angle as they move across the sky.  Helicopters? Neither because helicopters cannot fly at that altitude.  The only thing that it might be are satellites but, satellites dont just stop in mid air, or they dont zig-zag during travel.  Another thing, they seem to be moving very fast at times and other times, very slow.  They look exactly how the stars in the background look, same color and size, so sometimes it is hard to spot them, and I'm pretty sure they pass by unnoticed.  It is weird because when you tell someone that hasn't seen them, and you're out there trying to spot one, when you do, and are about to tell them to look up, they just disappear, as if they know your showing them to someone else.  It's happened to me a couple times.  They believe me until that person spots them for themselves, at a different time. Last, sometimes after these things disappear, you can spot an airplane or jet that is out of place from normal air traffic.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52552.html](http://www.nuforc.org/webreports/reports/052/S52552.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/164/S164671.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164676.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164675.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164677.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164890.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
