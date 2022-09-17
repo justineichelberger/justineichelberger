@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:32 on 17 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:40 on 17 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Ridgway (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Unidentified flying object near Mt.  SneffelsMy girlfriend and I witnessed a triangular shaped object with very bright cylindrical shaped lights at the corners.  It was stationary and remained to the east of our local mountain (Mt. Sneffels) for about 15 minutes, before moving off to the southeast, and then out of site.  Not sure what it was, but was most definitely not a star or planet.  Did anyone else from my area see the same thing?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130072.html](http://www.nuforc.org/webreports/reports/130/S130072.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Jordan (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately  -  minutes.</sub><blockquote><sub>We were using a Bushnell Equinox Z night vision monocular; the night was clear.  While we looked in the direction of North suddenly a sphere appeared in the viewfinder.  It went left to right, then behaved in an erratic manner, dropping down suddenly.  We shined a laser pointer in its general direction; it seemed to hesitate, then continued to head in an easterly direction.  We lost sight of it behind a tree.  We have a film.((NUFORC Note:  The witnesses apparently have a film, but do not appear to have sent it.  They remain totally anonymous, and provide no contact information, so we have no means of contacting them.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136546.html](http://www.nuforc.org/webreports/reports/136/S136546.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/164/S164671.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164676.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164675.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164677.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164890.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
