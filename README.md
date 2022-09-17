@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:01:02 on 17 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:37 on 17 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Valley (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Flying stars, not shooting stars, I know the diff...I see these almost every night with the naked eye.  Just now 2 star like objects moving in a south to north fashion were just spotted.  These objects always appear to be moving stars and sometimes if straight over head they will start burning real bright, then dull back down.  Some people try to say their satellites but I find that hard to believe when I see 13 of them in a 50min period, with the naked eye.  The only way to describe it is a moving star that can be seen approaching at a 45-degree angle sometimes and leaving on the horizon as far as possible with binoculars sometimes.  The second one seen tonight wasn't quite straight over head but off to my left and appeared to get brighter and lighter, within a rhythm.  This is along the Chattahoochee River and they always appear to be going north-south or south-north.  If the skies right they can be seen every night.  Oh yea, the sky was perfect this evening and two jets traveling north-south came over spraying a very thick trail within a 10 min period straight over head.  10 min later a large jet flying south-north but between their two trails passed over head.  Someone tell me what these flying stars are, that move at a constant speed every night.  I live near the Troup-Heard Corridor and south of West Point Lake, in the town where the famous Valley, Alabama, UFO pic was taken, and know the guys in the local media that covered it then.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113644.html](http://www.nuforc.org/webreports/reports/113/S113644.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Littleton (CO) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Cigar shaped flying object appears for 3-5 seconds in the southern skyI was driving south towards C-470 on Kipling with my car window rolled down.  Through the winshield of my car I spotted a silver cigar shaped object appear in the sky (the object looked like a silver platter until it rolled on it's side then it looked like a cigar).  Once I saw the thing in the air I looked out my car driver side window as I was at a stop light and the thing was still there.  Unfortunately this thing only was around for about 5 seconds that I could see it.  I would have to say that if straight up was 12 o'clock and the base of the foothills were 3 o'clock then it appeared to be in the 1 o'clock position.  The object was moving in an easterly direction initially, I would say the length seemed to be bigger than most airplanes  and helicopters that usually fly in our area. Up until that point I saw no planes, helicopters or hot air balloons in the sky.  The object seemed to rotate or flip on it's side and move up in the straight up in the air.  At this time I thought it might be a plane, but it then disappeared.  It seemed to faded in the background of the sky, but there were no clouds or anything else to hide it.  I continued to look for any signs of planes or anything that could explain this but I cannot find any.  I continued to look in the southern sky for the next 5 minutes but could not find any signs of it again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39340.html](http://www.nuforc.org/webreports/reports/039/S39340.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/164/S164671.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164676.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164675.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164677.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164890.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
