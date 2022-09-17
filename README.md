@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:44 on 16 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:42 on 17 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Port Clinton (OH) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>It was a haze of red orange shaped like the letter C.Woke up walk outside at 1:35 am to have a cig.out of the north this red orange glow came floating years me. I thought to myself OK! It came within approximately 3 football fields away and stop. Turned sideways and that's when I saw the shape C.It continued slowly floating to the right stopped turned forward again and just sat there a sec. Then moved to the right again and stopped turned around and went back through same motion to the point it first stopped. Then gently flew back north out of sight. There was no sound during the whole time. It lasted just about 60 seconds. I ask myself why did they come show me this???</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165540.html](http://www.nuforc.org/webreports/reports/165/S165540.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1994, an anonymous witness in Elizabeth (NJ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>i could not identify this object with any known craft although i has study janes and nasa craft for years!at 6:50 pm i was leaving home to drive to work when i noticed something falling from the sky. i thought it was an air craft at first, and thougtht it would crash near the shering plough pharmacutical plant i turned the corner to head towards that area wwhen i notice the object stop in midair and slowly hover over the intersection of morris av and north av near the kean college entrance. i then pulled into the seven eleven store to see if there were any people outside seeing this ufo as well. the only one there was the soda delivery man. he was doing paper work in the cab of his truck so i asked him to observe this slowly hovering craft and tell me what it is. he was startled.it was saucer shaped and had a visible dome shaped top but the bottom was a very dark gray color and it seemed to have some type of movement resembling rippling water. it hovered slowly across the sky towards the sw and dissapeared. the total time that i viewed the object was 3 to 4 mins.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22050.html](http://www.nuforc.org/webreports/reports/022/S22050.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [361](http://www.nuforc.org/webreports/reports/164/S164761.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164678.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164659.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164681.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164889.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
