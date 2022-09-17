@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:24:36 on 17 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:16:50 on 17 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Sonora (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A triangular object with three red lights was sighted and videotaped to our Northeast, heading North very swiftly.  This object was flying about a mile or two over the treeline to the Northeast.  The treeline being about 50 to 60 yards from us.  The object at first looked to be a line of red light, but when seen through the viewfinder of the camcorder, had three distinct red lights.  This is the fourth triangular object videotaped over Sonora, CA since May and the only one to be seen with all red lights, and the only one flying North over Lyons Bald Mountain.  Object flew in a straight line without deviating from its course.  No sound was associated with the object whatsoever.((NUFORC Note:  One of several reports from same witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39403.html](http://www.nuforc.org/webreports/reports/039/S39403.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in La Grande (atop Mt. Emily) (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>On September 17, 2015 I was star gazing atop a local mountain range in Northeast Oregon.  The time was 10:22 P.M.  The sky was clear.  While star gazing I spotted a black triangle overhead flying from East to West.  This craft had  six bright white lights evenly spaced on the bottom of the craft.  In the center bottom of the craft was a rotating red flashing light.  However, my observation had only begun.  After watching the black triangle craft for a couple of minutes I noticed A SECOND TRIANGLE incoming from the North.  Shortly thereafter, the two black triangles joined at the hip and began flying side by side until out of sight, a short time later.  Both craft appeared to be of the same make and design.FINAL NOTE:  During the summer of 2014 I spotted two more of these black triangle craft.  The first craft I saw flying overhead in Pateros, Washington.  A few weeks later I saw another one of these craft flying over near Hanford, Washingtion.  Each black triangle craft have matched in size, lighting and performance.  These craft move very slowly as you may already know. I ATTEST THESE STATEMENTS ARE TRUE AND ACCURATE TO THE BEST OF MY ABILITY. Thank You....</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122271.html](http://www.nuforc.org/webreports/reports/122/S122271.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/164/S164671.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164676.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164675.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164677.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164890.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
