@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:51:40 on 17 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:42:24 on 17 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Blackwood (NJ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>A bright white sphere moving slowing across the day sky.I was outside it was a clear blue sky with no clouds. I was looking up at a large bird flying high in the sky.  I observed a bright white sphere moving across the sky.  It didn't make a sound but was moving steady accross the day sky from south to north.  It then just disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102551.html](http://www.nuforc.org/webreports/reports/102/S102551.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Fayetteville (AR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Triangle with orange lights traveled from 180° S to 240° SW over 45 seconds, then dropped vertically behind tree line.Just after midnight, my girlfriend and I went out to smoke a cigarette.  We were on our balcony facing SW.  She noticed it first and we watched it for 45 seconds as it traveled from the South to SW.  It traveled from 180° to 240° in that time then dropped vertical behind the tree line.  Approximately 20 miles away.  Lighting was three to five orange lights, at first we saw three lights in a row but as it moved to the SW just before it dropped vertically the lights made a distinct V shape.  My girlfriend is a stay at home mom, and I'm an honorably discharged United States Marine Corps veteran.  We were both completely sober and in our right minds (which are currently going crazy now).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102122.html](http://www.nuforc.org/webreports/reports/102/S102122.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/164/S164671.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164676.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164675.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164677.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164890.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
