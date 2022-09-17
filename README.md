@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:38 on 17 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:01:02 on 17 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Wickenburg (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>4 bright amber lights.On Wednesday September 17th, 2014, at approximately 9:35 PM Pacific Time, I was driving west on Sun Valley Parkway and saw two amber lights that were circular in shape about a mile apart and about 2 miles up in the sky. My guess the location was about 15 miles south to southwest of Wickenburg Arizona. About a minute later 2 more appeared near the north amber light. They appeared at times to be slightly glowing. They were not moving and I heard no noise.  At about 9:40 PM, they just disappeared within a few seconds of each other. I then looked everywhere in that general direction for the remainder of my trip home for the next 10 minutes but never saw them again. This incident occurred about 30 miles northwest of Luke Air Force Base and about 10 miles west of the secondary Luke Air Force Base used for emergency landings.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113672.html](http://www.nuforc.org/webreports/reports/113/S113672.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Valley (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Flying stars, not shooting stars, I know the diff...I see these almost every night with the naked eye.  Just now 2 star like objects moving in a south to north fashion were just spotted.  These objects always appear to be moving stars and sometimes if straight over head they will start burning real bright, then dull back down.  Some people try to say their satellites but I find that hard to believe when I see 13 of them in a 50min period, with the naked eye.  The only way to describe it is a moving star that can be seen approaching at a 45-degree angle sometimes and leaving on the horizon as far as possible with binoculars sometimes.  The second one seen tonight wasn't quite straight over head but off to my left and appeared to get brighter and lighter, within a rhythm.  This is along the Chattahoochee River and they always appear to be going north-south or south-north.  If the skies right they can be seen every night.  Oh yea, the sky was perfect this evening and two jets traveling north-south came over spraying a very thick trail within a 10 min period straight over head.  10 min later a large jet flying south-north but between their two trails passed over head.  Someone tell me what these flying stars are, that move at a constant speed every night.  I live near the Troup-Heard Corridor and south of West Point Lake, in the town where the famous Valley, Alabama, UFO pic was taken, and know the guys in the local media that covered it then.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113644.html](http://www.nuforc.org/webreports/reports/113/S113644.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/164/S164671.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164676.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164675.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164677.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164890.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
