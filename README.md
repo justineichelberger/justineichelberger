@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:39 on 17 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:32 on 17 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Fayetteville (AR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Triangle with orange lights traveled from 180° S to 240° SW over 45 seconds, then dropped vertically behind tree line.Just after midnight, my girlfriend and I went out to smoke a cigarette.  We were on our balcony facing SW.  She noticed it first and we watched it for 45 seconds as it traveled from the South to SW.  It traveled from 180° to 240° in that time then dropped vertical behind the tree line.  Approximately 20 miles away.  Lighting was three to five orange lights, at first we saw three lights in a row but as it moved to the SW just before it dropped vertically the lights made a distinct V shape.  My girlfriend is a stay at home mom, and I'm an honorably discharged United States Marine Corps veteran.  We were both completely sober and in our right minds (which are currently going crazy now).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102122.html](http://www.nuforc.org/webreports/reports/102/S102122.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Ridgway (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Unidentified flying object near Mt.  SneffelsMy girlfriend and I witnessed a triangular shaped object with very bright cylindrical shaped lights at the corners.  It was stationary and remained to the east of our local mountain (Mt. Sneffels) for about 15 minutes, before moving off to the southeast, and then out of site.  Not sure what it was, but was most definitely not a star or planet.  Did anyone else from my area see the same thing?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130072.html](http://www.nuforc.org/webreports/reports/130/S130072.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/164/S164671.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164676.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164675.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164677.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164890.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
