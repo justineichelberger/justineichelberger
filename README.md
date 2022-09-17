@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:01:09 on 17 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:01:40 on 17 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Scarborough (Canada) (ON) reported seeing craft that fit the description of some 'Changing' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bizarre changing shape/color object  witnessed by four witnessesHere is my second ODD sighting to report to you on Sept.17th 2009.While at work in Scarborough.I exited out the company parking lot for a late lunch at exactly 12:53 pm.I looked up in front of me,while looking eastward and noticed this odd shaped object approaching me in the sky.It was really strange looking to identify to say the least-half mile away approx.I instantly grabbed my camera out of my pock~et and took pictures.I watched in disbelief and took more pictures, as this thing started to change shape  ??.It appeared to opened up like a long flat black sheet.The dimensions would be a guess 10-15 feet long in length by 4-6 feet wide ?.I yelled for a co-worker to view this thing.He and two others witnessed observed this thing along side me.I then noticed it changed course in direction, as soon as the witnesses were present.It appeared about 100 yards away at about 300-500 ft above ground, heading now north.I jumped in my car to drive to see if it was com! ing down and to see if it was large garbage ??.I drove through the industrial roads north of our work's parking lot.I could not see it anymore, driving through the north in direction. So I immediately gave up in two minutes. I then turned on Comstock to head for lunch.At the lights of Warden on Comstock.I noticed now north up higher,,, a brilliant white UFO-north quarter mile away.I instantly again, took more pictures of this second UFO,along with a SHORT video clip.Remember,this is my third sighting happening here today.I will send you the third report shortly -added with more photographic evidence.Words can't tell you, when I reflect from the that time of witnessing the total bizarre in sequence of events.PS While viewing the video clip,you can hear a strange repetitive sound.I'm  not sure of the source.Dog barking ??</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72532.html](http://www.nuforc.org/webreports/reports/072/S72532.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Indianapolis (IN) reported seeing craft that fit the description of some 'Changing' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>family and i seen objects of light moving and hovering south west of downtown light had a tail the first object looked like a tear drop then it change smaller like the  others objects in the air but it was way different in activeties. color i noticed goldish yellow,red ,and white . some photo's were takin also</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31663.html](http://www.nuforc.org/webreports/reports/031/S31663.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/164/S164671.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164676.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164675.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164677.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164890.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
