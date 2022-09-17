@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:42 on 17 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:57 on 17 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1994, an anonymous witness in Elizabeth (NJ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>i could not identify this object with any known craft although i has study janes and nasa craft for years!at 6:50 pm i was leaving home to drive to work when i noticed something falling from the sky. i thought it was an air craft at first, and thougtht it would crash near the shering plough pharmacutical plant i turned the corner to head towards that area wwhen i notice the object stop in midair and slowly hover over the intersection of morris av and north av near the kean college entrance. i then pulled into the seven eleven store to see if there were any people outside seeing this ufo as well. the only one there was the soda delivery man. he was doing paper work in the cab of his truck so i asked him to observe this slowly hovering craft and tell me what it is. he was startled.it was saucer shaped and had a visible dome shaped top but the bottom was a very dark gray color and it seemed to have some type of movement resembling rippling water. it hovered slowly across the sky towards the sw and dissapeared. the total time that i viewed the object was 3 to 4 mins.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22050.html](http://www.nuforc.org/webreports/reports/022/S22050.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Homosassa (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>First 3 seemed to follow each other as they were on same exact course as the first one.There were 3 fireball looking object in sky flying westward.  There were 3 in a row then we spotted another in totally different area of sky.  We saw minimum of 4, but went back inside, so not sure how many total.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122048.html](http://www.nuforc.org/webreports/reports/122/S122048.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/164/S164671.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164676.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164675.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164677.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164890.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
