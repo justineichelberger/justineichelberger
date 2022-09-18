@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:41 on 18 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:11:34 on 18 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Yucca valley (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 55.0 - 55.0 minutes.</sub><blockquote><sub>Dot in sky circling one area</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164758.html](http://www.nuforc.org/webreports/reports/164/S164758.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Warren (NJ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Very large oval shaped object ,brilliant neon white w/one red light, slowly descending quite close to my home.one very large oval shaped one red light. was a "neon whitish" color. Observed it slowly descending. I was walking my dog out of my garage for his last time out for the night. Stood transfixed in my driveway. Called out for my daughter in disbelief, but by the time she joined me it was out of sight. This object was extremely bright, couldn't miss  it.  I called my local police to ask if anyone else had seen this, was advised no one else saw it.  They suggested I call State Police, which I did, and the dispatcher advised me of same.  I find it hard to believe I was the only one who saw this.  I am certain there must be a very logical explanation for  this; I would actuallly welcome one. It was absolutely brilliant against the dark night sky.It seemed to be in close proximity to my home, much much lower than planes fly.I do not drink, save for an occasional glass of  wine when I am out to dinner.  I take no drugs, not for health or recreational purposes.  I am mentally healthy. I am a 56 year old female, active, intelligent and reasonable.  I just want to know what I saw.   I have never seen anything like  it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65755.html](http://www.nuforc.org/webreports/reports/065/S65755.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/164/S164759.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164758.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164790.html)
-- [418](http://www.nuforc.org/webreports/reports/164/S164887.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
