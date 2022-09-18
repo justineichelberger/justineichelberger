@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:41 on 18 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:43 on 18 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Bright green object races across the early morning horizon one week after 9/11.I had gotten off work at 3am,  I am a nurse, and was working at a local hospital. When I got home I found I had forgotten to leave a set of keys to the drug cabinet, that were in my pocket.  I changed clothes and headed back to the hospital.  As I was merging onto I-17 frwy, there were at least 3 to 5 other vehicles in close proximity to mine. When all of a sudden from the north west corner of the sky a bright green circular object quickly passed overhead in front of me headed towards the southeast. Being exactly one week from the 9/11 event, when this object first caught my attention, I thought that maybe it was a missile attack being directed at the city.  Apparently, the other drivers that saw it did too, because we all slammed on our brakes.  What I thought was strange about this thing was that it's color never changed in intensity, or faded like you might see with a meteor coming through the atmosphere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39331.html](http://www.nuforc.org/webreports/reports/039/S39331.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>something strange over Tucson todayMe and two other truck drivers what's coming west on I 10 into straight in front of us was the mountain that has the big a on the.  west side Tucson we were still on the east side of the mountain coming toward it when we witness something probably about 48 to 50 foot in diameter look like somebody was holding a big round mirror with the sun shining off of it floating across the top of that mountain and started coming down into the valley of Tucson about that time three US Air Force fighter jets come screaming over the top of us going from east to west towards the object did before the Jets could get close the object shot straight in the air and disappeared never seen nothing like it don't know if it was a UFO or not just curious to know has anybody else seen this in the Tucson area and why was the fighter jets going towards itto intercepted thank you</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102092.html](http://www.nuforc.org/webreports/reports/102/S102092.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/164/S164759.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164758.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164790.html)
-- [418](http://www.nuforc.org/webreports/reports/164/S164887.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
