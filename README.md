@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:54:02 on 18 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:28:34 on 18 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Bismarck (ND) reported seeing craft that fit the description of some 'Formation' over a period of approximately 18.0 - 18.0 minutes.</sub><blockquote><sub>Flashing Stationary Object for 18 minutes over the Western skylineA light in the sky over the WNW not far above city horizon, but it looked far away.  Light was at least twice the size of a large star.Was flashing white, yellow and briefly other colors, and not at any patterned intervals. Had light arms off of it toward the north that were also flashing.  Did not move from its position for 18 minutes.  Did not come closer, get farther away, or move side to side.  Just was flashing.Called someone on the other side of town to look at it.  They initially thought it was a helicopter, but then looked through binoculars and said “it’s not a helicopter, it looks like fire, looks like it’s moving through binoculars, but not when I look without them”.We both agreed that we had never seen anything like this in our lives, which equal collectively, about 85 years. When I went in to get my long range lens, and came back outside, it was gone.There were two planes on the other side of the sky briefly at the beginning of this, and they looked much smaller.  Nothing on the news yet about what this is.We are both very practical, scientific, analytical people, and this was very weird.  I am very curious to know what this was.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122168.html](http://www.nuforc.org/webreports/reports/122/S122168.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Millerton (PA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 104</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164887.html](http://www.nuforc.org/webreports/reports/164/S164887.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/164/S164759.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164758.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164790.html)
-- [418](http://www.nuforc.org/webreports/reports/164/S164887.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
