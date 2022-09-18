@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:19:11 on 18 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:02:35 on 18 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in John Day (Clyde Holliday Camp Ground, 7 miles west of) (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Six very high lights in the sky manuevered in different directions, turned abruptly with no radius, and one chased another.On September 18, 1999, from the Clyde Holliday camp ground located seven miles west of John Day, Oregon, I observed several unknown lights in the sky to the east (drawing enclosed)between the times of 20:05 and 20:25.The lights appeared to be very high and moving at high speed when seen. One, however proved to be stationary until it pursued another which passed nearby. Another made a sharp thirty degree turn, with no turning radius, from its original linear path.All the lights were white in color and between magnitude 3 and 4 in brightness.The first one noticed appeared to be a low-altitude satellite since it moved somewhat faster than most satellites vith variable brightness from tumbling in its transit.I have observed several suspected UFOs over the years but have always been able to determine their cause. Those mentioned here, though I cannot explain. They were most certainly unknown as far as I am concerned.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23830.html](http://www.nuforc.org/webreports/reports/023/S23830.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Newington (CT) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 106</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143263.html](http://www.nuforc.org/webreports/reports/143/S143263.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/164/S164759.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164758.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164790.html)
-- [418](http://www.nuforc.org/webreports/reports/164/S164887.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
