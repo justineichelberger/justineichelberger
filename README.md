@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:36 on 18 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:35 on 18 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in New Berlin (WI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>4 Red/Orange Triangular shaped lights merge into a single lightMy wife was driving home and turned onto our street and noticed a group of red/orange lights ahead of her in the southern sky.  She pulls into our driveway and watches these lights for a few minutes, not understanding what they could be.  She then runs into the house telling me to come outside.  As soon I get outside, I noticed 5 lights total, 4 red/orange lights forming a triangle, hovering and silent.  The 5th light was a separate object and moving just next to the triangular craft.  My wife said 2 other objects flew off in the first few minutes before I got outside.  I think there were 4 craft total. I would guess they were less than a mile away, to the southwest and approximately 500-2000 feet altitude.  If you held your hand up to the sky and made a V with your 2 fingers, that's about how big the triangular craft was.  What I noticed about the color of the lights is that technically they were not red/orange.  They were orange one second and red the next.  It would change between the 2 colors but I can see how people would just say reddish orange.My wife kept asking me over and over - "Are these UFO's" and after about 5 minutes, the 4 lights making up the triangular craft went into a bit a dance for about 2 seconds and formed into a single red and orange light now. Now there are 2 craft, 2 lights.  Before, it was 5 lights, 2 craft.  Then both lights just started to move again and headed northwest.  In just another minute or 2 , they were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104704.html](http://www.nuforc.org/webreports/reports/104/S104704.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Lake Geneva (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>BRIGHT, GOLD, FLYING BALL. Moving from one horizon to overhead to up and away at a constant speedWhile sitting,looking out over Lake Geneva a bright gold ball of light rose over the horizon and moved out over the lake. It passed over head and then turned slightly and headed northeast until it was completly out of sight in the sky.It flickered a little bit as if it was fire burning. There were no blinking lights on it and it appeared the same from all sides just a perfect ball of light. No sound! It moved at the same steady speed the entire time. When it was gone we turned back around to where we first saw itr and there was another one exactly the same and traveled the indentical path of the first one. We waited for a third for over an hour but it never came. When we got home we called the police first just to see if there were any reports of this and the officer who answered the phone said that they had recieved a number of calls and that officers on the beat around the town "had been seeing them all night". NOT HUMAN AIRCRAFT! UFO!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46340.html](http://www.nuforc.org/webreports/reports/046/S46340.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/164/S164759.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164758.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164790.html)
-- [418](http://www.nuforc.org/webreports/reports/164/S164887.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
