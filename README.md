@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:39 on 18 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:50 on 18 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Seaford (Australia) () reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>3 moving balls of light in triangle shape moving in and out of sky then quickly  fading over seaford beach melb,australia((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72368.html](http://www.nuforc.org/webreports/reports/072/S72368.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Ketchum (ID) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Bright orange light in the sky over the Wood River Valley, Hailey IdahoFirst of all I love to look at the sky so it wasn’t unusual for me to look into the sky as I was heading to bed.  I saw in the sky a bright orange light, about the size of two stars combined moving slowly to the south/east.  I went to grab a phone/camera and I was in the middle of the Apple IOS upgrade (the first day available) and then went to grab my thirteen year old daughters iphone and I did not have the pass code to open the phone.  Anyhow I went to my front door on the north and east side of the house to watch and it slowed and went to the west slightly and went blank.  Poof it was gone.  Wow that was cool I said to myself and I’m sure lots of people must have seen it.  But I haven’t found any info in my local area so thought I would add it to this site.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103098.html](http://www.nuforc.org/webreports/reports/103/S103098.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/164/S164759.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164758.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164790.html)
-- [418](http://www.nuforc.org/webreports/reports/164/S164887.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
