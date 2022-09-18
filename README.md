@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:56:55 on 18 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:54:02 on 18 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Tesuque (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Fast moving star-like light.I was camping alone and was admiring the bright stars on this very clear night.  I was about 8-9K feet in elevation on the west side of the mountains.  I had a good wide view of the night sky. As I looked towards the North, I noticed a light similar to a star moving at a NE direction, coming from the SW.  There were no strobes or blinking lights on or around it.  It was moving fast and began to slightly change direction towards the east.  Then I lost view of this light.  It was traveling faster than any high altitude plane or aircraft that I have ever seen.  I am not sure what it was.  No noise.  No other lights or craft were in the sky at the time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133786.html](http://www.nuforc.org/webreports/reports/133/S133786.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Bismarck (ND) reported seeing craft that fit the description of some 'Formation' over a period of approximately 18.0 - 18.0 minutes.</sub><blockquote><sub>Flashing Stationary Object for 18 minutes over the Western skylineA light in the sky over the WNW not far above city horizon, but it looked far away.  Light was at least twice the size of a large star.Was flashing white, yellow and briefly other colors, and not at any patterned intervals. Had light arms off of it toward the north that were also flashing.  Did not move from its position for 18 minutes.  Did not come closer, get farther away, or move side to side.  Just was flashing.Called someone on the other side of town to look at it.  They initially thought it was a helicopter, but then looked through binoculars and said “it’s not a helicopter, it looks like fire, looks like it’s moving through binoculars, but not when I look without them”.We both agreed that we had never seen anything like this in our lives, which equal collectively, about 85 years. When I went in to get my long range lens, and came back outside, it was gone.There were two planes on the other side of the sky briefly at the beginning of this, and they looked much smaller.  Nothing on the news yet about what this is.We are both very practical, scientific, analytical people, and this was very weird.  I am very curious to know what this was.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122168.html](http://www.nuforc.org/webreports/reports/122/S122168.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/164/S164759.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164758.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164790.html)
-- [418](http://www.nuforc.org/webreports/reports/164/S164887.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
