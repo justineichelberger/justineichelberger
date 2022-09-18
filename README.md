@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:37 on 17 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:38 on 18 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Whitby (Canada) (ON) reported seeing craft that fit the description of some 'Circle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Same UFO spotted in same place 5 days apart from each other.I am letting it known right now that even though this event happened on the night of September 17th 2008, exactly 5 days prior my girlfriend and I saw this same object in the sky.  As I took out my phone to  capture the Unidentified Flying Object (had a blackberry pearl at the time) and while I went to the camera mode to take a quick picture of it all of a sudden the camera was not working and the screen had gone completely white during this first event, and all of a sudden as soon as this object in the sky disappeared I look down at my phone and the camera function starts to work.  I knew it was time to purchase a new phone so I got a new iphone a couple of days later.  On the night of September 17th 2008. My girlfriend and I were walking down the street from my house and we saw the same object in the sky in the same place.  The object was just sitting idle for what seemed to be a couple of minutes .It was circular in shape and had a neon green glow coming from! it.  I knew the location it was hovering over.  It was hovering over the water I would say about 15-20,000ft in the air at the Port Whitby Boat Marina in Ontario, Canada.  Right around that area.  As the green glowing object started moving I knew it was time to test the camera out on my phone. As I take out my phone and get the camera ready to start taking a couple of pictures.  My girlfriend and I are stunned by what we are observing.  The object is idle in one spot, then in a split second must have travelled a couple of miles in the sky to the left.  Then stops for a split second again and then goes back in another split second to the right then once again stops for a split second then again another split second later back to the left when it stops in less then a second again then in speed that I have never seen before not even from fighter jets shoots off to the right into the sky and disappears.  I had managed to be able to take 2 pictures on my phone during this event of the ! object moving back and forth. I know for certainty there is NO aircraf t in the world that can perform such maneuvers and can have speed like that and be able to stop on a dime and again accelerate to incredible speed in what seemed like just a couple of miles.  This was no human constructed aircraft. It was from what I can tell an Unidentified Flying Object .My girlfriend was currently in high school at the time and I had already graduated about 1 year before hand.  Not exactly sure what type of things you would like for the backround information but if any information needed please contact me through email or cell.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75807.html](http://www.nuforc.org/webreports/reports/075/S75807.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Grimsby (Grimsby) (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>no sound was heard  as the craft flew overhead.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72366.html](http://www.nuforc.org/webreports/reports/072/S72366.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/164/S164671.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164676.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164675.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164677.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164890.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
