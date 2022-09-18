@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:38 on 18 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:31:03 on 18 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Grimsby (Grimsby) (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>no sound was heard  as the craft flew overhead.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72366.html](http://www.nuforc.org/webreports/reports/072/S72366.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Clearlake Oaks (CA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Diamond shaped white light four time the brightness of Venus in WSW sky visible for 15 minutes.At about 8:10 p.m. PDT I noticed an extremely bright light in the WSW sky, a few degrees above the horizon. I estimate it was 10-15 miles away.  It was four times as bright as Venus (at the planet's brightest) to the naked eye.  I observed it from the Spring Valley area of Clearlake Oaks, CA.I went inside and got a pair of binoculars and could see the object was diamond shape, bright white, and seemed to be rapidly spinning.  For the distance the object was from me, it must have been larger than a Boeing 747 airliner.  As large as it appeared in my binoculars, I should have been able to discern structure but all I could see was very bright light.It remained stationary for 15 minutes and then slowly moved off to the NW.  It was then obscured by hills and I could no longer see it.  I could not detect any noise. It did not fit the profile of a helicopter, airplane, satellite, blimp, or Chinese lantern (it did not flicker.)  The date was one day away from a full moon, so there were relatively few stars visible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102083.html](http://www.nuforc.org/webreports/reports/102/S102083.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/164/S164759.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164758.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164790.html)
-- [418](http://www.nuforc.org/webreports/reports/164/S164887.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
