@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:35 on 18 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:05:28 on 18 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Jackson (TN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three Orange hovering balls in West TN.It was dark and I was leaving the house to go to the grocery store.  At the end of my street is a stop sign.  You can either turn right or left, and directly ahead of you is nothing but dense woods and trees.  Marshy land mostly.  There are no cell towers or street lights in that direction.  I was at the stop sign and noticed 3 orange lights above the trees.  They were very, very low so I knew that it was not a plane. Or any kind of aircraft for that matter. They were simply hovering.  They emitted a red orange glow and they were not in a straight line.  One sat above the other two.  I sat for probably about 5 minutes and just watched.  They never moved.  I thought that maybe some towers has been built back there and they were just now lighting them up this evening, so I went on to the store.  When I came back I made sure to look and they were gone.  I turned on the road that went down behind the wooded area and drove around for several minutes and there was nothing.I even got up and left the house the very next morning just to check and there are still no towers, no street lights.  Nothing but trees and woods.  I still believe to this day that I have seen something that is not of this world.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116528.html](http://www.nuforc.org/webreports/reports/116/S116528.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in North Platte (NE) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Large V-shape formation of lightsMy wife and I were sitting in the backyard enjoying the cool night when I saw a large V-shaped formation of many white faint lights streak across the sky. They were in a perfect formation and heading north to south. I did not hear any sound.  I have never seen anything like it.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92880.html](http://www.nuforc.org/webreports/reports/092/S92880.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/164/S164759.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164758.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164790.html)
-- [418](http://www.nuforc.org/webreports/reports/164/S164887.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
