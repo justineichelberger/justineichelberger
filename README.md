@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:38 on 18 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:41 on 18 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Tappan (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>And saw a huge light in the sky were it hovered for a time.My sister was on her cell.and saw a huge light in the sky were it remained for a time in the south she then called me to view what appeared to be a huge light in the sky just hovering there for what seemed to be 15 min.....every so often we noticed a red light appearing thewhile the remainder was white ....we got so excited we called our neighbors to see who also had never seen any thing like it and then observed alot of air craft flying around it  much smaller in scale these were obvously planes......finally our neice cuaght some images on her cell phone and we called the police the ..object slowly diminished...the police arrived we reported what we saw an show him the images....</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46347.html](http://www.nuforc.org/webreports/reports/046/S46347.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Yucca valley (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 55.0 - 55.0 minutes.</sub><blockquote><sub>Dot in sky circling one area</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164758.html](http://www.nuforc.org/webreports/reports/164/S164758.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/164/S164759.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164758.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164790.html)
-- [418](http://www.nuforc.org/webreports/reports/164/S164887.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
