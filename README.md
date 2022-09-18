@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:39 on 18 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:33 on 18 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Germantown (TN) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Silver cylinder with bulbous ends appeared for four seconds near clouds in daylight and was photographed.Observed very distant silver object in sunlit western sky just after sundown. It was traveling from my left to right, in a northerly direction at a speed similar to that of airliners transiting that area. Obtained photo with digital camera which was located within reach. Object was visible for about four seconds. The sky photo shows the image clearly, but quite small. Image expanded 200 percent shows a silver colored cylindrical object with bulbous ends. A faint area of atmospheric disturbance appears below it. A small emission or moisture trail appears from the left hand end of it, which would be the trailing end as it moved. It was very near a cumulous cloud when photographed at an altitude of approximately 8 thousand feet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25154.html](http://www.nuforc.org/webreports/reports/025/S25154.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Maynard (MA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Traveling on Waltham Street, toward Stow, when I saw a bright blue light hovering above the Fire Dept, approximately 200 feet in the air. The light started to move East down Waltham Street for no more than 2000 feet, and reversed direction back over the Fire Station, towards Stow Mass. I drove in the same direction but lost sight of the object.  The object was small in size like a helicopter but silent.  The blue light was intense and could not make out what the craft shape was.  It was definitely not a helicopter or small plane, nor was it an ultralight.  Entire event was less than 5 minutes, before losing sight of the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113691.html](http://www.nuforc.org/webreports/reports/113/S113691.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/164/S164759.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164758.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164790.html)
-- [418](http://www.nuforc.org/webreports/reports/164/S164887.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
