@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:15:34 on 19 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:09:45 on 19 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Bancroft (northeast of) (WI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Unexplained large, bright lights with a yellowish tinge in remote, desolate area, moved in an atypical way.Driving in a southernly direction between approx. 8:15 PM and 8:30.  Moon was rising to my left.  I saw two lights south of the moon.  At first, I thought they were planes, and my next thought was "My God, they are way too close..." Even as I had the though another pair of light flashed on, and then another.  They were motionless in the sky.  The cirle of each of their light growing in intensity and size, while each pair of lights maintained the same distance from each other. Then they flared out light the aperature of a lens closing on them.  There seemed to be some sort of irregular "starshine" or twinkle.  I believed my 11 year old son to be sleeping and looked over at him only to see 2 pairs of the lights at their brighter intensity, joined by another pair.  Seeing he was awake, I asked him if he was seeing what I was seeing.  He said yeah, what is it?  The lights were lined up now like on a circular edge and gave the impression of revolving on that edge. The one on the left going on as the one on the right came on at the same intensity.  It gave the impression of an object turning.  Suddenly the light just diod that closing down to nothing and out thing and were gone. The lights were between 100 and 250 feet in the air and out over an open field.  There were no buildings, streelights, roads, etc. visible.  There were no sounds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46369.html](http://www.nuforc.org/webreports/reports/046/S46369.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Kelso (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Perfect White Brilliant Light flew across the skyperfect circle, bright white... brighter than all other aircraft / stars in the early night (just got dark outside) sky. other planes were in the air... this was much much brighter, and had absolutely no blinking lights on it.  it flew in a straight line from west to east.  as it disappeared from our view behind treeline, i noticed 1 fast moving jet flying toward its direction from my north/nw (maybe from seattle)  the object flew straight...at same speed probably abiut 100 mph+)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149274.html](http://www.nuforc.org/webreports/reports/149/S149274.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [519](http://www.nuforc.org/webreports/reports/164/S164792.html)
-- [518](http://www.nuforc.org/webreports/reports/164/S164788.html)
-- [517](http://www.nuforc.org/webreports/reports/164/S164768.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164793.html)
-- [515](http://www.nuforc.org/webreports/reports/165/S165160.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
