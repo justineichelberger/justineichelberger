@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:15:06 on 19 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:02:59 on 19 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Easton (MD) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>An orb of light raised from the ground, in the distance, slowly into the high sky, then disappeared.I was looking out of my bathroom window, looking out past the farm behind my house. It was nighttime. In the distance I see a bright orange light appear from the ground, and slowly rise up. It continued to rise slowly and brightly into the sky. It raised extremely high into the sky, and then disappeared. I do not think it was a regular thing, planes go sideways, helicopters don't fly that high, flares are faster and less precise on where they're going, and a firework would have left a trail. The experience left me dumbfounded and perplexed.((NUFORC Note:  Missile launch.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72578.html](http://www.nuforc.org/webreports/reports/072/S72578.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Shelton (CT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1:30 - 1:30 minutes.</sub><blockquote><sub>circle of light with beam of light shining towards the groundI was cleaning out my car and I saw a reflection on the window.  I looked up the road and there was a ring of white light with a big beam of light shining down towards the ground.  I kept looking at it and my mother in law starting walking down the stairs to the 2nd floor screen porch and I yelled to her about the UFO.  By the time she was at the window, the light went upwards into the sky and went out of sight.  This is a very clear night, with absolutely zero clouds in the sky.  It was an amazing view that I will not forget.((NUFORC Note:  Missile launch.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72383.html](http://www.nuforc.org/webreports/reports/072/S72383.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [519](http://www.nuforc.org/webreports/reports/164/S164792.html)
-- [518](http://www.nuforc.org/webreports/reports/164/S164788.html)
-- [517](http://www.nuforc.org/webreports/reports/164/S164768.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164793.html)
-- [515](http://www.nuforc.org/webreports/reports/165/S165160.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
