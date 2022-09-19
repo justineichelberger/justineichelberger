@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:44 on 19 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:59 on 19 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Plymouth Meeting (PA) reported seeing craft that fit the description of some 'Cone' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Cone of light, higher than plane or helicopter, Did not move. Faded away without moving in 30 seconds. No clouds in the sky.Walking friend out to her car in my front yard. Looked up into sky and saw a cone shaped light as if a flashlight was being shone. About the height of a plane. We thought it was a plane but when we decided it wasn't, called others in the house to quickly come and see.  My friend said "it's going away" and thought it was going behind a cloud. I looked and with her, saw it slowly fade away. There were NO clouds in the sky and many stars were visible.By the time the others got there, it was gone. I'm just curious to see if anyone else witnessed this.((NUFORC Note:  Missile launch.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72390.html](http://www.nuforc.org/webreports/reports/072/S72390.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in North Smithfield (RI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was looking up at the stars and all of the sudden a giant circle was right in front of my eyes. Underneath it was a muddy green ray that almost looked like smoke. 30 seconds later it disappeared right in front my eyes it was gone.((NUFORC Note:  Missile launch.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72414.html](http://www.nuforc.org/webreports/reports/072/S72414.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [519](http://www.nuforc.org/webreports/reports/164/S164792.html)
-- [518](http://www.nuforc.org/webreports/reports/164/S164788.html)
-- [517](http://www.nuforc.org/webreports/reports/164/S164768.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164793.html)
-- [515](http://www.nuforc.org/webreports/reports/165/S165160.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
