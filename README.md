@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:35 on 19 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:42 on 19 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Spartanburg (SC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>S.C. upstate. red orb/,  sphere, low flying, no sound, not descending.  not a fireball.The object was moving low and steady from southwest to northeast at apprx.  9:30 p.m eastern standard in Spartanburg South Carolina, at an altitude similar to local emergency and news helicopters, so much lower than most commercial flights.A steady glow of red (no blinking ), sometimes I thought it was not solid just a red sphere, but as it passed over to the north, I thought I saw a fin/airfoil on the bottom.  It was moving fast but not extreme, but no sound at all, the whole viewing lasted about 8 minutes .I was on my back patio, but ran through the house to continue looking at it as it went on to the horizon where I lost it in the tree line.  I have an open mind but I was seriously shaking.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136242.html](http://www.nuforc.org/webreports/reports/136/S136242.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Hartsel (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I was looking at the sky Southeast of my location in rural Hartsel, Colorado.  There was a very bright light, and I saw flashes of red and I think green.  Suddenly, whatever it was zipped across the sky from left to right.  About 10 minutes later, I looked again, and the light was back where I had seen it originally, but was moving very slowly straight up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31733.html](http://www.nuforc.org/webreports/reports/031/S31733.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [519](http://www.nuforc.org/webreports/reports/164/S164792.html)
-- [518](http://www.nuforc.org/webreports/reports/164/S164788.html)
-- [517](http://www.nuforc.org/webreports/reports/164/S164768.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164793.html)
-- [515](http://www.nuforc.org/webreports/reports/165/S165160.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
