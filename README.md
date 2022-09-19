@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:57:30 on 19 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:58:25 on 19 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Edison (NJ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>6 red fireballs flying close, with no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122154.html](http://www.nuforc.org/webreports/reports/122/S122154.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Paris / Arc de Triomph (2 furlongs from it (France) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>RAINING / AT APPROX 11.30 OR SO MY WIFE AND I SAW A MOVING OVAL OBJECT BEHIND THE CLOUDS, ( VERY CLEARLY ), WHICH WAS GLOWING AND SUDDENLY MOVED. FIRST SLOWELY AND THEN VERY RAPIDLY IN AN UPWARD DIRECTION. it reappeared again in a pattern, with another glow appearing from two different directions, and came just about together at very high speed and suddenly stopped short of merging into each other. They moveed away again moved around , and stopped at a point and sped away again. Four appeared in a patte4rn and started moving around which looked loke a pattern. I had a movie camera , which I switched on and captured some of the movements . We did not report it then as we were not 100% sure of what it was , as we and a few other passer byes stood ther spell bound for these few minutes, but could not really identify the obejcts. we would look at the vedio every now and then, till a knoweledgable person met us last week to confirm that the object were what we had thought them to be  ufo`s. the dates and thime etc written above is an approximation , as the vedio is not with me as i write this . but exact day .date year and time are available on the vedio ), and can be sent to you if this is of interest to you. The vedeo is fairly clear. and a bit scary, as at that point there was nothing happening except this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11041.html](http://www.nuforc.org/webreports/reports/011/S11041.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [519](http://www.nuforc.org/webreports/reports/164/S164792.html)
-- [518](http://www.nuforc.org/webreports/reports/164/S164788.html)
-- [517](http://www.nuforc.org/webreports/reports/164/S164768.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164793.html)
-- [515](http://www.nuforc.org/webreports/reports/165/S165160.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
