@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:03:05 on 19 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:44 on 19 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Pleasant Hill (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>An object with a trailing white narrow lineMy son and I Saw the craft with trailing white narrow line (smoke?) at twilight period. After 30 second, the white narrow line shape changed to funnel spray type and that went on for another 20 seconds. After that the object disappear.((NUFORC Note:  Missile launch from Vandenberg AFB.  Please see article.  PD))((BEGIN ASSOCIATED PRESS ARTICLE ABOUT LAUNCH))Air Force Test Missile Out WestFri Sep 20, 1:25 AM ETVANDENBERG AIR FORCE BASE, Calif. (AP) - An Air Force missile test Thursday provided a spectacular light show seen over California and much of the West, as far away as Utah and New Mexico.The colorful contrail was seen soon after the unarmed Minuteman III intercontinental ballistic missile blasted off at 7:36 p.m. from an underground silo at the Vandenberg military base north of Santa Barbara."The smoke went up in spirals as the sun was setting and turned into an orange, amber color. It was like a flower going into bloom pretty quickly," said Simon Cox, who saw it from a restaurant terrace in Santa Barbara.The missile traveled about 4,200 miles in about 30 minutes, striking a predetermined target at the Kwajalein Missile Range in the western chain of the Marshall Islands, the Air Force said.Vandenberg spokeswoman Kelly Gabel said clear conditions were responsible for the spectacular light show."We do this two or three times a year, but because the weather was so perfect we decided to launch it early," Gabel said. As a result, people were still awake to see it, and although the sun had set, sunlight below the horizon glinted off unspent fuel particles and water droplets."Suddenly we're getting calls from people as far away as New Mexico who saw it and want to know what it is," Gabel said.The mission was directed by the 576th Flight Test Squadron at Vandenberg and the 341th Space Wing and the 341st Space Wing, from Malmstrom Air Force Base in Montana.The purpose was to test launch systems and the missile's accuracy and reliability.((END ARTICLE BY ASSOCIATED PRESS))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25172.html](http://www.nuforc.org/webreports/reports/025/S25172.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Plymouth Meeting (PA) reported seeing craft that fit the description of some 'Cone' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Cone of light, higher than plane or helicopter, Did not move. Faded away without moving in 30 seconds. No clouds in the sky.Walking friend out to her car in my front yard. Looked up into sky and saw a cone shaped light as if a flashlight was being shone. About the height of a plane. We thought it was a plane but when we decided it wasn't, called others in the house to quickly come and see.  My friend said "it's going away" and thought it was going behind a cloud. I looked and with her, saw it slowly fade away. There were NO clouds in the sky and many stars were visible.By the time the others got there, it was gone. I'm just curious to see if anyone else witnessed this.((NUFORC Note:  Missile launch.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72390.html](http://www.nuforc.org/webreports/reports/072/S72390.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [519](http://www.nuforc.org/webreports/reports/164/S164792.html)
-- [518](http://www.nuforc.org/webreports/reports/164/S164788.html)
-- [517](http://www.nuforc.org/webreports/reports/164/S164768.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164793.html)
-- [515](http://www.nuforc.org/webreports/reports/165/S165160.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
