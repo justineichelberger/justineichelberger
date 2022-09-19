@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:48 on 19 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:57:30 on 19 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Cabo Rojo (Puerto Rico) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Orange Circle Floating above trees near pitch black roadOn September 19, 2008, I was driving along 303 road. Located between the municipalities of Cabo Rojo and Lajas. At around 9:40 PM, I noticed the volume on my ipod began to rise and lower itself. I picked up the ipod and put the volume all the way up only to have it reduce itself. The song began to sound distorted. While I messing with my track wheel, I continue driving and noticed a yellow light in front of me. I turned off my ipod, continue driving and saw the yellow light take the shape of a flat circle. It now looked like the sun. I continue driving in its direction and suddenly felt that my air conditioner was throwing hot air. I continued driving and felt a bolt of heat in the center of my body. The light suddenly disappeared  and I  suddenly realized that I was doing a you turn in the middle of the road. I drove back in the direction I was coming from at about 55 miles per hour. When I finally had cell reception, I realized that it was 9:54pm. I cannot account for those 10 to 14 minutes after I felt the heat in my center.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65793.html](http://www.nuforc.org/webreports/reports/065/S65793.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Edison (NJ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>6 red fireballs flying close, with no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122154.html](http://www.nuforc.org/webreports/reports/122/S122154.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [519](http://www.nuforc.org/webreports/reports/164/S164792.html)
-- [518](http://www.nuforc.org/webreports/reports/164/S164788.html)
-- [517](http://www.nuforc.org/webreports/reports/164/S164768.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164793.html)
-- [515](http://www.nuforc.org/webreports/reports/165/S165160.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
