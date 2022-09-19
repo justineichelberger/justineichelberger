@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:41:39 on 19 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:28:50 on 19 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Columbus (OH) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>4 Orange lights in a diamond formation hovering over Worhtington Hills, in Columbus, OHThe wife and I were heading North via our car on 315 from Granview to the North side of Columbus, Ohio to pick up our son at his Grandparents.  I said to my wife, "What is that?"  We saw 4 orange lights in a loose diamond formation hovering in place.  The formation looked like it was over Wortington Hills on the North side of Columbus.  We watched it until we got to that community.  A small engine aircraft flew from East to West.  The aircraft appeared to fly below the lights.  When we got to the community, the sky was abcurred by the trees, at which point we lost sight of the formation.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72509.html](http://www.nuforc.org/webreports/reports/072/S72509.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Conneaut (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>bright lights that change direction at great speedi was on my back deck with my dog and a cup of coffee enjoying the evening when to the west i saw a bright light inthe trees moving slowly west to east i thought it was the cleveland lifeflight coming in to the hospital. it started to flash a white light on top then it changed direction 45 degrees from its flight path straight north the top light changed to red and it gained speed so fast that i lost sight of it over the neighbors roof. it was not a planet and it was not a helicopter andit was not a civilian aircraft and if it was a military jet then the ground crew will have to scrape the pilot out of his aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14193.html](http://www.nuforc.org/webreports/reports/014/S14193.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [519](http://www.nuforc.org/webreports/reports/164/S164792.html)
-- [518](http://www.nuforc.org/webreports/reports/164/S164788.html)
-- [517](http://www.nuforc.org/webreports/reports/164/S164768.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164793.html)
-- [515](http://www.nuforc.org/webreports/reports/165/S165160.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
