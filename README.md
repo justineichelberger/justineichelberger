@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:28:50 on 19 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:24:31 on 19 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Conneaut (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>bright lights that change direction at great speedi was on my back deck with my dog and a cup of coffee enjoying the evening when to the west i saw a bright light inthe trees moving slowly west to east i thought it was the cleveland lifeflight coming in to the hospital. it started to flash a white light on top then it changed direction 45 degrees from its flight path straight north the top light changed to red and it gained speed so fast that i lost sight of it over the neighbors roof. it was not a planet and it was not a helicopter andit was not a civilian aircraft and if it was a military jet then the ground crew will have to scrape the pilot out of his aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14193.html](http://www.nuforc.org/webreports/reports/014/S14193.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 45+ - 45+ minutes.</sub><blockquote><sub>STATIONARY LIGHTS SEEN EAST OF SAN DIEGOAT APPROX 23:00 MY WIFE WAS SITTING ON OUR BALCONY OF OUR 3RD FLOOR APARTMENT, WHEN SHE ASKED FOR OUR BINOCULARS TO LOOK AT A LIGHT IN THE SKY.THE LIGHT APPEARS DUE EAST OF SAN DIEGO, RUNNING APPROXIMATELY THE SAME LINE AS INTERSTATE 8, AND REMAINED STATIONARY FOR OVER 45 MINUTES.IT APPEARED ABOUT 50 DEGREES FROM THE HORIZON, WITH AN UNKNOWN DISTANCE.THIS UFO HAD A STEADY WHITE LIGHT WITH BLINKING RED AND GREEN LIGHTS TO EACH SIDE, LIKE IT WAS AN AIRCRAFT.  HOWEVER, IT DID NOT MOVE FOR OVER THE 45 PLUS MINUTES THAT WE WATCHED IT.DUE TO THE CLOSENESS OF THE MEXICO BORDER, I THOUGHT IT WAS A SURVEILANCE CRAFT OF SOME TYPE (HIGH ALTITUDE BALOON WITH MARKER LIGHTS?), BUT DON’T KNOW. OBJECT IS TOO FAR AWAY FOR AN IMAGE TO BE CAPTURED.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72464.html](http://www.nuforc.org/webreports/reports/072/S72464.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [519](http://www.nuforc.org/webreports/reports/164/S164792.html)
-- [518](http://www.nuforc.org/webreports/reports/164/S164788.html)
-- [517](http://www.nuforc.org/webreports/reports/164/S164768.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164793.html)
-- [515](http://www.nuforc.org/webreports/reports/165/S165160.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
