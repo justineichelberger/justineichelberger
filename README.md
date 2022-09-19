@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:42 on 19 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:40 on 19 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Hartsel (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I was looking at the sky Southeast of my location in rural Hartsel, Colorado.  There was a very bright light, and I saw flashes of red and I think green.  Suddenly, whatever it was zipped across the sky from left to right.  About 10 minutes later, I looked again, and the light was back where I had seen it originally, but was moving very slowly straight up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31733.html](http://www.nuforc.org/webreports/reports/031/S31733.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Peculiar (MO) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Oval shaped object moving at extremely high rate with low light on opposite edges.At approximately 5:45 A.M. I stepped out onto my front porch to have a cigarette.  It is very dark where I live because we are outside of the major KC area so I was enjoying a wonderful view of Orion's Belt.  Out of the corner of my eye I saw movement and focused in on it.  An object was moving at an extrememly fast rate from the west.  It was an oval shaped object which at first I thought just had some white coloring on the outside edges opposite each other but then realised I was seeing lights when the shape moved over some slight cloud cover to the west of my house.  I could see the faint glow of the edges through the clouds.  There was no sound whatsoever.  And it was moving so fast that the entire thing lasted about 5 seconds before it moved out of view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72375.html](http://www.nuforc.org/webreports/reports/072/S72375.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [519](http://www.nuforc.org/webreports/reports/164/S164792.html)
-- [518](http://www.nuforc.org/webreports/reports/164/S164788.html)
-- [517](http://www.nuforc.org/webreports/reports/164/S164768.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164793.html)
-- [515](http://www.nuforc.org/webreports/reports/165/S165160.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
