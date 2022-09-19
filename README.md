@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:09:25 on 19 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:02:10 on 19 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Sequoya National Park (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately Noticed on Film Later - Noticed on Film Later minutes.</sub><blockquote><sub>Didn't see in person, but noticed on digital picture later.((NUFORC Note:  The object is tiny and blurry.  We suspect that it may be a bird in flight.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47842.html](http://www.nuforc.org/webreports/reports/047/S47842.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Boonton (NJ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Sighting of an elevating object that emitted a strong traingular light downward.My brother and I were standing in a field at Torne Park in Boonton, NJ.  We were looking at the stars for about 15 minutes.  We were looking at the big dipper and trying to make shapes out of random star formations.  Then my brother casually said “look there is a spaceship.”  We both thought that it was a spaceship because it was moving up and was much bigger than any plane or helicopter we had seen flying by.  It was circular in shape and what was really apparent was a large cone shaped light that it emitted downwards.  The light was huge, roughly about ¼ of the horizon and formed the shape of an upside down ice cream cone/pyramid.  At first I thought it was the light of a plane shining through the clouds, but after the object disappeared we both noticed that there were no clouds in the sky at all.  Right before it disappeared, the light flickered off and then came on again for a brief moment and then the object and light both instantaneously were gone.  It was extremely startling how it disappeared because it was definitely not far enough away to make such an abrupt exit, as opposed to a plane fading in the distance.  Directly after this had transpired I took out my phone and took a picture of the empty night sky so that it would record what time this happened.  It was at exactly 7:53.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72481.html](http://www.nuforc.org/webreports/reports/072/S72481.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [519](http://www.nuforc.org/webreports/reports/164/S164792.html)
-- [518](http://www.nuforc.org/webreports/reports/164/S164788.html)
-- [517](http://www.nuforc.org/webreports/reports/164/S164768.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164793.html)
-- [515](http://www.nuforc.org/webreports/reports/165/S165160.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
