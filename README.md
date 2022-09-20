@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:43 on 20 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:36 on 20 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Cowpens (SC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Orange ball seen over tree top theen disappeared with no sound or any trail behind it either.my brother and took our dog out to use the bathroom and there was a birght orange let about 20 feet over top the tree kin so i grabbed my dog an when towards the house as we looked back it was gone with out a sound or sight((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105496.html](http://www.nuforc.org/webreports/reports/105/S105496.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Pittsburg (KS) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>White Fast Orb with Pulsing Red GlowI was pedaling home going south on Broadway.  I had passed Walgreen's and yet was not to the University.  During this time I saw a white orb moving quickly from West to East. What caught my attention was the rhythmically appearing red "ring" that appeared every 2 seconds or so.  The red was an amazing light or ring, I can't describe it.  But the red rhythmically appearing pulse was something I'd never seen before.  It made me think of Venus' rings, I don't know why.  I wanted to use my iPhone to video it, but I was too amazed.  It disappeared out of my sight just because of the buildings that were too high to see it anymore.  I was hoping I wasn't the only one who saw it.  I was in the street among dozens of cars and I almost expected people to pull over to talk about it or video it, but maybe since they are car-people, they weren't able to see it as easily as me; a bike-person. :)((NUFORC Note:  Witness elects to provide no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122127.html](http://www.nuforc.org/webreports/reports/122/S122127.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [510](http://www.nuforc.org/webreports/reports/164/S164781.html)
-- [509](http://www.nuforc.org/webreports/reports/164/S164780.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164778.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164779.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
