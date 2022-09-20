@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:53 on 20 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:15:08 on 20 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Birdsboro (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Brilliant blue and red square shaped object massive size no sound vary low to the groundNoticed a a flashing like out side of your living room area.  When I noticed it was flashing blue/red/white/purple.  I got up to try and get a better look of it outside the window.  I saw it south east it was moving East toward Pottstown direction.  When I got up to see a better look it had turned a white and moon type of yellow.  But too close to be the moon or any stare because it was moving through the trees.  Plus, the other witness that I was with say it first moving in the East direction.  I ran out side and at that point only could see the blue and red flashing light then lost it though the trees.  This object was low to the ground and to big to be a airplane or a helicopter.  I would guess that the object could have not bin more then 4 miles.  There was no sound just brilliant flashes of blue and red light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122116.html](http://www.nuforc.org/webreports/reports/122/S122116.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1968, an anonymous witness in Martinez (GA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>The object moved slowly lingering in the sky shifting motion left to right proceeding toward us as the lights on the craft continuously blink.  Then hovering over a huge pile of leaves, etc we were burning that night. Time froze at that moment as we stood frighten and in complete shock.  Directly it subdued still above the fire and flames. Then suddenly moving upward at great speed back toward the sky It was gone!  When LESS then a few feet from you, you know it's REAL!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113544.html](http://www.nuforc.org/webreports/reports/113/S113544.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [510](http://www.nuforc.org/webreports/reports/164/S164781.html)
-- [509](http://www.nuforc.org/webreports/reports/164/S164780.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164778.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164779.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
