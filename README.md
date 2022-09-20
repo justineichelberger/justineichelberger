@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:29:21 on 20 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:53:23 on 20 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Gainesville (GA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Observed large UFO object heading from the west to a northern direction with no sound</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149381.html](http://www.nuforc.org/webreports/reports/149/S149381.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Drexel Hill (PA) reported seeing craft that fit the description of some '' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Deep rumbling mimicking strange helicopter stopping abruptly.We didn't see anything, but about 5 times, we heard a sound that we never heard before. It was like a deep military helicopter sound that stopped abruptly.  The crickets didn't seem to mind, they would start up easily after the helicopter sound stopped.  Usually the sound would stop when we went outside and the cats outside would come up to us like they were freaked out.The weirdest thing about it is that the sound didn't fade, it just stopped on a dime and started on a dime.We don't know what it was, it could have been military, but we have never heard any sound like that before in our lives.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102458.html](http://www.nuforc.org/webreports/reports/102/S102458.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [510](http://www.nuforc.org/webreports/reports/164/S164781.html)
-- [509](http://www.nuforc.org/webreports/reports/164/S164780.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164778.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164779.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
