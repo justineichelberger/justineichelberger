@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:15:08 on 20 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:10:19 on 20 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1968, an anonymous witness in Martinez (GA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>The object moved slowly lingering in the sky shifting motion left to right proceeding toward us as the lights on the craft continuously blink.  Then hovering over a huge pile of leaves, etc we were burning that night. Time froze at that moment as we stood frighten and in complete shock.  Directly it subdued still above the fire and flames. Then suddenly moving upward at great speed back toward the sky It was gone!  When LESS then a few feet from you, you know it's REAL!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113544.html](http://www.nuforc.org/webreports/reports/113/S113544.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Auburn (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>lights in the skies of Aubunr, Mass.september 20th 2009 around 10:00p.m. a fellow worker and i saw a bright white star-like light in the sky I didnt think too much of it untill my friend told me to look up at it. the star-like light was moving in a zig zag pattern at a rapid rate of speed. it did so for about thirty seconds before it came to a complete stop and then went to a slow zig zag pattern, as it did this the brightness of the object faded away and when it was almost as dark as the night sky, it flashed bright red and dissapeared. awe-struck my friend and I looked at each other and as we did (this took place about 1 second after the red light vanished) the headlights of one of the tow trucks we have in the parking lot turned on directly at us. i went in the locked office to get the keys to unlock the truck and when i did the lights were in the off position.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72562.html](http://www.nuforc.org/webreports/reports/072/S72562.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [510](http://www.nuforc.org/webreports/reports/164/S164781.html)
-- [509](http://www.nuforc.org/webreports/reports/164/S164780.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164778.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164779.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
