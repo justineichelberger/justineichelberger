@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:41 on 20 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:53 on 20 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Ansonia (CT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>huge ball of lightI was standing on the porch with a friend at about 12:45am when I spotted a huge (round) ball of light. It fell from the left to the right in a downward motion in the northern part of the sky facing Waterbury, CT.  It was larger than any other light I have ever seen in the night sky and it was aprox a quarter size of the moon.  It had no noise and no trail and was gone below the trees before I could even figure out what it could have been.  Very big and very bright and almost perfectly round in shape.  Wondering if other people who were not surrounded by trees got a longer, better look.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Meteor??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72505.html](http://www.nuforc.org/webreports/reports/072/S72505.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Birdsboro (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Brilliant blue and red square shaped object massive size no sound vary low to the groundNoticed a a flashing like out side of your living room area.  When I noticed it was flashing blue/red/white/purple.  I got up to try and get a better look of it outside the window.  I saw it south east it was moving East toward Pottstown direction.  When I got up to see a better look it had turned a white and moon type of yellow.  But too close to be the moon or any stare because it was moving through the trees.  Plus, the other witness that I was with say it first moving in the East direction.  I ran out side and at that point only could see the blue and red flashing light then lost it though the trees.  This object was low to the ground and to big to be a airplane or a helicopter.  I would guess that the object could have not bin more then 4 miles.  There was no sound just brilliant flashes of blue and red light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122116.html](http://www.nuforc.org/webreports/reports/122/S122116.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [510](http://www.nuforc.org/webreports/reports/164/S164781.html)
-- [509](http://www.nuforc.org/webreports/reports/164/S164780.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164778.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164779.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
