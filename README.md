@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:07:54 on 20 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:48 on 20 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Hickory (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>an orb or ball hovers around space station for a couple of secondsIt was a cold night in fall when we (me,my freind and dad) where waiting for the space station to go over.when it finally went over i filmed it and  there was orb or ball that comes from the top of the screen and it flickers away and then it comes up right under the space station and it zoomed over in front of the space staition very fast (and the space station was going very very fast).It then stops on a dime and slowly turns and goes back aproaches the station and goes right by it when it comes at it agin and diseppers. it then flickers around the screen as you watch it over.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44404.html](http://www.nuforc.org/webreports/reports/044/S44404.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Tuscarora (MD) reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>It that someone had found an ancient ufo shaped like a meteor or small moonWhile sitting in my back sudden I heard a loud like a loud clunker a truck I thought was coming down the, I waited for awhile, thinking this taking a long time to get here, then just over the tree tops appear and object that looked like a small moon or some kind  it was orange or rusty colored it appeared have crater like impressions on the surface I watched for two mins or so then it disappeared.((NUFORC Note:  We cannot certify that this is intended to be a serious-minded report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109923.html](http://www.nuforc.org/webreports/reports/109/S109923.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [510](http://www.nuforc.org/webreports/reports/164/S164781.html)
-- [509](http://www.nuforc.org/webreports/reports/164/S164780.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164778.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164779.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
