@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:04:54 on 20 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:55 on 20 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Bradenton (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>One multicolored floating sparkplug gave birth to 6 soft white, un flapping birds in a half moon line sped across the early morning skyThis morning around 5:15 I was sitting outside on our backyard patio. It was a clear night sky littered with many stars.  As I shifted my weight on the patio chair, a large shape could be seen to the northeast. It flashed red and green and appeared to have the shape of a spark plug.  At first I thought it might be a helicopter hovering. But there was no movement in any direction nor did it make a sound or appear at a low enough altitude.I watched it for the better part of 10 minutes when suddenly there appeared six soft white shapes that ballooned outwards from the original flashing lights.  This new creation reminded me of a flock of birds falling into a half moon shape rather than the traditional V.  The speed at which these six new un flapping, soft white/grey birds moved in perfect synchronicity  was astounding!  I couldn't take my eyes off them!  They moved quickly across the sky in a perfect line until they were out of sight.  And when I returned my gaze to the original craft, it was gone.Originally I hoped to find a report on this same anomaly.  I guess there aren't many sky watchers at that hour of the morning.  I'm still pinching myself over this sighting.  I was almost hoping these birds were a new breed of night flyers who don't need to flap their wings while covering vast distances at break neck speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130099.html](http://www.nuforc.org/webreports/reports/130/S130099.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Broad Brook (CT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>The craft flew over my condo complex approximately one hundred meters above me traveling at around 150 miles an hour.  The shape was round with a slight glowing orb around it.  It was about ten to fifteen meters in diameter and produced no sound at all. Being in combat arms in the US for just over ten years.  This was not from here.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159447.html](http://www.nuforc.org/webreports/reports/159/S159447.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [510](http://www.nuforc.org/webreports/reports/164/S164781.html)
-- [509](http://www.nuforc.org/webreports/reports/164/S164780.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164778.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164779.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
