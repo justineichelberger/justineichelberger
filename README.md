@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:02:40 on 20 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:29:21 on 20 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Tukwila (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Four lustrous orbs sighted over BurienI walked out onto my porch to enjoy a sunny afternoon, when I noticed 4 lustrous orbs floating in the sky.  They were to the east, above Burien I suspect, about 8 degrees in the sky, and the size of a pea when held at arm's length.  I tried to make them out, but although they weren't distorted or fuzzy, there was no discernible detail other than the strange luster. The objects climbed upward at a diagonal to the north.  I watched them until they disappeared.  They didn't zoom off or climb into the cloud cover, as there wasn't any that day, they just seemed to pop out of existence one by one, like each one became invisible in turn.  The curious thing is that even though they appeared to climb, they never got smaller in size.  They weren't moving very fast.((NUFORC Note:  Source of report indicates that date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62970.html](http://www.nuforc.org/webreports/reports/062/S62970.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Gainesville (GA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Observed large UFO object heading from the west to a northern direction with no sound</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149381.html](http://www.nuforc.org/webreports/reports/149/S149381.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [510](http://www.nuforc.org/webreports/reports/164/S164781.html)
-- [509](http://www.nuforc.org/webreports/reports/164/S164780.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164778.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164779.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
