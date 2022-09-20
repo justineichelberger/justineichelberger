@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:33:11 on 20 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:27:38 on 20 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Baltimore (MD) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Object in mid air with 3 distinct lightsI was driving from the bank on Ritchie Highway in the Brooklyn area neighborhood near my home when I noticed a low flying object which I thought at the time was an airplane. However, as I proceeded up the highway, I noticed that the object had decended dramatically and was actually just above tree top level.  I though - what is wrong with this plane - why is it so low? Then, it stopped in mid air and just sat there. It was dark at the time - but it was not a helicopter. There were lights on what appeared to be the front, the middle and the back of whatever this was.There was also a haze or cloud like vapor around the object. No noise at all. There was no traffic coming in the opposite direction or behind me at the time. I had almost come to a complete stop looking at it. I then proceeded to drive and as I looked back - it was still there - not moving.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84034.html](http://www.nuforc.org/webreports/reports/084/S84034.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Timperley (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>Vanishing evening starWalking my dogs on Salisbury field with still some light in the cloudless evening sky, for some reason I looked upwards and observed what I thought was a very bright star, gazed fixed the light faded quickly as if accelerating away yet remaining fixed in its position. Within seconds the light reduced to a pin-prick and then vanished.There are many reports of strange sightings within this fifteen acre park, I for one have witnessed a number over the years.The field is three miles from Manchester International Airport, having grown up with aircraft movements I know this was no conventional craft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65895.html](http://www.nuforc.org/webreports/reports/065/S65895.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [510](http://www.nuforc.org/webreports/reports/164/S164781.html)
-- [509](http://www.nuforc.org/webreports/reports/164/S164780.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164778.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164779.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
