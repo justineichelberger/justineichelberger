@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:41 on 20 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:43 on 20 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in North Haven (CT) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Bright beam of light omitted from cylinder.There was nothing in the sky as far as a craft or flying object that was visible. Something from past the stars looked like a huge flashlight beam coming down a long cylinder and flare out towards the bottom of the light. As we looked at it in aww the light sucked back up the atmosphere beyond stars. No clouds in the sky at all very clear bright night. As the beam went up the flare got thinner like it too was fitting back into the cylinder shape as it went up and disappeared. The beam of bright light that was higher up was very bright and defined contained beam however at the bottom where it flared outwards it didnt seem like earthy light/flash light type beam that flares out it seemed to be a more fluffy,foggey. Its hard to discribe. I can say whatever it was omitting that beam of light was not visble and the light even as big and wide as it appeared past the stars.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72462.html](http://www.nuforc.org/webreports/reports/072/S72462.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Cowpens (SC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Orange ball seen over tree top theen disappeared with no sound or any trail behind it either.my brother and took our dog out to use the bathroom and there was a birght orange let about 20 feet over top the tree kin so i grabbed my dog an when towards the house as we looked back it was gone with out a sound or sight((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105496.html](http://www.nuforc.org/webreports/reports/105/S105496.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [510](http://www.nuforc.org/webreports/reports/164/S164781.html)
-- [509](http://www.nuforc.org/webreports/reports/164/S164780.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164778.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164779.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
