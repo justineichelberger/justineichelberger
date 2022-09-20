@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:01:08 on 20 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:55 on 20 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Salt Lake City (UT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Kite formation, including tail, traveled S to N along Wasatch over Red Butte.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130115.html](http://www.nuforc.org/webreports/reports/130/S130115.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in New Baltimore (MI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright silent big orange orbs fly over new Baltimore at around 500ft in altitude.I was outside having a cigarette, when I noticed two brightly-lit Orange orbs coming over the tree line from the southern direction in the area of where Selfridge Air base is.  So I quickly got my phone out and snap the photo, after realizing it was just on picture I switched it to video and started filming.  As I was filming there was a series of these bright orange silent orbs continuously coming from the south heading north to me they looked about 5000 ft in altitude and where about the size of two airliners and traveling at a speed three times that of an airliner.  Sometimes they would be in pairs and sometimes there would just be one but I films them going right over top of me completely silent to the north towards Port Huron for about 10 minutes.  And even my neighbor said that those could not be any type of Chinese lanterns or drones for that matter.  I contacted local police and they said that there was a candle light visual going on in the area but when I ! investigated into that they said they never released anything in the air.  I'm still waiting on answers from Selfridge to see if they had any operations going on.  But other than that, there is no other known or publicized activities that we're going on that night that would explain what they were.  I hope that there were others with video or witness testimony, because there is no way that all those big bright anomalous objects flew over and nobodu else notice.  And if it were known craft the air base should have radar record.  If they will even disclose such info.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136282.html](http://www.nuforc.org/webreports/reports/136/S136282.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [510](http://www.nuforc.org/webreports/reports/164/S164781.html)
-- [509](http://www.nuforc.org/webreports/reports/164/S164780.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164778.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164779.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
