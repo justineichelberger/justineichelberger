@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:55 on 20 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:41 on 20 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Broad Brook (CT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>The craft flew over my condo complex approximately one hundred meters above me traveling at around 150 miles an hour.  The shape was round with a slight glowing orb around it.  It was about ten to fifteen meters in diameter and produced no sound at all. Being in combat arms in the US for just over ten years.  This was not from here.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159447.html](http://www.nuforc.org/webreports/reports/159/S159447.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Ansonia (CT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>huge ball of lightI was standing on the porch with a friend at about 12:45am when I spotted a huge (round) ball of light. It fell from the left to the right in a downward motion in the northern part of the sky facing Waterbury, CT.  It was larger than any other light I have ever seen in the night sky and it was aprox a quarter size of the moon.  It had no noise and no trail and was gone below the trees before I could even figure out what it could have been.  Very big and very bright and almost perfectly round in shape.  Wondering if other people who were not surrounded by trees got a longer, better look.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Meteor??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72505.html](http://www.nuforc.org/webreports/reports/072/S72505.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [510](http://www.nuforc.org/webreports/reports/164/S164781.html)
-- [509](http://www.nuforc.org/webreports/reports/164/S164780.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164778.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164779.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
