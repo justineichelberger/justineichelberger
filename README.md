@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:19:50 on 20 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:07:54 on 20 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in La Motte (IA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Wierd flash of lightAt approx. 11:04 P.M. last night (Sep. 20 2006) I went outside to have a cigarette.  My golden retriever Mia came out with me.  I'm somewhat of a stargazer, I've seen odd things in the sky before but nothing worth reporting.  I satellite watch as a hobby, so I know what is an unusual object in the sky.  It was a beautiful night, with no clouds.  Suddenly to the W-NW I saw a brilliant flash of light.  It was way too cold to be lightning.  My dog immediatly reacted, and bolted back to the house.  I could tell she was frightened.  It only lit up the western sky, not the whole sky like how lighting does.  I lasted only a few seconds, but long enough to freak me and my dog out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52568.html](http://www.nuforc.org/webreports/reports/052/S52568.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Hickory (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>an orb or ball hovers around space station for a couple of secondsIt was a cold night in fall when we (me,my freind and dad) where waiting for the space station to go over.when it finally went over i filmed it and  there was orb or ball that comes from the top of the screen and it flickers away and then it comes up right under the space station and it zoomed over in front of the space staition very fast (and the space station was going very very fast).It then stops on a dime and slowly turns and goes back aproaches the station and goes right by it when it comes at it agin and diseppers. it then flickers around the screen as you watch it over.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44404.html](http://www.nuforc.org/webreports/reports/044/S44404.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [510](http://www.nuforc.org/webreports/reports/164/S164781.html)
-- [509](http://www.nuforc.org/webreports/reports/164/S164780.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164778.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164779.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
