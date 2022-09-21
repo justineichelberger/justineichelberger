@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:55:20 on 21 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:34:55 on 21 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Light Tan colored object flying past in clear night sky covered 60 miles in 6 seconds no soundSaturday morning at approx. 00:10 AM   It was a clear night just past midnight. Sitting outside facing East I looked up at a clear night sky and put my arm up to block the light from the parking lights to my left.  I was looking up for meteors and stars. All of a sudden out of East an object appeared out of the dark night that was not a light but a light tan colored hazy enshrouded object moving N to S with incredible speed and passed in front of me and out of site in a matter of 5 to 6 seconds.  It stayed on a horizontal path directly in front of me at approximate elevation of 2 to 4 miles.  I saw that it was not flat bottom, round or triangular but a very unusual shape with obvious edges and seemingly solid and unusual because I realized that it was emanating its own light and not being lit from light reflected from the ground.  Might have been from the heat of its speed through the atmosphere.  It emitted no sound nor had any lights.North from the direction that this object traveled is a valley elevation 5280 feet above sea level, to the NE of my .s a 11000 foot mountain the object described seemed to follow this valley N to S at approximately 13000 to 14000 feet</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149109.html](http://www.nuforc.org/webreports/reports/149/S149109.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>possible  UFO  crash debris discovered in southwest New Mexico  (recent)This is a piece of debris found in southwest New Mexico 1998,1999. This person ((name deleted)) drove upon a 25' x 15' oval dip in the road with melted metal imbedded in the asphalt and debris scattered on both sides of the road,no vehical fire and no vehical was found.  It's as though something came down scrapped the pavement then left. I traded a small nickel iron meteorite for a couple pieces,then sent them to Linda Moulton Howe to be sent to a lab for analysis, the results were mainly aluminum with other trace elements. I'm trying to have an isotope ratio analysis to be perfomed.  ((name deleted))((NUFORC Note:  Date of sighting may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53991.html](http://www.nuforc.org/webreports/reports/053/S53991.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [429](http://www.nuforc.org/webreports/reports/164/S164710.html)
-- [428](http://www.nuforc.org/webreports/reports/165/S165182.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164765.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164775.html)
-- [425](http://www.nuforc.org/webreports/reports/159/S159494.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
