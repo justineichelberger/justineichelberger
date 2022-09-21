@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:03:45 on 21 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:45 on 21 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Perth (Western Australia) () reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>invisible UFO??driving home through farm and bush areas, looked off to my right and saw a strange disturbance in a paddock. at first my stereo was turned up and i didnt notice the sound, however when i turned my stereo down, i still noticed a deep bass humming noise coming from the paddock. i got out of my car to have a closer look at the paddock and to see from where the noise was coming from, although on closer inspection i found there to be no machinery or any man-made instruments in the immediate area. standing near the boundry of the paddock i felt like there was something present there, although nothing could be seen.  there was however a large shaddow moving around the paddock and the animals were avoiding the middle where this shaddow was located.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39415.html](http://www.nuforc.org/webreports/reports/039/S39415.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Grand Junction (CO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>unknow over Grand Junction coSaw a object in the western sky about 20:30 it was orange in color it was heading east .  I observed it for several minuets .   I  then seen it turn to the  north . I called my two brothers out and they saw it too.  It was going at a fast rate of speed about 1000 mph. I went in to the house and  got  a pair of binoculars. I went into the back yard and by the time I could find it, it was almost out of sight.There were no flashing lights, at the same time that we saw this there were at least three airplanes in the night sky and we could see their lights flashing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65818.html](http://www.nuforc.org/webreports/reports/065/S65818.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [429](http://www.nuforc.org/webreports/reports/164/S164710.html)
-- [428](http://www.nuforc.org/webreports/reports/165/S165182.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164765.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164775.html)
-- [425](http://www.nuforc.org/webreports/reports/159/S159494.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
