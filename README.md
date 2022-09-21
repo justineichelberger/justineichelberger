@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:46 on 21 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:11:47 on 21 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Renton (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>2 separate sightings within 5 minutes of each otherDuring my nightly walk with my dog, I noticed a bright, fast moving object in the sky.  It moved from north to south and low to the horizon.  I followed it for a couple of seconds and lost it behind a house.  It did not re-appear.  The object moved much faster than any normal aircraft and was much brighter than airplanes normally appear (it also did not blink).  I continued to watch the sky for another 5 minutes and then noticed directly above me a bright blinking light and appeared to be moving away from the earth.  It remained in the same spot in the sky, but became fainter and smaller over about 5-7 seconds.  I continued to watch the sky, but did not see anything else.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72552.html](http://www.nuforc.org/webreports/reports/072/S72552.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Pellville (KY) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 600.0 - 600.0 minutes.</sub><blockquote><sub>There are two diamond shaped orange green an yellow lights, one southwest from my location  the other western direction from my location they will stay in that location all night.  I have noticed this for about 2 weeks now they seem to change locations last week one was due east from my location the other was Southeast from my location.  These are the only two locations I've seen them they seem to be bigger and brighter than anything in the sky of course other than the moon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130107.html](http://www.nuforc.org/webreports/reports/130/S130107.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [429](http://www.nuforc.org/webreports/reports/164/S164710.html)
-- [428](http://www.nuforc.org/webreports/reports/165/S165182.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164765.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164775.html)
-- [425](http://www.nuforc.org/webreports/reports/159/S159494.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
