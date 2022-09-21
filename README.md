@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:32 on 21 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:16:09 on 21 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Carlsbad (CA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 18-19:00 - 18-19:00 minutes.</sub><blockquote><sub>Pinkish Lightbulb shape over neighborhoodDriving North on Rt5, came over a hill before Batiquitos Lagoon and saw a lightbulb shaped thing over the far shore/neighborhood, hovering and low. It was a frosted light as if lit from inside and had no markings on its uniform surface. The color was a pink-orange. At first I thought it was a hot air balloon (about the same size)but a second or two after seeing it, it turned off like a light switch and could no longer be seen in the dark. There are hot air balloons around Del Mar some miles to the South, but none fly low over houses in the dark, nor do they fly that far North. I called the golf course below it (4 Seasons)off of Poinsettia Lane to see if they had a promotional balloon up but they said they don't do things like that.ps Could you perhaps include a space to "write in" the UFO shape on yr form? Thanks.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26189.html](http://www.nuforc.org/webreports/reports/026/S26189.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Warton (UK/England) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>A huge bluish, fluorescent like, light unlike anything else I have ever seen,moving silently across the sky.The shape was unclear, it appeared as a huge bluish, fluorescent like, light.It appeared to the north of where we were standing.Above trees no more than a hundred yards or so away.It moved horizontally East to West.It was silent and soon disappeared.One witness claimed to have seen lights at each end of the shape.The other believed it was descending behind the trees.From my viewing angle I cannot confirm either of these details.I saw it emerge from behind higher trees, move swiftly and smoothly before disappearing.I am 77 years old and had not drunk any alchohol.I have witnessed many 'Shooting stars' during my time in Egypt in the forces.This was not anything burning out on re-entry as news reports next day suggested.One witness was I would guess in his early Fifties and I would judge reliable.The other witness was 21 year old. She asked me to confirm the time, therefore I would say she had her wits about her.Neither were known to me before the event. We were all at a club in the village of Warton at the time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93048.html](http://www.nuforc.org/webreports/reports/093/S93048.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [429](http://www.nuforc.org/webreports/reports/164/S164710.html)
-- [428](http://www.nuforc.org/webreports/reports/165/S165182.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164765.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164775.html)
-- [425](http://www.nuforc.org/webreports/reports/159/S159494.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
