@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:34:55 on 21 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:27:43 on 21 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>possible  UFO  crash debris discovered in southwest New Mexico  (recent)This is a piece of debris found in southwest New Mexico 1998,1999. This person ((name deleted)) drove upon a 25' x 15' oval dip in the road with melted metal imbedded in the asphalt and debris scattered on both sides of the road,no vehical fire and no vehical was found.  It's as though something came down scrapped the pavement then left. I traded a small nickel iron meteorite for a couple pieces,then sent them to Linda Moulton Howe to be sent to a lab for analysis, the results were mainly aluminum with other trace elements. I'm trying to have an isotope ratio analysis to be perfomed.  ((name deleted))((NUFORC Note:  Date of sighting may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53991.html](http://www.nuforc.org/webreports/reports/053/S53991.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Melrose (MN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>My girlfriend and I were smoking a cigarette on the deck when we noticed a triangular object with 6 lights in the sky above the field with 2 drones watching it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149097.html](http://www.nuforc.org/webreports/reports/149/S149097.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [429](http://www.nuforc.org/webreports/reports/164/S164710.html)
-- [428](http://www.nuforc.org/webreports/reports/165/S165182.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164765.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164775.html)
-- [425](http://www.nuforc.org/webreports/reports/159/S159494.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
