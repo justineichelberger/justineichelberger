@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:38 on 21 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:36 on 21 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>Formation in western sky, 4 blue lights, San Francisco, Sept 21, 2017 at 20:02pmI was crossing California street, heading north on Octavia in San Francisco the night of September 21, 2017.  I noticed the crescent moon in the western sky and quickly snapped a walking picture as I crossed the street.  I didn't notice anything in the sky at the time I snapped the picture, nor immediately afterwards.  Once I finished crossing the street, I noticed this strange object in the sky of my photo, but again, nothing was in the sky.  I somehow captured this thing by chance on my phone's camera.Location is California and Octavia Sts in San Francisco, facing west.  Time is 20:02pm.((NUFORC Note:  We suspect a lens flare.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141764.html](http://www.nuforc.org/webreports/reports/141/S141764.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Cone' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Large glowing streak in sky with two strange objects.Object flew towards N.W. at fast rate with large glowing misty tail about 1/4 mile long from top of mountain peak. Sky was very well lit due to this. Left a red colored tail with yellowish blue myst. Colors stayed in air for 1/2 hour. Flying object was gone after 10 minutes or less. Large white object hovered over area with no side to side motion. Brighter than a star and was above mountain. Later it was gone.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46445.html](http://www.nuforc.org/webreports/reports/046/S46445.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [429](http://www.nuforc.org/webreports/reports/164/S164710.html)
-- [428](http://www.nuforc.org/webreports/reports/165/S165182.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164765.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164775.html)
-- [425](http://www.nuforc.org/webreports/reports/159/S159494.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
