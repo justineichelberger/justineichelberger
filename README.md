@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:40 on 20 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:01:59 on 21 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Freeland (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Another Freeland Light SightingAt approximately 8:35 pm, I looked out of my bedroom window to check if the regularly occurring lights were visible.  After not being seen for several days we were surprised to see two then three lights behaving as before....dimming then getting brighter then dimming.  They did not last as long as last time...dimming out in under an hour.  Again however there is a odd cloud band visible mainly over the area they are visible.((NUFORC Note:  We suspect that stars are the first possibility that would have to be ruled out, before concluding that the objects were UFOs.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130081.html](http://www.nuforc.org/webreports/reports/130/S130081.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Reno (NV) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Small plane size rectangular shape with triangular nose, looked to be investigating a small cloud while walking along Offenhauser Dr.It was between Sep and Nov because it was still slightly light out at 6:30 in the evening. It was cold enough to wear my jacket to but not yet winter, I remember that. There was a small amount of clouds in the sky on this evening and they were all a little ways apart from eachother. The person I was walking with said what is that and pointed at the sky. When I looked up I saw what appeared to be a rectangular like object about the size of a small plane with a triangular like top to it that came to a point. This craft looked like it was inspecting this one cloud. There were no wings and no noise. It had blue, green and pinkish streeks coming from the back that looked kind of like what a rocket has behind it when it takes off yet it was not thick nor looked like it was exhaust of anykind. The object was a light metalic silver. It moved around this cloud in such a way and in such speed unlike anything any of our normal average citizens know about that exist in ! our world. Then it just went POOF! Dissappeared just like that, right in front of our eyes. I do know we have nothing that can just dissapear in the blink of an eye, a flash of a second right in front of you. If I could draw a picture it would be imagined like this. The cloud was pretty small and the object went up, stopped, went down behind the cloud, back up through the cloud, then around it and back up then stopped, hovered by this cloud touching the edge of it with its nose and then back behind it, then it went back out and hovered for a second then POOF, it dissappeared. The movements were not of this world. It did not make turns. It just went up then down then through and around and out, its hard to explain it perfectly how it moved. It just did not move like any jets, planes, rockets we have and IT WAS NOT A DAMN WEATHER BALLOON either. There is no EXPLAINING this one away for me. I was not scared at what I was seeing I was amazed. I have always thought they existed ! and I had the privledge of actually seeing one which I am very! proud o f being able to say I have seen one.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90053.html](http://www.nuforc.org/webreports/reports/090/S90053.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [510](http://www.nuforc.org/webreports/reports/164/S164781.html)
-- [509](http://www.nuforc.org/webreports/reports/164/S164780.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164778.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164779.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
