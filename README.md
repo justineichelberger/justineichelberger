@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:11:03 on 21 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:40 on 21 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Richmond (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orange orbs traveling NNE. One after another with a 20 second space. No sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92969.html](http://www.nuforc.org/webreports/reports/092/S92969.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Wichita (KS) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Object with big bright white lights, and smaller, red, white, and blue lights hovering in the sky.I keep seeing something big, and bright hovering in the sky, and it's been driving me crazy not knowing what it is! Can you or someone please give me and I'm sure there's more people too, but get us an explanation or answers?  I don't know about other people, but I really would like to know what it is!  I have been seeing this object now for about 2 months now. I've noticed that it's usually there about the same time of the day.  I'm thinking that it's usually there about when the sun is setting or more around 8pm and is up there between 30 minutes to an hour.One night I had got my digital camera out to try to take picture's of it, but then right as I was about to take a picture my camera had died on me. I have took some other pictures, but for some reason I couldn't seem to get the flashing colored lights and it just looks like some bright light in the sky. I was hoping that maybe I could see it a lot better and get some picture's. Then if it turned out to be something that I needed to report, like an alien space craft then I would. Or if it just happened to be something explainable like some type of air craft that was from here on earth, then I would just let it go and not really say anything. Well right before my camera had died on me, I had saw some red, white, and blue, flashing lights on the object. The flashing lights looked like they were going back and fourth from side to side. I think that was the only color's that I have seen on it flashing. The part that sucks though is that I didn't get a chance to see anything else. I had only got to see those flashing lights when my camera was zoomed in, but not from the naked eye. When you look at it normally all you can see is a bright light or lights. I think that if you just kinda glance at it, it only looks like it's one big bright white light, but if you look at it a little longer or try harder to look at it, it looks more like several bright white lights. It's not until you use something else to try to look at it closer that you can tell it has other flashing colored lights. Every time I see the object that is hovering in the sky it kinda looks like it is the same shape as a flying disk, but then again I can get a chance to see it very close to confirm it. I really hope that someone from this company will try to investigate these sitings that I've been seeing, and get us some answers! Thank you for your time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102475.html](http://www.nuforc.org/webreports/reports/102/S102475.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [429](http://www.nuforc.org/webreports/reports/164/S164710.html)
-- [428](http://www.nuforc.org/webreports/reports/165/S165182.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164765.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164775.html)
-- [425](http://www.nuforc.org/webreports/reports/159/S159494.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
