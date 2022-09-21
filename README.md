@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:16:00 on 21 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:03:29 on 21 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Long Island (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>White Flash with a Blueish Green line going downwardsAt aproximatly 5:36 am there was a bright flash in the south of the sky that then streamed down with a fireball look.((NUFORC Note:  Possibly a meteor/fireball.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159512.html](http://www.nuforc.org/webreports/reports/159/S159512.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Minneapolis (MN) reported seeing craft that fit the description of some 'Other' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>V shaped stealth aircraftThe aircraft had 4 lights, one in the apex of the V shape and the other on the front and side wings. It was moving slowly and then turned abruptly, you could not hear anything, so it was in stealth mode or using some sort of quiet engine.  After turning it flew in the same direction and eventually the lights went out and we lost sight of it.  The craft itself looked metallic grey and the light in the apex was red while the other ones were regular light.  I could make out the V shape because there was nothing connecting the wings together which is why I found it odd in the first place.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93046.html](http://www.nuforc.org/webreports/reports/093/S93046.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [429](http://www.nuforc.org/webreports/reports/164/S164710.html)
-- [428](http://www.nuforc.org/webreports/reports/165/S165182.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164765.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164775.html)
-- [425](http://www.nuforc.org/webreports/reports/159/S159494.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
