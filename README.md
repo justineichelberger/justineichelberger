@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:27:43 on 21 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:22:28 on 21 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Melrose (MN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>My girlfriend and I were smoking a cigarette on the deck when we noticed a triangular object with 6 lights in the sky above the field with 2 drones watching it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149097.html](http://www.nuforc.org/webreports/reports/149/S149097.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in West Chester (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>traingular craft with array of bright lights silently gliding near treelineOn Friday night, September 21st  around 8:00pm, my husband and I were taking our evening walk when I spotted something to the east flying low in the sky. It caught my eye because the lights were getting brighter, but as we stopped to look at a triangular object flying silently and low in the sky at dusk, we realized we were seeing the lights brighten as it showed it belly. It turned and the lights dimmed and at one point seemed like a horizontal line of lights. We were seeing it from the side or horizontal plane. The cluster of lights were very bright, about 6 sets of lights that looked like an array to me, but my husband’s better vision detected an outline and many lights that formed the array. It wasn’t in any hurry and seemed to glide above the clouds and took it’s time making its way south along the tree line. We lost sight of it so we jumped in our car trying to anticipate where it had gone.  Unfortunately, we were unable to locate it again and since then we’ve been scouring the internet trying to find others in our area of West Chester, Ohio who may have also seen it. I’m an office manager of 3.5 years for the Cincinnati Branch of an international company and my husband is a crew member of a predominant builder her in Cincinnati. We knew we wouldn’t hear about it on the news as in such a free country as ours, we’re not allowed to be made aware of things like this en masse. But we know what we saw and we’ll continue evaluating the skies at night hoping to see the craft again.  Funny, that we stepped into a store today that was showing video footage and telling a news story that a similar craft was sighted recently in Mexico. Maybe next time I’ll have my video cam / digital camera with me to capture the proof.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58932.html](http://www.nuforc.org/webreports/reports/058/S58932.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [429](http://www.nuforc.org/webreports/reports/164/S164710.html)
-- [428](http://www.nuforc.org/webreports/reports/165/S165182.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164765.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164775.html)
-- [425](http://www.nuforc.org/webreports/reports/159/S159494.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
