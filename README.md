@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:03:19 on 21 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:44 on 21 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>Formation in western sky, 4 blue lights, San Francisco, Sept 21, 2017 at 20:02pmI was crossing California street, heading north on Octavia in San Francisco the night of September 21, 2017.  I noticed the crescent moon in the western sky and quickly snapped a walking picture as I crossed the street.  I didn't notice anything in the sky at the time I snapped the picture, nor immediately afterwards.  Once I finished crossing the street, I noticed this strange object in the sky of my photo, but again, nothing was in the sky.  I somehow captured this thing by chance on my phone's camera.Location is California and Octavia Sts in San Francisco, facing west.  Time is 20:02pm.((NUFORC Note:  We suspect a lens flare.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141764.html](http://www.nuforc.org/webreports/reports/141/S141764.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Salem (OR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Something huge just fell towards Earth.I was sitting outside on my back porch.  I caught a light out of the corner of my eye.  It was huge.  I thought it was a shooting star.  But it was huge, and got closer to earth than anything I've seen before of that nature.  And it wasn't as fast like I have seen them before.  It was bright pale yellow at first then turned a light blue as it got closer to the ground, it had a smoke trail behind it.  I thought it would have burned up but it didn't and I could continue to see it until it was out of sight and behind the trees in my line of vision.  I've never seen anything like it.  I'm actually scared right now.  It lit up the sky and I thought I was going to feel it hit.  But I felt nothing.  I'm shaking right now.  I've never seen anything like it before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123010.html](http://www.nuforc.org/webreports/reports/123/S123010.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [429](http://www.nuforc.org/webreports/reports/164/S164710.html)
-- [428](http://www.nuforc.org/webreports/reports/165/S165182.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164765.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164775.html)
-- [425](http://www.nuforc.org/webreports/reports/159/S159494.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
