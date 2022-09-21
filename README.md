@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:29:27 on 21 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:56:10 on 21 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Manalapan (NJ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>extremely bright lights hovering over the tree line before dipping below the tree lineThe craft was hovering over the tree line.  It had the brightest lights I have ever seen across the craft.  It couldn't have been an airplane because it hovered for quite a long time and then dipped below the tree line.  We jumped into the car and went to Tennent Cemetary and it reappeared above the trees again.  It again seemed to hover and not move for some time.  The lights were all the way across the craft.  There was no sound coming from the craft.  It again dipped below the trees.  We then jumped into the car and drove to Wemrock rd. to see if it would reappear there.  It did not but what was really amazing, a shooting star shot across the sky around the vicinity where we saw it last. The only craft that I know can hover is a helicopter and it appeared to large to be that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46419.html](http://www.nuforc.org/webreports/reports/046/S46419.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Columbus (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>6-7 orange fireballs following in formation across sky9-21-13, about 9:10 pm in north end of Columbus, Ohio, saw two orange fireballs flying side by side, followed by 6-7 fireballs following behind in formation.  Traveling south and banking south east.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102488.html](http://www.nuforc.org/webreports/reports/102/S102488.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [429](http://www.nuforc.org/webreports/reports/164/S164710.html)
-- [428](http://www.nuforc.org/webreports/reports/165/S165182.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164765.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164775.html)
-- [425](http://www.nuforc.org/webreports/reports/159/S159494.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
