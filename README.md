@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:16:09 on 21 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:11:03 on 21 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Warton (UK/England) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>A huge bluish, fluorescent like, light unlike anything else I have ever seen,moving silently across the sky.The shape was unclear, it appeared as a huge bluish, fluorescent like, light.It appeared to the north of where we were standing.Above trees no more than a hundred yards or so away.It moved horizontally East to West.It was silent and soon disappeared.One witness claimed to have seen lights at each end of the shape.The other believed it was descending behind the trees.From my viewing angle I cannot confirm either of these details.I saw it emerge from behind higher trees, move swiftly and smoothly before disappearing.I am 77 years old and had not drunk any alchohol.I have witnessed many 'Shooting stars' during my time in Egypt in the forces.This was not anything burning out on re-entry as news reports next day suggested.One witness was I would guess in his early Fifties and I would judge reliable.The other witness was 21 year old. She asked me to confirm the time, therefore I would say she had her wits about her.Neither were known to me before the event. We were all at a club in the village of Warton at the time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93048.html](http://www.nuforc.org/webreports/reports/093/S93048.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Richmond (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orange orbs traveling NNE. One after another with a 20 second space. No sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92969.html](http://www.nuforc.org/webreports/reports/092/S92969.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [429](http://www.nuforc.org/webreports/reports/164/S164710.html)
-- [428](http://www.nuforc.org/webreports/reports/165/S165182.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164765.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164775.html)
-- [425](http://www.nuforc.org/webreports/reports/159/S159494.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
