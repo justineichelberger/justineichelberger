@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:11:47 on 21 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:55 on 21 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Pellville (KY) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 600.0 - 600.0 minutes.</sub><blockquote><sub>There are two diamond shaped orange green an yellow lights, one southwest from my location  the other western direction from my location they will stay in that location all night.  I have noticed this for about 2 weeks now they seem to change locations last week one was due east from my location the other was Southeast from my location.  These are the only two locations I've seen them they seem to be bigger and brighter than anything in the sky of course other than the moon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130107.html](http://www.nuforc.org/webreports/reports/130/S130107.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Spencerville (OH) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Cigar shape with two lights at both ends.I am a 37 year old service technician and now a former sceptic.	 I stepped out on to my back porch to smoke a cigarette before going to bed.  After a minute I noticed a pair of lights appearing in the horizon just to my right above my detached garage on the east side of my house. It looked like a low flying plane with its landing lights on at first. I was expecting to hear the sound of a jet or prop engine of some sort but it never made a bit of noise. I was facing due east and it was moving west to slightly northwest overhead. A few seconds later I could tell the two lights were actually much further apart than an airplane and they were positioned at the front and back of whatever it was coming toward me. As it passed closer overhead I could faintly make out a dark shadow of a cigar shape behind the lights. The object then went out of view behind a large maple tree on the northeast corner of the house. I jumped down off the porch and ran to the north side of the house to try and catch sight of it again but it had disappeared. I stood outside for several more minutes hoping to see it again before going inside and looking at the clock. It was 2:10 am so I must have seen it somewhere around 1:50 am.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58882.html](http://www.nuforc.org/webreports/reports/058/S58882.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [429](http://www.nuforc.org/webreports/reports/164/S164710.html)
-- [428](http://www.nuforc.org/webreports/reports/165/S165182.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164765.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164775.html)
-- [425](http://www.nuforc.org/webreports/reports/159/S159494.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
