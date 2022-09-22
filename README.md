@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:38 on 22 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:02:10 on 22 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Poway (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>craft spun around then twisted then flew up((NUFORC Note:  Vandenberg AFB missile launch.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46429.html](http://www.nuforc.org/webreports/reports/046/S46429.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Portsmouth (RI) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Amber/gold rising from tree level 45 deg up.  Fast and accelerating.  Dissaperaed behind tree branch.  Very bright.Driving home, alone from work.  Lots of tall trees siding the road.  Saw a brief amber/gold oval/squished circle very bright, but not at all blinding, depart at 45 deg up. As car came around tree, I saw nothing.  Distance unknown.  Light mist/100% humidity normal vis is only ~ 10 nm. This was really fast.  No lightning in area.  Not as fast as lightning. Inside the outline of the shape was an equal shape but a darker brown.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04018.html](http://www.nuforc.org/webreports/reports/004/S04018.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [428](http://www.nuforc.org/webreports/reports/164/S164875.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164767.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164699.html)
-- [425](http://www.nuforc.org/webreports/reports/164/S164878.html)
-- [424](http://www.nuforc.org/webreports/reports/164/S164716.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
