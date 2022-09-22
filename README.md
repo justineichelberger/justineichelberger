@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:02:57 on 22 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:41 on 22 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Jonesboro (AR) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 143</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164875.html](http://www.nuforc.org/webreports/reports/164/S164875.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Milton (KY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>strange colored lightsapproximately toward southwest bright light noticed changing from blue to yellow to green and white and red . seems to hover and then would more up and down and back and forth also noticed a white haze when object moved around. and a smaller changing light object noted approx of to its left. then a lg very bright yellowish white light noticed further to the left almost seemed as if it just rose right up out of the field. when planes came close it seemed to get very dim the brighter again once planes passed. then a sm orange colored object rose up to bright light then left off to the right and up. every so often i heard almost what i would call a soft humming sound, not a plane sound</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39419.html](http://www.nuforc.org/webreports/reports/039/S39419.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [428](http://www.nuforc.org/webreports/reports/164/S164875.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164767.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164699.html)
-- [425](http://www.nuforc.org/webreports/reports/164/S164878.html)
-- [424](http://www.nuforc.org/webreports/reports/164/S164716.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
