@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:14:49 on 22 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:08:16 on 22 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Austell (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>One bright green light (similar to traffic light green) moving straight downwards at a fast, but controlled rate of speed.  No contrails or blurring.  Multiple aircraft arrived soon after. Slower than a shooting star, but faster than any commercial aircraft.  Lost sight of it as it continued downwards beyond that tree line.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130201.html](http://www.nuforc.org/webreports/reports/130/S130201.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Hampstead (MD) reported seeing craft that fit the description of some 'Fireball' over a period of approximately we drove away before all  - we drove away before all  minutes.</sub><blockquote><sub>Large amount of yellowish orange lights moving across the skyMy son and I were driving on Houksville rd, toward Carrollton Rd about 9:55 pm, in Hampstead Md. We were .9 of a mile from Carrollton Rd. He said "mom, what is that?" I looked to my right and saw 20-30 orangish-yellow balls of light moving up into the sky.  They were moving slowly up and then horizontally.  We stopped and watched for about 3 minutes. We then drove to Carrollton Rd. and turned left and watched from there.  They seemed to continue to move forward and up.  They seemed to dissapear as they went higher.  We could not tell how far away they were.  But they did appear to move with purpose. We had the windows open did not hear any sound at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92993.html](http://www.nuforc.org/webreports/reports/092/S92993.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [428](http://www.nuforc.org/webreports/reports/164/S164875.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164767.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164699.html)
-- [425](http://www.nuforc.org/webreports/reports/164/S164878.html)
-- [424](http://www.nuforc.org/webreports/reports/164/S164716.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
