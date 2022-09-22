@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:58 on 22 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:08:33 on 22 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1990, an anonymous witness in Champaign (IL) reported seeing craft that fit the description of some 'Egg' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Black silhouette in twilight sky, almond shaped UFO moving N to S at constant speed and low altitudeWhile walking out of K-mart I looked up at flock of birds in the twilight sky.  Above/beyond the birds I noticed an object slowly moving northward.  It immediately gave me chills because it didn't look like any flying vehicle I'd ever seen (and since I grew up in Wichita KS I've seem them all). For a moment I thought it might be a stealth fighter, since the nation was gearing up for the first Iraq war at the time, but the object had no wings or rotors or wheels, just a smooth oval (almond or maybe flattened egg) shape, slightly narrower in front, with a small oval bump on top. I couldn't determine surface details since the sun was down and I could only see a black silhouette against the sky.  It made no noise, there were no lights. When I first saw it, it was about 45 degrees up, to the west.  I estimate it was 20-30 feet wide, flying at approximately 1500' altitude moving north around 100mph (similar to a small private plane in size and speed). I thought 'hey, I see YOU' and looked around at other people in the parking lot, no one else was watching it. I observed it for a couple minutes until it disappeard over the horizon. After getting home I phoned the local airport and asked if they had any strange radar images or if anyone else had reported a UFO. They acted like I was crazy so I didn't bother to notify the police.I considered the posibility that it might have been some type of balloon but it was moving much faster than the wind that night.Observer info: Faculty member at the University of Illinois</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44148.html](http://www.nuforc.org/webreports/reports/044/S44148.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Saratoga (CA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Large craft, single light, moved upward until out of sight.Irregular, angular silver metallic craft, appeared to be several miles high, moves upward for 20 minutes until out of sight.  Had one white light that flashed randomly.  When first seen, the light was 5 times brighter than a star, the craft about 10 times larger than the light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149072.html](http://www.nuforc.org/webreports/reports/149/S149072.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [428](http://www.nuforc.org/webreports/reports/164/S164875.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164767.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164699.html)
-- [425](http://www.nuforc.org/webreports/reports/164/S164878.html)
-- [424](http://www.nuforc.org/webreports/reports/164/S164716.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
