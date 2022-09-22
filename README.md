@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:40 on 22 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:38 on 22 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Sand Dune Recreational Area (west of, on I-8) (CA) reported seeing craft that fit the description of some '' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>We were heading to Arizona on I-8 E through the mountains when I saw a bright shining light behind us that seemed to be dragging a flourescent gas. The craft wasn't very distinguishable because the gas it was emitting was so bright. My husband pulled the car over and we got out and both of us first wondered if there was a shuttle re-enterin the atmosphere that we didn't know about. I tried to take pictures but in the excitement i couldn't get it on night mode and so the pictures came out blurry. The gas seemed to spread out almost like a net and was strange how bright white it was. I cannot imagine what it was.((NUFORC Note:  Vandenberg AFB missile launch.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46460.html](http://www.nuforc.org/webreports/reports/046/S46460.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Hendersonville (TN) reported seeing craft that fit the description of some 'Formation' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Several shape shifting lights in formation at times above Old Hickory Lake for about 90 minutes or better.  At times the lights would pulsate above the grey clouds and form pyramid or boomerang shapes in formation and then light blue-ish green lights would pulse.  At times it would shoot across the sky and cast orb like shapes and fly above the lake in circles in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159517.html](http://www.nuforc.org/webreports/reports/159/S159517.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [428](http://www.nuforc.org/webreports/reports/164/S164875.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164767.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164699.html)
-- [425](http://www.nuforc.org/webreports/reports/164/S164878.html)
-- [424](http://www.nuforc.org/webreports/reports/164/S164716.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
