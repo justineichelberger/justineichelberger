@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:47 on 22 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:14:49 on 22 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Manassas (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>sitting outside, saw bright light in sky, traveling at a high speed.My friend and I were sitting outside of the plant we work at.  I happened to look up at the sky and saw a bright orange ball (almost like a ball of fire in the sky) travelling at a high rate of speed.  I pointed it out to my friend.  At first we thought it was a comet, (but it didn't have a tail), then we thought it might be a meteor or a shooting star.  However it was neither.  We watched it coming down toward earth at like a 45 degree angle, then it abruptly started falling straight toward the ground.  Thats when we saw it like transform into like a triangle and had bright lights that lit up on the bottom of it which we think might of been thrusters.  The lights were really bright, then this object shot into the sky and dissapeared completely.  This all happened in approximately 30-40 seconds.  As close as it was to us, had it of been any kind of aircraft, we would have heard something.  As it is it was completely silent.  It was also a cloudy and semi stormy night, and it was traveling under the clouds, and even though the actual object was bright, no light reflected off the clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09916.html](http://www.nuforc.org/webreports/reports/009/S09916.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Austell (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>One bright green light (similar to traffic light green) moving straight downwards at a fast, but controlled rate of speed.  No contrails or blurring.  Multiple aircraft arrived soon after. Slower than a shooting star, but faster than any commercial aircraft.  Lost sight of it as it continued downwards beyond that tree line.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130201.html](http://www.nuforc.org/webreports/reports/130/S130201.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [428](http://www.nuforc.org/webreports/reports/164/S164875.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164767.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164699.html)
-- [425](http://www.nuforc.org/webreports/reports/164/S164878.html)
-- [424](http://www.nuforc.org/webreports/reports/164/S164716.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
