@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:47:51 on 22 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:30:54 on 22 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Norristown (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Bright red and orange, large with clear edges light ball.I was standing on the backyard of my house. I've noticed a red, large, round light moving from behind the tree from west towards the east.  It was a very bright red ball with a hint of the orange and yellow inside.  The shape of it was slightly elongated towards the direction it was moving to. Initially it was moving slow and it was large and clear.  I would compare the size of it to the soccer ball held on the stretched out arm. There was no sound. It started moving faster with growing distance.  By the time I ran into the house and grabbed my phone if was disappearing.  I took a short video but it seems like a star.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149061.html](http://www.nuforc.org/webreports/reports/149/S149061.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Jackson (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Multiple bodies of light flashing and floating over the Washington County area. They were NOT starsWe were driving south on Hwy P, returning to Jackson from West Bend, WI.  It is quite dark on Hwy P, therefore the stars in the sky are more visible than they are in a more lighted area. My son pointed a group of lights in the sky that appeared to be flashing and floating slightly.  I am not at all a believer in UFO's or aliens, but this spooked me out.  If it were just one or two floating flashes of light, I would have assumed it was an airplane or two...but this was not the case.  There were multiple flashes of light. We looked west, towards the Town of Hartford.  In that direction, I counted more than 20 flashes of light that appeared to be moving.  There was an obvious difference between the stars are these entities of light. I have no idea what they were, but they were spread across the sky and moving.  The stars were stationary in comparison.As we approached our home, there were a few Jackson Police officers along with a Washington County Sheriff who had pulled over a man who apparently been drinking.  I asked one of the officers if she had a moment as I was driving by.  She said yes, so I pulled my car over.  She came over and my children and I got out and began explaining what we saw.  By that time, the westward sky was blocked by trees, and the officer dismissed the handful of lights that were eastward as airplanes.  I could see she was not going to believe the story we were telling about the multiple lights west of us.  I then just asked if she knew of any military exercises in the area.  She replied that she knew of none. With that, we left and went home.My sons and I were having a hard time shaking what we had just seen.  It was NOT normal.  That is when I searched the internet for a log of UFO sightings.  I found this website and am taking the time to log this because what I saw was that strange and amazing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102519.html](http://www.nuforc.org/webreports/reports/102/S102519.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [428](http://www.nuforc.org/webreports/reports/164/S164875.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164767.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164699.html)
-- [425](http://www.nuforc.org/webreports/reports/164/S164878.html)
-- [424](http://www.nuforc.org/webreports/reports/164/S164716.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
