@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:31:49 on 23 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:27:29 on 23 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Mississauga (Canada) (ON) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Three dull orange lights in a straight line formation varying in distance from each other .Three dull orange lights of constant luminescence each the size of a pencil eraser held at arms length, in a more or less straight line formation. The formation was at an angle of between 10 to 30 degrees off the line of travel, varying that angle over the duration of the sighting.Formation length was about the length of observers  thumb as seen at arms length. Line of travel was from the north west to the south east. This corresponds to the direction from toronto int'l airport to lake ontario. There are many aircraft in the air space in the duration of the day where observation took place. None take this flight path. There was no sound coming from the formation, at least not audible by the observer. Sky was clear with no wind. Light of formation could have been the reflection caused by city street lighting, if the object(s)were of a reflective material such as polished aluminum. Observer watches night/day sky often and has come to know the difference between known aircraft or birds and for example this observation. It was not the first time. People look up at the sky, you'll be amazed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39451.html](http://www.nuforc.org/webreports/reports/039/S39451.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Everett (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>driving s. on I-5 by everett mall, saw green fire ball moving e-w at about 500-1000 feet. small object w\tail moving very fast. expected to see an impact, but none notedlisting to art bell this evening, I thought WOW that was what I saw last night. being south bound on I5 at that time of night, there were a number of cars around me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03938.html](http://www.nuforc.org/webreports/reports/003/S03938.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164756.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164818.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164714.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164877.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
