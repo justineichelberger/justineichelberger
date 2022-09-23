@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:03:19 on 23 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:35 on 23 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Salem (OR) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Object was perfect sphere with blue half circle trail size tip of my pinkyOK, left house to go catch my bus to work 8:05pm I know I looked at the clock before I left.  Walk to bus stop appromixtley 75yds from house.  Had a cigarette as always, then a smint(breath mint).  Was crystal clear night facing southeast I belive. viewed an object stalled in the sky no movement what so ever an thought geeese that's a huge star about the size of the tip of my pinky (ringsize 6) held close to my face nail towards me just breaking around the edge of my finger.  Then as I'm gazing in awe it takes an downward dive toward the sun sets from where it had been witch is just above a 75 to 80ft tall tree on the hill where i wait for my bus.  It had a curved blue tail made hum almost like when your turn up your record player to max volume an you here hum kinda sound.  an continued at same speed did not gain speed like meterors do it seemed to have a whiteish-blue tinge with a foggie haze around the sphere like when you hold a white shirt to a black lite.  Plus the lights in my neiborhood flickered an the street lamp dimmed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03959.html](http://www.nuforc.org/webreports/reports/003/S03959.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Thibodaux (LA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Eyewitness of a large, silent,  bluish-white object traveling over Thibodaux from east to west.I was sitting outside of my house facing east, with the edge of the roof just above my head. I suddenly detected the movement of a dimly lit object in my periferal vision in the sky above me. The object appeared to be nearly twice the size of a full moon when it appears directly overhead. It was traveling from west to east. The object was blueish-white in color. Its body was slightly arched like the mid-section of a rainbow, with a pod-like appenditure on each side. It appeared to be composed entirely of light, as if it were a hologram. Against the backdrop of a clear night sky, it was initally just bright enough to catch my periferal vision, but as the craft advanced toward the east where the sky grew hazier, it became brighter, apparently because the water droplets were beginning to reflect the light that the object was emitting. Innitially all I could see was the underbelly of the craft, but as it proceeded to the east, I could see the back of the craft rising like a mammoth wall from the bottom to the top. The object was three-dimentional and sharply defined. It maintained its size, shape, and speed throughout, with only a slight ajustment in course from slightly south of due-east to due-east. I watched the object proceed eastward, where it disappeared in the midst of a cloud. The object made no sound whatsoever.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33172.html](http://www.nuforc.org/webreports/reports/033/S33172.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164756.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164818.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164714.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164877.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
