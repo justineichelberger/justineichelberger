@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:02:57 on 23 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:32 on 23 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Coatesville (IN) reported seeing craft that fit the description of some 'Disk' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Saw a disk shape with a dome top and bottom with blinking red and green lightsAbout 11pm looking at the night sky saw red and green blinking lights.  Got my camera so I could enlarge. Put on night mode (Samsung Galaxy 4).  Once enlarged I could make out the shape and lights much clearer.  Disc shape with top and bottom domes.  I also saw what looked like little stars or balls of light around it coming and going (almost reminded me of swarming mosquitoes), one turned a bright red for just a second.  Kept moving in a line further away until I could not see anymore (took about an hour from when I first noticed it).   Disappeared out of sight or went behind trees I could not tell which happened first. Lucky to see it by about 12:40 it became overcast in our area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102572.html](http://www.nuforc.org/webreports/reports/102/S102572.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Perhaps the objects were not in the right time and were not meant to seen by people in this time.While on vacation in Myrtle Beach South Carolina I was fishing on the peer and spotted a group of flying objects hovering over and very near the Myrtle Beach airport.  They appeared to round objects and were a white metallic color.  The sky was crystal clear.The objects appeared to be moving in a formation very slow at first and then accelerated out of sit in a few seconds.The objects traveled in a formation of four to five on top forming arch and a single round object on the bottom. Many people on the peer on the your witness to the sitting and tried to explain what they had seen.                                            I have never seen anything like this before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58982.html](http://www.nuforc.org/webreports/reports/058/S58982.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164756.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164818.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164714.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164877.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
