@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:01:16 on 23 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:09:59 on 23 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Sarasota (FL) reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>At first we saw a line of flashing lights in the sky, then they just started to move faster and changed into different shapes.  It was hard to tell what it was.  They just kept on flashing as the moved across the sky until they disappeared in the distance.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130159.html](http://www.nuforc.org/webreports/reports/130/S130159.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Gilcrest (CO) reported seeing craft that fit the description of some 'Formation' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Three bright lights of varying sizes, flying in circles while in a triangle formation, cows, radio and lights affected.Just outside of Platteville,  Heading north towards Gilcrest via Highway 85, 3 craft flying low in a triangle formation, spinning in a circle while in formation, then one after another, they vanish suddenly.  They are not much different from a sighting I saw over Gilcrest this year.  They were 3 dots in the sky of varying sizes, all just bright white lights.  But the difference was that this sighting the UFOs were in formation and the radio reception got fuzzy and the streetlights were flickering.  The cows in the field noticed it too.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136475.html](http://www.nuforc.org/webreports/reports/136/S136475.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164756.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164818.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164714.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164877.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
