@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:40 on 23 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:29 on 23 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Westmont (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Bright green ball of lightDid anyone else see the green ball of light in the south at around 3:17 AM this morning?  It came from the lower part of the sky and fell down slanting to the left and what I presume hit the ground.  I seen this while walking my dog.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143241.html](http://www.nuforc.org/webreports/reports/143/S143241.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Rochester (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30+ - 30+ minutes.</sub><blockquote><sub>Stationary object with multicolored strobes observed approximately 45 degrees above horizon.Object seen 45 degrees above horizon, stationary with multicolored strobes - no sound.What peaked my interest was a red laser type light flashing on and off every 2 seconds or so... followed by green, white, and yellow lights.Object appeared to be brighter than most natural night light sources.I am a trained military observer having been associated with the US Navy and Air Force for several years.Last known location was in the vicinity of Rochester, NY.  Observation was from South town Plaza Parking lot.((ADDENDUM FROM WITNESS))30+ = Minutes.I know the difference between a star and an unidentified object...this was no star. As for the other sightings man is way to arrogant to think we are alone in theentire universe.  God is way more inventive than to just create life on onesolitary planet.((END OF ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102563.html](http://www.nuforc.org/webreports/reports/102/S102563.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164756.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164818.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164714.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164877.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
