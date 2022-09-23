@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:38 on 23 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:49 on 23 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Phoenix (40 mi S. of) (AZ) reported seeing craft that fit the description of some '' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>6 Birght lights similiar to the "Phoenix lights" of 1997, danced across the desert sky.6 bright golden lights. Seperate from one another. Perfectly angeled from one another. 2 of the lights were vertical to one another. And appeared to be seperated by at least a thousand feet. The other 4 lights if connected would have made a perfect square. Also about 1000 ft from one another. I could not tell distance at all. It was a clear night over the desert. The light could have been 5 miles away, or 30 miles. The lights then disappeared, sometimes 2 at a time, sometimes one. then would immediately appear maybe a mile to the west of where they had just been seconds before. Again perfectly spaced from one another. At one point one of the lights vanished and immediately like a strobe effect, they moved across the sky for maybe half a mile. then vanished. The lights would appear for about 5 seconds, then vanish for 10 minutes. Then show again. I have been an airline pilot for over a decade and never seen anything like this. There were no beacons, no navigation lights. These did not appear to be helicopters for they moved to smoothly through the sky with no vibration on the lights. And much to quickly.Could it have been military? Possible. But an aircraft we are not privy to know about.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39480.html](http://www.nuforc.org/webreports/reports/039/S39480.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Surrey (Canada) (BC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>I saw a bright green coloured fireball coming down fairly slow and dissappear in midair without a sound.In my apartment we have a roof garden on the 17th floor which gives us a full view in all directions. At 21:10, I was standing outside on the roof garden enjoying the night air. When I looked to the south, I saw a bright green fireball coming out of nowhere and descent fairly slow and dissappear in midair. There was no sonic boom or explosion or any smoke afterwards.The object had a reddish coloured tail. It was circular and appeared to be aproximately the size of a car but round. I was the only person standing on the roof garden when this occured.I am a Licensed Practical Nurse by trade and was off duty this particular night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04460.html](http://www.nuforc.org/webreports/reports/004/S04460.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164756.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164818.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164714.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164877.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
