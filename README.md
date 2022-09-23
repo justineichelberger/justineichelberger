@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:39 on 22 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:54 on 23 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Sultan (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>4 pulsating lights in a row floating accross mountain top then disappeared.It was about 4 minutes then just disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159476.html](http://www.nuforc.org/webreports/reports/159/S159476.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Fond du Lac (WI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Witnessed 18 to 20 fireball orange round orbsWe saw approximately eight groups of two to four very bright orange fireball round shape orbs.  They were flying one group after the other.  They started out very bright going east, then veered to the south and then they faded out.  There was no sound and they were flying at a fairly slow speed but not slow enough to be considered hoovering. They were all flying at a very simular altitude. This occurred at about 7:40 pm CST.  I do not know if there were more prior to me going outside.  The fireballs did not blink or flash.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93023.html](http://www.nuforc.org/webreports/reports/093/S93023.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [428](http://www.nuforc.org/webreports/reports/164/S164875.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164767.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164699.html)
-- [425](http://www.nuforc.org/webreports/reports/164/S164878.html)
-- [424](http://www.nuforc.org/webreports/reports/164/S164716.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
