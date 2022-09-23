@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:29 on 23 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:40 on 23 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Rochester (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30+ - 30+ minutes.</sub><blockquote><sub>Stationary object with multicolored strobes observed approximately 45 degrees above horizon.Object seen 45 degrees above horizon, stationary with multicolored strobes - no sound.What peaked my interest was a red laser type light flashing on and off every 2 seconds or so... followed by green, white, and yellow lights.Object appeared to be brighter than most natural night light sources.I am a trained military observer having been associated with the US Navy and Air Force for several years.Last known location was in the vicinity of Rochester, NY.  Observation was from South town Plaza Parking lot.((ADDENDUM FROM WITNESS))30+ = Minutes.I know the difference between a star and an unidentified object...this was no star. As for the other sightings man is way to arrogant to think we are alone in theentire universe.  God is way more inventive than to just create life on onesolitary planet.((END OF ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102563.html](http://www.nuforc.org/webreports/reports/102/S102563.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Ahwatukee (AZ) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Amber colored speres with lighted objects in front heading west, 5x wider than a plane over Awatukee8pm 9/23I was facing south and was speaking with a friend that faced me, and as we conversed there was something in my line of sight that just above her head that was distracting me because it did not go away, my mind was saying that this was not normal and as I looked up,  it then disappeared as if it knew I was looking at it. The color of it was amber and very wide with one line above and below, it was very large in the sky.  I knew it could not have been a comet or an aircraft because it didn’t have a tail and both lines were the same length and there was an aircraft heading toward it from the south.  The object was heading due west, with a slight turn towards the north.  There was a lighter glow in the front of it which was the very reason I looked up to see what was leading it. But then it vanished or perhaps cloaked itself.  The small aircraft kept coming due north and could have crossed paths.  I wonder if the pilot saw anything!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102567.html](http://www.nuforc.org/webreports/reports/102/S102567.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164756.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164818.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164714.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164877.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
