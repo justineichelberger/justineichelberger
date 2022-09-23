@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:27:29 on 23 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:16:38 on 23 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Everett (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>driving s. on I-5 by everett mall, saw green fire ball moving e-w at about 500-1000 feet. small object w\tail moving very fast. expected to see an impact, but none notedlisting to art bell this evening, I thought WOW that was what I saw last night. being south bound on I5 at that time of night, there were a number of cars around me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03938.html](http://www.nuforc.org/webreports/reports/003/S03938.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Welland (Canada) (ON) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>round very bright white lightAround 8 P.M. on Friday September 23, 2005, my husband and I were outside, when he noticed a very, very bright white light in the southwest sky elevated about 30 to 45 degrees from the horizon.  It had not moved at all for several minutes.  We got a pair of binoculars and took a look.  What seemed to be a round brilliant white light with a few smaller blue and red lights around it.  Extending from the central light were 3 wing-shaped protrusions spaced at 120 degrees. It seemed to fade as if moving back, and then returned to the original site.  After watching it for approx. 30 minutes, it seemed to sink downwards, and out of view to us due to house blocking it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46491.html](http://www.nuforc.org/webreports/reports/046/S46491.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164756.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164818.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164714.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164877.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
