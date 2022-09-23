@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:09:59 on 23 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:01:16 on 23 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Gilcrest (CO) reported seeing craft that fit the description of some 'Formation' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Three bright lights of varying sizes, flying in circles while in a triangle formation, cows, radio and lights affected.Just outside of Platteville,  Heading north towards Gilcrest via Highway 85, 3 craft flying low in a triangle formation, spinning in a circle while in formation, then one after another, they vanish suddenly.  They are not much different from a sighting I saw over Gilcrest this year.  They were 3 dots in the sky of varying sizes, all just bright white lights.  But the difference was that this sighting the UFOs were in formation and the radio reception got fuzzy and the streetlights were flickering.  The cows in the field noticed it too.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136475.html](http://www.nuforc.org/webreports/reports/136/S136475.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Westborough (MA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Round Ball, Diameter the Sun would appear near sunset, perhaps a tad smaller. Silvery to almost translucent, pulsating between visible and near invisible.I was driving west on Route 9 in Westborough MA at 1359 23 Sep 98 when a truck in front of me let out a puff of smoke.  The visible smoke did not disipate as I expected. My eyes were then drawn to what was really happening in the sky. What I saw was what appeared to be a funnel cloud rotating and shifting while changing density dark to light. Then this appearant funnel formed into a more roundish but not perfect round object that moved from right to left and then back left to right. Again this movement was accompanied by darkish to near translucent appearance. After just a few seconds the object appeared to me perfectly round, and pulsating between silver and near translucent.  It was if the object was trying to be invisible but not able to achive it totally. I am a very creditable person, a simple software sales person. I can't believe something like this has happened to me. There are no drugs involved here. I am a former member of the Air Force Intelligence Command who was in the right place at the right time on my way back to the office from a simple lunch meal.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04006.html](http://www.nuforc.org/webreports/reports/004/S04006.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164756.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164818.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164714.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164877.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
