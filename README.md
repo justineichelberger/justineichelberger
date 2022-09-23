@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:53:10 on 23 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:31:49 on 23 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Anson (just east of, on Hwy 180) (TX) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>I saw a baseball sized fireball, green with yellow and red sparks trailing it, for about 2 seconds and then it disappeared.I was driving east on Hwy. 180 between Anson and Breckenridge, TX shortly after 10 PM and I saw what I first thought was a bottle rocket in the field just off to my right and in front of me.  Then I realised that I was in the middle of Texas and the lights of the nearest town were not even in view so it was unlikely that anyone was sitting in that field setting off a single bottle rocket. Also, it was too big and travelling downwards from left to right trailing sparks behind. It was a baseball sized ball of green light trailing yellow and reddish sparks. So then I assumed I saw a meteorite, although I've never seen one before, but I thought it was weird that I did'nt see it hit the ground.  I was listening to Art Bell a few hours later and heard all sorts of reports about similar sounding sights, except I had felt that this was smaller and closer to me.  Of course, in the dark it's impossible to tell, but now I suppose that if it was actually very far away, that would explain why it disappeared, if it was falling behind a distant hill.  The land was pretty flat but there were a few hills. I've seen shooting stars, but they are obviosly as distant as stars and in the upper sky, this was definitely within the atmosphere. As for my background info., I'm 27, a bartender in New Orleans, and was travelling home from vacation with my boyfriend.  He did not see it because it was gone before I could say "wow, look at that!"</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03928.html](http://www.nuforc.org/webreports/reports/003/S03928.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Mississauga (Canada) (ON) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Three dull orange lights in a straight line formation varying in distance from each other .Three dull orange lights of constant luminescence each the size of a pencil eraser held at arms length, in a more or less straight line formation. The formation was at an angle of between 10 to 30 degrees off the line of travel, varying that angle over the duration of the sighting.Formation length was about the length of observers  thumb as seen at arms length. Line of travel was from the north west to the south east. This corresponds to the direction from toronto int'l airport to lake ontario. There are many aircraft in the air space in the duration of the day where observation took place. None take this flight path. There was no sound coming from the formation, at least not audible by the observer. Sky was clear with no wind. Light of formation could have been the reflection caused by city street lighting, if the object(s)were of a reflective material such as polished aluminum. Observer watches night/day sky often and has come to know the difference between known aircraft or birds and for example this observation. It was not the first time. People look up at the sky, you'll be amazed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39451.html](http://www.nuforc.org/webreports/reports/039/S39451.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164756.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164818.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164714.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164877.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
