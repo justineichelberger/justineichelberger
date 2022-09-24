@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:44 on 24 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:35 on 24 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Niagara Falls (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Green light followed by what appeared to be hovering object with blinking lights above Power Authority in Niagara Falls, NYGreen light/smoke flashed across the sky followed by whirring noise and lights blinking as the craft came to a stand still.  Very dark so hard to see but there appeared to be 2 crafts with two sets of blinking lights hovering in the night sky above the power authority in Niagara Falls, NY.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130169.html](http://www.nuforc.org/webreports/reports/130/S130169.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Lower Lake (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>At 10:00pm our dogs and the neiborhood dogs started to bark.  I went outside to check why they were barking.  I looked around and saw in the north east a hovering triangle object.  It's had bright lights coming from it. They would get bright and dimmer.  During this time 8-12 Jets flew in the approximate area of the object.  The object would move in circular and figure eight moves, while bobbing in the sky. It eventually moved farther away in the sky untill it was just one light in the sky.The object was close enough when I first saw it to see some detail.  It had a triagle shape. Lights came from the three angles of it's triangle shape.  The light it omitted was white like a star, however at the angles of the object the light was a golden yellow color.  The object kept moving away from me in a north east direction in the sky.  While hovering away it would move in circles and figure eight motions.  While moving in these motions it would bob up and down quickly.  A couple of jets were flying around it.  Later many more jets flew over the area in the sky.  The came from the east and west.  The first few jets banked around the object.  The rest flew straight accross the sky. From the east and west.  The last jet flew high above the object.  The jets lasted about half a hour.  Then they left.  You could hear them and see their lights flashing on and off.  When the object and the jets were in the sky together they seemed to dance all around the sky. We rarely hear or see more than one jet at night.  To see that many in a half hour was bizzare.  I also saw little dots moving fast around the sky of the object. During this hour I saw two shooting stars or what I believed to be shooting stars.  One went across the whole eastern sky, while the other one went across the western sky. Eventually, after an hour the object moved far off into the north west sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09893.html](http://www.nuforc.org/webreports/reports/009/S09893.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164749.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164876.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164874.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164752.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
