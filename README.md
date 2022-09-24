@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:02:53 on 24 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:40 on 24 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>9/24/03 Bklyn N.Y. sphere less then 2 sec. Object moved at speed of meteor. Stopped and made left turn. then dissappeared.At approx. 2:40 am I was star gazing on my back porch. Hoping to see a meteor or a sattelite cross the clear sky. I always keep my head still thinking that this is how a telescope does it. From the corner of my eye I see what I thought was a meteor shoot across the sky. My eyes follow it and to my amazement it stops all of a sudden, makes a left turn and dissapears. Being stunned by what I just saw I stayed there for 2 more hours waiting to see anymore activity. There was none. Maybe someone could explain this.Thank You Arthur Muller</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31848.html](http://www.nuforc.org/webreports/reports/031/S31848.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in East Las Vegas (NV) reported seeing craft that fit the description of some 'Changing' over a period of approximately  -  minutes.</sub><blockquote><sub>4 red clear see throw mushrom shape going south right above house convy((NUFORC Note:  We suspect that the correct time is 0000 hrs., and have changed the time to reflect a sighting at midnight.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113851.html](http://www.nuforc.org/webreports/reports/113/S113851.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164749.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164876.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164874.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164752.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
