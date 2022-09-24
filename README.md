@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:35 on 24 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:01:04 on 24 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in McDonough (GA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Observed a large circular orb of dense greenish-white light falling relatively slowly straight toward the ground.My husband and I were driving at approximately 10:15 p.m. when looking toward the moon in the southwestern sky, I saw a circular orb of dense light falling relatively slowly straight toward the ground.  The light was a light greenish white.  Possibly a white center with a thin ring of green on the outer edge.  There was no tail or trail.  There was no smoke.  No crackle.  Did not appear to be any sort of debris.  It was fairly close, I'd say within a 1/4 mile from where I was traveling in the car.  Or it was extremely large. I lost sight of it when it passed below the tree tops.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72596.html](http://www.nuforc.org/webreports/reports/072/S72596.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Riva (MD) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange fireball seen slowly rising up in the sky, moving away, then disappearing behind a cloud. Object seen by 4 individuals.While at soccer practice in Riva, MD, approx. 630pm, my son and three of his friends saw 1 Orange light rise up in the sky, fairly slowly.  He mentioned whitish sparks coming from the back of it and a smaller Orange ball coming from the larger first ball.  I did not see the object, although more than 3 individuals described it exactly as my son did, corroborating his sighting. The Orange ball rose than moved behind a cloud and was not seen after that.  My son also mentioned a horn being tripped as the object disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93841.html](http://www.nuforc.org/webreports/reports/093/S93841.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164749.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164876.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164874.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164752.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
