@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:05:15 on 24 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:02:53 on 24 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Elk Neck (MD) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Strange object in sky disappearsMy son and I were driving to his before school program on Old Field Point Rd. When I was driving I looked up at the sky and noticed something shiny and I thought it was a blimp since they are very common in our area.  When I looked up at the sky again the object was gone, my son said did you just see that.  I didn't realize he was looking at the object as well. I said to him yes did you just see that, and he said where is it.  It just disappeared,  I wasn't paying attention to the speed of the craft or did I notice what shape it was I just figured it was a blimp but it was small and my son said it looked like it was oval.  There were no clouds in the sky and it was right over Elk Nek Elem.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102584.html](http://www.nuforc.org/webreports/reports/102/S102584.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>9/24/03 Bklyn N.Y. sphere less then 2 sec. Object moved at speed of meteor. Stopped and made left turn. then dissappeared.At approx. 2:40 am I was star gazing on my back porch. Hoping to see a meteor or a sattelite cross the clear sky. I always keep my head still thinking that this is how a telescope does it. From the corner of my eye I see what I thought was a meteor shoot across the sky. My eyes follow it and to my amazement it stops all of a sudden, makes a left turn and dissapears. Being stunned by what I just saw I stayed there for 2 more hours waiting to see anymore activity. There was none. Maybe someone could explain this.Thank You Arthur Muller</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31848.html](http://www.nuforc.org/webreports/reports/031/S31848.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164749.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164876.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164874.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164752.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
