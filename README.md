@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:02:03 on 24 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:29:31 on 24 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Salem (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I was walking down the street in West Salem, OR, and it was completely black outside.  The sky was cloudy and full of trails.  Two balls of light appeared  suddenly from the South and traveling North.  They were a distance apart, but simultaniously on the same path and appearing to be going the same speed.  Suddenly, one ball appeared to speed up and merge with the second ball and it became brighter and then they quickly separated never leaving the path.  Immediately after the separation, one vanished and the other faded out.  These lights were very bright like a star, but too low to be a star and WAY too fast to be an aircraft.  Dogs were barking in the neighborhood I can only assume it was from the strange sight, but I couldn't say for sure.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122236.html](http://www.nuforc.org/webreports/reports/122/S122236.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in East Dublin (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>2 large red lights, 1 stationary and 1 moving at high rate of speed.I live in a rural area in eastern Laurens County. I have never seen anything like this before or since.  Behind my house is a large pasture to the left, and a large wheat field to the right. Took my dog outside before going to bed on this night and notices two large red lights in the sky.  The lights had a small outline around them like a haze or something similar.  They made no noise.  They appeared to be about 2 miles beyond my house over the wheat field.  They seemed to be maybe a quarter mile apart.  The two lights were not moving.  As I continued to watch, the light on the left darted off to the left at a high rate of speed and disappeared.  The same light then reappeared about 2 miles to the left of where I originally saw it.  The object on the right stayed in the same spot the whole time, and vanished around 45 seconds after I first spotted it.  The object that darted off then vanished about 15 seconds later.  My dog seemed to notice this event as well as he stopped and looked in that direction the whole time. I have not seen them since.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110520.html](http://www.nuforc.org/webreports/reports/110/S110520.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164749.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164876.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164874.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164752.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
