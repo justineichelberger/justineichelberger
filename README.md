@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:34 on 24 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:46 on 24 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Mokena (IL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright Light  observed for 15 minutes SW sky near Mokena Illinois.A bright light in the SW sky appeared to be in the direction of Channahon Illinois from the point where my house is in Mokena.  I watched it for 15 minutes as I sat by my front door.  It appeared to be moving somewhat towards my direction but very slow which I thought was an incoming airplane to Midway Airport.  After 4 to 5 minutes of watching the object it appeared to stop.  I focused my eye with a rooftop edge as I sat on my front door stoop to help me judge if it was moving or not and from my judgment it was not.  Approximately another 4 minutes went by and the object appeared to drift very slowly to the right dimming on occasion.  At one point it dimmed to nothing but within 15 seconds or so it came back in the exact position it disappeared.I’m pretty familiar with the flight patterns of airplanes over my home, this wasn’t on any normal path to Midway and why it caught my attention other than being very bright.At this point I ran inside my house for my digital camera returned and snapped 4 photos.  Like any other photo ever taken of objects at night they usually come out dark but the light was very visible along with outlines of the rooftops.  I lightened them up as much as I could and blew –up a few photos also.When first observed it appeared to look like a very bright star in the SW sky at about 30 degrees above the horizon.  The exact size is unclear from my observation point but as indicated it looked like a bright star.  It changed from an oval dot to an un-described shape, perhaps in a cylinder form.  If one was to look at a piece of rice three feet in front of them that is the shape it would turn into.  Its brightness would dim and then become bright with a hint of a red glow now and then.The last few minutes it stayed bright and settled below the rooftops to where I could no longer observe it.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102620.html](http://www.nuforc.org/webreports/reports/102/S102620.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Wenatchee (WA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Two pink/orange chevron shaped objects flying north with no sound.Two pink/orange chevron shaped objects flying North. They were fairly low, as low as most small airplanes in our area fly, but these made no sound at all. They were not flying parallel to each other. The one following behind kind of zig zagged briefly and scooted over to catch up or get a little closer to the other. Then they retained their formation and we watched until we couldn't see them anymore. They weren't very bright, kind of hazy. They almost seemed a little irridescent. One more thing, I have never seen a plane in this area flying north, only East and West.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52607.html](http://www.nuforc.org/webreports/reports/052/S52607.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164749.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164876.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164874.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164752.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
