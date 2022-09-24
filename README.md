@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:31 on 24 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:04:51 on 24 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in St. George (UT) reported seeing craft that fit the description of some 'Flash' over a period of approximately huh - huh minutes.</sub><blockquote><sub>lights where flashing in the dark and then dissaperedI was on 700S street me and my friend mike were going to get a snowcone. when I stop and say to mike "hey look at that it's a satolight" and mike looks up and says "wow look at how fast it is going" so we keep looking at it and it was going very fast and all the sudan it starts weeving back and forward and I say " I've never hurd of a satolight do that" then I was changing it's lights all the time sometimes it would flash really fast other times slow and other time's not at all.?. I could not figgure it out we were bolth dumb struck!! then out of the middle of nowere mike yells " THERE IS A NOTHER oNE" this time It was wirder it had 2 lights and they whrer doing flips really fast and spinning then I turn my head and right as soon as I look bach it made a jump forward at least 5-8 miles forward then backwards  ro where it was in a split seconad right then michael and me jump back and start to yell! like " WOo do you beleave this?" so we wernt yelling to the cars in the street but why in my thingy above i said 2-3 people was a guy alked behind us whille we were screaming and pointing up and this is where it got wierd!!! there was a tree do west of where we where so when the U.F.O's ( o yeah i forgot to say one was in frount by if I put my hands up from my point of view It looked only like a foot apart which could be miles to them or whateverit was) so when the U.F.O turned and was heading soulth whill I was looking east and the first one went behind the tree and i never saw it again then the 2nd one right before it went behind the tree a flash of light appered and what I saw was what looked to be a oval ish ship and then i never saw it again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31835.html](http://www.nuforc.org/webreports/reports/031/S31835.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Carneys Point (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>((NUFORC Note:  Witness provides no information about the sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148998.html](http://www.nuforc.org/webreports/reports/148/S148998.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164749.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164876.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164874.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164752.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
