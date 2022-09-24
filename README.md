@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:49:40 on 24 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:29:30 on 24 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in New York (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Slow moving object with very bright white lights.I saw two very bright white flashing lights in the south East sky. The object was moving very slowly. A thin cloud moves in front of the lights. The lights could still be seen through the clouds. Eventually the clouds were too thick for the light to pass through. I waited and got some video of it on my iPhone. I thought I could walk closer to work and film more but could not locate it again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149875.html](http://www.nuforc.org/webreports/reports/149/S149875.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Gary (IN) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 1:12 - 1:12 minutes.</sub><blockquote><sub>It was shaped like a thin razor.It was 1000 x 800 vertical rectangle. A  black grayish flat shaped object, not moving, about 1000-2000 feet up in the sky. It disappeared without movement, right in front of my eyes. A half hour later a co worker asked me if I saw strange object in sky. She described it, the same way I did.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58964.html](http://www.nuforc.org/webreports/reports/058/S58964.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164749.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164876.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164874.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164752.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
