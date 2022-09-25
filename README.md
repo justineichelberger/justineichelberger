@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:02:47 on 25 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:02:34 on 25 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Fairfield (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>can't access examplesWhile outside walking the dog, I noticed a black "ball" going very quiclky through the twilight sky ... This object was perfectly round unlike a ball, and was black .. it made no sound nor had any lights illuminating it ... At first i thought it was a hot air balloon, but realized a balloon could not possibly go as fast as this object did .. I called my Mom and she also witnessed it, we watched in awe, till it disappeared behind the neighbors trees .. We then went into the street to look for it, but it was gone ... Entire event was less than 2 minutes</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14256.html](http://www.nuforc.org/webreports/reports/014/S14256.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Las Vegas (Spring Valley) (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>UFO Sighting in Las Vegas, NV - Spring Valley areaTuesday, September 25th, 2018:  Whenever I stand out on my balcony, I get a pretty good view of the mountains going west on the 215 freeway.  I can tell you that I have never seen anything like what I saw today.  I noticed a bright light or reflection of some sort coming from what seems like the edge of one of the mountains.  I called my fiancé out onto the balcony to come take a look, and we immediately started recording.Since we could not zoom in enough to be able to appreciate exactly what it was, we remembered we have high quality binoculars.  We grabbed them and took a closer look.  When we were able to focus on the object, we noticed that it had one large light in the middle, and two smaller ones on each side.  We are not sure if what we saw were 3 separate objects, or if it was just one craft.  However, what we can say is that the object was out in the open at 3:00PM in bright daylight, and these lights were beaming so bright.  It was not a reflection of anything as there is NOTHING else on those mountains.We are about 25 miles away from the location where the object seemed to be, so we got into our car and decided to drive a little closer.  As we started driving, we realized that the closer we got, the object seemed to be less visible.  We pulled into a parking lot, and we were able to grab someone's attention and asked them if they had any idea what the object sitting on the mountain was.  This woman said she has lived in Las Vegas for over 30 years, and has never seen anything like it.  We decided to head back home.Unfortunately, when we got back to our house.  We noticed that there was smoke or dust coming from the area where the object was seen.  We did not capture that on camera.  The object had seemed to move to the left, and was still a bit visible. However, left a cloud of dust or smoke behind.  We went out onto our balcony later that night, and this morning, and there is nothing out there now.  Not sure what we saw, but we have footage and pictures which we will be uploading to YouTube.((NUFORC Note:  Good photo shows 3 lights, sitting on a distant ridgeline.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143283.html](http://www.nuforc.org/webreports/reports/143/S143283.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164743.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164881.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164879.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164745.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164736.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
