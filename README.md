@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:27:24 on 25 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:15:46 on 25 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Casa Grande (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Triangular craft with orange lights moving in an odd patternViewed non-traditional shaped craft from eastern horizon to western horizon.  Craft had three orange colored lights on hull and flew in an alternating pattern from left to right. As it passed overhead it made an unusual engine sound, unlike jets, or other traditional aircraft. Craft moved from horizon to horizon in a matter of 2-3 minutes. Originally thought I was viewing Mars, due to color.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52635.html](http://www.nuforc.org/webreports/reports/052/S52635.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1976, an anonymous witness in Akron (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>large ball of light, made no soundI had just took our dog outside to do it,s duty,when i noticed a very bright lightat about 45degrees .I was facing south. The light was about 1 half mile away and seemed to be as large as a basketball helded at arms lenth. my dog just stood there and never took her eyes off of the light. just then i heard an airplane, it was to the west.the plane was circling to land at the akron airport to the north. the airplane then went towards the light, circled it and then came towards the airport to land.the light followed the plane ,it made no sound as it came right over me. I then went in the house and called the airport and asked them if they had seen the light ,they said that all they had seen was the airplane. thaank you ((name deleted))((NUFORC Note:  We are not certain the date is correct.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15116.html](http://www.nuforc.org/webreports/reports/015/S15116.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164743.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164881.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164879.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164745.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164736.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
