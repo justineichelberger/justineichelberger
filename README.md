@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:11:46 on 25 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:29 on 25 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I was on my balcony around 22:15 this evening when looked up at the sky and saw this rectangular shaped object with bright red lights and flashing green lights.  It did not look like an aeroplane or a helicopter.  It stood still in the sky for about less than a minute.  It was amazing because it moved so swiftly for something so big (even from such great distance I could see it was big).  And it rotated around for a bit and seemed to glide effortlessly with only the red lights still shining brightly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130222.html](http://www.nuforc.org/webreports/reports/130/S130222.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Mansfield (MO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Round light with smaller brighter lights inside it color changing large sphere white blue green sometimes purple sometimes have white and sometimes the Flasher red moving in circles the whole sphere and up and down sometimes jerky((NUFORC Note:  Source does not indicate a date of the sighting, so we have assigned an artificial date, and will attempt to contact the witness for confirmation.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136352.html](http://www.nuforc.org/webreports/reports/136/S136352.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164743.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164881.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164879.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164745.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164736.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
