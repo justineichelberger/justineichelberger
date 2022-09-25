@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:37 on 25 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:29 on 25 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Damascus (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Huge ball of light seen in eastern sky at 6 am Sept 25, 2007 east of Gresham, Oregon.Huge circle with arms of lights criss crossing bottom of object.  Surrounded by very small lights scattered like glitter all around the outer perimeter of object.  It was still dark outside and viewed through  a spotting scope all I could see were the lights.  I lined it up with some trees to see if it was moving across the sky and the object seemed to remain stationery for a long period of time.  When daylight started it got smaller and smaller  and finally faided out of sight.  I will check again at 6am in the morning to see if it may have been a satellite,  but it just seemed way too big and close for that.  A satellite travels and this was stationery.  It was east of Gresham/Damascus looking toward Mt Hood at 6am.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58933.html](http://www.nuforc.org/webreports/reports/058/S58933.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Casa Grande (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Triangular craft with orange lights moving in an odd patternViewed non-traditional shaped craft from eastern horizon to western horizon.  Craft had three orange colored lights on hull and flew in an alternating pattern from left to right. As it passed overhead it made an unusual engine sound, unlike jets, or other traditional aircraft. Craft moved from horizon to horizon in a matter of 2-3 minutes. Originally thought I was viewing Mars, due to color.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52635.html](http://www.nuforc.org/webreports/reports/052/S52635.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164743.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164881.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164879.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164745.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164736.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
