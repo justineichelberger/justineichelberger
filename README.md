@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:48 on 25 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:55:03 on 25 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Bend (OR) reported seeing craft that fit the description of some 'Unknown' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Pulsing, rotating red and green lights with flashes of white light in NE sky every nightOne object, seen for nine months, appeared to be high altitude in the NW sky, after sunset.  It looked round in shape with red and green pulsating, possibly rotating lights with flashes of white light angled down at 45 degrees.One witness has been watching since December of 2010.   For months, it stayed stationary in the sky.  In the last few weeks, it started slowly moving each night to the NW. She was reluctant to tell anyone until someone else mentioned seeing it.Another witness saw it for the first time about two weeks ago.  The first night she saw it, about 9:00 pm, a small plane from the East appeared to fly towards it, than made a U turn away from the object.The other two witnesses, both seeing the lights in the last two weeks, saw the same things.((NUFORC Note:  Sirius??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84181.html](http://www.nuforc.org/webreports/reports/084/S84181.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Tess Corners (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Tess Corners - Lights in FormationWhile returning home form work we observed 3 very bright lights in a formation which moved rapidly, then slowly,  from North to South, hovered briefly, then ascended straight up very rapidly. They were not in the area where the normal flight path for inbound MKE traffic is supposed to be, and given the absence of any sound, could not have been a helicopter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39464.html](http://www.nuforc.org/webreports/reports/039/S39464.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164743.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164881.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164879.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164745.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164736.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
