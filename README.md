@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:45 on 25 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:44 on 25 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Rocklin (CA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Strange lights formation in a streak in the sky above Rocklin Ca. To many to be drones.I was headed towards sunset on whitney at about 730 and noticed a man standing outside his truck at quick stop and taking a picture of something across the street towards the US Bank.  When I looked over as I made a right turn I noticed above the bank was about 50 lights or so in a streak formation.  Too many to be drones  I think, but looked like stars.  I kept going and then when I was coming home 45 minutes later it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130221.html](http://www.nuforc.org/webreports/reports/130/S130221.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Beaverton/Tigard (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 19:32 - 19:32 minutes.</sub><blockquote><sub>Strange lights over beaverton/tigardI was going to work and I stopped briefly to talk to my neighbor, when out of thr corner of my eye, I saw 5 lights 1 bright white one and 4 smaller red ones.  At first, I thought that they were airplanes, but they crossed paths and if they were airplanes they would have crashed.  They were flying around all over the place and they were very fast, especially the biggest one which was white and larger than the others.  My neighbors came out and my family saw it to, i live on the tigard beaverton boundary so several friends in tigard also saw it.  It lasted for a good 3 minutes and then they disappeared. I watched the 8 o'clock news but nothing came up.  All i know is that  wat we saw that day was very strange and something we had never seen before.((NUFORC Note:  witness does not indicate the time and duration.  We have had to guess at that.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93102.html](http://www.nuforc.org/webreports/reports/093/S93102.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164743.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164881.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164879.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164745.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164736.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
