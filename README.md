@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:46 on 24 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:01:06 on 25 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Wenatchee (WA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Two pink/orange chevron shaped objects flying north with no sound.Two pink/orange chevron shaped objects flying North. They were fairly low, as low as most small airplanes in our area fly, but these made no sound at all. They were not flying parallel to each other. The one following behind kind of zig zagged briefly and scooted over to catch up or get a little closer to the other. Then they retained their formation and we watched until we couldn't see them anymore. They weren't very bright, kind of hazy. They almost seemed a little irridescent. One more thing, I have never seen a plane in this area flying north, only East and West.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52607.html](http://www.nuforc.org/webreports/reports/052/S52607.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Sanford (NC) reported seeing craft that fit the description of some 'Changing' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Spherical ball of orange/yellow/white light changed shape and color to square then disc shape airplanes did come close and light wouldlooked like an odd bright white/yellow star that changed from a square,to an octagon to a grey disc shape. It hovered in the same place over a field across from my home in the night sky. If an airplane came near it dimmed its light til I couldn't see it.  Then once the air plane was gone the light came back. I was nervous and almost scared.  I have video and pictures and my 2 sons and I were witnesses.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159570.html](http://www.nuforc.org/webreports/reports/159/S159570.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164749.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164876.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164874.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164752.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
