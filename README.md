@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:29 on 25 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:04:54 on 25 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Casa Grande (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Triangular craft with orange lights moving in an odd patternViewed non-traditional shaped craft from eastern horizon to western horizon.  Craft had three orange colored lights on hull and flew in an alternating pattern from left to right. As it passed overhead it made an unusual engine sound, unlike jets, or other traditional aircraft. Craft moved from horizon to horizon in a matter of 2-3 minutes. Originally thought I was viewing Mars, due to color.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52635.html](http://www.nuforc.org/webreports/reports/052/S52635.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Spencer (IA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Unexplained pattern of mult-colored lights that moved, diappeared, reappeared and has 7 Iowans believing that there are definately UFOsThis is an account of seven witnesses sighting of an Unidentified Flying Object on 9/25/09 in Spencer, Iowa.The first witness noticed a flashing red light in the western horizon at approximately 21:15. Initially thought it was a planet because of the red color.  Passed it off as a star and didn’t say anything to anyone in the party.Next witness brought attention to a red, white, and blue alternating colored light that appeared to dance above the tree line.  There were seven of us sitting around a campfire and we moved farther out into the yard to look closer.We got a pair of binoculars out and took turns reporting to each other what we saw.  Each of us saw a circular pattern of multi-colored lights that erratically moved while seemingly changing shapes.  Two of us described it to look like a Ferris Wheel in the sky or what Hollywood has depicted as a UFO in several movies.One witness documented the times and duration of appearance and disappearances as follows:  Started 21:15 to 21:39 very bright, distinct and vivid rotation could be observed.  It was at its highest point.  Also during this time period, 4 people witnessed what appeared to be a shooting star in the same general area.21:39-21:45 Object disappeared from view.21:45-22:01 Object reappeared, lower in the sky, appearing farther north somewhat less vivid. Telescope was used to tract objects movement. It was obvious that the object was moving by the way it moved from the center of the telescope’s viewfinder within seconds. Another shooting star was witnessed by all seven of us. One witness was viewing the lights through the binoculars when it just vanished.22:01-22:06 Object wasn’t visible.22:06-22:12 Lights reappeared, even lower but still visible. During this time five witnesses saw a flash of white light appear above the object. The object didn’t appear to be moving as much as it had been earlier and the light appeared more amber in color.22:12 Lights disappeared</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72610.html](http://www.nuforc.org/webreports/reports/072/S72610.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164743.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164881.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164879.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164745.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164736.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
