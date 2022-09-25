@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:42 on 25 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:01:07 on 25 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Bellevue/Redmond (WA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>craft leaped across the sky to hover above meLeaving Mother's home in Bellevue saw bright light in sky towards the East.  Observed light following to my left as I drove home to Redmond, Wa on my left. When I arrived home I walked around the side of my building and saw the light in the sky quite aways away to the Northeast of Redmond.  Suddenly in an instant the light leaped across the sky and was overhead.  There was no sound.  I was frozen in amazement.  There were many many lights and I believe they were colored but do not remember exactly.  I suddently was afraid and ran upstairs to my apartment and ran to the phone and called my Mom to tell her.  I have only told family members about this and I wish I had known about the reporting center at the time.  I didn't write it down and wish I had.  I have never seen it again until today when I saw Peter Jennings on NW Afternoon and heard the account of the policemen.The craft as I believe it was, was really huge and was hovering above me.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41981.html](http://www.nuforc.org/webreports/reports/041/S41981.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Ft. Smith (AR) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>We saw a single, non-flashing green light at night over Ft. Smith, AR and never heard it make a sound.My wife and I were in the Target parking lot when we saw a single green light travel across the night sky.  We were facing in a southern direction.  The light was traveling from west to east, and we watched it until it traveled behind the Books-A-Million building.There were no features other than it being a green light.  It was not flashing, pulsating, or doing anything other than shining.  I'm not an expert on human-made aircraft, but I do not recall ever seeing an aircraft flying at night with only one light.  I also never recall ever seeing an aircraft with a green light or any night flying aircraft without at least one flashing light.My wife and I were in our car when we saw the light.  If it made a sound, then it was not loud enough to be heard inside our car.  Other than the running engine, there were no other sounds besides the sounds of our voices as we discussed what we had seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84140.html](http://www.nuforc.org/webreports/reports/084/S84140.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164743.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164881.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164879.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164745.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164736.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
