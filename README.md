@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:48 on 25 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:34 on 25 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Republic (MO) reported seeing craft that fit the description of some 'Changing' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Odd fireball rising above and dipping below the tree line in South Republic, Mo.I was looking out the South windows of my home when I seen a fireball colored sphere right above the tree line...At first i thought it was a lantern, like you light and send off at 4th of July, but after I got to watching it I knew it wasn't...It changed shape (sphere to cylinder) and color variation (red, orange, yellow) as it dipped above and below the tree line...It when on approx. for an hour appearing and disappearing.  Very odd shape and no sound at all…((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113933.html](http://www.nuforc.org/webreports/reports/113/S113933.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Brookfield (CT) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Bright orange/yellow object moving at high speed making no soundI was in my backyard alone and i noticed a large bright object moving across the sky at great speed.  It was low in the sky and moved without sound.  The core of the object was shaped like a peace sign or the middle of sand dollar.  The core was a bright orange/yellow, like the color of a flame.  The core emitted something that was like exhaust in all directions which created a circle around the core making if look a bit like the center of a jellyfish.  Based on watching other planes in the sky, I would guess it was three to four times the speed of those planes.One to two minutes later, I saw a fighter jet travelling at a slightly slower, but very fast speed following the same path the object had taken.  I jet made a loud sound as it passed overhead at a similar altitude.I can draw the core and the circle that was around it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77986.html](http://www.nuforc.org/webreports/reports/077/S77986.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164743.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164881.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164879.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164745.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164736.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
