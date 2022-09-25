@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:01:07 on 25 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:48 on 25 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Ft. Smith (AR) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>We saw a single, non-flashing green light at night over Ft. Smith, AR and never heard it make a sound.My wife and I were in the Target parking lot when we saw a single green light travel across the night sky.  We were facing in a southern direction.  The light was traveling from west to east, and we watched it until it traveled behind the Books-A-Million building.There were no features other than it being a green light.  It was not flashing, pulsating, or doing anything other than shining.  I'm not an expert on human-made aircraft, but I do not recall ever seeing an aircraft flying at night with only one light.  I also never recall ever seeing an aircraft with a green light or any night flying aircraft without at least one flashing light.My wife and I were in our car when we saw the light.  If it made a sound, then it was not loud enough to be heard inside our car.  Other than the running engine, there were no other sounds besides the sounds of our voices as we discussed what we had seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84140.html](http://www.nuforc.org/webreports/reports/084/S84140.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Republic (MO) reported seeing craft that fit the description of some 'Changing' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Odd fireball rising above and dipping below the tree line in South Republic, Mo.I was looking out the South windows of my home when I seen a fireball colored sphere right above the tree line...At first i thought it was a lantern, like you light and send off at 4th of July, but after I got to watching it I knew it wasn't...It changed shape (sphere to cylinder) and color variation (red, orange, yellow) as it dipped above and below the tree line...It when on approx. for an hour appearing and disappearing.  Very odd shape and no sound at all…((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113933.html](http://www.nuforc.org/webreports/reports/113/S113933.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164743.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164881.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164879.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164745.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164736.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
