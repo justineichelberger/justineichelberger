@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:39 on 25 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:35 on 25 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Shongaloo (LA) reported seeing craft that fit the description of some 'Light' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>It was a light with a haze around it.It was a light in the southwest sky, trying to hide behind the trees.  Everytime we got a good look at it, it would move.  It moved quickly and it seemed to try and keep a tree between us and it.  Each time it moved you would have to take quite a few steps to catch sight of it again. Eventually, it went too far below the treeline for us to see anymore.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46495.html](http://www.nuforc.org/webreports/reports/046/S46495.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Kinsman (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Bright light that quickly shot across the sky and then out of sight.On 09/25/13 at approximately 8:02 pm I was standing in the Kinsman IGA parking lot speaking with a friend.  I was standing, facing the Northeasterly direction when I glanced upward toward the sky.  I saw a bright light that quickly shot a brief distance across the sky.  The object went behind a cloud and did not reappear on the other side of the cloud cover.  The object seemed to be round or spherical in shape but I wasn't able to distinguish an exact outline.  The speed with which the object moved was extremely quick and would not have been mistaken for an airplane.  The object appeared to be slightly lower than an airplane would have been flying.  I don’t believe that the object was a star because it was much larger and brighter than the stars and it was much lower.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102630.html](http://www.nuforc.org/webreports/reports/102/S102630.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164743.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164881.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164879.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164745.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164736.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
