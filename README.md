@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:38 on 25 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:01:11 on 25 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Coeur d'Alene (ID) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Two Bright Orange Craft Flying In FormationI walked out onto balcony to smoke and two bright orange fireballs flying, one following the other, as if intelligently controlled, however no sound was apparent.  Both craft traveled in a northwest direction at approximately 5000 to 6000 feet elevation.  Both craft disappeared after passing our 90 degree aspect.  These we're NOT conventional aircraft, as I am an ex-military air defense artillery gunner and a trained observer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114086.html](http://www.nuforc.org/webreports/reports/114/S114086.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Philadelphia (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>I videoed on my cell Phone little flashing blue lights for about 5 minutes.  Also, the entire night sky would flash blue.  After it was over there was a shiny orb that moved north.  It looked like a star flying across the night sky.  Absolutely no sound at all, even during the flashes</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84150.html](http://www.nuforc.org/webreports/reports/084/S84150.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164743.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164881.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164879.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164745.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164736.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
