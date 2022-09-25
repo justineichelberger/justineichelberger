@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:46:22 on 25 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:27:24 on 25 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Durango (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Very bright light moving fast, turning red then disappears.Every night we sit outside when the weather permits us to do so. For the past few nights now we have seen a very bright light moving across the northwest sky. The light seens to be moving at a high rate of speed. We watch it for about 3 to 5 min. then it will turn red and its gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72615.html](http://www.nuforc.org/webreports/reports/072/S72615.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Casa Grande (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Triangular craft with orange lights moving in an odd patternViewed non-traditional shaped craft from eastern horizon to western horizon.  Craft had three orange colored lights on hull and flew in an alternating pattern from left to right. As it passed overhead it made an unusual engine sound, unlike jets, or other traditional aircraft. Craft moved from horizon to horizon in a matter of 2-3 minutes. Originally thought I was viewing Mars, due to color.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52635.html](http://www.nuforc.org/webreports/reports/052/S52635.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164743.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164881.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164879.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164745.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164736.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
