@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:01:14 on 26 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:01:41 on 26 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Watsonville (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>it was similar to a manta  ray with no tail bobbing in the sky, black with soft edgesThe object was black and triangular shaped just  hovering over near the a main drag in my town. no lights or sounds, nothing.At first we thought it must be a big bird. but it was to triangular shaped, and bobbing in the air  up and down and side to side  in a smooth  like motion.   like it was just hanging there all chilled out observing the scene. at one point an airplane went bye it almost parallel to the object , and the  thing moved to the right a little bit , slowely, like it just flowed, not ridged. my gramma and cousin saw it and we took a picture of it. my cousin was all freaked out . after a while we took  turn to see if the object was still there. we only left it alone for like 15-25seconds at a time and then,  went to check in it once more, and it had dissaperared! in like 15 seconds! and thatwas it. it got really dark really soon after. it was pretty  freaky, kinda gave us all a cold feeling . I was a non beliver , but now im leaning twards the idea that there are things watching us.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46523.html](http://www.nuforc.org/webreports/reports/046/S46523.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Howard (OH) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>It had three lights, one red, one blue/green, and a flashing white light on the bottom.  It moved slow, had no sound, was black in color, and was a little higher than the trees.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122291.html](http://www.nuforc.org/webreports/reports/122/S122291.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164731.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164738.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164739.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164882.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164740.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
