@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:48 on 26 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:42 on 26 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Coon Rapids (MN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Ten "fireball" flying south to north over the span of 45 minutes.It was 11pm.  A friend I've known for about 15 years and I were out in his driveway talking.  Once before I saw something strange in the sky in our town.Looking up I noticed a "fireball" flying over the tree above us.  Seemed to have some aura coming off of it.  It was reddish/orange.  Directly overhead it was clearest.  That was when I immediately though "fireball".  As it got further away it took on more of a disc shape and became a darker red.Minutes later another flew over from the same direction.  Exactly the same.  Then two more maybe 10 minutes later.  A few minutes later another two. Another 10 minutes or so came another two.  Showing up as two they were never side by side, always one before the other flying on the same flight path.The last two came one by one again like the first two (not paired) minutes between them.  All in all it lasted from 11pm-11:45pm (central).All I had with me was my cell phone but I shot three videos in the highest quality I could.  You can see a perfect disc shape as it got further away.  Zoomed way out in one of the videos to show houses for a little perspective.As an avid sky watcher I always have my eyes peeled!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122411.html](http://www.nuforc.org/webreports/reports/122/S122411.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Hudson (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>((NUFORC Note:  We suspect the object the witness observed may have been a twinkling star.  PD))To the naked eye it appears as a bright star changing colors.This is a circular shape which appears to be elongated bars of light extending from the center of the circle to the outer edge. These bars of light are white, red, and blue . They seem to be pulsating in intensity. I also detected a smaller very bright white light which dropped away from the main body and then appeared to move back into the circular object or possibly revolving around behind it. I have seen this same ufo once before about a month ago. It is in the Western Sky at about 40 degrees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31863.html](http://www.nuforc.org/webreports/reports/031/S31863.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164731.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164738.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164739.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164882.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164740.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
