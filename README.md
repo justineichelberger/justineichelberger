@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:42 on 26 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:41 on 26 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Hudson (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>((NUFORC Note:  We suspect the object the witness observed may have been a twinkling star.  PD))To the naked eye it appears as a bright star changing colors.This is a circular shape which appears to be elongated bars of light extending from the center of the circle to the outer edge. These bars of light are white, red, and blue . They seem to be pulsating in intensity. I also detected a smaller very bright white light which dropped away from the main body and then appeared to move back into the circular object or possibly revolving around behind it. I have seen this same ufo once before about a month ago. It is in the Western Sky at about 40 degrees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31863.html](http://www.nuforc.org/webreports/reports/031/S31863.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Fraserwood (Canada) (MB) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>ShockingI went outside for a smoke and as i was looking at the stars i noticed some area of non moveing blinking lights 2 of them, so i watched them go from White to yellow to blue then they all stared to move and then vanished  then in a nother part there was once flying around and it sounded like flys moveing and once it got to the group they all left</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84143.html](http://www.nuforc.org/webreports/reports/084/S84143.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164731.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164738.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164739.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164882.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164740.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
