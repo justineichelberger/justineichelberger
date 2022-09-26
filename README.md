@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:29:28 on 26 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:55:53 on 26 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Pleasant Hill (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I walked up a hill and saw 4 lights come from the sky I ran got my camera and started to film.  The battrey ran out  then the UFO's disappeared.I walked up on the hill behind my friend's house and looked towards Mt. Diablo and saw four lights fly from the sky onto to the ground.  The lights were larger than five houses put together.  And two of them moved apart alittle.  It was an amazing sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04374.html](http://www.nuforc.org/webreports/reports/004/S04374.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Tempe (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright circular light travels quickly and silently from NW to SE becomes brighter turns oval shapped zigzags abruptly and disappears.I was standing outside at 7:18 pm and the sky had been dark for just under an hour by that time. I had been relaxing and just watching the sky. I noticed a bright circular light coming from the North-West area as I was able to view it as it peaked over my house off in the distance. Normally I see air traffic (lots of airplanes) coming in from the north but this one was coming from a different area and look nothing like the other lights. This light was about 3 times brighter and bigger than the planes I usually see and not once did it blink. At first it was really bright but then it dimmed a bit. I thought I was looking at a plane at first but then as it dimmed it looked as if it were really high and I began to think it was a satellite. Almost immediately after that thought the light became very bright and was bigger than when I first spotted it. I immediately called my wife outside to see it as to see if maybe she could make out what it is. When my wife came! outside the circular light was just about overhead roughly 85 degrees above the horizon line. The object was very close and bright but made no sound as it traveled quickly through the sky. It took about 1 minute to go from when I spotted it peaking out from behind my house off in the NW distance to far off in the South East. When the light was far in the South East area my wife and I noticed the light became much brighter and a bit bigger than before, taking on more of an oval shape. The light then slightly dimmed made a zigzag pattern and disappeared at the end of its pattern, ending right where it would have been the line of travel had it not zigzagged. We don’t know if it went up or just simply disappeared. Up until just before the object made the zigzag movement it had traveled in a direct straight line from the NW area to the SE area, once again with no sound and at a high rate of speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72632.html](http://www.nuforc.org/webreports/reports/072/S72632.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164731.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164738.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164739.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164882.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164740.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
