@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:01:40 on 26 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:03:07 on 26 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Leduc (while driving on highway 2) (AB) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>2 grey illuminating umbrella shaped objects next to eachother or together in the early amWhile driving south on Highway 2 near Leduc, witnessed 2 umbrella shaped objects either attached to eachother or infront or or behind eachother. They were illuminating grey objects. It was dark out since it was 6:01 am, and was seen in the horizon south of leduc. I'm not sure how far away it was since it was in the horizon, but I don't believe it to be a parachute as it moved quick into the horizon until it could not be scene ( almost like how the sun sets into the horizon).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102656.html](http://www.nuforc.org/webreports/reports/102/S102656.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Rio Del Mar (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Flashing Objects hovering over the ocean near Santa Cruz, CA.It was about 11:00 pm on Friday, September 26,2014 and I was visiting a friend when we decided to go out on the patio that over looks the ocean.  My friend was the first to notice it and when I first seen it, I thought it was a small plane or helicopter. I was mistaken!! When looking at the object through binoculars it was very clear to me that the triangle shaped object was no plane or helicopter.  It had lights flashing around in different colors almost like a disco ball would. It stayed in the same general area but moved it quick random movements (front2back, zig zagging, left2right). I am a huge skeptic when it comes to ufo and what have you but this incident really has me thinking twice.... should we be scared??</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114072.html](http://www.nuforc.org/webreports/reports/114/S114072.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164731.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164738.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164739.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164882.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164740.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
