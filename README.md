@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:01:32 on 26 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:29:28 on 26 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Eatontown (NJ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>ufoThis is my second sighting in 4 years.my job is right next to a major military complex in monmouth county.the first sighting was also at this location.it was a very cloudy day and there were breaks in the clouds where you could see the sky here and there. I happened to be looking at one of these breaks and spotted 3 disks travelling slowly together for about 3 seconds before the clouds blocked my view of these craft.my first sighting years ago the sky was clear i turned a corner walking and spotted a chrome like disk hovering several thousand feet in the sky, a disc i watched it for about 5 seconds then it zipped through the sky at an insane speed no sound no smoke no nothing just pure insane speed.it must have travelled 5 miles in a second if not faster i dont think their out there they are here. No b.s((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78166.html](http://www.nuforc.org/webreports/reports/078/S78166.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Pleasant Hill (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I walked up a hill and saw 4 lights come from the sky I ran got my camera and started to film.  The battrey ran out  then the UFO's disappeared.I walked up on the hill behind my friend's house and looked towards Mt. Diablo and saw four lights fly from the sky onto to the ground.  The lights were larger than five houses put together.  And two of them moved apart alittle.  It was an amazing sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04374.html](http://www.nuforc.org/webreports/reports/004/S04374.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164731.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164738.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164739.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164882.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164740.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
