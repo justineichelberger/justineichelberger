@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:21:36 on 26 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:12:15 on 26 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Mt. Vernon (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>object was moving in a straight line,fairly low.football in size.the color of the clouds but much brighter,and moveing at a steady pace,and very quiet.seen around 9:30ammyself and helper[carpet installers]on the way to work, around 9:30am This was no plane,as a matter of fact no one needs aviation knowledge to know the difference.the object was just cruising at a fast and steady speed,about a football in size.The object was not reflecting any sunlight,it had the color of the clouds, but a bit brighter.a very sunny morning with very few clouds.I was driving at the time.going east and the object going west.I stopped and look at the object until it went out of sight,approximately four minutes.I am 43yrs.old, helper 14. the object made absolutely no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04197.html](http://www.nuforc.org/webreports/reports/004/S04197.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Holland (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>4 Objecst Flow over us and the hot tub we wactched then all the objects disapeared.we were out in our hot tub when we noticed 1 U.F.O it was moving slow at first then we whatched a little mor eand it quickly went foward  then back then disapeard then 3 more appeard then all the lights disapeard and all was silent and calm.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46520.html](http://www.nuforc.org/webreports/reports/046/S46520.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164731.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164738.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164739.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164882.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164740.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
