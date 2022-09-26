@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:16:06 on 26 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:12:41 on 26 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Augusta (ME) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>2 large blue flashes in different locations late night in MaineAt 12:41 P.M. ((sic.  A.M.)) my wife and I were driving home from the Portland airport on route 295 north.  About 15 minutes south of Augusta, Maine, we saw a huge blossoming, neon blue explosion, north, directly in front of us just over the horizon.  Three seconds later we saw another, a little farther to the east, toward the ocean.The color was similar to the blue flames on a propane stove.  If you held your hand out straight in front of your face and spread your fingers, they were about that size.My wife and I have seen bolides (exploding meteors) before, and these were nothing like that.  The flash came from the ground up, brighter blue at the bottom, with no streak or trail in the sky to indicate anything fell.  The rest of our trip home we did not see anything else unusual Just wanted to put this out to see if anyone else reports it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93081.html](http://www.nuforc.org/webreports/reports/093/S93081.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Richland (WA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright blue object spotted in front of a full moon hovering.  Then shot straight up into the air at a amazing speed, leaving a trail10/27/07  To whom it may concern,   On September 26th 2007 we have witnessed two different unexplained UFO sighting’s by two separate people.  One person has photos  and the other has video.  The video is astonishing and overwhelming.  It is not any sort of plane any of us have seen.  The speed and direction it moved in was nothing any of us have seen. It appeared on a clear full moon evening.  It hovered directly in front of the full moon.  It was a bright blue round shaped object.  It hovered for some time and then shot straight up into the air.  Who should we contact to see the photos and the video?  We are very serious about this.Please advise.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  We have requested copies of the photos and video.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59471.html](http://www.nuforc.org/webreports/reports/059/S59471.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164731.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164738.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164739.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164882.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164740.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
