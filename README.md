@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:34 on 26 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:16:06 on 26 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Camphill (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately hours - hours minutes.</sub><blockquote><sub>Two objects hovering changing colors from red, blue and white for hours.The date was 9/26/2014 Friday and about 8:30 . I went to pick up my child at his friends house down the street.  The night was clear and the weather was good.  I was standing outside waiting for him and I was looking at the night sky when two objects caught my eyes.  They where different they where traveling together and the lights where different.  The crafts would change colors from red, blue and white and the light colors where not normal.  The lights did not blink light air planes.  It had one area of light.  The one craft stayed in are area and the other went down towards my house out of sight. We watched the one hover in the sky till it dropped be low the tree line out of sight. I thought the show was over so we went home. When we got home I went out back to see if the  other one was there and it was in the sky right across from me. It was sitting there hovering not moving at all. I got a picture of it. It was there for hours  hardly moved. It look like it w! as watching or collecting data. I went to bed at midnight it was still there. When I got up I look and it was gone. I been looking at the sky for them and I can see one up very high. It looks like a star flickering but if you look closer you will see it is flicking red, blue and white. I would like to know if it is from here or another world?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114211.html](http://www.nuforc.org/webreports/reports/114/S114211.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Augusta (ME) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>2 large blue flashes in different locations late night in MaineAt 12:41 P.M. ((sic.  A.M.)) my wife and I were driving home from the Portland airport on route 295 north.  About 15 minutes south of Augusta, Maine, we saw a huge blossoming, neon blue explosion, north, directly in front of us just over the horizon.  Three seconds later we saw another, a little farther to the east, toward the ocean.The color was similar to the blue flames on a propane stove.  If you held your hand out straight in front of your face and spread your fingers, they were about that size.My wife and I have seen bolides (exploding meteors) before, and these were nothing like that.  The flash came from the ground up, brighter blue at the bottom, with no streak or trail in the sky to indicate anything fell.  The rest of our trip home we did not see anything else unusual Just wanted to put this out to see if anyone else reports it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93081.html](http://www.nuforc.org/webreports/reports/093/S93081.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164731.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164738.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164739.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164882.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164740.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
