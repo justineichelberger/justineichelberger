@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:55:40 on 26 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:38:47 on 26 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Puyallup (WA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I was driving down Canyon at coming up to the intersection of 176th to take a left towards Puyallup and looked over at Mount Rainier and saw this big silver diamond-/ oval-shaped object, just hovering by the mountain.  It had to have been really big, but I blinked my eyes think iu by this can be real, but opened my eyes  it was still there then after about a min or so  it just disappeared.  I've seen the spacecraft with flashinglight hovering at night, but never during the day.  Hoping others saw it too!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136462.html](http://www.nuforc.org/webreports/reports/136/S136462.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately Ongoing - Ongoing minutes.</sub><blockquote><sub>On September 26th, around 7:00PM, my family and I noticed strange blue lights in the shape of an disk above the Hollywood Hills.At approximately 7:00pm, on September 26th, my mother, father, and I noticed strange blue lights in the sky above the Hollywood mountains.  The lights would turn off and even move around.  Upon further examining it closer with binoculars on our building's roof for a better look , we couldn't identify the lights to be anything that we knew.  Therefore, we want to report this as either a UFO sighting or at least maybe get an explanation as to what it was that night we were looking at.  Thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136388.html](http://www.nuforc.org/webreports/reports/136/S136388.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164731.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164738.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164739.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164882.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164740.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
