@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:38:47 on 26 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:28:25 on 26 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately Ongoing - Ongoing minutes.</sub><blockquote><sub>On September 26th, around 7:00PM, my family and I noticed strange blue lights in the shape of an disk above the Hollywood Hills.At approximately 7:00pm, on September 26th, my mother, father, and I noticed strange blue lights in the sky above the Hollywood mountains.  The lights would turn off and even move around.  Upon further examining it closer with binoculars on our building's roof for a better look , we couldn't identify the lights to be anything that we knew.  Therefore, we want to report this as either a UFO sighting or at least maybe get an explanation as to what it was that night we were looking at.  Thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136388.html](http://www.nuforc.org/webreports/reports/136/S136388.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Apple Valley (UT) reported seeing craft that fit the description of some 'Changing' over a period of approximately 240.0 - 240.0 minutes.</sub><blockquote><sub>Glowing orb hovers in southern Utah for over four hours.On Sunday, September 25, 2016, I was in my backyard and saw a bright object in the sky and  went into the house and told my wife that there was a drone flying over our yard.  It looked to me to be about 600-700 feet in the air, above the mesa behind us.  I watched it move slowly along the mesa from west to east until it was out of sight.The following day, Monday, the object appeared again but was higher in the sky.  My wife came out to look at it, and I called some neighbors also.  This was approximately 3:30-4:00 pm.  One neighbor had a rifle with a high-powered scope, and some binoculars.  He said that the object was definitely not a drone, but looked like a disk.  He described the object as having a red light and was glowing.  His estimate was the object was at about 1500 feet.   He apparently took photos, but unfortunately he left town for his work, and we do not have access to his photos yet.I took pictures with my everyday camera but there is not a really good shot.  The object appeared to change shape from round to triangular.    I found an old pair of binoculars that were water damaged. I did manage to get a better look.  My wife and I both saw the object as a glowing orb; it was luminescent and slowly shifted its shape and colors.  Our small camera picked up bright pink “auras” or “energy waves,” which were also sometimes visible to the naked eye.At one point a low-flying jet appeared out of nowhere, and not on a regular flight route or elevation. It looked almost like two aircraft were flying together, one just above the other.  A few minutes later, another plane flew by.  My wife describes them as “ghost” planes, because they were  so out of place and looked like they were in a haze.The object moved slowly, almost imperceptibly, towards the west and the setting sun.   When the sun disappeared behind the mesa, the object remained in the same place above the mesa.  I made a small fire and stayed outside well after dark to watch the object.   Around 8:15 pm, I saw it become slightly larger and brighter, then it suddenly extinguished.   My wife and I are over 60 years old, and neither of us has  seen anything like this ever.  We have lived in our home for 18 years and have never seen anything unusual in our skies.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130325.html](http://www.nuforc.org/webreports/reports/130/S130325.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164731.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164738.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164739.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164882.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164740.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
