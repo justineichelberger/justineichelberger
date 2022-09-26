@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:03:19 on 26 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:47 on 26 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Clinton (CT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>A gold,yellowish light going across the sky in space... up with the stars!Stepped out earlyin the morning to check weather and smoke a cigar and as i always do look up and look at the stars. I know the difference between airliners,planes etc. No strobes, no red, no green nav lights. Higher than any aircraft of any kind. This was in SPACE traveling past us. Going very fast.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59063.html](http://www.nuforc.org/webreports/reports/059/S59063.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Boise (ID) reported seeing craft that fit the description of some 'Oval' over a period of approximately hour - hour minutes.</sub><blockquote><sub>multi-color flashing lights with bright white in the middle. Hovering over Boise with no noise every nightwe have noticed this aircraft every night now for the last 4 nights.  It appears around 9 to 10 pm and we also see it very early in the morning around 6 am.  It has many lights surrounding a bright white middle one.  The bright white middle one stays lit, while the others around it are red, blue, orange, yellow, and we think green.  It looks like a flying Christmas tree.  Here's the strange part.  It just stays hovering in one spot for at least an hour. There is no noise.  I have never seen anything like it or act like it.  It's too low to be a satelite.  Definitely not a plane.  I guess it could be a helicopter, but what helicopter hovers every night in the same spot, for hours, and in the morning with those weird lights?  I can't believe nobody else has reported it or maybe they have and we just don't know about it.  I guarantee you it will be out again tonight.((NUFORC Note:  Sirius?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84188.html](http://www.nuforc.org/webreports/reports/084/S84188.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164731.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164738.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164739.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164882.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164740.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
