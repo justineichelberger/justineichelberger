@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:35 on 25 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:01:32 on 26 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Kinsman (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Bright light that quickly shot across the sky and then out of sight.On 09/25/13 at approximately 8:02 pm I was standing in the Kinsman IGA parking lot speaking with a friend.  I was standing, facing the Northeasterly direction when I glanced upward toward the sky.  I saw a bright light that quickly shot a brief distance across the sky.  The object went behind a cloud and did not reappear on the other side of the cloud cover.  The object seemed to be round or spherical in shape but I wasn't able to distinguish an exact outline.  The speed with which the object moved was extremely quick and would not have been mistaken for an airplane.  The object appeared to be slightly lower than an airplane would have been flying.  I don’t believe that the object was a star because it was much larger and brighter than the stars and it was much lower.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102630.html](http://www.nuforc.org/webreports/reports/102/S102630.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Eatontown (NJ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>ufoThis is my second sighting in 4 years.my job is right next to a major military complex in monmouth county.the first sighting was also at this location.it was a very cloudy day and there were breaks in the clouds where you could see the sky here and there. I happened to be looking at one of these breaks and spotted 3 disks travelling slowly together for about 3 seconds before the clouds blocked my view of these craft.my first sighting years ago the sky was clear i turned a corner walking and spotted a chrome like disk hovering several thousand feet in the sky, a disc i watched it for about 5 seconds then it zipped through the sky at an insane speed no sound no smoke no nothing just pure insane speed.it must have travelled 5 miles in a second if not faster i dont think their out there they are here. No b.s((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78166.html](http://www.nuforc.org/webreports/reports/078/S78166.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164743.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164881.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164879.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164745.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164736.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
