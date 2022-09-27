@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:01:25 on 27 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:34 on 27 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Derby/Ansonia (CT) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I was in the passengers seat heading to a friend's house I saw a pretty big sized egg shaped craft in the sky it was hovering and shining a kind of rainbow neon lights that rotated around the craft</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136430.html](http://www.nuforc.org/webreports/reports/136/S136430.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Cudahy (WI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Lighted sphere traveling southwest.I observed what was believed to be a star and as soon as I started watching it it started moving southwest (over Lake Michigan).  It wasn't  really fast and appeared to "shuffle" left to right a little bit instead of flying in a straight line.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122309.html](http://www.nuforc.org/webreports/reports/122/S122309.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [464](http://www.nuforc.org/webreports/reports/164/S164733.html)
-- [463](http://www.nuforc.org/webreports/reports/164/S164725.html)
-- [462](http://www.nuforc.org/webreports/reports/164/S164724.html)
-- [461](http://www.nuforc.org/webreports/reports/165/S165566.html)
-- [460](http://www.nuforc.org/webreports/reports/164/S164732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
