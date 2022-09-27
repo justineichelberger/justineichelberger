@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:28:54 on 27 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:25:55 on 27 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Woodburn (OR) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>((NUFORC Note:  Source of report provides no information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136471.html](http://www.nuforc.org/webreports/reports/136/S136471.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in FORT WORTH (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>CUBE SHAPE OBECT SIGHTED IN FORT WORTH TX SEP 20On approximately 29 September, 2020, at approximately 19:50 hrs., while taking an evening walk I happened to look over the nearby tree line and observed an object approximately 2-4 square ft. in diameter, emitting no sound, at a level approximately 2-300 ft. distant; traveling at approximately 20 mph in a straight line; the wind was negligible; the object was cube in shape, off-white in color, no windows/portals were visible nor other appendages.  I opine that the object was likely an experimental vehicle as it was close to, and headed in the direction of a Military base/Lockheed manufacturing plant. I believe this was the same type of vehicle as observed/reported by an individual (Benbrook, TX) on  14 Mar 20, and reported on this site on 15 May 20. For background: I am retired military.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160715.html](http://www.nuforc.org/webreports/reports/160/S160715.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [464](http://www.nuforc.org/webreports/reports/164/S164733.html)
-- [463](http://www.nuforc.org/webreports/reports/164/S164725.html)
-- [462](http://www.nuforc.org/webreports/reports/164/S164724.html)
-- [461](http://www.nuforc.org/webreports/reports/165/S165566.html)
-- [460](http://www.nuforc.org/webreports/reports/164/S164732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
