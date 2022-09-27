@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:04:04 on 27 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:45 on 27 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Englewood (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Bright colored lights of 1 object hovering in one position over Gulf of Mexico from FLObserved bright light NW over Gulf of Mexico.  Thought it might be a bright star, but noticed flashing red, blue, white lights.  Thought it could be an airplane, but it did not move.  Then thought it could be a helicopter, but it stayed in one area without changing for almost 1 hour that we observed.  Used binoculars to see if we could detect a shape, but only could make out a close net cluster of lights flashing.  Last check, it was still hovering over the Gulf.((NUFORC Note:  Star, possibly Sirius.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84178.html](http://www.nuforc.org/webreports/reports/084/S84178.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Glen Arbor (MI) reported seeing craft that fit the description of some '' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Appeared aprox NNW over lake michigan above North Manitou island. Initialy thought it was a metorite but it moved slowly(much to slow for meteorite) to the West and seemed to stop momentarily then gradually faded away.  Official report is that it was the International space staion but I have observed it before and it has never been this large and it was orange ball that became almost vertically diamond shape, at one time I thought a smaller orange smaller shere fell off and down. Generally the space staion is white and much more distant. I suppose the sun could have reflected off the gold solar collectors on the space sation but again seemed much too big . ????</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102791.html](http://www.nuforc.org/webreports/reports/102/S102791.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [464](http://www.nuforc.org/webreports/reports/164/S164733.html)
-- [463](http://www.nuforc.org/webreports/reports/164/S164725.html)
-- [462](http://www.nuforc.org/webreports/reports/164/S164724.html)
-- [461](http://www.nuforc.org/webreports/reports/165/S165566.html)
-- [460](http://www.nuforc.org/webreports/reports/164/S164732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
