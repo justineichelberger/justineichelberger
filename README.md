@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:56 on 27 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:30 on 27 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in None (ME) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Distant circles/spheres with red green and white lights apparantly chaseing around perimeter observed on Allagash River in Maine.My 5 middle aged friends (4 lawyers and 1 social worker) and I were on an 8 day canoe trip on the Allagash River in northern Maine.  We were camped at the long lake dam camp site.  We saw a circle or sphere in the northern sky that was essentially stationary.  The sphere was far off in the distance. We could see its reflection in the river water as well.  It had green red and white lights that appeared to be chasing each other around the perimeter of the sphere.  It remained stationary for a lengthy period of time - or perhaps moved very slightly to the east. Later the same evening we noticed another ufo that looked identical to the first off in the opposite direction - to the south west, that very slowly disappeared below the horizon.  The next night, while camped at the Inlet site on Round Pond one of our group observed four of the same ufos in the very  late night or early morning hours.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52765.html](http://www.nuforc.org/webreports/reports/052/S52765.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Kingsville (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 25&quot; - 25&quot; minutes.</sub><blockquote><sub>There was a motherboard.it looked like red ash from a fire floating in the air but there were no fires near here.  At first, I thought they were a lot of planes or a prison escape but it was so close and there was no sound at all.  They seemed to have had a motherboard, one of the aircraft looked like a large star that was moving fast but not slow enough to be a star.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159609.html](http://www.nuforc.org/webreports/reports/159/S159609.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [464](http://www.nuforc.org/webreports/reports/164/S164733.html)
-- [463](http://www.nuforc.org/webreports/reports/164/S164725.html)
-- [462](http://www.nuforc.org/webreports/reports/164/S164724.html)
-- [461](http://www.nuforc.org/webreports/reports/165/S165566.html)
-- [460](http://www.nuforc.org/webreports/reports/164/S164732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
