@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:41 on 26 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:04:04 on 27 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Fraserwood (Canada) (MB) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>ShockingI went outside for a smoke and as i was looking at the stars i noticed some area of non moveing blinking lights 2 of them, so i watched them go from White to yellow to blue then they all stared to move and then vanished  then in a nother part there was once flying around and it sounded like flys moveing and once it got to the group they all left</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84143.html](http://www.nuforc.org/webreports/reports/084/S84143.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Englewood (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Bright colored lights of 1 object hovering in one position over Gulf of Mexico from FLObserved bright light NW over Gulf of Mexico.  Thought it might be a bright star, but noticed flashing red, blue, white lights.  Thought it could be an airplane, but it did not move.  Then thought it could be a helicopter, but it stayed in one area without changing for almost 1 hour that we observed.  Used binoculars to see if we could detect a shape, but only could make out a close net cluster of lights flashing.  Last check, it was still hovering over the Gulf.((NUFORC Note:  Star, possibly Sirius.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84178.html](http://www.nuforc.org/webreports/reports/084/S84178.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164731.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164738.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164739.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164882.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164740.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
