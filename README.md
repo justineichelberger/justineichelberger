@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:44:37 on 27 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:28:54 on 27 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Fredericton (Canada) (NB) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Large, bright, reflective object with no vapor trail following commercial aircraft, then disappearingWitnessed at approximately 5:00pm Atlantic Standard Time. Clear sky – no clouds.2 commercial aircraft were heading west, with one following the other, in a staggered pattern. Both aircraft were emitting vapor trails.  At a point, approximately 60 degrees vertical from the west horizon, we noticed a third object at a 4 o’clock position, behind the first aircraft, following a parallel course heading.  It did not emit a vapor trail and had a very reflective surface, which was a lot brighter than the 2 aircraft.  This object also appeared to be larger than the 2 aircraft. After watching for approximately 10 seconds it faded and disappeared.I thought that the object may have been the International Space Station, which I have witnessed before, so I checked the NASA website to check the orbit schedule.  Nothing matched up.  I then checked the Iridium Flare satellite schedule and nothing matched up.We are not sure what we witnessed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122363.html](http://www.nuforc.org/webreports/reports/122/S122363.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Woodburn (OR) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>((NUFORC Note:  Source of report provides no information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136471.html](http://www.nuforc.org/webreports/reports/136/S136471.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [464](http://www.nuforc.org/webreports/reports/164/S164733.html)
-- [463](http://www.nuforc.org/webreports/reports/164/S164725.html)
-- [462](http://www.nuforc.org/webreports/reports/164/S164724.html)
-- [461](http://www.nuforc.org/webreports/reports/165/S165566.html)
-- [460](http://www.nuforc.org/webreports/reports/164/S164732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
