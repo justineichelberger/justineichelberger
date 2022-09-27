@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:34 on 27 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:17:16 on 27 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Cudahy (WI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Lighted sphere traveling southwest.I observed what was believed to be a star and as soon as I started watching it it started moving southwest (over Lake Michigan).  It wasn't  really fast and appeared to "shuffle" left to right a little bit instead of flying in a straight line.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122309.html](http://www.nuforc.org/webreports/reports/122/S122309.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Canon City (CO) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>cigar shape object reflecting the sun's lightI am 55 years old, a Certified Occupational Therapy Assistant at local hospital. I grew up in Colorado and so have knowledge of   unknown lights and objects in this state as many were published in local newspapers, especially during the 70’s. I have seen one strange object back in the 90’s but it would be very difficult to describe and so I won’t even bother.  But last night I was surprised at my father’s home on his back deck. The sun was very low on the western horizon and may have even slipped behind the hills. I saw a very bright light in the western sky - I could not make out any fuselage or wings or blinking lights or contrail, but I did quickly decide it was reflecting the sunlight because it changed to a sharper metallic brightness and then the light was gone. The object had moved beyond the reach of the sun’s rays as it traveled in a southeastern direction.I watched this object with some difficulty because it was a faint white, cigar in shape, but not clearly defined.  It was nearly invisible in the pale sky, but I continued to watch the course of it until it finally just faded altogether.  It seemed to be sailing along very smoothly without any wobbles or directional changes. I cannot tell how fast it was traveling, but it covered about 130 degrees of the dome of the sky in 25 - 30 seconds.  I think it was very high in the air but I cannot substantiate that opinion.  It seemed to gain altitude as it traveled west to southeast because it became so faint and hard to distinguish. If I were to hazard a guess, I would say that I first saw it at 1,000 feet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78047.html](http://www.nuforc.org/webreports/reports/078/S78047.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [464](http://www.nuforc.org/webreports/reports/164/S164733.html)
-- [463](http://www.nuforc.org/webreports/reports/164/S164725.html)
-- [462](http://www.nuforc.org/webreports/reports/164/S164724.html)
-- [461](http://www.nuforc.org/webreports/reports/165/S165566.html)
-- [460](http://www.nuforc.org/webreports/reports/164/S164732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
