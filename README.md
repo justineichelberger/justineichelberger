@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:02:01 on 27 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:01:25 on 27 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Dearborn (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I went to lock my patio door when I looked out the window a bright lava red orb.  At first I thought it was a aircraft but I did not have the blinking lights like all the commercial planes have I watched it for a couple of minutes.  I saw other commercial aircraft in the distance and this red orb was faster than the commercial planes.  It did not change its flight pattern.  To my observation it looked like it had a escort.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114016.html](http://www.nuforc.org/webreports/reports/114/S114016.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Derby/Ansonia (CT) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I was in the passengers seat heading to a friend's house I saw a pretty big sized egg shaped craft in the sky it was hovering and shining a kind of rainbow neon lights that rotated around the craft</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136430.html](http://www.nuforc.org/webreports/reports/136/S136430.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [464](http://www.nuforc.org/webreports/reports/164/S164733.html)
-- [463](http://www.nuforc.org/webreports/reports/164/S164725.html)
-- [462](http://www.nuforc.org/webreports/reports/164/S164724.html)
-- [461](http://www.nuforc.org/webreports/reports/165/S165566.html)
-- [460](http://www.nuforc.org/webreports/reports/164/S164732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
