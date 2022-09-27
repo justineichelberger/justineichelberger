@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:02:06 on 27 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:02:36 on 27 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Ask not to give this out. (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>blue lights and another 5 under rainbow.I received an email from a very nice couple who wanted to make a report on some very unusual lights which they witnessed, and took photos of on September 27, 2003. At 5:00 a.m. on that day  they noticed and filmed blue lights close to their home.The witnesses watched the blue lights travel from the east and then stopped  near their home as seen in the photos below.  The  lights stayed in the area for approximately 20 minutes. I asked the folks if they knew which direction the lights went and they were both unsure.  They may have looked away for a minute or two and then when they glanced back the lights were gone.  Then on the same morning, two hours later, they  saw  more some strange objects and took photos of them as well.  I found the pictures to be very interesting and beautiful with the rainbow as a backdrop.A number of objects can be seen very clearly in the pictures. The witnesses said the objects stayed in their area for approximately an hour, and told me this event was extraordinary.  They watched them flying north and maneuver themselves as if they were lining up one after another.  They also would change positions, spreading out, and coming back together once again.  At one point the witness said they seemed to  leap frog over one another..  It was a strange and exciting experience for the couple.One of the witnesses said someone else must have surely seen this event as it lasted so long and was so very strange.I would really like to thank the couple for sending me the pictures and report.Pictures can be found here: http://www3.telus.net/public/wilbur8/minnesota_into_canada.htm  Brian Vike, Director HBCC UFO Research Canadian Toll Free UFO Hotline 1 866 262 1989 - Free call.Home - Phone/Fax 1 250 845 2189 HBCC UFO Forum Board http://216.147.50.102/HBCC-UFO/index.php email: hbccufo@telus.net Website: http://www3.telus.net/public/wilbur8/hbcc_ufo_research.htm</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32028.html](http://www.nuforc.org/webreports/reports/032/S32028.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Pointblank (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>It was 2:00 in the morning on the east side lake livingston right under 190 hwy. My mom and my sister and I were inside the house having a conversation. Me and my sister were facing the windows. (Facing east)When all of a sudden we saw two separate lights next to each other in the middle of the lake hovering (They weren't low in the water but they weren't up high in the sky ) just out of nowhere the lights turned on, then they took off southbound up to the sky. Me and my sister looked at each other and then just kinda blew it off like maybe it was a shooting star or a drone.  But its was too low for a shooting star and it was too windy outside to be a drone. So we continued our conversation. All of a sudden (like 5 minutes later) we saw another one come back down to the same spot.  And dissapeared. We ran outside but there was no longer anything there too see. We tried going back to our cameras but it was out of view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159577.html](http://www.nuforc.org/webreports/reports/159/S159577.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [464](http://www.nuforc.org/webreports/reports/164/S164733.html)
-- [463](http://www.nuforc.org/webreports/reports/164/S164725.html)
-- [462](http://www.nuforc.org/webreports/reports/164/S164724.html)
-- [461](http://www.nuforc.org/webreports/reports/165/S165566.html)
-- [460](http://www.nuforc.org/webreports/reports/164/S164732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
