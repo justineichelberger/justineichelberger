@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:03:30 on 27 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:05:08 on 27 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Devon (PA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Chemo out of the sky like a meteor then level off and then became two objects and then became one and then became too and disappearedTo whom this may concern .Yesterday evening at approximately 11:20 PM September 27th. I was flying my drone which is a “Holy Stone HS720E” While I was flying it the drone , it stopped working proper. I could not go up or go down. I could not go forward or backwards or sideways. The only the drone could do was spin around. This went on for approximately 5 minutes before the object appeared. I even tried return home mode and that didn’t work either. The drone was only 100 yards above my head so it was not far and still had great signal.   While I was staring into the sky and I saw what appeared to be a comet or meteor coming out of the the atmosphere on a 45 degree angle.  After it reached the altitude of a plane, it then leveled off and what broke into two separate bright lights and then came back together as one and then it became two separate objects again then flew off into the distance and disappeared out of sight.  After the UFO disappeared out of sight my drone was then able to operate again .Never seen anything like it believe me this was not a meteor or comet this was something extra terrestrial.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164725.html](http://www.nuforc.org/webreports/reports/164/S164725.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Playa del Rey (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Fire alarm went off then Strobing light filled the sky</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65938.html](http://www.nuforc.org/webreports/reports/065/S65938.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [464](http://www.nuforc.org/webreports/reports/164/S164733.html)
-- [463](http://www.nuforc.org/webreports/reports/164/S164725.html)
-- [462](http://www.nuforc.org/webreports/reports/164/S164724.html)
-- [461](http://www.nuforc.org/webreports/reports/165/S165566.html)
-- [460](http://www.nuforc.org/webreports/reports/164/S164732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
