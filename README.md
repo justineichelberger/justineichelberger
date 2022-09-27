@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:13:47 on 27 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:05:54 on 27 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>20+ lights seen individually, very rapid speed, abrupt direction changes, no sounds, multiple witnesses in DenverI Was sitting in my back yard with relatives. Noticed a very rapidly moving light traveling southeast. At first thought it might be a meteor, but when it did not burn up, I jumped out of my chair and watched it disappear into the moonlight.  A few minutes later, saw another light traveling southeast. No sounds heard. Estimate altitude at perhaps hundreds to several thousand feet.  I have seen sattelites before but these lights traveled at a much greater speed.  We watched at least 20 of these pass by traveling in various directions over the course of an hour until we went to bed. They would change directions abruptly making very sharp turns and appearing to slow down and speed up as well. Also saw one light travel south to north overhead at about double the speed of the other objects.   We had a pair of binoculars and were able to follow some of the objects but could not gain any clearer resolution. There were no flashing lights or colors.  We would see only 1 light at a time, never in pairs or groups like you would expect with birds. We would see several objects per minute and other times would see no objects for 5 or so minutes.  The size of the objects I would have to estimate as being anywhere from the size of a star to the size a planet looks like in the night sky.  This is at least my third sighting of unknown objects in my 36 years.  I have also seen previously, triangle shaped craft. Will be looking again tonight</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19673.html](http://www.nuforc.org/webreports/reports/019/S19673.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Bayonne (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>2 lights in sky.  Would fade whenever airplane was approaching.  1 other light made hook shape from northeast and disappeared.  Saw same 2 lights right in front of house at 6am.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122316.html](http://www.nuforc.org/webreports/reports/122/S122316.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [464](http://www.nuforc.org/webreports/reports/164/S164733.html)
-- [463](http://www.nuforc.org/webreports/reports/164/S164725.html)
-- [462](http://www.nuforc.org/webreports/reports/164/S164724.html)
-- [461](http://www.nuforc.org/webreports/reports/165/S165566.html)
-- [460](http://www.nuforc.org/webreports/reports/164/S164732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
