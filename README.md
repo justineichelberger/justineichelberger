@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:02:36 on 27 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:11:49 on 27 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Pointblank (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>It was 2:00 in the morning on the east side lake livingston right under 190 hwy. My mom and my sister and I were inside the house having a conversation. Me and my sister were facing the windows. (Facing east)When all of a sudden we saw two separate lights next to each other in the middle of the lake hovering (They weren't low in the water but they weren't up high in the sky ) just out of nowhere the lights turned on, then they took off southbound up to the sky. Me and my sister looked at each other and then just kinda blew it off like maybe it was a shooting star or a drone.  But its was too low for a shooting star and it was too windy outside to be a drone. So we continued our conversation. All of a sudden (like 5 minutes later) we saw another one come back down to the same spot.  And dissapeared. We ran outside but there was no longer anything there too see. We tried going back to our cameras but it was out of view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159577.html](http://www.nuforc.org/webreports/reports/159/S159577.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lewistown (MT) reported seeing craft that fit the description of some '' over a period of approximately Until Dawn - Until Dawn minutes.</sub><blockquote><sub>Differential lights shining all around the yard and river of our house.My friend and I were up taking after my bartending shift.I saw something move out of the corner of my eye.  It was a flash of light, I thought it was a cars headlights at first.  Then as time went by the sparks or flashes kept moving in very cunning ways.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102964.html](http://www.nuforc.org/webreports/reports/102/S102964.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [464](http://www.nuforc.org/webreports/reports/164/S164733.html)
-- [463](http://www.nuforc.org/webreports/reports/164/S164725.html)
-- [462](http://www.nuforc.org/webreports/reports/164/S164724.html)
-- [461](http://www.nuforc.org/webreports/reports/165/S165566.html)
-- [460](http://www.nuforc.org/webreports/reports/164/S164732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
