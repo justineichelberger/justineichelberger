@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:49:29 on 28 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:32:25 on 28 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Naples (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately ongoing til dawn - ongoing til dawn minutes.</sub><blockquote><sub>One spherical shaped UFO with red, green, white lights running through it.  Always seen early in the morning hovering in the same spot.  Once sun comes up, it disappears.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143301.html](http://www.nuforc.org/webreports/reports/143/S143301.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Reno (NV) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Large fireball spotted over NevadaI was looking to the east, when I noticed a very bright white object in the sky, heading east.  I got my binnoculars to get a better look, and it looked as if it were something coming through and burning in the atmosphere.  I could vaguely make out a small dark spot at the front core, but the rest of it looked like a huge fireball with "tails" or "trails" coming from either side.  I watched it continue to travel to the east until it went behind the clouds.  I am not saying it was a flying saucer, because it didn't look like one... no metal object, just a huge fireball.I am just curious as to what it was, if anyone has information.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19672.html](http://www.nuforc.org/webreports/reports/019/S19672.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [415](http://www.nuforc.org/webreports/reports/164/S164717.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164868.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164871.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164723.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
