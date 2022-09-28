@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:29:01 on 28 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:53:38 on 28 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 12-15s - 12-15s minutes.</sub><blockquote><sub>flying-wing shape outlined by 12-14 lights. Apparent high altitude over- head east to west mvmnt.  Appx. 9-12 moon widthsA grouping of lights in the night sky forming the shape of a flying wing At least 10 lights, possibly 12-14.  All lights were in rock-solid formation and equi-distant from one another as if one solid object.  No blinking lights and all appeared to be appx. mag 3 (average star brightness)  Most notably, the width spanned in sky... appx. 6-8 degrees (10-14 moon widths).  Color of lights: seemingly yellowish-red, (poor color vision.)  Mvmnt East to West in straight line. Speed: appx. 30 degrees in 10 seconds, (slightly faster than a satellite pass). Appeared much like a moving constellation. I am a radio eng./photgphr by proff.- astro-photo enthusiast.  Clear nite, vision, no wild imagination.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08097.html](http://www.nuforc.org/webreports/reports/008/S08097.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Portage (WI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>triangle formation lights bright as full moontraveling west on I-90 saw 4 lights in triangle formation 3 horizional and one below they appearred like a light switch was turned on and became as bright as a the full moon then just faded to black it was a clear full moon night they were off to my northeast and was viewed out of my passenger windsheild</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39582.html](http://www.nuforc.org/webreports/reports/039/S39582.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [415](http://www.nuforc.org/webreports/reports/164/S164717.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164868.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164871.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164723.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
