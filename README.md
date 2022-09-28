@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:03:03 on 28 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:13:09 on 28 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Langebaan (South Africa) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Two objects moving apart, one coming down, large and bright, the other small and high up.We live on the West-coast and our house faces the sea.  The large window of the living room and the balcony allows a view of the sky from N to SW.  On 28.9.2012 at approximately 20h05 the sky was clear and the nearly full moon high up on our right as seen from the balcony.A greenish-blue  several millimeter large oval moved with great speed more or less from NW to SW coming down at an angle of approximately 20 degrees.  After maybe 5 seconds it developed a small triangular red tail and disappeared more or less in the W and about 30 degrees above the horizon.At the same time we spotted an unusually bright white star perpendicularly above us, moving fast to the N gradually becoming fainter and disappearing as if moving upward some 20 degrees to the left of the moon.  There were no sounds of an engine nor a sonic boom.  Both probably linked phenomena took approximately 20 seconds.My wife and I saw this and one other person in the same location also confirmed to have seen it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93155.html](http://www.nuforc.org/webreports/reports/093/S93155.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Richmond (VA) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>sighted 09/28/2001 no noise Richmond, Va. at 11:00 PM 2-3 minutes duration going west to east  shape of a sailor's capMarch 24, 2008  Dear Sir:  I have been a little hesitant to report a sighting two friends and I had some time back.       This sighting took place on Friday night September 28, 2001.   I might also add that one of the friends with me was an active FBI agent and also the driver of the vehicle.We were coming out of Richmond, Virginia at approximately 11:00 PM on the above date when we approached exit 58 on the southbound side of Interstate 95. On one side to the west is state route 150 with high tension electrical lines on the east running parallel to I-95 and (under construction at the time) to the west is  Interstate 895 overpass.We sighted a very odd flying object going from west to east.  What was strange about this is that the object had come in UNDER the electrical lines and was lit up in very bright white lights. The shape was that of a sailor’s cap. This object couldn’t have been 75 feet overhead. The vehicle was maybe 25 feet square and10-12 feet tall.  We had pulled onto the side of the road to watch this spectacle which had also attracted the attention of several vehicles on the northbound side of I-95.The object hovered over the roadway’s columns for a few minutes and then very slowly headed east.I have seen pictures of lots of different shapes of UFOs, but I have never seen or heard of anything like this. Do you have any ideas? We didn’t have a camera or video camera to take pictures of this. All three of us have discussed this several times and agree to what we saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62331.html](http://www.nuforc.org/webreports/reports/062/S62331.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [415](http://www.nuforc.org/webreports/reports/164/S164717.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164868.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164871.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164723.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
