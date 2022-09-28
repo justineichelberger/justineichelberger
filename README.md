@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:04:49 on 28 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:01:18 on 28 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Richmond (VA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>This tight shape fanned out into 6 to 7 individual dimly lit red lights in a downward V-shaped formation traveling horizontally.In my backyard beside a small fire I sat reclined in a chair staring up into the night. Out of the corner of the South East sky I noticed the silhouette of what I thought was a large bird (probably an owl) As I stood up telling my wife to look, the shape swooped down pulling in tightly accelerating in an arching motion back into the horizontal direction it was going. As it did this it fanned out into 6 to 7 individual dimly lit red lights in a downward V-shaped formation. These red lights despite being very dim were consistent in their color, light shade and even direction. Behind each light was a dark trail. There was absolutely no sound. It lasted for only a few seconds before the trees blocked my view. I worked on air craft for 8 years in the military and I have never seen anything like this. definitely not fireworks</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159713.html](http://www.nuforc.org/webreports/reports/159/S159713.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Santa Monica (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>object  made  by many ringsblue and yellow object flying over santa monica at colorodo an main st at 1002 am sunday morning 9/28/2010</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78159.html](http://www.nuforc.org/webreports/reports/078/S78159.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [415](http://www.nuforc.org/webreports/reports/164/S164717.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164868.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164871.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164723.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
