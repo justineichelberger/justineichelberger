@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:10:38 on 28 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:02:21 on 28 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Harrington (DE) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>2 Fireball looking quiet slow flying object.Was leaving from work, seen a light out of the corner of my eye.  There was no noise, and there is lighting in the parking lot.  Seen flying in a straight line.  Was further away then started to pulsating slowly.  Then another a few minutes later appeared.  Same thing, but this one started to go higher in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114059.html](http://www.nuforc.org/webreports/reports/114/S114059.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Chesterfield () reported seeing craft that fit the description of some 'Changing' over a period of approximately 1:00++ - 1:00++ minutes.</sub><blockquote><sub>Two strange clouds swapping positions, with no visible illumination from the ground. Chesterfield UK.Saw two small clouds much like other cirrus type clouds in the sky.  Video a/v online taken by others further afar, but I saw little clouds, not lights as reported by others.  (Please view this video for movement timings, with several web entries for the same video, but I don't know at what time the video showing lights was taken.  The video also helps estimate distances).  Difficult to estimate distances but whilst viewing I thought probably 400 metres high and each moving horizontally, roughly like a pendulum and its mirror image, with a 1000-2000 metres estimated horizontal movement.  Background was clear deep blue with many almost still standard clouds clearly visible.  I was located directly under the east end of the horizontal movement, where the strange clouds were each more or less stationery for a couple of seconds with each pass.  I think this was probably the best location to view. The moving clouds were almost the same white colour as the standard clouds, but with a slightly grainy texture, and slightly whiter.  At no time could I see though the two strange clouds to the clear deep blue background.  Viewed for about 20 minutes, and then viewed again about an hour later with same observations except that the blue background was darker.  Assumed that the repeated movement had continued for this hour duration. On just one occasion I and another person saw a light (white or yellow??) for about a half second, looking similar to a light bulb being switched on and off.  I could not see any trace of a source light beam coming from the ground, and the strange clouds showed a uniform texture unlike what would have been expected if there had been illumination from the ground and associated reflections.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130531.html](http://www.nuforc.org/webreports/reports/130/S130531.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [415](http://www.nuforc.org/webreports/reports/164/S164717.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164868.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164871.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164723.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
