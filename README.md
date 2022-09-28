@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:15:40 on 28 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:12:16 on 28 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Chicago Heights (IL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>high pitched whirling noise and random lights moving very quickly with sharp turns.Very clear night, all the stars were out.  I heard a very high pitched whirling noise from above and looked up.  Saw random flashing lights moving quickly to the North and quickly to the West.  Craft did not slow down to take the sharp turn.  Watched it move to the West for about 10 seconds and it made another sharp turn to the South moving farther up into the air.  When I got into the house, all I could say was that there were a lot of stars out that night.  I think I was in shock.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46743.html](http://www.nuforc.org/webreports/reports/046/S46743.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Oswego (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Group of ten or more orange fireballs across Oswego, IL sky on 9/28/12My Wife's Description: A group of about ten of these bright yellow orange lights traveling horizontally across the sky over Oswego tonight before they fizzled out one by one? It was about 9:30pm. I caught two of them on camera.My Description: They were not lanterns, they were moving across the sky at a high rate of speed and they were clearly in the stratosphere.  They were bright orange and much larger than any airplane light or weather balloon.  They actually shimmered like balls of flame.  We could see them from the horizon as we turned the corner onto our street.   We watched for ten minutes as one by one they moved across the sky until they went past and then we couldn't see their light any longer.We turned off both our cars in the driveway so we could hear if their was any sound emanating from the objects and they were totally silent.There were three teenagers across the street watching the same thing.  I've never seen anything like it.  They moved irregularly, but fast.  They did not glow of a normal light.  They were more like glowing embers with a red core that you could see more clearly as the orange/yellow would fade, until finally when they were just past "overhead", they disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93153.html](http://www.nuforc.org/webreports/reports/093/S93153.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [415](http://www.nuforc.org/webreports/reports/164/S164717.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164868.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164871.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164723.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
