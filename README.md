@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:32:25 on 28 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:27:58 on 28 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Reno (NV) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Large fireball spotted over NevadaI was looking to the east, when I noticed a very bright white object in the sky, heading east.  I got my binnoculars to get a better look, and it looked as if it were something coming through and burning in the atmosphere.  I could vaguely make out a small dark spot at the front core, but the rest of it looked like a huge fireball with "tails" or "trails" coming from either side.  I watched it continue to travel to the east until it went behind the clouds.  I am not saying it was a flying saucer, because it didn't look like one... no metal object, just a huge fireball.I am just curious as to what it was, if anyone has information.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19672.html](http://www.nuforc.org/webreports/reports/019/S19672.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Clarion (PA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>They come back to the same spot frequently.They went from verified position, flashing red and blue and yellow lights, spinning, then quickly into smaller circles almost like blurred dots, back to verified with the same flashing patterns.  They moved close to one another, then what seemed like a top of one another, then apart, and repeated for 2 hours.  Then, they spun and poof.  Disappeared.  My daughter saw them with me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159676.html](http://www.nuforc.org/webreports/reports/159/S159676.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [415](http://www.nuforc.org/webreports/reports/164/S164717.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164868.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164871.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164723.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
