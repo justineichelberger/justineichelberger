@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:01:18 on 28 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:01:51 on 28 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Santa Monica (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>object  made  by many ringsblue and yellow object flying over santa monica at colorodo an main st at 1002 am sunday morning 9/28/2010</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78159.html](http://www.nuforc.org/webreports/reports/078/S78159.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lafayette (LA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Fire-orange glowing craft moved forward quickly, stopped, hovered, changed directions quickly, stopped, then disappeared into thin air.Bright orange glowing craft. Flew quickly into view in straight line and stopped, moved to the left a bit and then to the right. It was during this time I was able to observe that object appeared to have 2, maybe 3, glowing orange circles situated close together on one object. Object then moved quickly to the left what seemed to me to be about one hundred feet, but was most likely in actuality much farther, then just disappeared. My first thought when I saw it was "what the hell is that?"  For the duration of my observation I was in awe. I have never observed an aircraft to move in that fashion, and most definitely have not seen any fire-orange craft ever in the sky above. It was a most exciting, yet terrifying, experience. I was almost frightened, and am having difficulty describing exactly what it was I saw. I am in the city in a subdivision, so the background was just the night sky with a few trees along the street. I was just going to get the gr! oceries out of my vehicle. I was a bit frightened because of the way the object moved, and then remained stationary for a bit, it almost seemed as though it might be scanning the area below. Although it was not close enough to be a threat, by all measures approximately three times as far up as an airplane would pass over my residence, it had an ominous feel to it. Because of the unusual nature of the object, naturally I wanted to hide, but was mesmerized and instead followed the path of the object until it simply disappeared into thin air directly above me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102756.html](http://www.nuforc.org/webreports/reports/102/S102756.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [415](http://www.nuforc.org/webreports/reports/164/S164717.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164868.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164871.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164723.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
