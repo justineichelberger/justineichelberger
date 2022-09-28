@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:25 on 28 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:29 on 28 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Florence (AL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A red, yet transparent object with two orbiting lights moving very low to the ground without making a sound.My partner and our friend were on the back deck tonight when I noticed something out the corner of my eye.  When we turned to look, we saw a red, transparent object floating horizontally through the sky.  It was spherical in shape and it had two bright red, shield-like objects orbiting around it.  It was hard to gauge its distance from us but it appeared to be within 200 yards from where we were sitting.  The object was very low in the sky and seemed to be just above the tree line.  We watched it move for about a minute until it was out of our line of sight.We felt entranced while watching it move and we were unable to say anything until it had gone.  That may sound strange but prior to sighting the object my phone had frozen up. I'm an avid stargazer and I've ruled out any possibility of it being a plane or helicopter.  The main reason for ruling out common air traffic is that there was no sound.  We can all recall hearing crickets while the sphere passed by.  The local radio station ran a story that many people reported seeing a "fireball" in the sky tonight, but those reports came in around 6:45pm when we saw the object closer to 10pm. I've never witnessed anything like this before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102747.html](http://www.nuforc.org/webreports/reports/102/S102747.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Lake Kabetogama (MN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>My 2 friends and I were star gazing in the southern sky,almost straigt above, when we all witnessed that looked like 3 satelites moving together in a arrow shaped formation, they were of the same brightness and size of satelites.  None of us had ever witnessed 2 or more satelites moving together before, which made us all wonder if they were satelites. They seemed to be individual, and not a perfect formation.  The first one in front disappeared after about 12 seconds then the next 2 disappeared a couple seconds later.((NUFORC Note:  We suspect the witnesses observed the three satellites that move in formation, and which are reported to our Center frequently.  They are thought to be three U. S. Navy satellites, which are part of the "N.O.S.S." program.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25327.html](http://www.nuforc.org/webreports/reports/025/S25327.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [415](http://www.nuforc.org/webreports/reports/164/S164717.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164868.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164871.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164723.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
