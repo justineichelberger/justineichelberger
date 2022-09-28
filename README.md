@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:21:34 on 28 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:10:38 on 28 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Las Vegas (close to) (NV) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was returning from california I saw tree lights appear theiy were brigther than a star a little brighter that venus, they appear close to a star and began to disappear one at a time the shape was a triangle from the right to the left I was driving north and they didn't return (they may have being flares but the triangle was perfect they didn't last more than a minute, or mabe I just got the end but I don't think they ahave been more than a minute before I saw it, I was admiring how clea the nicght was and how beautifull the stars were)  Please let me know if there is more reports about this</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32047.html](http://www.nuforc.org/webreports/reports/032/S32047.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Harrington (DE) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>2 Fireball looking quiet slow flying object.Was leaving from work, seen a light out of the corner of my eye.  There was no noise, and there is lighting in the parking lot.  Seen flying in a straight line.  Was further away then started to pulsating slowly.  Then another a few minutes later appeared.  Same thing, but this one started to go higher in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114059.html](http://www.nuforc.org/webreports/reports/114/S114059.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [415](http://www.nuforc.org/webreports/reports/164/S164717.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164868.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164871.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164723.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
