@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:53:38 on 28 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:49:29 on 28 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Portage (WI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>triangle formation lights bright as full moontraveling west on I-90 saw 4 lights in triangle formation 3 horizional and one below they appearred like a light switch was turned on and became as bright as a the full moon then just faded to black it was a clear full moon night they were off to my northeast and was viewed out of my passenger windsheild</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39582.html](http://www.nuforc.org/webreports/reports/039/S39582.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Naples (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately ongoing til dawn - ongoing til dawn minutes.</sub><blockquote><sub>One spherical shaped UFO with red, green, white lights running through it.  Always seen early in the morning hovering in the same spot.  Once sun comes up, it disappears.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143301.html](http://www.nuforc.org/webreports/reports/143/S143301.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [415](http://www.nuforc.org/webreports/reports/164/S164717.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164868.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164871.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164723.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
