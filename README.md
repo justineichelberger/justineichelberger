@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:27:58 on 28 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:21:34 on 28 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Clarion (PA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>They come back to the same spot frequently.They went from verified position, flashing red and blue and yellow lights, spinning, then quickly into smaller circles almost like blurred dots, back to verified with the same flashing patterns.  They moved close to one another, then what seemed like a top of one another, then apart, and repeated for 2 hours.  Then, they spun and poof.  Disappeared.  My daughter saw them with me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159676.html](http://www.nuforc.org/webreports/reports/159/S159676.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Las Vegas (close to) (NV) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was returning from california I saw tree lights appear theiy were brigther than a star a little brighter that venus, they appear close to a star and began to disappear one at a time the shape was a triangle from the right to the left I was driving north and they didn't return (they may have being flares but the triangle was perfect they didn't last more than a minute, or mabe I just got the end but I don't think they ahave been more than a minute before I saw it, I was admiring how clea the nicght was and how beautifull the stars were)  Please let me know if there is more reports about this</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32047.html](http://www.nuforc.org/webreports/reports/032/S32047.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [415](http://www.nuforc.org/webreports/reports/164/S164717.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164868.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164871.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164723.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
