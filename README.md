@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:12:16 on 28 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:02:55 on 28 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Oswego (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Group of ten or more orange fireballs across Oswego, IL sky on 9/28/12My Wife's Description: A group of about ten of these bright yellow orange lights traveling horizontally across the sky over Oswego tonight before they fizzled out one by one? It was about 9:30pm. I caught two of them on camera.My Description: They were not lanterns, they were moving across the sky at a high rate of speed and they were clearly in the stratosphere.  They were bright orange and much larger than any airplane light or weather balloon.  They actually shimmered like balls of flame.  We could see them from the horizon as we turned the corner onto our street.   We watched for ten minutes as one by one they moved across the sky until they went past and then we couldn't see their light any longer.We turned off both our cars in the driveway so we could hear if their was any sound emanating from the objects and they were totally silent.There were three teenagers across the street watching the same thing.  I've never seen anything like it.  They moved irregularly, but fast.  They did not glow of a normal light.  They were more like glowing embers with a red core that you could see more clearly as the orange/yellow would fade, until finally when they were just past "overhead", they disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93153.html](http://www.nuforc.org/webreports/reports/093/S93153.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Cape May (NJ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Large cluster of red orbs.We were heading out to the Wilmington Canyon on a fishing trip around 5 am.  I was on watch looking north, when I noticed a bunch of large red circles in the distant sky, which were as bright as red fireworks that had just exploded and just stayed in one spot.  There were about 16-20 in a close pattern, and another 8 or so, spread out slightly to the left.  The lights didn't seem to go out, but seemed to move away toward the north until we couldn't see them anymore.  They were way bigger than the stars and the planets but a lot smaller than a typical moon.  It was a perfectly clear night this happened about 25-50 miles east of Atlantic City, over the ocean.  I woke up one of the other guys who verified it was there.  Both of the observers are Coast Guard licensed captains and have never seen anything like this before.((ADDENDUM FROM SOURCE))Peter,The date was Sept 28 2014 at approximately 5am.Also we did not call the hotline.As you saw, I listed 3 people seeing the orbs, the 3rd person saw the red but doesn't have very good vision.It was a gorgeous deep ruby red.((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114078.html](http://www.nuforc.org/webreports/reports/114/S114078.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [415](http://www.nuforc.org/webreports/reports/164/S164717.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164868.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164871.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164723.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
