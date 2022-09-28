@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:37 on 27 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:03:53 on 28 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>A triangular-shaped aircraft moved very smoothly from North to South. It had very dim lights on the front 2 sides of the triangle &gt;. First I thought it was the formation of geese or some other birds but soon realized from the straight line smooth motion it was UFO. It moved behind the trees too soon for me to be able to take the picture/movie.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164724.html](http://www.nuforc.org/webreports/reports/164/S164724.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in East Setauket (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>6-7 orange flying orbs in unison in staggered arrangement, with simultaneous movements of up, down, left, right, at great speeds.To Whom It May Concern:  I was traveling east on NYS Route 347 Nesconset–Port Jefferson Highway and, as I approached traffic light to make a left onto Belle Mead Rd on way home from school I noticed at first 5 orange orbs in the sky.They were very bright, more than anything in the background and more than street lights or anything else in my view.  They moved in a random way at first like up, down, left, right. Some would approach each other, and then go back to a position where they were all traveling in same direction, which appeared north; this was toward my left. There was absolutely no sound from them or their movement.  Once I realized I was seeing something I never saw before, I felt the lack of ability to explain it.  I then started to snap pictures with my cell phone. I took five in total.  Two while approaching the traffic light, and when said traffic light turned green I turned left which was the way home and they were still moving north.Once driving I tried to snap more pictures and zoom in with cell phone; I managed to get three more pictures.  There were definitely six or possibly seven bright orange orbs.  They almost flickered, like different parts or points within the same “orb” were brighter:  Orange to darker orange –red, as they were very easy to see in the sky.  This was while I was moving and so where they.  They were above the trees and power lines and appeared far away, yet brighter and so pronounced they felt close.  The size of each individual orb relative to me, is the size of the diameter of a pen cap if held at arm’s length. They were very fast as they went past my line of sight over the trees and I continued to drive home.  After a split second I thought of attempting to follow them somehow, though I was confused and not actually sure what I had witnessed.  This all happened in about 2 minutes time.This led me to search for information and this is how I found this site.  So many people have seen things which sound as if they are what I have seen.  I cannot un-see this, and have continued faith that there is some explanation and all is well in the world.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122559.html](http://www.nuforc.org/webreports/reports/122/S122559.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [464](http://www.nuforc.org/webreports/reports/164/S164733.html)
-- [463](http://www.nuforc.org/webreports/reports/164/S164725.html)
-- [462](http://www.nuforc.org/webreports/reports/164/S164724.html)
-- [461](http://www.nuforc.org/webreports/reports/165/S165566.html)
-- [460](http://www.nuforc.org/webreports/reports/164/S164732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
