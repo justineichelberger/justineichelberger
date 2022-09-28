@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:04:33 on 28 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:04:07 on 28 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Aurora (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>While sitting in the back yard.  We saw a bright light traveling east to west, at a moderate speed and elevation, that lasted up to 2 minutes until the light went dim.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130307.html](http://www.nuforc.org/webreports/reports/130/S130307.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Red pulsating and changing color orb seen over Seattle tonight.I was on the roof of my apt. building with my Manager to view ISS coming from SSW to NNE at 7:47 pm this evening.  We went up early and around 7:37 pm we noticed a bright red disc moving and stopping and standing still.  It then pulsed white colors and changed to green and white.  It stood still for a while and went North.  Stopped again and dove down beyond our view.  It came back up and headed south and then north again.  It dove down and came back up.  We lost sight of it going north.   It did change colors quite often.  I do know what a plane transponder looks like since I am in the flight path of SeaTac.  This was no plane or helicopter with those moves.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136463.html](http://www.nuforc.org/webreports/reports/136/S136463.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [415](http://www.nuforc.org/webreports/reports/164/S164717.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164868.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164871.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164723.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
