@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:41 on 28 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:15:40 on 28 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Odessa (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>While listening to my police scanner I heard the following dispatched - (address was given first, to which I unfortunately was not listening closely to) and then the dispatcher said it was reference a large light in the sky, changing shape and changing color.  The officer who took the call jokingly asked if there was a code for "the twilight zone".  Although I went outside (it was about 11:15 pm, Thursday, September 28th) I was not able to see the light.  Heard nothing more about it on the scanner.  The night, however, was beautiful, the clouds were white and the sky which was visible was beautiful. In this area we experience on the highline wires a spider web looking substance (much too heavy for it to be spider web).  This substance hangs from the wires until the sun comes up and burns it off.  Any connection to UFOs?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52694.html](http://www.nuforc.org/webreports/reports/052/S52694.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Chicago Heights (IL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>high pitched whirling noise and random lights moving very quickly with sharp turns.Very clear night, all the stars were out.  I heard a very high pitched whirling noise from above and looked up.  Saw random flashing lights moving quickly to the North and quickly to the West.  Craft did not slow down to take the sharp turn.  Watched it move to the West for about 10 seconds and it made another sharp turn to the South moving farther up into the air.  When I got into the house, all I could say was that there were a lot of stars out that night.  I think I was in shock.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46743.html](http://www.nuforc.org/webreports/reports/046/S46743.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [415](http://www.nuforc.org/webreports/reports/164/S164717.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164868.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164871.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164723.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
