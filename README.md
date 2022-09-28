@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:02:55 on 28 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:03:03 on 28 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Cape May (NJ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Large cluster of red orbs.We were heading out to the Wilmington Canyon on a fishing trip around 5 am.  I was on watch looking north, when I noticed a bunch of large red circles in the distant sky, which were as bright as red fireworks that had just exploded and just stayed in one spot.  There were about 16-20 in a close pattern, and another 8 or so, spread out slightly to the left.  The lights didn't seem to go out, but seemed to move away toward the north until we couldn't see them anymore.  They were way bigger than the stars and the planets but a lot smaller than a typical moon.  It was a perfectly clear night this happened about 25-50 miles east of Atlantic City, over the ocean.  I woke up one of the other guys who verified it was there.  Both of the observers are Coast Guard licensed captains and have never seen anything like this before.((ADDENDUM FROM SOURCE))Peter,The date was Sept 28 2014 at approximately 5am.Also we did not call the hotline.As you saw, I listed 3 people seeing the orbs, the 3rd person saw the red but doesn't have very good vision.It was a gorgeous deep ruby red.((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114078.html](http://www.nuforc.org/webreports/reports/114/S114078.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Langebaan (South Africa) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Two objects moving apart, one coming down, large and bright, the other small and high up.We live on the West-coast and our house faces the sea.  The large window of the living room and the balcony allows a view of the sky from N to SW.  On 28.9.2012 at approximately 20h05 the sky was clear and the nearly full moon high up on our right as seen from the balcony.A greenish-blue  several millimeter large oval moved with great speed more or less from NW to SW coming down at an angle of approximately 20 degrees.  After maybe 5 seconds it developed a small triangular red tail and disappeared more or less in the W and about 30 degrees above the horizon.At the same time we spotted an unusually bright white star perpendicularly above us, moving fast to the N gradually becoming fainter and disappearing as if moving upward some 20 degrees to the left of the moon.  There were no sounds of an engine nor a sonic boom.  Both probably linked phenomena took approximately 20 seconds.My wife and I saw this and one other person in the same location also confirmed to have seen it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93155.html](http://www.nuforc.org/webreports/reports/093/S93155.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [415](http://www.nuforc.org/webreports/reports/164/S164717.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164868.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164871.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164723.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
