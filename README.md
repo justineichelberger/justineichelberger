@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:27 on 29 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:37 on 29 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Bullhead City (AZ) reported seeing craft that fit the description of some 'Flash' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Brilliant white, pulsating, orb at high altitude.9/29/15 7:55-8:05 pm Bullhead City, AZ, Extreme bright white, pulsating light at extreme altitude.  Only white flashes every 10 secs.No red or green lights.  Many planes visible and obvious; this was not a plane.  Tracked SW to Ne For 10 mins. until neck was tired.  Light remained brilliant.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122429.html](http://www.nuforc.org/webreports/reports/122/S122429.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Yellowstone National Park (WY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Saw a 6" red ball flying from south to north about 3' off the ground on US 20 in Yellowstone National Park on September 29, 2003.I was driving west on US 20 approximately 10 miles east of the west entrance to Yellowstone National Park. My wife was in the front passenger seat. The time was 20:35 (8:35 PM Mountain time) on Friday night September 29, 2003. The sun had already set, so it was quite dark. This is a wilderness area that we were in, no lights what so ever for miles. No other vehicles were in the area. The skies were clear. One could practically reach up and touch the stars. The landscape on each side of the two lane road had new pine tree growth with a height of 4 to 10 feet.We were traveling about 30MPH with the windows rolled down so we could hear the elk bugling in the not so far distance. Suddenly and without warning, approximately 3 feet off the ground and 30 feet in front of us, a red sphere darted across the road from left to right (south to north). The color was that of a lit tail light lens, but not bright as if brakes were applied. This completely circular object, about 6" in diameter, flew straight for the short duration that we saw it. Sighting was lost as it entered the trees. This was not a flash of light bouncing off an object and again, no other vehicles were within sight. Nothing was said to each other until I stopped at a pull-off a couple of miles down the road. We then looked at each other and I asked my wife, "Did you see that back there?" Her reply was, "I wasn't going to say anything until you did. What was that red ball?" We compared notes. We indeed did see a 6" red ball flying from left to right about 3' off the ground. No sound was noted.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32225.html](http://www.nuforc.org/webreports/reports/032/S32225.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164712.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164862.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164860.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164856.html)
-- [353](http://www.nuforc.org/webreports/reports/159/S159958.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
