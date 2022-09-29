@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:20 on 29 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:26 on 29 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Huntington (WV) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>UFO not visible to naked eyeWhile boating on the Ohio river, I noticed what I will call an atmospheric anomaly. My adult kids and grandkids were all present. A thin, high altitude cloud shimmering with the violet wavelengths, pinks, purple and blues. I pointed it out to everyone and passed my sunglasses around to kids. The sunglasses made the colors much more visible and I most likely would not have even noticed it without them. It  was quite beautiful and something that I had never seen. My kids described it as being "really cool". I wanted to photograph it, but being so close to the sun I doubted I would be able to capture all the colors. I decided to hold my sunglasses in front of the camera lens on my iPhone. I snapped two pics, perhaps 15 to 30 seconds apart.  A while later I decided to look at the pics and that's when I noticed the brighter circular object within the cloud.  I know I must have looked at that cloud for 2 or 3 minutes as we floated down the river.  I can say with all certainty that the object was not visible to the naked or sunglassed eye.  Today I applied a couple different filters that come with the phone. If u look closely to the left of the orb, it seams like there is a shockwave.  In the second pic the object has dropped down a good bit and there doesn't seam to be much going on. I figured the cloud to just be filled with ice particles and catching the suns rays just right. The orb thing does however have me dumbfounded and why couldn't I see it? Makes me wonder how much I don't see.  I did take a couple more pics the next day, trying to replicate conditions as much as possible. I used the same sunglasses to determine if there might possibly be a flaw in the glass that would account for the anomaly but I was able to pretty much rule that out. Any ideas?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149377.html](http://www.nuforc.org/webreports/reports/149/S149377.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Motherwell (UK/England) () reported seeing craft that fit the description of some 'Other' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>SAW  TWO BRIGHT ORANGE SHAPES WHICH LATER JOINED CREATING A HALF MOON SHAPE.I SAW A HALF MOON SHAPED OBJECT WITH A PIECE MISSING, THE MISSING PIECE WAS SLOWING FLOATING UPWARDS LIKE A FEATHER TOWARD THE BIGGER OBJECT. BOTH OBJECTS WERE BRIGHT ORANGE GLOW. AFTER A FEW MINURES THE SMALLER FLOATING OBJECT ADJOINED THE BIGGER OBJECT CREATING A HALF MOON SHAPE WITHIN SECONDS IT PROMTLY VANISHED.THIS WAS LATE ON A SEPTEMBER NIGHT IN SCOTLAND WHICH IS ALREADY DARK WITH NORMALLY A WHITE MOON.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53250.html](http://www.nuforc.org/webreports/reports/053/S53250.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164712.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164862.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164860.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164856.html)
-- [353](http://www.nuforc.org/webreports/reports/159/S159958.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
