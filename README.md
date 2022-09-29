@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:27:47 on 29 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:22:51 on 29 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Portugal () reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Boomerang shaped object or light traveling extremely fast in Lisbon, Portugal.At aprox. 1:04 AM, Lisbon time, GMT+0, i was going back home in my car after leaving my girlfriend at her house. When i was passing through a dark road, which i pass everyday for the past 6 years, i noticed something in the sky.  It looked like a spotlight, but boomerang shaped, it was going fast, like some kind of light was being projected in the sky.  The sky was cloudy, so it really looked like a light projection, either from bellow the clouds or above them.I didn't pay much attention to it as i thought it was a reflex or something like that.  However after 50-100 meters i saw it again, this time going on the opposite direction (from right to left) with the pointy part of the boomerang always facing the direction the object/light was taking.I started to look at the sky to check exactly what it was. I didn't see it for a while, but then saw it again and again.  I saw it around 6 times, being the last one near a roundabout, aprox. 300-400 meters from when i saw it the first time.  Most of the times it was going from left to right but i saw it at least twice going from right to left.The light was traveling extremely fast and going on both directions randomly.  The size of the object was like a big sized plane at the minimum altitude.  However i didn't hear any sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93138.html](http://www.nuforc.org/webreports/reports/093/S93138.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Walton (KY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>We saw a dark round fast moving object engulfed by fire/plasma that vanishedAs we were checking out stars and constellations, we witnessed a round dark object streaking across the night sky at a very high rate of speed. It was visible only because of the fireball/plasma that fully engulfed it, and it's lines were not vague, but distinct. In the front (foward section based on direction of travel), the plasma was sparse, heavier on the sides, and formed a tail in the rear that was approx. 50% of the size of the object itself. The object was travelling south to north (approx.). As the object entered our field of vision, it disappeared completely without changing any direction or speed. The sky was not clear, but contained light, sparse cloud cover that I believe helped us to see it better. Altitude is unknown, but it was either under/in the clouds, or very bright/ burning through from above the clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59217.html](http://www.nuforc.org/webreports/reports/059/S59217.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164712.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164862.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164860.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164856.html)
-- [353](http://www.nuforc.org/webreports/reports/159/S159958.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
