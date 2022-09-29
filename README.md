@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:50:34 on 29 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:32:16 on 29 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Cynthiana (KY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Big ball of fire.  It move extremely fast.  It was so fast it was almost out of sight by the time I got my cell phone out and snapped a picture.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143324.html](http://www.nuforc.org/webreports/reports/143/S143324.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Overland Park (KS) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Green fireball with trail headed N-NW in Eastern KS - arching downward - resembled size and speed of a single discharge from a roman candle seen from a couple hundred feet. Larger and brighter than Venus.Green fireball with trail headed N-NW - arching downward - resembled size and speed of a single discharge from a roman candle seen from a couple hundred feet. Larger and brighter than Venus.  Trailed toward Earth much like a meteor.  I did not witness a change in course or speed but it did change from a brilliant green to a glowing red ember just before fading away.  No noises are associated with the siting.  My line of site was obscured by tree branches at first but it traveled Northward into a clear opening.  It appeared to cross the path of an airliner in the vicinity but the airplane seemed much farther away.  The fireball seemed to be 2-3 miles West of my position.  It was much slower, larger, brighter and more colorful than any shooting star I have ever seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09982.html](http://www.nuforc.org/webreports/reports/009/S09982.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164712.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164862.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164860.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164856.html)
-- [353](http://www.nuforc.org/webreports/reports/159/S159958.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
