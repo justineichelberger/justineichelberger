@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:32:16 on 29 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:27:47 on 29 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Overland Park (KS) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Green fireball with trail headed N-NW in Eastern KS - arching downward - resembled size and speed of a single discharge from a roman candle seen from a couple hundred feet. Larger and brighter than Venus.Green fireball with trail headed N-NW - arching downward - resembled size and speed of a single discharge from a roman candle seen from a couple hundred feet. Larger and brighter than Venus.  Trailed toward Earth much like a meteor.  I did not witness a change in course or speed but it did change from a brilliant green to a glowing red ember just before fading away.  No noises are associated with the siting.  My line of site was obscured by tree branches at first but it traveled Northward into a clear opening.  It appeared to cross the path of an airliner in the vicinity but the airplane seemed much farther away.  The fireball seemed to be 2-3 miles West of my position.  It was much slower, larger, brighter and more colorful than any shooting star I have ever seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09982.html](http://www.nuforc.org/webreports/reports/009/S09982.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Portugal () reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Boomerang shaped object or light traveling extremely fast in Lisbon, Portugal.At aprox. 1:04 AM, Lisbon time, GMT+0, i was going back home in my car after leaving my girlfriend at her house. When i was passing through a dark road, which i pass everyday for the past 6 years, i noticed something in the sky.  It looked like a spotlight, but boomerang shaped, it was going fast, like some kind of light was being projected in the sky.  The sky was cloudy, so it really looked like a light projection, either from bellow the clouds or above them.I didn't pay much attention to it as i thought it was a reflex or something like that.  However after 50-100 meters i saw it again, this time going on the opposite direction (from right to left) with the pointy part of the boomerang always facing the direction the object/light was taking.I started to look at the sky to check exactly what it was. I didn't see it for a while, but then saw it again and again.  I saw it around 6 times, being the last one near a roundabout, aprox. 300-400 meters from when i saw it the first time.  Most of the times it was going from left to right but i saw it at least twice going from right to left.The light was traveling extremely fast and going on both directions randomly.  The size of the object was like a big sized plane at the minimum altitude.  However i didn't hear any sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93138.html](http://www.nuforc.org/webreports/reports/093/S93138.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164712.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164862.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164860.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164856.html)
-- [353](http://www.nuforc.org/webreports/reports/159/S159958.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
