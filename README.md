@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:12:23 on 29 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:02:08 on 29 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in York (ME) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>White large slow moving object NW of moon @ 16:15I can find zero corrobative evidence for star, planet or known craft.  It was about 45 degrees to the NW of the moon which is due SE of my viewing position.  It was very high, initially acting reflective to setting sun.  Initially large; with almost stationary placement.  Over ten minutes in moved towards it moved from overhead straight SE towards the moon; losing size and luminosity as it did.  The sky was blue and cloudless. I have a picture that shows the object, but as you know, it’s not great from a phone.  There is a second dark sphere that I did not see when pic was taken.  I saw no birds, but can’t extrapolate beyond that.  The primary object move barely a degree per minute.  It was extraordinary in a blank sky.  I used SkyView app and online search to research.  Nothing matched up or showed as an option.  As you ask, I am passing this along while fresh.  I will look tomorrow to verify if it is a planet in the same spot.  As of now, it is unknown to me.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136448.html](http://www.nuforc.org/webreports/reports/136/S136448.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Anchorage (AK) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Jesus Christ enlighten us.Red and white bluish blinking hovering above anchorage, Alaska.  Viewing at Chugach foothills park looking at Direction North West.  Light is double size of big dipper stars.  Sighting time 21:20 on 09/29/2012  Jesus Christ enlighten us!!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93186.html](http://www.nuforc.org/webreports/reports/093/S93186.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164712.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164862.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164860.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164856.html)
-- [353](http://www.nuforc.org/webreports/reports/159/S159958.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
