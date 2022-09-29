@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:02:48 on 29 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:03:52 on 29 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Ipoh (Malaysia) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>2 orange fireball, appears and disappers in like playing with thier lights. Suddenly appears another fireball glowing for few minutes and disapperas in the sky. One of the two fire ball was disappears and another remains for few minutes and disappears.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19679.html](http://www.nuforc.org/webreports/reports/019/S19679.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Spokane (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20:45 - 20:45 minutes.</sub><blockquote><sub>Round object in the sky with very bright red, blue and white lights flashing lightsLooked outside and noticed a round object in the sky with very bright red, blue and white lights flashing in some kind of sequence.We don't think this was a drone or aircraft because it stayed stationary for 45 min.We have never seen anything like this in our area before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159624.html](http://www.nuforc.org/webreports/reports/159/S159624.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164712.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164862.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164860.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164856.html)
-- [353](http://www.nuforc.org/webreports/reports/159/S159958.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
