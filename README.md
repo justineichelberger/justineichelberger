@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:02:27 on 29 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:13:31 on 29 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Fulton (MO) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.021666666666666667 - 0.021666666666666667 minutes.</sub><blockquote><sub>Formation of lights in the sky over Millersburg.While returning from a church event, my husband and I saw this formation of 11 lights in the sky in front of us.  It seemed to be in the shape of a diamond.  We watched and parked quickly in a near-by parking lot to watch and they just disappeared, except for two lights that seemed to stay a while longer.  It appeared that they just suddenly went higher in the sky and went out of sight.  There was no sound.  I was able to count 11 lights, but there could have been more.  I called local TV station to see if anyone else saw them.  At that time they had not.  There were no strobe lights like a plane would have and no sound like a helicopter and they were much too high it appeared fot that.  We do not think they could possibly been 11 aircraft there and with no sound.....????</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93198.html](http://www.nuforc.org/webreports/reports/093/S93198.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Tampa (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>The ufo looked like a flying saucer with cloaking to make it look almost invisible but not quite.Me and 2 other friends were walking home from the neighborhood pool. We were looking at the stars because one of the stars was really bright and looked kind of orange so we thought it was mars.  While looking at that star we noticed another bright light that looked the same but it was moving slowly like a plane. Then we noticed what we first thought was a giant bird.  It was gliding closer to us in a perfectly straight path. It was about three storys above us from what we could guess. As it approached it almost looked like a giant ufo dish shaped cloud. We would have thought it was a cloud if it wasn't perfectly disk shaped and gliding slowly over us but much faster than the clouds.  It looked like what you think of when you think traditional ufo dish. The only difference was that it was that shape but it seemed like it was cloaked to try to hide. We never would have saw it if we weren't looking at the sky because it was so faint.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149340.html](http://www.nuforc.org/webreports/reports/149/S149340.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164712.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164862.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164860.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164856.html)
-- [353](http://www.nuforc.org/webreports/reports/159/S159958.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
