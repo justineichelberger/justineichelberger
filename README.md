@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:04:15 on 29 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:01:05 on 29 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Estes Park (CO) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 156</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149466.html](http://www.nuforc.org/webreports/reports/149/S149466.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>3 separate sightings of bright orange objects in the sky over PhoenixPossible UFO Sighting  Date of incident: 9/29/14 Time: starting approx. 2150 – 2155 hours Duration: approx. 15-20 seconds Number of objects: 3 ( 3 separate sightings spaced approx. 30 – 45 seconds apart) Location: North Phoenix/Glendale area, Maricopa County, Arizona Direction of travel:  Objects traveled from the Northwest to the Southeast Color and shape: Bright orange, round in color  Summary On 9/29/14 at approx. 2050 hours I was sitting outside on my back patio when I observed a bright orange round object moving slowly across the sky traveling at a slow rate of speed coming from the Northwest and went towards the Southeast.  I observed it for approx. 15 – 20 seconds.  The orange object was not flickering or flashing but the all of a sudden the light went out and I could still see a dark image for a brief moment  and then it disappeared.Approx. 30 -45 seconds later I observed a second object with the same description as the first traveling the same trajectory.. Then the orange light went out about 15 – 20 seconds later and  I could not see the object afterwards. I then ran into the house and got my cell phone camera.Again, approx. 15  seconds later I observed a 3rd object, same as the first two traveling the same course and manner. I recorded this object on my cell phone and again the light went out and again I could see the object briefly but I could not see the shape or where it disappeared to.The weather was clear and the temperature was approx. 70 -75 degrees at the time. I did not see any aircraft in the area. It should be noted that Luke AFB is located approx. 20 miles to the southwest of my location and the F-16’s usually do night training from about 2100 – 2230 hours and you could see and hear them but there were no military aircraft at the time of my observations. On the video I gave the description as possibly as flares but none of the three objects flickered or left a smoke trail. As of this writing I have not seen anything on the news or the web.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114090.html](http://www.nuforc.org/webreports/reports/114/S114090.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164712.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164862.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164860.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164856.html)
-- [353](http://www.nuforc.org/webreports/reports/159/S159958.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
