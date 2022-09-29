@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:19 on 28 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:03:25 on 29 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in ((Unspecified location)) (IL) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Strobing Chevronwas smoking a cigarette. looking at stars. looked straight up and saw a chevron shape streak across a very small portion of sky.  Trying to make sense of it, at first i thought it might be a meteorite, but ive seen tons of those, and this was quite different.  It didn;t burn out.  It blinked repeatedly, strobed, and was gone. the sighting lasted about a second, maybe less.  A distinct chevron shape blinking and dissappearing. its velocity did sort of look like a meteorite.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78048.html](http://www.nuforc.org/webreports/reports/078/S78048.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Huntington (WV) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orange solid light zig zag up and down jumping in different locations in the open clear sky. Jumped very fast 10 or 12 jumps to new locations each time never back to the same starting point constant zig zag up and down like a heart monitor but solid ball jumps not a line until it disappears behind the trees to the north above my house no drinking or drugs in me except cigarettes.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136618.html](http://www.nuforc.org/webreports/reports/136/S136618.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [415](http://www.nuforc.org/webreports/reports/164/S164717.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164868.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164871.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164723.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
