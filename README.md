@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:22:51 on 29 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:12:23 on 29 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Walton (KY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>We saw a dark round fast moving object engulfed by fire/plasma that vanishedAs we were checking out stars and constellations, we witnessed a round dark object streaking across the night sky at a very high rate of speed. It was visible only because of the fireball/plasma that fully engulfed it, and it's lines were not vague, but distinct. In the front (foward section based on direction of travel), the plasma was sparse, heavier on the sides, and formed a tail in the rear that was approx. 50% of the size of the object itself. The object was travelling south to north (approx.). As the object entered our field of vision, it disappeared completely without changing any direction or speed. The sky was not clear, but contained light, sparse cloud cover that I believe helped us to see it better. Altitude is unknown, but it was either under/in the clouds, or very bright/ burning through from above the clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59217.html](http://www.nuforc.org/webreports/reports/059/S59217.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in York (ME) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>White large slow moving object NW of moon @ 16:15I can find zero corrobative evidence for star, planet or known craft.  It was about 45 degrees to the NW of the moon which is due SE of my viewing position.  It was very high, initially acting reflective to setting sun.  Initially large; with almost stationary placement.  Over ten minutes in moved towards it moved from overhead straight SE towards the moon; losing size and luminosity as it did.  The sky was blue and cloudless. I have a picture that shows the object, but as you know, it’s not great from a phone.  There is a second dark sphere that I did not see when pic was taken.  I saw no birds, but can’t extrapolate beyond that.  The primary object move barely a degree per minute.  It was extraordinary in a blank sky.  I used SkyView app and online search to research.  Nothing matched up or showed as an option.  As you ask, I am passing this along while fresh.  I will look tomorrow to verify if it is a planet in the same spot.  As of now, it is unknown to me.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136448.html](http://www.nuforc.org/webreports/reports/136/S136448.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164712.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164862.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164860.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164856.html)
-- [353](http://www.nuforc.org/webreports/reports/159/S159958.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
