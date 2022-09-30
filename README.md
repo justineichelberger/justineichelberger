@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:21:47 on 30 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:13:50 on 30 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in New Haven (IN) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Big as a jumbo jet, silver and red, no noise, no smoke, danced acrossed the sky.Around 7:50 am on the morning of September 30, 2005, my children and I were on our way to school. My daughter looked into the southeast sky and asked me if I was seeing what she was.  I told her I was and we proceded to watch as the cigar shaped object danced across the sky.  The object was red and silver, no wings and no smoke.  It seemed to glide up and down.  There was no noise.  When it turned on its side it seemed to have disappeared.  Then it would appear out of no where.  This lasted approximately 6 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46892.html](http://www.nuforc.org/webreports/reports/046/S46892.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Chatham (VA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>Silent fast moving triangular or Gemini space-capsuled body with intense and rapidly flashing bluish white lights.My roommate and I left for work early in the morning at 3:00 am. As we were drving east on a country road we noticed what seemed to be a very bright flashing star very high on the southern horizon. At first we ignored it but then noticed something was odd about it so we stopped in the middle of the road. The object was moving very fast towards us while the bluish-white lights were almost blinding. I was trying to point out to my roommate the object but in a few seconds it had bypassed over the car so I could see what seemed to give me the idea that it had a very old space-capsule body (like Gemini)as well as dull red lights that were permanently shining in the center although they couldn't be seen with the major lights on and facing towards you. The object passed over the car and it disappeared to my vision although my roommate was able to see it. He saw that the white lights seemed to be a pair and that they were maybe of a part of a propulsion system. He also saw that it had some dull green lights also before it moved out of range towards the north horizon. All of this happened without the seen vehicle making any sound for ten minutes. We continued on our way to work and for 7-8 minutes we kept an eye on it before it literally vanished. An hour and a half later in a very close proximity to where we had left it we saw the same type of object at a distance from us. The bright bluish-white lights were rapidly flashing although the vehicle was suspended while moving in a circular pattern. Instead of parking like the first time we continued with our work while keeping tabs on the vehicle which didn't move from the spot we now saw it at. For a good two minutes we saw it here before driving away towards the south. I do not drink or do drugs while my roommate wasn't under any influence either; this we were wondering what this was with all ideas flowing from planes, secret service vehicles and satellites but it was too slow, moved in a south to north direction and didn't make any sound whatsoe! ver the whole time we had an eye on it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52746.html](http://www.nuforc.org/webreports/reports/052/S52746.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164695.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164698.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164700.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164701.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
