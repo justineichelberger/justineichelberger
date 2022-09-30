@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:30:11 on 30 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:57:07 on 30 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Lakewood (CO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 05:00 - 05:00 minutes.</sub><blockquote><sub>Big red thing fallowing a vanat about 7:45 PM I was just getting back from an early dinner party I was headed West on Yeal St waiting at the stop light at Eastest St I was waiting for the light to turn green when I noticed a green van going South if Im not mistaken on Estest St Just behind the van and above it about 60 or so feet was a big red Ball. It was pulsing rapidely It seemed to have a blue or green light on the bottom I could not believe my eyes As I watched the van go through the light it looked to me as if this thing was fallowing the van. What happened next was astounding In fact scared me to the point of panicking I tried to put my car in reverse I could not find the gear. I watched this thing explode a beam of light on to the ground next to the van then the light swept through the van not around it but through it as if it was cutting right in to the metal All I could think of was getting out of there I never drove so fast in my life. I am a ((title deleted)) of a large distribution company I like to think that I can keep a cool head on my shoulders What I saw that night I cant explain I am Reporting this anonymously to protect my position I would hate to have my associates find out I am seeing these things not to metion the fact I am reporting them. So I apologize for not leaving more contact Info. But I will give you this e mail address ((e-mail address deleted)) What happened next I have no idea I was to busy running away I hope the person in that van was ok I have reported this to other ufo web sights just in case someone else saw this((NUFORC Note:  We believe the witness may mean a date of 30SE01, but that is only a guess.  We will attempt to confirm the date, although the witness remains semi-anonymous.   PD))((NUFORC Note:  To listen to an archived 3-hour radio program on the Jeff Rense program (11JN02) with both a witness to this event, and an experienced investigator of it, please go to the URL shown below:  http://events.yahoo.com/shows/endoftheline/02archives.htmlPD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19813.html](http://www.nuforc.org/webreports/reports/019/S19813.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Fort Mohave (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Triangle shape with no lights, no sound, hovering behind a electrical storm following it.This is my 2nd object that i seen in my life time and i am 20 years of age,  It was around 10:30 pm as myself and my roommates walked out of our back porch, smoking a cig, and we walked out a little more to the yard cause there was a storm that passed by and my first roommate was looking up into the sky and asked what is that and then thats when i looked up into the night sky and see  a slow speed like a dark but lighter color then the black sky under the stars with no wind at all and there was this triangle shape object with round edges and no lights on it at all and made no sound i would say going about 35 mph and appx 100 feet up and the flight path going made a small curve heading towards Needles California, right behind the storm which was a electrical currents ,</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84251.html](http://www.nuforc.org/webreports/reports/084/S84251.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164695.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164698.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164700.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164701.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
