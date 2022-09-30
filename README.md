@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:04:25 on 30 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:06:34 on 30 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Owensboro (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Two lights hovered in daylight sky over Owensboro, KY.At 2:00 p.m. today my friend called me on the phone to tell me to go outside and look just below the sun.  I went outside to look.  I had to cover the light from the sun with my hand to see them, but when I did, I saw two shining lights in the sky.  They appeared as stars would appear in the night sky, except this was broad daylight.  They didn't move at all, and stayed equidistant to each other the whole time.  I don't know how long they had been there before my friend saw them and called me.  I watched them for at least a half hour.  They seemed to drift slightly to the left of the sun a little, but they stayed in the same position to each other the whole time.  They never moved.  They looked like stars in the daylight sky.  I've never seen anything like it before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136486.html](http://www.nuforc.org/webreports/reports/136/S136486.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Barnesville (GA) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>flashing lights in sky9-30-15 @ 9pm in Barnesville, GA.  Could not  tell the shape.  Seen flashing lights blue, green, white, red.  I thought it was odd the way it has hovering over the trees.  (Nothing like an airplane or helicopter.) We stood outside for about 10 mins.  Then a 2nd one appeared for just a second.  Same flashing lights.  Then it was gone  Very strange.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122438.html](http://www.nuforc.org/webreports/reports/122/S122438.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164695.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164698.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164700.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164701.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
