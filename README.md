@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:06:34 on 30 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:01:33 on 30 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Barnesville (GA) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>flashing lights in sky9-30-15 @ 9pm in Barnesville, GA.  Could not  tell the shape.  Seen flashing lights blue, green, white, red.  I thought it was odd the way it has hovering over the trees.  (Nothing like an airplane or helicopter.) We stood outside for about 10 mins.  Then a 2nd one appeared for just a second.  Same flashing lights.  Then it was gone  Very strange.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122438.html](http://www.nuforc.org/webreports/reports/122/S122438.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Davis (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Strange Crescent Light Phenomena: Davis, CAIt was an exceptionally clear night and I was sitting on my apartment balcony which faces south across the flat fields typical of davis.  As I was playing my guitar, I noticed a large crescent shaped object move into view from the west.  The object appeared to be quite distant and large when compared to the apartment building across the street.  The crescent moved slowly and steadily to the east for a few minutes.  Later, it quickly accelerated east out of sight. It is difficult to say what it is that I saw other than that it was a dull glowing white light in the shape of a flattened crescent, almost like ground light reflected off a disk seen at an angle.  I can not say whether or not what I saw was part of a larger object.  There may very well be an explanation involving light phenomena or some other yet to be understood physical process.  I chose to report this in hopes that soeone else may have witnessed this event around the same time.  After all, it was a very large object low on the horizon extremely clear viewing conditions.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40554.html](http://www.nuforc.org/webreports/reports/040/S40554.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164695.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164698.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164700.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164701.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
