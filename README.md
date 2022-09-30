@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:26 on 30 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:25 on 30 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in La Vista (NE) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Triangular Ufo in Bellevue?I was driving home from work. I was on Harry Anderson heading south towards Harrison. I saw a bright floresent light right above the interstate overpass. I thought it was a little plane, but it wasnt moving. As i got closer i could see a green light on the left and a red light on the right. The object was triangular shaped with one bright light in front. I turned down the radio, rolled down my windows and stuck my head out just to see if i could hear a plane engine. There was no noise. It just hovered there in one spot. As i got to the red light i turned around in my seat to see if it was still there and it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59047.html](http://www.nuforc.org/webreports/reports/059/S59047.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Boston (MA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>SILVER/METALLIC OBJECT OVER BOSTON MOVING SLOWLY OPPOSITE OF WIND DIRECTIONSILVER/METALLIC LOOKING OBJECT VERY HIGH IN THE SKY BUT BELOW CLOUDLEVEL. UNABLE TO DETERMINE SIZE AND ALTITUDE(NOTHING TO REFERENCE IT TO). COMING FROM SOUTHERLY DIRECTION AND MOVING VERY SLOWLY IN A NORTH-NORTHWESTERLY DIRECTION OVER THE MASSPIKE IN ALLSTON. VERY SHINY AND REFLECTIVE. BROAD DAYLIGHT. NOT A CONVENTIONAL CRAFT. NOT AN AIRPLANE. NOT A HELICOPTER. (I'M A PILOT) CUMULUS CLOUDS MOVING RAPIDLY FROM WEST TO EAST. VERY WINDY DAY. THIS OBJECT WAS MOVING IN A NORTH-WESTERLY DIRECTION. OBVIOUSLY UNDER ITS OWN POWER AND NOT AFFECTED BY THE WIND( NOT A BALOON). SUDDENLY VANISHED. AT LEAST 4 WITNESSES. WE ALL WATCHED IT FOR SEVERAL MINUTES(AT LEAST 5-7 MINUTES.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49004.html](http://www.nuforc.org/webreports/reports/049/S49004.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164695.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164698.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164700.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164701.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
