@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:12:09 on 30 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:02:47 on 30 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Oak Forest (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>two bright lights moving slowly from  west to east. bright red stars((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46774.html](http://www.nuforc.org/webreports/reports/046/S46774.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Aberdeen (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>UFO seen - Giant, seven lights, slow, low, very loud low pitch roar, traveled over town.I'm posting to support the article:  http://www.nuforc.org/webreports/032/S32139.html.  I live in Aberdeen.  As the cited article said, this thing was no helicopter.  It was at least four times the size of a B-2 and from what I recall it was triangular in shape, black(possibly), and had seven lights.  My father and I saw it as it traveled over our house (and shook it quite violently).  It had a very low-pitched roar, rather dissimalar than a helicopter's - it was more like the noise you would hear from a quake, and for its size it was moving at an alarmingly low velocity and altitude.I have no idea what this was, but I can vouch for its existence. From my father's friend (an onlooker which saw the vessel from the south side of the Chehalis River) we were told it's size was similar to a small city's.Of course the local paper "the daily world" called it a helicopter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56291.html](http://www.nuforc.org/webreports/reports/056/S56291.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164695.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164698.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164700.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164701.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
