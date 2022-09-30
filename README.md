@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:25 on 30 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:20 on 30 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Boston (MA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>SILVER/METALLIC OBJECT OVER BOSTON MOVING SLOWLY OPPOSITE OF WIND DIRECTIONSILVER/METALLIC LOOKING OBJECT VERY HIGH IN THE SKY BUT BELOW CLOUDLEVEL. UNABLE TO DETERMINE SIZE AND ALTITUDE(NOTHING TO REFERENCE IT TO). COMING FROM SOUTHERLY DIRECTION AND MOVING VERY SLOWLY IN A NORTH-NORTHWESTERLY DIRECTION OVER THE MASSPIKE IN ALLSTON. VERY SHINY AND REFLECTIVE. BROAD DAYLIGHT. NOT A CONVENTIONAL CRAFT. NOT AN AIRPLANE. NOT A HELICOPTER. (I'M A PILOT) CUMULUS CLOUDS MOVING RAPIDLY FROM WEST TO EAST. VERY WINDY DAY. THIS OBJECT WAS MOVING IN A NORTH-WESTERLY DIRECTION. OBVIOUSLY UNDER ITS OWN POWER AND NOT AFFECTED BY THE WIND( NOT A BALOON). SUDDENLY VANISHED. AT LEAST 4 WITNESSES. WE ALL WATCHED IT FOR SEVERAL MINUTES(AT LEAST 5-7 MINUTES.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49004.html](http://www.nuforc.org/webreports/reports/049/S49004.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Oakville (Canada) (ON) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Several bright orange globes speeding by approx. 10 degrees off the horizon  near Oakville, OntAt 6:45pm EST I was on my computer and paused to look out my kitchen window and saw 5 or 6 bright orange globes go flying by approx. 10 degrees off the horizon.  They were travelling much faster than a commercial airplane and were travelling at the exact same speed, some a few degrees higher than the other, but in a straight trajectory and parallel to the horizon.  I actually rubbed my eyes and kept staring in the same direction (due NE out over Lake Ontario between Oakville and Mississauga) waiting to see if more bright orange lights would appear.  After 30 seconds, another single light flew by and then that was it.  It was still daylight and the these orange lights were very bright - much brighter than a flare. For the record, this is the first time that I have witnessed any type of UFO and this event really shook me up, enough so that I have been searching the internet for the past few days to see if anyone else in the Oakville, Burlington, Mississauga ot! Toronto area also experienced what I saw that evening.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93310.html](http://www.nuforc.org/webreports/reports/093/S93310.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164695.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164698.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164700.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164701.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
