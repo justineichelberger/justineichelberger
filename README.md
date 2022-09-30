@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:26 on 29 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:04:14 on 30 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Motherwell (UK/England) () reported seeing craft that fit the description of some 'Other' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>SAW  TWO BRIGHT ORANGE SHAPES WHICH LATER JOINED CREATING A HALF MOON SHAPE.I SAW A HALF MOON SHAPED OBJECT WITH A PIECE MISSING, THE MISSING PIECE WAS SLOWING FLOATING UPWARDS LIKE A FEATHER TOWARD THE BIGGER OBJECT. BOTH OBJECTS WERE BRIGHT ORANGE GLOW. AFTER A FEW MINURES THE SMALLER FLOATING OBJECT ADJOINED THE BIGGER OBJECT CREATING A HALF MOON SHAPE WITHIN SECONDS IT PROMTLY VANISHED.THIS WAS LATE ON A SEPTEMBER NIGHT IN SCOTLAND WHICH IS ALREADY DARK WITH NORMALLY A WHITE MOON.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53250.html](http://www.nuforc.org/webreports/reports/053/S53250.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Astoria (OR) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Six to eight red lights/globes observed for about 2 minutes/no sound/video obtainedWednesday, September 30, 2015, after walking out the back door of my father’s house about 7:15 p.m., I looked up to view the star formations, I noticed a formation of about six to eight red lights/globes in formation.  There was no sound, and as I continued to watch the lights started to slowly move from Northwest to Southeast.I had my camera with me and I tried to take a still photo, then switched to movie mode and managed to get about a 1 ½ to two minute film.  But as after about a minute the lights started to disappear one by one.  There was still no sound, and the light were still moving slowly from NW to SE.  After about 2 minutes all lights were gone and there was no evidence of them at all.  I continued to watch search the sky for about 30 seconds but they did not reappear.  USCG helicopter heard in the area at beginning of sighting then no sound at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122522.html](http://www.nuforc.org/webreports/reports/122/S122522.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164712.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164862.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164860.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164856.html)
-- [353](http://www.nuforc.org/webreports/reports/159/S159958.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
