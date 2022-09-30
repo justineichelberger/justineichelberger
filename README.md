@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:22 on 30 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:26 on 30 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Birmingham (UK/England) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1935.0 - 1935.0 minutes.</sub><blockquote><sub>I was on the way to work walking uohurst lane north,  I saw an orange fire in the sky a ball of fire like a chariot, then others followed it I saw a humanoid male they were flying lowas  I was walking one raised up a little but I offered no challenge I carried on another saw me and it went a cross shape as a shining jewel it seemed friendly they were in a glowing fireball going in the direction of the airport I had the most wonderful experience there was a lovely prescence</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122457.html](http://www.nuforc.org/webreports/reports/122/S122457.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in La Vista (NE) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Triangular Ufo in Bellevue?I was driving home from work. I was on Harry Anderson heading south towards Harrison. I saw a bright floresent light right above the interstate overpass. I thought it was a little plane, but it wasnt moving. As i got closer i could see a green light on the left and a red light on the right. The object was triangular shaped with one bright light in front. I turned down the radio, rolled down my windows and stuck my head out just to see if i could hear a plane engine. There was no noise. It just hovered there in one spot. As i got to the red light i turned around in my seat to see if it was still there and it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59047.html](http://www.nuforc.org/webreports/reports/059/S59047.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164695.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164698.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164700.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164701.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
