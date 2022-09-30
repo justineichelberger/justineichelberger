@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:02:26 on 30 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:03:09 on 30 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1946, an anonymous witness in Dome (AZ) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>observed sudden, very bright flash of light from large ,flying object that appeared to be on fire.I was 14,and we lived 23 miles east of Yuma Az.in the tiny town of Dome.My mother was the school teacher,an we lived in the school bldg.I was in the 7th grade that year,and was one of 7 students.  We had no "running water," so every nite I took a bucket and went to the RR water car and got the water for the nite.  It was a trip of about 300 yards each way.  I was about 1/4 of the way to the tracks when there was a very bright flash of light in the sky.  It was bright enough that it cast very black shaddows in front of my body.  I stopped, turned and saw what appeared to be a very large object on fire at about 45 degrees above the horizon, and appeared to be about 10 miles distance.  I could observe what appeared to be strucural members (like the beams you would see on a bridge) that were outlined by the fire.  I watched this object move across maybe 30 degrees till it disapeared behind "castledome" butte.  It appeared to be below the mountains to our North-east, and the butte to our NW,and went below the crest of the butte.  I told my mother what I had seen,and she said it was maybe an airplane, but I had never seen a plane that looked like that.  There were no wings, or tail surfaces, and these would have been visible in the light it was causing.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17556.html](http://www.nuforc.org/webreports/reports/017/S17556.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Franklin (KY) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 54</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164870.html](http://www.nuforc.org/webreports/reports/164/S164870.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164695.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164698.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164700.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164701.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
