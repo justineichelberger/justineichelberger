@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:03:56 on 30 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:22 on 30 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Toronto (Canada) (ON) reported seeing craft that fit the description of some 'Diamond' over a period of approximately  -  minutes.</sub><blockquote><sub>Web cam shot of "panel of lights"?I have a pic to submit. The object, a live shot from the 40th floor of the Ontario Investment Service. The camera is pointing southwest overlooking the waterfront areas and Lake Ontario. This image is taken from a webcam at 7:17 am. I saved the pic when I saw the object, but I thought that it might be a reflection from the rising sun? When I saw you featured report "panel of lights" on your home page (Oct.05/03) I thought I might have something?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32044.html](http://www.nuforc.org/webreports/reports/032/S32044.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Birmingham (UK/England) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1935.0 - 1935.0 minutes.</sub><blockquote><sub>I was on the way to work walking uohurst lane north,  I saw an orange fire in the sky a ball of fire like a chariot, then others followed it I saw a humanoid male they were flying lowas  I was walking one raised up a little but I offered no challenge I carried on another saw me and it went a cross shape as a shining jewel it seemed friendly they were in a glowing fireball going in the direction of the airport I had the most wonderful experience there was a lovely prescence</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122457.html](http://www.nuforc.org/webreports/reports/122/S122457.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164695.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164698.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164700.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164701.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
