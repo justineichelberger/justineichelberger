@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:46:42 on 30 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:26:55 on 30 September 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Arvada (CO) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>7-9 glowing white lights in arrow formation flying east to west fast and lowLooking east I noticed a white glowing object traveling low and fast coming towards me as it got closer I noticed there were more lights with it around 7-9.they were in a arrow formation.  My first thought was, okay it's a comet breaking up but as it flew over my head I noticed they were all the exact same size and glowing the same white cream luminescent color and in almost perfect formation..there was no sound at all.whats crazy is I can stare east and see planes from a distance coming from DIA all the time but this just appeared.It was like you couldn't see them from afar until it got close to you.I star gaze all the time when I'm outside smoking a cigarette (bad habit), so I always see falling stars (comets) and single flying lights (satellites) but this was unexplainable.thats why I had to document it here.  P.S as soon as it was over my head I ran 10ft to the back door to yell at my wife to come see this and instead of her running straight out the back door f! rom the couch she paused to turn the thermostat off for the swamp cooler and it emitted sparks( something it never done before) by the time she ran out it was to late because my backyard neighbor has a big tree and it was out of view headed for the mountains.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130389.html](http://www.nuforc.org/webreports/reports/130/S130389.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Canoga Park (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>UFO Sighting At The Turn of the Century In the SFV , CAMy neighbor and I were talking one night.  It was the end of summer, beginning of fall, I remember, around the year 2000.  I was tempted to report the incident but was too baffled as to who to tell and who would believe me, as it occurred so fast, but the incident has always stuck in my mind.  I found this web site and realized other people did report the incident.  Anyway, my neighbor and I noticed 4 saucers in the sky to the west above the SFV, over Canoga Park, near the Pacific Ocean.  The clouds were streak like that evening and the red sunset was beautiful in the sky.  At around 6:30 p.m. to 7:30 p.m. (unfortunately not sure of the exact time) but right as the sun was setting that year, we noticed 4 aircraft with colored lights around each of them.  The aircraft were flying in uniform formation, all somewhat close to one another.  I think the lights were blue, orange, red and yellow (not sure how many colors I saw).  Anyway, the 4 aircraft hovered down ! for a short period of time (not sure how far down to earth or how large they were as they were miles above earth)and then as if by mental telepathy they knew we spotted them as we were commenting on them to one another.  Then, the 4 aircraft stopped, changed course and with a fast trajectory zipped into some sort of hyperspeed out of eyesight and were no where to be found.  We have never seen airplanes accomplish such speeds, trajectory or disappear so quickly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72718.html](http://www.nuforc.org/webreports/reports/072/S72718.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164695.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164698.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164700.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164701.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
