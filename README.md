@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:06:27 on 1 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:25 on 1 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Manchester (NH) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>hovering above city landfill.  beam of light from craft to ground.oval in shape. rustic in color. hovering. beam off light from ship to surface. no external lights on ship. three portholes visiable. foggy in area. hovering at 700ft. no forward movement. just vanished. my background:foward observer,us army vietnam.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04582.html](http://www.nuforc.org/webreports/reports/004/S04582.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Pullman (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Bright blue explosion followed by blue shooting object over Pullman, WAIn Pullman,WA on the Pullman Moscow Highway I was driving towards Pullman and just about to enter city limits. To the West (compass used) at about a 45 degree angle of vision, a bright blue circular object suddenly came into view with an explosion that light up the entire sky with whitish blue light. It flew at no more than a 10 - 15 degree angle relative to a VERTICAL line (down from left to right). It was almost flying straight down. It was only in view for about one full second before dissapearing again with no sound at all. The explosion of light only lasted a fraction of a second, but the movement and visual of the object itself carried on for a full second as it shot across the sky. Behind the object was a bright bue and white tail that spanned across its entire path of flight and was as thick as the object was wide. I would describe the size of the object as being that of a full moon or even a little bigger.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52722.html](http://www.nuforc.org/webreports/reports/052/S52722.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [760](http://www.nuforc.org/webreports/reports/164/S164691.html)
-- [759](http://www.nuforc.org/webreports/reports/164/S164949.html)
-- [758](http://www.nuforc.org/webreports/reports/165/S165127.html)
-- [757](http://www.nuforc.org/webreports/reports/164/S164817.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164873.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
