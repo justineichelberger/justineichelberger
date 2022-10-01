@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:56:42 on 1 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:39:02 on 1 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Vancouver (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>My sister cousin and mydelf saw UFO's in the sky driving home !!!!!  SO scary !Myself, cousin and sister were driving down the road and saw something weird in the sky..  And it was three red lights in the sky we knew it wasnt airplanes or anything like that. we just know it was UFO's there was three of them. i reported it to channel fox 12 news already ! Im so scared and nervous and have mixed emotions i can't even sleep right now im freaking out !</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84255.html](http://www.nuforc.org/webreports/reports/084/S84255.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Farmington (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>a bright lights traveling very fast with a green tail that exploded into four lights!there was one bright light traveling at a high rate of speed heading northeast the light split into 2 lights then split into four lights all the same size. There was a green tail behind the lights.There was like an explosion but there was no fire and nothing fell it all stayed the same distance apart and thats when it split into four lights. according to the GPS we were located at N 36 degrees and 44.963 and w 108 degrees at 10.466. our degree of view was approximately 45 degrees. We contacted the flight tower in Farmington, NM right after the event and there were no dispruptions and he didnt really take us seriously. we would have reported the event sooner but we just found this website.  We checked the news to see what it was but all they said it was possibly a meteor or part of the spacestation.  We want an explanation as to what we saw, so if there is any information about this sighting and what it was we would like to know. How come no one has any photos I thought new mexico has some high tech stuff that tracks stuff in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52910.html](http://www.nuforc.org/webreports/reports/052/S52910.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [760](http://www.nuforc.org/webreports/reports/164/S164691.html)
-- [759](http://www.nuforc.org/webreports/reports/164/S164949.html)
-- [758](http://www.nuforc.org/webreports/reports/165/S165127.html)
-- [757](http://www.nuforc.org/webreports/reports/164/S164817.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164873.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
