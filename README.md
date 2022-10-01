@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:12:07 on 1 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:06:41 on 1 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Spotsylvania (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>blue,red,green,and bright white light hovering over field near Thornburg Va food lion.leaving lake Anna, on the way to 95 exit, cars stop in front of me on road next to food lion. at first shocked and confused why the cars stopped. my friend with me said " look over there" when i looked i saw a bright light hovering over a field above a tree line. the lights changed colors from blue, to green, to red and when descending from sky a very bright white. it hovered in very weird directions that i have never seen a plane be able to do. it would fly in a up down but diagonal direction. it landed behind trees about 4 times, i parked and watched it for about 30 min. it was hovering slow. dont know what happend to it after that but i know other cars saw it to.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80587.html](http://www.nuforc.org/webreports/reports/080/S80587.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Chandler (AZ) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>tHIS IS A CORRECTION TO A REPORT THAT I MADE LAST WEEK.   WHEN WE SAW THE LIGHT MY WIFE AND NEIGHBOR WERE BEHIND ME AND THEY WSAW THE OUTLINE OF A CRAFT THAT WAS CIGAR SHAPED.  (I WAS CONCENTRATING ON THE GREEN LIGHT)  THE GREEN LIGHT WAS IN THE MIDDLE OF THE CRAFT(FROM THE SIDE)  THE OBJECT WAS BETWEEN 3 TO 4 FEET LONG.   THE TWO LIGHTS EMITTED FROM THE REAR WERE LIKE WHITE  BUBBLES FROM A PROPULSION DEVICE.   ???   I GUESS I SHOULD HAVE TALKED WITH THEM PRIOR TO THE REPORT.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14457.html](http://www.nuforc.org/webreports/reports/014/S14457.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [760](http://www.nuforc.org/webreports/reports/164/S164691.html)
-- [759](http://www.nuforc.org/webreports/reports/164/S164949.html)
-- [758](http://www.nuforc.org/webreports/reports/165/S165127.html)
-- [757](http://www.nuforc.org/webreports/reports/164/S164817.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164873.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
