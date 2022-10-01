@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:25:33 on 1 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:12:07 on 1 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1983, an anonymous witness in Ayer (MA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Zero to top Speed InstantaneouslyIt's been over 25 years ago so I can only estimate the year it happened to within 2 years.  Sometime between 1982 and 1984 I was driving out Route 2 every Friday night to Western MA to visit a friend in college, so I know it was not during the summer months. One night I was the only car on the road in the Ayer area which is pretty rural alot of trees and some houses on a 2 lane divided highway.  In the distance straight ahead of me was a single white light in the sky.  It looked about a mile away about 3/4 up the windshield I was approching it at about 50 MPH with my lights on because it was dark outside.  The craft was just hovering in one place dead ahead of me as I approached. All of a sudden it shot to the south (my left) at a speed that we are not capable of, maybe 10,000 MPH. Now heres the proof that I know it was not made by man, it did not need any distance to get up to speed.  It was like moving at top speed instantaneously.I have always wanted to know if anyone else ever saw it that night thats why I came to this site to look it up historically.I was not close enough to hear any sound((NUFORC Note:  Source of report indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69666.html](http://www.nuforc.org/webreports/reports/069/S69666.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Spotsylvania (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>blue,red,green,and bright white light hovering over field near Thornburg Va food lion.leaving lake Anna, on the way to 95 exit, cars stop in front of me on road next to food lion. at first shocked and confused why the cars stopped. my friend with me said " look over there" when i looked i saw a bright light hovering over a field above a tree line. the lights changed colors from blue, to green, to red and when descending from sky a very bright white. it hovered in very weird directions that i have never seen a plane be able to do. it would fly in a up down but diagonal direction. it landed behind trees about 4 times, i parked and watched it for about 30 min. it was hovering slow. dont know what happend to it after that but i know other cars saw it to.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80587.html](http://www.nuforc.org/webreports/reports/080/S80587.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [760](http://www.nuforc.org/webreports/reports/164/S164691.html)
-- [759](http://www.nuforc.org/webreports/reports/164/S164949.html)
-- [758](http://www.nuforc.org/webreports/reports/165/S165127.html)
-- [757](http://www.nuforc.org/webreports/reports/164/S164817.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164873.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
