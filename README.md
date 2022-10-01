@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:06:41 on 1 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:25 on 1 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Chandler (AZ) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>tHIS IS A CORRECTION TO A REPORT THAT I MADE LAST WEEK.   WHEN WE SAW THE LIGHT MY WIFE AND NEIGHBOR WERE BEHIND ME AND THEY WSAW THE OUTLINE OF A CRAFT THAT WAS CIGAR SHAPED.  (I WAS CONCENTRATING ON THE GREEN LIGHT)  THE GREEN LIGHT WAS IN THE MIDDLE OF THE CRAFT(FROM THE SIDE)  THE OBJECT WAS BETWEEN 3 TO 4 FEET LONG.   THE TWO LIGHTS EMITTED FROM THE REAR WERE LIKE WHITE  BUBBLES FROM A PROPULSION DEVICE.   ???   I GUESS I SHOULD HAVE TALKED WITH THEM PRIOR TO THE REPORT.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14457.html](http://www.nuforc.org/webreports/reports/014/S14457.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Cabazon (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>hi, last night on oct 1, 2008 i saw 2 star sized objects that went extremely fast in the night sky in so.calif.(cabazon) at about 8:00p.m. chase each other in the sky. this is the third time ive witnessed this sort of phenomenom. the first time i saw this happen the objects were doing insane manuvers  such as stopping on a dime and turns that were much sharper than 90 degrees. what are these things?? military maybe? super sattelites?? please help me to understand  sincerley   chris</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66023.html](http://www.nuforc.org/webreports/reports/066/S66023.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [760](http://www.nuforc.org/webreports/reports/164/S164691.html)
-- [759](http://www.nuforc.org/webreports/reports/164/S164949.html)
-- [758](http://www.nuforc.org/webreports/reports/165/S165127.html)
-- [757](http://www.nuforc.org/webreports/reports/164/S164817.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164873.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
