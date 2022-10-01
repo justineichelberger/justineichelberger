@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:22 on 1 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:23 on 1 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1977, an anonymous witness in Iselton (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>While fishing on the San Joaquin river on Twithchell Island Rd., at the mouth of the Molklomne river, we observed 2-lights high in the sky, jetting around erractically.  They were zooming from left to right erractically and quickly.  Then, after about 1 or 2 minutes, they zoomed together, and paused briefly, and then as one light darted away in a straightline quickly until out of sight. My friend and I both both sat there for several minutes speechless, until I asked him "did you see that"?, of which he said yes...((names of two witnesses deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44822.html](http://www.nuforc.org/webreports/reports/044/S44822.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1979, an anonymous witness in Olympia (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Dancing lights over Olympia  It was October 1979 and I was walking to a party through the town of Olympia, WA at around 8:45 pm with a friend. We noticed a saucer shaped craft over a tree and commented on it and watched it. It is imposdsbile to say how large the craft was since the distance was unclear but it appeard to be maybe 50 feet across 25 feet high. IT was hovering and very still. I heard no sound. It had three lights in a triangle formation. The lights would switched places and I could actually see them move as if to occupy the place where the other light had been. We both stared at the object without saynig anything. After what seemed to be a minute or so it shot up at about a 2:00 position very quickly and went out of sight. I thiknk we said, what was that? and we both didn't know. We had expected to get to the party at right about 9 pm to help set it up. When we got there the party was in full swing and it was 11 pm. We were very surpried and I said to my friend, "do you know it's 11" or something to that effect and he confused by this as well. Niether of us spoke about it but it (now) seems clear we "lost time." I have not memory of anything further.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64110.html](http://www.nuforc.org/webreports/reports/064/S64110.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [760](http://www.nuforc.org/webreports/reports/164/S164691.html)
-- [759](http://www.nuforc.org/webreports/reports/164/S164949.html)
-- [758](http://www.nuforc.org/webreports/reports/165/S165127.html)
-- [757](http://www.nuforc.org/webreports/reports/164/S164817.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164873.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
