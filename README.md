@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:24 on 1 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:22 on 1 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Cigar-Shaped hovering craft spotted near I-35 and 290 exit north of AustinIt was a cloudless clear day with the sun shining at around 8:50 AM. I was traveling from 290 heading west-bound onto the I-35 S exit ramp toward the city of Austin. Upon approaching the ramp I noticed a silver-like cigar-shaped craft in the sky to my right (North of the city - Northeast from me) that was not moving - or moving very slowly. At first, I thought it to be one of the many lightposts lining the area there when I realized it was further up in the sky and definitely not attached to anything and not in the shape of the lightposts.  It was hovering with no other movement and the craft appeared to be segmented. The craft was divided in half horizontally although each piece (top and bottom) were the same gray-ish color.  I kept my eye on it as I continued to drive up the exit ramp for a couple of minutes. I then had to look away to brake for the car in front of me on the ramp. When looking back, the craft had entirely disappeared from the entire sky-spac! e. The sky was clear so there were no clouds for the craft to disappear into and I did not notice any movement as it went away. I searched frantically to no avail. I checked the airspace/flight paths and did not find any craft in that specific area at that time. It did not look like an airplane at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159903.html](http://www.nuforc.org/webreports/reports/159/S159903.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1977, an anonymous witness in Iselton (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>While fishing on the San Joaquin river on Twithchell Island Rd., at the mouth of the Molklomne river, we observed 2-lights high in the sky, jetting around erractically.  They were zooming from left to right erractically and quickly.  Then, after about 1 or 2 minutes, they zoomed together, and paused briefly, and then as one light darted away in a straightline quickly until out of sight. My friend and I both both sat there for several minutes speechless, until I asked him "did you see that"?, of which he said yes...((names of two witnesses deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44822.html](http://www.nuforc.org/webreports/reports/044/S44822.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [760](http://www.nuforc.org/webreports/reports/164/S164691.html)
-- [759](http://www.nuforc.org/webreports/reports/164/S164949.html)
-- [758](http://www.nuforc.org/webreports/reports/165/S165127.html)
-- [757](http://www.nuforc.org/webreports/reports/164/S164817.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164873.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
