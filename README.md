@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:39:02 on 1 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:25:33 on 1 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Farmington (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>a bright lights traveling very fast with a green tail that exploded into four lights!there was one bright light traveling at a high rate of speed heading northeast the light split into 2 lights then split into four lights all the same size. There was a green tail behind the lights.There was like an explosion but there was no fire and nothing fell it all stayed the same distance apart and thats when it split into four lights. according to the GPS we were located at N 36 degrees and 44.963 and w 108 degrees at 10.466. our degree of view was approximately 45 degrees. We contacted the flight tower in Farmington, NM right after the event and there were no dispruptions and he didnt really take us seriously. we would have reported the event sooner but we just found this website.  We checked the news to see what it was but all they said it was possibly a meteor or part of the spacestation.  We want an explanation as to what we saw, so if there is any information about this sighting and what it was we would like to know. How come no one has any photos I thought new mexico has some high tech stuff that tracks stuff in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52910.html](http://www.nuforc.org/webreports/reports/052/S52910.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1983, an anonymous witness in Ayer (MA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Zero to top Speed InstantaneouslyIt's been over 25 years ago so I can only estimate the year it happened to within 2 years.  Sometime between 1982 and 1984 I was driving out Route 2 every Friday night to Western MA to visit a friend in college, so I know it was not during the summer months. One night I was the only car on the road in the Ayer area which is pretty rural alot of trees and some houses on a 2 lane divided highway.  In the distance straight ahead of me was a single white light in the sky.  It looked about a mile away about 3/4 up the windshield I was approching it at about 50 MPH with my lights on because it was dark outside.  The craft was just hovering in one place dead ahead of me as I approached. All of a sudden it shot to the south (my left) at a speed that we are not capable of, maybe 10,000 MPH. Now heres the proof that I know it was not made by man, it did not need any distance to get up to speed.  It was like moving at top speed instantaneously.I have always wanted to know if anyone else ever saw it that night thats why I came to this site to look it up historically.I was not close enough to hear any sound((NUFORC Note:  Source of report indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69666.html](http://www.nuforc.org/webreports/reports/069/S69666.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [760](http://www.nuforc.org/webreports/reports/164/S164691.html)
-- [759](http://www.nuforc.org/webreports/reports/164/S164949.html)
-- [758](http://www.nuforc.org/webreports/reports/165/S165127.html)
-- [757](http://www.nuforc.org/webreports/reports/164/S164817.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164873.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
