@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:03:02 on 1 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:20 on 1 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Tampa (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright blue light hovering over Tampa.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130364.html](http://www.nuforc.org/webreports/reports/130/S130364.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Liberty Hill (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>seven objects sighted with one apparantly landingmy son and i were standing outside my friend's house ready to leave after visiting and noticed two lights moving in the east. these lights looked about the same size as a star, but they were moving in a zig zag pattern downward. then we noticed five more from southeast moving towards the first two. they all moved in a sort of zig zag path. we started getting concerned because they were coming closer so my son and i left. driving home to bertram, one appeared to land some where east of liberty hill texas. the night sky was clear with no clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46681.html](http://www.nuforc.org/webreports/reports/046/S46681.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [760](http://www.nuforc.org/webreports/reports/164/S164691.html)
-- [759](http://www.nuforc.org/webreports/reports/164/S164949.html)
-- [758](http://www.nuforc.org/webreports/reports/165/S165127.html)
-- [757](http://www.nuforc.org/webreports/reports/164/S164817.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164873.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
