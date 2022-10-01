@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:56:46 on 1 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:56:42 on 1 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1977, an anonymous witness in Ferndale (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Silhouette, or dark object of craft appeared on moonless, starlit-night, backlit by glow straight overhead, appeared to be approachingI have just emailed you a pdf file write-up with a sketch, it is a long detailed description, I emailed it today 2/24/05 to your email for sending images TN((NUFORC Note:  Witness indicates that date of sighting is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42386.html](http://www.nuforc.org/webreports/reports/042/S42386.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Vancouver (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>My sister cousin and mydelf saw UFO's in the sky driving home !!!!!  SO scary !Myself, cousin and sister were driving down the road and saw something weird in the sky..  And it was three red lights in the sky we knew it wasnt airplanes or anything like that. we just know it was UFO's there was three of them. i reported it to channel fox 12 news already ! Im so scared and nervous and have mixed emotions i can't even sleep right now im freaking out !</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84255.html](http://www.nuforc.org/webreports/reports/084/S84255.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [760](http://www.nuforc.org/webreports/reports/164/S164691.html)
-- [759](http://www.nuforc.org/webreports/reports/164/S164949.html)
-- [758](http://www.nuforc.org/webreports/reports/165/S165127.html)
-- [757](http://www.nuforc.org/webreports/reports/164/S164817.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164873.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
