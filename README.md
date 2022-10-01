@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:33 on 1 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:13:36 on 1 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Port Townsend (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Giant Blue-Green fireball falls from the sky at 0530 in washington stateI was at the marina getting ready to launch my boat and out of no where in the sky there was a blue-green ball falling from the sky moving to the east.  None of the guys i was with say it because they were looking at me with the surprised look on my face...   When i got home at 4pm i told my wife about it and we started pondering it.  Then we watched the 5 o clock news and they said there were alot of calls reporting a fireball falling from the sky and they didnt have an answer except maybe a meteor but this thing was bigger than any meteor ive ever seen. From where i was it looked about the same size as the moon.((NUFORC Note:  Probable meteor.  Many other reports.  PD))((FOLLOW-UP COMMUNICATION))PeterFrom where I was at it looked to be falling from the southwest toward the north towards Canada but if you asked for my estimate I would say it landed in the Strait of Juan de Fuca  It was falling at a 45-50 degree angle and when I first saw it I thought some one from Port Townsend Shot a huge green flare because it looked so close.  It really didnt seem very far from me.  At the time the size of it looked to be about the same size as the moon.  And it seemed to move alot slower than a meteorite.  actually looked like a flare falling slow to the ground.  This morning I was at the same place and at the same time I saw a shooting star in the same place at the same time except it was the usual size.  Tiny but fast.  If you have any questions I would like to help out. ((END))((SECOND FOLLOW-UP))It was to the west of me going north,.((END))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25353.html](http://www.nuforc.org/webreports/reports/025/S25353.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Pelzer (SC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Large, black, triangular, object flew low and silent over South Carolina state prison yard.While working as a Correctional officer at Perry Correctional Institution I was working in the medical ward. The inmates were allowed to be out on the rec yard until a certain time and in fall it would become dark before they had to come in. One evening after dark I and several inmates witnessed an object fly low over the prison and directly above us. It was huge, black, moved very slow and made no noise. I did not report it at the time because I had applied for federal law enforcement and didn't want to be labeled a nut. We (the inmates and myself) joked about it a few times but as far as I know it was never reported.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67145.html](http://www.nuforc.org/webreports/reports/067/S67145.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [760](http://www.nuforc.org/webreports/reports/164/S164691.html)
-- [759](http://www.nuforc.org/webreports/reports/164/S164949.html)
-- [758](http://www.nuforc.org/webreports/reports/165/S165127.html)
-- [757](http://www.nuforc.org/webreports/reports/164/S164817.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164873.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
