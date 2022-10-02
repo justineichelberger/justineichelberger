@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:21 on 2 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:12:43 on 2 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Photos of a UFO above Manhattan.We were taking photos for my roommates father on our roof for his birthday.  While taking the photos I noticed a strange craft hovering and slowly moving over Manhattan.  I have been involved in aircraft all my life and upon noticing this craft I was immediately shocked.  It was a cloud shape form very obscure yet with a flat and roating movement to it.  It was not a cloud it was in front of the clouds at sun set.  It began to change shape and move all the while changing in color due to the sun.  We took 9 photographs of the object and it changed shape moved across the city.  Turned at amazing angles.  Then conformed into a ball and shot straight up into the sky.  Going from a low altitutde to the outreach of space in a matter of seconds.  6minutes after the sighting while it was still in the sky a strange large black aircraft began to move in the general direction of the craft.  The photos are very strange and show an amazing object.  Thanks for listening!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52763.html](http://www.nuforc.org/webreports/reports/052/S52763.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Little Canada (MN) reported seeing craft that fit the description of some 'Flash' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>There are two flashing lights in the southeastern sky in a fixed position.  They are flashing red, green, and blue lights.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122481.html](http://www.nuforc.org/webreports/reports/122/S122481.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [321](http://www.nuforc.org/webreports/reports/164/S164813.html)
-- [320](http://www.nuforc.org/webreports/reports/164/S164805.html)
-- [319](http://www.nuforc.org/webreports/reports/164/S164803.html)
-- [318](http://www.nuforc.org/webreports/reports/164/S164814.html)
-- [317](http://www.nuforc.org/webreports/reports/164/S164806.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
