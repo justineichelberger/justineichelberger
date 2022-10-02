@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:20:55 on 2 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:05:12 on 2 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Franklin (TN) reported seeing craft that fit the description of some '' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I was in Franklin looking South in the sky.  It looked like it was over Spring Hill.  Red and green flashing lights stationary in the sky for over 30 minutes.  I watched it stay in one place for over 5 minutes, then went inside to get my wife.  We both watched it and looked at it through binoculars for a good 10 minutes.  It never moved.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136560.html](http://www.nuforc.org/webreports/reports/136/S136560.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Pleasanton (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Two crafts, shaped like sheres/ovals, appeared thirty seconds apart from each other and the second one circled around the first twiceIn Pleasanton CA I saw a small, silvery sphere just above my rooftop that was stationary in the afternoon sky.  As I moved further away from my house, a second identical sphere appeared about an inch (from my perspective) beneath the original one, horizontally to the left, about thirty seconds after I saw the first craft.  I called my sister out of the house to come and look at the sighting, which she reluctantly did, and saw the two objects in the sky.  We went back in together, her to her room again, and I went to get binoculars to better see what they looked like and where they were moving to.  With the binoculars I could clearly make out the shape and exterior color/material.  It appeared to be a copper-silver blend, but was reflecting a piercing pearl light from the center, which I suspect was a reflection from the sun.The shape of the object was similar to a Chinese lantern laying on its side; the center was clearly defined by a built-in skeleton th! at resembled raised tubing on its shimmering surface.  Above this visible division was a row of black that I could not make out as compartmentalized in any way; it appeared to be a consistent strip around.After about two minutes the secondary craft began to orbit around the primary one slowly, to which it went around twice and then stopped, mid-rotation, in the exact spot it had originally appeared, on the reverse side.  The duration of the rotations was approx. one minute, forty-five seconds.  I was timing as best I could with my watch.  The two drew together and separated three times in the same straight line position and then stopped moving.  They sat there for approx. 6 minutes, and then started to drift away, but slowly. It was another 8 minutes or so until I could not longer see them.I came back inside the house and drank some water, talked to my mother regarding the situation and found a hotline to report sightings.  I called and they suggested I submit my written report to document the sighting.  Here it is. I only wish I had a camera to document, but now I know that and will try to have something immediately available.  This is not the first sighting I have encountered, but it is the first I have reported.((NUFORC Note:  Witness elects to remain totally anonymous, although the report may have been submitted by the person who called our Hotline.  He provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78111.html](http://www.nuforc.org/webreports/reports/078/S78111.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [321](http://www.nuforc.org/webreports/reports/164/S164813.html)
-- [320](http://www.nuforc.org/webreports/reports/164/S164805.html)
-- [319](http://www.nuforc.org/webreports/reports/164/S164803.html)
-- [318](http://www.nuforc.org/webreports/reports/164/S164814.html)
-- [317](http://www.nuforc.org/webreports/reports/164/S164806.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
