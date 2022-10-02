@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:21 on 2 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:22 on 2 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Upper Marlboro (MD) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>I was painting my house and was on a step ladder about 6 ft high and saw an orange light that looked like it was rotating vertically.  It was moving extremely fast and there was no noise whatsoever.  The object looked like it was at low altitude and as soon as I looked at it it diss appeared.  I only saw it for about 3 seconds and it was gone.  I've never seen anything move so fast. A bout 10 minutes later there were helicopters in the area.  I live very close to Andrews AFB and planes and helicopters every day but this was unusual.  Again I only saw this thing for a split second but that was the fastest thing I've ever seen and it just disappeared (no clouds).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103441.html](http://www.nuforc.org/webreports/reports/103/S103441.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Allentown (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Two bright white lights.On Oct 2nd at approximately 20:00 I accompanied my wife and two friends outside while they had a cigarette. Looking to the east I noticed two bright lights come into view about 30 degrees above the horizon and only a few degrees apart from each other with the one on the left slightly above the one on the right. The lights were extremely bright and pure white with no flicker.The lights stayed where they had appeared for a second or two then slowly moved to the right where they then faded out to nothing with the one on the right fading slightly before the one on the left.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78333.html](http://www.nuforc.org/webreports/reports/078/S78333.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [321](http://www.nuforc.org/webreports/reports/164/S164813.html)
-- [320](http://www.nuforc.org/webreports/reports/164/S164805.html)
-- [319](http://www.nuforc.org/webreports/reports/164/S164803.html)
-- [318](http://www.nuforc.org/webreports/reports/164/S164814.html)
-- [317](http://www.nuforc.org/webreports/reports/164/S164806.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
