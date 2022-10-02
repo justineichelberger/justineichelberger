@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:02:15 on 2 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:49 on 2 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1965, an anonymous witness in Pittsburgh (PA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Like something I had never seen at the time or have ever seen again!I am nor sure of the exact date as it was a long time ago but I can tell you this.  In 1965 my Dad bought a 1965 VW Bus.  Once a week we used to drive in to Pittsburgh so that my Dad could drop off his Football Contest at the Pittsburgh Press.  On the night in question we were heading towards down and I remember my Parents kept commenting on a strange light in the distance.  After we had dropped them off and we were on our way home, we were heading up Bower Hill Road and I remember my Day saying Holy Sh*t look at that. He then pulled off of the road to look at what he had seen.  I vividly remember looking up out of the window and seeing a large Round Saucer hovering several hundred feet above the Houses and Trees.  The Craft was slowly rotating and had windows all around.  There were also lights on the bottom.  It reminded me of a ring with Diamonds all around it with the Diamonds being Windows. Me and my Brother and Sisters were very scared and were crying.  My Parents watched it for several Minutes before my day reached for his Camera.  As he was preparing to try and take a Picture it tilted slightly and took off at a high rate of speed.  It was gone within Seconds. When my Dad mentioned it at work several co-workers also reported seeing it.  It is something that I will never forget and would love to see again.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47088.html](http://www.nuforc.org/webreports/reports/047/S47088.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Corona (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>10 oval objects flying over Corona, California in broad daylight.About 10 minutes ago, I stepped outside to go to my car.  Something caught my eye in the sky.  I noticed 10 white oval objects, which I first thought were balloons.  I watched them as they moved quickly from west to east towards the Riverside city area.  I thought they were being blown by the wind, but then I watched them all line up in one line, then scatter, but still staying in the same area together.  Also, it is 100 degrees today, and there is no wind,. I continued to watch and could see them approximately 1/2 mile away, what appeared to be movement, some type of back and forth maneuvers, left to right.  There were no lights on these objects and I could not hear any sound. I have two pilots in my family, one is a captain.  I have experienced many aircraft and I do not live far from the Ontario International Airport.  I see commercial jets fly over my home everyday, this was not like anything I have ever seen.  I am hoping someone else saw these objects ! and reported these to your site.  Very strange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93262.html](http://www.nuforc.org/webreports/reports/093/S93262.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [321](http://www.nuforc.org/webreports/reports/164/S164813.html)
-- [320](http://www.nuforc.org/webreports/reports/164/S164805.html)
-- [319](http://www.nuforc.org/webreports/reports/164/S164803.html)
-- [318](http://www.nuforc.org/webreports/reports/164/S164814.html)
-- [317](http://www.nuforc.org/webreports/reports/164/S164806.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
