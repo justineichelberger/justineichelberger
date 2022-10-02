@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:56:08 on 2 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:51:55 on 2 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Canton (IL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>This is my second sighting near this area since 2001.At approx. 6:15 am ct, I observed while looking at the horizon (East) just before the sunrise as a Black Oval or Disc object glide above the cloud line.  It was black in color agaist a sunlit background.  The object glided just above the sky cloud line before blending into the dark clouds.  The object had no light only a blackness in color.  I was in the Canton Prison parking lot looking East during this incident. No sound or trail.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93270.html](http://www.nuforc.org/webreports/reports/093/S93270.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Ghent (Belgium) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.21666666666666667 - 0.21666666666666667 minutes.</sub><blockquote><sub>Floating disk above GhentSaw it high in the sky floating, did not move for 10 sec, then flew away, went out of sight behind a building.((NUFORC Note:  We cannot confirm that the report was, in fact, submitted from outside the U. S..  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32015.html](http://www.nuforc.org/webreports/reports/032/S32015.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [321](http://www.nuforc.org/webreports/reports/164/S164813.html)
-- [320](http://www.nuforc.org/webreports/reports/164/S164805.html)
-- [319](http://www.nuforc.org/webreports/reports/164/S164803.html)
-- [318](http://www.nuforc.org/webreports/reports/164/S164814.html)
-- [317](http://www.nuforc.org/webreports/reports/164/S164806.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
