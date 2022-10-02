@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:49 on 2 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:56:08 on 2 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Corona (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>10 oval objects flying over Corona, California in broad daylight.About 10 minutes ago, I stepped outside to go to my car.  Something caught my eye in the sky.  I noticed 10 white oval objects, which I first thought were balloons.  I watched them as they moved quickly from west to east towards the Riverside city area.  I thought they were being blown by the wind, but then I watched them all line up in one line, then scatter, but still staying in the same area together.  Also, it is 100 degrees today, and there is no wind,. I continued to watch and could see them approximately 1/2 mile away, what appeared to be movement, some type of back and forth maneuvers, left to right.  There were no lights on these objects and I could not hear any sound. I have two pilots in my family, one is a captain.  I have experienced many aircraft and I do not live far from the Ontario International Airport.  I see commercial jets fly over my home everyday, this was not like anything I have ever seen.  I am hoping someone else saw these objects ! and reported these to your site.  Very strange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93262.html](http://www.nuforc.org/webreports/reports/093/S93262.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Canton (IL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>This is my second sighting near this area since 2001.At approx. 6:15 am ct, I observed while looking at the horizon (East) just before the sunrise as a Black Oval or Disc object glide above the cloud line.  It was black in color agaist a sunlit background.  The object glided just above the sky cloud line before blending into the dark clouds.  The object had no light only a blackness in color.  I was in the Canton Prison parking lot looking East during this incident. No sound or trail.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93270.html](http://www.nuforc.org/webreports/reports/093/S93270.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [321](http://www.nuforc.org/webreports/reports/164/S164813.html)
-- [320](http://www.nuforc.org/webreports/reports/164/S164805.html)
-- [319](http://www.nuforc.org/webreports/reports/164/S164803.html)
-- [318](http://www.nuforc.org/webreports/reports/164/S164814.html)
-- [317](http://www.nuforc.org/webreports/reports/164/S164806.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
