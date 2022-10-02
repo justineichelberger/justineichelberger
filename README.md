@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:12:43 on 2 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:01:51 on 2 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Little Canada (MN) reported seeing craft that fit the description of some 'Flash' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>There are two flashing lights in the southeastern sky in a fixed position.  They are flashing red, green, and blue lights.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122481.html](http://www.nuforc.org/webreports/reports/122/S122481.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1976, an anonymous witness in Charleston AFS (ME) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>On this date I was stationed at Charleston AFS, ME and worked in the reciever section of the ((deleted)) located at the site.  ((Sentence deleted, at request of source of report.  Describes position of witness.)) We observed aircraft arriving and departing Limestone AFB regularly as this was an active base during the cold war. We had interceptors stationed there and at Bangor International and often these aircraft where deployed to intercept suspicious aircraft that would fly down the Newfoundland and New Brunswick coast off the Eastern seaboard enroute to Cuba. Long range Bear Bombers regularly made the trip and were regularly intercepted and shadowed.This night I watched and object from the North approach Limestone at a very high rate of speed. When a radar sweep moves around it does so at a constant rate of rotation. During the time it paints a target and the next time a slow object moves but centimeters on the screen a fast one might move several. This object moved 10's of centimeters and just as suddenly topped over Limestone. I watched the object not move for several moments nad then our set did not paint it. Usually that means the object is on the ground and not discernable by radar beam. After a short time maybe 8 to 12 mintes the object reappeared and hovered again. It then made a direct path north and was off the scope in a matter of a few sweeps.I remember this only as I heard of the "sighting" in the ensuing days. I did not discuss what I saw as at the time what we saw on the Radar set often had National Security implications.An example of speed we sometimes tracked very high speed targets that could move from one side of our scope to the other in less than 12 sweeps. These aircraft were used for reconnaisance and very fast. We tracked the Concorde on it's maiden flight when it landed at Bangor International. It took about 25 or more sweeps to cross the scope. The obejct that night departed Limestone and was out of range in less than 5 sweeps. That would give it a velocity in excess of 4,000 MPH.All of our Radar signals were sent on to NORAD. They were also often recorded for analysis purposes. Whether this incident was I do not know.We tracked objects all the time that seemed faster than what we knew of. This was the only one I recall where a ground sighting coincided with a radar observation.I can say that the raw radar imagery was seldom viewed as most systems used the SIF/IFF transponder data. I may have been the only person watching.((NUFORC Note:  Witness indicates that date of sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42602.html](http://www.nuforc.org/webreports/reports/042/S42602.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [321](http://www.nuforc.org/webreports/reports/164/S164813.html)
-- [320](http://www.nuforc.org/webreports/reports/164/S164805.html)
-- [319](http://www.nuforc.org/webreports/reports/164/S164803.html)
-- [318](http://www.nuforc.org/webreports/reports/164/S164814.html)
-- [317](http://www.nuforc.org/webreports/reports/164/S164806.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
