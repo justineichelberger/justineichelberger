@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:35 on 2 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:02:10 on 2 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Alhambra (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Luminous green object seen in slow descent before winking out.On Oct. 2, 1999 at 1:45 AM, I was watching television in my livingroom.  My eye was caught by something visible through the sliding glass door which is east facing.  I quickly turned my head to see what it was.  (The sliding door is located at a 90 degree angle from one's line of sight while looking at the TV.) What I saw (briefly, but very clearly) was a  luminous green ball, about the size of an aspirin held at arms length, slowly descending in an east, northeast line.  It disappeared while still visible above the tree line.  That is, the light "went out" or "turned off."  The length of time from the point where I turned and first observed the object in its descent, to the point of its disappearance was approximately three seconds. I might mention that the object was virtually the same beautiful, luminous emerald green as another object I witnessed in a much longer and more dramatic context almost forty years ago in Albuquerque, NM.  These are the only two occasions when I have seen such an object, but the striking color of the first sighting has always remained vivid in memory.  The recently (but briefly) seen object had the same coloration.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10061.html](http://www.nuforc.org/webreports/reports/010/S10061.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Huntington Beach (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Ufo flying circles then speeding off with three smaller objects behind it, it was not producing light just reflections from moonlight</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93271.html](http://www.nuforc.org/webreports/reports/093/S93271.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [321](http://www.nuforc.org/webreports/reports/164/S164813.html)
-- [320](http://www.nuforc.org/webreports/reports/164/S164805.html)
-- [319](http://www.nuforc.org/webreports/reports/164/S164803.html)
-- [318](http://www.nuforc.org/webreports/reports/164/S164814.html)
-- [317](http://www.nuforc.org/webreports/reports/164/S164806.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
