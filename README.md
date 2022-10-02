@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:22 on 2 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:21 on 2 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Allentown (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Two bright white lights.On Oct 2nd at approximately 20:00 I accompanied my wife and two friends outside while they had a cigarette. Looking to the east I noticed two bright lights come into view about 30 degrees above the horizon and only a few degrees apart from each other with the one on the left slightly above the one on the right. The lights were extremely bright and pure white with no flicker.The lights stayed where they had appeared for a second or two then slowly moved to the right where they then faded out to nothing with the one on the right fading slightly before the one on the left.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78333.html](http://www.nuforc.org/webreports/reports/078/S78333.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Klang (Malaysia) () reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>mysterious bright spot in pictures of solar hola from different persons, cameras, locations and nearly same timingi took 3 pictures of the sun when the solar hola was happening at that time. saw a same bright spot near the sun in al 3 pictures but at the different location within just a few seconds.later on that day, I saw a picture of the solar hola that my friend posted on facebook and the same bright spot was captured in the picture but at the different location near the sun.on the next day, 3rd oct 2012, i saw on the reporting of the solar hola in a local chinese newspaper with the similar bright spot appeared in the picture as well.How would 3 different cameras at 3 different locations in a same city and almost same timing captured a similar bright spot near the sun during the solar hola?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93279.html](http://www.nuforc.org/webreports/reports/093/S93279.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [321](http://www.nuforc.org/webreports/reports/164/S164813.html)
-- [320](http://www.nuforc.org/webreports/reports/164/S164805.html)
-- [319](http://www.nuforc.org/webreports/reports/164/S164803.html)
-- [318](http://www.nuforc.org/webreports/reports/164/S164814.html)
-- [317](http://www.nuforc.org/webreports/reports/164/S164806.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
