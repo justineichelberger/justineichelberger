@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:25 on 2 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:02:24 on 2 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Owasso (OK) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>On Oct 2 2011 between 1:50am-2:05am 7 to 9 fighter planes flew over my house.   A few hitting there boosters making a loud sound shaking my house.  I went out side and saw numerous jets flying over my house chasing after some bright object moving VERY fast.  There where brief lights like a flares or possibly gun fire trails in the distant. Having so many jets fly over my house in a residential area is very unusual.  I do live near a airport and I am use to commercial air planes flying over.  I have lived at this location for over 2 years and have never seen any military planes fly over nor have I seen so many at once.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84277.html](http://www.nuforc.org/webreports/reports/084/S84277.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Davis (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.2 - 0.2 minutes.</sub><blockquote><sub>Red Triangular Lights, With Multicolored Lights Randomly Between them (31sec. Video)My dog was kind of acting up, and she had done so a few nights before.  She seemed anxious, and seemed to want me to take her out. She had done this a few nights before, and I had taken her out.  When I went outside I remember hearing a loud sound, of what seemed like horns, or trumpets from all around.  I remember it being very early in the morning, maybe two am, and thinking, why isn't anyone else waking to this sound. I thought about it later, and thought maybe my dog had heard the sound, and that is why she wanted to go out.So On October 2nd, when my dog did this again I was much quicker to go outside. Again I heard the horn/trumpet sound, though this time it seemed a bit muted, almost like I was hearing it in a vacuum, similar to hearing the ocean in a seashell.  I looked over the horizon and saw nothing, then from overhead noticed what appeared to be a triangle of lights, with what appeared to be randomly moving lights running between each of the triangle points.  It was very large, and all I could really see were the lights, and definitive darker, more shadowed area within the confines of the lights on the corners.  It continued to move away from me in a Southern direction, and reached a point on the horizon where is seemed to remain still, or in a relatively central location for a few minutes.  I was able to get 31 seconds of video with my cell phone, and then the battery died.  The video was shot prior to it reaching the location on the horizon where it hovered,and I opted to stay and watch it, as opposed to trying to go in and get a quick charge on my phone to record more video (Which is what I did after watching it hover for a few minutes on the horizon, when I returned to try to record more, it was gone.) I have seen a lot of unusual air traffic, late night, early morning in this area.  I am very close to a small airport, but the planes that fly in, both day and night are distinctly different than what I heard or saw on the 2nd. and on the previous night.  I will keep looking, and hopefully get more video, should it occur again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94512.html](http://www.nuforc.org/webreports/reports/094/S94512.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [321](http://www.nuforc.org/webreports/reports/164/S164813.html)
-- [320](http://www.nuforc.org/webreports/reports/164/S164805.html)
-- [319](http://www.nuforc.org/webreports/reports/164/S164803.html)
-- [318](http://www.nuforc.org/webreports/reports/164/S164814.html)
-- [317](http://www.nuforc.org/webreports/reports/164/S164806.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
