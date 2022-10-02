@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:25 on 2 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:37 on 2 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Pomona (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately on and off till 11:45p.m - on and off till 11:45p.m minutes.</sub><blockquote><sub>bright orange light and looked like it dropped something saw it twice in one night...we were in our porch and then the guys saw it first and ran in and told us that they had seen this light and it looked like a commet at first but then it just stopped all of a sudden and it flashed went from bright to dimm.  we thought that they were insane at first but then when they came to tell us we went outside to see from out porch and then proceeded to the sidewalk and saw it way better and it stayed up there for a good 5 or more minutes and as it was up there it seemed to drop what seemed like little lights and they were going straight down.  then we saw it go dimmer and dimmer and then it finally just disapeared.  then a few minutes later like maybe 30-45 minutes later we saw it again but this time in a diffrent location and this time it was only up there for about 2-4 minutes and then just dissapeared and then we called the cops and they came and took a report and the officer didnt believe us at first but we took video on cell so yeah but it was li! ke an orange color with white almost and also the first time we saw it we took video and sent it to channel 5 news ktla.  but this is our first time and we are new to this we dont know what it was all i know is it was not a plane or helicopter or a blimp cause i looked far away but very bright.  but thank you for your time and no this is not a joke we are excited and now we cant go to sleep its crazy but we didnt even know that there was this number or website we actually got this info from the news on the internet. so we decided to call and we left a voice mail and now this letter. but once again thank you and please if you do find out what this is can you tell us??? we are going to try to get a little cheap telescope to try to see more...we are interested now to see whats out there...oh yeah and our friends told us that they had seen it a few days ago and this would be their third time and this is our first time we thought that they were crazy at first but now we saw it t! oo so i dont know but yeah once again thank you. oh yeah we ha! ve cell phone fotage.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78122.html](http://www.nuforc.org/webreports/reports/078/S78122.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Barahona (Dominican Republic) () reported seeing craft that fit the description of some 'Other' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Lights Shaped Like Boomerang((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84316.html](http://www.nuforc.org/webreports/reports/084/S84316.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [321](http://www.nuforc.org/webreports/reports/164/S164813.html)
-- [320](http://www.nuforc.org/webreports/reports/164/S164805.html)
-- [319](http://www.nuforc.org/webreports/reports/164/S164803.html)
-- [318](http://www.nuforc.org/webreports/reports/164/S164814.html)
-- [317](http://www.nuforc.org/webreports/reports/164/S164806.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
