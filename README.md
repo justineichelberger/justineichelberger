@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:39 on 3 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:28 on 3 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Lebanon (TN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>Red/orange colored objects flying in formation (constellation pattern) over Lebanon, TN.Multiple objects, at least 50, flew in formation near my home in Lebanon, TN. The objects were absolutely silent. The weather was clear and ground level winds reported at zero MPH. The objects approached from the west and curved to the north before disappearing into the night. The objects   near the end seemed to speed up as if they were trying to catch up with the main formation. From a distance the objects appeared to be spherical in shape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72819.html](http://www.nuforc.org/webreports/reports/072/S72819.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Morrisville (NC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>noticed 5 round object  at about 5000 ft above raleigh air port, watched for 5 minutessitting in my daughters  school parking lot I noticed 5 round objects very high in the air. in a v formation. moving slowly. cant think of the north or south directions. they seemed to be about 4 to 5 thousand feet up. my location was about 3 miles from the Raleigh durham  air port so there were other  air craft in the  area I was sitting directly under the flight path. well the ufos I saw were just black did not give me any reflection from the sun it was a very clear day.at arms lenght I could have coverd all of them with my thumb. as they flew over the two bottom or trailing objects sort of broke off and  randomly flew around the other three that stayed in a v shape. it took them about 5 minutes  to cover  the hole span of sky. I stopped the lady getting out of the car next to mine and had her look at them she looked at them for a second  said they werent  ufos and walked away. I asked  her if they mighet be birds and she said they looked very high and were just little black dots to her. well I do not know  what they were but thought  you might be able to find out from the airport if they had any strange flights high bove the air port  that day. I thought they might be large bird and not thet high but the formation they flew didnt sit  right with me.I am a military brat and spent a tour in the Navy sort of remember how planes fly and grew up duck hunting in Louisiana done quite a bit of watching birds fly also. cant say it wasnt birds but would like to  hear if the air port  says they had anything on their radar</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25404.html](http://www.nuforc.org/webreports/reports/025/S25404.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/164/S164954.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164811.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165109.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164816.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165111.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
