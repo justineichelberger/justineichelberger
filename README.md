@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:01:47 on 3 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:10 on 3 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Miles City (MT) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>was sitting at my porch watching the evening sky,as i was watching i saw what i first thought was a plane comeing from the south ,we get alot of planes going by, but as i watchd i noticed it did'nt look like a normal plane nether did it move like one.it seem to slow way down,like it was hardly moveing, then change derection rather fast.i wonderd if it was a new military craft? what ever it was , it was'nt a regular plane((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53766.html](http://www.nuforc.org/webreports/reports/053/S53766.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Formation of 6 spheres over Prospect Parc.while in Prospect Park looking North,we witnessed 6 spheres high in the sky in the middle of the afternoon.At first we though they were planes,there was no sound,no trail & they were not really moving.4 where in a perfect straight line .the bottom one seemed the brightest with 3 directly lined up over it.There was 2 more objects at about 2 o'clock , diagonaly alined with the brightest one.The distance between the objects was constant & they seemed to drift very slowly across the sky.We looked at them for at least 20 minutes while jets passed below on their path to Laguardia airport.We lost sight of them for 10 minutes or so. When we got up to leave,we looked up & saw again 2 spheres,this time directly overhead & much closer.They were still in close formatiom.We could see that each looked as if it was made of 4 oval components.The spheres were hanging in the sky for an other 10 minutes,then just vanished.We left,my daughter stayed behind & called us 5 minutes later,she said they were back,closer than before,she could see a flutter around the bright sphere,she said it looked like a bird flapping it's wings ,or 2 spinning shark fins.They passed over silently & disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39608.html](http://www.nuforc.org/webreports/reports/039/S39608.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/164/S164954.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164811.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165109.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164816.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165111.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
