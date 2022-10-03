@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:14:48 on 3 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:05:45 on 3 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Schenectady (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Circle of Light Seen In Morning SkyOn October 3, 2008 at approximately 8:13 am I was driving southeast on Lishakill Road in Colonie, New York when I looked up very high in the morning sky to see a bright light in between trees.  It was moving at a quick rate of speed and I only saw it for approximately one minute because the trees were in the way.  At first I thought it was a search light, but then I thought I saw what appeared to be fire on one side of the circle.  It was a very cloudy morning and I do not believe it was the sun.  I noticed in my rear view mirror the car behind me was driving in the middle of the road and down the road on the left was a Colonie police officer blocking a side street.  When I arrived at work at approximately 8:25 am I told my coworkers of the experience.  Less than 40 minutes later my coworkers and I saw a fighter jet took off from Albany International and it circled around and headed in the direction where I had the sighting.  The article in today's Times Union newspaper (October 4, 2008) states that a Hornet fighter jet did take off from Albany International and circled around RPI in Troy, New York.((NUFORC Note:  Witness elects to remain totally anonymous;  provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66050.html](http://www.nuforc.org/webreports/reports/066/S66050.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Morrisville (NC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>noticed 5 round object  at about 5000 ft above raleigh air port, watched for 5 minutessitting in my daughters  school parking lot I noticed 5 round objects very high in the air. in a v formation. moving slowly. cant think of the north or south directions. they seemed to be about 4 to 5 thousand feet up. my location was about 3 miles from the Raleigh durham  air port so there were other  air craft in the  area I was sitting directly under the flight path. well the ufos I saw were just black did not give me any reflection from the sun it was a very clear day.at arms lenght I could have coverd all of them with my thumb. as they flew over the two bottom or trailing objects sort of broke off and  randomly flew around the other three that stayed in a v shape. it took them about 5 minutes  to cover  the hole span of sky. I stopped the lady getting out of the car next to mine and had her look at them she looked at them for a second  said they werent  ufos and walked away. I asked  her if they mighet be birds and she said they looked very high and were just little black dots to her. well I do not know  what they were but thought  you might be able to find out from the airport if they had any strange flights high bove the air port  that day. I thought they might be large bird and not thet high but the formation they flew didnt sit  right with me.I am a military brat and spent a tour in the Navy sort of remember how planes fly and grew up duck hunting in Louisiana done quite a bit of watching birds fly also. cant say it wasnt birds but would like to  hear if the air port  says they had anything on their radar</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25404.html](http://www.nuforc.org/webreports/reports/025/S25404.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/164/S164954.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164811.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165109.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164816.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165111.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
