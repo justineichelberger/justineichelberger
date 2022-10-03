@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:17:01 on 3 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:14:35 on 3 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Palmdale (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>UFO'S IN THE SKYS OF PALMDALE CALIFI saw two UFO'S in the sky of Palmdale Calif,It was about 2:00pm thursday October3/2002.I was painting a patio and I looked up and saw one UFO at first it looked like a saucer it was silver in color,I know it was spinning because the sun was reflected on it making it flicker while it was spinning around .It moved as fast as lighting in deferent direction than I saw the second one and when one moved the other one follow the same way then they both took off as fast as lighting straight up and was gone.It was only about 1 minute long what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25396.html](http://www.nuforc.org/webreports/reports/025/S25396.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Winston-Salem (NC) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>Four cigar shape flying objects changing from red to silver-like moving horizontal appearing and disappearing very slow.On October 3, 2019,  between 6:55 p.m. and 7:20 p.m., myself and at least 4 other people observed 4 oblong or pod shape or pill shape or cigar shape flying objects.  The objects  changed from bright red to silver-like color in the clear, almost cloudless sky above the Fulton YWCA soccer field in Winston-Salem, NC, where children were practicing soccer.The objects were definitely not airplanes as they were very close and moving too slow and would have fallen from the sky. There were no wings or smoke trails.  They were not drones because the objects would get larger and then small again.  The objects seemed to appear out of nowhere.  They would randomly disappear in plain sight and reappear from nowhere.  One of the objects did take off across the same area of the sky very fast and then slow down again.The objects all moved horizontally and not vertically, not  upward nor downward.  Two of the objects seemed to fly within the particular area of the sky and stop (or disappear and then reappear) and then fly back facing the other objects in close proximity of each other.  I watched three disappear in the sky and not return to view.  The fourth one finally moved beyond the tall tree tops where I could no longer observe it.During the approximate 25 minutes, myself and another observer tried to take pictures or videos of the objects with our cell phones to no avail.  People other than the 4 of us who observed the flying objects seemed oblivious to the objects being there, as if it was commonplace to see such objects.  No one else seemed to care.  I showed the 4 objects to my granddaughter, but she was more interested in a grasshopper she had spotted in the grass.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149460.html](http://www.nuforc.org/webreports/reports/149/S149460.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/164/S164954.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164811.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165109.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164816.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165111.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
