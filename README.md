@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:01:25 on 3 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:39 on 3 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Bonifay (FL) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Silent, at tremendously high speed object seen flying north to south toward Panama City, FLOn Oct. 3, 2001, at about 11:00 a.m., I was a few yards west of our house when I noticed a large plane a little to my east slowly circling toward the north.  It is not unsual to see this type plane circling high above our place.  We live 45 miles North of the Panama City Ariport.  A little after I glanced up at the plane an object flew between me and the plane toward the south at a tremendous rate of speed.  I hardly had time to focus on it before it flew out of sight over the south horizon.  It was black and had a slight rectangular shape without wings or lights.  I estimated it to be about the size of a car, but it could have been much larger. I probably focused on it no more than 5 seconds. It made no sound and travelled much faster than any conventional craft that I have ever seen in my 63 years. It flew as straight as an arrow. I would never have known it was there if I had not already been looking at the nearby plane.  The boxy shape, plus the missile-like speed and silence makes it totally inconsistent with any flying craft I am familiar with.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20954.html](http://www.nuforc.org/webreports/reports/020/S20954.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Lebanon (TN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>Red/orange colored objects flying in formation (constellation pattern) over Lebanon, TN.Multiple objects, at least 50, flew in formation near my home in Lebanon, TN. The objects were absolutely silent. The weather was clear and ground level winds reported at zero MPH. The objects approached from the west and curved to the north before disappearing into the night. The objects   near the end seemed to speed up as if they were trying to catch up with the main formation. From a distance the objects appeared to be spherical in shape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72819.html](http://www.nuforc.org/webreports/reports/072/S72819.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/164/S164954.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164811.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165109.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164816.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165111.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
