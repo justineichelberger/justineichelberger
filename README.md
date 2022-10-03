@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:03:32 on 3 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:13:14 on 3 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Lima (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Lima, Ohio circle Black Metal red white and blue object above us in country rd.my girlfriend and i was driving down that country road heading home where we saw solid white lights like car head lights in the sky. when we noticed it it started to move east to west of us. my girlfriend say "it's a ufo" our windows where down at this point and the radio was off when i lay on my horns and screamed "hey, take us to your mother land" where this object slowed down, almost to a full stop and move vertical northwest of us as if it was heading towards us. it was right under us this time where we can see the full object. 3 blueish white light on each side (total of 6) 2 bright white headlights on the front and 3 red light . . like a triangle shape . but the third light looked like it wasn't connected the lights was so bright that you could notice that the bottom of the object was black metal. as it went by us the object was so close to us that there was no noise no engine nothing coming out of this object. as it slowly flew pass my girlfirend screams "turn around" at this time there was a car behind me and i just missed my town so i had to pull up a driveway and turn around we kept an eye on it so when i turn around it was gone. i drove about another hour towards the direction it was going and if it was a plane you should have seen it... right?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59082.html](http://www.nuforc.org/webreports/reports/059/S59082.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Fireball above Puget SoundI was walking Alki Beach when I noticed a very bright fireball-like object appear over the Puget Sound. I watched the object shoot straight up into the sky with a very quiet noise that lasted only a second at most. The object was never seen again. The event lasted about one minute.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78722.html](http://www.nuforc.org/webreports/reports/078/S78722.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/164/S164954.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164811.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165109.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164816.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165111.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
