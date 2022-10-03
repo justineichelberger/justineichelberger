@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:05:45 on 3 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:08:02 on 3 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Morrisville (NC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>noticed 5 round object  at about 5000 ft above raleigh air port, watched for 5 minutessitting in my daughters  school parking lot I noticed 5 round objects very high in the air. in a v formation. moving slowly. cant think of the north or south directions. they seemed to be about 4 to 5 thousand feet up. my location was about 3 miles from the Raleigh durham  air port so there were other  air craft in the  area I was sitting directly under the flight path. well the ufos I saw were just black did not give me any reflection from the sun it was a very clear day.at arms lenght I could have coverd all of them with my thumb. as they flew over the two bottom or trailing objects sort of broke off and  randomly flew around the other three that stayed in a v shape. it took them about 5 minutes  to cover  the hole span of sky. I stopped the lady getting out of the car next to mine and had her look at them she looked at them for a second  said they werent  ufos and walked away. I asked  her if they mighet be birds and she said they looked very high and were just little black dots to her. well I do not know  what they were but thought  you might be able to find out from the airport if they had any strange flights high bove the air port  that day. I thought they might be large bird and not thet high but the formation they flew didnt sit  right with me.I am a military brat and spent a tour in the Navy sort of remember how planes fly and grew up duck hunting in Louisiana done quite a bit of watching birds fly also. cant say it wasnt birds but would like to  hear if the air port  says they had anything on their radar</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25404.html](http://www.nuforc.org/webreports/reports/025/S25404.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Victoria (Canada) (BC) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.15 - 0.15 minutes.</sub><blockquote><sub>cigar shaped ,white silver object  with dark ports on side hovered  breifly then dissappearedI was jogging along  the Galloping Goose trail when I stopped to let some cyclist pass,while they were passing I looked up in the sky-the moon was still showing  with many of its feature in evidence. Something sligtly below the moon in my vision caught my eye,it was the color of white Silver with the shape of a cigar.At what i assumed to be the front end of the object there were some marking that appeared to be dark ridges or grooves and from where I stood the grooves appeared to  incircle that portion of the object. Midway from both ends there was a collar-like portion that extended around the object.Between the two"collars there appeared to be " dark port holes" it just hung there in the brilliance of the day. The cyclysts approached so I took my eyes off of the object,their passing took maybe a second,when I look back the object was nowhere to be seen-skies were clear I should have been able to see any conventional aircraft.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39650.html](http://www.nuforc.org/webreports/reports/039/S39650.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/164/S164954.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164811.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165109.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164816.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165111.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
