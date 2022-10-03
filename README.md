@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:05:22 on 3 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:04:12 on 3 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Tukwila (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Possible Siting in the Tukwila Wa areaThe objects we saw were circular and had a orange/yellow glow. They were formed in a diamond formation. We continued to watch the objects and notice that one at a time they disappeared.These object was right above the Interurban/Grady Way intersection near the Family Fun Center area.The reason why we new this was something strange, is because we've driven in the area many times as we live in the area, and have never seen anything like that before.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72709.html](http://www.nuforc.org/webreports/reports/072/S72709.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Athens (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Triangle-shaped object the size of a go-kart with blue/white lights.My wife and I were driving back from her dad's office along Gaines School just after midnight when she saw some slow-moving lights a few blocks away.  I figured it was an airplane or something, but as we got closer it stopped moving entirely.  So when we got alongside it, I pulled into the parking lot where K-Mart used to be.  As we got closer, it seemed no bigger than a go-kart, with 3 bright blue-white lights forming a triangle.  I pulled underneath it, and it was up, maybe 150 ft. in the air, but the instant we got under it, the object started to move north.  At this point, we assumed it must be some kind of remote-controlled aircraft (with lights?) and looked for someone operating it as we drove.  We saw no one.  It began to move faster and I continued through the long strip mall drive following behind it.  We lost sight of it when it went over the Jittery Joe's, but by the time I got on the other side, it was completely gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102972.html](http://www.nuforc.org/webreports/reports/102/S102972.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/164/S164954.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164811.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165109.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164816.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165111.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
