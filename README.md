@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:17:07 on 3 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:14:48 on 3 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Ogden (UT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>October 3rd 11:40pm 05 above the eastern bench in ogden UT, An orb slowly brightend up then moved arround in a circular motion,I went out side, looked up at the sky, And it was cloudy, and I could not see any stars because of the clouds.then a light appeard, I looked at it, It slowly dimed out and was gone,Then it slowly brightend up and moved arround in a circle motion and went out again,I knew at that point it was something other than a plane ore a star,This might sound weird!I waved my arms at the sky trying to get its attention and it appeard again,This time it was smaller and shot off.when it left I got the chills down my spine and it was as if I was in a state of peralisis, no I cant spell good but I sure can see and feel..........................</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46785.html](http://www.nuforc.org/webreports/reports/046/S46785.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Schenectady (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Circle of Light Seen In Morning SkyOn October 3, 2008 at approximately 8:13 am I was driving southeast on Lishakill Road in Colonie, New York when I looked up very high in the morning sky to see a bright light in between trees.  It was moving at a quick rate of speed and I only saw it for approximately one minute because the trees were in the way.  At first I thought it was a search light, but then I thought I saw what appeared to be fire on one side of the circle.  It was a very cloudy morning and I do not believe it was the sun.  I noticed in my rear view mirror the car behind me was driving in the middle of the road and down the road on the left was a Colonie police officer blocking a side street.  When I arrived at work at approximately 8:25 am I told my coworkers of the experience.  Less than 40 minutes later my coworkers and I saw a fighter jet took off from Albany International and it circled around and headed in the direction where I had the sighting.  The article in today's Times Union newspaper (October 4, 2008) states that a Hornet fighter jet did take off from Albany International and circled around RPI in Troy, New York.((NUFORC Note:  Witness elects to remain totally anonymous;  provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66050.html](http://www.nuforc.org/webreports/reports/066/S66050.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/164/S164954.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164811.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165109.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164816.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165111.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
