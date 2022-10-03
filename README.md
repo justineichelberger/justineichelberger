@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:08:02 on 3 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:28 on 3 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Victoria (Canada) (BC) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.15 - 0.15 minutes.</sub><blockquote><sub>cigar shaped ,white silver object  with dark ports on side hovered  breifly then dissappearedI was jogging along  the Galloping Goose trail when I stopped to let some cyclist pass,while they were passing I looked up in the sky-the moon was still showing  with many of its feature in evidence. Something sligtly below the moon in my vision caught my eye,it was the color of white Silver with the shape of a cigar.At what i assumed to be the front end of the object there were some marking that appeared to be dark ridges or grooves and from where I stood the grooves appeared to  incircle that portion of the object. Midway from both ends there was a collar-like portion that extended around the object.Between the two"collars there appeared to be " dark port holes" it just hung there in the brilliance of the day. The cyclysts approached so I took my eyes off of the object,their passing took maybe a second,when I look back the object was nowhere to be seen-skies were clear I should have been able to see any conventional aircraft.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39650.html](http://www.nuforc.org/webreports/reports/039/S39650.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Long Beach (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I observed a bright yellow orange fireball with red tinge traveling from the northeast to the southwest.I walked out into my backyard and I looked up to the east to see a bright yellow orange fireball with red tinge traveling from the northeast to the southwest at a moderate speed in relation to its size and distance from my standpoint. I witnessed the object for 25 to 30 seconds. The fireball then flickered out to reveal a white pulsating light on a dark metal looking object which flashed 3 times and then extinguished all while the object turned course toward the south east and  appeared to accelerate at a high rate of speed. I thought what I was looking at could possibly have been Chinese lantern but there were no real true signs of fire and the lantern would have been traveling against any wind currents present from the south.  Also, when the object burnt out, it did not fall to earth but accelerated away holding its altitude until it disappeared out of view just as an aircraft in level flight would. I attempted to video the object with the camera on my pho! ne for about 20 seconds zooming in on the object at the midpoint of the filming. The video actually recorded was only two seconds.  I was able to get a few good stills out of the 2 seconds of video that I did capture. I have witnessed the approaching fire ball which seems to drop its cargo and run once before on 09/30/09 at around 22:50 hours. The first sighting was far more dramatic and I had two witnesses with me who to this day, still do not believe what they saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114291.html](http://www.nuforc.org/webreports/reports/114/S114291.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/164/S164954.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164811.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165109.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164816.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165111.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
