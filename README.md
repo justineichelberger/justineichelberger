@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:24 on 3 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:26 on 3 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Fraser (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Point of light following a planeI walked outside and looked up at the stars.  Orion is in the south and was a clear morning. I looked to the west and noticed a plane flying overhead, with a red blinking light and flashing strobe.  Metro airport is south and west of my house location.  As I stared at the plane I noticed something that appeared to be as bright as a satellite, noticeable but faint. I stared at this because the faint light appeared to keep the same speed as the plane, off the left wing.  I thought, how odd is this, the plane and light were moving from west to east.  At about the 11:00 position the plane and light seemed to converge.  I thought this was logical because of the difference in altitude between a plane and a satellite, but the light converging on the plane stopped and stood still for 1 or 2 seconds.  Then the light moved again, accelerating West in the direction it came from.  I looked at my watch, it was 6:08am.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136532.html](http://www.nuforc.org/webreports/reports/136/S136532.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Lockport (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I first saw 2 faint yellow lights chasing each other east through the sky. 10 minutes later I saw 20 similar lights flying in a perfect V formation heading south.  The objects were traveling very fast and disappeared in the sky for both sightings.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149455.html](http://www.nuforc.org/webreports/reports/149/S149455.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/164/S164954.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164811.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165109.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164816.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165111.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
