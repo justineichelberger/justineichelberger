@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:27:53 on 3 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:17:07 on 3 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Wilmington (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Looked like a falling star at first then started changing colors from yellow to red to orange to a bright green with a long trail of smoke then disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103009.html](http://www.nuforc.org/webreports/reports/103/S103009.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Ogden (UT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>October 3rd 11:40pm 05 above the eastern bench in ogden UT, An orb slowly brightend up then moved arround in a circular motion,I went out side, looked up at the sky, And it was cloudy, and I could not see any stars because of the clouds.then a light appeard, I looked at it, It slowly dimed out and was gone,Then it slowly brightend up and moved arround in a circle motion and went out again,I knew at that point it was something other than a plane ore a star,This might sound weird!I waved my arms at the sky trying to get its attention and it appeard again,This time it was smaller and shot off.when it left I got the chills down my spine and it was as if I was in a state of peralisis, no I cant spell good but I sure can see and feel..........................</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46785.html](http://www.nuforc.org/webreports/reports/046/S46785.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/164/S164954.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164811.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165109.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164816.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165111.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
