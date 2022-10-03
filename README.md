@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:28 on 3 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:04:02 on 3 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Long Beach (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I observed a bright yellow orange fireball with red tinge traveling from the northeast to the southwest.I walked out into my backyard and I looked up to the east to see a bright yellow orange fireball with red tinge traveling from the northeast to the southwest at a moderate speed in relation to its size and distance from my standpoint. I witnessed the object for 25 to 30 seconds. The fireball then flickered out to reveal a white pulsating light on a dark metal looking object which flashed 3 times and then extinguished all while the object turned course toward the south east and  appeared to accelerate at a high rate of speed. I thought what I was looking at could possibly have been Chinese lantern but there were no real true signs of fire and the lantern would have been traveling against any wind currents present from the south.  Also, when the object burnt out, it did not fall to earth but accelerated away holding its altitude until it disappeared out of view just as an aircraft in level flight would. I attempted to video the object with the camera on my pho! ne for about 20 seconds zooming in on the object at the midpoint of the filming. The video actually recorded was only two seconds.  I was able to get a few good stills out of the 2 seconds of video that I did capture. I have witnessed the approaching fire ball which seems to drop its cargo and run once before on 09/30/09 at around 22:50 hours. The first sighting was far more dramatic and I had two witnesses with me who to this day, still do not believe what they saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114291.html](http://www.nuforc.org/webreports/reports/114/S114291.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Westfir (OR) reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>clear real photo graph of extraterestreli looked at the city of san diego official website and there i looked at there pictures in THe Historical Socity Automobiles   the is a picture of Irving and ((name deleted)) in rfront picture  and    ((name deleted)) in back     ""2 cylinder  Duro, C   1909.  it is a picture of a exterestrial with body guards. they snuck it out of town as a women .((NUFORC Note:  We do not understand what the source of the report is attempting to communicate.  We will correspond with him for clarification.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46756.html](http://www.nuforc.org/webreports/reports/046/S46756.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/164/S164954.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164811.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165109.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164816.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165111.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
