@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:04:02 on 3 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:01:25 on 3 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Westfir (OR) reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>clear real photo graph of extraterestreli looked at the city of san diego official website and there i looked at there pictures in THe Historical Socity Automobiles   the is a picture of Irving and ((name deleted)) in rfront picture  and    ((name deleted)) in back     ""2 cylinder  Duro, C   1909.  it is a picture of a exterestrial with body guards. they snuck it out of town as a women .((NUFORC Note:  We do not understand what the source of the report is attempting to communicate.  We will correspond with him for clarification.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46756.html](http://www.nuforc.org/webreports/reports/046/S46756.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Bonifay (FL) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Silent, at tremendously high speed object seen flying north to south toward Panama City, FLOn Oct. 3, 2001, at about 11:00 a.m., I was a few yards west of our house when I noticed a large plane a little to my east slowly circling toward the north.  It is not unsual to see this type plane circling high above our place.  We live 45 miles North of the Panama City Ariport.  A little after I glanced up at the plane an object flew between me and the plane toward the south at a tremendous rate of speed.  I hardly had time to focus on it before it flew out of sight over the south horizon.  It was black and had a slight rectangular shape without wings or lights.  I estimated it to be about the size of a car, but it could have been much larger. I probably focused on it no more than 5 seconds. It made no sound and travelled much faster than any conventional craft that I have ever seen in my 63 years. It flew as straight as an arrow. I would never have known it was there if I had not already been looking at the nearby plane.  The boxy shape, plus the missile-like speed and silence makes it totally inconsistent with any flying craft I am familiar with.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20954.html](http://www.nuforc.org/webreports/reports/020/S20954.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/164/S164954.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164811.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165109.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164816.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165111.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
