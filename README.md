@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:21 on 2 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:01:47 on 3 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Klang (Malaysia) () reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>mysterious bright spot in pictures of solar hola from different persons, cameras, locations and nearly same timingi took 3 pictures of the sun when the solar hola was happening at that time. saw a same bright spot near the sun in al 3 pictures but at the different location within just a few seconds.later on that day, I saw a picture of the solar hola that my friend posted on facebook and the same bright spot was captured in the picture but at the different location near the sun.on the next day, 3rd oct 2012, i saw on the reporting of the solar hola in a local chinese newspaper with the similar bright spot appeared in the picture as well.How would 3 different cameras at 3 different locations in a same city and almost same timing captured a similar bright spot near the sun during the solar hola?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93279.html](http://www.nuforc.org/webreports/reports/093/S93279.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Miles City (MT) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>was sitting at my porch watching the evening sky,as i was watching i saw what i first thought was a plane comeing from the south ,we get alot of planes going by, but as i watchd i noticed it did'nt look like a normal plane nether did it move like one.it seem to slow way down,like it was hardly moveing, then change derection rather fast.i wonderd if it was a new military craft? what ever it was , it was'nt a regular plane((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53766.html](http://www.nuforc.org/webreports/reports/053/S53766.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [321](http://www.nuforc.org/webreports/reports/164/S164813.html)
-- [320](http://www.nuforc.org/webreports/reports/164/S164805.html)
-- [319](http://www.nuforc.org/webreports/reports/164/S164803.html)
-- [318](http://www.nuforc.org/webreports/reports/164/S164814.html)
-- [317](http://www.nuforc.org/webreports/reports/164/S164806.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
