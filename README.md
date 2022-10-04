@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:05:31 on 4 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:05:08 on 4 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Travelers Rest (Outside of; on 25 N) (SC) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>It was a white cigar shaped object that sat in a fixed point for over 15 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143372.html](http://www.nuforc.org/webreports/reports/143/S143372.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some '' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was on what is known as the West Mesa in Albuquerque, NM, one block south of Sage and about 1.5 blocks west of Coors, (new Coors) facing east.  The light seemed to appear suddenly over the airport, or maybe just north of it, sort of rising up.  It was a VERY bright white light, and appeared to be about half the diameter of the moon.  It then proceeded at a rapid rate, faster than conventional aircraft, taking only about 2-3 seconds to complete its northward journey. Then, it stopped and simultaneously turned red.  Then, it proceeded much more slowly back toward the airport at a slightly lower elevation.  It proceeded past the airport and that is when I stopped looking for it, as it was being lost behind trees.  Total sighting was a minute or more.I and two brothers who live nearby were on what is known as the West Mesa of Albuquerque, NM, about one to one and a half blocks west of New Coors and a little less than one block south of Sage.  The time was between (my guess) 02:30 and 03:30, Sunday morning 10/04/98.  I was facing east, the brothers west.  I saw it first, a very bright white light, similar in appearance to aircraft landing lights, but, it was a single light and much too bright to be aircraft landing lights.  It reminded me of an extremely powerful quart-halogen light.  It appeared over the airport or maybe just a little north of the airport, and then moved north, seeming, from our vantage point, to be just above the nearby Sandia Mountains.  Albuquerque is at about 5,000 feet above sea level, and the tallest peaks of the Sandias are about 10,000 feet.  Its travel time from north to south was only about 2-3 seconds.  I have watched aircraft circle and land at the airport here countless times.  The light's speed was at least 10 times that of the aircraft when they are approaching from the north before landing. From our vantage point, the light seemed to stop at about the same place as a couple of red marker lights on the nearby Sandias.  I was now facing slightly north, perhaps about 30 degrees north of east.  As soon as it stopped, the light became red.  The red was not as bright, but, it was far brighter than the aforementioned red marker lights.  Then, it reversed course and headed back toward the airport, but, now it was moving much more slowly.  It actually went past the airport when I stopped watching for it.  On its reverse course, it was at a slightly lower altitude and was disappearing and reappearing behind trees. Total sighting was a minute plus. There is a nearby trailer court that the light passed over (or seemed to pass over). The street lights in the trailer court went out when it passed over, both on its northward journey and its southward journey.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04505.html](http://www.nuforc.org/webreports/reports/004/S04505.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [365](http://www.nuforc.org/webreports/reports/164/S164820.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164848.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164807.html)
-- [362](http://www.nuforc.org/webreports/reports/165/S165018.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164808.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
