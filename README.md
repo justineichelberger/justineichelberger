@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:03:34 on 4 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:33 on 4 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Pitts (GA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>saw craft in pictures of moon after enlarging picturesMy wife and I were at her aunts house visiting.I went outside to look at the stars, the moon and stars were brivht so I decided to take a picture of the moon.I have the new LG G3 phone, it has 534 megipixcils p.s.i,  The most of any phone, and it proved it!  I was looking At the screen as I took the pix, and I instantly saw the craft on the screen when the camera on my phone took the pix.What the hell was that I said to myself, I looked at the picture and there was a small  check looking mark just above and to the left of the moon. I enlarged the picture and there was a Cigar shaped craft.  I instantly started taking more pictures of the moon and the sky around it. I saw in my screen a couple more objects.  I just keep taking pixs.  I end up with a couple more pixs of cigar looking craft and what I think is a gold looking saucer!   I HAVE the pictures to prove it, and will be glad to show it to and investigater.  I will not give the picture to anyone!  Ive been waiting, and trying very hard to catch them on camera, But everytime I see one its gone befofe I can get  a picture.its the most exciting  thing in the wrold. You can tell people and they act like they dont belive it or just dont care!  I do not understand it!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114332.html](http://www.nuforc.org/webreports/reports/114/S114332.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Scottsdale (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately still there - still there minutes.</sub><blockquote><sub>Summary : Location facing East at 01:57AM East being 12 like a clock face..look at 12:45-13:00 just above the horizon and just below a group of stars which are half way up in the sky..this light is brilliant like a diamond..it flashes red and is inconsistant in size..only had binocluars to view but it's brilliant with the naked eye..doesn't look like any star I've ever seen...it seems to change shapes as you look at it.  Anyone out there with information please email: relest@ibm.net It flashes red and brilliant white and seems to move as the earth rotates..Email…((Address deleted)) if you know what is is or even if it's just a star..Thanks</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02682.html](http://www.nuforc.org/webreports/reports/002/S02682.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [365](http://www.nuforc.org/webreports/reports/164/S164820.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164848.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164807.html)
-- [362](http://www.nuforc.org/webreports/reports/165/S165018.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164808.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
