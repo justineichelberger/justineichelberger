@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:29:26 on 4 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:21:32 on 4 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Utica (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A swarm of lights moving and making different shapes.I was at home at the back porch when I noticed up in the sky some bright lights, I ran to the front of the house and there were all my neighbors looking and pointing at the lights.I called mi friend to tell her about it since she lives in Utica too, she came out and saw them too, she took her camera out and took a video of them. There were about 30 lights or more, all together forming a swarm of lights just moving around and making different shapes, they were brighter than the stars that were around them and some of them changed colors, from white to baby blue. Some of the lights kind of got bigger and smaller , they moved around other lights at high speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72740.html](http://www.nuforc.org/webreports/reports/072/S72740.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Milford (CT) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>large rectangle with red lightslooking west watching commercial air traffic from nyc saw rectangle 4 red lights and a fifth in center object moved at high speed and right angles across sky it was below air traffic but at high altitude like a giant piece of plywood on end not flat rotated on end when it stopped and hovvered after about 15 to 20 minutes it raced of over horizon at high speed.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136675.html](http://www.nuforc.org/webreports/reports/136/S136675.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [365](http://www.nuforc.org/webreports/reports/164/S164820.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164848.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164807.html)
-- [362](http://www.nuforc.org/webreports/reports/165/S165018.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164808.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
