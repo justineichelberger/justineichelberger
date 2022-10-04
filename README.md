@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:51 on 4 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:01:15 on 4 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Hanover (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>Black Apache style helicopter chasing and orange ball of light.A black Apache helicopter or possibly something else similar in shape was chasing an orange ball of light heading NNW at about 300 feet and traveling at a speed of roughly 110-120 mph.This happened at 10:16 pm 10/04/16 on the north side of round lake (the bright blue one),   Jackson County, Michigan , Hanover-Horton round lake area  49246.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130449.html](http://www.nuforc.org/webreports/reports/130/S130449.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Huntsville (AL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Up close flying low tonight and 2 others within a month!It came from east and was headed towards Madison, going directly over Huntsville, Alabama. It had white lights all around the side facing me and made no noise at all.  It was very low in the sky.  Not much higher than the large tree tops it seemed. It was dark and I was outside walking my dog in the front yard, when it went from one end of the area across to the other heading towards Madison.  Which a friend of mine spotted one out that way a few days ago while driving in that area of which he also lives. This is the 3rd one I have seen in a months time.  The other 2 which were round, I saw at different times, first in Tunica, Mississippi and then here in Huntsville, Al.  I saw both of them at more of a distance and they were much higher up and these would zig zag briefly, reappear, repeat that performance and then disappear all together in the day light.  The 2nd one was over the Arsenal area here in Huntsville which I saw from my back yard!  I believe some of these ufo's are responsible for the illnesses that are going around this area at the time, this past month!  The first was like a flu but with severe depression like nothing I have felt or seen in others before. 2 weeks later there is one like a flu or bronchitis hitting so many people. I was shown a picture in a stone about 3 years ago that there will be a massive UFO hovering over the Arsenal area in Huntsville with a smaller round one coming out of it. It seems there are good ones and then there are others, maybe a war between them will occur? "War of the Worlds"</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46816.html](http://www.nuforc.org/webreports/reports/046/S46816.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [365](http://www.nuforc.org/webreports/reports/164/S164820.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164848.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164807.html)
-- [362](http://www.nuforc.org/webreports/reports/165/S165018.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164808.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
