@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:45:10 on 4 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:29:26 on 4 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Caldwell (ID) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Saw a large light change colors and eventually dim to nothing on El Paso Rd.My husband, our house mate and I were all standing out on our front porch, looking at the stars when we noticed a really bright light crest the hill about a mile away. I asked what it was and my husband said it was probably someone spotlighting, perhaps looking for deer. Our housemate said "Is there a road up there? Maybe it's a cop?" It grew brighter and they went inside. Then it started to rise above the hill. AT this point, it was still just a bright white light. I yelled inside, "you guys? It's rising and it's getting brighter." They were laughing at me and then came out to see. We all just watched it a minute and then it started to change colors. First red, then green, then blue. Then it went bright white again. They ran inside to find some binoculars and it was then it began to fad slowly. Almost like a candle going out when you cover the jar with something. Then it was just the size of all the other stars and then it was gone. This all took about 15 minutes. As for the backgrounds of the observers, I was raised Catholic and an army brat. Grew up mostly in Sierra Vista, AZ. JOined the Army where I met my husband. He grew up in Horseshoe Bend, ID. He was in the service for 8 years, myself for 4. He is a mechanic in Boise, ID. I stay home with our 2 kids. We have been married for 4 and a half years. Our housemate is a guy who works with my husband and needed a place to stay while going through a particularly nasty divorce.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14398.html](http://www.nuforc.org/webreports/reports/014/S14398.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Utica (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A swarm of lights moving and making different shapes.I was at home at the back porch when I noticed up in the sky some bright lights, I ran to the front of the house and there were all my neighbors looking and pointing at the lights.I called mi friend to tell her about it since she lives in Utica too, she came out and saw them too, she took her camera out and took a video of them. There were about 30 lights or more, all together forming a swarm of lights just moving around and making different shapes, they were brighter than the stars that were around them and some of them changed colors, from white to baby blue. Some of the lights kind of got bigger and smaller , they moved around other lights at high speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72740.html](http://www.nuforc.org/webreports/reports/072/S72740.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [365](http://www.nuforc.org/webreports/reports/164/S164820.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164848.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164807.html)
-- [362](http://www.nuforc.org/webreports/reports/165/S165018.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164808.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
