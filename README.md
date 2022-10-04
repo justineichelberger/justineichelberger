@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:12:26 on 4 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:05:31 on 4 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Hyattsville (MD) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Smooth electric engine sound flying above home but louder.I woke up to a strange sound at about 02:02am, not the sound of a plane or helicopter, a smooth sound like an electric engine car when it starts moving, but much louder.  I looked out the window and saw the unexplained craft fly above my home at a low height in the sky.  It flew from north to south.  A prime example, from the PG metro green line towards the West Hyattsville Green line direction.  I was the only one awake at the time.  At exactly 02:04, I took 2 pictures that I have saved on my phone of the craft.  It flew in a circle pattern in the south direction.  The craft had a grey texture of color, from what could be seen from the craft.  As it flew in an angle above heading south, the lights were really bright on the side with, what appeared to be in a triangle shape with really beautiful blue lights on the sides.  Then you could see the really, really bright lights on the front of the craft.  The craft was shape in a diamond shape, but a lot more flatter but not saucer shape. Then, just like in the movies, it shot out flying at a tremendous speed, heading northeast, with the same electric engine sound, but a lot more stronger than when it flew by above my home.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143362.html](http://www.nuforc.org/webreports/reports/143/S143362.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Travelers Rest (Outside of; on 25 N) (SC) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>It was a white cigar shaped object that sat in a fixed point for over 15 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143372.html](http://www.nuforc.org/webreports/reports/143/S143372.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [365](http://www.nuforc.org/webreports/reports/164/S164820.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164848.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164807.html)
-- [362](http://www.nuforc.org/webreports/reports/165/S165018.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164808.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
