@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:36 on 4 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:45:10 on 4 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in James Island (SC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Meteor?  Flash of brillant whiite light across sky in front of waxing full moon covered by cirrus clouds  - then a fireball about the visual size of one-half the full moon  trailed by red tail  - fireball so large that I was sure it would not extinguish before hitting earth but it burned out quickly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04511.html](http://www.nuforc.org/webreports/reports/004/S04511.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Caldwell (ID) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Saw a large light change colors and eventually dim to nothing on El Paso Rd.My husband, our house mate and I were all standing out on our front porch, looking at the stars when we noticed a really bright light crest the hill about a mile away. I asked what it was and my husband said it was probably someone spotlighting, perhaps looking for deer. Our housemate said "Is there a road up there? Maybe it's a cop?" It grew brighter and they went inside. Then it started to rise above the hill. AT this point, it was still just a bright white light. I yelled inside, "you guys? It's rising and it's getting brighter." They were laughing at me and then came out to see. We all just watched it a minute and then it started to change colors. First red, then green, then blue. Then it went bright white again. They ran inside to find some binoculars and it was then it began to fad slowly. Almost like a candle going out when you cover the jar with something. Then it was just the size of all the other stars and then it was gone. This all took about 15 minutes. As for the backgrounds of the observers, I was raised Catholic and an army brat. Grew up mostly in Sierra Vista, AZ. JOined the Army where I met my husband. He grew up in Horseshoe Bend, ID. He was in the service for 8 years, myself for 4. He is a mechanic in Boise, ID. I stay home with our 2 kids. We have been married for 4 and a half years. Our housemate is a guy who works with my husband and needed a place to stay while going through a particularly nasty divorce.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14398.html](http://www.nuforc.org/webreports/reports/014/S14398.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [365](http://www.nuforc.org/webreports/reports/164/S164820.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164848.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164807.html)
-- [362](http://www.nuforc.org/webreports/reports/165/S165018.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164808.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
