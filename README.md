@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:14:02 on 4 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:03:21 on 4 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Bright Unidentified Light(s) During Unusual LA ThunderstormOctober 6, 2021  On the evening of October 4th, 2021 Los Angeles was hit by powerful thunderstorms, the likes of which I've never seen in the 20 plus years I've lived here. I have a 180-degree view from my balcony and I was trying to capture photos and videos of the amazing lightning strikes with my phone camera. Helicopters fly around this neighborhood incessantly and while I noticed a bright light headed towards me to my left I assumed it was a helicopter, so I maintained my focus on the lightning strikes in the southeast. I sensed something fly over the balcony awning I was standing beneath. However, I didn't actually “see” this very fast, bright, seemingly triangular object until I scrolled through my images. Today, on closer inspection, I noted what appears to be a second similarly-shaped light flying at a similar speed in the far background. At first, I assumed this was an airplane flying in front of the storm to make its descent towards Los Angeles International Airport (LAX). LAX is southwest of where I was standing (to the right) in the video and images. I don’t think these are planes or helicopters. They are both moving way too fast. Unfortunately, the TV was on loud in the background and the wind was howling so I turned off the ringer on my phone. I might have picked up sound as well, had I known I would capture these images. I want to be clear that these images are authentic, unedited, and have not been tampered with in any way. Here's a link I created on Imgur.com:  https://imgur.com/a/pxPiOXR</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164848.html](http://www.nuforc.org/webreports/reports/164/S164848.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Brentwood (NH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Orange glowing orb flame-like no sound very slow 400 feet above stayed at elevation for 4 minutes then rose and dimmed and disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130460.html](http://www.nuforc.org/webreports/reports/130/S130460.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [365](http://www.nuforc.org/webreports/reports/164/S164820.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164848.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164807.html)
-- [362](http://www.nuforc.org/webreports/reports/165/S165018.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164808.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
