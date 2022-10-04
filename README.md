@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:19:03 on 4 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:07:13 on 4 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Crown Point (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Series of 3-5 lights seen multiple times in various formations, never making a sound or changing light intensity regardless of angle.UNEXPLAINED BRIGHT LIGHTS FLYING SLOWLY IN THE SKY OVER CROWN POINT, INDIANA.  FIRST NOTICED DUE TO OUR DOG GROWLING AT THEM.  THEY WOULD SLOWLY APPROACH FROM WHAT LOOKED LIKE A FEW MILES WEST OF MY LOCATION NEAR CROWN POINT HIGH SCHOOL, RISE INTO THE CLOUDS ROUGHLY OVERHEAD, THEN REAPPEAR FROM THE SAME DIRECTION A MINUTE OR TWO LATER, REPEATING THE SAME PATTERN.  EACH APPEARANCE WOULD LAST PERHAPS 5 MINUTES OR SO.  BETWEEN 3-5 WERE SEEN AT A TIME.  THEY WERE COMPLETELY SILENT, NEVER BLINKING OR CHANGING INTENSITY REGARDLESS OF WHERE THEY WERE, AND IN DIFFERENT GROUPINGS EACH TIME (CLOSE TOGETHER, SPREAD OUT,  RANDOM, STRAIGHT LINE, DIAMOND, CURVED LINE, AND TRIANGLE).  AFTER APPROX. 30 MINUTES AND 5-6 APPEARANCES, THEY ROSE INTO THE CLOUDS ONE BY ONE AND WERE NOT SEEN AGAIN.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137225.html](http://www.nuforc.org/webreports/reports/137/S137225.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Arnold (MD) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>10-4-2019 Round silver object flew up to & near plane in the sky. 10 seconds later it flew away st the speed of sounds & disappearedLooking over my parents house I saw a Airplane flying straight up into the sky with the white streak of smoke behind it. As I was watching it because it was going at such a straight up position I saw something fly towards the plane at a speed of light speed. It stopped near the plane in the air. The sun reflected in it for a few seconds so I could see it was round and silver color. It stayed near the plane for about 10 seconds then it flew off so fast, with the speed of sound and it disappeared into the sky. It absolutely could not have been anything else.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150366.html](http://www.nuforc.org/webreports/reports/150/S150366.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [365](http://www.nuforc.org/webreports/reports/164/S164820.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164848.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164807.html)
-- [362](http://www.nuforc.org/webreports/reports/165/S165018.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164808.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
