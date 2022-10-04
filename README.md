@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:38 on 3 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:02:29 on 4 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Naples (FL) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>oct,3,2013, 3:30 pm, cresent shaped craftfrom my lanai i observed a bright glowing white sphere shaped object, like a star moving from the south to the north @ an extreme rate of speed, at an approximate 45 degree angle.  as it approached it turned into a flaming orange fireball much larger in size.  i thought at first it was a very large meteorite coming into the atmosphere, witch was very alarming due to its size. it dropped to an altitude of about 30 degrees.  the fire that engulfed it began to extinguish from the bottom of the craft to the top in just seconds.  there was a small triangle marking on the bottom, possible a way to exit the craft.  no symbols or markings, a dull tannish color, no other seams in the exterior.  the front of the craft as it came closer resembled the hull of a boat that staggered half way up.  the top of the craft was rounded, no windows, no lights, no external weapons, no wings, no sound, no trail behind it.  it made a severe right angle turn at the same fast speed and disappeared into a big white thunder head and was gone.  at first i thought is was rectangular in shape, but as it banked the turn, it was actually more of a crescent shape. if it maintained the same direction it would have been miami probably within a few minutes.  october 3, 2013, thursday afternoon, between 3 and 4:00 p.m.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103755.html](http://www.nuforc.org/webreports/reports/103/S103755.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Lambertville (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Orbs spotted in the Lambertville Michigan areaAt approximately 9:15 p.m. In Lambertville. Michigan.  We spotted what appeared to be  orbs that kept coming from the same direction.  There was no particular type of flight pattern other than at the altitude they were flying.  They were all headed in a northeast direction towards Lake Erie.  There was absolutely no noise coming from them.  They were orangish red and were pulsing.   We have photos.    Some shot off quickly like shooting stars while others were traveling at a high rate of speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93311.html](http://www.nuforc.org/webreports/reports/093/S93311.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/164/S164954.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164811.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165109.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164816.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165111.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
