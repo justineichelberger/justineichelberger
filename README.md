@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:29 on 5 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:20:39 on 5 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Rio Grande City (TX) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Large cigar object floats and disappears over texas brushland, all in five secondsDriving north bound on Highway 755 from Rio Grande City, Texas, we were about 10 miles out. This is hilly country. Immediately after reaching the top of a hill I spotted a long cigar shaped,white colored object. The object was moving, almost hovering,over some brushland to the east of the highway. We drove in between hills and after reaching another hilltop,the object was no longer visible.  I was driving and my brother was riding shotgun.  We spotted the long object (about size of a full length tractor rig and trailer) at the same time. It was approximately 1500 hrs. No runways exist out there, no airports.  There was no sign of a crash. No dust or smoke. It was moving east at a very slow rate. There was no way it could have gone out of sight in the time it took us to climb the next small hill.Very strange and large object,shaped like a blimp.  The object reminded me of a C-5 Galaxy, an Air Force cargo plane,because of the way it was barely floating along, it was just above the brush. My brothers and I are all school administrator and were headed back from a golf outing. Only two of noticed the strange object. No way an object that big could have made its way out of our sight in five seconds. Strange, very strange.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34893.html](http://www.nuforc.org/webreports/reports/034/S34893.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Lebanon (PA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Bright white spheres remaining stationary in the daytime sky above our home.We saw two round bright white objects in the daytime sky.  They did not move from the spots above our house, for more than 45 minutes.  They looked very small due to how high in the sky they were.  My husband has pictures of them on our digital camera.  One did appear to split in half, then the two parts merged back together, it happened within a second of the split.  The other moved a little closer.  At times it appeared that the spheres had "tails", but would always resume their spherical shape, and did not move from their positions in the sky.  When an airplane was moving in their direction, they moved out of the way of the airplane, then back to their original position.  In one of the pictures that my husband took, it appears that there is a line of lights down the center of the sphere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149500.html](http://www.nuforc.org/webreports/reports/149/S149500.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164851.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164822.html)
-- [414](http://www.nuforc.org/webreports/reports/165/S165097.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164815.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165105.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
