@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:06:26 on 5 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:18:04 on 5 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Seaside (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>White lights over Pacific Ocean.While sitting outside on a clear night star gazing on Oct 5, 2013, at approx 8:30 pm, my fiance and I noticed a bright white light moving just above the horizon of the Pacific Ocean off of Seaside Oregon.  It was bigger & brighter than a star, planet, or satelite.  It disappeared.  We immediately noticed another white bright light to the south of the first light, however this one stayed stationary for some time.  We continued watching it until it lowered slowly, and was then behind Tillamook Head and out of our view.  I live about 2 mi from the beach at about 600ft and have seen lights in the same location a number of times.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103033.html](http://www.nuforc.org/webreports/reports/103/S103033.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Stuart (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>not sure what i sawI was looking into the sky and saw a light traveling across.  It seemed to fast to be a plane but too slow to be a meteor.  I pointed it out to my friend and we layed back in my truck and just started to watch the sky. After a few minutes another appeared out of the same direction (all came from the north and headed south) headed straight for a while and just disappeared.  We saw about 15 in all, some made very erratic movements, nothing ive seen a plane ever do, nor do I think a plane could do.  I could not make out a description of what the aircraft looked like but judging by the movements I dont think it was your ordinary run of the mill plane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46846.html](http://www.nuforc.org/webreports/reports/046/S46846.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164851.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164822.html)
-- [414](http://www.nuforc.org/webreports/reports/165/S165097.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164815.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165105.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
