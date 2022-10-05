@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:02:00 on 5 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:29 on 5 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Kalaeloa (HI) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Strange huge, diamond shaped, noiseless craft over Kalaeloa, HI on 10/05/11 at 20:00hrs.On October 5, 2011 my son and I saw an unidentifiable flying object in the sky over Kalaeloa, HI, at 8:00pm on Geiger Road.The object was massive.  It was triangular in shape from the side view and diamond shaped when viewed from the bottom.  It had three levels of lights (two green, two red, and two white).  The under carriage was brown and had two dark circles on the upper part of the diamond.  There were two arch shaped lines over the diamond.We noticed this on our way to Kmart.  It was to our left and it was turning onto it’s right side until it was completely vertical and the only thing that we could see from the road was the under side of it.  It then completed a right turn and leveled back off.  All of this movement and turning was done while it hovered in one area.  It then flew off northwest of Oahu toward the sea.  All of this was done low to the ground and without giving off any sound.My son is in the military and has never seen an aircraft of this size.  It was huge.The whole sighting lasted about 4 minutes.Did anyone else report seeing anything that night?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85276.html](http://www.nuforc.org/webreports/reports/085/S85276.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Rio Grande City (TX) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Large cigar object floats and disappears over texas brushland, all in five secondsDriving north bound on Highway 755 from Rio Grande City, Texas, we were about 10 miles out. This is hilly country. Immediately after reaching the top of a hill I spotted a long cigar shaped,white colored object. The object was moving, almost hovering,over some brushland to the east of the highway. We drove in between hills and after reaching another hilltop,the object was no longer visible.  I was driving and my brother was riding shotgun.  We spotted the long object (about size of a full length tractor rig and trailer) at the same time. It was approximately 1500 hrs. No runways exist out there, no airports.  There was no sign of a crash. No dust or smoke. It was moving east at a very slow rate. There was no way it could have gone out of sight in the time it took us to climb the next small hill.Very strange and large object,shaped like a blimp.  The object reminded me of a C-5 Galaxy, an Air Force cargo plane,because of the way it was barely floating along, it was just above the brush. My brothers and I are all school administrator and were headed back from a golf outing. Only two of noticed the strange object. No way an object that big could have made its way out of our sight in five seconds. Strange, very strange.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34893.html](http://www.nuforc.org/webreports/reports/034/S34893.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164851.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164822.html)
-- [414](http://www.nuforc.org/webreports/reports/165/S165097.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164815.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165105.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
