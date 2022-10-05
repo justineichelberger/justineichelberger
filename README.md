@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:20:39 on 5 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:24:47 on 5 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Lebanon (PA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Bright white spheres remaining stationary in the daytime sky above our home.We saw two round bright white objects in the daytime sky.  They did not move from the spots above our house, for more than 45 minutes.  They looked very small due to how high in the sky they were.  My husband has pictures of them on our digital camera.  One did appear to split in half, then the two parts merged back together, it happened within a second of the split.  The other moved a little closer.  At times it appeared that the spheres had "tails", but would always resume their spherical shape, and did not move from their positions in the sky.  When an airplane was moving in their direction, they moved out of the way of the airplane, then back to their original position.  In one of the pictures that my husband took, it appears that there is a line of lights down the center of the sphere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149500.html](http://www.nuforc.org/webreports/reports/149/S149500.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Monroe (CT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A ball of red light, slightly rippled.We looked up and saw a bright light in the sky moving very slowly and upwards.  The light was circular and in the sky.  It did not look like a plane and that is what made us think it was a UFO.  It continued to travel over our heads instead of in front of us.  We realized it had suddenly started moving very quickly then it literally made a 90 degree turn extremely fast and started moving in the other direction.  It was moving extremely fast and was high in the sky and looked very odd.  We took a picture of it and when we tried it ended up looking very odd, almost like ripples on the water.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136571.html](http://www.nuforc.org/webreports/reports/136/S136571.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164851.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164822.html)
-- [414](http://www.nuforc.org/webreports/reports/165/S165097.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164815.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165105.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
