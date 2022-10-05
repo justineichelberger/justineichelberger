@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:06:55 on 5 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:07:46 on 5 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Lyman (ME) reported seeing craft that fit the description of some 'Formation' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Multiple pointed circular shere, void center, very bright, very stable in shape, not moving, very high.Looked into the WSW early morning sky viewed a large bright light circular in shape but with several triangular points possibly as many as 10 points in circular fashion forming a defined circle but void of light in the center.  I woke my partner up to view it as well and it was confirmed I was seeing something very unusual.   Went outside in the back yard where there is no artificial light and object appeared not to be moving, was extremely bright, and positioned WSW approximately 1:30 clock position in the sky.  I watched it for another 10 minutes until clouds moved in and obscured the object.  It appeared to be very high in altitude but was very stable, not moving, not varying in shape, and had very defined triangular shaped points that were very bright.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84362.html](http://www.nuforc.org/webreports/reports/084/S84362.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Enid (OK) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Object tracked from north to south high in sky, became bright, stopped in mid flight and disappeared.Object tracked from north to south high in the sky.  It was bright like stars, but then became extremely bright, stopped in mid flight, dimmed down and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84343.html](http://www.nuforc.org/webreports/reports/084/S84343.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164851.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164822.html)
-- [414](http://www.nuforc.org/webreports/reports/165/S165097.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164815.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165105.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
