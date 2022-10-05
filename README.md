@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:01:18 on 5 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:02:00 on 5 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in St. Petersburg (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Crescent shaped UFO grace the sky and head towards the moon on St. Pete BeachWalking along the beach after my sweet 16 birthday party, it was around 2:45 - 3:00 in the morning.  I was showing my friends my favorite star cluster, the Pleiades.  Upon explaining why I like them so much, one of my four friends with me pointed at the sky and said, "Whoa, what is that?"  We all looked quickly.  My best friend and I saw what we can only describe as a fast moving object in the shape of a half circle, with a little dip in the middle, flying towards the moon on the horizon.  It was relatively far away, as if it was just gracing ((sic.  Grazing)) our atmosphere, but it was still pretty big.  It was the color of the sky, which was black since it was nighttime, except a few shades lighter; so, like a blueish-grey.  It was moving fast, but slow in the same time; just very smoothly.  It headed towards the moon, until finally it faded out.  My sister, and friend that pointed out the UFO, say they saw something with red lights that kind of looked like an airplane.  However, they were under the influence of drugs that night, where as my best friend and I were not.  After seeing the UFO, I got a very happy and bubbly feeling in my chest.  It was amazing!  I will never forget that night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115879.html](http://www.nuforc.org/webreports/reports/115/S115879.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Kalaeloa (HI) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Strange huge, diamond shaped, noiseless craft over Kalaeloa, HI on 10/05/11 at 20:00hrs.On October 5, 2011 my son and I saw an unidentifiable flying object in the sky over Kalaeloa, HI, at 8:00pm on Geiger Road.The object was massive.  It was triangular in shape from the side view and diamond shaped when viewed from the bottom.  It had three levels of lights (two green, two red, and two white).  The under carriage was brown and had two dark circles on the upper part of the diamond.  There were two arch shaped lines over the diamond.We noticed this on our way to Kmart.  It was to our left and it was turning onto it’s right side until it was completely vertical and the only thing that we could see from the road was the under side of it.  It then completed a right turn and leveled back off.  All of this movement and turning was done while it hovered in one area.  It then flew off northwest of Oahu toward the sea.  All of this was done low to the ground and without giving off any sound.My son is in the military and has never seen an aircraft of this size.  It was huge.The whole sighting lasted about 4 minutes.Did anyone else report seeing anything that night?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85276.html](http://www.nuforc.org/webreports/reports/085/S85276.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164851.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164822.html)
-- [414](http://www.nuforc.org/webreports/reports/165/S165097.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164815.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165105.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
