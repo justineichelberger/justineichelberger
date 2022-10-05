@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:18:04 on 5 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:06:55 on 5 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Stuart (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>not sure what i sawI was looking into the sky and saw a light traveling across.  It seemed to fast to be a plane but too slow to be a meteor.  I pointed it out to my friend and we layed back in my truck and just started to watch the sky. After a few minutes another appeared out of the same direction (all came from the north and headed south) headed straight for a while and just disappeared.  We saw about 15 in all, some made very erratic movements, nothing ive seen a plane ever do, nor do I think a plane could do.  I could not make out a description of what the aircraft looked like but judging by the movements I dont think it was your ordinary run of the mill plane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46846.html](http://www.nuforc.org/webreports/reports/046/S46846.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Lyman (ME) reported seeing craft that fit the description of some 'Formation' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Multiple pointed circular shere, void center, very bright, very stable in shape, not moving, very high.Looked into the WSW early morning sky viewed a large bright light circular in shape but with several triangular points possibly as many as 10 points in circular fashion forming a defined circle but void of light in the center.  I woke my partner up to view it as well and it was confirmed I was seeing something very unusual.   Went outside in the back yard where there is no artificial light and object appeared not to be moving, was extremely bright, and positioned WSW approximately 1:30 clock position in the sky.  I watched it for another 10 minutes until clouds moved in and obscured the object.  It appeared to be very high in altitude but was very stable, not moving, not varying in shape, and had very defined triangular shaped points that were very bright.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84362.html](http://www.nuforc.org/webreports/reports/084/S84362.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164851.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164822.html)
-- [414](http://www.nuforc.org/webreports/reports/165/S165097.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164815.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165105.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
