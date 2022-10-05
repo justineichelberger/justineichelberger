@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:01:08 on 5 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:03:13 on 5 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in  (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>long triangle with three lights , and three military helicopters?A long triangler light not airplane too big and long!  Three lights,also saw three military helicopters on the same day?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114281.html](http://www.nuforc.org/webreports/reports/114/S114281.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Idaho Falls (ID) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright neon flashes seen across city along with power outages, and a molten-gold colored disk with smaller disks coming off of it.We were all in the garage listening to music at late hours of the night. My friend and I noticed a very bright, aqua-blue flash in the window and at first disregarded it but then the power started cutting in and out along with the flashes, so we got very curious, and decided to investigate.By now the rest of the crew inside noticed it too, and it was quite the sight. It was the early, darkest hours of the morning but the sky was ablaze as if the sun were up, only in strange, neon colors. The best way to describe it would be like a massive lens going across a light source that was as bright as the sun in mostly variations of blue and green, but also with some brief flashes of pink and red colors. To get an idea of how bright it was, at least two other people that weren't with us at that house saw the light too with the same intensity and they were at least a few miles across town!  These lights went on for at least another 5 minutes, and all the while, the power was cutting in and out which had to have meant there was an EMP or something like that. Another part of this experience is very noteworthy. We also noticed a floating object in approximately the southeast direction of the sky. It looked like a huge disk made of molten gold, almost like how photos of the sun look. It also had about five other smaller disks that looked the same, attached by some type of energy bolts.Just like that, it was all over.  We were all exhilarated, afraid, and amazed.  Most of us described it as "the sky getting hax-ed."  Ever since I've wondered if there was some type of glitch in reality as we know it, or if there's some type of technology we haven't been told about, or if we were visited by extraterrestrial or extra-dimensional beings.  Whatever it was, there had to have been amazing power behind it to do the things it did.  I've also looked for answers as to if it could have been a power outage, the Northern Lights, or meteors, and none of those explanations make sense.  I checked the news and there wasn't a single report of it. It still boggles my mind to this day, so I'm still looking for similar accounts and telling people about it whenever it comes up.I hope something other-worldly like that visits me again someday!  But if it was some low-key technology, I hope the government grows a pair and informs the public. The search continues, I guess!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104135.html](http://www.nuforc.org/webreports/reports/104/S104135.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164851.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164822.html)
-- [414](http://www.nuforc.org/webreports/reports/165/S165097.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164815.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165105.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
