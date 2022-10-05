@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:42 on 4 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:02:25 on 5 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Lynnwood (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright white light over Lynnwood, WA, hovers for about 10 minutes, before slowly moving East.Somewhere around 10:00am on October 4, 2010, looking West from I-5 in Lynnwood.A fellow employee noticed a super bright white light in the sky west of lynnwood through his office window and asked if I saw it.  The skies were mostly clear with the upper clouds moving east and the lower clouds moving to the north.  I would guess the object was between the cloud layers.The object sat stationary for about 10 minutes.  It seemed to get smaller, and then back to its original size when we first saw it.  All 5 of us were speculating as to what it may be but nothing made much sense to me.  The brightness never changed during the entire event, even when it appeared smaller or slowly flew directly overhead to the east.  Just a very bright white light.At one point it looked like a triangular shape, at another point it looked like a baloon shape - could not really tell from the naked eye.  I don't know what it was, but a jet cannot hover, I think a weather balloon would have been influenced by the winds and would not have moved east at a faster pace than the clouds, and a reflection of the sun off a metallic object would have changed as it flew directly overhead and been more yellow in color.One person believed he saw a halo shape above it.I am not sure what it was.  It was too far to see a definate shape or hear any noise from it.  Probably a rational explanation, but perhaps other have seen it or may know what it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78155.html](http://www.nuforc.org/webreports/reports/078/S78155.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Arizona?? (AZ) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>TV photos of cigar shaped craft sighted on 10/5/2002.  Note data on photos.I was in Az in Oct and saw a lead in on 10 PM news broadcast.  Fell asleep and never saw actual report.  Searched papers next day for info and found none.  Tried web and found none.   A few weeks later, I downloaded these pics from web..but didn't keep track of site.  Discovered when I found your site that a similar event occured on 10/21 in the East.  Adds validity that this truly is a UFO.  Shape indicates it is a high speed craft with little need for normal wings.  Can anyone shed more light on the event of 10/5?  These photos appear to have been shot from a TV screen.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26853.html](http://www.nuforc.org/webreports/reports/026/S26853.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [365](http://www.nuforc.org/webreports/reports/164/S164820.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164848.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164807.html)
-- [362](http://www.nuforc.org/webreports/reports/165/S165018.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164808.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
