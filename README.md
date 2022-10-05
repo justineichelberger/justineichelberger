@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:47 on 5 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:41 on 5 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Sebastian (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Late at night, we went out to take a video of the clouds lighting up from lightning.  All of a sudden appeared was off to the right in the clear sky... a red ball glowing and moving slowly towards us.  It had no sound or anything just appeared very close about 1,000 feet up from the water, in the sky. moved from south from north as it approached us and then head straight east.  It moved slow like maybe 25 miles per hour. then it just moved away straight out over the Sebastian bridge.  Then the red glowing light went out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122556.html](http://www.nuforc.org/webreports/reports/122/S122556.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Conway (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Strange green orb of light fell behind woods by my houseA Strange green orb went over the woods behind my house and behind the tree line and seemed to slowly descend as it went past.((NUFORC Note:  Source of report elects to remain totally anonymous; provides no contact information.  We suspect that the sighting occurred at 11:20 p.m., not a.m., so we have amended the time above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136758.html](http://www.nuforc.org/webreports/reports/136/S136758.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164851.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164822.html)
-- [414](http://www.nuforc.org/webreports/reports/165/S165097.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164815.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165105.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
