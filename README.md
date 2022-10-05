@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:45:03 on 5 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:29:21 on 5 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Fairfax (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately Ongoing - Ongoing minutes.</sub><blockquote><sub>4-5 objects flying to center and shooting back out.  The center point appeared to move Southeast over 30 minutes over tall buildings and then to Rt 29.  Few flashes of light on film spotted but no rain or lightning visible as an eye witness.  Called cop I know in neighboring Vienna and he witnessed the same Lights, formation to center, moving southeast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149546.html](http://www.nuforc.org/webreports/reports/149/S149546.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Biddeford (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Balls of light that are not airplanes don't move like these thingsI was closing my window when I saw a white light with a flashing red light.  At first i thought it was a plane but a plane passed by it and then started to show a bluish green light while moving side to side effortlessly.  I went outside to get a better look and noticed 6 other, much smaller, balls of light moving.  I thought they were stars but stars don't move nor do they get brighter or dimmer like these did.	After 30 minutes,  several of the smaller balls of light disappeared.  One is still going side to side and the first one I noticed seems to be staying close by it.  I don't know if I was seeing this right, but, I thought it looked like some of the balls of light were shooting at each other.  I only say this because I saw faint white streaks coming from a few of these lights and other lights would move in a different direction as though they were dodging them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122574.html](http://www.nuforc.org/webreports/reports/122/S122574.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164851.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164822.html)
-- [414](http://www.nuforc.org/webreports/reports/165/S165097.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164815.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165105.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
