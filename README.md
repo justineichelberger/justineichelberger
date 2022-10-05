@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:10:38 on 5 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:01:08 on 5 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Two "Exhaust Port" white lights streaking across the sky in Albuquerque that instantly vanished.Two white lights streaked across the sky from the East travelling West at the intersection of Coors and Central. Lights appeared to be exhaust ports, and were at the rear of craft.  There was a large building behind me, so I did not see the trajectory until the object was directly overhead. At first, I thought it was a meteorite, but there were two lights spaced a small distance apart.  Also, Albuquerque has a high amount of air traffic, and I was looking at planes at the time.  This object was lower in altitude then any planes in the area.  Lights vanished before reaching the horizon.  There was absolutely no sound whatsoever.  The object moved too fast to see any discernable shape.  Object moved incredibly fast in a straight line.The observer was alone at the time, and works in Technical Support for a large corporation.  I would just like to know if anyone else saw the same object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66072.html](http://www.nuforc.org/webreports/reports/066/S66072.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in  (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>long triangle with three lights , and three military helicopters?A long triangler light not airplane too big and long!  Three lights,also saw three military helicopters on the same day?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114281.html](http://www.nuforc.org/webreports/reports/114/S114281.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164851.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164822.html)
-- [414](http://www.nuforc.org/webreports/reports/165/S165097.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164815.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165105.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
