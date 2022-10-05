@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:14:53 on 5 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:16:29 on 5 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Ridgeway (Canada) (ON) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Very bright light shining in bedroom window I woke up at 3.30 am and went to washroom.  Rinsed out my mouth and returned to bed.I was just getting comfortable again when a flash of light opened my eyes. The bedroom appeared as if there was a bright moonlit night.  Then a very bright light was shinining threw the window as if searching my bedroom for something.  The bright light went from bottom of window to top of ceiling and only lasted seconds.I reluctantly went to the window and peaked threw window blind but could not see anything.I find this very disturbing and would like to know if any other reports from the area have come to your attention.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78198.html](http://www.nuforc.org/webreports/reports/078/S78198.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in King County (above) (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Flashing red, green, and white lightsWoke up to see odd feature, a bright flashing.  Thought it was a very odd satellite and then noted movement.I could see varying colors of lights, red definitely, then green and white.  They appeared to rotate horizontally.I placed a 1/2" sticky dot on my window pane and stood in a position so that the dot blocked the object.It moved slowly but steady to the south after hovering at each spot for several minutes.It was too high to be a helicopter.  Too deliberate to be a plane.I watched it for 1.5 hours then returned to sleep.I'll be looking for it again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122565.html](http://www.nuforc.org/webreports/reports/122/S122565.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164851.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164822.html)
-- [414](http://www.nuforc.org/webreports/reports/165/S165097.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164815.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165105.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
