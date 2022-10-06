@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:02:51 on 6 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:10:38 on 6 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Ocean Beach (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I have a picture of an orange UFO, that i did not see with the nake eye (951) 323-((number deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93429.html](http://www.nuforc.org/webreports/reports/093/S93429.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Fort Wayne (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>While looking at a beautiful rainbow in the sky, a co-worker and I saw several shining objects near the rainbow.  They looked like glitter.  We were cleaning a hospital room, and paused to gaze at the rainbow, when we saw 5 to 7 glittery objects in the sky.  She said to me, "Do you see those things?  Or am I just crazy?" (Or something to that effect).  I said that I saw them too.  At that point they disappeared and instantly reappeared in another location of the sky, but still close to the rainbow.  We looked at them for a few more seconds, then they were gone.  As we cleaned the room we continued to watch for them, but they did not return.  Then about a minute later, we noticed a double rainbow!  The second was not as vivid as the first.  The glittery objects did not return.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114292.html](http://www.nuforc.org/webreports/reports/114/S114292.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/164/S164821.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164951.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164826.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165108.html)
-- [351](http://www.nuforc.org/webreports/reports/164/S164828.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
