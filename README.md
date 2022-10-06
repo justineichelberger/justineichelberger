@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:49 on 6 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:42 on 6 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Oakdale (CT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Triangle UFO, bright white lights at each corner. 35ft long by 20 feet wide in back. Black craft, silent, went 35 MPH, 150ft off groundTriangle shaped UFO. Flew over neighborhood in front of us, while we were stopped at a stop sign. Craft had bright white lights at each corner. It flew SILENTLY, for 3 seconds before a house obstructed our view. We tried to follow it but, could not find it. it flew from Northwest to Southeast about 150 feet in the air. it was about 35 feet long and 20 feet wide at the back end. It traveled about 35 miles per hour.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159804.html](http://www.nuforc.org/webreports/reports/159/S159804.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Richmond (VA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>A star fades into nothing and then slowly flashed (brighter than the North Star) and fades away again 3 times changing positions.A star (no brighter than any other star) faded into nothing. 20 seconds later, in the same spot it flashed brighter than the North Star.  It was a slow flash.  About a minute later, slightly to the right, it flashed again.  It did this 2 more times.  It was not an airplane, not a satellite, not anything I can figure out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122611.html](http://www.nuforc.org/webreports/reports/122/S122611.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/164/S164821.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164951.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164826.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165108.html)
-- [351](http://www.nuforc.org/webreports/reports/164/S164828.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
