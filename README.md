@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:12:48 on 6 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:04:43 on 6 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Metallic triangle at a high speed, appeared to have a hole on the bottom.I was driving home with my bud, and we went down a hill I looked out the window and saw a triangle flying at a high speed in the sky, told him to look at it, and then it was gone a few seconds later. Looked metallic and appeared to have a hole on the bottom, but I couldn't be sure.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164827.html](http://www.nuforc.org/webreports/reports/164/S164827.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Grants Pass (just outside Merlin) (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>black object move across cloudy night skyit was appx. one am on oct 6 2011 it was very cloudy but the moon had just broke thru so with the moonlight the rest of sky was grey i looked out window to right oppisite moon to see if stars were visable yet  then i saw it                     it was a large circular black object it was below the clouds it had no visual lights on it                it was a couple shades darker than the clouds it was traveling northwest to southeast not fast but not to slow it stayed steady speed and course          it was close enough to make out that it had squares looked like could have been windows that ran the lenght of the side that i could see  but no light coming from there either               i called for my husband to bring the camera but by the time he got there and got camera on and ready it was gone so he missed it and what a site he missed couldnt believe what i was seeing i never saw anything like it now i watch every night but havent seen it since       really bummed i couldn't get a picture it was so close</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84509.html](http://www.nuforc.org/webreports/reports/084/S84509.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/164/S164821.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164951.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164826.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165108.html)
-- [351](http://www.nuforc.org/webreports/reports/164/S164828.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
