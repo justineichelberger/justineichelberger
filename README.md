@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:47 on 6 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:42 on 6 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Marietta (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Slow and low flying triangular craft with lights some blinking with a slight engine soundThe craft was triangular shaped with oval lights.  It was flying low enough that we thought it was a helicopter at first, but not so low that we could make out much detail.  It was moving very slow and had a quiet engine roar.  It definately had red lights and pretty sure that it had white lights, maybe blue (very patriotic I know).  The other peron said that perhaps it had some type of rear tail wings but I didn't see them.  It could have been some type of experimental plane because it didn't seem all that other-worldly except that it was triangluar, pretty quiet and flying so slow.  We also saw lots of planes flying around in the night sky that were up much higher.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39656.html](http://www.nuforc.org/webreports/reports/039/S39656.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Spring Hill (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Unidentified object in Florida.Well I was out in front of my house putting up the top to my convertible, when I heard a very low gargle sound... I looked in to the sky, and saw a plane in the NE sky, But what was strange, when you see a plane in the sky, your hear the engines after the plane begins to pass over, but I heard it before, so I asumed that there was something else. I looks to the West, and saw a Light about 100 feet over the tree line. It was moving very slow.  I was watching for a few seconds, when the gargle sound started getting very loud, and the light accelarated towards the the N.W. It picked up speed, and was out of sight in seconds...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26489.html](http://www.nuforc.org/webreports/reports/026/S26489.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/164/S164821.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164951.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164826.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165108.html)
-- [351](http://www.nuforc.org/webreports/reports/164/S164828.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
