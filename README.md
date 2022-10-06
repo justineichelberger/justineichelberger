@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:01:17 on 5 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:02:46 on 6 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Topsfield (MA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Neon Green fireball looking thing.. hit tree then shot up into the sky...Well... I was in the car and i was in the seat right behind the driver (my dad) and we were driving on a woodsy area and i was looking at the stars and then i saw this neon green fireball looking thing.  it floated down and hit a tree then shot back into the sky... it happened in about 30 seconds... and i think i was the only one that saw it((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27610.html](http://www.nuforc.org/webreports/reports/027/S27610.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Johannesburg (Kempton Park) (Republic of South Africa) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>RSA, slient, bright orange, moving slowly, one did two 90° turns, + 4 sets of 3, photos came out very well.Kempton Park,  Johannesburg, near JHB international,  They were silent, orange in colour, moving very slowly, there might have been more before, 4 sets of 3, one of them did two ninty degree turns (Right, left), photos came out very well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93392.html](http://www.nuforc.org/webreports/reports/093/S93392.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164851.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164822.html)
-- [414](http://www.nuforc.org/webreports/reports/165/S165097.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164815.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165105.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
