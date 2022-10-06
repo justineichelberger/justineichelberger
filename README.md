@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:02:03 on 6 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:42 on 6 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 240.0 - 240.0 minutes.</sub><blockquote><sub>white object appearing to be round with 5 cylinders protruding from bottomI am not sure what a weather balloon looks like so I am not sure what I was seeing.  I have never made a report before.  I was checking a tree in my back yard and looked up, almost direct overhead, high altitude was a white, but almost opaque but milky, filmy look, when the sun hit it glinted as if hitting bright reflection.  It looked at if something was protruding from the bottom.  I got my field glasses and through the glasses saw 5 cylinders coming from the bottom extending slightly out at the outer sides as if it could be a landing apperatus.  This object hovered for about an hour and a half then started moving slowly to the west where it disappeared around 2:30 to 3pm.  I would have not made this report but my daughter in Kansas mentioned she had heard of new sightings recently in Phoenix and Tucson.  I can't find any reports although a friend said she heard it mentioned on television that some had seen what I did and they did not know what it was.  I did take two pictures but I am not sure what they will show as I have not had the film developed.((NUFORC Note:  Description is somewhat reminiscent of a high-altitude helium balloon.  Please see entries for 04OC00.  We will attempt to resolve this one.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14454.html](http://www.nuforc.org/webreports/reports/014/S14454.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Skamania (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Dimming light varying speeds in sky until it disappearedI totaled my car and had to walk 7 miles home. I was walking west on HWY 14 in darkness when I saw the sky light up. I looked up to see a very bright light moving across the sky as it continues to get dimmer. The light reduced to about the brightness of a star and maintained that brightness for about 15 seconds. The light moved  around the sky varying speeds until is dimmed completely and disappeared into the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159870.html](http://www.nuforc.org/webreports/reports/159/S159870.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/164/S164821.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164951.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164826.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165108.html)
-- [351](http://www.nuforc.org/webreports/reports/164/S164828.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
