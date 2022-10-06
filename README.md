@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:04:51 on 6 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:41 on 6 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Davie (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>two circular lights that dissapeared in the night sky.Looked like two circular lights going in a straight line for two seconds and then dissappeared.  No sound whatsoever and moving lightspeed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84370.html](http://www.nuforc.org/webreports/reports/084/S84370.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Piedmont (MO) reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>5 bright erratically objects moving in all directions at once , 1 with a large perfect  circle around it dancing erratically .Two adults  star gazing ! bright roundish shape light ,starts dancing erratically. Then another on the right, coming toward it got brighter,Stop evenly distance and both were dancing erratically, and then a third on the left, not quite as bright, but all three lined up,darting back and forth. there was lightning and we could see like a round orb around the  first middle one .  Then after aprox.30 mins. of dancing back and forth and up and down they started to fade out as if moving ,suddenly we spotted another, just like them dancing crazy all  over, completely apart from them to the the far right of the sky, and then another to the far left of it, acting the same ,they to were moving in all directions,seemed to have a blueish has with those two and then they as well faded .  while all of this commotion going on we seen four shooting stars ,one was so bright it looked as if it would stay lit and land in the lake. but burnt out,completely,we had night vision gogg! les with batteries , we stood there and just put them in, it went dead.  Could not get it to turn back on. a beautiful light show. lightning was far off ,but present.  This was clearly not planes ,and i have never seen satellites so close to each other moving in a formation together in all directions</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149579.html](http://www.nuforc.org/webreports/reports/149/S149579.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/164/S164821.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164951.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164826.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165108.html)
-- [351](http://www.nuforc.org/webreports/reports/164/S164828.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
