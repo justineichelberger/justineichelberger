@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:14:10 on 6 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:12:48 on 6 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Union (NJ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Saw a red oval light in the sky over my house at 10:52 pm on 10/6/16, it looked like it was going to collid with a plane, in an instant moved diagonally away from the plane with such speed it couldn't be a helicopter then moved up and down and as the plane was passing look like it was going to chase the plane then stopped and hovered for 5 secs and kind of zig zagged away with tremendous speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130486.html](http://www.nuforc.org/webreports/reports/130/S130486.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Metallic triangle at a high speed, appeared to have a hole on the bottom.I was driving home with my bud, and we went down a hill I looked out the window and saw a triangle flying at a high speed in the sky, told him to look at it, and then it was gone a few seconds later. Looked metallic and appeared to have a hole on the bottom, but I couldn't be sure.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164827.html](http://www.nuforc.org/webreports/reports/164/S164827.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/164/S164821.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164951.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164826.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165108.html)
-- [351](http://www.nuforc.org/webreports/reports/164/S164828.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
