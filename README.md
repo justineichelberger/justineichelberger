@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:34 on 6 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:44:02 on 6 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Ottawa (Canada) (ON) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>silver-green large luminous ufo appearing in the night sky seemingly out of nowhere falling to the earth in rapid speed.I cannot fill in the time due to your system not accepting any version I enter. It was 11:15 pm.  The "craft was very large (hard to determine the size given the distance is undetermined, perhaps several hundred metres away)  It was luminous silver and green in color and it appeared out of nowhere.  It was not a meteor, nor a comet, as I have seem many over the years.  I have seen several of theses over the last few months, but normally they are silver and it appears they like to hover around the trees in the neighbourhood and in particular, around the parking lot where I live.  Last fall, I saw many orbs, some white some red travelling through the parking lot...no idea what the attraction is in this particular spot.  My husband and I have been seeing ufo's for over 20 years, get the feeling we are being tracked.  We have moved about 10 times in 25 years and yet they continue to appear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136672.html](http://www.nuforc.org/webreports/reports/136/S136672.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Topeka (KS) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Not a real believer, but what were those lights.This probably isn't anything to get in a stir about. I was outside having a beer.  And when I am outside I have a tendency to look up to view the jets fly by.  Kansas City airport has aircraft fly out all the time and I usually say to myself " Well that should be me." That approximate night, I looked up and saw the clouds.  They were normal no big deal.  Then the clouds illuminated just a bit.  One of 3 lights came through them, the lights rotated and went back up into the clouds.Nothing else has happend but I rarely go out and check anyways.  Not a big thing on the top of my list. It could be something else like a helicopter.  But by my estimations.  One of the lights could probably fit two or three heli's inside.  And the clouds were very high up as well.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63979.html](http://www.nuforc.org/webreports/reports/063/S63979.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/164/S164821.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164951.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164826.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165108.html)
-- [351](http://www.nuforc.org/webreports/reports/164/S164828.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
