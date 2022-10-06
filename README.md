@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:44:02 on 6 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:28:54 on 6 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Topeka (KS) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Not a real believer, but what were those lights.This probably isn't anything to get in a stir about. I was outside having a beer.  And when I am outside I have a tendency to look up to view the jets fly by.  Kansas City airport has aircraft fly out all the time and I usually say to myself " Well that should be me." That approximate night, I looked up and saw the clouds.  They were normal no big deal.  Then the clouds illuminated just a bit.  One of 3 lights came through them, the lights rotated and went back up into the clouds.Nothing else has happend but I rarely go out and check anyways.  Not a big thing on the top of my list. It could be something else like a helicopter.  But by my estimations.  One of the lights could probably fit two or three heli's inside.  And the clouds were very high up as well.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63979.html](http://www.nuforc.org/webreports/reports/063/S63979.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Victor (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A small, white, ping-pong-like ball approached my car.I was exiting the 490 East expressway at the Eastview Mall Exit 28 when I stopped at the light at the exit intersection of Route 96.  It was about ten at night and the night was clear.  The intersection is lighted brightly by the rosy bright highway lights.  It looked as if it was daylight at night.  I was the first car at the light waiting to turn left.As I looked straight ahead, I saw an object sort of hovering about four feet off the ground.  My first thought was, “Wow, what a big dragonfly!”  It was flying like and acting like a dragonfly, with the same zigzag, stop-and-go movements.  It flew toward my car, approaching the passenger side hood.  When it got this close I could see that it was a small white ball.  It looked like a ping pong ball!  It seemed to have something sticking out of it and moving, but I cannot really say what it was.  It paused near the top of my hood and then came to the passenger side window.  It stopped, “looked” at me for a second, and then continued past my car. I really felt like it saw me.  The light turned green so I turned because there was a car behind mine. I did not see where it went.I went home and told my 14 year-old son about it.  I told him it reminded me of the Quidditch ball in the Harry Potter movies.It is so unbelievable that I can’t comprehend what I saw.  It could have been some kind of probe.  Someone suggested that it could have been a toy, but this was an isolated area at night and, after seeing it up close, it did not appear to be something that has been developed yet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71945.html](http://www.nuforc.org/webreports/reports/071/S71945.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/164/S164821.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164951.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164826.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165108.html)
-- [351](http://www.nuforc.org/webreports/reports/164/S164828.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
