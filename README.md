@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:47 on 7 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:36 on 7 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Ronkonkoma (NY) reported seeing craft that fit the description of some 'Egg' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Same object flashing red yellow green white for 90 min in NW sky daily since 9-23-08I reported a sighting on 9/23/08 - This is the same thing and it appears every night since that night at the same time.  I checked the J-track website to see if a satellite was what I was seeing.  There were no visable satellites at that time. I called my mother who live 30 miles west of me and made her look at it. She could see that it was NW in the sky from her and was blinking slightly from red to white. It moves across the NW sky on long Island (north of the LIE)for about 90 minutes then is gone. Tonight I showed my husband and we looked through binoculars. It is egg shaped and has a series of lights flashing red-yellow-green and white around the perimeter. The center is black. I would love to know what this is. As stated it has been there every night to date from 9-23-08. I am sure it will be in the same spot tomorrow night moving the same pattern. Planes are also passing this object as there are 2 major airports in that direction. I am outside every night at that time with my dog I would have seen it prior to 9-23-08 which is the very 1st sighting.((NUFORC Note:  Twinkling star??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66104.html](http://www.nuforc.org/webreports/reports/066/S66104.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Kennett (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>3 lights shaped a pyramid without sound low to the groundWe didnt see it close up it had 3 lights on it. One at the top and two on bottom the right bottom one and top one disappeared first then the left bottom one. My friends and I were outside talking and one of my friends said ooh look and pointed to the sky and one of my friends thought that it was missiles and ran and the other one started to run but seen that i was dumbfounded and couldnt move and came back. we watched it for a while and then it went away just disappeared couldnt tell if it had sound with it cause we had music blasting. it didnt look to far away but we couldnt tell the shape or anything except by the lights. it seemed pretty low. seemed to hover in one spot for a while and then went away. I dont believe it was like an alien spacecraft but I believe it was something strange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19777.html](http://www.nuforc.org/webreports/reports/019/S19777.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [345](http://www.nuforc.org/webreports/reports/164/S164916.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164855.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165181.html)
-- [342](http://www.nuforc.org/webreports/reports/164/S164858.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164906.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
