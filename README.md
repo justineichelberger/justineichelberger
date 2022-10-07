@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:06:38 on 7 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:43 on 7 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Ronkonkoma (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>3 objects spotted over exit 59 on LIE3 circular looking craft over the long island expressway near exit 59.  The objects were arranged in a triangular formation, with 2 in perfect alignment and one slightly out of alignment, to form a sort of lopsided triangle.  After seeing the objects, my view was blocked by a row of trees.  When I circled back around to the same spot (approx. 2 minutes later), the objects were gone.  Immediately following this event helicopters could be seen and heard circling the area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114329.html](http://www.nuforc.org/webreports/reports/114/S114329.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Malmesbury () reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Malmesbury Aliens in Somerfield AreaWhile popping to the local Somerfield to pick up some sandwiches for lunch, I witnessed 4 large oval craft flying over the nearby park area. One of the craft (the largest), suddenly emitted some kind of "tractor beam", which shone directly into the carpark I was walking through, and engulfed my work colleague, Mark Pearson, in a blinding ray of light. Frightened that the alien craft were trying to "haul" my colleague into their ship, I pushed him out of the way of the circle of light, hopefully releasing it's grip on him. We both sprinted into the supermarket, and all was normal in the car park when we came out 10 minutes later with our lunch.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39665.html](http://www.nuforc.org/webreports/reports/039/S39665.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [345](http://www.nuforc.org/webreports/reports/164/S164916.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164855.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165181.html)
-- [342](http://www.nuforc.org/webreports/reports/164/S164858.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164906.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
