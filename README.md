@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:02:27 on 7 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:02:14 on 7 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Melbourne Village (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>approx 20 min. after a large military transport passed over, six disk shaped,bright white objects in a wide v formation.they were at aboutthe same altitude as the jet(fairly low)but,made absoutly no noise.They all flew north to south a normal route for milatary aircraft as we are located very close to the coast line and approx. 35 miles south of Patrick A.F.B. andKenndy Space Center. The disk appeared to be individual craft about the size of a modern fighter plane rather,Speed approx. 2oo to 300 MPH,clear sky,no clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25486.html](http://www.nuforc.org/webreports/reports/025/S25486.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Oakland (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Two Objects Give Off a Bright Flash High in the Sky While Moving at Speed.At precisely 20:20 hours, I looked up into the sky, and high in the night sky, I would say many miles up, I saw two objects of some sort, which were clearly distinguishable as being individual objects, simultaneously emit a pure white flash, and then move in tandem at speed in a N/w direction.  I saw a single bright flash of light at a similar time and location about a month ago. ...  I am 6o years old, with no time for games. ...  These were not conventional aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114315.html](http://www.nuforc.org/webreports/reports/114/S114315.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [345](http://www.nuforc.org/webreports/reports/164/S164916.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164855.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165181.html)
-- [342](http://www.nuforc.org/webreports/reports/164/S164858.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164906.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
