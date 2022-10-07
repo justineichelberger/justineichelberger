@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:02:55 on 7 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:06:38 on 7 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Monongahela (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Twilight Fly-by Of Triangular CraftTuesday, October 07, 2008 05:50 EST Working on paperwork at my office for a meeting with a vendor that afternoon, I went outside to grab a pack of cigarettes out of my car.  Afterwards I began to scan the sky, as it was an exceptionally clear night.  I saw the usual streaks across the sky from debris hitting the atmosphere.  I remained scanning for quite some time that morning.06:03 EST Looking out at Orion, I noticed a star-like object moving through the constellation.  As the object approached the Belt area it got brighter and brighter; To the point that it was brighter than Jupiter or Venus, for that matter.  It stayed that way for 10 seconds or so, then it began to dim in luminosity as it cleared the last star of the belt of Orion.  It became as dim as it was when I first noticed it in the sky moving in the same direction.  I watched this object for some two minutes in total, as it faded towards the horizon.  I figured that I just saw a satellite.  It got brighter when the Sun reflected off of it…Or so I thought.06:12 EST Like the first object, there was another.  Following the same path as the first.  Only this one did not increase brightness.  Note:  These objects did not follow the usual air traffic flight paths through the Pittsburgh area.  The sky was clear enough to see strobes from aircraft at 60,000 ft.  From my perspective, these were not aircraft.06:23 EST With daylight approaching, looking up facing the southern sky, a triangular shape flew overhead at incredible speed.  It was as fast as an incoming meteor, but this thing changed direction from southwest to west.  It headed towards the horizon where the first two objects faded away.  It made no sound.  There were no lights of any kind.  There was enough light from the twilight of morning to ID its shape.Just thinking about how big it had to be boggles my mind.  This thing was 2 to 2-1/2 inches from my perspective.  If it went by in space; Isn’t that close to 160 miles up?  That means it had to be more than a mile wide or more.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66218.html](http://www.nuforc.org/webreports/reports/066/S66218.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Ronkonkoma (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>3 objects spotted over exit 59 on LIE3 circular looking craft over the long island expressway near exit 59.  The objects were arranged in a triangular formation, with 2 in perfect alignment and one slightly out of alignment, to form a sort of lopsided triangle.  After seeing the objects, my view was blocked by a row of trees.  When I circled back around to the same spot (approx. 2 minutes later), the objects were gone.  Immediately following this event helicopters could be seen and heard circling the area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114329.html](http://www.nuforc.org/webreports/reports/114/S114329.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [345](http://www.nuforc.org/webreports/reports/164/S164916.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164855.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165181.html)
-- [342](http://www.nuforc.org/webreports/reports/164/S164858.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164906.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
