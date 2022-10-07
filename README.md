@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:05:30 on 7 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:04:01 on 7 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Hellertown (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>No stars in the sky.  Object with 3 amber lights that did not move for 15-20 min. until it slowly  disappeared in the sky.Not a star in the sky.  Looking South there was something where I could see 3 amber lights glowing, shaped in a triangle, just sitting in the sky for 15-20 min.  Never moved position until it slowly disappeared in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164916.html](http://www.nuforc.org/webreports/reports/164/S164916.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Fairfield (IA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>This Fairfield report of group of 5-6 lights is one of 3 reports at same time on same night in IowaVERY IMPORTANT - THIS IS ONE OF 3 SIGHTINGS ON THE SAME NIGHT AT ABOUT THE SAME TIME (7:30 p.m. in SE Iowa, and somewhere between 7:30 - 8:00 p.m. in Des Moines Metro area)in Iowa, witnessed by individuals in the 3 locations who are not acquainted with one another.  FIRST sighting - reported directly to MUFON - was in SE Iowa at a farm fishpong near the tiny town of Belknap, in the Unionville area.  SECOND sighting (reported to NUFORC as follows: 10/8/2003 12:50/21 AM 00:50) was this Fairfield sighting, some 30 miles away from the Belknap/Unionville area.  THIRD sighting (reported to NUFORC as follows:  10/17/2003 10:36:26 PM 22:36) was in Urbandale (Des Moines Metro area).  ALL WITNESSES report a GROUPING OF SEVERAL LIGHTS (at least 5 or 6), with Belknap and Fairfield reporting the silent lights at somewhere between 10,000 to perhaps 25,000 feet altitude, moving fast:  Fairfield, with considerable surrounding vegetation, had sighting duration of about 25 seconds; Belknap (2 men in open country at a fishpond)sighting duration was perhaps one minute; Urbandale reported lights moving very very slowly at estimated altitude of 2,000 feet, with total sighting duration of somewhere around 5-6 minutes, until surrounding vegetation obscured the view of the 2 witnesses.  Investigators assess all these witnesses as thoughtful,observant persons trying to relate as accurately as possible what they perceived.  Total of 5 witnesses among the 3 sightings, this present Fairfield sighting having only 1 witness.MUFON Investigators involved among the three reports: Beverly Trout, Glen Singley, Pam Brackenbury, and Clair Canfield.((NUFORC NOTE:  We express our gratitude to Beverly Trout, State Director for MUFON/IOWA, and to her co-investigators, for following up on this case, and for reporting the results here.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34156.html](http://www.nuforc.org/webreports/reports/034/S34156.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [345](http://www.nuforc.org/webreports/reports/164/S164916.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164855.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165181.html)
-- [342](http://www.nuforc.org/webreports/reports/164/S164858.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164906.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
