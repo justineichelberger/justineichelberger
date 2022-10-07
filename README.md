@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:43 on 7 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:03:31 on 7 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Malmesbury () reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Malmesbury Aliens in Somerfield AreaWhile popping to the local Somerfield to pick up some sandwiches for lunch, I witnessed 4 large oval craft flying over the nearby park area. One of the craft (the largest), suddenly emitted some kind of "tractor beam", which shone directly into the carpark I was walking through, and engulfed my work colleague, Mark Pearson, in a blinding ray of light. Frightened that the alien craft were trying to "haul" my colleague into their ship, I pushed him out of the way of the circle of light, hopefully releasing it's grip on him. We both sprinted into the supermarket, and all was normal in the car park when we came out 10 minutes later with our lunch.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39665.html](http://www.nuforc.org/webreports/reports/039/S39665.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Uvalde (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>One minute after watching the space station I witnessed two different UFOsMe and my mom were outside watching the space station fly over Uvalde, Tx, at approximately 820 pm about 1 min after the space shuttle flew over and was almost not visible any longer.  The first UFO came from the south west heading east/orth east.  It came from the same area that the space station came from and was moving much faster then a satellite could move and was a bit brighter then a satellite.  Then under a clear sky it went dark then illuminated a bit kind of like a blink an then disappeared.  No aircraft I know of can move so fast.  Then amazed by this I started looking around and saw a shooting star.  Shortly after I witnessed a satellite.  Then while watching the satellite I noticed what I thought was a star blink or glew brighter then took off and was gone in a flash.   My mom witnessed both and her friend on the phone saw the first UFO as it was visible longer and the reason her friend also saw the first UFO was because we were watching the space station together.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103043.html](http://www.nuforc.org/webreports/reports/103/S103043.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [345](http://www.nuforc.org/webreports/reports/164/S164916.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164855.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165181.html)
-- [342](http://www.nuforc.org/webreports/reports/164/S164858.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164906.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
