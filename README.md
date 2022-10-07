@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:03:40 on 7 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:32 on 7 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Freedom (PA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 oval shaped objects met in sky and hovered closely.When sitting outside at night tonight I witnessed one typical jet fly over head. The jet was recognizable and had normal noise coming from above. After the regular jet craft passed by residence, three smaller oval shaped crafts were spotted in the place of origin in the sky around where the jet first originated.They were all the same size. There was no visible trails coming from them and there was no engine noise heard throughout the entire sky. One oval had two white lights that flashed over to one red light, alternating back and forth every few seconds. The other two ovals had only one flashing white light that alternated to one red light every few seconds as well.Once the plane passed and the ovals were sighted the one with three lights flew straight up very slowly in a straight vertical line and the other two met lower in the sky towards the middle of the sky more. The oval with three flashings lights, that flew straight up then flew side ways/down to join the two lights lower down. All three of the ovals lights alternated throughout this entire period.After they were stationary in the sky for about a minute, the oval with three lights quickly flew on the path that the jet has just passed over a few minutes earlier, over the residence. The other two ovals stayed stationary for a few more seconds and then slowly drifted in the complete opposite direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159823.html](http://www.nuforc.org/webreports/reports/159/S159823.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Lake California (Cottonwood) (CA) reported seeing craft that fit the description of some 'Cone' over a period of approximately Several minutes - Several minutes minutes.</sub><blockquote><sub>Two bright cone shaped cloud like patterns trailing very bright object flying, pausing in erratic pattern overhead on very clear night10/7/18 - About 7:20 p.m.  Clear night sky.  Not cloudy.  Cottonwood, CA near Redding, CA.  Actually sited up over Lake California out of Cottonwood.  Saw bright, object flying over sky North to South with downward pattern, then upward, then seeming to be still.  Would change directions.   It had two cone shaped white spray like things coming out of it in back of its trajectory.  Stopped car and watched it for a couple of minutes - then went home close by to get binoculars for closer look.  Could not see it from house - either behind trees across street or was gone.  Really strange looking and moving in abnormal pattern resembling flight.  Very bright white light.  Was shocked to see many similar reporting when Googled it.  Found this reporting sight.  Seen by elderly couple driving home from Bible Study.  One has Master's Degree and the others has some college education.  This was very unsettling.((NUFORC Note:  Launch of Falcon 9 rocket from Vandenberg AFB.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143403.html](http://www.nuforc.org/webreports/reports/143/S143403.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [345](http://www.nuforc.org/webreports/reports/164/S164916.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164855.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165181.html)
-- [342](http://www.nuforc.org/webreports/reports/164/S164858.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164906.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
