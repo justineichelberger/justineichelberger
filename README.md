@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:36 on 7 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:35 on 7 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Kennett (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>3 lights shaped a pyramid without sound low to the groundWe didnt see it close up it had 3 lights on it. One at the top and two on bottom the right bottom one and top one disappeared first then the left bottom one. My friends and I were outside talking and one of my friends said ooh look and pointed to the sky and one of my friends thought that it was missiles and ran and the other one started to run but seen that i was dumbfounded and couldnt move and came back. we watched it for a while and then it went away just disappeared couldnt tell if it had sound with it cause we had music blasting. it didnt look to far away but we couldnt tell the shape or anything except by the lights. it seemed pretty low. seemed to hover in one spot for a while and then went away. I dont believe it was like an alien spacecraft but I believe it was something strange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19777.html](http://www.nuforc.org/webreports/reports/019/S19777.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Hicksville (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>There were three balls of white light flying around each other and flickering in and out and changing shape.I was driving home and saw three round balls of light flying around each other in circles, and also flickering in and out of the sky (western sky) while waiting at a traffic light.  I videoed one of them by zooming up on it with my iphone.  The object changed shapes while I was videoing it and then it got larger and sped up and flew away.  As I continued to drive home, I saw a trail like you would see coming out of the back of a jet moving at a very fast speed but there was no plane or anything else at the beginning of it (also in the western sky).  The trail stopped abruptly and a ball of light came out of it and then disappeared.  Both of these events happened in the same area of the sky looking west just south of Manhattan.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133783.html](http://www.nuforc.org/webreports/reports/133/S133783.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [345](http://www.nuforc.org/webreports/reports/164/S164916.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164855.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165181.html)
-- [342](http://www.nuforc.org/webreports/reports/164/S164858.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164906.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
