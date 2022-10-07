@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:18:10 on 7 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:13:33 on 7 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Athol (ID) reported seeing craft that fit the description of some 'Circle' over a period of approximately Athol, ID 3:26 - Athol, ID 3:26 minutes.</sub><blockquote><sub>Seen a bright object in two separate pictures.  Have two pictures of the bright circle.On october 7th, 2018 at approximately 3:26pm, I was located in Farraguat State park facing Nort East.  I wanted to take some scenery pictures a few with the sunset in Which i did, not long after observing the photos i noticed in 2 seperate pictures two bright circles in different areas of the photos.  2 bright lights in the shape of a circle.  A bright white, greenish circle.((NUFORC Note:  Lens flares.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143462.html](http://www.nuforc.org/webreports/reports/143/S143462.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Trio (SC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Red orb of light.While sitting in a tree stand, I noticed a reddish round light right above the tree line moving pretty quickly in a straight horizontal line then it vanished.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143427.html](http://www.nuforc.org/webreports/reports/143/S143427.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [345](http://www.nuforc.org/webreports/reports/164/S164916.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164855.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165181.html)
-- [342](http://www.nuforc.org/webreports/reports/164/S164858.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164906.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
