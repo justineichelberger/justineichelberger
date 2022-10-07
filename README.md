@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:03:28 on 7 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:57 on 7 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Goshen (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>3 white lights traveling south at tree level.  Goshen, Ohio.I saw 3 white lights in a row come from high in north sky they stayed in formation then came down to just above the tree level and traveled south in a straight line.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136601.html](http://www.nuforc.org/webreports/reports/136/S136601.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Something strange above in phoenixCoworker and I spotted an object dark in color traveling southwest above us while we were outside on break.  It was a clear blue day I looked up and saw this object and I asked him if he saw it too.  He replied that he saw it and said it probably the Russians in a joking way.  It traveled faster than normal civilian aircraft we see above altitude to me looked at least 10,000 feet.  Granted we see all types of aircraft fly over our building due to us being in the flight path of aircraft taking off and landing at Phoenix sky harbor airport.  There was no noise when it flew over.  Tried to keep watching it but it flew out of sight due to building in the way.  Couple minutes later I looked again and the object was now west of us and it made a tight turn and vanished.  There was no reflection from the sun on this vehicle.  I really don't know what this was.  My coworker is a 20 year air force veteran with flight status who flew on the e-4b for a number of years.  I am a air force brat who traveled on all sorts of aircraft civilian and military and was working on private pilot license.  Hope this make sense.  Thanks!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122624.html](http://www.nuforc.org/webreports/reports/122/S122624.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [345](http://www.nuforc.org/webreports/reports/164/S164916.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164855.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165181.html)
-- [342](http://www.nuforc.org/webreports/reports/164/S164858.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164906.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
