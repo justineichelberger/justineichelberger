@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:39 on 8 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:13:28 on 8 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Salmon Arm (Canada) (BC) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>walking with a cigar shaped object  white/yellowoct,8 2003,was a rainy day all day and into the night.It started to clear up around 20:00 hours,me and my girlfriend went into town on foot after the rain stoped..on are way back home,around 22:00 hrs,we make it to the end of are long straight road i was looking up into the stars,looked to my left at Mount Ida and this very bright object was just hovering way above the mountain to the right of it i asked my girlfriend "do u see that'..i pointed up in the sky, yes i do she replyed "it looks cigar shaped dont it" i said to her i was just hovering there swaying side to side i knew it was no aircraft,weather crafts or satlite..{where still walking and stoping along the way} it had white and yellow lights flickerin very bright,it seemed to be following us along the way,kind of weird moving slowly with us..i started to notice its altitude increasing/decreasing up and down swaying.it looked like it had long wings with alot of bightness in the center flickering,also seen two flashes around the object,it stoped moving just left over are house,im lookin out the window and its still hovering as i write this report out..this is are first sighting,very interesting     "the truth is out there"</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32126.html](http://www.nuforc.org/webreports/reports/032/S32126.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Natchez (MS) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Very bright fast moving orb(s)I walked outside to smoke and looked up at the sky thinking how clear and bright all the stars looked the dog next door was braking I figured he saw a deer or something.  Something caught the corner of my eye and I looked I saw a goldish yellow orb rise above the tree line I was facing southwest and it move impossibly fast to the east back down behind the tree line then to the north I saw another or same one shoot up and out of sight. It all happened in line a second or two kinda hard to explain but it was very bright but not shining if that makes any sense....</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103049.html](http://www.nuforc.org/webreports/reports/103/S103049.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [413](http://www.nuforc.org/webreports/reports/164/S164933.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165198.html)
-- [411](http://www.nuforc.org/webreports/reports/165/S165006.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164909.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164859.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
