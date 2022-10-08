@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:28:34 on 8 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:13:49 on 8 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Warren (MI) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Large, Silent V shaped craft. Dark grey with very dim lights on leading edge.Large wing craft, V shaped with the point as the front of the craft.Very dim lights on the leading edge of the wing.  The body was dark grey to black in color.  The craft was around 2 to 3 wing spans of  a 747.  Made no sound as it flew from north to south over Warren headed to Detroit.  No visible engine exhaust as it flew by.Did not turn or slow down was traveling at approximately 200 to 300 mph.Was not a jet aircraft, had no beacons or landing lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130515.html](http://www.nuforc.org/webreports/reports/130/S130515.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Heredia (Costa Rica) () reported seeing craft that fit the description of some 'Other' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>I saw an object shaped like a butterfly, with flapping wings or layers, coming down and sharply made a u-turn upwards. It was just above a cloud hanging on top of the Zurqui mountians. Facing towards the Atlantic ocean.. The color was a bright yellowish, like a giant glow-worm. It was not big.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19844.html](http://www.nuforc.org/webreports/reports/019/S19844.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [413](http://www.nuforc.org/webreports/reports/164/S164933.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165198.html)
-- [411](http://www.nuforc.org/webreports/reports/165/S165006.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164909.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164859.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
