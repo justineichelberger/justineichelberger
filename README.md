@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:02:23 on 8 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:22 on 8 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Hayward (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>objects moved strangely and had very bright colorssunday aftaernoon around 2 i was observing the sky with binoculars 20x50.when i saw awhite object in eastern sky.the object look round and was not moving.object then began to drop down lower in the sky.the object then began going up again at a right angle and would move to the left and then to the right.i watched the object for sevral mintues when second object apered to the left of the first object.i then scaned the sky and saw 5 more objects moving around each other going up and down side to side and staying sill.objects were white gold and green.i wached the objects for over an hour before objects vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14466.html](http://www.nuforc.org/webreports/reports/014/S14466.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Arthur (NE) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>Very bright light 4x size of Mars.I was returning to my house after having shut chicken house up for the night when i saw this large (approx. 4x the size of Mars) bright steady light moving south easterly from the north and as it neared the proximity of the full moon, it faded from sight. I'm guessing I observed it for approximately 20-25 seconds as I stood still and watched to see if it became visable again. It didn't. I returned to the house to write down the sighting and went back outside to observe the moon and Mars as it's a gorgeous quiet night. The object was approximately 25-30 degrees from the eastern horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32121.html](http://www.nuforc.org/webreports/reports/032/S32121.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [413](http://www.nuforc.org/webreports/reports/164/S164933.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165198.html)
-- [411](http://www.nuforc.org/webreports/reports/165/S165006.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164909.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164859.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
