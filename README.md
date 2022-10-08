@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:33 on 8 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:02:33 on 8 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Warren (MI) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Large, Silent V shaped craft. Dark grey with very dim lights on leading edge.Large wing craft, V shaped with the point as the front of the craft.Very dim lights on the leading edge of the wing.  The body was dark grey to black in color.  The craft was around 2 to 3 wing spans of  a 747.  Made no sound as it flew from north to south over Warren headed to Detroit.  No visible engine exhaust as it flew by.Did not turn or slow down was traveling at approximately 200 to 300 mph.Was not a jet aircraft, had no beacons or landing lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130515.html](http://www.nuforc.org/webreports/reports/130/S130515.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Motley/Cottle Counties (TX) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I was traveling from Lubbock, TX to Cee Vee, TX (Cottle County) and 17.4 miles from Matador, TX, on Friday, 10/08/04, and I saw a large triangular object (2 lights, space, 2 lights, then two lights below and in between the top sets.  It sat in the same position approximately 1000 feet (hard to judge just after dark, but this is approximate) off the ground.  I drove toward the area and it stayed stationary.  I pulled off the road to view it and it was as though they turned off their lights.  It just disappeared!   When I got to Cee Vee, my nephew reported that several friends of ours, hunting on one of our farms, had seen three lights (separate units) over the farm, and they took camcorder pictures of the event.  On Sunday, October 10th, I viewed their pictures and it was unbelievable!  I told them I thought I had seen the "mother ship".  Their lights changed alternatively white to red.  Mine didn't.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39737.html](http://www.nuforc.org/webreports/reports/039/S39737.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [413](http://www.nuforc.org/webreports/reports/164/S164933.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165198.html)
-- [411](http://www.nuforc.org/webreports/reports/165/S165006.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164909.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164859.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
