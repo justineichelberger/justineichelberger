@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:34 on 8 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:38 on 8 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Binghamton (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Multiple red lights over Binghamton, NYI was walking north Broad Ave and notice in the South East sky that 16-26 red lights rose slowly in the sky and as they rose the top one's disapeared and and more kept raising.They were bright red lights moving slowly making no noise and vanishing soon after reaching a point in the sky.I called 911 and made 2 reports and noone came to take my report,   i guess they took me as a hoax. but there was up to a dozen people watching this event.I did manage to take a few photo's and a short video with my iphone but it hard to determine the size or what the lights are.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84412.html](http://www.nuforc.org/webreports/reports/084/S84412.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>3 white spheres/ovals in a triangular formation, fixed in position. Very high in the sky but not as high as stars would look.  Over San Francisco Bay/Alcatraz during Blue Angels airshow. After about 10 mintues in fixed position, they began drifting east, still in formation.  Then they dissapeared.  No quality camera was available to capture.  Sighting was very similar to this photo http://www.easterfilms.com/UFOs-hovering-over-city.jpg</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46893.html](http://www.nuforc.org/webreports/reports/046/S46893.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [413](http://www.nuforc.org/webreports/reports/164/S164933.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165198.html)
-- [411](http://www.nuforc.org/webreports/reports/165/S165006.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164909.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164859.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
