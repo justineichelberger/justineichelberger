@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:13:49 on 8 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:10:56 on 8 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Heredia (Costa Rica) () reported seeing craft that fit the description of some 'Other' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>I saw an object shaped like a butterfly, with flapping wings or layers, coming down and sharply made a u-turn upwards. It was just above a cloud hanging on top of the Zurqui mountians. Facing towards the Atlantic ocean.. The color was a bright yellowish, like a giant glow-worm. It was not big.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19844.html](http://www.nuforc.org/webreports/reports/019/S19844.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Carroll (OH) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was outside and I looked up and saw a high altitude airplane going overhead.  As I was watching it, this white cylinder shaped object (smaller than the plane) was flying behind it, spinning in all directions, following at the same speed as the airplane.  Then, it sped up getting closer to the airplane.  As soon as it did, it veered off to the left and it flew out of sight. I didn't hear any sounds other than the plane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149683.html](http://www.nuforc.org/webreports/reports/149/S149683.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [413](http://www.nuforc.org/webreports/reports/164/S164933.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165198.html)
-- [411](http://www.nuforc.org/webreports/reports/165/S165006.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164909.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164859.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
