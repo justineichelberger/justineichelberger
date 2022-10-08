@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:06:37 on 8 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:33 on 8 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Bellevue (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Bright white light going north to southI saw a bright white light going north to south over Lake Sammamish on Oct 8th at approx 7:45 pm. It was seen for about 7 seconds. It seemed to hesitate twice. I could view about 10 miles of the sky where it was seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10155.html](http://www.nuforc.org/webreports/reports/010/S10155.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Warren (MI) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Large, Silent V shaped craft. Dark grey with very dim lights on leading edge.Large wing craft, V shaped with the point as the front of the craft.Very dim lights on the leading edge of the wing.  The body was dark grey to black in color.  The craft was around 2 to 3 wing spans of  a 747.  Made no sound as it flew from north to south over Warren headed to Detroit.  No visible engine exhaust as it flew by.Did not turn or slow down was traveling at approximately 200 to 300 mph.Was not a jet aircraft, had no beacons or landing lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130515.html](http://www.nuforc.org/webreports/reports/130/S130515.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [413](http://www.nuforc.org/webreports/reports/164/S164933.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165198.html)
-- [411](http://www.nuforc.org/webreports/reports/165/S165006.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164909.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164859.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
