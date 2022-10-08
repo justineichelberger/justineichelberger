@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:42 on 8 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:50 on 8 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Boulder (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>V shaped flying wing with lights in the whole shape of the wing like apartment lights or living area lightsSaw a very large object that looked like a giant flock of birds a first that's what I thought it was was a flock of goose flying at night but then all of the v shaped object had lights on the whole object flying overhead about cloud level no sound just soaring south with lights in whole portions of the v shaped wing object.  I have heard of other people reporting these v shaped flying wings and was very excited that I got to see one.  I tracked it for about 5 seconds then it was gone, they make no noise so it's very hard to pick up on them you have to only look with your eyes, I believe that is how they go undetected as they are completely quiet and move very fast but graceful through the night sky's.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103669.html](http://www.nuforc.org/webreports/reports/103/S103669.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in New Bedford (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately still going on - still going on minutes.</sub><blockquote><sub>I was standing on my front porch and thought I was looking at star but then they started moving.  There was at least 20 slow moving objects were all west.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114356.html](http://www.nuforc.org/webreports/reports/114/S114356.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [413](http://www.nuforc.org/webreports/reports/164/S164933.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165198.html)
-- [411](http://www.nuforc.org/webreports/reports/165/S165006.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164909.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164859.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
