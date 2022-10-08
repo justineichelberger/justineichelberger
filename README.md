@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:35 on 7 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:02:23 on 8 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Hicksville (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>There were three balls of white light flying around each other and flickering in and out and changing shape.I was driving home and saw three round balls of light flying around each other in circles, and also flickering in and out of the sky (western sky) while waiting at a traffic light.  I videoed one of them by zooming up on it with my iphone.  The object changed shapes while I was videoing it and then it got larger and sped up and flew away.  As I continued to drive home, I saw a trail like you would see coming out of the back of a jet moving at a very fast speed but there was no plane or anything else at the beginning of it (also in the western sky).  The trail stopped abruptly and a ball of light came out of it and then disappeared.  Both of these events happened in the same area of the sky looking west just south of Manhattan.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133783.html](http://www.nuforc.org/webreports/reports/133/S133783.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Hayward (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>objects moved strangely and had very bright colorssunday aftaernoon around 2 i was observing the sky with binoculars 20x50.when i saw awhite object in eastern sky.the object look round and was not moving.object then began to drop down lower in the sky.the object then began going up again at a right angle and would move to the left and then to the right.i watched the object for sevral mintues when second object apered to the left of the first object.i then scaned the sky and saw 5 more objects moving around each other going up and down side to side and staying sill.objects were white gold and green.i wached the objects for over an hour before objects vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14466.html](http://www.nuforc.org/webreports/reports/014/S14466.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [345](http://www.nuforc.org/webreports/reports/164/S164916.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164855.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165181.html)
-- [342](http://www.nuforc.org/webreports/reports/164/S164858.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164906.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
