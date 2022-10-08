@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:03:56 on 8 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:42 on 8 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Madera (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>White spherical object w/possible point at the bottom and blinking red and green lights.At approx. 9:30 pm I was looking at the stars from my backyard with Nikon binoculars.  I was observing the Plaiedes to the East  when I noticed a bright white star-like object just to the left of them.  When looking at the star-like object through my binoculars, I could see it blinked rapidly with red and green lights.  It stayed stationary in the sky and did not appear to be coming towards me, as an aircraft would.    I moved my location to the front yard and observed it from a slightly different angle.  It was the same.  The object was spherical, however it seemed to have a faint tail-like point at the bottom.  The object was still blinking red and green, very rapidly.  I called my son out into the front yard to observe it through the binoculars  and asked him to describe to me what he was seeing.  He described it exactly as I did - a spherical object with red and green blinking lights.  I asked him if, in his opinion the object was moving and he said no, it was not.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93430.html](http://www.nuforc.org/webreports/reports/093/S93430.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Three lights of possibly one object nearly equidistant moving across sky low appeared to move up and down very fastStanding on the beach in Myrtle Beach looking south close to the North Myrtle Beach city limit, I observed three lights colored  yellow/white the size of stars moving east to west from the ocean to land somewhat low over the horizon.  Airport is very near sighting.  There appeared to be one light from a second object following behind though low clouds may have obscured other lights.At first I thought a light then two then the third were stars but then noticed they were moving and not quite white like the other stars.  Then I thought it was a plane but first the plane was too high to be landing and it was a strange flight pattern coming directly west from the Atlantic ocean.  Then I noticed the lights jumping directly up and down a number of times.  I followed the lights over too long a distance for it to be a searchlight and the lights were distinct like distant stars or maybe aircraft lights.  It seemed strange and especially with the single light from another craft following close behind at the same low altitude.Conditions were not ideal because of the low clouds over the horizon.  The lights appeared visible to me intermittently through the clouds.  Don't know if they were satellites or even how far away they were but I was not looking high in the sky at all.  Wasn't super alarming but strange and no obvious explanation.  No one was nearby on the beach at night and no one with me.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114375.html](http://www.nuforc.org/webreports/reports/114/S114375.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [413](http://www.nuforc.org/webreports/reports/164/S164933.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165198.html)
-- [411](http://www.nuforc.org/webreports/reports/165/S165006.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164909.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164859.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
