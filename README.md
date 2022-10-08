@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:10:56 on 8 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:01:48 on 8 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Carroll (OH) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was outside and I looked up and saw a high altitude airplane going overhead.  As I was watching it, this white cylinder shaped object (smaller than the plane) was flying behind it, spinning in all directions, following at the same speed as the airplane.  Then, it sped up getting closer to the airplane.  As soon as it did, it veered off to the left and it flew out of sight. I didn't hear any sounds other than the plane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149683.html](http://www.nuforc.org/webreports/reports/149/S149683.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Near Woody (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>We saw a red glowing ball/circular object moving slowly over the hills!  This is actually the second time I have seen it and it was approximately the same time of year only this time my hubby was with me and saw it too.  They come the same time every year.  It had no flashing or blinking lights(I know a helicopter or plane when I see it) it was solid red and it suddenly vanished.  It was NOT a meteor as the red was deep and the object was never as intense as a meteor nor was it moving fast. It was a deep dark red color and huge.  It was not a flare, known aircraft or meteor, as I am familiar with all!  It's the same one I saw a year ago!  I tried to get a picture but we turned down a different road and the object disappeared as I tried to get the picture through the car window!  Ugh!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122722.html](http://www.nuforc.org/webreports/reports/122/S122722.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [413](http://www.nuforc.org/webreports/reports/164/S164933.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165198.html)
-- [411](http://www.nuforc.org/webreports/reports/165/S165006.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164909.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164859.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
