@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:50 on 8 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:06:37 on 8 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in New Bedford (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately still going on - still going on minutes.</sub><blockquote><sub>I was standing on my front porch and thought I was looking at star but then they started moving.  There was at least 20 slow moving objects were all west.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114356.html](http://www.nuforc.org/webreports/reports/114/S114356.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Bellevue (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Bright white light going north to southI saw a bright white light going north to south over Lake Sammamish on Oct 8th at approx 7:45 pm. It was seen for about 7 seconds. It seemed to hesitate twice. I could view about 10 miles of the sky where it was seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10155.html](http://www.nuforc.org/webreports/reports/010/S10155.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [413](http://www.nuforc.org/webreports/reports/164/S164933.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165198.html)
-- [411](http://www.nuforc.org/webreports/reports/165/S165006.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164909.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164859.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
