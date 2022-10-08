@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:02:33 on 8 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:53 on 8 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Motley/Cottle Counties (TX) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I was traveling from Lubbock, TX to Cee Vee, TX (Cottle County) and 17.4 miles from Matador, TX, on Friday, 10/08/04, and I saw a large triangular object (2 lights, space, 2 lights, then two lights below and in between the top sets.  It sat in the same position approximately 1000 feet (hard to judge just after dark, but this is approximate) off the ground.  I drove toward the area and it stayed stationary.  I pulled off the road to view it and it was as though they turned off their lights.  It just disappeared!   When I got to Cee Vee, my nephew reported that several friends of ours, hunting on one of our farms, had seen three lights (separate units) over the farm, and they took camcorder pictures of the event.  On Sunday, October 10th, I viewed their pictures and it was unbelievable!  I told them I thought I had seen the "mother ship".  Their lights changed alternatively white to red.  Mine didn't.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39737.html](http://www.nuforc.org/webreports/reports/039/S39737.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Illiopolis (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>At 11:20pm I was traveling west on Interstate 72 just crossed Into Sangamon County when I saw a bight light I mistaken for a star.  As I drove the light became brighter then I noticed it wasn't moving it was hovering.  The shape was a triangle with a large bright white light at the tip and 2 smaller lights one blue and green.there was absolutely no flashing white lights anywhere.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130508.html](http://www.nuforc.org/webreports/reports/130/S130508.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [413](http://www.nuforc.org/webreports/reports/164/S164933.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165198.html)
-- [411](http://www.nuforc.org/webreports/reports/165/S165006.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164909.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164859.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
