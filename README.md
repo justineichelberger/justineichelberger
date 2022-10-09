@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:44:06 on 9 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:26:33 on 9 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Roanoke (VA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Very fast object with 2 or 3 bright lights in the form of a triangle going 3x the speed of a regular aircraftThere were 7 or 8 regular planes in the night surrounding the  SILENT object, and it looked like two or three very bright lights in the form of a triangle flying and going about 3x the speed of the planes over the airport.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114390.html](http://www.nuforc.org/webreports/reports/114/S114390.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Eastern USA () reported seeing craft that fit the description of some 'Other' over a period of approximately 0.6833333333333333 - 0.6833333333333333 minutes.</sub><blockquote><sub>Fireball meteor impacts a car with license plate carrying a message just before NASA begins HRMS project..A cosmic fireball/meteor split apart into 70+ fragments, one fragment of which impacted the right tail-light of a parked Chevrolet in Peekskill, New York.  A 12.4 kg. chondritic meteorite was recovered, exhibited and studied at the American Museum of Natural History in NYC (77th street lobby), along with the car it impacted. 4" x 5" x 11" meteroite impacted and destroyed a 4" x 21" signal-light without damaging the chrome bumper immediately beneath the signal-light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95150.html](http://www.nuforc.org/webreports/reports/095/S95150.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164920.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164917.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164939.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164971.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164979.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
