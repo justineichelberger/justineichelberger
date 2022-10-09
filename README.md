@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:02:18 on 9 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:37 on 9 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Simi Valley (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>roun red light and in center cigar shaped whitewe saw what looked to be an explosion because in the center was white and then a huge red light around it, it moved closer over us and then hovered and shot straight up in the air till all you saw was a red dot left. it almost felt like it saw us looking because at first it was further than seemed like it moved directly over us, i realize there was no explosion but the red light around it was huge and nothing was falling from it. it did not move like a plane, it was very fast and went directly up toward the clouds. i do have a picture, i do not have the computer plug to download picture, i can get it i also have a the picture developed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72808.html](http://www.nuforc.org/webreports/reports/072/S72808.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in East Hanover (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Circular blue UFO.As I was driving my girlfriend home I happened to see a circular object hovering in the sky about 500 ft in the air.  It was bright with a blue tint .  As I tried to tell more people to look at it , it vanished.((NUFORC Note:  We have changed the time, since we suspect it was an evening sighting.  PD))((ADDENDUM FROM WITNESS))11:40 pmSent from my iPhone((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114399.html](http://www.nuforc.org/webreports/reports/114/S114399.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164920.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164917.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164939.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164971.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164979.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
