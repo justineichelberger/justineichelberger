@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:40 on 9 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:12:43 on 9 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Flashing stationary floating UFO over central Phoenix 4 AMI was driving to work at about 4 AM on I17 southbound.  When I got to Carefree Hwy exit I noticed a stationary flashing light hovering above central Phoenix.  It never changed position as I conntinued toward Phoenix.  I noticed jet airliners coming in to the area as I see a couple of them every morning as I come to work.  This object was higher in altitude than the airplanes on their landing approaches.  Phoenix's Sky Harbor is on the south side of the city and I was on the far north side of the city.  This light flashed like the airplanes but it never changed position.  I was too high to be a helicopter and stayed in the same position for the 15 more minutes it took me to travel to work.  When I got to work it was still in the same position as I walked into the building at 4:30 AM.  I travel this way 5 times a week and never have seen this before.  I always see the airplanes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103109.html](http://www.nuforc.org/webreports/reports/103/S103109.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Tempe (AZ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Acending lights seen over east valleyAt about 1:15 am I walked out of my front door to smoke a cigarette. I live just off of the loop 202 and scotsdale road about a half mile north of the freeway.  My front door faces southeast and I am directly in the planes landing path to sky harbor in Phoenix.  I can sit on my front patio and watch planes decend all day. In my two years I have never seen a plane traveling east at the altitude and direction of the object I saw tonight.  The object was traveling east and hand a series of lights on the rear that would flash in an ascending order from left to right.  It caught my eye because, like I said, I have never witnessed a plane traveling that direction in that location before.  I quickly called my 17 year old cousin outside to look.  He was just as fascinated as me.  The lights were clearly visible and bright. I quickly hopped in my car with him and started driving east.  We followed the object for about 10 minutes and then turned around.  I have never experienced something like this in my life.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103074.html](http://www.nuforc.org/webreports/reports/103/S103074.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164920.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164917.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164939.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164971.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164979.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
