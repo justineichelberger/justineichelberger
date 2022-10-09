@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:37 on 9 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:44 on 9 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in East Hanover (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Circular blue UFO.As I was driving my girlfriend home I happened to see a circular object hovering in the sky about 500 ft in the air.  It was bright with a blue tint .  As I tried to tell more people to look at it , it vanished.((NUFORC Note:  We have changed the time, since we suspect it was an evening sighting.  PD))((ADDENDUM FROM WITNESS))11:40 pmSent from my iPhone((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114399.html](http://www.nuforc.org/webreports/reports/114/S114399.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Huttonsville (WV) reported seeing craft that fit the description of some 'Other' over a period of approximately Hour - Hour minutes.</sub><blockquote><sub>I was laying in bed my wife said there's a drone outside.  The light went straight in the air.  We saw about 5 blinking lights.  Come from over a near mountain.  We saw 2 in the left of room window.  My wife called her mom that lives less than a mile she confirmed she saw lights.  I then looked through a rifle scope.  At one it had two yellowish lights on each end and a alternating blinking white and red light in the middle.  It changed directions several times.  I viewed another one much farther away in the scope it appeared to be a spinning ball with 3 to 4 blinking lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149719.html](http://www.nuforc.org/webreports/reports/149/S149719.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164920.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164917.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164939.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164971.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164979.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
