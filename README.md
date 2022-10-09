@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:03:27 on 9 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:03:58 on 9 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Richmond (KY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two of my children and a friend were out on the trampoline, and saw a disc like structure flying very fast and stoped and dropped what they called "gold dust", and took off.  They were very scared, and wanted to call the police, and one even had an accident in his pants.  I  felt stupid to call the police, and they wanted me to report this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04534.html](http://www.nuforc.org/webreports/reports/004/S04534.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Santa Rosa (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>It was about 11:00 PM I was sitting on the hood of my car in my driveway,waiting for my friend to bring my youngest daughter home.I was talking to my mother on the phone as I was looking into the sky.I had never seen anything like this before so I dont really know what it was,but it sure has me stumped.As I was sitting on my hood drinking my coffee I was telling my mom about this thing that I thought was the brightest star I had ever seen in my life.Just then that light went out,this thing was hovering about 2000 to 3000 feet above the house accross the street from my house.As the light went out I saw what looked like an X shape and some little blue green rotateing lights.It slowley started to move away then it was just gon in an instant.As I am looking at this thing I saw some of the people out side looking as well and my oldest daughter was watching it to.I was telling my mom this thing had no noise so I knew it wasent a plane or anything else.I know what those look like and they have noise.I have not seen this thing since or any time before that.I am just woundering if this really was some sort of UFO or was my mind playing tricks on me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32180.html](http://www.nuforc.org/webreports/reports/032/S32180.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164920.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164917.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164939.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164971.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164979.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
