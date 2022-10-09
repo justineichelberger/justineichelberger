@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:57 on 9 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:02:35 on 9 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Inverness (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Twirling oval black "thing" dissapeared beneath the tree topsI'm not exactly sure what I saw but I saw something that my mind can't make sense out of.I was driving south on 41 around a long turn.  About a quarter mile into the forest I noticed a large, oval-shaped dark object slowly "flipping" and descending.  I thought it was some sort of weather balloon being dragged down by some very thin ropes.It was oval shaped and twirled like a clock.  It was very dark.  I couldn't really make out what it was at all, despite its size.  I watched it for about 10 seconds as it slowly hid out of sight beneath the tree tops.  I was in a hurry to get somewhere but it really caught my attention.  But the more I think about this the less sense it makes.This is a very small and predictable town.  Perhaps it was nothing extraordinary.  I really don't know what to make out of it.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66160.html](http://www.nuforc.org/webreports/reports/066/S66160.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Claremont (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 300.0 - 300.0 minutes.</sub><blockquote><sub>I posted here on oct 2nd about a ball of light that we keep seeing at different times of the night that appears to move and change shapes.  The conclusion from you all here was that it was the planet venus,  I honestly do not think that is the case.  I saw the same object last night with my lady,  this time it was even brighter and flying real low...so low that we got into the car and tried to drive under it.  I have this on video and have zero problems showing the film to you.  This object has changed positions in the sky on many nights,  changes shapes etc.  It looks like a bright white orb.  I zoomed in on the object and you can clearly see things moving inside it.  Please take a look at what I have on tape,  this is not venus.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59167.html](http://www.nuforc.org/webreports/reports/059/S59167.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164920.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164917.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164939.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164971.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164979.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
