@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:38 on 9 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:01:14 on 9 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Everett (WA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Polished metallic cylinder stationary in daytime sky slowly rotates then disappears instantlyI was obeserving a Washington State Patrol light airplane circling the area.  As it circled overhead I noticed what appeared to be a star 50 to 60 degrees above the horizon behind the airplane.  I first thought it might be a balloon as the local automobile dealerships use allot of them.  I noticed that it was not moving with the wind, which were 15 to 20 mph.  I then observed the object through 12X50 Bushnell binoculars.  Through binoculars the object resembled highly polished aluminum.  I then thought it was perhaps a milar balloon and continued to observe it.  It then rotated slowly in a clockwise direction to reveal that it was oblong.  It was shaped like a cylindar bisected lengthwise, slightly flared at the bottom edges.  I thought it might be a helicopter at high altitude but there were no rotors visible. While I was observing it it disappeared instantly. Weather was moderate winds and partly cloudy. I am a mechanical engineer and aviation enthusiast with 25 years experience in the technical field.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32490.html](http://www.nuforc.org/webreports/reports/032/S32490.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Rockford (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Ball of (green) light. ball of greenish light over the corn field lasted about 20 to 40 sec was stationary in the sky then disapared just west of winnebago rd on highway 20((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84439.html](http://www.nuforc.org/webreports/reports/084/S84439.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164920.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164917.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164939.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164971.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164979.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
