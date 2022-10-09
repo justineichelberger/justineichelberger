@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:48 on 9 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:40 on 9 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Port Clinton (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Glowing ball sighted over the Catawba Point waters of Lake Eriethe object seemingly came from the land or out of the water in the bay area near catawba point and gem beach. it apeared to be 10-20 ft above the water. it was an orange glowing globe shape the color of fire. it made no noise and left no trails.it was no more than a mile away i know this because the background was the trees further down the lake coastline.at first glance we thought it was a light on a boat behind the break wall. it kind of had a slight bounce to it as if it was riding the waves. it also was only moving a few mile per hour at this point. it cuntinued to gain speed and altitude rapidly.it went up to maybe 500 ft. and you could see its reflection on the water. we watched it move in a northeast direction out over and past kelly's island. it took aprox. 4 min. until it dissapeared into the distance.a very interesting point is that an hr later a lady rode up to the point on her golf cart where we had watched the object. and says "we saw a ufo" she then confirmed that she and others saw the same thing from another vantage point in the park.my brother and his wife witnessed the same type of sighting two weeks earlier from the same location. and took photos of the object.interestingly my brother had just been showing these pics 30 min before this event</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78257.html](http://www.nuforc.org/webreports/reports/078/S78257.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Memphis (TN) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>3 UFO sightings over Memphis.  Weird jelly fish like spacecraftsAs I was on the way to pick up my mother from the Memphis international airport, I witnessed a strange object in the southwestern sky. At first I thought it might of been a weird drift of a cloud that drifted away from the cloud mass. As I was observing it closer I could tell it was definately not a cloud. It was a long and slim. It seemed to have a rounded front and what seemed to be long tentacle like rods coming out the backside. My 5 year old witnessed it and said it was a jellyfish, and no doubt it looked like a metal machine jellyfish. But it seemed like it was south of the airport but within 50 miles of it. It did not move it seemed as though it was hovering. I know what an airplane looks like becuase there were many airplanes in the sky at this time and it was not an airplane! As we observed this strange object we found two more that were very close to this one. They created a line that  seemed to lead to the Mississippi river. By this time we were f! reaking out and as we approached a tree line, we couldn't see them for less than 10 seconds, when the trees cleared they were gone, nowhere to be seen, as if they vanished into thin air. Another good description would be, if you've ever seen war of the worlds, the huge tripod machines is what came to my mind but these were airborne not walking around zapping people. I have heard of "probes"?? and this seems to be the case. I don't know what's going on but I'm pretty freaked out by this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84451.html](http://www.nuforc.org/webreports/reports/084/S84451.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164920.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164917.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164939.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164971.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164979.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
