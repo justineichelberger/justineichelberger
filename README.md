@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:12:43 on 9 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:02:25 on 9 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Tempe (AZ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Acending lights seen over east valleyAt about 1:15 am I walked out of my front door to smoke a cigarette. I live just off of the loop 202 and scotsdale road about a half mile north of the freeway.  My front door faces southeast and I am directly in the planes landing path to sky harbor in Phoenix.  I can sit on my front patio and watch planes decend all day. In my two years I have never seen a plane traveling east at the altitude and direction of the object I saw tonight.  The object was traveling east and hand a series of lights on the rear that would flash in an ascending order from left to right.  It caught my eye because, like I said, I have never witnessed a plane traveling that direction in that location before.  I quickly called my 17 year old cousin outside to look.  He was just as fascinated as me.  The lights were clearly visible and bright. I quickly hopped in my car with him and started driving east.  We followed the object for about 10 minutes and then turned around.  I have never experienced something like this in my life.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103074.html](http://www.nuforc.org/webreports/reports/103/S103074.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Melber (KY) reported seeing craft that fit the description of some 'Formation' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Large ship and several escorts seen over Melber, KYIt was a cloudless night, I was camping at my friend's house.  We were all in a mesh tent so we could see clearly through it. at about 12:45 in the morning everyone had fallen asleep I was still awake at the time because i kept hearing strange noises.  I finally decide to roll over and look up through the tent and I saw a large object directly above us It was emitting a slight shrieking sound and it had blue lights arranged to look like a X, it also had a blue haze around it.  At first i thought it was a meteor, but after watching it for about five minutes it had not moved, in fact it was rotating slowly. after about twenty more minutes some smaller objects appeared to have come out of the larger craft and joined into a delta formation there were about four objects on each side of the formation.  They wee circling the larger craft as if they were protecting or escorting it.I would have woken up the others but I was too shocked to move.  There were some dogs outsi! de with us, they were howling frequently, there was also a donkey in a nearby field giving out loud yelps.  The objects could not have been more than 1000 feet above me they sat there as if studying the landscape.  These craft sat in the sky for hours until i finally decided to try and sleep. the next morning the dogs that had been out with us were visibly shaken.  I have mostly kept this to my-self and told only the friend hosting the party i was at and select family members. I had no way to photograph these ships.  There were airplanes in the area but i don't know if they spotted it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109722.html](http://www.nuforc.org/webreports/reports/109/S109722.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164920.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164917.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164939.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164971.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164979.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
