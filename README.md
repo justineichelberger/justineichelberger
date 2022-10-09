@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:02:35 on 9 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:48 on 9 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Claremont (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 300.0 - 300.0 minutes.</sub><blockquote><sub>I posted here on oct 2nd about a ball of light that we keep seeing at different times of the night that appears to move and change shapes.  The conclusion from you all here was that it was the planet venus,  I honestly do not think that is the case.  I saw the same object last night with my lady,  this time it was even brighter and flying real low...so low that we got into the car and tried to drive under it.  I have this on video and have zero problems showing the film to you.  This object has changed positions in the sky on many nights,  changes shapes etc.  It looks like a bright white orb.  I zoomed in on the object and you can clearly see things moving inside it.  Please take a look at what I have on tape,  this is not venus.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59167.html](http://www.nuforc.org/webreports/reports/059/S59167.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Port Clinton (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Glowing ball sighted over the Catawba Point waters of Lake Eriethe object seemingly came from the land or out of the water in the bay area near catawba point and gem beach. it apeared to be 10-20 ft above the water. it was an orange glowing globe shape the color of fire. it made no noise and left no trails.it was no more than a mile away i know this because the background was the trees further down the lake coastline.at first glance we thought it was a light on a boat behind the break wall. it kind of had a slight bounce to it as if it was riding the waves. it also was only moving a few mile per hour at this point. it cuntinued to gain speed and altitude rapidly.it went up to maybe 500 ft. and you could see its reflection on the water. we watched it move in a northeast direction out over and past kelly's island. it took aprox. 4 min. until it dissapeared into the distance.a very interesting point is that an hr later a lady rode up to the point on her golf cart where we had watched the object. and says "we saw a ufo" she then confirmed that she and others saw the same thing from another vantage point in the park.my brother and his wife witnessed the same type of sighting two weeks earlier from the same location. and took photos of the object.interestingly my brother had just been showing these pics 30 min before this event</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78257.html](http://www.nuforc.org/webreports/reports/078/S78257.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164920.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164917.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164939.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164971.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164979.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
