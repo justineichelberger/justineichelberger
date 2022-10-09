@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:31 on 8 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:01:21 on 9 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Dupo (IL) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Large falling green ball of lightWhile driving on my way home, my wife and I both saw a large, green, v-shaped light directly ahead of us (which would be west).  It seemed to be very close and very bright.  It looked like a single firework but it was falling down.  It also was close to an Air Force Base.  We are very curious as to what we saw.  It didn't appear to be a craft.  It looked more like a falling star, but much more colorful, closer and more bright.  I believe I saw a tail on the object but my wife doesn't remember seeing one.  Please help!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66123.html](http://www.nuforc.org/webreports/reports/066/S66123.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Plantation (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>One very bright and large object with thin tail and bright dots attached on both sides of tail.My son and I were walking the dog late at night.  When walking toward our house, diagnally from our house we both saw a large very bright light too bright and big we thought to be a star.  We continued to look up at it and it appeared to lower itself some.  We started to walk more quickly towards our house with the dog arm in arm as we sensed it was a UFO.  Then my son took pictures with his cell phone and we didnt feel afraid.  It looked like a very, very bright large star, but with what appeared to be a thin long tail that was bright with some small bright dots  clung to the tail.  I said to me it resembled a firefly.  It was north-east to our house, which we are west in the county.  My son thought it had changed formation((NUFORC Note:  Possible star??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84449.html](http://www.nuforc.org/webreports/reports/084/S84449.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [413](http://www.nuforc.org/webreports/reports/164/S164933.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165198.html)
-- [411](http://www.nuforc.org/webreports/reports/165/S165006.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164909.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164859.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
