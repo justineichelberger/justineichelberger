@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:02:25 on 9 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:38 on 9 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Melber (KY) reported seeing craft that fit the description of some 'Formation' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Large ship and several escorts seen over Melber, KYIt was a cloudless night, I was camping at my friend's house.  We were all in a mesh tent so we could see clearly through it. at about 12:45 in the morning everyone had fallen asleep I was still awake at the time because i kept hearing strange noises.  I finally decide to roll over and look up through the tent and I saw a large object directly above us It was emitting a slight shrieking sound and it had blue lights arranged to look like a X, it also had a blue haze around it.  At first i thought it was a meteor, but after watching it for about five minutes it had not moved, in fact it was rotating slowly. after about twenty more minutes some smaller objects appeared to have come out of the larger craft and joined into a delta formation there were about four objects on each side of the formation.  They wee circling the larger craft as if they were protecting or escorting it.I would have woken up the others but I was too shocked to move.  There were some dogs outsi! de with us, they were howling frequently, there was also a donkey in a nearby field giving out loud yelps.  The objects could not have been more than 1000 feet above me they sat there as if studying the landscape.  These craft sat in the sky for hours until i finally decided to try and sleep. the next morning the dogs that had been out with us were visibly shaken.  I have mostly kept this to my-self and told only the friend hosting the party i was at and select family members. I had no way to photograph these ships.  There were airplanes in the area but i don't know if they spotted it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109722.html](http://www.nuforc.org/webreports/reports/109/S109722.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Everett (WA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Polished metallic cylinder stationary in daytime sky slowly rotates then disappears instantlyI was obeserving a Washington State Patrol light airplane circling the area.  As it circled overhead I noticed what appeared to be a star 50 to 60 degrees above the horizon behind the airplane.  I first thought it might be a balloon as the local automobile dealerships use allot of them.  I noticed that it was not moving with the wind, which were 15 to 20 mph.  I then observed the object through 12X50 Bushnell binoculars.  Through binoculars the object resembled highly polished aluminum.  I then thought it was perhaps a milar balloon and continued to observe it.  It then rotated slowly in a clockwise direction to reveal that it was oblong.  It was shaped like a cylindar bisected lengthwise, slightly flared at the bottom edges.  I thought it might be a helicopter at high altitude but there were no rotors visible. While I was observing it it disappeared instantly. Weather was moderate winds and partly cloudy. I am a mechanical engineer and aviation enthusiast with 25 years experience in the technical field.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32490.html](http://www.nuforc.org/webreports/reports/032/S32490.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164920.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164917.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164939.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164971.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164979.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
