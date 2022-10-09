@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:26:33 on 9 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:16:01 on 9 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Eastern USA () reported seeing craft that fit the description of some 'Other' over a period of approximately 0.6833333333333333 - 0.6833333333333333 minutes.</sub><blockquote><sub>Fireball meteor impacts a car with license plate carrying a message just before NASA begins HRMS project..A cosmic fireball/meteor split apart into 70+ fragments, one fragment of which impacted the right tail-light of a parked Chevrolet in Peekskill, New York.  A 12.4 kg. chondritic meteorite was recovered, exhibited and studied at the American Museum of Natural History in NYC (77th street lobby), along with the car it impacted. 4" x 5" x 11" meteroite impacted and destroyed a 4" x 21" signal-light without damaging the chrome bumper immediately beneath the signal-light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95150.html](http://www.nuforc.org/webreports/reports/095/S95150.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Rockford (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Ball of (green) light. ball of greenish light over the corn field lasted about 20 to 40 sec was stationary in the sky then disapared just west of winnebago rd on highway 20((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84439.html](http://www.nuforc.org/webreports/reports/084/S84439.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164920.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164917.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164939.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164971.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164979.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
