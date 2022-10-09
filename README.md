@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:40 on 9 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:39 on 9 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Memphis (TN) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>3 UFO sightings over Memphis.  Weird jelly fish like spacecraftsAs I was on the way to pick up my mother from the Memphis international airport, I witnessed a strange object in the southwestern sky. At first I thought it might of been a weird drift of a cloud that drifted away from the cloud mass. As I was observing it closer I could tell it was definately not a cloud. It was a long and slim. It seemed to have a rounded front and what seemed to be long tentacle like rods coming out the backside. My 5 year old witnessed it and said it was a jellyfish, and no doubt it looked like a metal machine jellyfish. But it seemed like it was south of the airport but within 50 miles of it. It did not move it seemed as though it was hovering. I know what an airplane looks like becuase there were many airplanes in the sky at this time and it was not an airplane! As we observed this strange object we found two more that were very close to this one. They created a line that  seemed to lead to the Mississippi river. By this time we were f! reaking out and as we approached a tree line, we couldn't see them for less than 10 seconds, when the trees cleared they were gone, nowhere to be seen, as if they vanished into thin air. Another good description would be, if you've ever seen war of the worlds, the huge tripod machines is what came to my mind but these were airborne not walking around zapping people. I have heard of "probes"?? and this seems to be the case. I don't know what's going on but I'm pretty freaked out by this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84451.html](http://www.nuforc.org/webreports/reports/084/S84451.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Perth (Western Australia) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>i saw three traingular ufos, the one in the middle was bigger than the other ones. they didn't stay for very long. me and me brother were the only ones who could see them. they each had lights on their verticies.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  Possible student report.  We do not know whether this is intended as a serious report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47387.html](http://www.nuforc.org/webreports/reports/047/S47387.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164920.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164917.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164939.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164971.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164979.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
