@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:01:21 on 9 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:59 on 9 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Plantation (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>One very bright and large object with thin tail and bright dots attached on both sides of tail.My son and I were walking the dog late at night.  When walking toward our house, diagnally from our house we both saw a large very bright light too bright and big we thought to be a star.  We continued to look up at it and it appeared to lower itself some.  We started to walk more quickly towards our house with the dog arm in arm as we sensed it was a UFO.  Then my son took pictures with his cell phone and we didnt feel afraid.  It looked like a very, very bright large star, but with what appeared to be a thin long tail that was bright with some small bright dots  clung to the tail.  I said to me it resembled a firefly.  It was north-east to our house, which we are west in the county.  My son thought it had changed formation((NUFORC Note:  Possible star??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84449.html](http://www.nuforc.org/webreports/reports/084/S84449.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Porter Ranch (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I was driving on the 118 this morning by porter ranch objected looked red like a star shape.  Objects moved.  Disappeared apeared in same spot.  Object moved.  Looked like fired dust (like firework) coming out of it stayed bright for 3 mins then moved.  Husband called me he works outside construction he.  Saw it too.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136661.html](http://www.nuforc.org/webreports/reports/136/S136661.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164920.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164917.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164939.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164971.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164979.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
