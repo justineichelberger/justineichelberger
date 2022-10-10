@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:02:45 on 10 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:13:00 on 10 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Lyndhurst (OH) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>This is a follow up to my Feb. 16th, 1995 report.  This past Tuesday, my wife and I AGAIN heard the same loud, rumbling roar that we heard in 1995. It shakes the house, startles the cats and lasts far longer than a jet plane passing overhead.  I searched the overcast skies, same as in 95, but didn't see anything.  In 95, three strobing  lights in an elongated triangle were observed in the western sky, about 40 degrees off the horizon above my neighbor's house.  They remained motionless for almost eight minutes, then began to slowly move west.  The FAA received reports from Huron Ohio, due west of here, and there were multiple sightings in Michigan.  I report this recent SOUND event because there may be others in the area the saw something as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52907.html](http://www.nuforc.org/webreports/reports/052/S52907.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Edmonton (Canada) (AB) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>7 objects spotted on video footage recorded with a drone during day time full HD video availableDrone video recorded in Parkland County at Hasse Lake in Alberta, Canada I was recording some video footage of top of trees trying to capture the fall colors, and I did just that.Later on while showing a friend of mine the video from my drone I have noticed objects in my film that were unusual, I loaded the video into video editing software and went frame by frame and to my surprise I have seen spheres of light ? going extremely fast below my drone, then one came with in feet of the drone passing it at very high speed.The original videos are uploaded into drop box account, the initial video that I released is located on youtube under the link below.https://youtu.be/D_CZghp1c9k I am extremely interested to figure out what did my camera actually recorded.((NUFORC Note:  We have viewed the video, and seriously doubt that the objects, which are very difficult to discern, are UFOs.  They are very small, it appears, and we wonder whether they might be insects or seed pods, flying past the object lens of the video camera.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130968.html](http://www.nuforc.org/webreports/reports/130/S130968.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [495](http://www.nuforc.org/webreports/reports/164/S164910.html)
-- [494](http://www.nuforc.org/webreports/reports/164/S164966.html)
-- [493](http://www.nuforc.org/webreports/reports/164/S164956.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164937.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
