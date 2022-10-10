@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:01:18 on 10 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:01:03 on 10 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Marion (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I was leaving my friend's house to go home.  My friend and her 3 1/2 year old daughter walked me to her front door when she noticed all of these strange lights in the sky and remarked on it.  She at first thought they weren't moving, but I was trying to determine whether they were moving or not.  In about a minute I figured out that they were moving, but very slowly, almost like they were floating.  We kept staring at them trying to figure out what they were.  She also eventually realized for herself that they were actually moving a little.  We kept staring at this strange phenomenon, but I was feeling cold on the front porch and wanted to get going.  I had the strange feeling that they would go away when I started to leave and that is exactly what they did.  It appeared as if the lights were going out a few at a time.  I realize that the timing was probably coincidental, but it was funny how I felt so strongly that was what was going to happen at least a mi! nute before I actually left.  I had been hoping to be able to keep watching them, while driving home, but when I began to walk off the porch the lights began to disappear at a faster rate.  They had begun to disappear a little before that, very slowly, I think when I began making a move to go prior to actually leaving the porch.  I remember seeing strange lights in the sky once before, maybe around 15 years ago, give or take a few years, but they were more off in the distance and they continued for quite some time.  I don't remember much about them, except that I was having a hard time determining if the lights were weather-related or some kind of flying crafts.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93463.html](http://www.nuforc.org/webreports/reports/093/S93463.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lost Creek (WV) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>small triangle with 3 lights floating low over a field then slowly flying away.Object was small and about 100 to 200 feet off the ground over a field near the main road. It had 2 white lights and 1 red light forming a triangle.Object was hovering for about 20 seconds then began to fly slowly away to the north.Initially, I thought it was a helicopter until I saw the specific shape of a triangle.  I then rolled down the window in the car and shut off the engine to check for sound, nothing was heard.Object flew off with white lights forward to the left and right and the single red light to the rear of the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103127.html](http://www.nuforc.org/webreports/reports/103/S103127.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [495](http://www.nuforc.org/webreports/reports/164/S164910.html)
-- [494](http://www.nuforc.org/webreports/reports/164/S164966.html)
-- [493](http://www.nuforc.org/webreports/reports/164/S164956.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164937.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
