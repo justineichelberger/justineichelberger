@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:30:23 on 10 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:28:03 on 10 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Astoria (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>My daughter and I saw a round light floating across the sky above the Columbia river through our living room window, I ran outside to get a better look and the object made no noise as it went off into the distance and disappeared suddenly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130574.html](http://www.nuforc.org/webreports/reports/130/S130574.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Duluth (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright pulsating light over lake superior.Location of sighting was on the hillside of East Duluth overlooking lake superior towards the southeast. My roomate was having a cigarette out on the porch when he noticed an unusually bright star in the sky above the lake. He came and got me and i grabbed a pair of binoculars. To the naked eye, it appeared to be flashing. upon closer inspection through the binoculars, i could see that the light was flashing/pulsating different colors. It had a uniform sperical shape to it. at this point we were making various conclusions as to what it was. my other roomate dylan seemed convinced that it was a plane, but i was not so sure. it did not seem to be moving. the object remained stationary for some time (5 min) as we watched. It became brighter and slowly began moving to the right (Southwest), and proceeded to move behind a small patch of trees which were blocking our vision. the object emerged from behind the trees and was moving noticibly faster and it seemed closer. the object proceeded towards the right and began ascending upward at which point it went up into the overcast. although we did observe the object from a distance, somewhere between 4-5 miles, i am quite convinced that this object was not a helicopter or plane. i was so startled by what i had seen that I went online to try to figure out what to do, who to report it too, etc... that i how i stumbled upon your website. thank you for giving people the opportunity to go somewhere with these sightings. more attention needs to be paid to the subject of UFOs because what i saw was definitley unlike anything i have ever seen in the sky.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60908.html](http://www.nuforc.org/webreports/reports/060/S60908.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [495](http://www.nuforc.org/webreports/reports/164/S164910.html)
-- [494](http://www.nuforc.org/webreports/reports/164/S164966.html)
-- [493](http://www.nuforc.org/webreports/reports/164/S164956.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164937.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
