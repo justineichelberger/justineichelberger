@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:04:39 on 10 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:01:18 on 10 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Port Franks (Canada) (ON) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I saw an orangey red, slightly flattened horizontally sphere moving silently, south to north, at a constant speed and altitude.My wife and I saw an orange-red spherical globe while watching tv at our lakefront cottage on Lake Huron.  The sky was mostly clear, the breeze had been from the west all day and the night was cool, but not cold.Sphere was slightly flattened horizontally and emitted its own glowing red-orange light. Light was constant, did not flicker or change intensity. No sound from it or the wind - even the trees were silent.  Speed was constant.  It seemed to just float along but with the breeze coming from its side.  It did not change altitude either but moved in a straight line from south (land) to north (lake).  At one point, far out over the lake, it faded out, promptly re-appeared and then disappeared completely as if it went behind a cloud bank.  Size and distance were not discernable but if I held out my arm to full length the globe would have been about the size of the end of my thumb.  The whole sighting lasted well under two minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123099.html](http://www.nuforc.org/webreports/reports/123/S123099.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Marion (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I was leaving my friend's house to go home.  My friend and her 3 1/2 year old daughter walked me to her front door when she noticed all of these strange lights in the sky and remarked on it.  She at first thought they weren't moving, but I was trying to determine whether they were moving or not.  In about a minute I figured out that they were moving, but very slowly, almost like they were floating.  We kept staring at them trying to figure out what they were.  She also eventually realized for herself that they were actually moving a little.  We kept staring at this strange phenomenon, but I was feeling cold on the front porch and wanted to get going.  I had the strange feeling that they would go away when I started to leave and that is exactly what they did.  It appeared as if the lights were going out a few at a time.  I realize that the timing was probably coincidental, but it was funny how I felt so strongly that was what was going to happen at least a mi! nute before I actually left.  I had been hoping to be able to keep watching them, while driving home, but when I began to walk off the porch the lights began to disappear at a faster rate.  They had begun to disappear a little before that, very slowly, I think when I began making a move to go prior to actually leaving the porch.  I remember seeing strange lights in the sky once before, maybe around 15 years ago, give or take a few years, but they were more off in the distance and they continued for quite some time.  I don't remember much about them, except that I was having a hard time determining if the lights were weather-related or some kind of flying crafts.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93463.html](http://www.nuforc.org/webreports/reports/093/S93463.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [495](http://www.nuforc.org/webreports/reports/164/S164910.html)
-- [494](http://www.nuforc.org/webreports/reports/164/S164966.html)
-- [493](http://www.nuforc.org/webreports/reports/164/S164956.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164937.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
