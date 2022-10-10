@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:15:16 on 10 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:03:54 on 10 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Monroe (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange ball of light that zig zagged.Noticed an orange ball of light which appeared to be moving in a zig zag pattern. Then it appeared to ascend straight up. Then the craft went dark and appeared as a black dot in the sky, and moved in a straight line until we could no longer see it. Shorty after the object was no longer visible we both heard a high pitched ringing that we could not attribute to anything else.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159881.html](http://www.nuforc.org/webreports/reports/159/S159881.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Cougar (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Mt. Saint Helens, lights in the early morning.work partner and I was on Pacific corp property building roads for them.  we start work in the early mornings at 5 am.  about 6:30, partner said, hey I keep seeing lights on the mountain, meaning Mt. Saint Helens.  It is a few miles across the way, and we would see these flashes of  lights in different spot on the mountains south side.  you had to  keep  from blinking your eyes or you would miss it, cause they were very fast and very bright lights, almost white lights.  I got my phone out and took three pictures of  it  zoomed to the highest level it had on a s7 Samson phone, one out of three pictures caught the fast light.  and zoom that picture  you can see top to the light is a black orb. we think that  the other pictures I took and missed the light have black orbs in it too.  did notice that the  lights flashed in different places on the mountain at different times. seems like you had to  wait  a few minutes for the next light to  flash and sometimes they wou!d flash several times same spot.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136735.html](http://www.nuforc.org/webreports/reports/136/S136735.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [495](http://www.nuforc.org/webreports/reports/164/S164910.html)
-- [494](http://www.nuforc.org/webreports/reports/164/S164966.html)
-- [493](http://www.nuforc.org/webreports/reports/164/S164956.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164937.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
