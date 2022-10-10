@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:36 on 9 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:01:54 on 10 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Eureka Springs (AR) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Red orb seen near beaver lakeI was vacationing at beaver lake cabins, I set up my camera to run a night time, time lapse of the lake and the clouds.  I ran the camera for 15 mins taking photos every 8 seconds. When I completed the time lapse I checked the footage to make sure everything looked good.  Upon viewing the footage I noticed that a light in the distance was moving around in the footage.  I looked out across the lake and noticed the red light.  To the naked eye it didn't appear to be moving, it didn't flash like a plane.  I immediately knew I was witnessing something other than a plane and set up a second time lapse.  When I focused the camera in the area the light dissapeared.  It creeped me out, it felt like it knew I had seen it.  I went inside the cabin and took note of the time in my phone.  The next morning I told my wife what had happenend.  She was alarmed because she had a dream that night that I was having telepathic communication with aliens.  She asked what time I filmed the footage,  I told her 11pm is when I stopped the footage and came inside.  She told me that I woke her up at midnight,  I was moving around the cabin.  She looked over at the clock.  I am confident that I came in at 11pm sat up in bed checking my phone and went to sleep.  No recollection of moving around at midnight.  When I got home and viewed the footage on the computer, I looked at it frame by frame and noticed that the light grew in intensity, moved at different speeds, dissapeared and reappeared in different locations.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143484.html](http://www.nuforc.org/webreports/reports/143/S143484.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Turin (Italy) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>We were doing a patrol during the night,me and my friend were on guard duty in a military camp wich was a big field in the middle of a big forest.Since was cold me and my friend went into the driving cabin of a military truck so we could see all over the camp without moving and so we could be warm.We heard a quite loud and vibrating mechanical noise and then in front of our eyes we saw it....floating just above the 10meters trees from left to right....we went silent...i said to my friend "do u see what i see????" He answered "yes".Since nobody would have believed us we did nt mention it to anyone.The ufo was of a saucer shape with rectangular windows on the side/s  as the side of a passenger plane with the lights on in the inside....and it went floating away...great!((NUFORC Note:  Date of sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41506.html](http://www.nuforc.org/webreports/reports/041/S41506.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164920.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164917.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164939.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164971.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164979.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
