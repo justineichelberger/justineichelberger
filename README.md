@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:59 on 10 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:40 on 10 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in North Kingstown (RI) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Bright oval object in skyWe were driving down the road and noticed in the sky to our left as oval shaped craft that when the light hit it, it was almost blinding.  As if it was all glass or metal.  Watched it move slowing and then it all of a sudden disappared.  Could not locate it in the sky at all.  This craft was seen in broad daylight and did not look like any aircraft.((NUFORC Note:  Witness elects to remain anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84765.html](http://www.nuforc.org/webreports/reports/084/S84765.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Elgin (OR) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Object silently traveled north -northwest. It was V shaped with five orange lights on the perimeter and one white ligh in the center of craft. Altitude: aprox. 2000'.speed: guess- 1100mph. It traveled in straight line over the mountains out of sight.At 10:30pm on 10/10/99, my husband went outside to lock the car he looked up to a cloudless sky to see an craft traveling north northwest directly over our house.  He immediately ran into the house and yelled at me to hurry outside.  I ran out to the front yard in time to see a craft in the aparent shape of a V lined with orange steady glowing lights.(two on each angle and one in the front) as well as a bright white (search light style) light directly in the center of the V.  It is dificult the estiimate the altitude, but I would guess it to be aprox. 2000 feet traveling at a speed of 1100 mph.  It traveled in a direct line over the mountains and disappeared behind them.  We are in the direct flight path of commercial aircraft traveling to Seattle and Portland or Kennewick, WA.  We have ovserved them many times.  This craft did not follow the normal flightpath of these flights.   This is the second craft of this type that we have observed in a two year period both traveling in the same direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10182.html](http://www.nuforc.org/webreports/reports/010/S10182.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [495](http://www.nuforc.org/webreports/reports/164/S164910.html)
-- [494](http://www.nuforc.org/webreports/reports/164/S164966.html)
-- [493](http://www.nuforc.org/webreports/reports/164/S164956.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164937.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
