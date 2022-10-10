@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:03:35 on 10 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:04:39 on 10 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Laurelville (OH) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 107</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143515.html](http://www.nuforc.org/webreports/reports/143/S143515.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Port Franks (Canada) (ON) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I saw an orangey red, slightly flattened horizontally sphere moving silently, south to north, at a constant speed and altitude.My wife and I saw an orange-red spherical globe while watching tv at our lakefront cottage on Lake Huron.  The sky was mostly clear, the breeze had been from the west all day and the night was cool, but not cold.Sphere was slightly flattened horizontally and emitted its own glowing red-orange light. Light was constant, did not flicker or change intensity. No sound from it or the wind - even the trees were silent.  Speed was constant.  It seemed to just float along but with the breeze coming from its side.  It did not change altitude either but moved in a straight line from south (land) to north (lake).  At one point, far out over the lake, it faded out, promptly re-appeared and then disappeared completely as if it went behind a cloud bank.  Size and distance were not discernable but if I held out my arm to full length the globe would have been about the size of the end of my thumb.  The whole sighting lasted well under two minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123099.html](http://www.nuforc.org/webreports/reports/123/S123099.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [495](http://www.nuforc.org/webreports/reports/164/S164910.html)
-- [494](http://www.nuforc.org/webreports/reports/164/S164966.html)
-- [493](http://www.nuforc.org/webreports/reports/164/S164956.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164937.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
