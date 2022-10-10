@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:46:37 on 10 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:30:23 on 10 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Rochester (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Fleet of red UFO's emerging from Mt. RainierThere was about 20 or more red lights that flew right over my neighborhood, making no sound. It looked to me like they were emerging from Mt. Ranier.  Then they all turned north, and started moving towards Seattle.  One by one, the blinked out.  After all the red lights blinked out, there was a craft with two amber lights and a flashing red light in the middle moving in the same direction as the red fleet was headed.  I started filming, and the batteries went dead.  When I replaced the batteries, I captured a portion of the event, and a few pictures.  My mom, my two children, several of my neighbors, and myself, witnessed the event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94335.html](http://www.nuforc.org/webreports/reports/094/S94335.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Astoria (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>My daughter and I saw a round light floating across the sky above the Columbia river through our living room window, I ran outside to get a better look and the object made no noise as it went off into the distance and disappeared suddenly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130574.html](http://www.nuforc.org/webreports/reports/130/S130574.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [495](http://www.nuforc.org/webreports/reports/164/S164910.html)
-- [494](http://www.nuforc.org/webreports/reports/164/S164966.html)
-- [493](http://www.nuforc.org/webreports/reports/164/S164956.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164937.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
