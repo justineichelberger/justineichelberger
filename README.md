@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:53:23 on 10 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:46:37 on 10 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Puyallup (South Hill) (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>A large, dark, disk-shaped object plowed through clouds, was observed by couple in hot tub.Spouse and I went into our hot tub around 21:00.  It was a pretty clear night with wispy clouds and fairly dark since the moon hadn’t begun to rise.  There were a lot of stars, so we were just chatting and enjoying the view.  Around 21:15, I saw a dark disk-shaped object fly north about 80 degrees from where we were sitting.  I shouted, “Look at that, look at that!” to my spouse, which he immediately did, and witnessed the same thing.  There were no lights, but you could see the shape of it as it passed, causing a bow wave as it passed through some wispy clouds.  I noticed a shadow on it that was in the shape of a “L”.  It also made no sound.  We’re used to planes going by with their flashing lights and noise, but this was eerily quiet.  We couldn’t tell how high it was, but relatively speaking, it appeared to be large.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136691.html](http://www.nuforc.org/webreports/reports/136/S136691.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Rochester (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Fleet of red UFO's emerging from Mt. RainierThere was about 20 or more red lights that flew right over my neighborhood, making no sound. It looked to me like they were emerging from Mt. Ranier.  Then they all turned north, and started moving towards Seattle.  One by one, the blinked out.  After all the red lights blinked out, there was a craft with two amber lights and a flashing red light in the middle moving in the same direction as the red fleet was headed.  I started filming, and the batteries went dead.  When I replaced the batteries, I captured a portion of the event, and a few pictures.  My mom, my two children, several of my neighbors, and myself, witnessed the event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94335.html](http://www.nuforc.org/webreports/reports/094/S94335.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [495](http://www.nuforc.org/webreports/reports/164/S164910.html)
-- [494](http://www.nuforc.org/webreports/reports/164/S164966.html)
-- [493](http://www.nuforc.org/webreports/reports/164/S164956.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164937.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
