@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:18:39 on 10 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:15:16 on 10 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Fort Myers Beach (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Sitting out on the beach by the Diamond Hotel in Fort Myers Beach watching the stars. All of a sudden, my partner and I saw a triangle shaped object floating across the sky to our right (north) passing from east to west. The object was completely silent, very large (significantly larger than a plane), without any lights. It was not possible to make out the object, we were only able to make it out because it was disrupting the night sky around it. We were able to track its movement for about 30 seconds before we lost track because it moved past the moonlight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164914.html](http://www.nuforc.org/webreports/reports/164/S164914.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Monroe (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange ball of light that zig zagged.Noticed an orange ball of light which appeared to be moving in a zig zag pattern. Then it appeared to ascend straight up. Then the craft went dark and appeared as a black dot in the sky, and moved in a straight line until we could no longer see it. Shorty after the object was no longer visible we both heard a high pitched ringing that we could not attribute to anything else.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159881.html](http://www.nuforc.org/webreports/reports/159/S159881.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [495](http://www.nuforc.org/webreports/reports/164/S164910.html)
-- [494](http://www.nuforc.org/webreports/reports/164/S164966.html)
-- [493](http://www.nuforc.org/webreports/reports/164/S164956.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164937.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
