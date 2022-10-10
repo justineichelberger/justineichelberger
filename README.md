@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:01:03 on 10 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:32 on 10 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lost Creek (WV) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>small triangle with 3 lights floating low over a field then slowly flying away.Object was small and about 100 to 200 feet off the ground over a field near the main road. It had 2 white lights and 1 red light forming a triangle.Object was hovering for about 20 seconds then began to fly slowly away to the north.Initially, I thought it was a helicopter until I saw the specific shape of a triangle.  I then rolled down the window in the car and shut off the engine to check for sound, nothing was heard.Object flew off with white lights forward to the left and right and the single red light to the rear of the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103127.html](http://www.nuforc.org/webreports/reports/103/S103127.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1960, an anonymous witness in Rockford,il (IL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>While walking home from small store in our apt.Complex, I saw a bright lite heading down from sky. I thought the light looked as the shape of a cross and being raised as a Christian I wondered if it was the return of Jesus.The light stopped abruptly at the electric wires onhi way 51. I clearly saw a cigar shaped object with lights fading off and on across the horizontal side of it.I also saw what appeared to be something or someone moving around inside at the far end. I watched for a long time    10– 15 minutes, and started to walk on and turned again to see it speed up to space in 1,000th of a second in a blaze of orange light and then I Knew I had witnessed a flying vehicle that was absolutely not of Anything in this world. I was 11 years old at the time, and very mature and highly intelligent for my age, with high marks in school. My parents asked me” where have you been?  What took you so long?  I don’t remember going into any explicit detail.  I am now 71 years old, and have wondered if anyone else saw it on that autum! n evening in 1960?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157759.html](http://www.nuforc.org/webreports/reports/157/S157759.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [495](http://www.nuforc.org/webreports/reports/164/S164910.html)
-- [494](http://www.nuforc.org/webreports/reports/164/S164966.html)
-- [493](http://www.nuforc.org/webreports/reports/164/S164956.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164937.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
