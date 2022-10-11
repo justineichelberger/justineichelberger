@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:10:03 on 11 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:01:53 on 11 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Greenville (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>5 blinking lights static in the sky5 lights staying static in the sky blinking different colors (red, white, green) the formation stayed steady..  I was rushing for work so, until the time i left.. the lights were still there i took around 5-6 videos and photos</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149758.html](http://www.nuforc.org/webreports/reports/149/S149758.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1994, an anonymous witness in Jackson (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>triangle UFO in jackson NJ  Countyline 526   over the old fire station next to the trailer parkA friend his girlfriend and myself were driving along countyline 526, at about half a mile outside of main part of town we saw an object ahead of us over the road still a mile away. Pulsing over the old fire station next to the trailer park. as we approached the craft we could see it was huge at least 1000 feet above and as we past under the object we could back out the shape  triangle  with rounded edge's.as we passed the trailer park i noticed people out in front looking at the object. my friend wouldn't stop and i was left with a feeling the pit of my stomach that something really big just happened. no not being abducted  but just seeing this thing has had a large impact on my life. i am always looking up</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21580.html](http://www.nuforc.org/webreports/reports/021/S21580.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165070.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165118.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165121.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164942.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165113.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
