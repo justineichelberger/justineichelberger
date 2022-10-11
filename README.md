@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:33 on 11 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:17:20 on 11 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Eagan (MN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Bright colorfull glowing ballMy wife and I video taped an object glowing blue, green, red, and white in one place for about an hour out our back door from 3:00AM until 4:00AM.  Object is slowly moving from east to west sky.  Called flight services and MPLS airport reported no aircraft in the area.  My wife has seen this before and I didn't believe her.  This time she woke me up.  We don't know what this is, rotating and changing color fairly rapidly. Have video and pictures and will hope to get any explanation.((NUFORC Note:  Possible star.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46906.html](http://www.nuforc.org/webreports/reports/046/S46906.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Riverside (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright light moving from NW to SEOn 10/11/08 about 19:00 I was on my back porch looking at the stars. The sky was clear and visibility good. I noticed a white light moving from the northwest towards the east. I first thought it was a satellite, but soon noticed it was much larger and brighter than any satellite I have ever seen. It was brilliant white, brighter and larger than Venus which was also visible in the southern sky. The light’s speed was similar to a high altitude commercial aircraft, and it changed it course slightly several times while I watched, finally arcing towards the southeast. I watched the light until it disappeared in the distance. The light’s brightness remained constant for the duration of the sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66198.html](http://www.nuforc.org/webreports/reports/066/S66198.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165070.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165118.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165121.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164942.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165113.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
