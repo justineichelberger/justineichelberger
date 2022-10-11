@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:03:01 on 11 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:10:03 on 11 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Doylestown (PA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>UFO shaped like a plane that is parked over the top of a house (Bucks County Flap)Around the time of the Bucks County, PA, flap, I had several UFO sightings.  This was my 3rd sighting around that time.  I was driving home from work and was heading towards Route 611 on Almshouse Rd.  It was dark outside and I saw an enormous UFO.  It looked like a 737 plane with its lights off and it was parked directly on top of a house.  It looked like the UFO was attached to the roof of the house and the sky was blocked out in between the roof and the UFO.  I looked in the rearview mirror as I passed it and it was still there.  The house was in a development that was on a large hill surrounded by  trees.  I could see it from the driver's side window.  Time seems to stop whenever I see the UFO's and there is no noise. The three sightings that I had in Bucks County were three different shapes.  I seem to see UFO's when I'm driving alone.  I hope other people in the area saw this UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149770.html](http://www.nuforc.org/webreports/reports/149/S149770.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Greenville (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>5 blinking lights static in the sky5 lights staying static in the sky blinking different colors (red, white, green) the formation stayed steady..  I was rushing for work so, until the time i left.. the lights were still there i took around 5-6 videos and photos</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149758.html](http://www.nuforc.org/webreports/reports/149/S149758.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165070.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165118.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165121.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164942.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165113.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
