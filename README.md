@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:52:17 on 11 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:45:12 on 11 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Huntington (WV) reported seeing craft that fit the description of some '' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Young man & grandfather see a "large, orange, round or oval" obj. move along horizon very fast, hover, move erratically.  Bizarre!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00894.html](http://www.nuforc.org/webreports/reports/000/S00894.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in London (UK/England) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Yellow lights in formationLooking SW from SW13 in London,UK We observed 4 or 5 yellow lights high in the sky.3 were flying in a equilateral formation.One travelled just laterally across the sky right to left and disappeared under our roofline. Its apparent velocity was very fast.Another then rose above the roof line at right and seemed to travel towards the other 3 which had maintained a constant position.The 3 lights looked as if they were gaining a lot of altitude as they were getting very slightly dimmer and smaller over the period of time that they were visible. They eventually faded out abruptly The other light continued to move diagonally towards the triangular formation but never got near and at one point kinked its travel back towards the right very quickly before continuing to travel right to left and up. The remaining light then stopped. We live on the Heathrow flight path and these lights did not have the movement signature of  helicopters or planes. I perceived them to be traveling at high velocity.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60263.html](http://www.nuforc.org/webreports/reports/060/S60263.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165070.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165118.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165121.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164942.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165113.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
