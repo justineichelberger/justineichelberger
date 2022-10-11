@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:35 on 11 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:01:11 on 11 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Dover (MD) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>freinds and familes see UFOthere at least 2 objects, one was in the SAME location, height, etc. for like 2 hours staight, was fading in and out in a weird fashion. we were playing glow in the dark football, when this light caught our attention, no sound what so ever from it, was not helicopter, star, flare, or anything natural./  Anyone else see this????</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66188.html](http://www.nuforc.org/webreports/reports/066/S66188.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in West Palm Beach (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>At around 6pm (18:00 hours) I was outside in the backyard of my home with my Canon EOS Rebel XT digital camera taking photographs of nature and the natural landscape.  At around the same time I noticed a small helium balloon (such as a party balloon) floating by up in the sky and decided to take a few pictures of it just on a whim.  After I shot the first picture of the balloon I noticed (through the view finder) a small white object moving rapidly from left to right within the view finder.  I quickly tried to take a second photograph of the object but was unable to as it vanished before I could focus on it accurately.However, when I came upstairs and uploaded all of the images I had taken into my computer I noticed that the second picture I took of the helium balloon had the strange white object within its frame.  I couldn’t help (and still can’t help) but wonder what the object could have been, as it flew very quickly and completely silently before it disappeared.  The sky was also very clear and there was no other air traffic that I could see within my vicinity.The photograph of the object was taken with the following settings: Shutter Speed:  1/320 sec.Aperture: F6.3 ISO Speed: 100 Lens:  75-300mm Focal Length: 300mm  I took the photo and simply increased the contrast on it so you could see the object a little brighter, however I will make sure to email both the original untouched picture as well as the contrast enhanced version.  I hope you folks can figure out what this is because I certainly have no clue as I have never seen an object of this shape in flight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72800.html](http://www.nuforc.org/webreports/reports/072/S72800.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165070.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165118.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165121.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164942.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165113.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
