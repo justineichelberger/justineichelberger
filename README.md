@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:01:53 on 11 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:03:43 on 11 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1994, an anonymous witness in Jackson (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>triangle UFO in jackson NJ  Countyline 526   over the old fire station next to the trailer parkA friend his girlfriend and myself were driving along countyline 526, at about half a mile outside of main part of town we saw an object ahead of us over the road still a mile away. Pulsing over the old fire station next to the trailer park. as we approached the craft we could see it was huge at least 1000 feet above and as we past under the object we could back out the shape  triangle  with rounded edge's.as we passed the trailer park i noticed people out in front looking at the object. my friend wouldn't stop and i was left with a feeling the pit of my stomach that something really big just happened. no not being abducted  but just seeing this thing has had a large impact on my life. i am always looking up</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21580.html](http://www.nuforc.org/webreports/reports/021/S21580.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Mt. Shasta (near) (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>String of lights at low altitude moving about 50 mph, 8000’ altitude north to south. Sound of small prop engine faintly.On or about October 11th, 2019 a small group of friends gathered around 9 pm to watch the nearly full moon rise above a forested ridge in the Trinity Mountains just west of Mt Shasta, CA.  We had binoculars, warm jackets, Apple Cider (non alcoholic) and fresh baked apple and pumpkin pie. While we were watching the moon rise in a southeasterly direction, we were looking at some developing vapor trails from high altitude jets flying the routes up and down the heavily traveled west coast.  While doing this we noticed a string of lights (no vapor trail) that seemed to be at a fairly low altitude and headed from north to south over the mountain range we were on.  These lights were not very bright and seemed like they were attached to a structure of some sort that was very long and narrow but not linear, the lights seemed to be adjacent to each other or within a cubist framework.  It seemed to be probably a hundred meters long and one or two wide, not knowing the exact altitude made it very difficult to judge its size. We could hear a faint sound like a small piston engine turning a prop, making me think it was a drone towing something.  It must have been going 50 mph or so.  There were no lights that we could see that looked like aircraft ID lights. We were at an elevation of about 5500’ overlooking Mt Shasta city to the East x northeast of us. Our first sighting was to the northwest at about 80 degrees, the angle decreasing to about 60 degrees as they got out of sight to the southwest of us.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151213.html](http://www.nuforc.org/webreports/reports/151/S151213.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165070.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165118.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165121.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164942.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165113.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
