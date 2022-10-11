@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:16:45 on 11 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:12:03 on 11 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in North Tonawanda (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately present - present minutes.</sub><blockquote><sub>Craft over lake erie flashing lightsLooking into night sky to the north over where the falls would be is a craft illuminating red/blue/green lights alternating colors at a high rate of speed.  Craft is still at time being with multiple planes flying under the craft.  This has been on going for weeks and moves from Lake Erie down Tonawanda creek and ends up in middleport by dawn the next morning.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122741.html](http://www.nuforc.org/webreports/reports/122/S122741.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Columbia (MS) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>short vapotr looking teardropped object, always beside the sun!!!noticed from 10/11-10/26/01while driving for 2 weks from tylertown ms. to hattiesberg ms. this object can be seen beside the sun, at firs you think it is a vapertrail of a jet high up, then it never disipates, and funny thing is it is there on return trip if you catch the sun just rite.. i am headed due east in am, facing sun, in evening at my home i see the same object looking west, at the right of the sun, my partner has seen this also, got binoculars looked it a very strange thing, always by the sun.... sort of tear drop shape w the look of a very short vapor trail. on oct. 26 my partner calls from n.o. la. driving back to tylertown ms. and reports this object,what could it be , has any one noticed!?? tylertown ms.( object doesnt move seems to stay beside the sun)we see it every day!!((NUFORC Note:  We do not know what the witness is describing.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19980.html](http://www.nuforc.org/webreports/reports/019/S19980.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165070.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165118.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165121.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164942.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165113.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
