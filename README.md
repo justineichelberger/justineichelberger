@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:02:10 on 11 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:03:01 on 11 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Colbert (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Slow moving white light UFO disappears.Me and my fiancé were sitting on our porch looking out at the night sky and talking when between the trees I saw a light traveling from north to south and straight at us but at same time a slightly crurved path toward our home.  It was traveling slower than an air craft and it did not blink. It was a  pure singular white light.  We ran out into the yard to watch it as it flew over our home.  After it went over our home it continued to move upward into the sky and vanished in seconds.  It looked a star but brighter and bigger.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143465.html](http://www.nuforc.org/webreports/reports/143/S143465.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Doylestown (PA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>UFO shaped like a plane that is parked over the top of a house (Bucks County Flap)Around the time of the Bucks County, PA, flap, I had several UFO sightings.  This was my 3rd sighting around that time.  I was driving home from work and was heading towards Route 611 on Almshouse Rd.  It was dark outside and I saw an enormous UFO.  It looked like a 737 plane with its lights off and it was parked directly on top of a house.  It looked like the UFO was attached to the roof of the house and the sky was blocked out in between the roof and the UFO.  I looked in the rearview mirror as I passed it and it was still there.  The house was in a development that was on a large hill surrounded by  trees.  I could see it from the driver's side window.  Time seems to stop whenever I see the UFO's and there is no noise. The three sightings that I had in Bucks County were three different shapes.  I seem to see UFO's when I'm driving alone.  I hope other people in the area saw this UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149770.html](http://www.nuforc.org/webreports/reports/149/S149770.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165070.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165118.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165121.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164942.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165113.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
