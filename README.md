@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:01:38 on 11 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:35 on 11 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in St. John's (Canada) (NF) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Bending streak of white light over suburban area.~4:45 October 2009  It was early, I had been relaxing after having been out with friends. I decided to go out for a smoke before bed. It was about 4:45 am or so. I live in a suburban area about 20 minutes drive from an active airport.  My house is directly under a flight path and many planes fly overhead on a daily basis. I am very familiar with the appearance of planes flying at night. I can recognize them at varying distances, in all weather conditions including foggy nights, (I live in a very foggy place.)  If it is visible I can usually say if it is a plane, because of the light colour and flashing patterns that are common to them. Anyway, around 4:45 some time in late October of 2009. I was outside having a smoke. It was a clear night and I was admiring the stars I could see from my porch and the drone of the nearby airport, contemplating the shape of the Universe, after watching some videos of lectures regarding the subject. Suddenly there was a thick arc of white light which bent from the sky toward the ground as if it were and arc fitting nicely into a 90 degree angle. I could not see if it stopped beyond the horizon as the treeline was obstructing my view. I have observed both meteors and satellites with the naked eye. They do not resemble what I saw. This was a thick white streak at least several meters wide, and quite distant. Though what was most impressive was the speed at which it traveled. I saw the 'object' for no more than a second. And it initially appeared quite high in the sky, a little lower than the moon.  It appeared as a white arcing flash of light which left a trail that subsided  pretty well instantaneously. I was awestruck and my first thoughts were: “What?-So fast!” The other thing that struck me was the odd blur on the periphery of the arc. Perhaps it was a natural phenomenon, like none I had prior seen. But my guess it was some sort of gravity manipulating craft. This is partly based upon my understanding of theoretical propulsion systems, and some of the more credible reports I have read regarding US and Canadian government activities involving UFOs.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73425.html](http://www.nuforc.org/webreports/reports/073/S73425.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Dover (MD) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>freinds and familes see UFOthere at least 2 objects, one was in the SAME location, height, etc. for like 2 hours staight, was fading in and out in a weird fashion. we were playing glow in the dark football, when this light caught our attention, no sound what so ever from it, was not helicopter, star, flare, or anything natural./  Anyone else see this????</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66188.html](http://www.nuforc.org/webreports/reports/066/S66188.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165070.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165118.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165121.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164942.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165113.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
