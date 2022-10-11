@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:12:30 on 11 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:02:10 on 11 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Bluffton (SC) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>v shape with huge two back wheels had blue lights and the front red lights.Last night around 20:50 pm, I heard a very loud noise that sounded like a heavy truck, i.e., (garbage or cement truck).  It was so loud that I went and opened my door to see what was going on.  I didn’t see anything at eye level, so I looked up to the sky.   It was past my house, just to the left of me, moving quite fast and the noise continued. Appearance.   Looked like either a huge plane or a tricycle, the back wheels had blue lights, in the front had red flashing lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160567.html](http://www.nuforc.org/webreports/reports/160/S160567.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Colbert (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Slow moving white light UFO disappears.Me and my fiancé were sitting on our porch looking out at the night sky and talking when between the trees I saw a light traveling from north to south and straight at us but at same time a slightly crurved path toward our home.  It was traveling slower than an air craft and it did not blink. It was a  pure singular white light.  We ran out into the yard to watch it as it flew over our home.  After it went over our home it continued to move upward into the sky and vanished in seconds.  It looked a star but brighter and bigger.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143465.html](http://www.nuforc.org/webreports/reports/143/S143465.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165070.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165118.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165121.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164942.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165113.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
