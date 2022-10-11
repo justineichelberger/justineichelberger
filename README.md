@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:01:35 on 11 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:01:25 on 11 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Bellmere (Australia) () reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Very large long white cylinder object traveling high up and smoothly above storm clouds.Background- Exactly two weeks prior, I had seen another UFO.  Plus a history of sightings, strange behavior/time loss and possible abduction aged 3-4.I was walking home admiring the sunset and the beautiful clouds. I had calmed down over what I'd seen two weeks ago, and didn't expect to see anything anytime soon.I was about to cross a road when I saw something strange very very high up, up above the high atmosphere clouds. It was a long cylinder, perfectly white. I thought at first that it was an airplane making a trail, but as it came out from above the clouds, the 'trail' suddenly stopped and the end of it moved with the front... and I realized it was a cylinder shaped object.It had to be huge- it was almost three centermetres long from my standing spot but it was very much above the storm clouds as they grew. It was white, didn't reflect the sunset like the clouds did, and I only watched it for a few minutes before it went over another big cloud.It was heading into the wind direction, though I don't know if it had wind that high up.Compared to the last sighting, this one was peaceful. I got the impression that it was indifferent to me, it knew I had seen it but didn't care either way. It was very big.I can submit drawings of it but I had no camera on me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67725.html](http://www.nuforc.org/webreports/reports/067/S67725.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Albany (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Oval metallic objectIn passenger seat on I-87 south coming back from Saratoga Springs towards Half Moon I had a feeling to look up in the sky. I could see what I approximate as a few miles away an oval metallic craft in the air which stayed in roughly the same spot for close to a minute before descending directly down at fast speed and then seemingly vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78425.html](http://www.nuforc.org/webreports/reports/078/S78425.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165070.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165118.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165121.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164942.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165113.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
