@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:29:48 on 11 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:26:59 on 11 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Star like ufos + low altitude sighting.white sphere high in sky.  Red spheres appear hovering around white sphere.  Spheres would line up with each other in formation.  Kind of faded in and out.  After a while another white sphere flew across the sky at a lower altitude.  All spheres emitted faint light.Could have been mistaken as stars but they were clearly within our atmosphere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114462.html](http://www.nuforc.org/webreports/reports/114/S114462.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Merriam (KS) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>White cigar-shaped craft above Merriam, KS.Sighted from 5800 Foxridge Blvd,: white cigar-shaped craft in S-SW sky.  Object slowly hovered in a circle, then flew straight upward instantly, then back downward several times before flashing and vanishing in a small burst of gold colored light.No sound was omitted from the object whatsoever.Beautiful!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136701.html](http://www.nuforc.org/webreports/reports/136/S136701.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165070.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165118.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165121.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164942.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165113.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
