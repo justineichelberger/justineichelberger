@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:43 on 10 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:02:44 on 11 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Bonaire (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Triangular Object Sighted at Very Close RangePeter I am sending this report on behalf of a friend.  I will relate the incident as told me in the first person, although I helped compose the report.  We have tried to be as accurate as possible.  I visited the location of this sighting with the witness and indeed she was very close to the object.  This sighting location is 6 to 7 miles SW from the runway at Robins Air Force Base.  A bit south of Hwy. 96 and west of Moody Road, the exact location not being specified for this report.  The year was 1997, and I’m not absolutely sure, but I think it was in the fall.  It was early evening and my boyfriend and I were sitting on the trunk of his car in the driveway to his house, by the side of the road.  It is a two-lane paved road through a residential area, and on the side opposite us there was a thin stand of trees, maybe 30 ft tall and behind them was an open field. How the object arrived is still a bit fuzzy to me and I can’t be sure if it just appeared or came up quickly while we were looking the other way.  I just remember it was “there” hovering just above the tree tops on the other side of the road.  It was triangular in shape, but the sides were curved outward instead of being straight.  It was a deep black in color, and although it was dark, there was a full or nearly full moon, and we could easily see it.  About half of it was over the trees and the rest was in our view while it was hovering.  It actually protruded out over the road.  It was maybe 30 feet across at the widest point.  Surprisingly I was not scared at all, but rather very fascinated.  I surely didn’t know what to think as nothing of this sort had ever happened to me before.  I even waved my arms and tried to talk to “it”, but there was no indication from the object that it ever noticed us.  The top was dome shaped, there were no lights, it made absolutely no sound of any kind, no humming, no whirring, nothing!  We were within 50-75 feet of the object the entire time. After hovering for several minutes, it moved slowly across the road and over us and then accelerated at an unbelievable rate to the WNW and was out of sight in less that two seconds, maybe even one.  The entire sighting lasted less than 5 minutes to the best of my recollection.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54887.html](http://www.nuforc.org/webreports/reports/054/S54887.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Brooks (Canada) (AB) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright orb in clear sunny sky just before dusk in a clear sky. Bright light appears for 30 seconds disappeared then reappeared for 20 seconds and vanishes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159927.html](http://www.nuforc.org/webreports/reports/159/S159927.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [495](http://www.nuforc.org/webreports/reports/164/S164910.html)
-- [494](http://www.nuforc.org/webreports/reports/164/S164966.html)
-- [493](http://www.nuforc.org/webreports/reports/164/S164956.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164937.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
