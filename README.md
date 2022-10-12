@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:54:38 on 12 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:44:22 on 12 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Everett (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two bright lights  where in the sky near the eastern horizon at sunset.  We were driving east when we saw them.  The crescent moon was in the western horizon.  We saw the lights  and thought they might be planets at first.  Then, we thought they were airplanes but they were not moving and did not have any red lights flashing.  One appeared suddenly, to make three lights, just as we turned north up a street. and then after a couple minutes the third light disappeared.  Then another disappeared, leaving only one.  The third disappeared and seemed to have moved up and to the right (south) at an angle that faded quickly sort of like smoke trailing.  We were in our car driving in the town so it was hard to see exactly what was going on.  This is our first sighting.  Pretty amazing.  Might have made a triangle, but they were close together as a group, but never crossing paths or touching.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143488.html](http://www.nuforc.org/webreports/reports/143/S143488.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately kept going - kept going minutes.</sub><blockquote><sub>Pulsing light of red, green and white seen in western and southern sky over Albuquerque.I was stargazing on my porch that night because the sky was so clear.  At first I thought I was seeing a pulsing, twinkling star, but then it began to change colors rapidly, including red, green, and white.  The object would stay in one spot for a few seconds, then slowly move a short distance in random directions (up, down, left, right).  I called my adult son outside to see it because he had mentioned clearly seeing the same thing several nights in a row this week on his way back from work on a bicycle at 4 or 5 a.m. He confirmed that this was the same thing he had been sighting, but he had seen it in the southern part of the city near Kirtland AFB and the Albuquerque airport in the wee hours of the a.m.  His sightings also included purple as one of the colors.The light was directly west in the sky.  Our home is close to the exact center of the city near the crossing of I-25 and I-40.  Other events going on this week were the Albuquerque Balloon Fiesta, and fireworks the same night as my sighting.  However, the balloon events are held in the far north part of the city, nowhere close to where I clearly viewed this object. It had to be a distance of approximately 10 miles.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103192.html](http://www.nuforc.org/webreports/reports/103/S103192.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164962.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164944.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164950.html)
-- [381](http://www.nuforc.org/webreports/reports/159/S159994.html)
-- [380](http://www.nuforc.org/webreports/reports/159/S159897.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
