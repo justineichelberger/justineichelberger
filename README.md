@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:29:57 on 12 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:54:38 on 12 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in York (PA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 55.0 - 55.0 minutes.</sub><blockquote><sub>Another sighting in York PA!!!Viewed one very bright and multicolored anomaly in the sky. The unidentified flying object moved upward, backwards, and then side-to-side. It was visible for approximately 45 minutes and still somewhat visible (with binoculars only) for about another 10 minutes. During this entire time, there we helicopters within a fairly close range circulating the object. I must say that this is my 2nd report submitted to this site. I’ve decided to remain anonymous because I am a mother, stepmother, and a wife living in a small community (depends on where you’re from…I’m from a bigger city). Moreover, I know that there is some danger in speaking about this. I guess I feel the need to report these sightings so that others know that they are not insane. Something very strange is going on in our skies and the media in our country seems to overlook the phenomenon. I feel like our government knows a lot more than they’re letting on. I encourage everyone to report what they see when they see it. I feel uncomfortable knowing that such a huge secret is being kept from us! One must ask why we’re being fed fabricated stories of air balloons and satellites being confused as UFO’s when it is evident (to me and many others) that this is not the case. I’m not a crazy drug-addicted person with nothing better to do than make-up wild science-fiction stories. I’m a relatively “normal” (by society’s standards) woman looking to the sky for answers. Also, I have witnessed chemtrails numerous times in the York skies. I don't know if there is a connection but I thought it was worth mentioning. I do have photos of these so-called chemtrails that I will submit to this site soon.((NUFORC Note:  Witness elects to remain anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59271.html](http://www.nuforc.org/webreports/reports/059/S59271.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Everett (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two bright lights  where in the sky near the eastern horizon at sunset.  We were driving east when we saw them.  The crescent moon was in the western horizon.  We saw the lights  and thought they might be planets at first.  Then, we thought they were airplanes but they were not moving and did not have any red lights flashing.  One appeared suddenly, to make three lights, just as we turned north up a street. and then after a couple minutes the third light disappeared.  Then another disappeared, leaving only one.  The third disappeared and seemed to have moved up and to the right (south) at an angle that faded quickly sort of like smoke trailing.  We were in our car driving in the town so it was hard to see exactly what was going on.  This is our first sighting.  Pretty amazing.  Might have made a triangle, but they were close together as a group, but never crossing paths or touching.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143488.html](http://www.nuforc.org/webreports/reports/143/S143488.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164962.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164944.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164950.html)
-- [381](http://www.nuforc.org/webreports/reports/159/S159994.html)
-- [380](http://www.nuforc.org/webreports/reports/159/S159897.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
