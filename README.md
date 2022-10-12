@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:18:46 on 12 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:07:34 on 12 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Buckeye (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>i saw "bubba " in buckeye az  very red and very brightafter hearing about "bubba" on coast to coast the night after i saw it im convinced that it was "bubba" it was red and just sitting in the sky ...then after 5 mins or so it just vanished ..i work in a prison and i was outside with an inmate we both were talking about the bright red light in the distance i was joking with him that it was a ufo ...i guess it was no joke..i got a pair of binoculars out to try and see it better but it didnt make it any clearer to me</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14545.html](http://www.nuforc.org/webreports/reports/014/S14545.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Erie (PA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Huge dark disk slowly rotates over Erie, PaI live in Erie, Pa on Sunday evening, October 1,2 at approximately 20:45 pm I went out back to smoke a cigarette. It was cloudy out very dark grayish clouds.While looking up at them I noticed they huge disk just below the clouds slowly floating over while rotating to the right. I had the back lights out so I got a pretty good look at it it was dark like the clouds kinda grayish like it was blended in with them.  The shape was as  if you took 2 frisbie turned one upside down and glued them together.  It was almost silent but you good hear like a electrical kind of sound very slight.  It floated off in a southwest direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114493.html](http://www.nuforc.org/webreports/reports/114/S114493.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164962.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164944.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164950.html)
-- [381](http://www.nuforc.org/webreports/reports/159/S159994.html)
-- [380](http://www.nuforc.org/webreports/reports/159/S159897.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
