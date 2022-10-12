@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:27:15 on 12 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:18:46 on 12 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Pittsburgh (PA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Craft zoomed past my windshieldMe and my roommate at the time were leaving a friends house in my truck .  I left and made a left was coming down a hill.  There was a low flying object.  Rectangle shaped maybe tradition UFO disc with 4 huge lights not consistent with a aircraft I see planes all the time.  This object was not over head but visible thru the windshield moved from r to l across the windshield in view maybe half way cutting aross the window.  I looked at him and said you see that??  He said ya I seen it.  I said was it a plane?  He said idk what it was.  And won't answer to this day what it was.  There was from left to right square white light rectangle red light small space red rectangle white square.  This was NO blinking light that all air planes have.  We live between 2 airports but this thing was silent and zoomed across too fast.  And was gone!!!!  By the time I hit the corner.I obviously don't belive in "god" literally but I assure you this is 100% true story.I also have a video of a light orb on my security cameras for 8 Minutes  I don't know what it was but I have seen stink bugs spiders u name the bug I seen it on there this is something else.  The cat even watches it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106341.html](http://www.nuforc.org/webreports/reports/106/S106341.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Buckeye (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>i saw "bubba " in buckeye az  very red and very brightafter hearing about "bubba" on coast to coast the night after i saw it im convinced that it was "bubba" it was red and just sitting in the sky ...then after 5 mins or so it just vanished ..i work in a prison and i was outside with an inmate we both were talking about the bright red light in the distance i was joking with him that it was a ufo ...i guess it was no joke..i got a pair of binoculars out to try and see it better but it didnt make it any clearer to me</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14545.html](http://www.nuforc.org/webreports/reports/014/S14545.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164962.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164944.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164950.html)
-- [381](http://www.nuforc.org/webreports/reports/159/S159994.html)
-- [380](http://www.nuforc.org/webreports/reports/159/S159897.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
