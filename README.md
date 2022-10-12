@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:15:04 on 12 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:05:43 on 12 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1994, an anonymous witness in Monticello (KY) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Triangular/chevron small object with fixed lights at corner--very fast moving.I am reporting this 12 years later, so some of the details I won't remember.  I was driving home after school, and I was on a side road getting ready to turn on to a more travelled road.  As I slowed to stop before turning onto the road, I looked in my rearview mirror and saw something flying very quickly in the distance--it would have been like I was looking over my right shoulder.  At first, the sun glinting on the object made it catch my eye.  At first I thought it was a ballon and was catching the sun funny, but then it began to get closer, and I could see it was too large and moving too fast.  However, it was too small to be a plane, and too low and too fast.  The object flew over and above the trees and to the right.  By this time, I had turned onto the road, but I had slowed down to look, and two other cars had slowed also--so it wasn't just me.  I tried to make myself think it was a sophisticated R/C toy of some kind, but it was too big for that.  It was very, VERY quickly gone.  This whole incident was 1-2 minutes in length. The object (I got a brief good look when it was overhead) was chevron/triangular shaped, with steady lights at each corner and (I think) some moving lights between the corners.  It was silent and, as I've said, small and fast.  I did tell some others, and we thought it might be an experimental military device.  I think it was too small for anyone/thing to be in it.  It is hard for me to know how high it was since it was a very clear and bright day with no clouds.  I had nothing to compare it to in the bright blue sky.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52497.html](http://www.nuforc.org/webreports/reports/052/S52497.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Franklin (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright white lights one then three then four appeared then all diappeared then reappeared.There was one white light hovering looked round in shape then there were 2 then 4 then two went away then reappeared they seemed to have a three star shape like an outline both me and my husband commented on it then they just sort of hovered jumping around then all of them disappeared then just flashed back on.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103176.html](http://www.nuforc.org/webreports/reports/103/S103176.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164962.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164944.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164950.html)
-- [381](http://www.nuforc.org/webreports/reports/159/S159994.html)
-- [380](http://www.nuforc.org/webreports/reports/159/S159897.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
