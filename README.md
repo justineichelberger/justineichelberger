@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:01:53 on 12 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:02:08 on 12 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in San Juan (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>8:30ct   Oct. 12, 2009  Myself, my husband and my daughter saw a large bright object that looked like a star at first.... It was moving straight up in the sky and stayed bright for a minute or so then all of a sudden the bright light shut off and it started blinking.... Then it moved fast to the opposite side of where we first spotted it... And it seemed to be hovering in one spot... We didn't hear a sound.. If it were a plane we would have heard it because it moved right over us it seemed... We are still aaahhhed about the whole thing.. Never seen anything like it during the night...((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72818.html](http://www.nuforc.org/webreports/reports/072/S72818.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in Alpine (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>DURING A HUNTING TRIP IN THE MOUNTAINS,WE MADE CAMP AND LATE THAT NIGHT I SAW THE FOLLOWING.  A BRIGHT LIGHT THAT CAME FROM THE SOUTHEAST HEADING NORTH.  IT STOPPED ABOUT AT 1500 ABOVE,HOVERING WITH THE LIGHT FASING AND GLOWING.  THEN ANOTHER LIGHT LEFT FROM THE FIRST ONE LIGHT HEADING TO GROUND AT A 45 DEGREE ANGLE.IT WAS OUT OF SITE FOR ABOUT 20 MINUTES,THEN RETURN TO THE LARGER LIGHT FOR ABOUT 5 TO 8 MINUTES AND THEN RETURNED TOWARDS THE GROUND AGAIN.THIS CARRIED ON FOR ABOUT A HOUR AND A HALF. AFTER THAT THE SMALL LIGHT SEEM TO CONNECT TO THE LARGER LIGHT AND THE LARGER LIGHT SHOT UP AT A 80 DEGREE SO FAST I ALMOST MISSED SEEING IT..  NEVER TOLD ANYONE ABOUT THIS BUT IT WAS ON THE BORDER OF ARIZ. AND NEW MEXICO</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100968.html](http://www.nuforc.org/webreports/reports/100/S100968.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164962.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164944.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164950.html)
-- [381](http://www.nuforc.org/webreports/reports/159/S159994.html)
-- [380](http://www.nuforc.org/webreports/reports/159/S159897.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
