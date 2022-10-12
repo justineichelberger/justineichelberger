@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:16:18 on 12 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:15:05 on 12 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Marlton (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>20 cirlces of orange lite in the Kings grant area marlton New JerseyMy girlfriend ( Natalie ) and i were coming home down coventry circle east in kings grant when i spotted large circles of bright orange lite moving slow over the tree tops. they made no sound and moved all at the same elevation over the trees weaving in and out, some in pairs others drifting away from the pack. we lost them and drove up to one of the school parking lots in the kings grant developement, parked with the top down by then most had passed us and there was one all alone passing slow right over our heads at tree top level then increassed speed once it hit the trees again. WOW....</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93611.html](http://www.nuforc.org/webreports/reports/093/S93611.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Russell Springs (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>There is no other explanation than a UFOBall if light has hovered over too if trees for two night in a row.  One will come down then sometimes a second will also come down.  they have some kind if red and orange ball of light coming down out of them.  The one will hover for a while then take off into the sky in zigzags or circles then come back down to the tops of the trees.  We have this recorded but sometimes the phone just stops working while recording.  Also dogs and coyotes were howling from miles away all at one time</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103217.html](http://www.nuforc.org/webreports/reports/103/S103217.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164962.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164944.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164950.html)
-- [381](http://www.nuforc.org/webreports/reports/159/S159994.html)
-- [380](http://www.nuforc.org/webreports/reports/159/S159897.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
