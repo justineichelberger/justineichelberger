@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:44:22 on 12 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:27:15 on 12 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately kept going - kept going minutes.</sub><blockquote><sub>Pulsing light of red, green and white seen in western and southern sky over Albuquerque.I was stargazing on my porch that night because the sky was so clear.  At first I thought I was seeing a pulsing, twinkling star, but then it began to change colors rapidly, including red, green, and white.  The object would stay in one spot for a few seconds, then slowly move a short distance in random directions (up, down, left, right).  I called my adult son outside to see it because he had mentioned clearly seeing the same thing several nights in a row this week on his way back from work on a bicycle at 4 or 5 a.m. He confirmed that this was the same thing he had been sighting, but he had seen it in the southern part of the city near Kirtland AFB and the Albuquerque airport in the wee hours of the a.m.  His sightings also included purple as one of the colors.The light was directly west in the sky.  Our home is close to the exact center of the city near the crossing of I-25 and I-40.  Other events going on this week were the Albuquerque Balloon Fiesta, and fireworks the same night as my sighting.  However, the balloon events are held in the far north part of the city, nowhere close to where I clearly viewed this object. It had to be a distance of approximately 10 miles.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103192.html](http://www.nuforc.org/webreports/reports/103/S103192.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Pittsburgh (PA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Craft zoomed past my windshieldMe and my roommate at the time were leaving a friends house in my truck .  I left and made a left was coming down a hill.  There was a low flying object.  Rectangle shaped maybe tradition UFO disc with 4 huge lights not consistent with a aircraft I see planes all the time.  This object was not over head but visible thru the windshield moved from r to l across the windshield in view maybe half way cutting aross the window.  I looked at him and said you see that??  He said ya I seen it.  I said was it a plane?  He said idk what it was.  And won't answer to this day what it was.  There was from left to right square white light rectangle red light small space red rectangle white square.  This was NO blinking light that all air planes have.  We live between 2 airports but this thing was silent and zoomed across too fast.  And was gone!!!!  By the time I hit the corner.I obviously don't belive in "god" literally but I assure you this is 100% true story.I also have a video of a light orb on my security cameras for 8 Minutes  I don't know what it was but I have seen stink bugs spiders u name the bug I seen it on there this is something else.  The cat even watches it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106341.html](http://www.nuforc.org/webreports/reports/106/S106341.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164962.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164944.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164950.html)
-- [381](http://www.nuforc.org/webreports/reports/159/S159994.html)
-- [380](http://www.nuforc.org/webreports/reports/159/S159897.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
