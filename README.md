@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:03:51 on 13 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:01:30 on 13 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Green (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>I captured an unknown metallic flying object on my digital camera photo.My husband and I were in our back yard taking photos of the sky.  We had a number of twin rotor helicopters fly over our home, about 6-7 times in an hour so we were just outside watching.  The last helicopter flew over at approximately 15:01 according to the time stamp on the cell phone video I took of it.  It was a nice day so we decided to stay outside in the yard.  We are near CAK and so there is a lot of jet traffic in our area all the time and we are used to it...however on this day there was much more air traffic than normal.  My husband noted that some of the jets were moving unusually fast and although they should have been in ear shot, were making no noise that we could hear from the ground. I began snapping photos of those jets and their contrails.Upon review of the photos on my digital camera I noticed a dark spot in one of them.  Thinking it was just a piece of dirt on the LCD screen I scrolled to the next photo, and when I did the spot disappeared. I went back to the previous photo and the spot was there again, at this time I took the memory card out and put it in my lap top so that I could zoom in. I fully expected the spot to be a bird or falling leaf, however it was neither of these things.  My husband and I know for a fact that at the time we took the photo there was no helicopter in the area and the closest jet was the one in the far distance of the photo.  I tried to debunk the spot, but I can find no plausible explanation for what I captured on the photo.To me, it appears a dull gray metallic object, triangular or boomerang shaped, with a dark blue or black dome.I'm not sure why we did not see this object with our naked eyes...the only explanation I can give for that is that we were both focused on the jet in the distance and were talking to each other about it and the possibility that it was spraying chemtrails.I'm really at a loss to explain what the object is and why it is there.  The fact that there were helicopter activity in the area leading up to the sighting makes me wonder if it may possibly be secret military craft, or something else.  I'd just like to have some kind of an explanation for what it is.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78390.html](http://www.nuforc.org/webreports/reports/078/S78390.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Sand Springs (OK) reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Went outside to take dog out and saw an unusually bright star.  Kept staring at it because it was blinking red and white, and was spinning and alternating colors.  I look at the stars every single night, and this was no star.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136731.html](http://www.nuforc.org/webreports/reports/136/S136731.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [395](http://www.nuforc.org/webreports/reports/164/S164957.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164953.html)
-- [393](http://www.nuforc.org/webreports/reports/159/S159946.html)
-- [392](http://www.nuforc.org/webreports/reports/160/S160025.html)
-- [391](http://www.nuforc.org/webreports/reports/159/S159938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
