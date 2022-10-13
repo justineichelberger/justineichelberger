@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:01:30 on 13 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:01:40 on 13 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Sand Springs (OK) reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Went outside to take dog out and saw an unusually bright star.  Kept staring at it because it was blinking red and white, and was spinning and alternating colors.  I look at the stars every single night, and this was no star.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136731.html](http://www.nuforc.org/webreports/reports/136/S136731.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Manchester (UK/England) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>((NUFORC Note:  Possible daytime meteoric event, although please see second report from the same area for the same time and date.  PD))loud sonic like bang, /two fire balls /cometsa number of eye witness reports can be read ,as off todays report in the Manchester Evening news web site: http://www.manchesteronline.co.uk/news/s/133/133432_riddle_as_massive_blast_rocks_homes.htmlARTICLE FROM MANCHESTER NEWS FOLLOWS: manchester newsEmail to a Friend | Your commentsWednesday, 13th October 2004Riddle as massive blast rocks homesNeal KeelingA MYSTERY explosion rocked Greater Manchester today.Police and the fire service received dozens of calls from the public about the blast which happened at 7.30am.But despite efforts by both services to locate the source nothing was found.Fire service spokesman Ian Bailey said: "We had people calling from a wide area - Chorlton, Flixton, Farnworth, and Walkden - saying they had heard a huge explosion. "But we have not responded to any incident which would explain the blast. Some of the control room officers at our headquarters in Pendlebury also heard it."A police spokesman said: "We have not been able to find any explanation and there is no rubble or bricks anywhere."MeasurementsThe British Geological Society is investigating.Though none of their earthquake signals were triggered, it said that it may have been too shallow to register on their measurements.Another possibility is that the blast could have comefrom old mine workings. There are disused shafts in the Walkden area and at Agecroft where a pit closed at the beginning of the 1990s.Lynn Hall, of Sherwood Drive, Pendlebury, said: "At 7.25am this morning I was locking the door of our house and my husband Carl was waiting for me to come out. He said to me `Did you hear that loud bang?' He kept mentioning it because it was so loud."One caller to a radio station has claimed that she saw something falling from the sky. But fire brigade spokesman Paul Duggan said: "If it had been a meteorite we could have expected to have found a crater - which we haven't, unless it is the middle of a golf course or a field."Submit your commentsView comments (90 comments. Last comment 27/10/2004 at 14:42)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39767.html](http://www.nuforc.org/webreports/reports/039/S39767.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [395](http://www.nuforc.org/webreports/reports/164/S164957.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164953.html)
-- [393](http://www.nuforc.org/webreports/reports/159/S159946.html)
-- [392](http://www.nuforc.org/webreports/reports/160/S160025.html)
-- [391](http://www.nuforc.org/webreports/reports/159/S159938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
