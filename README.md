@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:27:24 on 13 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:15:38 on 13 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Hawley (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I was driving on 590 going towards 6. I look up in the sky because of green light that had caught my eye to see a green ball flying. It was flying slow then sped up really fast and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149815.html](http://www.nuforc.org/webreports/reports/149/S149815.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Ashland (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>very bright greenish blue light the size of a large star moving slowly  NW to SE and back again gaining altitude for 1/2 hour at 3:30I first noticed a bright greenish blue light high in the northwest sky moving very slowly in a southeast direction. I thought at first it was a helicopter but after a time I realized it was much too high for any helicopter to be flying. After nearly 10 minutes of travelling three quarters of the way across the sky it suddenly stopped. It remained stationary for a minute or two and then headed back the way it came toward the northwest. I assumed it was gaining in altitude as it did so because by the time it reached the northwest position where I first noticed it it was barely perceptable. I stood in the middle of the street and  watched it for aproximately 1/2 hour before it was too high in the sky to see.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59243.html](http://www.nuforc.org/webreports/reports/059/S59243.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [395](http://www.nuforc.org/webreports/reports/164/S164957.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164953.html)
-- [393](http://www.nuforc.org/webreports/reports/159/S159946.html)
-- [392](http://www.nuforc.org/webreports/reports/160/S160025.html)
-- [391](http://www.nuforc.org/webreports/reports/159/S159938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
