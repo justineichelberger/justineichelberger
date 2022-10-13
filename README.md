@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:02:32 on 13 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:13:00 on 13 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Oregon City (OR) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>I was out taking my dog to go "potty" when I looked up at an object emitting a solid orange-ish light-travelling south to north.  The objects made no sound.  They came in separately, following the same path. At a certain point the lights/objects vanished.  They could have been gliders but I don't think gliders can travel that fast (about the same speed or more than a jet).  It could also be that I simply didn't hear the engines.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93547.html](http://www.nuforc.org/webreports/reports/093/S93547.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Reno (NV) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>SUMMARY:  At 3:19 am, bright light seen outside window and then one small tugboat triangular shaped aircraft seen over the house and then both oc.At 3:19 am, bright light seen outside window and then one small tugboat triangular shaped aircraft seen over the house and then both occupants taken on board craft and returned home safely 40 minutes later at 3:59 am.One of the witnesses remembers little.  Second witness able to recall clearly the entire event and is a former NYer living in Nevada, just one year and one month.  Used to live in Pine Bush UFO sightings area, so not startled by this kind of event.  Note:  I mentioned to the other witness that I could smell a strong sense of something like a chemical vapor that made me feel nauseated and then the cat came in the room and started to get sick.NUFORC NOTE:  Location of sighting reported as "Lemmon Valley "Stead" area."</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01881.html](http://www.nuforc.org/webreports/reports/001/S01881.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [395](http://www.nuforc.org/webreports/reports/164/S164957.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164953.html)
-- [393](http://www.nuforc.org/webreports/reports/159/S159946.html)
-- [392](http://www.nuforc.org/webreports/reports/160/S160025.html)
-- [391](http://www.nuforc.org/webreports/reports/159/S159938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
