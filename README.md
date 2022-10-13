@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:02:21 on 13 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:29:31 on 13 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Gilbert (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>An alternating red and blue lighted object, bobbling rapidly and erratically in the sky and then descending  in a controlled fashion.We saw a red object in the sky, that started as a smooth arc to the east.  Then the object began to bobble, shifting positions quickly and erratically, left to right, up and down.  At one point the light turned to blue and then changed back to red.   Colors changed intermittently from red to blue several times.  Then it displayed both red and blue and slowly and controllably descended out of the field of view in a straight line.  The lighted object was much larger than traditional airplane lights, approximately 1/8th the size of the moon last night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78373.html](http://www.nuforc.org/webreports/reports/078/S78373.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Clayville (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Ufos moving in a puzzle formationMy sister yelled to me to come outside I saw 4 objects flying in the sky ran back in to get my phone cam & managed to get a recording of them. The phone turned off & then the objects vanished into thin air.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149861.html](http://www.nuforc.org/webreports/reports/149/S149861.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [395](http://www.nuforc.org/webreports/reports/164/S164957.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164953.html)
-- [393](http://www.nuforc.org/webreports/reports/159/S159946.html)
-- [392](http://www.nuforc.org/webreports/reports/160/S160025.html)
-- [391](http://www.nuforc.org/webreports/reports/159/S159938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
