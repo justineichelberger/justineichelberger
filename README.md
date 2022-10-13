@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:06:46 on 13 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:05:28 on 13 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Twin Falls (ID) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>two orange lights moving in a straight line with each other disapeardOnce agin on my way to work over the west horizion I see two orange lights about 1 mile apart moving in a stright line with each other and just disaperaed( Clear Night) a few seconds later a third orange light apeared at a lower altitude and just disapeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39774.html](http://www.nuforc.org/webreports/reports/039/S39774.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Milford (CT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 9.0 - 9.0 minutes.</sub><blockquote><sub>9 Orange Circles (Fireballs) seen traveling one group of 5 then 4 moving one at a time in same pathAt about 2228hrs I heard a horn like noise. I looked out my window to see what was going on.  About South East from my location coming from Long Island sound over swamp land I saw five orange circle shape lights moving in the same direction in a direct line(top to bottom) moving in a North West trajectory.  The objects were moving very fast.  I ran outside to get a better look, the lights stayed in the same line keeping the same equal distance apart top to bottom however 2 of the lights appeared to slow down and were moving further apart side to side. The 2 lights that were moving further apart side to were lights 2 and 4 counting down.  Then the lights that were further ahead(1,3,&5) stopped in the air and waited lights 2 and 4 to catch up.  Then all the lights changed direction and headed NNE. Then four more orange cirlce lights came out however it was only one at a time following the same path as the previous five.  Once one left my view another came out. It should be noted that after I saw the group of 5 I ran to find video camera which was dead and could not be worked by plugging into a wall outlet.  Only had a charger for battery older camera.  I did video one orange light with my video on my cellphone which is near impossible to tell unless it can be blown up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93530.html](http://www.nuforc.org/webreports/reports/093/S93530.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [395](http://www.nuforc.org/webreports/reports/164/S164957.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164953.html)
-- [393](http://www.nuforc.org/webreports/reports/159/S159946.html)
-- [392](http://www.nuforc.org/webreports/reports/160/S160025.html)
-- [391](http://www.nuforc.org/webreports/reports/159/S159938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
