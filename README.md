@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:37 on 13 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:19:40 on 13 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Berlin (Germany) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>7 shooting lights, followed by a formation, followed by a fireball.They appeared to be white in colour and exhude an extrodinary ammount of bright light.This was witnessed by both myself and my partner from our living room balcony. The objects were with in no doubt, very close to our home.I hope this reporting has been of use to you.((NUFORC Note:  Witness provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52936.html](http://www.nuforc.org/webreports/reports/052/S52936.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Knightdale (NC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately  -  minutes.</sub><blockquote><sub>4 horizontal lights in the sky... stationary, then zig zag  with tail, finally still again.I was driving down the road in the evening and I saw four stationary fireball yellowish white lights high up in the sky.  I also saw a plane driving by.  Suddenly, 2 of the balls of light swooped down and the other two began to zigzag.  When the fire ball lights moved they produced a tail behind them.  It looked sort of like a metiroid.  However, unlike a metiroid, the balls of light that swooped down changed direction and then skirted horizontally across the sky.  When they were on the other side of the road still high in the sky the lights stopped moving.  The tree line covered up the stationary light as I was driving and I did not see anything else.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136722.html](http://www.nuforc.org/webreports/reports/136/S136722.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [395](http://www.nuforc.org/webreports/reports/164/S164957.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164953.html)
-- [393](http://www.nuforc.org/webreports/reports/159/S159946.html)
-- [392](http://www.nuforc.org/webreports/reports/160/S160025.html)
-- [391](http://www.nuforc.org/webreports/reports/159/S159938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
