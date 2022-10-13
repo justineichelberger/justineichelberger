@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:08:09 on 13 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:01:46 on 13 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Cedar Bluff (AL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>bright star like ufo.Looked like a star at first till i noticed it was moving it had no flashing lights on it at all it had a blue colr to it almst like a whiteish blue color it disappeared after 3-4 minutes of me observing it this is one of three sightings ive had this year.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93589.html](http://www.nuforc.org/webreports/reports/093/S93589.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Columbus (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>I was taking out the trash when I saw lights coming from the south.  First two yellow orange balls came into view and I ran in to get my wife.  Two more came into view and one changed into a triangle shape and then sped up and disappeared.  Two more went to the north east and the last one spilt off and went north west and then vanished.  I have video and still pictures.  When they passed close to the house the lights in the house dimmed.  No sound whatsoever was heard.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149819.html](http://www.nuforc.org/webreports/reports/149/S149819.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [395](http://www.nuforc.org/webreports/reports/164/S164957.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164953.html)
-- [393](http://www.nuforc.org/webreports/reports/159/S159946.html)
-- [392](http://www.nuforc.org/webreports/reports/160/S160025.html)
-- [391](http://www.nuforc.org/webreports/reports/159/S159938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
