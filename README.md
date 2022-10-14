@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:14:42 on 14 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:02:44 on 14 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Yonkers (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was watching a star like object moving very slowlyI was awaiting transpotation then I happened to look up in a very crisp clear blue sky I saw what look like a very small star but it was moving. It was not a bird,military craft, or any other airplane. I was watching it and then lost sight of it. This was a very strange craft I can usually say that it could be identified but this one was something very different.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10219.html](http://www.nuforc.org/webreports/reports/010/S10219.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Bend (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Spinning Triangle appearing to float across the sky.In the sky a small silver triangle, flashing lights, no chem trail or vapor trail emitting from the craft.  The triangle was spinning or rotating in a circle as it traveled north/north east across the sky.  We could not hear any sound coming from it, but there were lights both white and red flashing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122807.html](http://www.nuforc.org/webreports/reports/122/S122807.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [385](http://www.nuforc.org/webreports/reports/164/S164967.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164976.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164964.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165119.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164972.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
