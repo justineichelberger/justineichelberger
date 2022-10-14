@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:34 on 14 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:36 on 14 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Cagayan de Oro City (Philippines) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>My boyfriend and I went outside the firexit stairs on a 4 sorey building, where the fm radio station is. My boyfriend first saw a white glowing one and as it strated to take off the color changed into green and red like a siren light it rotated closer to us and then in a few minutes it gradually disappeared in the sky. Above us is in rthe sky was a half-moon and a couple of stars.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25587.html](http://www.nuforc.org/webreports/reports/025/S25587.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Honolulu (HI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>My family and I were driving home from the North Shore of Oahu where we spent the day on the beach, I had gotten a new digital camera 7.2 mega pixel and I have been using it a lot.  Just to let you guys know this is not the only flying craft I have captured on this camera; I have 3 or 4 other fascinating images taken here on Oahu.  I was born and raised here in Hawaii lived on 3 different Islands etc.  So I think I’m qualified.  Ok nuff of the BS, here is my story, on the way home I started to shoot images out of my passenger side window which was all the way down.  The mountain you see in the background is the tallest mountain on this island elevation around 4,500 ft.  It is on the boarder on the biggest military base on this island. Schofield Barracks.  I believe there is a base inside of that mountain on that base.  I know I’m not crazy, I’m 46 years old been married for 24 years! 3 beautiful children.  I don’t want any fame or money for this. Just dig, dig until you find the reason behind it. I know it is not of this earth.  Aloha, F.Enclosed you will have pics.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  Photos is tiny black speck in the distance.  We do not know what it is, but we cannot certify that it is a genuine UFO.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62204.html](http://www.nuforc.org/webreports/reports/062/S62204.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [385](http://www.nuforc.org/webreports/reports/164/S164967.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164976.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164964.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165119.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164972.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
