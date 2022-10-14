@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:57:00 on 14 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:55:42 on 14 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Parishville (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>At 7:45 we pulled in to the driveway coming home from a ride.  We heard jets flying over, must of been from fort drum army base.  Then a globe of light flashed in sky 3 times.  Then jets proceeded to chase it.  After that, big orange balls lit up in sky.  Flashing like a flash light on and off signaling each other, while jets kept hovering in the area like they were chasing them.  Really awesome site to see.  UFO sightings.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114535.html](http://www.nuforc.org/webreports/reports/114/S114535.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Mechanicsburg (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.36666666666666664 - 0.36666666666666664 minutes.</sub><blockquote><sub>I was in my back yard playing with the dogs and noticed a small aircraft going in circles. I thought man he is having fun and then I caught a moving object about several hundred feet up or maybe a thousand feet. It was silver and just moving along with no wings or propellers. I was like what is this? Then I stood on our picnic table to watch it go over our house roof. It paused on the other side of our neighbors house across the road, but only for about 3 seconds. Then it moved forward just about 50 feet at a slower pace then bam the object went subsonic and it was gone gone. That is when I knew I just witnessed something> It was the size of a football but only it was round like a ball. No sounds. I looked back and tried to understand what just happened and i have never seen anything like this. 58 years old and sound mind.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164972.html](http://www.nuforc.org/webreports/reports/164/S164972.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [385](http://www.nuforc.org/webreports/reports/164/S164967.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164976.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164964.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165119.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164972.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
