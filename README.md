@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:27:24 on 14 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:20:12 on 14 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Salt Lake Valley (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>stationary light circled by helicoptersStationary light in the southwest quadrant of Salt Lake Valley.  Intermittent red flash on right side of light.  After several minutes, four helicopters approached -- from different directions and circled the stationary light.  After awhile, a couple of the helicopters veered off and 2 more approached/circled.  This was seen by myself and another witness while in a parking lot after dark.  It was amazing to us that no one else looked up!!! -- even though we were exclaiming over the sighting.  When we came back one hour later, there were no planes coming in for landing over the area in which the object/light was seen (an area which is usually a flight path for incoming planes to the SL International Airport).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103287.html](http://www.nuforc.org/webreports/reports/103/S103287.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Beaumont (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I was standing outside with my sister-in-law walking my dog when I noticed the strangest star in the sky.  It seemed to slightly morph shapes and it was slowly dimming or moving away from earth.  It them seemed to reappear and vanished behind a small field of trees near my house.  I tried to go investigate but my dog wouldn't let me drag him.  My sister in law ran in the house when she saw how the dog and I were reacting.  He locked his paws to the ground in terror and i was just frozen.  More strange, when i returned in the house to put the dog up,it seemed that 3 hrs had somehow gone by.  Had i really been frozen that long?. 2 weeks later i had a horrible nightmare that 2 human-like creatures came out from that field of trees and entered my backyard setting off motion lights, only to have me rush outside to chase them away.  Except they didnt run. In the "dream", as soon as i stepped outsdie, EVERYTHING FROZE.  The beings walked to me and knocked me down ending the dream.  I woke up finding that i had been sleep for over 24 hrs.I WILL NEVRR FORGET THOSE BEINGS OR THE SOUND I HEARD AS THEY NEARED ME IN THE DREAM.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144026.html](http://www.nuforc.org/webreports/reports/144/S144026.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [385](http://www.nuforc.org/webreports/reports/164/S164967.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164976.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164964.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165119.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164972.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
