@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:10:13 on 14 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:01:52 on 14 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Sarasota (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I know what I saw is exactly what the report from Sept 24th from Vero Beach saw.Identical to a Report that was filed here from Vero Beach on 09-24-19 Went out this morning before Sunrise and Witnessed this Object.Heard a low "hush" type sound first and looked up to see this maybe 1000 feet up.Almost Silent glide flight. V shaped, semi-transparent. Ground reflections or lights on it looked like it was a small cluster white birds at first then realized as it passed directly over me it obscured the view of the stars as it was a very clear morning. It was moving no more than 100 knots and we live very close to the Airport in Sarasota. This was moving from Northeast to Southwest.I know what I saw and to find the report from Vero Beach that is almost exact to mine makes me know what I saw was something real and from another World.  starts in a v shape. We had Clear star sky. Heading west to east towards Atlantic Ocean. Only saw the shape/outline of the craft because it was reflecting off the ground lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149841.html](http://www.nuforc.org/webreports/reports/149/S149841.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in SW Portland (OR) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>The formation veered off their course and then accelerated higher into the sky at an approximately 45 deg angle, flying higherAt 6:19am on 10/14/2020 I walked out of my house and looked at the sky to see if the sunrise had started yet as I was getting ready to have my morning coffee before work, and I observed 6 craft flying north/northwest, flying in unison, each about an inch apart by my view (obviously much farther apart). I heard no sound and all I could see with my naked eye was six white lights. After about 10 seconds the formation broke left (which to me was west, they broke from flying northwest to west generally though still slightly north, and they flew toward the sky instead of flying parallel to the horizon as they were). They appeared to speed up and after about 5 seconds they were gone, out of my sight. They moved faster flying away after the veer than they were generally, but overall they were traveling very fast. About a half hour later I looked outside and saw a contrail of sorts, perhaps a jet chasing the crafts...the contrail went in the same direction as I last ! saw the crafts.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159936.html](http://www.nuforc.org/webreports/reports/159/S159936.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [385](http://www.nuforc.org/webreports/reports/164/S164967.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164976.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164964.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165119.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164972.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
