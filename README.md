@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:01:52 on 14 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:04:04 on 14 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in SW Portland (OR) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>The formation veered off their course and then accelerated higher into the sky at an approximately 45 deg angle, flying higherAt 6:19am on 10/14/2020 I walked out of my house and looked at the sky to see if the sunrise had started yet as I was getting ready to have my morning coffee before work, and I observed 6 craft flying north/northwest, flying in unison, each about an inch apart by my view (obviously much farther apart). I heard no sound and all I could see with my naked eye was six white lights. After about 10 seconds the formation broke left (which to me was west, they broke from flying northwest to west generally though still slightly north, and they flew toward the sky instead of flying parallel to the horizon as they were). They appeared to speed up and after about 5 seconds they were gone, out of my sight. They moved faster flying away after the veer than they were generally, but overall they were traveling very fast. About a half hour later I looked outside and saw a contrail of sorts, perhaps a jet chasing the crafts...the contrail went in the same direction as I last ! saw the crafts.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159936.html](http://www.nuforc.org/webreports/reports/159/S159936.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Pittsburgh (PA) reported seeing craft that fit the description of some 'Oval' over a period of approximately Ongoing - Ongoing minutes.</sub><blockquote><sub>Saw a Bright color changing/rapidly blinking craft over the city tonight it was oval shaped and silentWe watched a craft about 600-700 feet above the homes behind my friends back deck jumping around the sky. It changed colors going from red to green to bright white and was blinking widely and appeared to not move despite going from one spot to another in the sky in the blink of an eye. It would also appear to jerk around the sky at points and was totally silent. We also observed a regular plane divert its course and drop low practically hugging the tops of the homes to avoid what ever this was. It had a clear oval shape to it every time it blinked and we both were able to capture videos of it and on video you could see just how fast this thing really was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159987.html](http://www.nuforc.org/webreports/reports/159/S159987.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [385](http://www.nuforc.org/webreports/reports/164/S164967.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164976.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164964.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165119.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164972.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
