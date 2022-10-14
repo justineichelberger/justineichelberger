@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:02:33 on 14 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:03:56 on 14 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Ringgold (GA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Fast moving white light with a smaller red light in the rear very high in the sky.I looked up at the full moon and saw a bright object moving at a high rate of speed near the moon.  It was quite bright, perhaps because it was reflecting the full moon and white with a smaller red light in the rear.  It was too high to be a plane and moved too quickly to be a planet or star.  I got my brother and he said it could have been the space station but it moved really fast and I don't think the space station could move that quickly.  I have no idea what it was.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84522.html](http://www.nuforc.org/webreports/reports/084/S84522.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Sullivan's Island (SC) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>My husband, a friend, and I were sitting on the beach, facing towards downtown Charleston.  I saw a very bright shape in the sky, a tall diamond.  I said, "Do you all see that, oh it's already fading, nevermind."  Right then, my husband snapped a picture, in the picture the object looks like a faded round blue orb.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136767.html](http://www.nuforc.org/webreports/reports/136/S136767.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [385](http://www.nuforc.org/webreports/reports/164/S164967.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164976.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164964.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165119.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164972.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
