@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:02:55 on 14 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:10:13 on 14 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Warren (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>I seen an bright orange round star ship 10 times the size of a bright star for approx 45 sec and then it blinked out .Went to the bathroom looked out the window and about 10-20 miles away to the direction of P. A. I seen an orange colored round shape it looked like it was moving across the sky very slow and then blinked out.I know what it was it was not a ufo  it was my first encounter with an alien star ship!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103269.html](http://www.nuforc.org/webreports/reports/103/S103269.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Sarasota (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I know what I saw is exactly what the report from Sept 24th from Vero Beach saw.Identical to a Report that was filed here from Vero Beach on 09-24-19 Went out this morning before Sunrise and Witnessed this Object.Heard a low "hush" type sound first and looked up to see this maybe 1000 feet up.Almost Silent glide flight. V shaped, semi-transparent. Ground reflections or lights on it looked like it was a small cluster white birds at first then realized as it passed directly over me it obscured the view of the stars as it was a very clear morning. It was moving no more than 100 knots and we live very close to the Airport in Sarasota. This was moving from Northeast to Southwest.I know what I saw and to find the report from Vero Beach that is almost exact to mine makes me know what I saw was something real and from another World.  starts in a v shape. We had Clear star sky. Heading west to east towards Atlantic Ocean. Only saw the shape/outline of the craft because it was reflecting off the ground lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149841.html](http://www.nuforc.org/webreports/reports/149/S149841.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [385](http://www.nuforc.org/webreports/reports/164/S164967.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164976.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164964.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165119.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164972.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
