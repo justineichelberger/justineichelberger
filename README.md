@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:55:42 on 14 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:35:38 on 14 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Mechanicsburg (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.36666666666666664 - 0.36666666666666664 minutes.</sub><blockquote><sub>I was in my back yard playing with the dogs and noticed a small aircraft going in circles. I thought man he is having fun and then I caught a moving object about several hundred feet up or maybe a thousand feet. It was silver and just moving along with no wings or propellers. I was like what is this? Then I stood on our picnic table to watch it go over our house roof. It paused on the other side of our neighbors house across the road, but only for about 3 seconds. Then it moved forward just about 50 feet at a slower pace then bam the object went subsonic and it was gone gone. That is when I knew I just witnessed something> It was the size of a football but only it was round like a ball. No sounds. I looked back and tried to understand what just happened and i have never seen anything like this. 58 years old and sound mind.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164972.html](http://www.nuforc.org/webreports/reports/164/S164972.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Sullivan's Island (SC) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>My husband, a friend, and I were sitting on the beach, facing towards downtown Charleston.  I saw a very bright shape in the sky, a tall diamond.  I said, "Do you all see that, oh it's already fading, nevermind."  Right then, my husband snapped a picture, in the picture the object looks like a faded round blue orb.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136767.html](http://www.nuforc.org/webreports/reports/136/S136767.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [385](http://www.nuforc.org/webreports/reports/164/S164967.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164976.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164964.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165119.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164972.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
