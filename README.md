@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:01:22 on 14 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:40 on 14 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Northwich (UK/England) () reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>orange flare like sightings over CheshireOver the past 12 months I have witnessed orange lights in the night sky.  The first occasion there was a single orange flare like light crossing the night sky, my daughter also saw this.  Some month later I was walking my dog and saw 2 orange flare like lights seemingly keeping the same distance apart as they went over the sky line, both occasions they don’t flash across the sky,  I guess a little faster than an aeroplane. A fellow dog walker also witnessed this (this sighting was during the no fly period because of the volcanic ash cloud early this year.) last night whilst letting the dog out I saw a orange flare again crossing the night sky, not at a high altitude, as normal the light just goes out and normally that’s the end of the sighting, but last night I kept looking a couple of minutes later a black object came in sight, no lights no noise, there was very little or no wind.  The object wasn’t massive I would say smaller than a 737 aircraft, it wasn’t mov! ing very fast, after only 30-45seconds it just vanished. It was a cloudy night (high cloud not low.)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78386.html](http://www.nuforc.org/webreports/reports/078/S78386.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in York (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately few seconds - few seconds minutes.</sub><blockquote><sub>Triangle shape, large round lights entire bottom of craft with a light green haze.It just appeared, and then dropped behind trees.  It was a distance away - it did not fly into view.  We were looking at a jet trail that looked strange and I looked to my left above the tree line - flash there it was and then it just dropped.It happened so quickly, that I questioned what i saw.  But I did see it!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84581.html](http://www.nuforc.org/webreports/reports/084/S84581.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [385](http://www.nuforc.org/webreports/reports/164/S164967.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164976.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164964.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165119.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164972.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
