@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:35:38 on 14 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:27:24 on 14 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Sullivan's Island (SC) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>My husband, a friend, and I were sitting on the beach, facing towards downtown Charleston.  I saw a very bright shape in the sky, a tall diamond.  I said, "Do you all see that, oh it's already fading, nevermind."  Right then, my husband snapped a picture, in the picture the object looks like a faded round blue orb.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136767.html](http://www.nuforc.org/webreports/reports/136/S136767.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Salt Lake Valley (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>stationary light circled by helicoptersStationary light in the southwest quadrant of Salt Lake Valley.  Intermittent red flash on right side of light.  After several minutes, four helicopters approached -- from different directions and circled the stationary light.  After awhile, a couple of the helicopters veered off and 2 more approached/circled.  This was seen by myself and another witness while in a parking lot after dark.  It was amazing to us that no one else looked up!!! -- even though we were exclaiming over the sighting.  When we came back one hour later, there were no planes coming in for landing over the area in which the object/light was seen (an area which is usually a flight path for incoming planes to the SL International Airport).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103287.html](http://www.nuforc.org/webreports/reports/103/S103287.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [385](http://www.nuforc.org/webreports/reports/164/S164967.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164976.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164964.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165119.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164972.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
