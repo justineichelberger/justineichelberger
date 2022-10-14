@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:02:00 on 14 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:34 on 14 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Gonzales (LA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Gigantic ufo near Gonzales, LAMy son and I were traveling north on U.S. hwy. 61 outside Gonzales, La. I was looking at the unusual number of contrails in the sky to the west of the town, when we both noticed what at first we thought was an extremely large airplane banner in the sky at about 2 o'clock high. It was rectangular in shape. Then we realized that there was no plane in front, and it was not moving. It looked to be about 2 miles away, and appeared to be the size of a football field. We observed it for about 30 seconds, until trees blocked the view. On subsequent trips past this area, we haven't seen anything that could resemble it, so we know it wasn't something that we mistook for a ufo (like a billboard, microwave tower, etc.).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14582.html](http://www.nuforc.org/webreports/reports/014/S14582.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Cagayan de Oro City (Philippines) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>My boyfriend and I went outside the firexit stairs on a 4 sorey building, where the fm radio station is. My boyfriend first saw a white glowing one and as it strated to take off the color changed into green and red like a siren light it rotated closer to us and then in a few minutes it gradually disappeared in the sky. Above us is in rthe sky was a half-moon and a couple of stars.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25587.html](http://www.nuforc.org/webreports/reports/025/S25587.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [385](http://www.nuforc.org/webreports/reports/164/S164967.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164976.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164964.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165119.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164972.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
