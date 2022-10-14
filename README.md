@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:02:44 on 14 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:02:55 on 14 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Bend (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Spinning Triangle appearing to float across the sky.In the sky a small silver triangle, flashing lights, no chem trail or vapor trail emitting from the craft.  The triangle was spinning or rotating in a circle as it traveled north/north east across the sky.  We could not hear any sound coming from it, but there were lights both white and red flashing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122807.html](http://www.nuforc.org/webreports/reports/122/S122807.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Warren (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>I seen an bright orange round star ship 10 times the size of a bright star for approx 45 sec and then it blinked out .Went to the bathroom looked out the window and about 10-20 miles away to the direction of P. A. I seen an orange colored round shape it looked like it was moving across the sky very slow and then blinked out.I know what it was it was not a ufo  it was my first encounter with an alien star ship!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103269.html](http://www.nuforc.org/webreports/reports/103/S103269.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [385](http://www.nuforc.org/webreports/reports/164/S164967.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164976.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164964.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165119.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164972.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
