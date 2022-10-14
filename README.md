@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:19:21 on 14 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:14:42 on 14 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Red blinking lights with white on a circular base seen by two 15 year old twin girls in Avalon Park FL Orange CountyThe object that was seen had a circular base and the lights went around in a circle and at first my sister and I thought it was an airplane at first but it was going straight up in the sky and we realized that it wasn't an airplane it was a UFO and it was our first time seeing one for ourselves and what it was doing was it was just flying and I think it was looking for something but I don't know, and there was only 1 UFO that we saw and the color was red blinking lights with white lights it kinda blended into the sky.my sister and I are twin sisters and we are 15 years old I have a hearing loss and it didn't sound like a plane and my twin even said that it didn't sound like a plane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159984.html](http://www.nuforc.org/webreports/reports/159/S159984.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Yonkers (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was watching a star like object moving very slowlyI was awaiting transpotation then I happened to look up in a very crisp clear blue sky I saw what look like a very small star but it was moving. It was not a bird,military craft, or any other airplane. I was watching it and then lost sight of it. This was a very strange craft I can usually say that it could be identified but this one was something very different.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10219.html](http://www.nuforc.org/webreports/reports/010/S10219.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [385](http://www.nuforc.org/webreports/reports/164/S164967.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164976.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164964.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165119.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164972.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
