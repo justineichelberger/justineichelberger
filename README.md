@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:02:56 on 15 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:38 on 15 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Oxford (OH) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Oval silver flashing Object flying SE over Oxford, OH on a clear morningI was at a farmers' market in Oxford, OH when I looked up to the northwest on a very clear morning and saw a silver flashing object that I at first thought was a plane but as it got closer I could see it was not a plane. I told several other people to look up in the sky and they all agreed that it was not a plane nor a mylar ballon (object was shaped like a mylar balloon). Object was going on a steady SE course and despite windy conditions did not change course the way a balloon would in such wind. The Object seemed to be several thousand feet above the ground. It was sliver and flashed in the sunlight (it was a clear day with very high pressure, no clouds). It seemed to be rocking back and fourth as it flew SE, making it flash in the sunlight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47009.html](http://www.nuforc.org/webreports/reports/047/S47009.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Rainbow City (AL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Fireball/Orb in Rainbow City ALIt was a floating orange fireball that would intensify and then dim. It did this a few times and got real bright and disappeared. It was silent.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164959.html](http://www.nuforc.org/webreports/reports/164/S164959.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [838](http://www.nuforc.org/webreports/reports/165/S165184.html)
-- [837](http://www.nuforc.org/webreports/reports/164/S164960.html)
-- [836](http://www.nuforc.org/webreports/reports/164/S164959.html)
-- [835](http://www.nuforc.org/webreports/reports/164/S164974.html)
-- [834](http://www.nuforc.org/webreports/reports/164/S164981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
