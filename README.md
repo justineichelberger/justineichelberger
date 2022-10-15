@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:01:17 on 15 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:07:23 on 15 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1972, an anonymous witness in Long Bink (Viet Nam) () reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Camouflaged UFO flew low and slow over military postWhile stationed at Long Binh Army Post in the Rebublic of Vietnam in about 1972, two other soldiers and I witnessed an object that seemed to fly low and slow across the post.  The object may have been cylindrical but actually had no definate shape.  The object looked like heat waves but with a sort of cylindrical shape.  My buddies and I asked each other if we were seeing what the others were seeing and we agreed that we were all seeing the same thing.  Th object looked to be only a few hundred yards away and a few hundred feet off the ground.  It was traveling slow and we heard no sound.  It maintained the same speed and direction until out of sight.  It is my opinion that the object was camoed or "cloaked" in some fashion to keep from being seen.  I have never heard of another UFO report of a similar object although I don't keep up with UFO sightings.  Maybe you have.((NUFORC Note:  Witness indicates that the date of the sighting event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46154.html](http://www.nuforc.org/webreports/reports/046/S46154.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in London (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A large very bright light!I observed a bright light looking out over Heathrow Airport(Yes I know airplanes!?!?) .  It was motionless in the sky, I went to get my video but in less than 15 secs it was gone, I have observed many aircraft landing/taking off/circling Heathrow from my house and this was very different.  It left my area of sight in less than 15 secs which a normal aircraft would not do</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14564.html](http://www.nuforc.org/webreports/reports/014/S14564.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [838](http://www.nuforc.org/webreports/reports/165/S165184.html)
-- [837](http://www.nuforc.org/webreports/reports/164/S164960.html)
-- [836](http://www.nuforc.org/webreports/reports/164/S164959.html)
-- [835](http://www.nuforc.org/webreports/reports/164/S164974.html)
-- [834](http://www.nuforc.org/webreports/reports/164/S164981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
