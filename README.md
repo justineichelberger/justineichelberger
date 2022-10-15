@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:42 on 15 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:02:52 on 15 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Lockport (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>It was a dark circle with several exrememly bright, shiny, silver lines/beams emitting from the entire circle. It moved quickly from east to west and dipped ocassionally.  I didn't go outside to watch it once it was out of the range of my window.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52943.html](http://www.nuforc.org/webreports/reports/052/S52943.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1980, an anonymous witness in Port Townsend (WA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>3 silver, shiny, cigar-shaped craft over Discovery Bay, WA, hovered, accelerated at incredible rate, and disappeared.I was driving east on Highway 101 on the west side of Discovery Bay in Jefferson County, WA.  It was about 10 AM and the sky was clear blue and sunny.  I was looking east but the sun was more to the south/southeast. I saw 3 stationary, cigar shaped objects hovering over Discovery Bay in a north/south orientation, so I was seeing them from the side.  They were only about 1-2 miles from me and at about 800-1000 feet of elevation.  Each was probably about 150’ long and 30-40’ in diameter.  They were very shiny silver metal, perfectly smooth, almost like liquid mercury, but they held their cigar shape perfectly.  They were symmetrical from front to back.  There was nothing on the outside other than the very shiny, reflective metal.  No lights or windows, no fins or engines, no wings or antennas.They hovered for maybe 10-15 seconds, then they started to move south at a fairly slow rate of speed.  They all moved at the same time, at the same speed, but they weren’t visibly attached to each other in any way.Then after proceeding south for maybe a mile or so, they suddenly turned to the east and in a split second they sped up to the fastest I have ever seen anything move and  almost instantly disappeared.  The turn and acceleration were virtually instantaneous.I never believed or disbelieved in UFOs prior to this incident.  I was 20 years old and hadn’t given it much thought.  Ever since this incident, I know they exist because I saw them with my own eyes and they were not anything of this world.  They were far too fast, advanced, and different from anything created by humans, especially at that time (and even still). Some people have said to me, "Maybe they were jets from NAS Whidbey."  No they were not!  I grew up on the waterfront of the Strait of Juan de Fuca and saw all the various craft from NAS Whidbey many times.  They were nothing like the military craft, not even remotely close.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119255.html](http://www.nuforc.org/webreports/reports/119/S119255.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [838](http://www.nuforc.org/webreports/reports/165/S165184.html)
-- [837](http://www.nuforc.org/webreports/reports/164/S164960.html)
-- [836](http://www.nuforc.org/webreports/reports/164/S164959.html)
-- [835](http://www.nuforc.org/webreports/reports/164/S164974.html)
-- [834](http://www.nuforc.org/webreports/reports/164/S164981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
