@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:01:59 on 15 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:54 on 15 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Bartlesville (OK) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>I sighted a prismic diamond-shaped object that glowed yellow green hovering over the trees by my church.Well, it was about the time I described above, and I was at my church. I went outside for a bit of fresh air, and I looked over some of the trees around the church. I saw an almost prismic,diamond-shaped object with a steady glow of yellow green florescent light around it hovering over the trees.  It moved like a plane, but there was no engine sound and there were no flashing lights like there would be on the wings of a plane. I watched and followed it until it went behind some trees, and I looked, but never saw it again.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))((NUFORC Note:  Student report.  Possible hoax.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47667.html](http://www.nuforc.org/webreports/reports/047/S47667.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1962, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>SITTING IN AVALON PARK ON A FALL NIGHT AT APP.1030 PM I SAW A METALIC OBJECT TRAVELING FROM E TO W I DIDNT GIVE IT MUCH THOUGHT BUT IT WAS RECTANGLE AND KIND OF IN A CLOUD  AS WE ALL LOOKED UP IT WAS THE SIZE OF A STREET LIGHT DIRECTLY OVER HEAD YELLOW IN COLOR NO NOISE AND WE COULD SEE THE HEAT WAVES COMMING FROM IT IT STAYED THERE FOR ABOUT  4 SECONDS AND THEN BY THE TIME I TURNED MY HEAD  WEST IT WAS THE SIZE OF A STAR IT MADE A 90 DEGREE TURN NORTH THEN DIPPEDAND SHOT UP WITH A TAIL AND THEN DID IT AGAIN.I CALLED THE  AIR BASE THEY SAID IT WAS A WEATHER BALOON...I ALSO HAD A INCIDERT HERE IN MISSOURI IN MARCH 92 I WAS IN A RURAL AREA IT WAS LATE AT NIGHT I WOKE TO DOGS BARKING  AND THE SAME MUSIC THAT WAS PLAYED IN CLOSE INCOUNTERS I THOUGHT TO MYSELF THIS ISNT HAPPENING AND SLID BACK INTO A DEEP SLEEP   ONLY TO WAKE UP THE NEXT MORNING AND FIND A NEW BUMP ON  MY LEFT CALF...I PICKED AT IT AND A TINY COPPER LOOKING OBJECT CAME OUT HAD TO MICROSCOPE IT THE BUMP IS STILL THERE AND GETS RED ONCE IN AWHILE,,,I DO HAVE TWO OTHER STORIES  A NEAR DEATH EXPERIENCE AND AN INCIDENT WITH A OUIJA BOARD THAT INCLUDES LIGHTNING!!! THANKS HOPE TO HERE FROM YOU   BY THE WAY I WAS A ((deleted at request of witness--public employee))  FOR ((deleted--Illinois city)) FOR 30YRS!!!DONT LIST THIS THIS IS FOR INFO ONLY THANKS</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18680.html](http://www.nuforc.org/webreports/reports/018/S18680.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [838](http://www.nuforc.org/webreports/reports/165/S165184.html)
-- [837](http://www.nuforc.org/webreports/reports/164/S164960.html)
-- [836](http://www.nuforc.org/webreports/reports/164/S164959.html)
-- [835](http://www.nuforc.org/webreports/reports/164/S164974.html)
-- [834](http://www.nuforc.org/webreports/reports/164/S164981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
