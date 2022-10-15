@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:07:12 on 15 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:05:18 on 15 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Carlisle (Canada) (ON) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Green/yellow streak falling towards earth appeared to be a solid object and not fast enough to be a meteor.As i was leaving my friends house, pulling out of his driveway, above the treeline to the NE a green streak appeared with a yellow spot on the bottom of it and was descending rapidly towards Earth and dissapeared in about 2-3sec. Although moving fast, it did not appear to come close to the speed of a meteor and appeared to be a solid object moving downwards.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78409.html](http://www.nuforc.org/webreports/reports/078/S78409.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in El Paso (rural) (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Large Orange Sphere's Over Rural IllinoisOne evening in October 2004, I don't remember the exact date, I was outside burning our paper trash and noticed three fairly large orange lights in the north west sky.  They were each about the size of a dime held at arms length and appeared to be over the nearby village of Secor, IL.  They were in an uneven triangular formation with a vertical orientation.  The lights appeared to ascend in a slow manner and simply disappeared.  The  three lights were large but dull orange spheres. They were not entensly bright and were about 15 degrees above the horizion and rising to about 25 degrees before disappearing.  The entire sighting lasted at least 10 seconds.  I even started to run inside to get my binoculars but by the time I reached the house they were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43432.html](http://www.nuforc.org/webreports/reports/043/S43432.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [838](http://www.nuforc.org/webreports/reports/165/S165184.html)
-- [837](http://www.nuforc.org/webreports/reports/164/S164960.html)
-- [836](http://www.nuforc.org/webreports/reports/164/S164959.html)
-- [835](http://www.nuforc.org/webreports/reports/164/S164974.html)
-- [834](http://www.nuforc.org/webreports/reports/164/S164981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
