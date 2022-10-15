@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:07:23 on 15 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:42 on 15 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in London (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A large very bright light!I observed a bright light looking out over Heathrow Airport(Yes I know airplanes!?!?) .  It was motionless in the sky, I went to get my video but in less than 15 secs it was gone, I have observed many aircraft landing/taking off/circling Heathrow from my house and this was very different.  It left my area of sight in less than 15 secs which a normal aircraft would not do</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14564.html](http://www.nuforc.org/webreports/reports/014/S14564.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Lockport (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>It was a dark circle with several exrememly bright, shiny, silver lines/beams emitting from the entire circle. It moved quickly from east to west and dipped ocassionally.  I didn't go outside to watch it once it was out of the range of my window.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52943.html](http://www.nuforc.org/webreports/reports/052/S52943.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [838](http://www.nuforc.org/webreports/reports/165/S165184.html)
-- [837](http://www.nuforc.org/webreports/reports/164/S164960.html)
-- [836](http://www.nuforc.org/webreports/reports/164/S164959.html)
-- [835](http://www.nuforc.org/webreports/reports/164/S164974.html)
-- [834](http://www.nuforc.org/webreports/reports/164/S164981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
