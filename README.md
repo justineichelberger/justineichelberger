@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:46:27 on 15 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:29:22 on 15 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Benicia (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>On 10/15/20 at approximately 5:30am I noticed an irregular object in the far distant sky while looking east of the Benicia, Ca bridge on HWY 680.I began videotaping and captured what appears to be a circular multicolor pulsating disc spinning in a counter clockwise direction.I have a total of about 4 minutes of video with this object slowly moving in an upward slightly to my right angle.I was late to work so I left not knowing what I had captured, the object was still there as I drove away.It seemed to be out in space and must have actually been quite large.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160590.html](http://www.nuforc.org/webreports/reports/160/S160590.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1967, an anonymous witness in Knott - End. Fleetwood (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Strange lights in the sky Northern England in the Autumn of 1967.From a coastal car park one Sunday evening in the Autumn of 1967 we looked at the night skt in the region of the plough. Suddenly several of what appeared to be stars began to move in various directions,they looked like stars,two of which came together became one and continued to move about. A seperate star like object moved away completely all across the night sky whilst the others remained in the region of the plough. After some ten minutes there was only the frame of the plough to be seen. My wife,myself our two children and two people in a nearby car all saw this event,we allerted the people in the car because we couldnt believe what we were seeing,it was quite frightening. When we arrived home in Oldham two hours later we reported it to Joddrell Bank but never saw other reports of sitings or received any response. No one will tell us we imagined it, no way it was very real,something was up there and it was not satelites either. I hope you can throw some "light"on our experience((NUFORC Note:  Exact date is unknown.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16150.html](http://www.nuforc.org/webreports/reports/016/S16150.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [838](http://www.nuforc.org/webreports/reports/165/S165184.html)
-- [837](http://www.nuforc.org/webreports/reports/164/S164960.html)
-- [836](http://www.nuforc.org/webreports/reports/164/S164959.html)
-- [835](http://www.nuforc.org/webreports/reports/164/S164974.html)
-- [834](http://www.nuforc.org/webreports/reports/164/S164981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
