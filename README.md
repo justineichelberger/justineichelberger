@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:40 on 15 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:30 on 15 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Lancaster (SC) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>bright blue orb.I saw a bright blue orb of light that came from the northeast and headed southwest and out of site over the horizon.  Object appeared to be very low in altitude, relative distance to object unknown, size unknown, had no trailing flame, or other characteristics of man controlled flight. Total site time was approximately 4 to 5 seconds.  This light was not a falling star or meteorite.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92663.html](http://www.nuforc.org/webreports/reports/092/S92663.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Upland (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>bright flashing light object above san bernardino county. very slowly ascending diagonally.i watched it for about 20 mins, thinking it was a plane.it is south east of where i am at.  it caught my eye cause it was so bright and i could see blue and white lights with a slight flash of red every so often.  i could see it out of my pation screen door.  I thought it was just a plane with bright lights, then i realized it was not moving.  i then began to watch to see if it may be a star or come up with an explanation. i ran to get my phone and record, which you barely see a dot of light.  i then ran to the restroom came back and couldnt see it.  NExt thing i know it moved diagonally upwards to the right. i had a tree top as a point of reference. all this happened in a about an hour.  i am not sure if starts move like this or maybe a satellite, but it is very bright flashing/blinking/moving lights. hard to explain.  i started watching this thing at 130 and it is still in the sky slowly ascending. it is now 230p</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136751.html](http://www.nuforc.org/webreports/reports/136/S136751.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [838](http://www.nuforc.org/webreports/reports/165/S165184.html)
-- [837](http://www.nuforc.org/webreports/reports/164/S164960.html)
-- [836](http://www.nuforc.org/webreports/reports/164/S164959.html)
-- [835](http://www.nuforc.org/webreports/reports/164/S164974.html)
-- [834](http://www.nuforc.org/webreports/reports/164/S164981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
