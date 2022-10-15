@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:30 on 15 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:13:25 on 15 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Upland (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>bright flashing light object above san bernardino county. very slowly ascending diagonally.i watched it for about 20 mins, thinking it was a plane.it is south east of where i am at.  it caught my eye cause it was so bright and i could see blue and white lights with a slight flash of red every so often.  i could see it out of my pation screen door.  I thought it was just a plane with bright lights, then i realized it was not moving.  i then began to watch to see if it may be a star or come up with an explanation. i ran to get my phone and record, which you barely see a dot of light.  i then ran to the restroom came back and couldnt see it.  NExt thing i know it moved diagonally upwards to the right. i had a tree top as a point of reference. all this happened in a about an hour.  i am not sure if starts move like this or maybe a satellite, but it is very bright flashing/blinking/moving lights. hard to explain.  i started watching this thing at 130 and it is still in the sky slowly ascending. it is now 230p</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136751.html](http://www.nuforc.org/webreports/reports/136/S136751.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1968, an anonymous witness in Fort Polk (LA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Star sized light that split into two and mimic'd each others movementOn Basic Traning manuvers at Fort Polk, La. in a remote area of the base around between 11:00 PM and 1:00AM.  Two of us were in a bunker built in the side of a hill which enabled us to see for several miles above the tree tops. We observed what appeared to be a star above the horizon which was moving up and down.   We knew this was no street light beacuse it was too high in the air.  The light did this movement for several minutes then began moving from side to side. There was no noise but we believe it was too far to hear. At first we thought it to be a helicopter until it stopped, became brighter, appearing larger then split into two equal size lights approximately an inch apart from our viewpoint which would have made it several yard apart.  These two lights began moving up and down in unison for severl minutes then stopped and began moving from side to side in unison. After several minutes of this they stopped, moved towared each other and became as one bright star again then disappeared.  Since then, I have had two other people tell of similiar sightings from several years apart and different areas.((NUFORC Note:  Source of report indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67847.html](http://www.nuforc.org/webreports/reports/067/S67847.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [838](http://www.nuforc.org/webreports/reports/165/S165184.html)
-- [837](http://www.nuforc.org/webreports/reports/164/S164960.html)
-- [836](http://www.nuforc.org/webreports/reports/164/S164959.html)
-- [835](http://www.nuforc.org/webreports/reports/164/S164974.html)
-- [834](http://www.nuforc.org/webreports/reports/164/S164981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
