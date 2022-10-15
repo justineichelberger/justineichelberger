@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:29:22 on 15 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:22:03 on 15 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1967, an anonymous witness in Knott - End. Fleetwood (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Strange lights in the sky Northern England in the Autumn of 1967.From a coastal car park one Sunday evening in the Autumn of 1967 we looked at the night skt in the region of the plough. Suddenly several of what appeared to be stars began to move in various directions,they looked like stars,two of which came together became one and continued to move about. A seperate star like object moved away completely all across the night sky whilst the others remained in the region of the plough. After some ten minutes there was only the frame of the plough to be seen. My wife,myself our two children and two people in a nearby car all saw this event,we allerted the people in the car because we couldnt believe what we were seeing,it was quite frightening. When we arrived home in Oldham two hours later we reported it to Joddrell Bank but never saw other reports of sitings or received any response. No one will tell us we imagined it, no way it was very real,something was up there and it was not satelites either. I hope you can throw some "light"on our experience((NUFORC Note:  Exact date is unknown.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16150.html](http://www.nuforc.org/webreports/reports/016/S16150.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Crandall (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Light over Southern Indiana town of CrandallThe strange multi-colored blinking light in the sky is back over Crandall again, for two nights in a row now.  It was here last Tuesday and Wednesday nights, but I did not see it over the weekend due to low clouds and thunderstorms.  This time around it did not appear in the exact same spot the two consecutive nights, rather it appeared in slightly more easterly tonight than it did last night.  Last night there was what sounded like a single engine plane that cut a wide berth around the object, but then went on its towards Louisville.  The thing looks a lot like the North Star times five, though it blinks wildly between white, red, blue, green, and yellow...but mostly looks white.  Having observed it for many nights now, I've almost got myself convinced that it's a particularly bright star.  But this is impossible.  I know of no star that instead of rising and setting, simply appears (although I have not witnessed this) at 3am and vanishes between 5 and 6 in the morning.((NUFORC Note:  Suspected sighting of a "twinkling" star.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32246.html](http://www.nuforc.org/webreports/reports/032/S32246.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [838](http://www.nuforc.org/webreports/reports/165/S165184.html)
-- [837](http://www.nuforc.org/webreports/reports/164/S164960.html)
-- [836](http://www.nuforc.org/webreports/reports/164/S164959.html)
-- [835](http://www.nuforc.org/webreports/reports/164/S164974.html)
-- [834](http://www.nuforc.org/webreports/reports/164/S164981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
