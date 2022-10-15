@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:36 on 15 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:35 on 15 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Dallas (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Summary : My friend and I were driving home from a date, I opened the sunroof to view the moon lite sky.  As I was staring at the stars, something caught my eye.  I saw what looked like a far away star, but was moving around in fast motion.  Ive seen shooting stars, this wasn't one.  It would move around the stars like as if going through some sort of maze.  I told my friend about it and we stopped the car, and stayed starring at it.  When it got to the point where we couldnt see it we drove ahead to see if we could keep watching.  We were both amazed at the fact that we knew this was something out of the ordinary.  It had to be a UFO.The star looking object was of color white mixed with yellow. Two people observed this.  The object would manuever around the stars in a fast motion.  We saw this on our way home.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02834.html](http://www.nuforc.org/webreports/reports/002/S02834.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in La Crosse (WI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>5 lights in V formation, racing across night sky before abruptly disappearingWhen sitting outside of a dance club getting some fresh air, my friends and I were looking up at the sky and happened to catch what we thought was a falling star.  Within a split-second, we realized that we in face were seeing 5 lights, formed in a perfect V, moving rapidly along the night sky.  Within 5 seconds, and as we watched, the lights just disappeared.  We each looked at each other and said "You saw that, right?"  Could have been aircrafts of some sort, but weird how the lights just disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47217.html](http://www.nuforc.org/webreports/reports/047/S47217.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [838](http://www.nuforc.org/webreports/reports/165/S165184.html)
-- [837](http://www.nuforc.org/webreports/reports/164/S164960.html)
-- [836](http://www.nuforc.org/webreports/reports/164/S164959.html)
-- [835](http://www.nuforc.org/webreports/reports/164/S164974.html)
-- [834](http://www.nuforc.org/webreports/reports/164/S164981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
