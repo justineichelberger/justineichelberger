@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:22:03 on 15 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:07:12 on 15 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Crandall (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Light over Southern Indiana town of CrandallThe strange multi-colored blinking light in the sky is back over Crandall again, for two nights in a row now.  It was here last Tuesday and Wednesday nights, but I did not see it over the weekend due to low clouds and thunderstorms.  This time around it did not appear in the exact same spot the two consecutive nights, rather it appeared in slightly more easterly tonight than it did last night.  Last night there was what sounded like a single engine plane that cut a wide berth around the object, but then went on its towards Louisville.  The thing looks a lot like the North Star times five, though it blinks wildly between white, red, blue, green, and yellow...but mostly looks white.  Having observed it for many nights now, I've almost got myself convinced that it's a particularly bright star.  But this is impossible.  I know of no star that instead of rising and setting, simply appears (although I have not witnessed this) at 3am and vanishes between 5 and 6 in the morning.((NUFORC Note:  Suspected sighting of a "twinkling" star.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32246.html](http://www.nuforc.org/webreports/reports/032/S32246.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Carlisle (Canada) (ON) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Green/yellow streak falling towards earth appeared to be a solid object and not fast enough to be a meteor.As i was leaving my friends house, pulling out of his driveway, above the treeline to the NE a green streak appeared with a yellow spot on the bottom of it and was descending rapidly towards Earth and dissapeared in about 2-3sec. Although moving fast, it did not appear to come close to the speed of a meteor and appeared to be a solid object moving downwards.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78409.html](http://www.nuforc.org/webreports/reports/078/S78409.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [838](http://www.nuforc.org/webreports/reports/165/S165184.html)
-- [837](http://www.nuforc.org/webreports/reports/164/S164960.html)
-- [836](http://www.nuforc.org/webreports/reports/164/S164959.html)
-- [835](http://www.nuforc.org/webreports/reports/164/S164974.html)
-- [834](http://www.nuforc.org/webreports/reports/164/S164981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
