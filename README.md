@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:43 on 15 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:40 on 15 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1988, an anonymous witness in Bremerton (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Circular craft approximately 500 feet in diameter clearly seen at approximately 1500 feet altitude.October 1988  Bremerton, WA.  Approximately 02:00 am  I had to get up to take my puppy out, it was a clear autumn night, very high clouds for the Pacific Northwest at that time of year.  At the time I was living across the street from the Puget Sound Naval Shipyard, so the reflected light was always bright, precluding any interference such as night time shadows or darkness.As I came around the side of the house I had a clear view to the North and South, with an effective horizon laterally of approximately 15 miles - a high ridge of hill and forest to the southwest, west, and northwest blocked any distance viewing in those directions.I immediately saw a circular craft; distance from me was approximately 400 feet; altitude approximately 1,500 to 2,000 feet; circumference approximately 500 feet; height of sidewall approximately 200 feet.   Sidewall was at an angle from bottom of craft sloping outward towards the top at roughly 25 degrees.  Circumference of bottom of craft roughly 400 feet +, bottom was smooth without any features such as seams, markings or high relief.Craft was moving at a slow walking pace from North to South; it took approximately 30 minutes from the time I saw it to travel out of sight around the bulge of the hill and forest approximately 400 feet to my Southwest.Craft was not low enough to see the top of the craft over the sidewall.  It was a uniform Naval Haze Gray color overall without any features such as seams, markings or high relief on the sidewall.As I mentioned before, reflected light from the Shipyard highlighted the craft clearly without any shadows or interference.  Craft was silent and the dog appeared not to notice it.((NUFORC Note:  Date of sighting may be approximate, although the witness does not indicate that fact.  We have changed the date above, to reflect a date in mid-October 1988.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82601.html](http://www.nuforc.org/webreports/reports/082/S82601.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Lancaster (SC) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>bright blue orb.I saw a bright blue orb of light that came from the northeast and headed southwest and out of site over the horizon.  Object appeared to be very low in altitude, relative distance to object unknown, size unknown, had no trailing flame, or other characteristics of man controlled flight. Total site time was approximately 4 to 5 seconds.  This light was not a falling star or meteorite.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92663.html](http://www.nuforc.org/webreports/reports/092/S92663.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [838](http://www.nuforc.org/webreports/reports/165/S165184.html)
-- [837](http://www.nuforc.org/webreports/reports/164/S164960.html)
-- [836](http://www.nuforc.org/webreports/reports/164/S164959.html)
-- [835](http://www.nuforc.org/webreports/reports/164/S164974.html)
-- [834](http://www.nuforc.org/webreports/reports/164/S164981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
