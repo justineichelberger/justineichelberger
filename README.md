@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:45 on 15 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:35 on 15 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Roanoke (VA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>((NUFORC Note:  Date is arbitrarily chosen, since it was hunting season.  Precise date is unknown.  PD))I saw a triangular craft with only red light from front to back on it.  Craft stopped over my back yard and shone light down.One night I heard dogs and thought there were hunters.  I looked out window and saw light across the field in woods.  I watched light go around in trees for while then it sstarted playing game...when I looked it went out...I looked away it came on...this went on for about 15 minutes. Then light shot out of trees up and over ridge. I left and came back to look a few minutes later to see craft low over field,no blinking lights, only a long red light going from front to back of craft. It took a long time to reach crest of mtn. swinging around peak and coming down gulley of mtn. skimming trees. I got gun and went outside. The craft coming down only had light inside like a cockpit. When got close it turned off light. Stopped over back yard and shined a spotlight at my feet. I ran to house next door and looked back and it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16107.html](http://www.nuforc.org/webreports/reports/016/S16107.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>In North Houston 3 family members and I witnessed 4 bright objects in a line formation heading southeast.  About 30 sec later all objects clustered togethered crazily and looked as if they multiplied in number or if there was an exchange of fire between them it happened really fast(about 20 sec.)then the 4 objects formed a line formation again and headed East. About 2-3 minutes afterwards a plane circled around my neighborhood(about a 5 block radius) for about 30 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72866.html](http://www.nuforc.org/webreports/reports/072/S72866.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [838](http://www.nuforc.org/webreports/reports/165/S165184.html)
-- [837](http://www.nuforc.org/webreports/reports/164/S164960.html)
-- [836](http://www.nuforc.org/webreports/reports/164/S164959.html)
-- [835](http://www.nuforc.org/webreports/reports/164/S164974.html)
-- [834](http://www.nuforc.org/webreports/reports/164/S164981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
