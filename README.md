@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:54:31 on 15 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:46:27 on 15 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Mission (SD) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>The night sky was clear and the stars were shining bright, when we saw this bright orange light.My dad, cousin, and I were on our way into Mission to pick my mother up from her night class when we saw this orange light in the sky that faded from our right and turned up on our left. It did that twice in a row, and then the third time it got very bright then faded to this red color then broke off into three little circles. Then a couple minutes later it disappeared from the left side of the sky then turned up on the right. It did that for about 10 - 15 minutes. As we got closer to Mission the lights faded then disappeared.  After that we did not see them again. It was the next day that we found out that another person who lives close to the town saw the same thing we saw. She went online and reported it. But I’m not sure what sight she went to, to report it. It was just an amazing sight at what we all seen. I am still in shock that I saw that even though it happened a month and a half ago.  It was amazing. I believe that they were UFO’s in the sky.((NUFORC Note:  Date may be approximate; no time indicated by the witness.  We have assigned an artificial time above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60105.html](http://www.nuforc.org/webreports/reports/060/S60105.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Benicia (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>On 10/15/20 at approximately 5:30am I noticed an irregular object in the far distant sky while looking east of the Benicia, Ca bridge on HWY 680.I began videotaping and captured what appears to be a circular multicolor pulsating disc spinning in a counter clockwise direction.I have a total of about 4 minutes of video with this object slowly moving in an upward slightly to my right angle.I was late to work so I left not knowing what I had captured, the object was still there as I drove away.It seemed to be out in space and must have actually been quite large.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160590.html](http://www.nuforc.org/webreports/reports/160/S160590.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [838](http://www.nuforc.org/webreports/reports/165/S165184.html)
-- [837](http://www.nuforc.org/webreports/reports/164/S164960.html)
-- [836](http://www.nuforc.org/webreports/reports/164/S164959.html)
-- [835](http://www.nuforc.org/webreports/reports/164/S164974.html)
-- [834](http://www.nuforc.org/webreports/reports/164/S164981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
