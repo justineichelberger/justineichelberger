@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:02:28 on 16 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:34 on 16 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Savannah (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Red blinking light appears three times, changing speed and direction many times before fading away.It was extremely clear and cool outside around 3:00 in the morning and my friend and I decided to lay out on our roof and watch the stars for awhile. After laying there about fifteen minutes I saw a shooting star. And then after another fifteen minutes or so, I saw what at first looked like another shooting star, but it was not moving at the same velocity and it was very red (red like a star looks red, not like a cherry red) and blinking. The blinking looked more like a change in light intensity and I then thought it was a satellite because of the blinking and because it was moving along so steadily and it didn't come and go quickly like a shooting star would. It just kept cruising along. After a few seconds of this, I pointed at it and began to exclaim to my friend that a satellite was moving over us. As I began to speak, I noticed a slight slowing of the light's pace, and then a sudden stop. It hung in place for about half a second and then moved left at a slower speed. After a second of this, it stopped again and began to curve down and to the right. It was about then that my friend noticed it. It curved for a couple seconds and quickly moved back to the left and it rapidly alternated between a fast and slow pace. It then slowed drastically and drifted upwards and it faded away next to a fairly bright star.  This all occured in a span of time no greater than thirty seconds. The red blinking light came back two more times and followed a similar type of pattern. It would appear in the same area of the sky as it had before, and it would move in one direction for a few seconds and then it would constantly alter its speed and direction until it finally slowed and would always return to the same area in the sky before fading away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39804.html](http://www.nuforc.org/webreports/reports/039/S39804.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Guilford/Abbot (ME) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>My mom and I observed silverish-grayish object above Piscatiquis River in AbbotAlright, my mom and I were headed north on Route 15, I just got out of school. I looked down the river on the river bend right after the 'Welcome to Abbot' sign and I looked up and I saw a silverish object in the sky maybe 3 miles away. By this time I alerted my mom who had no idea what it is, and noted that she did see it also. It occassionally went from a bright silver to a dull gray (maybe 4 or 5 times.) We passed some trees, the object was still there, and we still commented on it. After the next clump of trees it had dissapeard. It was more like an oval-ended rectangle shape, than anything else. The sky was clear, and behind the object there were a few Jet-Lines which was quite odd. There were a few clouds, and it was over a river. It hovered maybe 20 feet above the treeline, until it disapeared. I am a student at ((school name deleted)), I am 16 years old, and I have seen two other 'objects in different locations throughout the state. My mom is a homemaker, who had a stroke, and a car accident. It was a silver-dull gray color.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28535.html](http://www.nuforc.org/webreports/reports/028/S28535.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [360](http://www.nuforc.org/webreports/reports/165/S165114.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164991.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165120.html)
-- [357](http://www.nuforc.org/webreports/reports/165/S165030.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164977.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
