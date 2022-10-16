@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:01:25 on 16 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:07:31 on 16 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Tacoma (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Multiple lights over Puget soundTook my dog outside for her morning walk before I leave for work like normal. I looked up to the sky’s, it was a clear morning, no clouds or fog. I notice what looked like stars but moving across the sky. There were more the could count. They were all moving In The same direction, coming from the south headed north (Lakewood area traveling north directly over the gig harbor bridge). I remember seeing some brighter then Others and some moving faster also. Not sure what it was but this isn’t the 1st time seeing this. I have seen this same anomaly 3xs now. Not as many lights before but moving in the same direction south to north over the bridge. Also they were all at different times all while it was dark outside. And within the past year.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160007.html](http://www.nuforc.org/webreports/reports/160/S160007.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Derbyshire (UK/England) () reported seeing craft that fit the description of some 'Oval' over a period of approximately night - night minutes.</sub><blockquote><sub>white low flying fast novel shaped craftWas just looking at moon and next think saw a very bright light moving fast and it was low then a plane come very close to it just flying over it thought, it was going to hit it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103300.html](http://www.nuforc.org/webreports/reports/103/S103300.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [360](http://www.nuforc.org/webreports/reports/165/S165114.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164991.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165120.html)
-- [357](http://www.nuforc.org/webreports/reports/165/S165030.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164977.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
