@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:34 on 16 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:38 on 16 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Guilford/Abbot (ME) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>My mom and I observed silverish-grayish object above Piscatiquis River in AbbotAlright, my mom and I were headed north on Route 15, I just got out of school. I looked down the river on the river bend right after the 'Welcome to Abbot' sign and I looked up and I saw a silverish object in the sky maybe 3 miles away. By this time I alerted my mom who had no idea what it is, and noted that she did see it also. It occassionally went from a bright silver to a dull gray (maybe 4 or 5 times.) We passed some trees, the object was still there, and we still commented on it. After the next clump of trees it had dissapeard. It was more like an oval-ended rectangle shape, than anything else. The sky was clear, and behind the object there were a few Jet-Lines which was quite odd. There were a few clouds, and it was over a river. It hovered maybe 20 feet above the treeline, until it disapeared. I am a student at ((school name deleted)), I am 16 years old, and I have seen two other 'objects in different locations throughout the state. My mom is a homemaker, who had a stroke, and a car accident. It was a silver-dull gray color.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28535.html](http://www.nuforc.org/webreports/reports/028/S28535.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Franklin (LA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Lights of large object over Franklin, Louisiana.Two lights perpendicular to each other in the shape of a colon move from the horizon in a 45 degree angle towards the sky followed by another set and another completely synchronized with each other.  I'm not an irrational person I immediately took into consideration possible explanationshowever what I couldn't explain was that the top row of lights never moved out of alignment with the bottom it remained in the shape of a colon signifying a solid object the lights came in sets distanced a few seconds apart until there were roughly twenty to thirty pairs of lights moving perfectly in sync with one another like the world's largest plane taking off from too sharp of an angle not one light dimmed or strayed from the shape it kept structure until it moved into the zenith and was no longer visible.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114609.html](http://www.nuforc.org/webreports/reports/114/S114609.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [360](http://www.nuforc.org/webreports/reports/165/S165114.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164991.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165120.html)
-- [357](http://www.nuforc.org/webreports/reports/165/S165030.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164977.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
