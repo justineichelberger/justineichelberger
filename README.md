@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:36 on 16 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:01:25 on 16 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Edmonton (Canada) (AB) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Wobbling disk UFO appears in sky travels westward for 5 minutes.Disk UFO  I was at work on Monday Oct.16, 2017 driving south on 127 street Edmonton.  I was stopped at the Yellowhead/127 street intersection looking forward and up in the cloudy sky.  There was nothing there and then suddenly this object appeared about 400 to 500 meters up under the clouds south of me about 1 kilometer I estimate.  It was moving oddly and immediately got my attention.  I keep a powerful monocular in my carry bag behind my seat and while I was stopped at the intersection I reached for it and zoomed in on the object.  It was disk shaped and black and was moving in a westerly direction at about 60 km/hr.  The light turned green at the intersection and I had to drive south but kept my eye on it.  I eventually turned off of 127 street heading west on 122 Ave.  I lost sight for a bit but regained sight just before reaching St. Albett Trail.  I actually stopped the vehicle and with the monocular got a very good look at the object.  It had 2 red lights on left and right sides of the d! isk with a pinkish red hue emanating from the thin center part of the disk.  The 2 lights stayed in place while the disk was wobbling like you would see a coin wobble on a table before coming to a rest, with the outward sides bobbing up and down.  The motion on the disk however was much slower.  Aside from the 2 lights and the emanating hue the disk appeared to be black with no rotors, no exhaust, nothing sticking out. I have submitted a drawing with this.I am 50 years old, married with children and work full time.  I have a University degree and two college diplomas.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136785.html](http://www.nuforc.org/webreports/reports/136/S136785.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Tacoma (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Multiple lights over Puget soundTook my dog outside for her morning walk before I leave for work like normal. I looked up to the sky’s, it was a clear morning, no clouds or fog. I notice what looked like stars but moving across the sky. There were more the could count. They were all moving In The same direction, coming from the south headed north (Lakewood area traveling north directly over the gig harbor bridge). I remember seeing some brighter then Others and some moving faster also. Not sure what it was but this isn’t the 1st time seeing this. I have seen this same anomaly 3xs now. Not as many lights before but moving in the same direction south to north over the bridge. Also they were all at different times all while it was dark outside. And within the past year.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160007.html](http://www.nuforc.org/webreports/reports/160/S160007.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [360](http://www.nuforc.org/webreports/reports/165/S165114.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164991.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165120.html)
-- [357](http://www.nuforc.org/webreports/reports/165/S165030.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164977.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
