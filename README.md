@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:07:31 on 16 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:47 on 16 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Derbyshire (UK/England) () reported seeing craft that fit the description of some 'Oval' over a period of approximately night - night minutes.</sub><blockquote><sub>white low flying fast novel shaped craftWas just looking at moon and next think saw a very bright light moving fast and it was low then a plane come very close to it just flying over it thought, it was going to hit it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103300.html](http://www.nuforc.org/webreports/reports/103/S103300.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1959, an anonymous witness in Four States (WV) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>MYSTERIOUS RED LIGHTS  IN NORTHERN WEST VIRGINIATWO RED LIGHTS APPROACHED THE OUR CAR DRIVING HOME FROM A RAINED OUT FOOTBALL GAME.  CONDITIONS: FOGGY, RAINY.  DISTANCE FROM LIGHTS, 1000 YARDS.  OUR CAR WOULD NOT RESTART DURING THE EVENT, OR AFTER THE NEXT DAY.  BATTERY WAS DRAINED.  GEOGRAPHY: LARGE "HOLLOW" OR VALLEY COMMON IN WEST VIRGINIA. MY BROTHER AND I RAN HOME 300 YARDS UP AND DOWN 2 HILLS DOWN THE ROAD.  THE LIGHT WAS CLEAR AND BIG AND APPEARED TO GROW SMALLER AS THEY SEEMED TO APPRAOCH.  THE WHOLE TIME THEY WERE CRYSTAL CLEAR..((NUFORC Note:  Date may be approximate, althought the source of the report does not indicate that fact.  Source describes self as possessing a Ph.D..  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62107.html](http://www.nuforc.org/webreports/reports/062/S62107.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [360](http://www.nuforc.org/webreports/reports/165/S165114.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164991.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165120.html)
-- [357](http://www.nuforc.org/webreports/reports/165/S165030.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164977.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
