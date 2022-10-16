@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:40 on 16 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:34 on 16 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Pensacola (FL) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 157</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150092.html](http://www.nuforc.org/webreports/reports/150/S150092.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Wenatchee (WA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Cigar-shaped, silver craft moving at high rate of speed.At 3:52 pm I was standing in the doorway of my garage, looking north.  I noticed a cigar shaped, silver colored craft heading from east to west at a rapid rate of speed.  It turned sharply and headed north.  I was trying to rule out plane or bird as I witnessed the event.  It was neither as it was moving so fast and turned on a dime, changing direction.  I will be submitting an additional report immediately following this one involving another sighting 2 hours, later witnessed by myself and Husband.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136791.html](http://www.nuforc.org/webreports/reports/136/S136791.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [360](http://www.nuforc.org/webreports/reports/165/S165114.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164991.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165120.html)
-- [357](http://www.nuforc.org/webreports/reports/165/S165030.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164977.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
