@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:35 on 16 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:13:26 on 16 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Renton (WA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Large cigar shaped object reflecting the sun in the morning sky.  Very slow moving if at all.We saw a large cigar shaped object to the north "hovering" on the horizon.  It was reflecting the sun, so it looked orange.   It seemed to maybe change pitch while we were watching, but as our vantage point changed, it could have only appeared so.   It may have moved slowly or it may have just changed position with respect to the horizon because of orbit or the earth's rotation.   Was this the space station?   Whatever it was was big.   No way was it a planet, star or airplane.   I don't know what the space station looks like or if it would have been in the morning sky, but I watched it for a while, so I know that whatever it was, it was really there.((NUFORC Note:  We suspect that the first possibility to be ruled out would be a contrail in the eastern sky.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25624.html](http://www.nuforc.org/webreports/reports/025/S25624.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Digby (Canada) (NS) reported seeing craft that fit the description of some 'Circle' over a period of approximately All night - All night minutes.</sub><blockquote><sub></sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149882.html](http://www.nuforc.org/webreports/reports/149/S149882.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [360](http://www.nuforc.org/webreports/reports/165/S165114.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164991.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165120.html)
-- [357](http://www.nuforc.org/webreports/reports/165/S165030.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164977.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
