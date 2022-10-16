@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:35 on 15 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:01:55 on 16 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in La Crosse (WI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>5 lights in V formation, racing across night sky before abruptly disappearingWhen sitting outside of a dance club getting some fresh air, my friends and I were looking up at the sky and happened to catch what we thought was a falling star.  Within a split-second, we realized that we in face were seeing 5 lights, formed in a perfect V, moving rapidly along the night sky.  Within 5 seconds, and as we watched, the lights just disappeared.  We each looked at each other and said "You saw that, right?"  Could have been aircrafts of some sort, but weird how the lights just disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47217.html](http://www.nuforc.org/webreports/reports/047/S47217.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Two spheres flew around and interactedTalking to my roofer I saw two what thought you be birds interacting With each other about 3000 feet if I had to guess which was strange .. they passed each other then circled back to intercept and pass again then fly off .. within 5-10-15 minutes later a f-15 flew over very low over the same area</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160028.html](http://www.nuforc.org/webreports/reports/160/S160028.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [838](http://www.nuforc.org/webreports/reports/165/S165184.html)
-- [837](http://www.nuforc.org/webreports/reports/164/S164960.html)
-- [836](http://www.nuforc.org/webreports/reports/164/S164959.html)
-- [835](http://www.nuforc.org/webreports/reports/164/S164974.html)
-- [834](http://www.nuforc.org/webreports/reports/164/S164981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
