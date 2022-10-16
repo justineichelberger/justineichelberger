@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:03:00 on 16 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:34 on 16 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Anderson (SC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Dark, soundless object low in the sky over Anderson, SC; looked like huge black helium balloon?My wife, daughter and myself were walking across a restaurant parking lot to our car when my daughter asked "what's that?"   What we saw was a black object in the distance with no lights.  It was close to dusk, but the object stood out clearly because the sky behind it was still fairly light.  It appeared to be low flying (my first thought was an ultralight plane).  There was no noise, and it was moving in our direction.  It looked as if it would fly over close to us.  We watched it for at least a minute and decided we looked foolish out in the middle of the parking lot.  We turned toward our car and had to walk behind a small tree which blocked our view for a couple of seconds.  When we were past the tree we all looked and the object had disappeared. The shape was roughly triangular with the points rounded.  My wife thought she saw a faint light at one point.  It seemed like it wobbled and didn't hold a straight path.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47032.html](http://www.nuforc.org/webreports/reports/047/S47032.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Shawano (WI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>My friends were out side and we say 3 crafts very close to us we were scared the thing had light beams and made a weird sound & took ofMe and my friends were outside playing around on the ground looking up at the sky and then we saw out of no where 3 triangley flying objects in the sky close to the ground we started stareing at it stunnd and not noing what to do the object shot beams of light out of the bottom and there was a red light right in the bottom middle of the object. after the beams went away.. the lights on the craft started changing diffrent colors and made the craft made a weird sound and took of at the speed of light when the craft made the werd sound me and my friends took of to one of my friends houses.... We were scared sraight</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93636.html](http://www.nuforc.org/webreports/reports/093/S93636.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [360](http://www.nuforc.org/webreports/reports/165/S165114.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164991.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165120.html)
-- [357](http://www.nuforc.org/webreports/reports/165/S165030.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164977.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
