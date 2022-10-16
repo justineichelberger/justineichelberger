@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:47 on 16 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:03:00 on 16 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1959, an anonymous witness in Four States (WV) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>MYSTERIOUS RED LIGHTS  IN NORTHERN WEST VIRGINIATWO RED LIGHTS APPROACHED THE OUR CAR DRIVING HOME FROM A RAINED OUT FOOTBALL GAME.  CONDITIONS: FOGGY, RAINY.  DISTANCE FROM LIGHTS, 1000 YARDS.  OUR CAR WOULD NOT RESTART DURING THE EVENT, OR AFTER THE NEXT DAY.  BATTERY WAS DRAINED.  GEOGRAPHY: LARGE "HOLLOW" OR VALLEY COMMON IN WEST VIRGINIA. MY BROTHER AND I RAN HOME 300 YARDS UP AND DOWN 2 HILLS DOWN THE ROAD.  THE LIGHT WAS CLEAR AND BIG AND APPEARED TO GROW SMALLER AS THEY SEEMED TO APPRAOCH.  THE WHOLE TIME THEY WERE CRYSTAL CLEAR..((NUFORC Note:  Date may be approximate, althought the source of the report does not indicate that fact.  Source describes self as possessing a Ph.D..  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62107.html](http://www.nuforc.org/webreports/reports/062/S62107.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Anderson (SC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Dark, soundless object low in the sky over Anderson, SC; looked like huge black helium balloon?My wife, daughter and myself were walking across a restaurant parking lot to our car when my daughter asked "what's that?"   What we saw was a black object in the distance with no lights.  It was close to dusk, but the object stood out clearly because the sky behind it was still fairly light.  It appeared to be low flying (my first thought was an ultralight plane).  There was no noise, and it was moving in our direction.  It looked as if it would fly over close to us.  We watched it for at least a minute and decided we looked foolish out in the middle of the parking lot.  We turned toward our car and had to walk behind a small tree which blocked our view for a couple of seconds.  When we were past the tree we all looked and the object had disappeared. The shape was roughly triangular with the points rounded.  My wife thought she saw a faint light at one point.  It seemed like it wobbled and didn't hold a straight path.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47032.html](http://www.nuforc.org/webreports/reports/047/S47032.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [360](http://www.nuforc.org/webreports/reports/165/S165114.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164991.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165120.html)
-- [357](http://www.nuforc.org/webreports/reports/165/S165030.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164977.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
