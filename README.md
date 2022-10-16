@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:04:13 on 16 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:37 on 16 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Laporte (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>balls of light discharged from another ball of light in the night skyThere was a ball of light that discharged five or so other balls in a beam that made it look like a cell phone tower with a ball of white light at top and five or so other balls moving up and down the vertical beam.  Then the top light broke off and flew out of sight.  The remaining balls then fell to the grounds as a firework would do each ball swaying from side to side as they fell in a group.  Only one light ball fizzled out.  The remaining ones hovered over the ground swaying and moving around together up and down side to side. Then we proceeded to drive out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72897.html](http://www.nuforc.org/webreports/reports/072/S72897.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Garden Grove (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Triangle shape, broken into three discoid or round objects, shinny like polished stainlessIt appeared like a single triangle shape at first, but then it broke out into three objects separated by what appeared like the length of half a football field between them.  Try to take pictures but the objects would not show on pictures taken with digital camera, and then try to take video but objects would not appear on played video afterwards.  Objects disappeared into sky a bit later after taking video.  The objects where shinny but did not see any signs of a contrail so I am sure it was not a conventional craft.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72895.html](http://www.nuforc.org/webreports/reports/072/S72895.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [360](http://www.nuforc.org/webreports/reports/165/S165114.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164991.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165120.html)
-- [357](http://www.nuforc.org/webreports/reports/165/S165030.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164977.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
