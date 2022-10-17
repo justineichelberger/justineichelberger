@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:02:44 on 17 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:05:05 on 17 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Cornwall (Canada) (ON) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>freek me out ?At first outside having a, smoke, front porch, light from no were , from on top of tree line , very bright, but not blinding, no ray, like a flash light ,like a brite Eye for craft , taking info ,it flew the the tree line , slowly , no sound atall , It stop in mid air , turn onits side @ its like it was studying the trees , the bottom of craft was like it was see threw , but it like had electric symbols , the craft was small , ? Way too explane it like , a flat jellyfish with same glow , ways .Not crazzy not a beliver , but know ? / USA / has top secert like this?((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106356.html](http://www.nuforc.org/webreports/reports/106/S106356.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in St. Cloud (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>10/17/09 st.cloud mn light 5-10mins and orange light over down town st.cloudI was out side taking my dog go and at the corner of my eye,i saw a strange light but i didn't hear anything no sound at all... it was going way to slow i'm guessing about less than 5mph. i followed it down the block it faded i ran back told my mother about it we when out side and it was there again in a different spot moving in zig zag a crossed the sky.  we went in because we were scard and confused.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72959.html](http://www.nuforc.org/webreports/reports/072/S72959.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164990.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164988.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164982.html)
-- [403](http://www.nuforc.org/webreports/reports/165/S165143.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164989.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
