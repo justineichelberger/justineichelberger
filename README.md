@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:12:17 on 17 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:38 on 17 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Object, large in nature, with a bright white light tail entering the atmosphere in California.While driving along north bound US Highway 85 in San Jose, CA around 7:00 am, I noticed a flash of bright white light streaking from right to left.The object looked like a cluster of objects, probably round in nature with the middle object being the largest and at least two smaller objects very close to it.  Of the two smaller object one was towards the top and the other was at the bottom of the larger one.  The flash it made in the morning sky, made it look like these were either very close together or one object that had an odd shape.I first noticed a very bright white light in the sky and when I looked up I saw a white steak, going right to left (so in the direction I was going, the object traveled from North/Northeast to South/Southwest).  The trail and object were the same color from what I could tell but you could see it was an odd shape or three separate objects (see above).  The object(s) was pretty big in size and the tail was fairly long.The location where I noticed it was around the border of the cities San Jose, Los Gatos, Campbell.  On US Highway 85 I was traveling on the north bound side of 85 but was actually going from Southeast to Northwest.  I first noticed the light either above or just to the left of highway 85.  I watched for as long as I could, glancing at traffic (making sure I don't get in a wreck).  I lost it before it could travel over the hills in Los Gatos/Saratoga.  Total time I saw it was probably around 5 seconds, maybe less.The object was high enough in the sky/atmosphere that if it were to land it would have done so in the Pacific Ocean.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103319.html](http://www.nuforc.org/webreports/reports/103/S103319.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Baghdad (Iraq) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately ? - ? minutes.</sub><blockquote><sub>Object tracked and annotated by Air Ops Center covering IraqNo visible observation, but unidentified Flying Object tracked by radars in use by the Coalition Forces at the Air Operations Center in Qatar.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32629.html](http://www.nuforc.org/webreports/reports/032/S32629.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164990.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164988.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164982.html)
-- [403](http://www.nuforc.org/webreports/reports/165/S165143.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164989.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
