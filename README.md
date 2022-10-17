@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:30:29 on 17 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:56:31 on 17 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Cape Canaveral (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately not determined - not determined minutes.</sub><blockquote><sub>During the launch of a Delta 2, an object was seen and photographed along the flight path.  The object did not move and was not a star as we were an hour after sunrise and we were looking NNE past the rising sun.  This obect has been seen in past Delta 2 flights as noted in the past.  It is possible that this is a pre-launch weather balloon.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59317.html](http://www.nuforc.org/webreports/reports/059/S59317.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Lakewood (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Silent, huge triangular black craft with 3 faint red lights in a line across the back and markings on the bottom.I was looking up at the stars in front of my apartment complex, when I saw a VERY large, triangular black craft.  I thought it was a Stealth bomber then I realized it was absolutely silent, 4 times as big, and had only 3 very faint lights in a row on the back.  No flashing lights, no normal-colored airplane or jet lights.  It went from north to south, across the entire sky, in under 10 seconds.  I could see the entire outline while it was overhead, I saw a complex pattern on the bottom.  Absolutely no noise.  We do not live in any type of flight patterns, we do see and hear planes from Denver International Airport occasionally, less than one per day.  And we always hear them.  We are not bear any Air Force bases, there's the training academy in Oloradon Springs, and one in Aurora, but I've only seen and heard military jets once in 3 years.  My husband and I have.  Even married for 9 years, I managed to yell at him and he saw the last 2 seconds of the craft before it blended in with the dark night sky.  We both work full time, never been in any sort of legal trouble, we have no kids, we're pretty laid back and low key.  We were also completely sober.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130671.html](http://www.nuforc.org/webreports/reports/130/S130671.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164990.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164988.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164982.html)
-- [403](http://www.nuforc.org/webreports/reports/165/S165143.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164989.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
