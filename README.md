@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:43 on 17 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:01:02 on 17 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Poteau (OK) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 21:00 - 21:00 minutes.</sub><blockquote><sub>Lights going to fast to be a planeMy husband and I were sitting outside talking and out of the corner of my eye I seen a very bright light coming from the electrical storm near sugar loaf mountain. We noticed that it was flashing very bright and then all of a sudden it vanished.  We observed three flashing lights like planes, but seemed as if they were moving very fast.  Two of the lights seemed as if one was following the other, than the light stopped in mid air, and its like they came together and flew together.  The two lights flew towards us which seemed from our view point was a big plane.  Than the Lights flew in opposite directions.  It was very weird and I just don't know what I seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93650.html](http://www.nuforc.org/webreports/reports/093/S93650.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in New Hampton (NH) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Single light multiplies into 3 over highway then disappears.We were driving on 93 north bound around New Hampton, NH, at dusk and saw a very bright white light just above the hills/mountains.  My husband noticed it at the same time, and just then the one light multiplied into three bright lights in a vertical line.  The three lights were all the same size, had no smoke trails or anything, and then disappeared to a single point all at the same time.  We saw one more bright light in the same direction about 2 minutes later and then it was gone.  These lights were not planes, fireworks, flares, or stars!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114626.html](http://www.nuforc.org/webreports/reports/114/S114626.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164990.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164988.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164982.html)
-- [403](http://www.nuforc.org/webreports/reports/165/S165143.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164989.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
