@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:04:34 on 17 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:03:23 on 17 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Key Biscayne (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Observed a white, silvery sphere that held stationary, then moved east into the morning skyI observed a silvery white object that appeared high in the blue, but partly cloudy morning sky.  Its position remained fixed, by the rail of my balcony, for several minutes until it began to move steadily east southeast at constant velocity.  The clouds were a mix of TCU, from ~ 5000-10000' at low level and high SCT Cirrus ~ 25000' (my estimates).  The TCUs moved east to west in front of the object, which did not appear to reflect the morning sun, but softly, glowed organically.  Through the binoculars it appeared textured and matted, and too far/ small to appear on the camera.  If this object were at 10000' I would estimate the diameter to be about 5'.  After watching it pass behind a few TCUs, it finally failed to emerge.I considered this may have been a balloon at a level between the lower westerly flow and the higher easterly flow, moving easterly as it rose.  If it was at 10000', I could hazard a guess of ~ 100kts.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130692.html](http://www.nuforc.org/webreports/reports/130/S130692.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Temecula (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately Presently there - Presently there minutes.</sub><blockquote><sub>An object appearing to be shaped of multiple bright circles within it.Around 3:20 a.m. my husband & I both witnessed what looked like a star, only we both agreed it was too close to the earth to be a star. I awoke to the sound of a helicopter, in which flew in the direction of the object; yet underneath it.  I ran downstairs to grab our binoculars from the garage to take a closer look. As I adjusted the binoculars I could clearly see a multiple of circles within this object that looked to be some sort of spaceship looking object or flying saucer. My body immediately developed goose bumps I almost dropped the binoculars! I could not believe what I was looking at, so I looked again and woke my husband up and convinced him to look too. My husband described the same thing without my having given him a description of what I’d seen. After contemplating whether we should phone the police (in fear of being laughed at or thought to be crazy) I decided it was my duty to report it. I thought also that maybe the helicopter was also surveying it. The police advised me to contact the UFO Center. I phoned and left a message of what we’d seen with the National UFO Reporting Center in Washington. I hope this report helps.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160017.html](http://www.nuforc.org/webreports/reports/160/S160017.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164990.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164988.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164982.html)
-- [403](http://www.nuforc.org/webreports/reports/165/S165143.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164989.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
