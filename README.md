@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:03:23 on 17 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:39 on 17 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Temecula (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately Presently there - Presently there minutes.</sub><blockquote><sub>An object appearing to be shaped of multiple bright circles within it.Around 3:20 a.m. my husband & I both witnessed what looked like a star, only we both agreed it was too close to the earth to be a star. I awoke to the sound of a helicopter, in which flew in the direction of the object; yet underneath it.  I ran downstairs to grab our binoculars from the garage to take a closer look. As I adjusted the binoculars I could clearly see a multiple of circles within this object that looked to be some sort of spaceship looking object or flying saucer. My body immediately developed goose bumps I almost dropped the binoculars! I could not believe what I was looking at, so I looked again and woke my husband up and convinced him to look too. My husband described the same thing without my having given him a description of what I’d seen. After contemplating whether we should phone the police (in fear of being laughed at or thought to be crazy) I decided it was my duty to report it. I thought also that maybe the helicopter was also surveying it. The police advised me to contact the UFO Center. I phoned and left a message of what we’d seen with the National UFO Reporting Center in Washington. I hope this report helps.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160017.html](http://www.nuforc.org/webreports/reports/160/S160017.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Sykesville (MD) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>I was at a lumber yard and 3 of us saw a large bodied very bright silver craft with no wings, shaped like a pill and no exhaust trailings.For the size/diameter of the body it was moving a lot slower than a jet...  it wasn’t a large ballon or a Goodyear blimp.  pretty big in diameter and moving slower than a chair and it didn’t have wings or exhaust coming out the back</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136792.html](http://www.nuforc.org/webreports/reports/136/S136792.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164990.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164988.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164982.html)
-- [403](http://www.nuforc.org/webreports/reports/165/S165143.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164989.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
