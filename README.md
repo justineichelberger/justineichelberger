@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:34 on 16 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:02:05 on 17 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Wenatchee (WA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Cigar-shaped, silver craft moving at high rate of speed.At 3:52 pm I was standing in the doorway of my garage, looking north.  I noticed a cigar shaped, silver colored craft heading from east to west at a rapid rate of speed.  It turned sharply and headed north.  I was trying to rule out plane or bird as I witnessed the event.  It was neither as it was moving so fast and turned on a dime, changing direction.  I will be submitting an additional report immediately following this one involving another sighting 2 hours, later witnessed by myself and Husband.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136791.html](http://www.nuforc.org/webreports/reports/136/S136791.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Littlerock (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>a see through triangle that dissapeared into thin air.it was around 630am me and my mother were on my way to skool as for i had armed drill practice in the morning. we were driving on an open road ahead of us in the sky about 2-3 miles away we saw a light we thought of it as a plain or helicopter but then it stopped out of nowhere. im guessing it turned sideways becuase we saw the tip of it as a very bright rectangle it was completly white. behind it it left a trail of that was like a tringle but i was able to se throught the conected triangle trail. the triangle was like a see throw jello as it was connected to the rectangle small part of the ship but still see through we kept looking at it. i tried to record it on my phone but it was to far away to show up on my video lens. it was easily rising 1000ft up and down and seemed like gravity was no problem for this device. as we aproached a full 130 seconds of the viewing me and my mom both witnissed it just dissapear into thin air. i noticed it didnt fly away bec! uase it was like a ghost going invisible i slowly saw it dissapear. the only explanation i might have is that edwards afb that is like 10 miles from my city has struck it gold in technology. but i truly believe that it wasnt from this planet becuase we do not have the technology to make an object just dissapear((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74277.html](http://www.nuforc.org/webreports/reports/074/S74277.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [360](http://www.nuforc.org/webreports/reports/165/S165114.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164991.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165120.html)
-- [357](http://www.nuforc.org/webreports/reports/165/S165030.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164977.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
