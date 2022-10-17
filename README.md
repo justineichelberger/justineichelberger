@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:02:05 on 17 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:30:29 on 17 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Littlerock (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>a see through triangle that dissapeared into thin air.it was around 630am me and my mother were on my way to skool as for i had armed drill practice in the morning. we were driving on an open road ahead of us in the sky about 2-3 miles away we saw a light we thought of it as a plain or helicopter but then it stopped out of nowhere. im guessing it turned sideways becuase we saw the tip of it as a very bright rectangle it was completly white. behind it it left a trail of that was like a tringle but i was able to se throught the conected triangle trail. the triangle was like a see throw jello as it was connected to the rectangle small part of the ship but still see through we kept looking at it. i tried to record it on my phone but it was to far away to show up on my video lens. it was easily rising 1000ft up and down and seemed like gravity was no problem for this device. as we aproached a full 130 seconds of the viewing me and my mom both witnissed it just dissapear into thin air. i noticed it didnt fly away bec! uase it was like a ghost going invisible i slowly saw it dissapear. the only explanation i might have is that edwards afb that is like 10 miles from my city has struck it gold in technology. but i truly believe that it wasnt from this planet becuase we do not have the technology to make an object just dissapear((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74277.html](http://www.nuforc.org/webreports/reports/074/S74277.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Cape Canaveral (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately not determined - not determined minutes.</sub><blockquote><sub>During the launch of a Delta 2, an object was seen and photographed along the flight path.  The object did not move and was not a star as we were an hour after sunrise and we were looking NNE past the rising sun.  This obect has been seen in past Delta 2 flights as noted in the past.  It is possible that this is a pre-launch weather balloon.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59317.html](http://www.nuforc.org/webreports/reports/059/S59317.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164990.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164988.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164982.html)
-- [403](http://www.nuforc.org/webreports/reports/165/S165143.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164989.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
