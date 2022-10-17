@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:59 on 17 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:43 on 17 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Tampa (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>triangular shape. dull red lights .I think 3 or more in rear and at least one forward as like a front of vehicle,  no flashing lights as id=f commercial airline.  no sounds approached from north heading south, veered off to right and lost sight.  I have lived here for almost six years never seen anything remotely like this.  hard to tell altitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122910.html](http://www.nuforc.org/webreports/reports/122/S122910.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Poteau (OK) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 21:00 - 21:00 minutes.</sub><blockquote><sub>Lights going to fast to be a planeMy husband and I were sitting outside talking and out of the corner of my eye I seen a very bright light coming from the electrical storm near sugar loaf mountain. We noticed that it was flashing very bright and then all of a sudden it vanished.  We observed three flashing lights like planes, but seemed as if they were moving very fast.  Two of the lights seemed as if one was following the other, than the light stopped in mid air, and its like they came together and flew together.  The two lights flew towards us which seemed from our view point was a big plane.  Than the Lights flew in opposite directions.  It was very weird and I just don't know what I seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93650.html](http://www.nuforc.org/webreports/reports/093/S93650.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164990.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164988.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164982.html)
-- [403](http://www.nuforc.org/webreports/reports/165/S165143.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164989.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
