@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:15:20 on 17 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:09:34 on 17 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Celina (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Two Strange Amber/Golden Spheres that Flared up into Starlike Shaped Objects.I was witness to two strange UFO's on this night.  The UFO's began as an amber/golden ball on the western horizon.  This ball grew in size, and changed in it's shape, so that it resembled a large golden starlike thing.  This flare up star shaped object, was about five times the size of the original golden ball.  A few minutes after this sighting, I witnessed second golden sphere on the southern horizon.  This ball also flared up, but not nearly as much as the first one had -- maybe three times it's original size.  I never saw any bliking landing lights on either of these objects, so they didn't resemble airplanes -- plus the color was wrong for airplanes, which are usually more orange, or red in color.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115355.html](http://www.nuforc.org/webreports/reports/115/S115355.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Mount Joy (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Medium sized circular red (fireball like) object moving radically (up and down) through the sky slowly losing altitude before disappearing behind trees and could no longer follow unexplained object.  No regular aircraft within immediate area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122914.html](http://www.nuforc.org/webreports/reports/122/S122914.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164990.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164988.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164982.html)
-- [403](http://www.nuforc.org/webreports/reports/165/S165143.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164989.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
