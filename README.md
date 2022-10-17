@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:07:37 on 17 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:04:34 on 17 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1975, an anonymous witness in Greenwich (CT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>i made me feel it was a living thing.  that it was aliveThe best way I can give the exact date of my sighting is there was a news story on tv by walter Cronkite in 1976 or 75. The news story was about ufo and trips to eternity in a ufo where families even gave away there own kids to go on a trip to eternity.A lot of bs agreed.  Anyway heres what happened. Thinking about that news story later that night  I was wondering if they can read minds  So I kept thinking where I am with land marks and directions in my head thinking About new york by looking at a world map.  Right down to where my town is And what my house looks like and what’s near it. So later I sead and watched kojack on tv.As I lay on my bed watching tv what I first think was the moon came in view and maybe It was there all the time and I didn’t know it. Then it moved. Exact direction north east.The edges of it seem to have points and when it moved it looked like it was crawling on the sky. It was round. With small points all around its edge that get longer then Shorter like its pulling itself across the sky. What ever it was I think it was a living thing Of some kind. I was afraid to go near a window night for some time. Or go out at Night. I reported this to other ufo sites just check my story about the trips to eternity and Walter Cronkite. I don’t know how to spell his name so this is a sound like.And I was so afraid  because I could feel it knows me. And can see me. I hope I never see it again. But it leaves me with the memory and I still would like it Explained to me what I saw NOTE i no longer live in greenwich ct and cant give my current address</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73460.html](http://www.nuforc.org/webreports/reports/073/S73460.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Key Biscayne (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Observed a white, silvery sphere that held stationary, then moved east into the morning skyI observed a silvery white object that appeared high in the blue, but partly cloudy morning sky.  Its position remained fixed, by the rail of my balcony, for several minutes until it began to move steadily east southeast at constant velocity.  The clouds were a mix of TCU, from ~ 5000-10000' at low level and high SCT Cirrus ~ 25000' (my estimates).  The TCUs moved east to west in front of the object, which did not appear to reflect the morning sun, but softly, glowed organically.  Through the binoculars it appeared textured and matted, and too far/ small to appear on the camera.  If this object were at 10000' I would estimate the diameter to be about 5'.  After watching it pass behind a few TCUs, it finally failed to emerge.I considered this may have been a balloon at a level between the lower westerly flow and the higher easterly flow, moving easterly as it rose.  If it was at 10000', I could hazard a guess of ~ 100kts.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130692.html](http://www.nuforc.org/webreports/reports/130/S130692.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164990.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164988.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164982.html)
-- [403](http://www.nuforc.org/webreports/reports/165/S165143.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164989.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
