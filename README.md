@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:58:49 on 17 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:47:15 on 17 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Camp Hill (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>3 lights flying side by side-rapidly moving away from me & joined 4 additional lights-2 on each side and bolted away...Sorry, but not computer literate..  I was leaving a football game around 9:15 or before 9:30PM.  I was walking with 3 adults and 2 of my grandchildren (2 and 5) and there were quite a few other people also walking to their cars.  There were patches of clouds that somewhat resembled an old and ripped blanket.  My eyes picked up on 3 lights almost directly above me and moving away from me.  They seemed to resemble a spotlight without the light beaming from the ground.  I excitedly told my group to look at these lights in the sky and I also said, "Oh, it's not what I thought this was".  But as I continued to watch them get further away, I noticed 2 other sets of lights join these 3 on each side and then they bolted away... I will also admit none of my group that was only within 2 steps ahead of me heard my excitement..I thought they all heard me and was looking at what I was seeing, but nobody did...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66298.html](http://www.nuforc.org/webreports/reports/066/S66298.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Hayesville (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>On HWY 175 near the Georgia state line, bright lights about as high as the power line, hovered for 1-2 minutes then zoomed towards south towards Hiawassee, GA</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157438.html](http://www.nuforc.org/webreports/reports/157/S157438.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164990.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164988.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164982.html)
-- [403](http://www.nuforc.org/webreports/reports/165/S165143.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164989.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
