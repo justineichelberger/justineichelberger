@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:56:28 on 18 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:51:21 on 18 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Atlanta (south side of, Forest Park) (GA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I'm a truck driver, was backing into American can, window down, looked up and saw a crescent shaped object, color of moon, 1/3 size speeing up. it was very bright and streeking. It was about 500 foot above and I could see another airplane in the background. i was close to atlanta airport.I'm a truck driver and was picking up at american can in forest park, GA. It was about 2338 when I was backing up into a dock.  I had my window down.  The tail of my truck was facing due north and I was facing due south.  Atlanta airport is close by and several aircraft are circling to land.  Something caused me to look up and saw a cresent shapped object streeking across the sky.  It was bright white and was leaving a brief trail behind it.  It started going streight but then appeared to go upward.  It lasted about 3-5 seconds at most.  It appeared to be gaining speed and slightly rotating.  It then disappeared.  Sorta agh struck.  Only though was "Kewl" what ((dleeted)) was that? Oh, there was no sound at all and it was about 1/3 the size of the moon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10265.html](http://www.nuforc.org/webreports/reports/010/S10265.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Same as Above.The UFO was moving normally like a helicopter, then it stopped midair, and backed up.  It stopped and dropped straight down.  2 seconds to where we could not see it then we saw it fly to the left at a tremendous speed the just as quick as it went to the left it came right back to the right at a tremendous speed and was gone.  We waited to see if it would come back, and it didn't.  We know when we are seeing surveillance, commercial, police, news, Tourist helicopters, and tourist sky buses in Las Vegas.  I recently move to Las Vegas, and we have never seen anything like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114657.html](http://www.nuforc.org/webreports/reports/114/S114657.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165243.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165012.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164993.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164994.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
