@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:06:51 on 18 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:40 on 18 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Venice beach (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Flying pink and green or over Venice Beach.I was looking  out my balcony window and saw a bright pink light in the sky then it moved quite rapidly and stopped I told my wife to come outside her and I observed the craft flying quickly and making a c shape flight in the sky it seemed to be about 3000 feet in the air quite large and had went towards the marina and stay there behind a building that I could not observe for at least two minutes but then reappeared and it seemed to fly over the Washington pier and then in hovered above the sky again  then it seemed to fly very quickly straight down and I could not see it any longer does distance seem to be at least a mile away and it look like it had the speed that it may have gone into the ocean  i'm not too sure but I could've swore I seen to jet fighters flying in the same direction where the light was but it had already been out of my sight for a few minutes and these two large airplanes seem to fly right where  The light was that last but they continue to fly straight and into the clouds and I could not see the jet fighters any longer  .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122959.html](http://www.nuforc.org/webreports/reports/122/S122959.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Downingtown (PA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>cylinder object in night skyOn either Monday Oct. 17 or Tuesday Oct. 18 (I can't recall the exact date), I was in the front yard of my house looking for our house cat, ((name deleted)), who likes to 'escape' from our house sometimes.  As I walked around the yard, calling to her, I looked up into the night sky and, after a few moments, noticed a cylinder or disk shaped black object zip back and forth across the sky a few times, very quickly.  It was far enough away that I could not notice detail, but it appeared to be tapered at each end.  It definitely had a mass to it and didn't appear to be something that was projected, as I could notice a bit of light reflected off of it.  Its movement was very fast and it almost seemed to move from one part of the sky to another by 'zipping' along and then suddenly slowing and stopping.  I'm not sure how else to explain the odd movement. I don't believe in aliens or anything of the like but I know what I saw and I do not believe it was of this world.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47178.html](http://www.nuforc.org/webreports/reports/047/S47178.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165243.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165012.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164993.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164994.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
