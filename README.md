@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:13:30 on 18 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:01:50 on 18 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in LaGrange (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>4 Fireballs in LaGrange, Illinois, that formed a giant square and then disappeared.There was 4 orange/red fireballs flying in a straight line following each other.  Then they all separated the straight line and formed a giant square in the sky and became completely still not moving.  This all was about 3 minutes long.  While in the square one at a time the the light started to dim.  The light disappeared one at a time until all 4 fire balls were gone.  This took about another minute.  My view point was from a building 5 stories high and had a great view point of the sky.  This was a sighting around 8:55 at night and crystal clear sky.  I would guess the objects were in a southwest location from LaGrange, Illinois, maybe around Woodridge, or Naperville, Illinois.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114660.html](http://www.nuforc.org/webreports/reports/114/S114660.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Slow-moving high-altitude object seen in Austin, Texas the evening of October 18th.We noticed an object north of our location moving slowly to the west at very high altitude.  We used binoculars mounted on a tripod and noticed some smaller objects surrounding it.  The object appeared to be a large, white stucture, and our initial thoughts were that it was a weather balloon.  However, the object very clearly split into two distinct objects that slowly diverged to the north and south.  (These could not have been planets or stars, as they quickly faded during the sunset.)  We noticed a Southwest airline 737 flying due west underneath the object at around 7:00 pm, but it's unlikely the crew spotted the object as it was very, very high above.  We're very familiar with Venus, Mars, and the usual satellites, and this didn't resemble any of those at all.  Has anyone else seen this?  (Photos being developed.)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32402.html](http://www.nuforc.org/webreports/reports/032/S32402.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165243.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165012.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164993.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164994.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
