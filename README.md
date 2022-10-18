@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:03:41 on 18 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:07:00 on 18 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Port Washington (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>2 giant craft flying very low at high speeds, with changing color lights!I know that I am entering this a little late.. but I did'nt know that there was a place to report this kind of stuff. Well, back in October, my friend and I were walking around our highschool at night because there was a dance going on and we were waiting for some friends to come out. We were on an open football field and the sky was very clear, and I looked up and saw two very large crafts flying in the air. The two crafts were very low and seemed to be traveling very fast! I got the attention of my friend and he saw it too, and we were both in shock. I was in denial that what I saw was not an airplane, but I thought (and still think) that it was something else. It appeared as if the two crafts were flying on top of one another. They had green lights, which then became yellow. I honestly could not see the craft very well, so it is hard for me to determine the shape, but I did see that it was very low, and very fast. The thing that really led me to believe that it was not an airplane was because the crafts seemed to be flying RIGHT on top of another, and I know airplanes do not do that at such high speeds. This lasted long enough for my friend and I to talk to about it and he called his brother who actually has said he had seen it aswell, so it was about 3-5 minutes. I am sorry that I cannot give more detail, or be sure on exactly what I saw, but I truley believe that what I saw was not anything normal.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35893.html](http://www.nuforc.org/webreports/reports/035/S35893.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Dubuque (IA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Orange fiery globes, travelling in the same pathStanding outside when an orange glowing ball that appeared to be on fire flew from South to North across the sky.  It did not leave a trail. Once it moved to the northern part of the sky it disappeared.Ten minutes later, another one in the exact same trajectory appeared.Now, a week and a day later, I just witnessed two more.  Although still flying South to North, these two were much closer together and flying in the sky at the same time.  Same flight path, but these two were further to the Western part of our sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123169.html](http://www.nuforc.org/webreports/reports/123/S123169.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165243.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165012.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164993.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164994.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
