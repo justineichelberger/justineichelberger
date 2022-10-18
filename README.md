@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:05:23 on 18 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:06:51 on 18 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Palmer (AK) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Traffic was stopped on the Glenn Hwy, sitting on bridge over Susitna River headed towards Anchorage.  I looked towards the pioneer peek and further towards the Exit Glacier, in the sky a black rectangle was standing still about level with the pioneer peak.  The object would have been about 40 miles away as a bird flies.  I guess it would have been huge.  Then I tried to get video of it, as I am an investigator, always taking video.  The camera would not focus on the object.  Then it began to slope to the left and never changed from being a level black rectangle.  Then it disappeared behind some clouds that were quite far away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136914.html](http://www.nuforc.org/webreports/reports/136/S136914.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Venice beach (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Flying pink and green or over Venice Beach.I was looking  out my balcony window and saw a bright pink light in the sky then it moved quite rapidly and stopped I told my wife to come outside her and I observed the craft flying quickly and making a c shape flight in the sky it seemed to be about 3000 feet in the air quite large and had went towards the marina and stay there behind a building that I could not observe for at least two minutes but then reappeared and it seemed to fly over the Washington pier and then in hovered above the sky again  then it seemed to fly very quickly straight down and I could not see it any longer does distance seem to be at least a mile away and it look like it had the speed that it may have gone into the ocean  i'm not too sure but I could've swore I seen to jet fighters flying in the same direction where the light was but it had already been out of my sight for a few minutes and these two large airplanes seem to fly right where  The light was that last but they continue to fly straight and into the clouds and I could not see the jet fighters any longer  .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122959.html](http://www.nuforc.org/webreports/reports/122/S122959.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165243.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165012.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164993.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164994.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
