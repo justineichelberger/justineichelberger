@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:07:00 on 18 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:02:29 on 18 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Dubuque (IA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Orange fiery globes, travelling in the same pathStanding outside when an orange glowing ball that appeared to be on fire flew from South to North across the sky.  It did not leave a trail. Once it moved to the northern part of the sky it disappeared.Ten minutes later, another one in the exact same trajectory appeared.Now, a week and a day later, I just witnessed two more.  Although still flying South to North, these two were much closer together and flying in the sky at the same time.  Same flight path, but these two were further to the Western part of our sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123169.html](http://www.nuforc.org/webreports/reports/123/S123169.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Mossel Bay (South Africa) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>These crafts move from direction Cape town...Mossel bay...George etc.All reported by my dauther to observatory in Cape town.Refering to my shocked dauther report, one of those crafts even dropped down on earth surface some kind of net and later on lifted up again.  I have no reasons to send you this story and my daughter either.Based on my dauther tel.call which I received on monday night from South Africa.You can contact me on my mail adr.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72933.html](http://www.nuforc.org/webreports/reports/072/S72933.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165243.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165012.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164993.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164994.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
