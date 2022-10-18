@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:33:58 on 18 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:28:49 on 18 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Newburgh (IN) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 06</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143569.html](http://www.nuforc.org/webreports/reports/143/S143569.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Atlanta (downtown area) (GA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>6 LIGHTS total....... 4 blue 2 white..... the white light was blinking slowly....... u couldnt see anything else. like it was cloakedcoming out of the WESTIN HOTEL in downtown ATLANTA 3 blue lights, DIM..... 2 white lights, DIM... one WHITE LIGHT that was fading in and out as if it was a  STOP LIGHT.... just not on RED. i KNEW i wasnt trippin when i was comin from the WESTIN HOTEL. i just happened to look up and thought, must be the lights from the top of the WESTIN. LO AND BEHOLD.... i get further from the hotel to  CENTINNIAL PARK.... walkin with my head up wonderin....WHAT THE FUCK AM I LOOKIN AT IN THIS SKY? there is no CRANE and there is no SIGN in the sky. clouds did there best to cover up WHATEVER us 3 were seein. but when those clouds disappeared...........a faded green, faded blue and faded white light still remained..... and the other light just kept  FADING IN AND OUT, as if was BLINKING. i KNEW I WASNT TRIPPIN as i was talkin to myself like sum crazy person, thinkin to myself.....bruh, this CANT be what i THINK it is. on sum ol CLOAKED SPACESHIP typa shit........................... as i make my way to the cop car..... i tell the cop to take a look at this and tell me what u see, just see if im trippin BY MYSELF........ he gets outta his parked patrol car and glances up and asks me, yo...... WHAT THE FUCK ISSSS THAT???  and i say... EXACTLY!! are u seein what IM seeing? 2 white dim lights but only ONE of them is BLINKING SOFTLY. that is no AIR BALLOON... no, it WASNT a FUCKIN BLIMP cause even blimps MAKE NOISE. no it was NOT a fuckin DRONE... drones are NOT fuckin big. it DISAPPEARED SLOWLY after 45mins...........and as soon as me and cop went our separate ways because of the cold..... as im walkin toward marietta st. THE FUCKIN LIGHTS APPEAR AGAIN!!! i ask the VALET  to come out and see what im seein...... EVEN HIIIIIS AFRICAN ASS was askin, WHAT DA FUK IS DAAH?!? my response.......EXXXAAAAAACTLY. same lights. bruh, its a CLOAKED and prolly unfunctionable/ FUNCTIONABLE aircraft hovering above DOWNTOWN ATLANTA........... sumhow u can see the lights but cant see the whole craft its ATTACHED to. 3 witnesses and ONE is a damn COP</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150879.html](http://www.nuforc.org/webreports/reports/150/S150879.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165243.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165012.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164993.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164994.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
