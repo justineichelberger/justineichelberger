@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:01:06 on 18 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:54 on 18 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Traverse City (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Bright object  descends left extremely fast exactly diagonally and disappeared in skyI was driving home from work Moon was  out and  to right and down was a normal size and brightness of a star or planet etc  Some distance below was the brightest object and I noted that it I was very bright and large  Suddenly and fast it descended diagonally left for quite a distance and then disappeared Not sure what it was</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150357.html](http://www.nuforc.org/webreports/reports/150/S150357.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in San Carlos () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Triangle UFO in San Carlos Mexico Oct 18,06Originally Posted by Dr Bob 10/18/2006 7PM approx. San Carlos Sonora, Mexico We were driving to a restaurant near San Carlos, Mexico and I was a front seat passenger in the van. We were headed West in a dark section of the road with the closest habitation about two miles away. We were in a canyon between two extinct volcanos (Tetas de Cabra ) and the Sea of Cortez was about 3 miles away. Suddenly I looked up in the dark sky through the windshield and saw a triangular object leisurely proceeding in the opposite direction (East).  It had multiple small yellow lights on its underside that gave it the triangular shape.  There was no noise and the driver of the van did not see it as he was looking to the left. The altitude is hard to describe but I would estimate 500 ft. I doubt it was a private plane as VFR flight is illegal after dark in Mexico.  I plan to go to that same area and hang out tonight.Nothing seen last night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53029.html](http://www.nuforc.org/webreports/reports/053/S53029.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165243.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165012.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164993.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164994.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
