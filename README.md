@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:04:04 on 18 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:13:26 on 18 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Providence (RI) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>On 10/18/17, at about 6 p.m., I observed 4 unidentified air crafts in the sky that were flying over, under, and around each other, and also flying at alternating speeds.  One craft flew straight up and stayed still in that position for about 3 minutes, before resuming to fly.  After a few minutes of crafts flying around, what appeared to be a military aircraft flew between the other 4 crafts.  My attention was taken away for about a minute, and when I looked back up they were all gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136853.html](http://www.nuforc.org/webreports/reports/136/S136853.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Danville (IL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Reddish sphere seen from georgetown Ill in sky North East of Danville IllinoisI and 7 other passengers was driving back from Georgetown, Ill. to Danville, ILL. around 22:40 on October 18th 2014.  When driving north, I looked to the north east to see what just appeared out of a black sky above the tree line was a pinkish-red color sphere levitating in the air.  I thought it might had been a plane exploding, but never changed it's color nor fell to the ground.It stayed the same color and levitated in one spot,  It was brighter then the stars. it was brighter then the red beacon lights on the towers.it lasted approximately 15 to 30 seconds, then noticed it disappeared with no sound and no movement.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115001.html](http://www.nuforc.org/webreports/reports/115/S115001.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165243.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165012.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164993.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164994.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
