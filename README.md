@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:49 on 18 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:56:28 on 18 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Bedford (NH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>UFO Sighting, Bedford, NHOn my way home driving, I saw three glowing orange orbs with a reddish aura around them in the sky above the power lines.  They were in a diagonal formation and gliding across the sky toward the tree line.  As I got closer, they were out of my line of sight and I turned down a back road to get a better view.  My 5 year old daughter and I got out of the car and we looked up to see them overhead, now in a horizontal pattern, soundless, moving toward the direction of the moon. As quickly as we saw them, they disappeared, vanishing from sight.  It was the most amazing thing I have ever seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103365.html](http://www.nuforc.org/webreports/reports/103/S103365.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Atlanta (south side of, Forest Park) (GA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I'm a truck driver, was backing into American can, window down, looked up and saw a crescent shaped object, color of moon, 1/3 size speeing up. it was very bright and streeking. It was about 500 foot above and I could see another airplane in the background. i was close to atlanta airport.I'm a truck driver and was picking up at american can in forest park, GA. It was about 2338 when I was backing up into a dock.  I had my window down.  The tail of my truck was facing due north and I was facing due south.  Atlanta airport is close by and several aircraft are circling to land.  Something caused me to look up and saw a cresent shapped object streeking across the sky.  It was bright white and was leaving a brief trail behind it.  It started going streight but then appeared to go upward.  It lasted about 3-5 seconds at most.  It appeared to be gaining speed and slightly rotating.  It then disappeared.  Sorta agh struck.  Only though was "Kewl" what ((dleeted)) was that? Oh, there was no sound at all and it was about 1/3 the size of the moon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10265.html](http://www.nuforc.org/webreports/reports/010/S10265.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165243.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165012.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164993.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164994.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
