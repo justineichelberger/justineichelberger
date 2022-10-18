@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:02:44 on 18 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:49 on 18 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Sedona (AZ) reported seeing craft that fit the description of some 'Egg' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>My girlfriend and I were hiking on a trail in Sedona, Arizona, in mid October of 2012. Ironically, I believe the name of the trail we were hiking on was called Devil's Bridge Trail. After we finished our hike my girlfriend decided to lay down and rest for a while while I continued to walk around at the base of the trail by myself for a while.  The sky was completely blue with not even a single cloud in the sky.  I looked up and saw a jelly-bean or egg shaped object (orientated horizontally) in the sky.  The object had a smooth, mirror-like surface which completely covered the entire surface of the object.  I guesstimate the object to be approximately two to three thousand feet up in the air (I am from Chicago, IL, so I used the Sears tower height as reference).The object did not move at all, did not make any sound and left no vapor trail.  I stared and studied the object for about a minute or so trying to figure out what it was.  Using logic, I figured it either had to be an experimental military craft or a UFO.  At this point in time my girlfriend had started to walk over to where I was standing while I was observing the object. I had turned my head away for no more than five seconds to inform my girlfriend of what I had been observing for the past minute so she could see the same thing that I was looking at, when all of a sudden, IT VANISHED !!  Can't explain it at all.  I did some research online and found out there was another gentleman who actually filmed the same object I had seen in the sky around the same time (I think he filmed the object in November of 2012 in Sedona).  You can view his video on youtube.com.  The object that he filmed was the same object that I had seen with the only difference being its orientation (his object was orientated vertically as opposed to the object I saw which was orientated horizontally)  Any explanation about what I encountered would surely help satisfy my curiosity.  Thanx.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117531.html](http://www.nuforc.org/webreports/reports/117/S117531.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Bedford (NH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>UFO Sighting, Bedford, NHOn my way home driving, I saw three glowing orange orbs with a reddish aura around them in the sky above the power lines.  They were in a diagonal formation and gliding across the sky toward the tree line.  As I got closer, they were out of my line of sight and I turned down a back road to get a better view.  My 5 year old daughter and I got out of the car and we looked up to see them overhead, now in a horizontal pattern, soundless, moving toward the direction of the moon. As quickly as we saw them, they disappeared, vanishing from sight.  It was the most amazing thing I have ever seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103365.html](http://www.nuforc.org/webreports/reports/103/S103365.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165243.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165012.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164993.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164994.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
