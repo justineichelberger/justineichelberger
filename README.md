@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:40 on 18 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:01:06 on 18 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Downingtown (PA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>cylinder object in night skyOn either Monday Oct. 17 or Tuesday Oct. 18 (I can't recall the exact date), I was in the front yard of my house looking for our house cat, ((name deleted)), who likes to 'escape' from our house sometimes.  As I walked around the yard, calling to her, I looked up into the night sky and, after a few moments, noticed a cylinder or disk shaped black object zip back and forth across the sky a few times, very quickly.  It was far enough away that I could not notice detail, but it appeared to be tapered at each end.  It definitely had a mass to it and didn't appear to be something that was projected, as I could notice a bit of light reflected off of it.  Its movement was very fast and it almost seemed to move from one part of the sky to another by 'zipping' along and then suddenly slowing and stopping.  I'm not sure how else to explain the odd movement. I don't believe in aliens or anything of the like but I know what I saw and I do not believe it was of this world.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47178.html](http://www.nuforc.org/webreports/reports/047/S47178.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Traverse City (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Bright object  descends left extremely fast exactly diagonally and disappeared in skyI was driving home from work Moon was  out and  to right and down was a normal size and brightness of a star or planet etc  Some distance below was the brightest object and I noted that it I was very bright and large  Suddenly and fast it descended diagonally left for quite a distance and then disappeared Not sure what it was</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150357.html](http://www.nuforc.org/webreports/reports/150/S150357.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165243.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165012.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164993.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164994.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
