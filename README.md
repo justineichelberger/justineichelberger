@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:01:50 on 18 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:04:04 on 18 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Slow-moving high-altitude object seen in Austin, Texas the evening of October 18th.We noticed an object north of our location moving slowly to the west at very high altitude.  We used binoculars mounted on a tripod and noticed some smaller objects surrounding it.  The object appeared to be a large, white stucture, and our initial thoughts were that it was a weather balloon.  However, the object very clearly split into two distinct objects that slowly diverged to the north and south.  (These could not have been planets or stars, as they quickly faded during the sunset.)  We noticed a Southwest airline 737 flying due west underneath the object at around 7:00 pm, but it's unlikely the crew spotted the object as it was very, very high above.  We're very familiar with Venus, Mars, and the usual satellites, and this didn't resemble any of those at all.  Has anyone else seen this?  (Photos being developed.)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32402.html](http://www.nuforc.org/webreports/reports/032/S32402.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Providence (RI) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>On 10/18/17, at about 6 p.m., I observed 4 unidentified air crafts in the sky that were flying over, under, and around each other, and also flying at alternating speeds.  One craft flew straight up and stayed still in that position for about 3 minutes, before resuming to fly.  After a few minutes of crafts flying around, what appeared to be a military aircraft flew between the other 4 crafts.  My attention was taken away for about a minute, and when I looked back up they were all gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136853.html](http://www.nuforc.org/webreports/reports/136/S136853.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165243.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165012.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164993.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164994.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
