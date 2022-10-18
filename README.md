@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:13:26 on 18 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:05:23 on 18 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Danville (IL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Reddish sphere seen from georgetown Ill in sky North East of Danville IllinoisI and 7 other passengers was driving back from Georgetown, Ill. to Danville, ILL. around 22:40 on October 18th 2014.  When driving north, I looked to the north east to see what just appeared out of a black sky above the tree line was a pinkish-red color sphere levitating in the air.  I thought it might had been a plane exploding, but never changed it's color nor fell to the ground.It stayed the same color and levitated in one spot,  It was brighter then the stars. it was brighter then the red beacon lights on the towers.it lasted approximately 15 to 30 seconds, then noticed it disappeared with no sound and no movement.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115001.html](http://www.nuforc.org/webreports/reports/115/S115001.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Palmer (AK) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Traffic was stopped on the Glenn Hwy, sitting on bridge over Susitna River headed towards Anchorage.  I looked towards the pioneer peek and further towards the Exit Glacier, in the sky a black rectangle was standing still about level with the pioneer peak.  The object would have been about 40 miles away as a bird flies.  I guess it would have been huge.  Then I tried to get video of it, as I am an investigator, always taking video.  The camera would not focus on the object.  Then it began to slope to the left and never changed from being a level black rectangle.  Then it disappeared behind some clouds that were quite far away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136914.html](http://www.nuforc.org/webreports/reports/136/S136914.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165243.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165012.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164993.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164994.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
