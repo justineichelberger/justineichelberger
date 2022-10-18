@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:02:28 on 18 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:40 on 18 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Portland (ME) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>fireball figure in the sky.moved from one end to another.has been seen in korea and china before.the 'ufo' was like a small fireball with a tail of fire.it was moving accross the sky and within a few min. was not visible to us. http://www.qtm.net/~geibdan/a1998/korea/korea.html  exactly the same as the first picture on the web sight above.((NUFORC Note:  We spoke with the witnesses to this event, and they insisted that the object they witnesses was not a contrail behind a high-altitude jet.  One of the witnesses had worked for an overseas airline, and insisted that had the object been a contrail, she would have been able to identify it easily.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39851.html](http://www.nuforc.org/webreports/reports/039/S39851.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>It was reflecting light.Me and my Dad were out driving at highway 290 about 30 miles from Austin, Texas.  As we were driving, we saw a oval shaped object about the size of a van.  It looked like it was made from steel and made no movement.  It seemed to be reflecting light from the moon.We watched it for about 2 minutes, then drove off in shock.  I then after looked for a UFO reporting website.((NUFORC Note:  We spoke with one of the witnesses, and he sounded to us to be serious, and sober-minded.  We suspect that the party is a reliable witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122945.html](http://www.nuforc.org/webreports/reports/122/S122945.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165243.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165012.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164993.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164994.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
