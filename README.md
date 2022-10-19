@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:55:14 on 19 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:50:13 on 19 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Saskatoon (Canada) (SK) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>2 Triangles of Light circling around for 15 minutes.At 8 P.M I looked up in the sky and saw 2 triangle types of light It stayed up there for like 15 minutes and it finally disapeared it was going in a pattern circling around parts of the city.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39887.html](http://www.nuforc.org/webreports/reports/039/S39887.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Lockport (IL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>five UFO's went past the three of us2012 Oct 18 - 7:28pm - Three of us were standing (facing west) in front of St.Dennis Church having a cigarette. (1214 Hamilton, Lockport, IL)  We see an orange light coming from the south heading north. It appeared from behind a tree line. It was about 40d above the horizon. It looked like a ball of slowly pulsating orange light.  No blinking or flashing lights on it. It's speed was like that of a regular jet. - About two seconds later a second orange orb appears from behind the tree line and follows the same path heading north as the first one.  It's speed and color were the same as the first one. - About three or four seconds later, a third light appears out of the same spot and was heading in the same direction. This third one seemed to stop briefly and then continued north. My friend took a movie of it with his cell phone. - About 4 or 5 seconds later, a fourth orb appears from the same spot and heads north. I took a pic with my crappy cell phone camera. - ! About ten seconds after that, a fifth orange orb appears. It appeared from the same spot, heading north, traveling at the same speed as the others. This 5th orb suddenly doubles or triples it's speed. It shoots across the sky and catches up to the fourth orb. This fifth orb then abruptly slows down to the speed that the others seemed to be traveling at. - All five orbs were the same color; they all pulsated the same way; and they were completely silent. - My cell camera pic was of the fourth orb. This pic shows that the fourth orb was made up of four smaller orbs - a white orb followed by an orange orb followed by a yellowish gold orb followed by an orange orb. My eyes did NOT see these smaller four orbs - I only saw a larger orange orb. Additional Facts: - Practically every day the skies above lockport are filled with chemtrails that stretch from horizon to horizon and some times the chemtrails form a grid pattern in the sky. - The unmarked black helicopters are frequently! seen flying above us. - Lockport is located near the D.O.E.'s! Argonne National Labs and FermiLab. - Unmanned drone airplanes have been seen in this area as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93751.html](http://www.nuforc.org/webreports/reports/093/S93751.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/165/S165024.html)
-- [373](http://www.nuforc.org/webreports/reports/165/S165001.html)
-- [372](http://www.nuforc.org/webreports/reports/165/S165000.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164998.html)
-- [370](http://www.nuforc.org/webreports/reports/162/S162888.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
