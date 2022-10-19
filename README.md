@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:24:56 on 19 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:16:41 on 19 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Lennox (SD) reported seeing craft that fit the description of some '' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>neon flash then a fast fading jetstream like trailI don't know what it was but it happpend between 3:15 & 3:25 am a huge neon flash i looked out my car window & only saw a white trail when i pulled over it was gone and just looked like a jet stream fading.  I've seen meteor showers and some crazy shit, but this was different, i should've pulled over instantly but figured it was a meteor( or nuclear bomb lol), a meteor leaves a trail for a lot longer than that when entering our atmosphere, this was almost like something took off, thats the only thing i can think of, because of the way the trail faded.  I know what i saw and i know what it wasn't!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84622.html](http://www.nuforc.org/webreports/reports/084/S84622.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Chandler (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Object looked like it was on fireMy wife and I were going to the store and I saw a light  that appeared to be an object on fire in the sky slowly moving from west to east.  There was no noise.We got out of the car to watch it and it continued at the same pace due east.   After it passed over the car thru a tree the direction changed to north-east for about a minute and then it faded out and disappeared.  It had the same exact coloring as a bonfire but it moved like a slow helicopter but with no noise.  I was about the same altitude as most light planes but moved much slower.   We live close to an airport and it was not  like any other planes</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103369.html](http://www.nuforc.org/webreports/reports/103/S103369.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/165/S165024.html)
-- [373](http://www.nuforc.org/webreports/reports/165/S165001.html)
-- [372](http://www.nuforc.org/webreports/reports/165/S165000.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164998.html)
-- [370](http://www.nuforc.org/webreports/reports/162/S162888.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
