@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:46 on 19 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:01:10 on 19 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Defiance (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was pulling out of a drive when I noticed a triangular craft with a light at each corner two white one blue I pulled over to get a better look and I watched it as it flew silently close to the ground and behind some trees</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04547.html](http://www.nuforc.org/webreports/reports/004/S04547.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Pomona (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three orange spheres in two events at & north of the San Gabriel Moutains.	On 19 Oct 2014 I witnessed two separate events.  These events were  viewed from my front yard in Pomona, Ca.  All objects I viewed were a orange, and sphere shaped.  First event I assumed was military activity, from Edwards AFB or even Vandenberg AFB.  The second event was not from either site.Event one:  	At 19:55 I witnessed a orange light appear from behind the San Gabriel  Mountains.  The mountain range is from west to east. I am about 10 miles from the peaks. From my yard, I witnessed a orange sphere appear from behind the range.  It was in view from 10° and rise to 45°+ above horizon.  It   began at 350° N and with straight up trajectory.  Within 15 seconds, passing through clouds it faded away.  Looked like a rocket launch, compared to ones I have seen in the past.  This one did not last long, and faded quicker than any other launch.  My thought was that it was a short range missile.Event two:  	At 20:04 I witnessed my second sighting. This one was nothing like the first.  This event started on my side of the mountain range, with two orange spheres. The objects were brighter than the first.  They running together,  parallel along the mountain range.  The lights were separated by at least 20° in altitude from my perspective.  The lower of the two spheres, I believe was lower than the mountain peaks.  Or less than 10° from the horizon.  They traveled for 15 seconds or so. When they hit the 350°N line, like the first.  They both went vertical, and faded away around 45° up.	I can not tell what they were.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114972.html](http://www.nuforc.org/webreports/reports/114/S114972.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/165/S165024.html)
-- [373](http://www.nuforc.org/webreports/reports/165/S165001.html)
-- [372](http://www.nuforc.org/webreports/reports/165/S165000.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164998.html)
-- [370](http://www.nuforc.org/webreports/reports/162/S162888.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
