@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:03:05 on 19 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:29:04 on 19 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Modesto (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>UFO 's video taped over Modesto, California on Oct. 19th 2003 , showing bright starlike objectsI reported these same ufo's yesterday and they were back today. I was working building a sunroom onto our house and as I looked up to see if the upper frame was level I saw a ufo coming from the north. It was bright, starlike, and it made a loop around the house and hovered above me for about five minutes. I went into the house and got binoculars and looked at it. In the binoculars it seemed to change shape, from a sphere to a elongated figure. My daughter came out of the house and I showed her the ufo. She was surprised to see a bright star in the middle of the day. I gave her the binoculars and she also commented that it was changing shapes. This ufo gradually grew dim and we went into the house to eat lunch. After lunch, I decided to get the video camera out with me in case the ufo returned. I went back to work and as I was coming out of the garage with some wood I had cut, I saw three ufo's coming from the north. I quickly grabbed the video camera and recorded the ufo's as they traveled above the house. These ufo's were bright and closer , and are the ones in the video. They were also spherical in shape, and traveled in unison. I also got another shot of a ufo moving above the tree, but this is shorter. Most of the video I took that day did not turn out. I am hoping that these tapes will be examined by experts to determine more about this .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32457.html](http://www.nuforc.org/webreports/reports/032/S32457.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Detroit (MI) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>1 craft sighted in braod daylight, I have pics I don't see where to upload.On Oct,19  2009 at around 6:30pm, I was working on the 18th floor of my apartment building in downtown Detroit, when I noticed something floating around the two smoke stacks on the power plant near my place.  It seemed to be hovering directly through the smoke of the stacks, and then around the two stacks, and then it would float a few blocks away and then back to the stacks.  At this point I had been watching this thing for about 8 minutes or so when I ran to grab my camera and returned with my girl freind and my brother in law (who was a tanker in the military).  So I snapped off these pics which I can't explain.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73038.html](http://www.nuforc.org/webreports/reports/073/S73038.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/165/S165024.html)
-- [373](http://www.nuforc.org/webreports/reports/165/S165001.html)
-- [372](http://www.nuforc.org/webreports/reports/165/S165000.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164998.html)
-- [370](http://www.nuforc.org/webreports/reports/162/S162888.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
