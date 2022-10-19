@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:16:41 on 19 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:06:10 on 19 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Chandler (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Object looked like it was on fireMy wife and I were going to the store and I saw a light  that appeared to be an object on fire in the sky slowly moving from west to east.  There was no noise.We got out of the car to watch it and it continued at the same pace due east.   After it passed over the car thru a tree the direction changed to north-east for about a minute and then it faded out and disappeared.  It had the same exact coloring as a bonfire but it moved like a slow helicopter but with no noise.  I was about the same altitude as most light planes but moved much slower.   We live close to an airport and it was not  like any other planes</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103369.html](http://www.nuforc.org/webreports/reports/103/S103369.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Bridgeport/Trumbull (CT) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>2 Rectangular/cylindrical lights jump from a white streak and move low over a highwayAt about 1am last night (early morning of Sunday, 10/19/08), 5 friends and myself were driving home, there were no other cars on the road and it was very dark (only about 1/2 moon out) when I saw what I initially thought was a shooting star on my left (South-East). The streak was bright white and went from high in the sky to low behind the trees (which were about 50 yards away and 30 feet high).  I noted the streak was thicker than what I thought a shooting star to be and then thought that it was a meteor breaking through the atmosphere.  The streak of light disappeared behind the trees and a moment later a large rectangularly shaped patch of light appeared above us on our right (North-west).The vehicle we were traveling in was moving about 65-75 mph and the rectangular light was obscured by the roof of my car as I got close to it and it was directly on our right.  It is then that 4 of my passengers witnessed a second large rectangular light appear next to the first and together they traveled over the highway behind us and disappeared behind more trees.  The lights were very bright white, so much so that they were almost bluish, and my back right passenger said he saw the two rectangular patches as having bulges in their centers, leading us to believe they were cylindrical in shape, like two cans of soup.  The objects were pretty low in the sky and as far as we could tell close to us.There were six in the car.  The driver was the only one to see the 'shooting star' ahead of us on the left, and all but 1 of us saw the rectangles.  The driver did not see the duo of rectangles or their movements behind the car.  All six are seniors at Fairfield University and in good academic standing and have never seen anything like this before.NOTE: About four miles north east of where we saw these lights is Sikorsky airfield, where they build and test airplanes and helicopters, so this may have been something from there, however the movements, shape and color lead us to believe otherwise.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66318.html](http://www.nuforc.org/webreports/reports/066/S66318.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/165/S165024.html)
-- [373](http://www.nuforc.org/webreports/reports/165/S165001.html)
-- [372](http://www.nuforc.org/webreports/reports/165/S165000.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164998.html)
-- [370](http://www.nuforc.org/webreports/reports/162/S162888.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
