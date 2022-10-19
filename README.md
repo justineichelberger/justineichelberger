@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:03:00 on 19 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:02:43 on 19 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in New York City (NY) reported seeing craft that fit the description of some 'Changing' over a period of approximately UNKNOWN - UNKNOWN minutes.</sub><blockquote><sub>UFO spotted next to One World Trade Center towerMy partner and I were on holiday in New York city in October 2016.  On the 19th of October at around 4.08 pm, we were at the 9/11 memorial taking photos of the new tower.  A couple of weeks earlier, whilst watching the pictures that I took on my phone during my holiday, I noticed an odd shaped blue object sitting next to the One World Trade Center tower.  I first thought that it was just an optical effect due to the reflection of the sunlight on my camera lens.  Then I remembered that my girlfriend was also taking photos with her phone of the same tower at the same time. I took her phone and looked closely at her pictures and unsurprisingly, the same object is on 2 other photos taken with her phone.  However, it seems having a slightly different shape on the pictures that she took compared to mine. I'm not sure how long this object was sitting there for as we did not see it on the spot but it is likely to have appeared/disappeared very quickly.  We have several pi! ctures of the same tower but the object only appears on 3 of them.  So we estimate that it was present for a very short time (no more than a few seconds).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132031.html](http://www.nuforc.org/webreports/reports/132/S132031.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in London (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>19/10/06 - Wood Green, London, United Kingdom - Brilliant White pulsating object in the cloudsWhile driving my car on the 19/10/06 in Wood Green, London, United Kingdom at 11:50am I saw an extremley brilliant white light in the clouds. I pulled over and parked my car. The object was in a stationery position at cloud level and was slowly pulsating at about 5 second intervals. After staring at the object for about a minute to ensure it was not a plane or a helicoper I decided to video the event using my mobile phone camcorder. I filmed the object for exactly 21 seconds with my phone which I still have.  I continued to watch the object for a few more minutes before it dissapeared. After examining the video clip on my phone, the object doesn't seem to appear on it, I assuming because of the limited zoom on my camera phone. (My phone is a Nokia N70 with a 2 megapixle camera.) I have copied the footage to my PC and have used various enhancing software to try and get the object to show, but with no success. I will gladly email this footage to anyone who can help to enhance the video footage to seen the object. Unfortunalty it was a very dull and cloudy day as you will see in the footage.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53014.html](http://www.nuforc.org/webreports/reports/053/S53014.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/165/S165024.html)
-- [373](http://www.nuforc.org/webreports/reports/165/S165001.html)
-- [372](http://www.nuforc.org/webreports/reports/165/S165000.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164998.html)
-- [370](http://www.nuforc.org/webreports/reports/162/S162888.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
