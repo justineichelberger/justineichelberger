@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:02:43 on 19 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:33 on 19 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in London (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>19/10/06 - Wood Green, London, United Kingdom - Brilliant White pulsating object in the cloudsWhile driving my car on the 19/10/06 in Wood Green, London, United Kingdom at 11:50am I saw an extremley brilliant white light in the clouds. I pulled over and parked my car. The object was in a stationery position at cloud level and was slowly pulsating at about 5 second intervals. After staring at the object for about a minute to ensure it was not a plane or a helicoper I decided to video the event using my mobile phone camcorder. I filmed the object for exactly 21 seconds with my phone which I still have.  I continued to watch the object for a few more minutes before it dissapeared. After examining the video clip on my phone, the object doesn't seem to appear on it, I assuming because of the limited zoom on my camera phone. (My phone is a Nokia N70 with a 2 megapixle camera.) I have copied the footage to my PC and have used various enhancing software to try and get the object to show, but with no success. I will gladly email this footage to anyone who can help to enhance the video footage to seen the object. Unfortunalty it was a very dull and cloudy day as you will see in the footage.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53014.html](http://www.nuforc.org/webreports/reports/053/S53014.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Merrimack (NH) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 03</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143568.html](http://www.nuforc.org/webreports/reports/143/S143568.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/165/S165024.html)
-- [373](http://www.nuforc.org/webreports/reports/165/S165001.html)
-- [372](http://www.nuforc.org/webreports/reports/165/S165000.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164998.html)
-- [370](http://www.nuforc.org/webreports/reports/162/S162888.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
