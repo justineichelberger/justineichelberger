@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:48 on 18 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:03:05 on 19 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Antelope (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>On 10/18/13 at 19:00 we (adult and 2 teenagers) noticed a red/orange glowing cylinder object due west from our upstairs bedroom window.  It hovered over the same area as if surveying it for 10 minutes and then zipped up and away westward bound until out of sight.Tonight, 10-20-13, we noticed it again, same place and same time.  It glows bright and dim between red and orange colors and seems to be spinning on an axis.  It stood and surveyed the same spot and did zip away westward until out of sight.  On both nights we saw and heard helicopters shortly thereafter seemed to be pursuing it from a distance.  Also on both nights, planes flew, took off, and landed without incident and undisturbed all around this object as if they didn't see it!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103423.html](http://www.nuforc.org/webreports/reports/103/S103423.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Modesto (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>UFO 's video taped over Modesto, California on Oct. 19th 2003 , showing bright starlike objectsI reported these same ufo's yesterday and they were back today. I was working building a sunroom onto our house and as I looked up to see if the upper frame was level I saw a ufo coming from the north. It was bright, starlike, and it made a loop around the house and hovered above me for about five minutes. I went into the house and got binoculars and looked at it. In the binoculars it seemed to change shape, from a sphere to a elongated figure. My daughter came out of the house and I showed her the ufo. She was surprised to see a bright star in the middle of the day. I gave her the binoculars and she also commented that it was changing shapes. This ufo gradually grew dim and we went into the house to eat lunch. After lunch, I decided to get the video camera out with me in case the ufo returned. I went back to work and as I was coming out of the garage with some wood I had cut, I saw three ufo's coming from the north. I quickly grabbed the video camera and recorded the ufo's as they traveled above the house. These ufo's were bright and closer , and are the ones in the video. They were also spherical in shape, and traveled in unison. I also got another shot of a ufo moving above the tree, but this is shorter. Most of the video I took that day did not turn out. I am hoping that these tapes will be examined by experts to determine more about this .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32457.html](http://www.nuforc.org/webreports/reports/032/S32457.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165243.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165012.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164993.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164994.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
