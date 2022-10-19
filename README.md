@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:29:04 on 19 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:55:14 on 19 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Detroit (MI) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>1 craft sighted in braod daylight, I have pics I don't see where to upload.On Oct,19  2009 at around 6:30pm, I was working on the 18th floor of my apartment building in downtown Detroit, when I noticed something floating around the two smoke stacks on the power plant near my place.  It seemed to be hovering directly through the smoke of the stacks, and then around the two stacks, and then it would float a few blocks away and then back to the stacks.  At this point I had been watching this thing for about 8 minutes or so when I ran to grab my camera and returned with my girl freind and my brother in law (who was a tanker in the military).  So I snapped off these pics which I can't explain.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73038.html](http://www.nuforc.org/webreports/reports/073/S73038.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Saskatoon (Canada) (SK) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>2 Triangles of Light circling around for 15 minutes.At 8 P.M I looked up in the sky and saw 2 triangle types of light It stayed up there for like 15 minutes and it finally disapeared it was going in a pattern circling around parts of the city.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39887.html](http://www.nuforc.org/webreports/reports/039/S39887.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/165/S165024.html)
-- [373](http://www.nuforc.org/webreports/reports/165/S165001.html)
-- [372](http://www.nuforc.org/webreports/reports/165/S165000.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164998.html)
-- [370](http://www.nuforc.org/webreports/reports/162/S162888.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
