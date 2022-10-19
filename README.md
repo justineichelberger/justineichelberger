@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:19:40 on 19 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:13:36 on 19 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in James Town (St. Helena Island) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>The Object glowed red to green to blue and then white in this order in perfect intervals lasting about five seconds a piece.Good Day.My name is ((name deleted)) I am a Police ((rank deleted)) and am dubious to report this sighting to the authorities that I work for or make a formal statement.At 21:04 I was sitting outside my house having a cigarette (as I do most nights) and I saw was what  I thought was a plane (The Island just recently built an airport) but on a closer inspection it did not resemble a plane at all and glowed red to green to blue and then white in this order in perfect intervals lasting about five seconds a piece.At that point I stood up and walked to my neighbour’ wall and saw it dash from one end of the sky to the other and then back to its original position.I then called my wife, and father to come out and take a look my mother then followed afterwards. My father and wife looked at the object and both confirmed the colures and that it definitely did not look natural, both looked at it through binoculars.I shortly afterwards looked into whether there were any satellites in low earth orbit passing our way but there were none that are passing us (there have been sightings in the past that have turned out to be satellites).I tried to photograph the object while all of us were looking at it but my resolution on my camera was quite poor.As I have said I’m cautious in bringing this to you but am willing to correspond if you wish.((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122966.html](http://www.nuforc.org/webreports/reports/122/S122966.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Bethel (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Shining object over Bethel.My dog was acting funny like when he wants to go to the bathroom.  I opened the door and hear the animals in the farm next door making noises.  The dog was smelling around, but he seemed confused.  The day was cloudless and somehow there was this shining object and at first I thought it was a plane but there was no noise.  All of a sudden the object stopped completely for about 2 seconds.  After that, it took a sharp right and sped off.  I blink and it was gone.  I still cannot believe what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122952.html](http://www.nuforc.org/webreports/reports/122/S122952.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/165/S165024.html)
-- [373](http://www.nuforc.org/webreports/reports/165/S165001.html)
-- [372](http://www.nuforc.org/webreports/reports/165/S165000.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164998.html)
-- [370](http://www.nuforc.org/webreports/reports/162/S162888.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
