@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:13:36 on 19 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:02:59 on 19 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Bethel (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Shining object over Bethel.My dog was acting funny like when he wants to go to the bathroom.  I opened the door and hear the animals in the farm next door making noises.  The dog was smelling around, but he seemed confused.  The day was cloudless and somehow there was this shining object and at first I thought it was a plane but there was no noise.  All of a sudden the object stopped completely for about 2 seconds.  After that, it took a sharp right and sped off.  I blink and it was gone.  I still cannot believe what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122952.html](http://www.nuforc.org/webreports/reports/122/S122952.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Burns (TN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Orange “Fireball” Observed, Dickson County, Middle Tennessee   My husband, his parents and I were heading home after go out for dinner, it was about 8:30 pm CDT.  We were nearing the turn to our street travelling east when my husband, who was driving, alerted me to a round looking orange light to our right. My initial thought was that it was a light from the communication tower which was near our home, but upon studying it further, we could clearly see that it was nowhere close to the tower. We realized that it was moving, heading southeast, slowly and at about the altitude of a small plane or helicopter, but the light was burning steady, not blinking. By this point, all four of us in the car were watching it, and we had turned west onto the street to our home. We all agreed that it seemed to be “on fire”, or “burning”. My husband stopped the car and we opened windows to listen. None of us heard an engine or any sound from the object. It continued to travel in a southeast direction for another minute or so and then disappeared completely! .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93827.html](http://www.nuforc.org/webreports/reports/093/S93827.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/165/S165024.html)
-- [373](http://www.nuforc.org/webreports/reports/165/S165001.html)
-- [372](http://www.nuforc.org/webreports/reports/165/S165000.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164998.html)
-- [370](http://www.nuforc.org/webreports/reports/162/S162888.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
