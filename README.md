@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:03:35 on 19 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:15:01 on 19 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Vineland (CO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1110.0 - 1110.0 minutes.</sub><blockquote><sub>Bright object sited 11-19-00 at approximately 1100.  Viewed 15mins. Pulsated NE at not a high rate of speed.approximately 1100 - 1110 on top of plateau south of ranch named BarNothing ranch.  Myself and an explosives blaster identifing blasting sites noticed a bright object sphere in shape- Lonnie thought it was 20 - 25 miles due east into the plains.  Object was like reflective like when a mirror is reflecting sun rays.  The size of the object from our vantage point would appear the size of a classroom earth globe.  Lonnie commented it must be very large considering the distance.  Object viewed for approximately 15 minutes and it was stationary and glittering bright.  Object then plusated not at a high rate of speed, slightly northeast until unable to view.  The vicinity is sparse with cattle grazing and a high voltage line crossing through.  Can you give me an idea.  From our position, 20 - 25 miles would place object somewhere south west of Fowler, Colorado</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14628.html](http://www.nuforc.org/webreports/reports/014/S14628.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Columbia (SC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>A big glowing grayish circle with a tail of smoke and with about 5 rays of light coming out of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122963.html](http://www.nuforc.org/webreports/reports/122/S122963.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/165/S165024.html)
-- [373](http://www.nuforc.org/webreports/reports/165/S165001.html)
-- [372](http://www.nuforc.org/webreports/reports/165/S165000.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164998.html)
-- [370](http://www.nuforc.org/webreports/reports/162/S162888.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
