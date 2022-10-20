@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:14:46 on 20 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:02:49 on 20 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1989, an anonymous witness in Newfoundland (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Ball of white bright light about size of two car garage. So bright, could not decern if there was a definate shape.Moved at very slow rate. Watched it for 25 min, then it glided over our house, tree top level. NO noise. Silent. The inside of house lit up. There is much more to say. Would like to speak to someone about this. Also there where 3 helicopters involved. Makes my hair stand on end whenever I recall this incident.((NUFORC Note:  Date is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34199.html](http://www.nuforc.org/webreports/reports/034/S34199.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1989, an anonymous witness in Ottawa (Canada) (ON) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.3333333333333333 - 1.3333333333333333 minutes.</sub><blockquote><sub>It was snowy winter night,I sat camly listening to slow music flowing out of my girl friend car record,she was sitting in the driving seat,I was beside her,we were heading to Sain John,smaill town,about an hour south Montreal,we were heading to see afriend of her,the moon was in full light,compining with the snow on the ground,poosted the light around us,the view was spectacular,force me to stair through the window ,talk less,all of the suddent,I spited a huge range of colors ,turning around in a circle,the colors were ranging from light orange,dark orang,light red ,dark green,to yellow ,the circulated  object was about 50 meter above the forest tree,I turned around to my girl friend asking her if there is an air port around.No she reply,then I asked what a hell is this ? spaceship.she replyed.what you mean ?I asked,I mean UFO,she replyed,I froze.I remember a book about  an Identified flying object I have red 15 years a go,the discriptions about UFOS is what I saw that night,the emage last for about 80 second ,or so,and then all of the suddent disappear,I felt my nose is freazing cold,any how I manage to turn around to my girlfriend a gaind,for my supprise she was smilling,what you smilling for ?that object did not fright you?No ,I have seen it manay times,she reply,and the friend we are going to meet to night ,was once land it in her back yard .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39984.html](http://www.nuforc.org/webreports/reports/039/S39984.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165067.html)
-- [492](http://www.nuforc.org/webreports/reports/165/S165007.html)
-- [491](http://www.nuforc.org/webreports/reports/165/S165010.html)
-- [490](http://www.nuforc.org/webreports/reports/165/S165052.html)
-- [489](http://www.nuforc.org/webreports/reports/165/S165014.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
