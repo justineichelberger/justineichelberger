@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:10:43 on 20 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:09:12 on 20 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Bandera (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Many bright and colored lights often seen in Texas Hill CountryI was standing in the yard with my two kids. There were two bright circles that appeared in the sky. They looked like stars but were much closer. They disappeared and then reappeared in the same spot. Then they disappeared for good. This time they didn't fly off just faded into the background, but they moved a bit before doing that. They were too close to be a helicopter. There was no noise. Another night in the same location, we saw what looked like distant streetlights but they begin moving and then fly off at a high rate of speed. Also, in this same location, we see what looks light a distant airplane or the space station going by, but it is closer than that and it changes color. I teach my kids that they are angels and we call these the Christmas angels because they begin white but then turn green then red then white again, perhaps there was another color I don't remember. Then, they fly off at a high rate of speed or just disappear. Sometimes we have seen them where they follow a course and just disappear behind the horizon so I assume it might be the space station or a satellite but I don't know if they reflect all these colors like that and they are really low on the horizon and sometimes appear closer and fly off quickly. We see these mysterious lights often and believe them to be increased angel activity as things are changing in the Earth, both physically and otherwise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151610.html](http://www.nuforc.org/webreports/reports/151/S151610.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Sudbury (ON) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Multiple triangles flying over northern Ontario cityOn the 20th of October, 2019 I observed a triangle shaped object flying across the night sky with green/yellow lights you could make out the object and just saw the lights with the tip flying south across the night sky in Sudbury Ontario.  I was sitting in the hottub and kept watching it fly south zero sound then the lights disappeared.  I thought I was seeing things but I kept watching the sky and then about 2 minutes later another triangle flew over zero sound very high speed but this one appeared to be two triangle attached same exact light pattern.  It flew south then the lights disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150227.html](http://www.nuforc.org/webreports/reports/150/S150227.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165067.html)
-- [492](http://www.nuforc.org/webreports/reports/165/S165007.html)
-- [491](http://www.nuforc.org/webreports/reports/165/S165010.html)
-- [490](http://www.nuforc.org/webreports/reports/165/S165052.html)
-- [489](http://www.nuforc.org/webreports/reports/165/S165014.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
