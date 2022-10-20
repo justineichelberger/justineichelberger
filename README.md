@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:05:02 on 20 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:02:10 on 20 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Candle Lake (Canada) (SK) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Small bright light with four smaller circles extending from it. It was on the western horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73000.html](http://www.nuforc.org/webreports/reports/073/S73000.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Truckee (CA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>Quick flying "v" shaped object, red and white lights outside Truckee/Tahoe CAI was driving on Hwy 80 from Reno to San Francisco in the Sierra Nevada Mountains when I saw this very fast and low flying "V" shaped object in the air. It was nearly dark and it had a row of red lights along the V shape on top and a series of pulsating white lights on the side and bottom. The strangest thing was how fast it moved up and down and forward and backward. No plane or helicopter could have moved that fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25722.html](http://www.nuforc.org/webreports/reports/025/S25722.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165067.html)
-- [492](http://www.nuforc.org/webreports/reports/165/S165007.html)
-- [491](http://www.nuforc.org/webreports/reports/165/S165010.html)
-- [490](http://www.nuforc.org/webreports/reports/165/S165052.html)
-- [489](http://www.nuforc.org/webreports/reports/165/S165014.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
