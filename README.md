@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:18:32 on 20 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:14:46 on 20 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Essex (UK/England) () reported seeing craft that fit the description of some 'Other' over a period of approximately few mins - few mins minutes.</sub><blockquote><sub>30 orange star like objects hovering above the M25whilst driving along the M25 motorway betwwen the M11 and the A12 me, my sister and my boyfriend noticed about 30 orange star like objects just hovering above the road, they were dead still but so promanent it wierd as i dont believe in ufo's and just have to find out what tey were, so we stopped on the hard shoulder along with about 7 other motorists just gazing at these things, i could not stay long as we had young children in the car so we set off again just so excited and scared i soppose as it 'had' to be something strange, we went back out later that night but sadly the star like objects had gone, i forgot to mention that they were hovering only about 200yrds above the road, one group of them was in the shape of that relious fish sign, strange i know, i have been in contact with the loacal news channel and they said someone had caught them on video and they might want to do a piece on it so fingers crossed we might get on the local news.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47153.html](http://www.nuforc.org/webreports/reports/047/S47153.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1989, an anonymous witness in Newfoundland (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Ball of white bright light about size of two car garage. So bright, could not decern if there was a definate shape.Moved at very slow rate. Watched it for 25 min, then it glided over our house, tree top level. NO noise. Silent. The inside of house lit up. There is much more to say. Would like to speak to someone about this. Also there where 3 helicopters involved. Makes my hair stand on end whenever I recall this incident.((NUFORC Note:  Date is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34199.html](http://www.nuforc.org/webreports/reports/034/S34199.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165067.html)
-- [492](http://www.nuforc.org/webreports/reports/165/S165007.html)
-- [491](http://www.nuforc.org/webreports/reports/165/S165010.html)
-- [490](http://www.nuforc.org/webreports/reports/165/S165052.html)
-- [489](http://www.nuforc.org/webreports/reports/165/S165014.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
