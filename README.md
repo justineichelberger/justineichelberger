@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:38 on 20 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:47 on 20 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Reedville (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Round, yellowish white light,  with flashing red light, that hovered in the western sky.I went into the backyard to throw out some scraps after supper.  I looked up at the sky and saw what I at first thought was the planet Venus.  Then I noticed that Venus was a bright white light in the southwestern sky.  I saw a yellowish white round light, that seemed to hover, more to the northern than Venus.  It brightened a couple of times to bright white light, then dulled down again.  It floated one way a little then another.  I realized it was not a plane, as it hovered.  It was not a helicopter as it made no noise.  It moved very smoothly.  I went in the house to get binoculars and looked at it.  It had a red light that strobed and moved up and down the orb.  I watched it float around until it moved off into the western horizon, behind trees and out of sight.  Slowly and without noise.  My husband saw it also.  He is a pilot and knew it was not a plane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66801.html](http://www.nuforc.org/webreports/reports/066/S66801.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Plymouth (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>i saw 2 objects in the sky to the right of jupiter that i cannot understandat 19:28 I went outside at my jobsite to do my security check point at this point i looked directly at the moon and jupiter and to the right of jupiter were 2 lights that dimmed and vanished the duration of the sighting was 20 seconds the 2 objects were just a little bit dimmer than jupiter my question where was the terminator at this time my first impression was this is freaky i wish i could send you a drawing i can't please believe me i am not lying to you  i saw what i saw i also called the local media no one made any reports this occured at 7 20 pm</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78512.html](http://www.nuforc.org/webreports/reports/078/S78512.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165067.html)
-- [492](http://www.nuforc.org/webreports/reports/165/S165007.html)
-- [491](http://www.nuforc.org/webreports/reports/165/S165010.html)
-- [490](http://www.nuforc.org/webreports/reports/165/S165052.html)
-- [489](http://www.nuforc.org/webreports/reports/165/S165014.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
