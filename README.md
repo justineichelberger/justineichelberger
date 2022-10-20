@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:40 on 20 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:54:48 on 20 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bunn (NC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2 fireballs traveling across the skyWhile attending an outdoor movie, my son pointed out an Orange fireball shaped object moving across the sky.  As an aviation enthusiast, it looked like nothing I had ever seen.  It also moved far too slowly to be a shooting star, which I also happened to see as we watched the object.  It moved in a straight line in a southerly direction at a moderate rate of speed.  We watched as it moved out of site. Almost as soon as it disappeared, another identical object appeared traveling at the same speed in the same direction.  This second object travelled about 3/4 of the distance as the first then disappeared. It had no flashing lights or beacons. It was a clear night.  There were several aircraft at various altitudes and distances.  They were all easily identifiable as aircraft and in no way resembled these objects. As I stated, this was an outdoor movie.  The objects were seen by my wife and myself as well as the couple we were with and our 3 children. 2 nine year old bo! ys and a seven year old girl.  I am unaware if anyone else attending the movie noticed the objects or not.  We tried to take a photo but it was taken by the other couple.  I don't know about the image quality but will ask if it's deemed relevent.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93756.html](http://www.nuforc.org/webreports/reports/093/S93756.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Tampa (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>White oval shaped light moving  too swiftly and erraticly to be notmal aircraft.I saw what appeared at first to be a white light moving across the sky which swiftly changed direction. It moved in a boxy u shaped pattern and then disappeared behind some trees. This location is near the airport and I have seen many planes coming in and out of the area. This did not appear to be any standard plane.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66352.html](http://www.nuforc.org/webreports/reports/066/S66352.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165067.html)
-- [492](http://www.nuforc.org/webreports/reports/165/S165007.html)
-- [491](http://www.nuforc.org/webreports/reports/165/S165010.html)
-- [490](http://www.nuforc.org/webreports/reports/165/S165052.html)
-- [489](http://www.nuforc.org/webreports/reports/165/S165014.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
