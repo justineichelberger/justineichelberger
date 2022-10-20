@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:05:07 on 20 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:09:03 on 20 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Montville (OH) reported seeing craft that fit the description of some 'Cone' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>Six coned like objects, with bright white lights floating in the Montville sky.Bright Floating object hanging in the sky from the northeast.  Bobbing in the air up and down and then it took off towards the west.  It was followed by five others, doing the same thing. They traveled about a half a mile from one another. They all appeared the same.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47126.html](http://www.nuforc.org/webreports/reports/047/S47126.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Williamsport (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>2 craft in formationSaw 2 lights appear in the horizon south of the moon traveling east high rate of speed no marker lights. They appeared to be flying in formation. There were other planes in sky observing normal traffic patterns with marker lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78477.html](http://www.nuforc.org/webreports/reports/078/S78477.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165067.html)
-- [492](http://www.nuforc.org/webreports/reports/165/S165007.html)
-- [491](http://www.nuforc.org/webreports/reports/165/S165010.html)
-- [490](http://www.nuforc.org/webreports/reports/165/S165052.html)
-- [489](http://www.nuforc.org/webreports/reports/165/S165014.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
