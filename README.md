@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:16:42 on 20 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:05:07 on 20 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Copperas Cove (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Yellow motionless sphere.After eating a late dinner, I decided to enjoy the night air.  I looked  in the direction of a cellphone tower.  It was hard not to notice an extremely bright yellow object, which was motionless in the night sky.  The object however emitted a very bright yellow light which appear to flicker constantly.  I went back inside and got my cellphone and actually tried to film the object attempting to zoom on it.  I actually dismissed it in my mind as the art of the imagination but to make the matter more misterious the object had actually disappeared withiout a trace from the sky and the location it once was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130729.html](http://www.nuforc.org/webreports/reports/130/S130729.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Montville (OH) reported seeing craft that fit the description of some 'Cone' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>Six coned like objects, with bright white lights floating in the Montville sky.Bright Floating object hanging in the sky from the northeast.  Bobbing in the air up and down and then it took off towards the west.  It was followed by five others, doing the same thing. They traveled about a half a mile from one another. They all appeared the same.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47126.html](http://www.nuforc.org/webreports/reports/047/S47126.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165067.html)
-- [492](http://www.nuforc.org/webreports/reports/165/S165007.html)
-- [491](http://www.nuforc.org/webreports/reports/165/S165010.html)
-- [490](http://www.nuforc.org/webreports/reports/165/S165052.html)
-- [489](http://www.nuforc.org/webreports/reports/165/S165014.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
