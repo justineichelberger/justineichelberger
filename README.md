@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:26:24 on 20 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:16:42 on 20 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>bright orange lights over the oceanWe were sitting on the balcony of our beach front condo last night, when we saw 2 orage colored, circular lights over the ocean. They stayed for a few seconds then disappeared. Over the next hour to hour and a half, we saw the same thing repeatidly, sometimes it was one bright light, sometimes 2.  It would move more south sometimes, light up for a few seconds, and disappear, and then the next time it  appeared in the same area that we had originally seen it in.  This happened several times. Then, at about 9:10 6 to 7 bright orange lights appeared in a half circle formation. They were visible for a few seconds, then disappeared.  This experience was absolutely amazing, I have never seen anything like this. We were all speechless.  My husband, who was also a witness, is in law enforcement and has been a police officer for 10 years. He says there's no explaining the experience we had.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114919.html](http://www.nuforc.org/webreports/reports/114/S114919.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Copperas Cove (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Yellow motionless sphere.After eating a late dinner, I decided to enjoy the night air.  I looked  in the direction of a cellphone tower.  It was hard not to notice an extremely bright yellow object, which was motionless in the night sky.  The object however emitted a very bright yellow light which appear to flicker constantly.  I went back inside and got my cellphone and actually tried to film the object attempting to zoom on it.  I actually dismissed it in my mind as the art of the imagination but to make the matter more misterious the object had actually disappeared withiout a trace from the sky and the location it once was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130729.html](http://www.nuforc.org/webreports/reports/130/S130729.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165067.html)
-- [492](http://www.nuforc.org/webreports/reports/165/S165007.html)
-- [491](http://www.nuforc.org/webreports/reports/165/S165010.html)
-- [490](http://www.nuforc.org/webreports/reports/165/S165052.html)
-- [489](http://www.nuforc.org/webreports/reports/165/S165014.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
