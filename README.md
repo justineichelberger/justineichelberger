@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:09:03 on 20 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:01:05 on 20 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Williamsport (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>2 craft in formationSaw 2 lights appear in the horizon south of the moon traveling east high rate of speed no marker lights. They appeared to be flying in formation. There were other planes in sky observing normal traffic patterns with marker lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78477.html](http://www.nuforc.org/webreports/reports/078/S78477.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Indian Ocean () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>at night in the middle of the ocean ( a light from unknown source inspecting my ship) from 50-100 meterI was onboard a cargo ship (mv priority) on a voyage from china to south Africa, and as a second officer I was incharge of  the navigation duty from 0000 to 0400 with one watch man for look out .In that night and around 0200 Lt     longitude was about  80 E ,  latitude 5 to 10 degrees S , in a calm sea and a dark sky  with no ships or targets or any movement object in vicinity , I and the duty AB (lookout  seaman) observed a strong light directly aimed  to us  the (Control room – Bridge) for one second , the source of the light was about 50-100 meters from the bridge, with no sign of any object we kept looking then another strong light flash tow times to us , the light was strong as a search and rescue light  or highway truck.With no reason for light onboard the vessel (even the cargo on deck was trucks) I sent the lookout seaman to check the cargo but no way that the light was coming from the cargo.I reported to the captain and another check performed with no sign of light from the cargo, the captain said its ok, as long as we don’t have problem.I and the lookout seaman are sure that it’s abnormal light and we stopped talking about it because no need to talk about unbelievable issues.I think if its not a military  maneuvers it’s a ufo was inspecting the vessel in the open sea more than 2000 nautical mile away from nearest land , and hundreds of miles a way from other vessels.Hope we confirm that we are not alone soon.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71653.html](http://www.nuforc.org/webreports/reports/071/S71653.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165067.html)
-- [492](http://www.nuforc.org/webreports/reports/165/S165007.html)
-- [491](http://www.nuforc.org/webreports/reports/165/S165010.html)
-- [490](http://www.nuforc.org/webreports/reports/165/S165052.html)
-- [489](http://www.nuforc.org/webreports/reports/165/S165014.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
