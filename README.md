@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:09:12 on 20 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:38 on 20 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Sudbury (ON) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Multiple triangles flying over northern Ontario cityOn the 20th of October, 2019 I observed a triangle shaped object flying across the night sky with green/yellow lights you could make out the object and just saw the lights with the tip flying south across the night sky in Sudbury Ontario.  I was sitting in the hottub and kept watching it fly south zero sound then the lights disappeared.  I thought I was seeing things but I kept watching the sky and then about 2 minutes later another triangle flew over zero sound very high speed but this one appeared to be two triangle attached same exact light pattern.  It flew south then the lights disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150227.html](http://www.nuforc.org/webreports/reports/150/S150227.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Reedville (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Round, yellowish white light,  with flashing red light, that hovered in the western sky.I went into the backyard to throw out some scraps after supper.  I looked up at the sky and saw what I at first thought was the planet Venus.  Then I noticed that Venus was a bright white light in the southwestern sky.  I saw a yellowish white round light, that seemed to hover, more to the northern than Venus.  It brightened a couple of times to bright white light, then dulled down again.  It floated one way a little then another.  I realized it was not a plane, as it hovered.  It was not a helicopter as it made no noise.  It moved very smoothly.  I went in the house to get binoculars and looked at it.  It had a red light that strobed and moved up and down the orb.  I watched it float around until it moved off into the western horizon, behind trees and out of sight.  Slowly and without noise.  My husband saw it also.  He is a pilot and knew it was not a plane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66801.html](http://www.nuforc.org/webreports/reports/066/S66801.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165067.html)
-- [492](http://www.nuforc.org/webreports/reports/165/S165007.html)
-- [491](http://www.nuforc.org/webreports/reports/165/S165010.html)
-- [490](http://www.nuforc.org/webreports/reports/165/S165052.html)
-- [489](http://www.nuforc.org/webreports/reports/165/S165014.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
