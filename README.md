@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:03:30 on 20 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:13:24 on 20 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>1/2 circle of orange fireballs for 20 seconds that disappeaed then three blinking white lights appeared for 10 minutes</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114910.html](http://www.nuforc.org/webreports/reports/114/S114910.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Louisville (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>SEEN NUMEROUS BALLS OF LIGHT HOVERING IN A LARGE AREAUPON MOVING INTO OUR NEW HOME WE HAD A FLOOD IN THE BASMENT DUE TO MY CARELESSNESS.  AFTER DISCOVERING THE FLOODED BASMENT AND OUR SUMP PUMP FAILING I WENT TO WALMART AND THEN TO MEIJER TO PURCHARE A SUMP PUMP AT AROUND 2 OR 2:30 IN THE MORNING.  ON THE WAY HOME HEADING NORTH ON TAYLORSVILLE RD I NOTICED MANY LIGHTS IN THE SKY IN SUCH A NARROW SIGHT RANGE.  THERE WERE SO MANY LIGHTS IN THE SKY AROUND 15 OR SO (A GUESS).  THERE WAS 3 LIGHTS THAT CAUGHT MY ATTENTION THE MOST.  THEY WERE IN THE TOP RIGHT OF MY VIEW OF SIGHT.  THESE 3 LIGHTS WERE IN THE SHAPE OF A TRIANGLE.  I ARRIVED HOME AND ASKED MY WIFE SOON TO BE TO COME LOOK AT THESE LIGHTS.  WE COULD NOT SEE THESE LIGHTS FROM OUR HOUSE SO WE DROVE BACK OVER TAYLORSVILLE RD AND OBSERVED THESE LIGHTS. THE SAME 3 LIGHTS HAD BARELY MOVED.  SOME OF THE OTHER LIGHTS I CAN ATTRIBUTE TO MAN MADE AIRCRAFT SUCH AS HELICOPTERS HOVERING.  THESE 3 BRIGHT LIGHTS HAD OTHER LIGHTS NEAR THEM IN A PERFECT STRAIGHT LINE RUNNING RIGHT TO LEFT.  AFTER WATCHING THIS EVENT FOR SEVERAL MINUTES, WE WENT HOME AND WORKED ON THE FLOODED BASEMENT AND TURNED ON THE RADIO TO LISTEN TO SEE IF ANYTHING HAD BEEN REPORTED.  OF COURSE NOTHING WAS ON THE NEWS.  I JUST FIND IT SO HARD TO UNDERSTAND WHY SO MANY LIGHTS WAS OVER THE CITY AT THAT TIME OF NIGHT.  WE DID NOT STAY FOR THE DURATION OF THIS EVENT DUE TO THE PROBLEM AT HOME, BUT THE TOTAL TIME DURATION THAT WE WITNESSED WAS ABOUT A HALF HOUR.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17165.html](http://www.nuforc.org/webreports/reports/017/S17165.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165067.html)
-- [492](http://www.nuforc.org/webreports/reports/165/S165007.html)
-- [491](http://www.nuforc.org/webreports/reports/165/S165010.html)
-- [490](http://www.nuforc.org/webreports/reports/165/S165052.html)
-- [489](http://www.nuforc.org/webreports/reports/165/S165014.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
