@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:01:11 on 20 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:03:33 on 21 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Falls Village (CT) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>ALIENS AT MY HIGH SCHOOLThere i was, in school, when all of a sudden, i looked out the window and i saw 25 cigar shaped floating objects.  upon closer inspection, i noticed that they had glowing red lights adorning the sides of the craft.  i was terrified, but by the time i snapped out of my shock and tried to take a picture, clouds had covered the sighting.  i swear on my life, however, that this happened.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72935.html](http://www.nuforc.org/webreports/reports/072/S72935.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Cesena (Italy) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Cesena landingI was drivind toward home from Bologna in Rimini direction when I notice two lights on the sky , similar of a plane in landing approach, it was slow then normal plane, the lights where two and orange-white cristal colors on each side of the craft. At one point he turn sharp left with and start descending at a stip angle, around 50 ' 60 deg., to much for a normal plane.  I thought it was a plane in truoble.  I can still see both lights but much smaller.  It then desappear on landing stage.  My view was cover from motorways trafic.  Two minutes later it appear again on my left hand side (north) high in the sky, around 1500 ft still for about 15 sec, then he turn toward the north in a fast acceleration routating 360 deg.,  I can just see both side lights turning a full circle and gone.  Two minutes later it happear againg still in the sky around 2500 ft for another two/three minutes and next time I turn my head, as I was driving south/east he was west around 11 o'clock, it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25732.html](http://www.nuforc.org/webreports/reports/025/S25732.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165067.html)
-- [492](http://www.nuforc.org/webreports/reports/165/S165007.html)
-- [491](http://www.nuforc.org/webreports/reports/165/S165010.html)
-- [490](http://www.nuforc.org/webreports/reports/165/S165052.html)
-- [489](http://www.nuforc.org/webreports/reports/165/S165014.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
