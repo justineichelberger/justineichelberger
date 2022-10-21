@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:41:40 on 21 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:30:26 on 21 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Willamsburg (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>single orange sphere bopping up and down over southwest OhioUFO SIGHTING WILLIAMSBURG, OHIO, SATURDAY, OCTOBER 21, 2017.  Saturday night, myself, my two kids, my boyfriend, and two friends went camping in Williamsburg because we had heard that there were strange lights out there the last couple of nights.  We didn’t actually expect we would see any- we set off with binoculars in hopes of at least seeing some meteors from the peaking meteor shower.  We did see some meteors and one glowing orb that we could not explain.Witnesses were comprised of a librarian (myself), my 11-year-old son, a civil engineer, an in-home care provider, and a college history professor.  My 12-year-old daughter was also present, but in the car on her phone and not witness to the object.  The engineer has a coworker who lives and deer hunts this area and he is the one who shared the strange experience with us so that we could investigate on our own.  None of us had ever seen an unexplained object before Saturday night.The object was an orange-red orb that was slowly traveling through the night sky.  At least, it was slower than a plane we saw pass by in the vicinity.  Overall, it traveled from left to right over top of the house (XXXX Bass Rd. Williamsburg, OH 45176) across the road from the field we were parked in.  While travelling left to right it also bopped up and down sometimes, almost as if it was following the coils of a giant invisible slinky.  A few times the light blinked out a few seconds and then came back on.  There was some cloud cover that night but it was to our backs, not in the area we were viewing.I have sent a screenshot of the google map where we were to the email indicated on the online form.  I would be interested to hear back if anything else was seen in our area, or nearby areas, that night.  I hope this is helpful.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136941.html](http://www.nuforc.org/webreports/reports/136/S136941.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Rockport (Aransas Pass) (TX) reported seeing craft that fit the description of some 'Changing' over a period of approximately 2-3 hrs. - 2-3 hrs. minutes.</sub><blockquote><sub>possible ufo sighting.it was on october 24th. me and some friends and family had just got back from a haunted house in corpus christi. this is the second time we have seen this object in the sky..  It has very vivid bright lights 4-5 different colors. red, blue, green, purple and white..  we have watched it very visible to the eye. with binoculars its a round shape or a triangle shape.  it only moves up and down left to right.  we have never seen a different path from it.  we live on the ocean so it appears to be over the sea. we are no experts in flying air craft but common since can tell you its no star nor airplane, weather balloon or satilite..  please let me know what you the expert think.  this is not a joke nor a hoax!!  thank you for your time and patience in reading my sighting story.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84695.html](http://www.nuforc.org/webreports/reports/084/S84695.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/165/S165076.html)
-- [355](http://www.nuforc.org/webreports/reports/165/S165046.html)
-- [354](http://www.nuforc.org/webreports/reports/165/S165016.html)
-- [353](http://www.nuforc.org/webreports/reports/165/S165015.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165063.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
