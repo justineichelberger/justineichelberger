@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:15:19 on 21 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:04:34 on 21 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Cleveland (OK) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright lights hovering in the sky low to the ground disappeared out of sight within a few minutes.First spotted a light as I was traveling west on HWY 412 near Cleveland, OK.  As I was driving, I noticed a very bright light that looked to be possibly falling and on fire.  I continued to drive west until I was even with it from the highway.  I pulled over and rolled down the window to get a better look.  By this time, the bright light had dimmed.  The object was alone and hovering.  Sitting completely still and showing some red, green, and white lights.  The lights moved in a pattern across the back side of the object.  Less than a minute went by and the object started moving away from me.  I turned around and started driving east after the object before I had traveled 5 miles, the object was out of sight.  Teardrop in shape.  Very bright lights at a distant.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103459.html](http://www.nuforc.org/webreports/reports/103/S103459.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Anahola (HI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>8 year old Daughter and friend experience sighting and interaction with UFO in Hawaii.My 8 yr old daughter and her friend were sleeping in out screen room and were woken by strong wind, loud crash. Saw what they think might be meteor shower. then a saucer with lights, hovering. It made a huge mechanical noise like a public safety siren for a while, stoppped and left. Immediately a red host of light, multi-laser like entered the room and focused on them, they were not able to touch themselves or each other; they  heard themselves talk, but couldnt hear the other. Light left, they felt induced to sleep, and woke up an hour or so later, bumping their heads, they saw lights on the mountain in view about a mile away, then flashing swirling lights in the adjacent sky.These girls exhibit no indication of a prank, or collusion; I video taped an interview with them to record their exerience.One item of interest is that they both remember having a vivid dream prior to being awoken the first time, then again, the same dream during the brief sleep. different dreams but both dreamed identical dream twice.I have no indication to disbelieve the story; she will not sleep by herself tonite. she insist to sleep with her parents.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53020.html](http://www.nuforc.org/webreports/reports/053/S53020.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/165/S165076.html)
-- [355](http://www.nuforc.org/webreports/reports/165/S165046.html)
-- [354](http://www.nuforc.org/webreports/reports/165/S165016.html)
-- [353](http://www.nuforc.org/webreports/reports/165/S165015.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165063.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
