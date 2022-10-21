@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:05:18 on 21 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:44 on 21 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Mooers (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>So I was supposed to be headed to work well I was late and ended up not going well I had gotten into a. Fight with my gf when I just stepped outside walked across the road I had looked up to have seen a white spotlight bright be focusing down but not toward me as it had passed me already then this went on for few seconds until it shut off and it is as if you could still see it but it was like a star moving in the sky?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136946.html](http://www.nuforc.org/webreports/reports/136/S136946.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Renton (WA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately :20 - :20 minutes.</sub><blockquote><sub>gray translucent elongated diamond in shape with a tailI’m not totally sure on the date it was either the 14 or 21 been too long I know it was a clear night working at a golf cores picking golf balls off the practice cores about 8:15 to 8:25   I stopped to one side in the open field in my machine and was standing outside because I had a kid that was bothering me on the field while I was working I noticed a small plain it looked like a Cessna or piper cub airplane  it was lower and louder than normal  aircraft that flies over this golf and country club I worked for when I noticed behind this plain was an object shaped like I diamond but different it was drawn out longer at the end and at each point it had a circle that had a split or line through it the back of the diamond was elongated about four or five meters behind the main diamond form and this craft was not solid it was 50 or 60 percent translucent and was following the airplane about  1/8 to ¼ of a mile behind flying in a arc on the same cores like it was following the plain I watched this craft silent it had to be 10 thousand or closer as most fly over low so they can tell where they are at night I watched both craft tell I could not see the craft anymore but could still hear the plain in the distance it did not look like they knew that they or it was there and you could not even hear the craft going overhead and even gliders make noise you can hear the wings cutting the wind this had no noise at all I noticed this for about twenty seconds tell I could not see this craft because it was translucent days later I talked to a resident that lives on the side of the field in a condo and he told me as I cant affirm of how reliable he is but he had told me that he has seen other craft the same shape and translucent and also quite as well flying over the practice area following other plains as well I have never seen a craft like this nor have I ever seen any crafts of any types other than regular   aircrafts the fly over this golf an! d country club in the three years I have worked for this compa! Ny</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87238.html](http://www.nuforc.org/webreports/reports/087/S87238.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/165/S165076.html)
-- [355](http://www.nuforc.org/webreports/reports/165/S165046.html)
-- [354](http://www.nuforc.org/webreports/reports/165/S165016.html)
-- [353](http://www.nuforc.org/webreports/reports/165/S165015.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165063.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
