@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:17:42 on 21 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:15:19 on 21 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Glace Bay (Canada) (NS) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>In front of my house I saw a reversed pattern Of star like objects Number 5-6 of them making a backward P in sky.  and it was tilted a bit to one side .  Size 30 35 ft.  Looked like black satin rippling but transparent black and then moved slowly around my house and out of view.  It was THRILLING!!((NUFORC Note:  Source of report indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132020.html](http://www.nuforc.org/webreports/reports/132/S132020.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Cleveland (OK) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright lights hovering in the sky low to the ground disappeared out of sight within a few minutes.First spotted a light as I was traveling west on HWY 412 near Cleveland, OK.  As I was driving, I noticed a very bright light that looked to be possibly falling and on fire.  I continued to drive west until I was even with it from the highway.  I pulled over and rolled down the window to get a better look.  By this time, the bright light had dimmed.  The object was alone and hovering.  Sitting completely still and showing some red, green, and white lights.  The lights moved in a pattern across the back side of the object.  Less than a minute went by and the object started moving away from me.  I turned around and started driving east after the object before I had traveled 5 miles, the object was out of sight.  Teardrop in shape.  Very bright lights at a distant.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103459.html](http://www.nuforc.org/webreports/reports/103/S103459.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/165/S165076.html)
-- [355](http://www.nuforc.org/webreports/reports/165/S165046.html)
-- [354](http://www.nuforc.org/webreports/reports/165/S165016.html)
-- [353](http://www.nuforc.org/webreports/reports/165/S165015.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165063.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
