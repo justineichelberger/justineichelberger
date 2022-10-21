@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:01:04 on 21 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:56 on 21 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Logansport (IN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Three lights zoomed across the northern sky.Looking into the northern sky, three dim lights in form of a tight triangle zoomed across the sky in a northern direction then with a quick swoop went into a northwest direction.  It was too fast for an airplane, the lights were not flashing, no sound.  The lights itself was not bright almost in a "transparent" sort of form.  I have never seen anything like this before and it only lasted like 30 seconds or so.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136905.html](http://www.nuforc.org/webreports/reports/136/S136905.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Rockhampton (~ 70kms S of; on Bruce Highway) (Australia) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>I was driving on the Bruce Highway (also known as the National Hwy A1) south near Mt Larcom Queensland around 20:00 and noticed two green lights very high in the sky above and in front of me.  I initially thought it was a plane preparing to land at Rockhampton, which was about 70 kms behind me.  As I kept looking up (between watching the road), I realised that the lights were stationary and just “hanging” there.  After a minute or two I had driven too far to observe them from my front windscreen any more.Then, about five minutes later I observed what appeared to be a motorcycle headlight on high beam coming up behind me on the highway.  It approached very fast again making me think it was a motorcycle.  The light was extremely bright as it approached and only took seconds to travel from way back behind me to a point just behind my car where I noticed that it looked to be about as large around as a basketball or perhaps slightly bigger and intensely bright white.  I was looking back and forth at the road in front of me and in my rear-view mirrors at the light expecting it to pass me when it just went dark.  There was no turnoff and nothing passed me – it was just gone.I pondered what had just happened for several hours as I continued to drive home and resolved to report it as a UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123070.html](http://www.nuforc.org/webreports/reports/123/S123070.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/165/S165076.html)
-- [355](http://www.nuforc.org/webreports/reports/165/S165046.html)
-- [354](http://www.nuforc.org/webreports/reports/165/S165016.html)
-- [353](http://www.nuforc.org/webreports/reports/165/S165015.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165063.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
