@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:23:37 on 21 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:22:16 on 21 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Antioch (CA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Teardrop object in the sky.I was laying on the grass looking up.  I saw bugs, birds and airplanes flying by.  Then I saw a white teardrop object that went straight, stop and then do a 90 degree turn up then stop and then another 90 degree right turn and sped off.  It did a reverse Z but with straight lines.  I figure that it was going about 4-5 thousand miles per hr. or more.  I am retired air force and I have seen all types of planes, but nothing that fast.  Oh, the sky was blue.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115375.html](http://www.nuforc.org/webreports/reports/115/S115375.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Sparta (TN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 300.0 - 300.0 minutes.</sub><blockquote><sub>At first it looks like a star but once you look more closely you can tell it is at about airplane level when I recorded it and enlarged the video, you can clearly see this thing spinning really fast. Looks like a ball of energy. But has black circles on it</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160120.html](http://www.nuforc.org/webreports/reports/160/S160120.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/165/S165076.html)
-- [355](http://www.nuforc.org/webreports/reports/165/S165046.html)
-- [354](http://www.nuforc.org/webreports/reports/165/S165016.html)
-- [353](http://www.nuforc.org/webreports/reports/165/S165015.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165063.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
