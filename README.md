@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:08:25 on 21 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:09:23 on 21 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Canyonville (OR) reported seeing craft that fit the description of some '' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>1 Large lime green meteor like object no meteor tail.  Fell at an angle from northwest to southeast. Much larger than other meteors I have seen. I am a daily night observer.  I have seen many odd things but nothing like this.  Very clear night with some moon light.  I saw no aircraft in any part of the sky at the time it fell.  I am out in a large broad river valley and have a clear view of the sky in all directions.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47150.html](http://www.nuforc.org/webreports/reports/047/S47150.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Cocoa (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>A green ball of light in the north west sky moving in an arc shape as if it was falling, then it dissapeared.I was coming home from work and noticed a green ball of light moving across the north west sky, it almost looked like it was falling, it moved in kind of an arc shape.  It moved for a few seconds then just went out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34417.html](http://www.nuforc.org/webreports/reports/034/S34417.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/165/S165076.html)
-- [355](http://www.nuforc.org/webreports/reports/165/S165046.html)
-- [354](http://www.nuforc.org/webreports/reports/165/S165016.html)
-- [353](http://www.nuforc.org/webreports/reports/165/S165015.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165063.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
