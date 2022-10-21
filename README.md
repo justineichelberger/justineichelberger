@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:30:26 on 21 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:23:37 on 21 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Rockport (Aransas Pass) (TX) reported seeing craft that fit the description of some 'Changing' over a period of approximately 2-3 hrs. - 2-3 hrs. minutes.</sub><blockquote><sub>possible ufo sighting.it was on october 24th. me and some friends and family had just got back from a haunted house in corpus christi. this is the second time we have seen this object in the sky..  It has very vivid bright lights 4-5 different colors. red, blue, green, purple and white..  we have watched it very visible to the eye. with binoculars its a round shape or a triangle shape.  it only moves up and down left to right.  we have never seen a different path from it.  we live on the ocean so it appears to be over the sea. we are no experts in flying air craft but common since can tell you its no star nor airplane, weather balloon or satilite..  please let me know what you the expert think.  this is not a joke nor a hoax!!  thank you for your time and patience in reading my sighting story.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84695.html](http://www.nuforc.org/webreports/reports/084/S84695.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Antioch (CA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Teardrop object in the sky.I was laying on the grass looking up.  I saw bugs, birds and airplanes flying by.  Then I saw a white teardrop object that went straight, stop and then do a 90 degree turn up then stop and then another 90 degree right turn and sped off.  It did a reverse Z but with straight lines.  I figure that it was going about 4-5 thousand miles per hr. or more.  I am retired air force and I have seen all types of planes, but nothing that fast.  Oh, the sky was blue.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115375.html](http://www.nuforc.org/webreports/reports/115/S115375.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/165/S165076.html)
-- [355](http://www.nuforc.org/webreports/reports/165/S165046.html)
-- [354](http://www.nuforc.org/webreports/reports/165/S165016.html)
-- [353](http://www.nuforc.org/webreports/reports/165/S165015.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165063.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
