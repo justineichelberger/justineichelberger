@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:03:33 on 21 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:32 on 21 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Cesena (Italy) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Cesena landingI was drivind toward home from Bologna in Rimini direction when I notice two lights on the sky , similar of a plane in landing approach, it was slow then normal plane, the lights where two and orange-white cristal colors on each side of the craft. At one point he turn sharp left with and start descending at a stip angle, around 50 ' 60 deg., to much for a normal plane.  I thought it was a plane in truoble.  I can still see both lights but much smaller.  It then desappear on landing stage.  My view was cover from motorways trafic.  Two minutes later it appear again on my left hand side (north) high in the sky, around 1500 ft still for about 15 sec, then he turn toward the north in a fast acceleration routating 360 deg.,  I can just see both side lights turning a full circle and gone.  Two minutes later it happear againg still in the sky around 2500 ft for another two/three minutes and next time I turn my head, as I was driving south/east he was west around 11 o'clock, it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25732.html](http://www.nuforc.org/webreports/reports/025/S25732.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1987, an anonymous witness in Swansea (UK/England) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>many witness slow moving huge triangular craftThe object was seen by my brother and dozens of other witnesses.  He was employed as an auditor at the time and did not wish his credibility challenged, so he never reported it.  It was however reported on the front page of our local newspaper the following day.  I am amazed that I can find no reference to this sighting anywhere on the net.   He described the triagular shaped object as blacking out a vast section of the night sky, and travelling very slowly without any sound.  We are on a flightpath and are used to seeing passenger aircraft at around 25,000ft doing approx 475mph, he told me it moved across the sky at a similar pace, but if it was at a similar height to the passenger aircraft we are used to seeing, then the craft size would be possibly better measured in miles than feet.((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47626.html](http://www.nuforc.org/webreports/reports/047/S47626.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/165/S165076.html)
-- [355](http://www.nuforc.org/webreports/reports/165/S165046.html)
-- [354](http://www.nuforc.org/webreports/reports/165/S165016.html)
-- [353](http://www.nuforc.org/webreports/reports/165/S165015.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165063.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
