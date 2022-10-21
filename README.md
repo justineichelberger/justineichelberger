@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:04:34 on 21 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:04:01 on 21 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Anahola (HI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>8 year old Daughter and friend experience sighting and interaction with UFO in Hawaii.My 8 yr old daughter and her friend were sleeping in out screen room and were woken by strong wind, loud crash. Saw what they think might be meteor shower. then a saucer with lights, hovering. It made a huge mechanical noise like a public safety siren for a while, stoppped and left. Immediately a red host of light, multi-laser like entered the room and focused on them, they were not able to touch themselves or each other; they  heard themselves talk, but couldnt hear the other. Light left, they felt induced to sleep, and woke up an hour or so later, bumping their heads, they saw lights on the mountain in view about a mile away, then flashing swirling lights in the adjacent sky.These girls exhibit no indication of a prank, or collusion; I video taped an interview with them to record their exerience.One item of interest is that they both remember having a vivid dream prior to being awoken the first time, then again, the same dream during the brief sleep. different dreams but both dreamed identical dream twice.I have no indication to disbelieve the story; she will not sleep by herself tonite. she insist to sleep with her parents.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53020.html](http://www.nuforc.org/webreports/reports/053/S53020.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Dawsonville (GA) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Metallic balloon shaped object hovering in a beautiful blue sky.We were watching a red single engine plane circle around an object. The object, seen through binoculars, was a large metallic balloon shape. The "balloon" glared like it was made of metal.  It had a rod of some sort coming out of the bottom. The object was a silvery white. The wind was blowing hard at the ground but this thing did not move, sway or rise like you would expect a balloon to do. The rod looked metal. We watched for about 15 minutes then it began to move north. Then the object disappeared. The single engine plane was only there for the first 5 minutes then it flew away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59361.html](http://www.nuforc.org/webreports/reports/059/S59361.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/165/S165076.html)
-- [355](http://www.nuforc.org/webreports/reports/165/S165046.html)
-- [354](http://www.nuforc.org/webreports/reports/165/S165016.html)
-- [353](http://www.nuforc.org/webreports/reports/165/S165015.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165063.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
