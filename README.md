@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:11:12 on 21 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:02:36 on 21 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Chillicothe (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Bright green light streaks twice in Ohio sky between Waverly and Chillicothe on clear night.While traveling south on US 23 between Chillicothe and Waverly, Ohio, and ascending Divide Hill, my son and I witnessed a brilliant green light that appeared in the sky and dropped from northwest to southeast before extinguishing. Immediately after it went out, the same event occurred which made this very unusual.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32700.html](http://www.nuforc.org/webreports/reports/032/S32700.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>So at approximately 9 pm on October 21st, 2016, we were sitting outside in our front yard star gazing due to the metior showers when all of a sudden we saw a boomerang shaped ufo flying at about approximately 200 ft above the neighborhood but completely silent  There were square shaped white reflector type things on the bottom of the craft but only on the wings of the object and nothing in the center It was flying at a slow pace completely silent towards the south west direction It had appeared out of nowhere and lasted about 5 minutes before it disappeared from our sight  I've never witnessed anything like this in my life I felt really shocked and scared at the same time I tried recording but it was too dark for the phone to catch.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130767.html](http://www.nuforc.org/webreports/reports/130/S130767.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/165/S165076.html)
-- [355](http://www.nuforc.org/webreports/reports/165/S165046.html)
-- [354](http://www.nuforc.org/webreports/reports/165/S165016.html)
-- [353](http://www.nuforc.org/webreports/reports/165/S165015.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165063.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
