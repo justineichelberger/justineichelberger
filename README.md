@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:02:05 on 21 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:48 on 21 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Imperial (MO) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>We were sitting on back deck talking and looking at the moon and ski she we saw a glowing diamond like shape in ski.  I had my phone and snapped a pic and when I went to snap another it distorted my picture and then tried again and distorted it again.  When we went to look at first one there wasn't anything in it but darkness.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103455.html](http://www.nuforc.org/webreports/reports/103/S103455.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Houston (MS) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>chased out of a field by a floating triangleThis event took place around 17:00 in 1995 just outside of Houston, MS.  My college roommate and I were both from Houston, MS and we rode together to his house for the weekend.  My roommate was an avid hunter and had gotten a tractor stuck in a field behind his house the prior weekend.  I rode into the field with my roommate in his Ford Ranger pickup to attempt to recover the tractor.  This field was behind his house about 200-300 yards.  As my friend was working on the tractor, I was standing beside his truck bored (no cell phones back then to keep my attention) so I am just looking around.  I see a light in the sky in the distance to my right (east).  I think nothing of the light.  I look away and happen to glance back at the light and it is approaching us very slowly.  As the light gets closer, I can see it is actually three lights in the shape of a triangle.  I get my roommates attention and we watch this triangle Very slowly float over the top of a row ! of full-grown pine trees-moving east to west.  My roommate and I are speechless.  We watch this triangle float from our right to left over the trees without blowing the trees or making any sound.  The triangle moves to our left about 30 yards and comes to a complete stop and hovers soundless.  It remains in this position for maybe 30 seconds to a minute.  The triangle then began to move back over the pine trees coming back toward my roommate and I.  I don’t remember who panicked first, but we both began to run back to his pickup truck and the triangle breaks off from the tree line and begins to follow us as we are running.  My roommate is driving and I am in the passenger’s side.  We are both in total panic mode as my roommate is driving as fast as the truck will go while this triangle is floating somewhere about the truck.  I for some reason roll my window down to try and spot the triangle.  When I roll the window down, I can hear a very faint sound (maybe a humming sound)! and immediately tell my roommate, “It’s just a helicopter, it! ’s just a helicopter.”  My roommate slows the truck and we just simply “accepted” in that moment that what we were running from was a helicopter, because it brought us immediate relief to believe it was a helicopter.  This UFO lives in my subconscious as a “helicopter” for probably 10-15 years until I thought back on that night and all the proof in the world told me that was not a helicopter.  It is strange how our psychological defenses work to keep us safe.  Thank you for listening to my UFO experience and maybe it can help someone else.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156953.html](http://www.nuforc.org/webreports/reports/156/S156953.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/165/S165076.html)
-- [355](http://www.nuforc.org/webreports/reports/165/S165046.html)
-- [354](http://www.nuforc.org/webreports/reports/165/S165016.html)
-- [353](http://www.nuforc.org/webreports/reports/165/S165015.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165063.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
