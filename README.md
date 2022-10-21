@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:04:01 on 21 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:11:12 on 21 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Dawsonville (GA) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Metallic balloon shaped object hovering in a beautiful blue sky.We were watching a red single engine plane circle around an object. The object, seen through binoculars, was a large metallic balloon shape. The "balloon" glared like it was made of metal.  It had a rod of some sort coming out of the bottom. The object was a silvery white. The wind was blowing hard at the ground but this thing did not move, sway or rise like you would expect a balloon to do. The rod looked metal. We watched for about 15 minutes then it began to move north. Then the object disappeared. The single engine plane was only there for the first 5 minutes then it flew away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59361.html](http://www.nuforc.org/webreports/reports/059/S59361.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Chillicothe (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Bright green light streaks twice in Ohio sky between Waverly and Chillicothe on clear night.While traveling south on US 23 between Chillicothe and Waverly, Ohio, and ascending Divide Hill, my son and I witnessed a brilliant green light that appeared in the sky and dropped from northwest to southeast before extinguishing. Immediately after it went out, the same event occurred which made this very unusual.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32700.html](http://www.nuforc.org/webreports/reports/032/S32700.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/165/S165076.html)
-- [355](http://www.nuforc.org/webreports/reports/165/S165046.html)
-- [354](http://www.nuforc.org/webreports/reports/165/S165016.html)
-- [353](http://www.nuforc.org/webreports/reports/165/S165015.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165063.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
