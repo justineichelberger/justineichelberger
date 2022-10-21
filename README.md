@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:02:11 on 21 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:02:05 on 21 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Mysterious object in the Phoenix sky.I live in Phoenix Arizona.  I am an adult male, never used drugs in my life, non alcohol user, no mental issues and of sound mind and body.  I am the type of person generally speaking that has to see something with my own eyes, see it, touch it, taste it, feel it or witness something to believe it when it comes to things of this nature.  I am just an average Joe with above average street smarts and intelligence in the game of life.  Arizona is known for having high visibility and fosters the type of environment where things can be seen from a distance.I have never in my life seen anything like I did On Friday October 21st 2016 approximately 10:50pm.  I saw something in the sky in the northern part of the skyline when I was taking out my trash to my dumpster.  What drew my attention to it was the light it emitted and how it moved.  The light was all one color and of a white light clear in nature.  This was a flying object in the sky that moved like nothing I have ever seen in my lifetime.  This was not something of commercial or military aircraft in nature.  If it was one of ours it was of discrete nature or kept very secret.I have seen stealth bombers and fighter jets in person and this was NOT one of those.  I have never in my life witnessed anything of this nature previously.  I used to laugh and have doubt at people that claimed to have seen things of this nature and were so adamant about it.  My opinion now has changed after what I witnessed.The way this thing moved laterally side to side was like nothing I have ever seen in my life.  I will never forget that aspect of it. It was THAT fast the horizontal/lateral movement was just unreal.  I stood and observed this thing in the sky for about 6 or seven minutes.  I saw one of our aircraft approach it.  I knew it was one of ours because it had red and blue lights and moved entirely different from how this thing moved.  When our aircraft approached it whatever it was I saw disappeared in an instant.I checked online and on the news and there was nothing about this reported that I am aware of.  Someone knows something about this as it was investigated by our aircraft approaching it.  Another piece of the puzzle is that Luke Air Force base is close to where I live and also we are really not that far from an installation known as Area 51.  What I saw was not something created by mankind.  Again, if it was it was something kept very discrete and secret.  That is all I have to say about it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130920.html](http://www.nuforc.org/webreports/reports/130/S130920.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Imperial (MO) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>We were sitting on back deck talking and looking at the moon and ski she we saw a glowing diamond like shape in ski.  I had my phone and snapped a pic and when I went to snap another it distorted my picture and then tried again and distorted it again.  When we went to look at first one there wasn't anything in it but darkness.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103455.html](http://www.nuforc.org/webreports/reports/103/S103455.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/165/S165076.html)
-- [355](http://www.nuforc.org/webreports/reports/165/S165046.html)
-- [354](http://www.nuforc.org/webreports/reports/165/S165016.html)
-- [353](http://www.nuforc.org/webreports/reports/165/S165015.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165063.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
