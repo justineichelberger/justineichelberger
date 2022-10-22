@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:13:40 on 22 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:03:22 on 22 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Cooper City (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Small cube shaped object with several blue lights visible.  Object faded out of sight.Observed what appeared to be a small cage-like object with several small blue lights all over it in the shape of a crushed cube, but only the size of a basketball.  It appeared to be wavering, almost as if it were dangling from a short string yet no string or wire was seen or found. It traveled from west to east at approximately 5 mph.  This was in a residential area with overhead street lights operating.  Observed through the front windshield of automobile.  It flew approximately 20-30 feet in front of automobile and was in a gradual descent over the road.  The object simply faded out of sight right in front of us.  Not behind trees or bushes, just faded out and was gone.  We both immediately exited the car and searched the area where it was descending to. Used the car headlights to illuminate the area.  Found nothing. No one else was around.  We immediately came back with flashlights and searched again.  Found nothing.  Went back the next day and checked the entire area during daylight and found nothing.  What makes this so odd was the apparent size of the object and the fact that we both had a clear, unobstructed view of it right in front of our car, 20-30 feet away. That was very close so it was easy to estimate the size of the object.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48820.html](http://www.nuforc.org/webreports/reports/048/S48820.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Milton (VT) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Steady red light that crossed sky then diminished in size at a steady rate before vanishingI saw a red light in the sky.  I don't think it was a plane.  It was a steady, red light, too big to be an airplane, but too high up to be anything else.  I saw it crossing the sky about 3 or 4 times faster than a satellite.  It then turned down towards the horizon, and diminished in size at a medium rate to the point of vanishing.  At that point, it was still above the horizon.  I was able to see it for less than a minute, I'm guessing about 40 seconds but it may have been less.((NUFORC Note:  Witness provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103487.html](http://www.nuforc.org/webreports/reports/103/S103487.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/165/S165026.html)
-- [366](http://www.nuforc.org/webreports/reports/165/S165011.html)
-- [365](http://www.nuforc.org/webreports/reports/165/S165101.html)
-- [364](http://www.nuforc.org/webreports/reports/165/S165039.html)
-- [363](http://www.nuforc.org/webreports/reports/160/S160229.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
