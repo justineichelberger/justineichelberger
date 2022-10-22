@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:03:32 on 22 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:41 on 22 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Vacaville (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>This craft hovered for a couple minutes then picked up speed with no sound this was the 2nd time I've heard or seen something in the sky.  The last time was a loud vibration with a frequency unexplainable which hovered over my house for 30 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154856.html](http://www.nuforc.org/webreports/reports/154/S154856.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Tustin (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Silver cigar shaped stationary UFO.On Sunday, 10/22, (last Sunday) at about 3 p.m., three of us saw a very strange object in the sky.   Comparing it to cigar shaped UFO sitings online, it's the only thing we came up with.   We watched it ...  it was not moving like a plane or balloon, but was stationary, and would only turn.... it was so distant, that you would only see it when the sun reflected off it.  It was silver.  I took some photos with a 500 mm lens and then enlarged them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137040.html](http://www.nuforc.org/webreports/reports/137/S137040.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/165/S165026.html)
-- [366](http://www.nuforc.org/webreports/reports/165/S165011.html)
-- [365](http://www.nuforc.org/webreports/reports/165/S165101.html)
-- [364](http://www.nuforc.org/webreports/reports/165/S165039.html)
-- [363](http://www.nuforc.org/webreports/reports/160/S160229.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
