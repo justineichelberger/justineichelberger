@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:38 on 22 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:13:40 on 22 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Virginia Beach (VA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright light seen in Virginia Beach  I was taking my dog outside when I saw a bright, cross shaped UFO hovering over my apartment complex. I watched it for a minute or so, then went inside to get a camera but I left my dog outside. When I came back out,the UFO was still there, so I turned on the camera, but by the time I snapped the picture it was gone. My dog was nowhere to be found. Minnie (the dog) always stays close by, so I am convinced that the craft abducted my dog. The craft appeared to have a relatively low altitude, probably 1000ft. There were no discernible features other than the "V" shape and bright lights. I did not hear any abnormal sounds during the entire encounter. I have contacted VA Beach PD and they think I am just a nuisance and will not process my report. I am left with no other options. Please help me. I would prefer to be contacted by email due to the nature of my work. I can't predict who will be around me, and some of my coworkers have been very unsupportive of my situation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66411.html](http://www.nuforc.org/webreports/reports/066/S66411.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Cooper City (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Small cube shaped object with several blue lights visible.  Object faded out of sight.Observed what appeared to be a small cage-like object with several small blue lights all over it in the shape of a crushed cube, but only the size of a basketball.  It appeared to be wavering, almost as if it were dangling from a short string yet no string or wire was seen or found. It traveled from west to east at approximately 5 mph.  This was in a residential area with overhead street lights operating.  Observed through the front windshield of automobile.  It flew approximately 20-30 feet in front of automobile and was in a gradual descent over the road.  The object simply faded out of sight right in front of us.  Not behind trees or bushes, just faded out and was gone.  We both immediately exited the car and searched the area where it was descending to. Used the car headlights to illuminate the area.  Found nothing. No one else was around.  We immediately came back with flashlights and searched again.  Found nothing.  Went back the next day and checked the entire area during daylight and found nothing.  What makes this so odd was the apparent size of the object and the fact that we both had a clear, unobstructed view of it right in front of our car, 20-30 feet away. That was very close so it was easy to estimate the size of the object.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48820.html](http://www.nuforc.org/webreports/reports/048/S48820.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/165/S165026.html)
-- [366](http://www.nuforc.org/webreports/reports/165/S165011.html)
-- [365](http://www.nuforc.org/webreports/reports/165/S165101.html)
-- [364](http://www.nuforc.org/webreports/reports/165/S165039.html)
-- [363](http://www.nuforc.org/webreports/reports/160/S160229.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
