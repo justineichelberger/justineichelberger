@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:04:48 on 22 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:38 on 22 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Kennett Square (PA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Large stationary star-like object that changed shape, emitted color, &quot;danced&quot;, had pieces fall off in form and then get reabsI got up to go to the bathroom when a very bright "twinkling star" caught my eye.  As I stared at it, I realized it was not a star, but a "star color" object that was dancing, jumping, changing shape, emitting colors, making trails, had smaller pieces break off and at one point formed a line and then was reabsorbed.  It was at about 30-40 degrees from the ground looking east -- maybe a tad southeast.  I woke everyone in the house up (4 of us) and we all observed this for about 15 minutes.  It dimmed and faded away, but reappeared when we went back to bed.  Given the meteor activity this week, we all thought that was what we were watching, but then realized that a meteor isn't stationary, but moves at a high rate of speed.  Very exciting and disturbing at the same time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123035.html](http://www.nuforc.org/webreports/reports/123/S123035.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Turlock (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Two bright white triangular objects seen which streaked off to the east ,appeared and dissapeared in 2 seconds.On Sunday morning I went out into the front yard to look for our cat.  Low in the horizon, to the south, I saw a bright white triangular object. Another of the same object appeared just east of the first. Then there was a quick streak of the same bright white color just east of the two objects.  As if the two objects sped away to the east.It was a very short streak that just stopped with no trace. This all happened in about 2 seconds. The objects did not hover or hesitate. <<<<<<<<<<<   <  < Arrows depict scene. I am a 41 year old female, married, two children,University graduate,self employed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14655.html](http://www.nuforc.org/webreports/reports/014/S14655.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/165/S165026.html)
-- [366](http://www.nuforc.org/webreports/reports/165/S165011.html)
-- [365](http://www.nuforc.org/webreports/reports/165/S165101.html)
-- [364](http://www.nuforc.org/webreports/reports/165/S165039.html)
-- [363](http://www.nuforc.org/webreports/reports/160/S160229.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
