@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:03:12 on 22 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:40 on 22 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>3 witnesses--object looked like the moon but no moon tonight. I can see it glowing through the trees in neighbors backyard. To high in sky to be lights and to bright, quiet and big to be a plane. It appeared to be sickle shaped or boomerang shaped. I drove around to make sure it wasn't the moon and like I said no moon tonight. Object was no where to be found in the sky. Looked as if it was getting lower, but when I drove around to see if anything resembled this huge object, there was nothing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72976.html](http://www.nuforc.org/webreports/reports/072/S72976.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Glenallen (Close to) (AK) reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Dozens of lights seen, two very large crafts.We were driving to Anchorage from Tok, Alaska.  We left Glenallen Alaska at about 6:00 P.M.  On the passenger side of the car my boyfriend looked over and said to me, "Oh, look, two planes flying together." We saw two white lights one on top of the other.  Then one light disappeared and the second one also disappeared.  Thinking this was odd we tried to rationalize it thinking they actually were airplanes. About 30 seconds later and during the span of about 5 minutes, we saw a dozen or more orb like balls of light coming and going over the treetops.  The terrain in that area had dipped enough that we could see right over the treetops from our vehicle.  Then a craft with 5 lights on it WHITE, RED, WHITE, YELLOW, WHITE bigger than a semi, and about 300 ft away, came down closer to the car but still above the trees, rotated once then left.  Some more balls of light came hovering and moving over the trees. The second large craft we saw lit up in front of a hill in! the distance.  VERY large.  Had 3 white lights on it the went off sequentially and disappeared.  There were other cars on the road it wasn't that late at night.  If other people saw this we don't know it was pretty obvious what was going on.  We stopped the car several times to freak out over what we were seeing and still saw balls of light in the distance.  There was a red light in the distance on one of these stops as well as a small star shaped object that went really fast toward the horizon, and then we saw two flashes as it got near the ground.  During that time, we took out our phones to get some kind of video but the camera on our phones couldn't pick very much up but we were clearly freaking out about what we saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111488.html](http://www.nuforc.org/webreports/reports/111/S111488.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/165/S165026.html)
-- [366](http://www.nuforc.org/webreports/reports/165/S165011.html)
-- [365](http://www.nuforc.org/webreports/reports/165/S165101.html)
-- [364](http://www.nuforc.org/webreports/reports/165/S165039.html)
-- [363](http://www.nuforc.org/webreports/reports/160/S160229.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
