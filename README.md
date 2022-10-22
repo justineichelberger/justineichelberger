@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:34 on 22 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:01:24 on 22 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Lodi (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>3 distinct colored lights hovering over the city in the daytimeI was driving and seen 3 distinct lights just hovering there in the middle of the sky up ahead. I stopped and took a few pictures of it, my friend was with me and took 2 of the pics. There was nothing around that could have reflected onto the sky and it wasnt during sunset when the sky can have many different colors. I looked at it a few min. later and it looked like it was starting to fade (I had to get back in and continue driving) and that was all I seen of it.((NUFORC Note:  Time is not specified by witness.  We have assigned an arbitrary time.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53419.html](http://www.nuforc.org/webreports/reports/053/S53419.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Dundee (UK/Scotland) () reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>CRAFT WITH EMITTING FLAMESI AM A NIGHT DUTY SECURITY WATCHMAN, WHILE ON PATROL, HEADING BACK TO MY OFFICE I WAS DISTRACTED BY A BRIGHT LIGHT, THERE WAS NO NOISE AT ALL THAT CAME FROM THIS OBJECT, I SEE MANY SHOOTING STARS, THIS OBJECT WAS ABOUT 500FT ROUGHLY ABOVE ME, IT WAS TEARSHAPED WITH RED AT THE FRONT AND YELLOW FROM THE MIDDLE TO THE BACK, IT HAD LIKE A YELLOISH TRAIL VERY LONG, THE SKY WAS COMPLETLY CLEAR, AND I CAN SEE CLEARLY IN ALL DIRECTION, THINKING I WILL DO MY DUTY NATIONAL SECURITY AND ALL, I CALLED RAF LEACHARS FIFE, SPOKE TO THE AIR CONTROLLER, TOLD HIM WHAT I HAD SEEN, IMMEDIENTLY HE SAID AH IT WAS AWSOME THAT SHOOTING STAR, DID YOU SEE IT HOVER??  NO I SAID, I JUST SAW IT ZOOM PAST ABOVE ME,  I SAID TO HIM SINCE WHEN DOES A SHOOTING STAR STOP WHILE TRAVELING AT A THOUSAND MILES AN HOUR TO HOVER, THEN GATHER UP THE SAME SPEED, SHORTLY AFTER MY REPORT I HEARD RAF AIRCRAFT PASSING BY THE SPOT I REPORTED THE SIGHTING,</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59386.html](http://www.nuforc.org/webreports/reports/059/S59386.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/165/S165026.html)
-- [366](http://www.nuforc.org/webreports/reports/165/S165011.html)
-- [365](http://www.nuforc.org/webreports/reports/165/S165101.html)
-- [364](http://www.nuforc.org/webreports/reports/165/S165039.html)
-- [363](http://www.nuforc.org/webreports/reports/160/S160229.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
