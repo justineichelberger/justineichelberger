@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:19:12 on 22 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:05:34 on 22 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Mount Holly (NJ) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Triangular craft with bright red lights seen over Mount Holly, NJ.We heard a loud roaring noise outside our window early this morning and couldn’t figure out what it was.  It sounded like a really loud jet engine taking off but the sounds was constant.  We listened to it for a few minutes before we decided to get up and see what it was.  I opened the bathroom window and saw two large bright rectangular red lights hovering in the sky to the north of our house.  They were completely still, like nothing we’ve ever seen.  We grabbed our binoculars and looked up at it.  The craft was close enough that we could see details.The two large rectangular red lights were the only thing visible with the naked eye.When looking through binoculars we saw that the craft was triangular with rows of smaller dimmer rectangular red lights.  It hovered in the sky completely motionless for about 30 seconds as we stood outside then it slowly started moving south at the speed of a helicopter.  When it took off, there was an outline of a circle on the top rear of it.  There were no blinking lights.  Never seen anything like this.  I have never reported anything like this, but it was too crazy not to report.  What was this?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103467.html](http://www.nuforc.org/webreports/reports/103/S103467.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Varnville (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>White light that beamed down and beamed up in literally 2 seconds.Although this happened a few years back me and my friends we're sitting in my car around 10:00 pm one night actually talking about were ufos real or not.  We we're smoking weed at the time (which doesnt mean anything at all)  but the funny thing is right after we fnished the convo it was a white light that literally beamed down and beamed back up in 2 seconds in the yard infront of my mother's house.  It was that fast.  None of us said anything after we saw it but a minute later my friend said did ya'll just see that and we were like hell yeah we seen that, of course nobody wanted to sound crazy bringing it up first.  That's how I know aliens do exist, we will never ever forget that night....such a crazy experience.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128186.html](http://www.nuforc.org/webreports/reports/128/S128186.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/165/S165026.html)
-- [366](http://www.nuforc.org/webreports/reports/165/S165011.html)
-- [365](http://www.nuforc.org/webreports/reports/165/S165101.html)
-- [364](http://www.nuforc.org/webreports/reports/165/S165039.html)
-- [363](http://www.nuforc.org/webreports/reports/160/S160229.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
