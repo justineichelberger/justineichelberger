@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:24:50 on 22 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:19:12 on 22 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Mansfield (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>I am sure it was nothing, but I cannot explain it.  I was on my back deck, smoking a cigar, around 23:10 on Oct. 22, 2014.  I was looking at the clouds as they were moving from the NE to the SW.  I saw a green triangle cross my line of sight for approximately 3 seconds, traveling from the East to the West.  I did not hear a sound.  It was traveling at a high rate of speed, in a straight line.  It was a bright emerald green color, with circles of light (the same green color) on each point of the triangle.  It was not an isosceles triangle, but an elongated one.  I am a 56 year old college graduate, who has been clean and sober for over 30 years.  I know very little about UFO's, nor have I ever actively looked for them.  I am just reporting what I saw, in the hopes that someone else saw something similar tonight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114877.html](http://www.nuforc.org/webreports/reports/114/S114877.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Mount Holly (NJ) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Triangular craft with bright red lights seen over Mount Holly, NJ.We heard a loud roaring noise outside our window early this morning and couldn’t figure out what it was.  It sounded like a really loud jet engine taking off but the sounds was constant.  We listened to it for a few minutes before we decided to get up and see what it was.  I opened the bathroom window and saw two large bright rectangular red lights hovering in the sky to the north of our house.  They were completely still, like nothing we’ve ever seen.  We grabbed our binoculars and looked up at it.  The craft was close enough that we could see details.The two large rectangular red lights were the only thing visible with the naked eye.When looking through binoculars we saw that the craft was triangular with rows of smaller dimmer rectangular red lights.  It hovered in the sky completely motionless for about 30 seconds as we stood outside then it slowly started moving south at the speed of a helicopter.  When it took off, there was an outline of a circle on the top rear of it.  There were no blinking lights.  Never seen anything like this.  I have never reported anything like this, but it was too crazy not to report.  What was this?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103467.html](http://www.nuforc.org/webreports/reports/103/S103467.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/165/S165026.html)
-- [366](http://www.nuforc.org/webreports/reports/165/S165011.html)
-- [365](http://www.nuforc.org/webreports/reports/165/S165101.html)
-- [364](http://www.nuforc.org/webreports/reports/165/S165039.html)
-- [363](http://www.nuforc.org/webreports/reports/160/S160229.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
