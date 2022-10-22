@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:02:46 on 22 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:52 on 22 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in North Topsail Beach (NC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>fast moving large fireballs5 large yellow/orange fireballs moving south to north parallel to shoreline. 150-200 ft above ocean. passed by 1 to 1.5 minutes apart at 80-100 mph. 3/4- 1 mile offshore.  turned slightly offshore at my location and slightly elevated.  out of sight in 15- 20 seconds.  made no noise at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130776.html](http://www.nuforc.org/webreports/reports/130/S130776.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Ottawa (Canada) (ON) reported seeing craft that fit the description of some '' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Intense bright  4xsize star, heading  ESE  opposite tthe nite sky direction at twice the speed for over 10 minutes.Intense  bright star travelling  ESE  for 10 mins at 1 inch  at arms length. seen by eye on the clear nite sky, 3:40 am , Estimated  20degreesv  above the horizon.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93785.html](http://www.nuforc.org/webreports/reports/093/S93785.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/165/S165026.html)
-- [366](http://www.nuforc.org/webreports/reports/165/S165011.html)
-- [365](http://www.nuforc.org/webreports/reports/165/S165101.html)
-- [364](http://www.nuforc.org/webreports/reports/165/S165039.html)
-- [363](http://www.nuforc.org/webreports/reports/160/S160229.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
