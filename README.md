@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:01:24 on 22 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:07:38 on 22 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Dundee (UK/Scotland) () reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>CRAFT WITH EMITTING FLAMESI AM A NIGHT DUTY SECURITY WATCHMAN, WHILE ON PATROL, HEADING BACK TO MY OFFICE I WAS DISTRACTED BY A BRIGHT LIGHT, THERE WAS NO NOISE AT ALL THAT CAME FROM THIS OBJECT, I SEE MANY SHOOTING STARS, THIS OBJECT WAS ABOUT 500FT ROUGHLY ABOVE ME, IT WAS TEARSHAPED WITH RED AT THE FRONT AND YELLOW FROM THE MIDDLE TO THE BACK, IT HAD LIKE A YELLOISH TRAIL VERY LONG, THE SKY WAS COMPLETLY CLEAR, AND I CAN SEE CLEARLY IN ALL DIRECTION, THINKING I WILL DO MY DUTY NATIONAL SECURITY AND ALL, I CALLED RAF LEACHARS FIFE, SPOKE TO THE AIR CONTROLLER, TOLD HIM WHAT I HAD SEEN, IMMEDIENTLY HE SAID AH IT WAS AWSOME THAT SHOOTING STAR, DID YOU SEE IT HOVER??  NO I SAID, I JUST SAW IT ZOOM PAST ABOVE ME,  I SAID TO HIM SINCE WHEN DOES A SHOOTING STAR STOP WHILE TRAVELING AT A THOUSAND MILES AN HOUR TO HOVER, THEN GATHER UP THE SAME SPEED, SHORTLY AFTER MY REPORT I HEARD RAF AIRCRAFT PASSING BY THE SPOT I REPORTED THE SIGHTING,</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59386.html](http://www.nuforc.org/webreports/reports/059/S59386.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Chatham (VA) reported seeing craft that fit the description of some 'Flash' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>Big Flash.Big flash of light outside my window.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32631.html](http://www.nuforc.org/webreports/reports/032/S32631.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/165/S165026.html)
-- [366](http://www.nuforc.org/webreports/reports/165/S165011.html)
-- [365](http://www.nuforc.org/webreports/reports/165/S165101.html)
-- [364](http://www.nuforc.org/webreports/reports/165/S165039.html)
-- [363](http://www.nuforc.org/webreports/reports/160/S160229.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
