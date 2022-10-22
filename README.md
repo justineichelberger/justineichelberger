@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:41:00 on 22 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:24:50 on 22 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Columbus (OH) reported seeing craft that fit the description of some 'Changing' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>White-blue lights over Columbus, OhioThe light started as a single white-blue light then it moved into a V shaped formation after which it seemed to brake apart into smaller independent objects that seemed to stay at the same altitude as it moved from north to south in the sky then the lights moved back toghter and  disappeared into the night sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66383.html](http://www.nuforc.org/webreports/reports/066/S66383.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Mansfield (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>I am sure it was nothing, but I cannot explain it.  I was on my back deck, smoking a cigar, around 23:10 on Oct. 22, 2014.  I was looking at the clouds as they were moving from the NE to the SW.  I saw a green triangle cross my line of sight for approximately 3 seconds, traveling from the East to the West.  I did not hear a sound.  It was traveling at a high rate of speed, in a straight line.  It was a bright emerald green color, with circles of light (the same green color) on each point of the triangle.  It was not an isosceles triangle, but an elongated one.  I am a 56 year old college graduate, who has been clean and sober for over 30 years.  I know very little about UFO's, nor have I ever actively looked for them.  I am just reporting what I saw, in the hopes that someone else saw something similar tonight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114877.html](http://www.nuforc.org/webreports/reports/114/S114877.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/165/S165026.html)
-- [366](http://www.nuforc.org/webreports/reports/165/S165011.html)
-- [365](http://www.nuforc.org/webreports/reports/165/S165101.html)
-- [364](http://www.nuforc.org/webreports/reports/165/S165039.html)
-- [363](http://www.nuforc.org/webreports/reports/160/S160229.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
