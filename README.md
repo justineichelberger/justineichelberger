@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:56 on 21 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:02:46 on 22 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Rockhampton (~ 70kms S of; on Bruce Highway) (Australia) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>I was driving on the Bruce Highway (also known as the National Hwy A1) south near Mt Larcom Queensland around 20:00 and noticed two green lights very high in the sky above and in front of me.  I initially thought it was a plane preparing to land at Rockhampton, which was about 70 kms behind me.  As I kept looking up (between watching the road), I realised that the lights were stationary and just “hanging” there.  After a minute or two I had driven too far to observe them from my front windscreen any more.Then, about five minutes later I observed what appeared to be a motorcycle headlight on high beam coming up behind me on the highway.  It approached very fast again making me think it was a motorcycle.  The light was extremely bright as it approached and only took seconds to travel from way back behind me to a point just behind my car where I noticed that it looked to be about as large around as a basketball or perhaps slightly bigger and intensely bright white.  I was looking back and forth at the road in front of me and in my rear-view mirrors at the light expecting it to pass me when it just went dark.  There was no turnoff and nothing passed me – it was just gone.I pondered what had just happened for several hours as I continued to drive home and resolved to report it as a UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123070.html](http://www.nuforc.org/webreports/reports/123/S123070.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in North Topsail Beach (NC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>fast moving large fireballs5 large yellow/orange fireballs moving south to north parallel to shoreline. 150-200 ft above ocean. passed by 1 to 1.5 minutes apart at 80-100 mph. 3/4- 1 mile offshore.  turned slightly offshore at my location and slightly elevated.  out of sight in 15- 20 seconds.  made no noise at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130776.html](http://www.nuforc.org/webreports/reports/130/S130776.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/165/S165076.html)
-- [355](http://www.nuforc.org/webreports/reports/165/S165046.html)
-- [354](http://www.nuforc.org/webreports/reports/165/S165016.html)
-- [353](http://www.nuforc.org/webreports/reports/165/S165015.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165063.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
