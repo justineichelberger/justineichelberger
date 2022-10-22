@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:42 on 22 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:38 on 22 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Edmonds (WA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 61</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160393.html](http://www.nuforc.org/webreports/reports/160/S160393.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Virginia Beach (VA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright light seen in Virginia Beach  I was taking my dog outside when I saw a bright, cross shaped UFO hovering over my apartment complex. I watched it for a minute or so, then went inside to get a camera but I left my dog outside. When I came back out,the UFO was still there, so I turned on the camera, but by the time I snapped the picture it was gone. My dog was nowhere to be found. Minnie (the dog) always stays close by, so I am convinced that the craft abducted my dog. The craft appeared to have a relatively low altitude, probably 1000ft. There were no discernible features other than the "V" shape and bright lights. I did not hear any abnormal sounds during the entire encounter. I have contacted VA Beach PD and they think I am just a nuisance and will not process my report. I am left with no other options. Please help me. I would prefer to be contacted by email due to the nature of my work. I can't predict who will be around me, and some of my coworkers have been very unsupportive of my situation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66411.html](http://www.nuforc.org/webreports/reports/066/S66411.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/165/S165026.html)
-- [366](http://www.nuforc.org/webreports/reports/165/S165011.html)
-- [365](http://www.nuforc.org/webreports/reports/165/S165101.html)
-- [364](http://www.nuforc.org/webreports/reports/165/S165039.html)
-- [363](http://www.nuforc.org/webreports/reports/160/S160229.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
