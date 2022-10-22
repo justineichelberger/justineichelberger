@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:05:34 on 22 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:04:48 on 22 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Varnville (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>White light that beamed down and beamed up in literally 2 seconds.Although this happened a few years back me and my friends we're sitting in my car around 10:00 pm one night actually talking about were ufos real or not.  We we're smoking weed at the time (which doesnt mean anything at all)  but the funny thing is right after we fnished the convo it was a white light that literally beamed down and beamed back up in 2 seconds in the yard infront of my mother's house.  It was that fast.  None of us said anything after we saw it but a minute later my friend said did ya'll just see that and we were like hell yeah we seen that, of course nobody wanted to sound crazy bringing it up first.  That's how I know aliens do exist, we will never ever forget that night....such a crazy experience.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128186.html](http://www.nuforc.org/webreports/reports/128/S128186.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Kennett Square (PA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Large stationary star-like object that changed shape, emitted color, &quot;danced&quot;, had pieces fall off in form and then get reabsI got up to go to the bathroom when a very bright "twinkling star" caught my eye.  As I stared at it, I realized it was not a star, but a "star color" object that was dancing, jumping, changing shape, emitting colors, making trails, had smaller pieces break off and at one point formed a line and then was reabsorbed.  It was at about 30-40 degrees from the ground looking east -- maybe a tad southeast.  I woke everyone in the house up (4 of us) and we all observed this for about 15 minutes.  It dimmed and faded away, but reappeared when we went back to bed.  Given the meteor activity this week, we all thought that was what we were watching, but then realized that a meteor isn't stationary, but moves at a high rate of speed.  Very exciting and disturbing at the same time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123035.html](http://www.nuforc.org/webreports/reports/123/S123035.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/165/S165026.html)
-- [366](http://www.nuforc.org/webreports/reports/165/S165011.html)
-- [365](http://www.nuforc.org/webreports/reports/165/S165101.html)
-- [364](http://www.nuforc.org/webreports/reports/165/S165039.html)
-- [363](http://www.nuforc.org/webreports/reports/160/S160229.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
