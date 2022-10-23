@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:37 on 23 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:14:03 on 23 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in El Paso (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Objects in the El Paso SkyEvent: At approximately 1300 hrs on 23 October 2011, my wife and I witnessed 6-7 objects to our north in the backyard of our El Paso home.  The objects were in a dispersed pattern with no apparent organization.  The only relationship the objects appeared to have was that they began disappearing at the same time.  The were fairly stationary, moving very little and after watching for approximately 8 minutes, 2-3 objects began to ascend into the sky.  The objects began fading after witnessing for 15 minutes and after 20 minutes they were no longer visible with the naked eye.Object Description: The objects were quite a distance away, perhaps about 10-15 miles away.  They appeared small, but again their exact size was hard to judge from such a distance.  They were very shiny almost appearing as aluminum foil floating in the air.  They were very brilliant as they were visible in the peak of daylight.Weather: The weather was clear, and I do mean clear, I did not count a single cloud in the sky.  The temperature was approximately 87F, with the wind blowing less than 5 knots from the east.Aerial Traffic: I witnessed multiple civilian aircraft going to and from ELP International flowing along their typical landing/departure pattern.  There was also an air show underway at Biggs Army Airfield, the air show was NOT visible from my home.  The craft in the sky were not parachutes, as they did not descend they remained stationary occasionally ascending higher into the sky.  They were also not aircraft flares as they did not descend.  Civilian transport aircraft even seemed to fly amongst the objects at one point to avoid the temporary flight restrictions over Biggs Army Air Field.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84740.html](http://www.nuforc.org/webreports/reports/084/S84740.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in El Paso (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Hello, Tonight I went for my nightly walk and I had a sighting of  2 lights in south east sky over El Paso Texas at 8:06PM, 10/23/08.the sighting was only for 20 second’s or so before the lights  faded out at the same time. The white lights were about the same size as the nearby stars but much brighter. They didn’t move at all, the brightest one was top left the other was bottom right about half inch apart, 45 degrees angle.This isn’t the first time I’ve seen lights in the south east sky over El Paso. About a year ago ( November) around the same time 8 to 9 PM. I’ve seen a very bright light about the size of a green pea, flared out with a black object in the middle.The light lit up the surrounding night sky and shrink down to a very small round white object streaked off .I thought I should file a report..Thanks for your time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66404.html](http://www.nuforc.org/webreports/reports/066/S66404.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165088.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165049.html)
-- [387](http://www.nuforc.org/webreports/reports/165/S165048.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165051.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165023.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
