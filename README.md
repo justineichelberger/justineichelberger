@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:01:26 on 23 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:08:03 on 23 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Mercey Hot Springs/Firebaugh (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>More flashing white lights above Mercey Hot SpringsBasically similar to my previous sighting I reported back on April 30.  I was soaking in the hot tub again at Mercey Hot Springs gazing at the blanket of stars when I saw two flashes of bright white light with no accompanying sound from a moving object flying from southwest to the northeast. It was in the same part of the sky as the last sighting.  I'm wondering if these might be iridium flares?  Also, I saw several shooting stars, a satellite, and numerous planes again to compare it with.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103551.html](http://www.nuforc.org/webreports/reports/103/S103551.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Cuba (SE Coast of, board Sea Princess) () reported seeing craft that fit the description of some 'Other' over a period of approximately ? - ? minutes.</sub><blockquote><sub>Didn't see it while aboard ship.  When had film processed an object appeared that was not noticed.  I am attaching it.  Nobody on the ship at the time said anything about seeing any flying objects.  To be honest, it looks like an ancient wine bottle found in the Mediterranean.  It does not appear to be a flaw on the negative and the frames beside it do hot have the object.((NUFORC Note:  We will attempt to view a copy of the photograph.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17136.html](http://www.nuforc.org/webreports/reports/017/S17136.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165088.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165049.html)
-- [387](http://www.nuforc.org/webreports/reports/165/S165048.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165051.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165023.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
