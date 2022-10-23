@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:25 on 23 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:44 on 23 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Toronto (Canada) (ON) reported seeing craft that fit the description of some 'Flash' over a period of approximately 28:53 - 28:53 minutes.</sub><blockquote><sub>I was just standing out front of work with a client haveing a ciggerette,when we saw two strange flash lights in the northern part of the sky.They were there and gone in seconds.I know they were not man made.((NUFORC Note:  We do not know what time "2853 hrs." would be on the 12-hr. clock.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14660.html](http://www.nuforc.org/webreports/reports/014/S14660.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Honolulu (HI) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Cylinder hovering over honolulu zoo/waikikiI saw with a friend i was driving with. it was funny cause I saw this right after another ufo incident i saw the night before.  The one we saw was a black pod like ufo that was cylindrical in shape and it was black. It just hovered over the honolulu zoo. This was also seen by another friend on kapahulu that was around the same area.  He said that he saw it as a black cylinder/circle once it got over his head and it was right above him.  he also said he saw a type of antenna on it.  It is odd that these sightings are happening right when they are preparing for APEC here.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84772.html](http://www.nuforc.org/webreports/reports/084/S84772.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165088.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165049.html)
-- [387](http://www.nuforc.org/webreports/reports/165/S165048.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165051.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165023.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
