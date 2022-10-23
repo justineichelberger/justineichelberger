@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:14:03 on 23 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:04:31 on 23 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in El Paso (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Hello, Tonight I went for my nightly walk and I had a sighting of  2 lights in south east sky over El Paso Texas at 8:06PM, 10/23/08.the sighting was only for 20 second’s or so before the lights  faded out at the same time. The white lights were about the same size as the nearby stars but much brighter. They didn’t move at all, the brightest one was top left the other was bottom right about half inch apart, 45 degrees angle.This isn’t the first time I’ve seen lights in the south east sky over El Paso. About a year ago ( November) around the same time 8 to 9 PM. I’ve seen a very bright light about the size of a green pea, flared out with a black object in the middle.The light lit up the surrounding night sky and shrink down to a very small round white object streaked off .I thought I should file a report..Thanks for your time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66404.html](http://www.nuforc.org/webreports/reports/066/S66404.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Johannesburg (South Africa) () reported seeing craft that fit the description of some 'Other' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>What can only be described as a comet with multiple light sources (at least three - one large at front and one to the left of the front one and one behind) each having a long luminescent tail. The objects were moving too fast to be aircraft and too slowly to be meteorites. I phoned local ATC and reported the incident (I have never done such a thing before) and they told me that two Pilots reported the same sight at about the same time and there was nothing on radar. The object disappeared from view behind a tree abd then disappeared altogether. If this can be explained - I would sure like to know because I am totally freaked out by what I saw. There was total silence and the the objects were not very high , but not very low either - I cannot gauge in actual feet, but could roughly show the flight path in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10315.html](http://www.nuforc.org/webreports/reports/010/S10315.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165088.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165049.html)
-- [387](http://www.nuforc.org/webreports/reports/165/S165048.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165051.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165023.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
