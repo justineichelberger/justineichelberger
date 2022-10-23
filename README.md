@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:44 on 23 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:34 on 23 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Honolulu (HI) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Cylinder hovering over honolulu zoo/waikikiI saw with a friend i was driving with. it was funny cause I saw this right after another ufo incident i saw the night before.  The one we saw was a black pod like ufo that was cylindrical in shape and it was black. It just hovered over the honolulu zoo. This was also seen by another friend on kapahulu that was around the same area.  He said that he saw it as a black cylinder/circle once it got over his head and it was right above him.  he also said he saw a type of antenna on it.  It is odd that these sightings are happening right when they are preparing for APEC here.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84772.html](http://www.nuforc.org/webreports/reports/084/S84772.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Rio Rancho (NM) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Two events seconds apart at right angles from each other - flashed across the skyTwo flashes along a straight line in the sky in Bernalillo - they looked like they were on a track together so couldn't have been stars... then one flash about 20 seconds later at a right angle from the other two - very weird.  There was no sound associated with them.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123072.html](http://www.nuforc.org/webreports/reports/123/S123072.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165088.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165049.html)
-- [387](http://www.nuforc.org/webreports/reports/165/S165048.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165051.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165023.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
