@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:40 on 23 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:01:26 on 23 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in La Manche (Canada) (NF) reported seeing craft that fit the description of some 'Fireball' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>Straking fireball and green flash light up the sky7pm on the evening of Monday, October 23, I was driving along Route 10 south of the capital St. John’s and all of a sudden the sky lit up with a greenish hue which I mistook for lightning.When I arrived home I saw on social media that people all the way far west as Bonavista Bay, a radius of approximately 300km (175 miles), saw the sky light up green as well.  Many others saw a fireball streaking throughout the sky.  The local Canadian Broadcasting Corporation affiliate covered it as well and showed CCCT footage of a fireball flying over the city.Of course one’s first thought is a meteor however there have been reports on social media that people in the surrounding rural area have seen glowing fluorescent cylinders quietly flying thru the sky in recent nights and around the time of the green flash and the fireball.  It might only be natural phenomena but it is worth noting for sure.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136975.html](http://www.nuforc.org/webreports/reports/136/S136975.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Mercey Hot Springs/Firebaugh (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>More flashing white lights above Mercey Hot SpringsBasically similar to my previous sighting I reported back on April 30.  I was soaking in the hot tub again at Mercey Hot Springs gazing at the blanket of stars when I saw two flashes of bright white light with no accompanying sound from a moving object flying from southwest to the northeast. It was in the same part of the sky as the last sighting.  I'm wondering if these might be iridium flares?  Also, I saw several shooting stars, a satellite, and numerous planes again to compare it with.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103551.html](http://www.nuforc.org/webreports/reports/103/S103551.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165088.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165049.html)
-- [387](http://www.nuforc.org/webreports/reports/165/S165048.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165051.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165023.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
