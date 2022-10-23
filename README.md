@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:08:03 on 23 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:01:01 on 23 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Cuba (SE Coast of, board Sea Princess) () reported seeing craft that fit the description of some 'Other' over a period of approximately ? - ? minutes.</sub><blockquote><sub>Didn't see it while aboard ship.  When had film processed an object appeared that was not noticed.  I am attaching it.  Nobody on the ship at the time said anything about seeing any flying objects.  To be honest, it looks like an ancient wine bottle found in the Mediterranean.  It does not appear to be a flaw on the negative and the frames beside it do hot have the object.((NUFORC Note:  We will attempt to view a copy of the photograph.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17136.html](http://www.nuforc.org/webreports/reports/017/S17136.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Milpitas (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>We saw a orange/yellow circle shaped object  traveling through the sky as fast as a shooting starOn Oct. 23rd 2009 (yesterday) I was with two other friends(we are all university students) waiting for a movie to start near a apartment complex. Around 11:16pm, while having a conversation with my friends I had my head up slightly glancing at the sky. At first I thought I saw a shooting star, and excitedly told my friends, but the duration of the object was in the sky for about 5 seconds, and logically we ruled out the fact it was a shooting star. My two friends saw the last 3 seconds of the object before it went away. They said they saw it suddenly shifted to the right before it vanished. We ruled out that it was a jet or any human aircraft because of the speed it was traveling, no human aircraft could be going that fast. It looked like a shooting star but there was no tail or trail, it was as if the object was a big subtle orange/yellow light traveling through the sky.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72991.html](http://www.nuforc.org/webreports/reports/072/S72991.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165088.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165049.html)
-- [387](http://www.nuforc.org/webreports/reports/165/S165048.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165051.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165023.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
