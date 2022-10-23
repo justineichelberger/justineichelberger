@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:37 on 23 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:39 on 23 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Wartrace (TN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Floating object with red,yellow,green lightsMy daughters and I were getting out of the car when we saw what we thought was a bright star.  As we stared at it it started to float up and then floated right over us.  It had one bright white light and green,yellow,red lights on the bottom that swirled in a circle motion.  It didnt not make any noise at all.It was very hard to see or make out the shape but looked like a circle? If the lights had not been  on we would have never seen it.  There were two of them on the 23rd, but they were out again on the 24th and there was 4-5. Then on the 25th there was about 2 but they were too high up to see. I tried to video them the first night,but when we looked at the video you couldnt see anything..they didnt show up?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93890.html](http://www.nuforc.org/webreports/reports/093/S93890.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Burnley  (Lancashire) (UK/England) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>firey orange object  no soundWe noticed a firey orange object moving in a NW direction stopped and hovered moving left & right making no sound at all then across the sky before it disappeared behind a hill</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59411.html](http://www.nuforc.org/webreports/reports/059/S59411.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165088.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165049.html)
-- [387](http://www.nuforc.org/webreports/reports/165/S165048.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165051.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165023.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
