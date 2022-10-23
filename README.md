@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:53:52 on 23 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:44:29 on 23 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in North Myrtle Beach (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Random lights over the oceanAfter dark, we saw random lights in the sky, directly out over the ocean, going on and off and in different places.  The lights were bright, yellowish, and looked very similar to the landing spotlight of a large airplane. We would see anywhere from 1 to 5 at once, in various random positions, as if a formation of many random aircraft were turning spotlights on and off in no particular patterns or arrangments.  If I had to guess I'd say they were several miles out to sea, but looked as bright as the ones taking off from the Myrtle Beach airport which were much closer. This went on for almost 1 1/2 hours.((NUFORC Note:  Source of report indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69885.html](http://www.nuforc.org/webreports/reports/069/S69885.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Jasper (GA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Oval shaped bright light that seemed to hover back and forth then light would seem to go out and there would be a bright halo around it then it would get extremely bright again then begin to move The smaller one was pretty close to the big one but not as bright and not as active This activity happened on this date October 23, 2015.  At 3:30 till around 5am In Jasper, Ga 30143 In north ga((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123056.html](http://www.nuforc.org/webreports/reports/123/S123056.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165088.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165049.html)
-- [387](http://www.nuforc.org/webreports/reports/165/S165048.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165051.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165023.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
