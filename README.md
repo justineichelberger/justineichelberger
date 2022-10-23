@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:44:29 on 23 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:27:40 on 23 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Jasper (GA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Oval shaped bright light that seemed to hover back and forth then light would seem to go out and there would be a bright halo around it then it would get extremely bright again then begin to move The smaller one was pretty close to the big one but not as bright and not as active This activity happened on this date October 23, 2015.  At 3:30 till around 5am In Jasper, Ga 30143 In north ga((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123056.html](http://www.nuforc.org/webreports/reports/123/S123056.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Orange Beach (AL) reported seeing craft that fit the description of some 'Other' over a period of approximately crash of air craft - crash of air craft minutes.</sub><blockquote><sub>I was listening to a recording on a tape I had recorded a while back you were talking about a air craft that had crashed and could not figure out why only that red marks on the nose of the air craft and it might have been a drone hit it at the same time the air craft went down I and my other half was driving at the end of the road near the water front we found a drone red in color with a dent in the nose and the paint scraped off it had us navy on it I was going to bring the drone home with us but other half said it was to big to fit in the car we left it on the beach this happened while I lived in orange beach I hope this might solve a crash at mobile air port.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141915.html](http://www.nuforc.org/webreports/reports/141/S141915.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165088.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165049.html)
-- [387](http://www.nuforc.org/webreports/reports/165/S165048.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165051.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165023.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
