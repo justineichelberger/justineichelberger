@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:59 on 23 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:53:52 on 23 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in El Paso (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Hello, Tonight I went for my nightly walk and I had a sighting of  2 lights in south east sky over El Paso Texas at 8:06PM, 10/23/08.the sighting was only for 20 second’s or so before the lights  faded out at the same time. The white lights were about the same size as the nearby stars but much brighter. They didn’t move at all, the brightest one was top left the other was bottom right about half inch apart, 45 degrees angle.This isn’t the first time I’ve seen lights in the south east sky over El Paso. About a year ago ( November) around the same time 8 to 9 PM. I’ve seen a very bright light about the size of a green pea, flared out with a black object in the middle.The light lit up the surrounding night sky and shrink down to a very small round white object streaked off .I thought I should file a report..Thanks for your time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66404.html](http://www.nuforc.org/webreports/reports/066/S66404.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in North Myrtle Beach (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Random lights over the oceanAfter dark, we saw random lights in the sky, directly out over the ocean, going on and off and in different places.  The lights were bright, yellowish, and looked very similar to the landing spotlight of a large airplane. We would see anywhere from 1 to 5 at once, in various random positions, as if a formation of many random aircraft were turning spotlights on and off in no particular patterns or arrangments.  If I had to guess I'd say they were several miles out to sea, but looked as bright as the ones taking off from the Myrtle Beach airport which were much closer. This went on for almost 1 1/2 hours.((NUFORC Note:  Source of report indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69885.html](http://www.nuforc.org/webreports/reports/069/S69885.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165088.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165049.html)
-- [387](http://www.nuforc.org/webreports/reports/165/S165048.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165051.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165023.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
