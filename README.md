@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:05:16 on 23 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:33 on 23 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Gulfport (MS) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Huge Red pulsating ball seen in the western sky around 8:35 pm.  Craft was low on the horizon traveling north.  Disappeared and then came back to the same spot about 30minutes later traveling the same path.  Went inside on the second sighting to get my husband to see it too.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130801.html](http://www.nuforc.org/webreports/reports/130/S130801.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Wilmington (DE) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Silent aircraft over Wilmington/Pike Creek.At about 5 am I observed a white circular light in the southwest sky.  At first it looked like a very large, very bright star, but I noticed it was moving.  It was so early in the morning that it was still very quiet outside – no birds chirping, no traffic noise.  I watched the object move from the southwest to the northeast over the Pike Creek area.  It was not a plane or a helicopter.  It made absolutely no sound at all, even as it passed over my house.  It moved very slowly, and low enough in the sky that as it moved over my house I could see not just the circular white light but also red flashing lights.  Many planes fly over this area.  I’ve never experienced any aircraft that could do so without making a single sound – as if it was engine-less and just gliding slowly across the sky.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123079.html](http://www.nuforc.org/webreports/reports/123/S123079.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165088.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165049.html)
-- [387](http://www.nuforc.org/webreports/reports/165/S165048.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165051.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165023.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
