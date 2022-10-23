@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:03:18 on 23 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:25 on 23 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in ((Location unspecified; rural area)) (WY) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.0016666666666666668 - 0.0016666666666666668 minutes.</sub><blockquote><sub>brilliant strobe light at 4am, moving lights, low inthe mountainsAt 4:45am, I was awakened by a brilliant white light, like a strobe only very bright.  It lit up the whole cabin.  I did not know if I was dreaming or not however I have seen this previously, always at 4:30-4:50am.  My companions have also seen this.  There are no neighbors and the forest service borders our property on that side. no neighbors, no nothing that contrbute to this.  No explanation!  On Oct 24 at approx 8pm, dark, no moon, in the mountains saw two lights white and red moving toward me.  I was driving on a road.  Thought it was a plane but very low and lights were flashing.  Object very low over the mountains, no sound.  Thought it was a plane but on reflection there was no flashing beacon and the running lights were flashing which doesn't happen on single engine aircraft.  Still don't know what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66869.html](http://www.nuforc.org/webreports/reports/066/S66869.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Toronto (Canada) (ON) reported seeing craft that fit the description of some 'Flash' over a period of approximately 28:53 - 28:53 minutes.</sub><blockquote><sub>I was just standing out front of work with a client haveing a ciggerette,when we saw two strange flash lights in the northern part of the sky.They were there and gone in seconds.I know they were not man made.((NUFORC Note:  We do not know what time "2853 hrs." would be on the 12-hr. clock.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14660.html](http://www.nuforc.org/webreports/reports/014/S14660.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165088.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165049.html)
-- [387](http://www.nuforc.org/webreports/reports/165/S165048.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165051.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165023.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
