@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:02:23 on 24 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:29:19 on 24 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Roseville (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Fairly large triangular object in the sky with only white lights, one in the middle and at least two smaller faint lights.So I was driving home I saw this white light in the sky, at first I thought it was a star or maybe a helicopter but as I continued to observe it and got closer i saw the lights one bright light in the middle but faint lights on the corners of this triangle-like thing in the sky. I was tempted to record the thing but I was driving and was kinda in shock I guess, only got a view of it as it was passing above me kinda all I could see was it was it was triangle-like and had white lights on it and when I decided to turn around to confirm what I had seen (which was at most 3 minutes) and it was gone, no sight of the thing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150122.html](http://www.nuforc.org/webreports/reports/150/S150122.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Eugen/Cottage Grove (OR) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Black Triangle travelling north along I-5 freeway between eugen and Cottage grove.Traveling south bound on I-5 south of Eugene, halfway to cottage Grove.  The craft was seen on the east side of I-5 traveling North, at a slow rate of speed.  At first, we thought it was a 737, but upon watching it, we noticed right away, the object was black, had an unusual white light traveling from right across to left side and back across-left to tight all the way across, right to left, all the way across.  It was the size of a dime, at arms length, guessing about 3,000 ft altitude, having once been a pilot.  Within 3 minutes, it had crossed from being south of us, to traveling north of us.  At this point we pulled off the freeway into a field, got out to observe.  The triangle was traveling with a wide face forward, pointy part in back.  The most beautiful amber orange light, and red light were on the rear.  At this point, about 3-4 minutes into the sighting, the rear of the craft lifted noticeably, and suddenly vanished as though it changed dimensions.  We watched in all directions, thinking the UFO detected something, but nowhere did we see any other air craft.  Threw ((sic--through)) the entire sighting, we watched others driving by, and it was as if no one else even noticed, or cared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66459.html](http://www.nuforc.org/webreports/reports/066/S66459.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [446](http://www.nuforc.org/webreports/reports/165/S165033.html)
-- [445](http://www.nuforc.org/webreports/reports/165/S165034.html)
-- [444](http://www.nuforc.org/webreports/reports/165/S165047.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165062.html)
-- [442](http://www.nuforc.org/webreports/reports/165/S165035.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
