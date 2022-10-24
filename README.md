@@ -212,7 +212,7 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:29:19 on 24 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:57:14 on 24 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
 ![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Eugen/Cottage Grove (OR) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Black Triangle travelling north along I-5 freeway between eugen and Cottage grove.Traveling south bound on I-5 south of Eugene, halfway to cottage Grove.  The craft was seen on the east side of I-5 traveling North, at a slow rate of speed.  At first, we thought it was a 737, but upon watching it, we noticed right away, the object was black, had an unusual white light traveling from right across to left side and back across-left to tight all the way across, right to left, all the way across.  It was the size of a dime, at arms length, guessing about 3,000 ft altitude, having once been a pilot.  Within 3 minutes, it had crossed from being south of us, to traveling north of us.  At this point we pulled off the freeway into a field, got out to observe.  The triangle was traveling with a wide face forward, pointy part in back.  The most beautiful amber orange light, and red light were on the rear.  At this point, about 3-4 minutes into the sighting, the rear of the craft lifted noticeably, and suddenly vanished as though it changed dimensions.  We watched in all directions, thinking the UFO detected something, but nowhere did we see any other air craft.  Threw ((sic--through)) the entire sighting, we watched others driving by, and it was as if no one else even noticed, or cared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66459.html](http://www.nuforc.org/webreports/reports/066/S66459.html)</i></sub></sub></sub><br>
 <h5><details open>
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [446](http://www.nuforc.org/webreports/reports/165/S165033.html)
-- [445](http://www.nuforc.org/webreports/reports/165/S165034.html)
-- [444](http://www.nuforc.org/webreports/reports/165/S165047.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165062.html)
-- [442](http://www.nuforc.org/webreports/reports/165/S165035.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
