@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:05:19 on 24 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:07:59 on 24 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Bright orange lights appeared above the horizon, only to disappear, then reappear in formation.  Lasted about 30 seconds.A bright orange light appeared just above the horizon (12 o'clock position), facing east, towards the ocean from Highway 17 Business in Restaurant Row.  It disappeared.  No sooner than it disappeared, another bright orange light appeared (2 o'clock position).  If this was a plane, there was no way it could have traveled across the sky to reach this new location in that short of a time span.  The 2nd orange light disappeared.  Within a few seconds another bright orange light appeared above the last position. I had to look up to see this third bright orange light.  No way for a helicopter or a plane to make such a vertical ascent in only a few short seconds.  This third light also vanished.  At this time all 3 witnesses (myself and 2 co-workers) are watching this unfold.  After the third light vanished, in roughly the same position, 4 bright orange lights appeared in a perfectly straight horizontal line, side by side.  This lasted only a couple of seconds unti! l they slowly faded out, one at a time, from left to right.  We cannot explain this.  As far as all 3 witnesses are concerned, this was not any type of plane, helicopter, hot air balloon, or aerial vessel that we have ever seen.  There was no sound, nor did they move in any direction once the lights appeared.  They simply appeared and then vanished, only to reappear in different spots, and then as a whole formation at the end.  This entire process lasted about 30 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93839.html](http://www.nuforc.org/webreports/reports/093/S93839.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Gansevoort (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>1 long object lit up streaked accross the sky meeting a triangle object and disappeared, leaving 4 triangle objects in the sky.Approximately 8 pm 10/24/2020, my daughter and I were walking when we saw a massive line of lights jet accross the night sky from the north to south just above Mount Mcgregor.The sky was very cloudy and a bright moon. Clouds appeared to be moving from northeast to southwest.The line of lights slowed and met with a triangle shaped object with 3 flashing lights, a green hue appeared as the triangle appeared to be rotating slowly.I called for my son to come out. The line of lights disappeared and just 3 lights were visible in the clouds changing white to green in the clouds.We moved to a field without lights to see better.We saw 2 more sets of triangle lights and another some distance away that just move so fast it joined the others.They seemed to just sit there just above the mountain top within the clouds.We watched for another half hour before they disappeared.We drove over the mountain to see if they moved somewhere on the other side, but no luck.We checked through out the rest of the night, no other siting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160202.html](http://www.nuforc.org/webreports/reports/160/S160202.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [446](http://www.nuforc.org/webreports/reports/165/S165033.html)
-- [445](http://www.nuforc.org/webreports/reports/165/S165034.html)
-- [444](http://www.nuforc.org/webreports/reports/165/S165047.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165062.html)
-- [442](http://www.nuforc.org/webreports/reports/165/S165035.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
