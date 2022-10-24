@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:07:29 on 24 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:03:09 on 24 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in New York City (Bronx) (NY) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>UfO over Bronx.Light orb below clouds over Bronx, close to Grand Concourse.  Thought it might be plane but was to low and motionless orb, that did not move.  Turned and then looked back it was no longer there.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123139.html](http://www.nuforc.org/webreports/reports/123/S123139.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in De Soto (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>small yellow-white light seen in De Soto , MOIt was the 24th of October and my friend and I just got done playing a video game. As we were getting ready to head to bed I noticed a small light slightly above the horizon. I pointed it out to my friend to make sure I was not seeing things, as I had seen this light before but a different color and slightly more to the right.  He saw it too; we both stopped and watched it for several minutes.  We turned out all the lights and TV to make sure it wasn’t a reflection, and since I live 13+ miles from town and 2 miles from the nearest person, I knew it wasn’t that. About 4 minutes in we saw the light slowly move back and forth in a half circle motion. We both realized that we were seeing what we were seeing and freaked out and went into another room to see if our buddy who was sleeping would see it. We woke him up and took him in to the room to see if he could see it but the light was gone.This was not the first time this object was seen. I (the one writing this) have seen it outside my house in a field across from my window.  The only thing different is it looked like it was a yellow-blue light when my friend saw it,  but white-yellow when I saw it (about 4 days earlier and 13-14 days before that one). This may sound like a lot of BS but its not and my friend and I would like to know if anyone has seen anything like it in my area (De Soto, Missouri). This is the my first time my friend and I have seen that we cannot explain in any way</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66421.html](http://www.nuforc.org/webreports/reports/066/S66421.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [446](http://www.nuforc.org/webreports/reports/165/S165033.html)
-- [445](http://www.nuforc.org/webreports/reports/165/S165034.html)
-- [444](http://www.nuforc.org/webreports/reports/165/S165047.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165062.html)
-- [442](http://www.nuforc.org/webreports/reports/165/S165035.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
