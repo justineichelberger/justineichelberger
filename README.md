@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:58:19 on 24 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:45:16 on 24 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Toronto (Canada) (ON) reported seeing craft that fit the description of some 'Disk' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>was standing at the balcony of my apartment at the 14th floor of a flat ...   at about 10.30 in the night i saw a green disc which was very bright in colour circling around in the sky at about  100 to 500 feet high.. i was stunned for a moment and ran in to my house and called out my sister to see the ufo .... we both saw it circling around in the sky... there was mist in  the sky at the time ... and as my house was near the pearson airport there were a lot of aircrafts around.. but this was in a circular shape ... bright green in colour and moved around horizondaly in circles.. it was slightly slanded to the right ... after sometime it moved away .. it was about the size of a volkswagen beetle.. and after ints dissapearence ... i was sitting near the balcony reading some booksd ... and suddenly i heard a loud sound and a fast moving object which emmited very bright light moved accross my blcony.. i donot comfirm it to be an ufo as there were some boys out in the park  playin with crackers and other stuff....but the first one is confirmed to be an ufo..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14804.html](http://www.nuforc.org/webreports/reports/014/S14804.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Havertown (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Very Bright ball of light off rt 3 traveling toward Philadelphia rapidly.While driving east on rt 3 saw a BRIGHT red/pink colored ball traveling east faster then I was driving.  Tried to take video but by time I got my iPod out and ready it vanished before my eyes.  It wasn't flashing so I know it wasn't a plane or helicopter.  It seemed pretty low.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84782.html](http://www.nuforc.org/webreports/reports/084/S84782.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [446](http://www.nuforc.org/webreports/reports/165/S165033.html)
-- [445](http://www.nuforc.org/webreports/reports/165/S165034.html)
-- [444](http://www.nuforc.org/webreports/reports/165/S165047.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165062.html)
-- [442](http://www.nuforc.org/webreports/reports/165/S165035.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
