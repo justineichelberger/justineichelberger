@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:11:23 on 24 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:05:19 on 24 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Tulsa (OK) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>3:30am Tulsa sky has 4 objects flashing blue lightsFriends came in and told me to come view the strange sighting og"Blue Lights flashing 4 objects with bright flashing  blue lights circling and appeared to be headed downward. We shined bright lights and they seemed to respond moving closer in our direction.Lights appeared to flash back at us brighter than before. Just came back in and there are 2 objects still visible and still responding  to our laser lights. Time is now 4:06 am and they are still hovering the sky with their flashing blue lights.Standing in the dark of night with no lights. We trie to get a video of them but objects couldn't be visible on video. Strange but well worth the time of trying..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72989.html](http://www.nuforc.org/webreports/reports/072/S72989.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Bright orange lights appeared above the horizon, only to disappear, then reappear in formation.  Lasted about 30 seconds.A bright orange light appeared just above the horizon (12 o'clock position), facing east, towards the ocean from Highway 17 Business in Restaurant Row.  It disappeared.  No sooner than it disappeared, another bright orange light appeared (2 o'clock position).  If this was a plane, there was no way it could have traveled across the sky to reach this new location in that short of a time span.  The 2nd orange light disappeared.  Within a few seconds another bright orange light appeared above the last position. I had to look up to see this third bright orange light.  No way for a helicopter or a plane to make such a vertical ascent in only a few short seconds.  This third light also vanished.  At this time all 3 witnesses (myself and 2 co-workers) are watching this unfold.  After the third light vanished, in roughly the same position, 4 bright orange lights appeared in a perfectly straight horizontal line, side by side.  This lasted only a couple of seconds unti! l they slowly faded out, one at a time, from left to right.  We cannot explain this.  As far as all 3 witnesses are concerned, this was not any type of plane, helicopter, hot air balloon, or aerial vessel that we have ever seen.  There was no sound, nor did they move in any direction once the lights appeared.  They simply appeared and then vanished, only to reappear in different spots, and then as a whole formation at the end.  This entire process lasted about 30 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93839.html](http://www.nuforc.org/webreports/reports/093/S93839.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [446](http://www.nuforc.org/webreports/reports/165/S165033.html)
-- [445](http://www.nuforc.org/webreports/reports/165/S165034.html)
-- [444](http://www.nuforc.org/webreports/reports/165/S165047.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165062.html)
-- [442](http://www.nuforc.org/webreports/reports/165/S165035.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
