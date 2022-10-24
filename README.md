@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:36 on 24 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:01:20 on 24 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Carlsbad (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Shiny Drone like formation object seen by 1UFO sighting on 10/24/2019 in Carlsbad CA around 11:25am  I saw a shiny flying object over North sky at the intersection of Alicante road and Alga road in Carlsbad CA today.I was driving my husband to his appointment around 11:25 am today.  As I was stopping at the traffic light on Alicante Road facing North, I saw a very unusual looking object in the North sky, in the direction right behind the traffic light.  The object looked like a formation of four or five shiny light, almost like a gigantic drone look.  I saw it flying or hovering in the direction of North sky for a couple of second.  Then it disappeared for a few second.  Then it re appeared for another couple of second.  Then disappeared once again.  I had to drive away after the signal turned green, so I don't know if it kept flying over the sky after this.I asked my husband to take a picture of it with his phone while this happened.  But he was not looking at the same direction as I was, so he was not able to take a picture.  He did not see it.I don't think it was a drone because of the size and very random place and time.  If it was a drone flying near the traffic light, I should be able to see as a drone.  This was flying far and high.  It was not a regular airplane nor helicopter I see everyday.  I’ve never seen something like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150120.html](http://www.nuforc.org/webreports/reports/150/S150120.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Burien (WA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>My wife and I were driving back from Trader Joe's when she spotted some lights not moving, just hovering in mid air.I thought she was describing a searchlight that was hitting some clouds,and I told her whatever she was seeing was nothing,and certainly not a UFO.She pointed out,as we were leaving the 509,what she was really looking at.I told her it was just an airplane coming in for a landing,but then noticed it wasn't moving at all,was not at all shaped like a helicopter,and had an array of what looked like manmade landing lights.I don't know if this was seen by anyone else,I haven't found any other reports.It was a very large craft,and it bothers me that no one else has seen this or maybe it's just some kind of hovercraft from Boeing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66439.html](http://www.nuforc.org/webreports/reports/066/S66439.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [446](http://www.nuforc.org/webreports/reports/165/S165033.html)
-- [445](http://www.nuforc.org/webreports/reports/165/S165034.html)
-- [444](http://www.nuforc.org/webreports/reports/165/S165047.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165062.html)
-- [442](http://www.nuforc.org/webreports/reports/165/S165035.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
