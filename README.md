@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:16:09 on 24 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:03:51 on 24 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Downers Grove (IL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bizzare shaped object that looked like the planet Saturn appeared out of nowhere, and dissapearedAt the time of this sighting, I was a junior in High school, Im now about to graduate college.  Im a normal, level headed person, and what i saw that night absolutely freaked me out beyond belief. Me and two friends were just hagning outside my house, when all of a sudden i looked up and saw the most bizzare thing I have ever seen.  This blueish/purple ball with spinning rotating neon rings was just hovering just over the trees in a manner i have never seen. It didnt look like a convential ufo, or a blimp, or plane, and it was eerily silent.  It looked like something from another world!  The thought that it was some type of conventional aircraft never even crossed my mind. I instantly just knew I was looking at something completely out of place. The three of us just freaked out. My friends went to chase it, and I ran inside to get my dad. By the time I came out, they lost it. We were about to go inside, when we saw a a blimp that said 'sanyo'. Traveling in normal blimp fasion, headed westward over I-88.  We then brushed this off as what we saw all along, feeling stupid for waking up my dad, and thinking we saw a ufo.  The wierd thing is we never mentioned it again. 5 years have passed since then, and Im not convinced that what we originally saw was a blimp. Common sense and logic say that it was a blimp that we first saw, but  I know what I saw, and still believe we saw two different objects that night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42046.html](http://www.nuforc.org/webreports/reports/042/S42046.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Dahlgren (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Lightes orb seen failing during the day.Lighted orb falling from the sky, with trailing smoke hit the earth and then about 5 minutes laster another one fell from the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103547.html](http://www.nuforc.org/webreports/reports/103/S103547.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [446](http://www.nuforc.org/webreports/reports/165/S165033.html)
-- [445](http://www.nuforc.org/webreports/reports/165/S165034.html)
-- [444](http://www.nuforc.org/webreports/reports/165/S165047.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165062.html)
-- [442](http://www.nuforc.org/webreports/reports/165/S165035.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
