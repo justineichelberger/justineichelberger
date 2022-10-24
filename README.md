@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:25:25 on 24 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:18:51 on 24 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Tinley Park (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Triangular craft over tinley park illinoisI was exiting I-80 on Harlem aven north. I noticed a pitch black trangle about 45 degrees over the horizon. The craft was moving rather slowly. I can say that because I saw a flock of geese flying in between me and the craft and they were moving much faster than teh craft. The craft slowly turned and I could see that it was truly diamond in shape. I pullled my car over to catch a better glimpse of the ship. The ship turned and flew eastbound and vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39927.html](http://www.nuforc.org/webreports/reports/039/S39927.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in San Antonio (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>3 white lights moving East with a helicopter watching them at a distanceHeading into San Antonio about 15 miles on the outskirts of town approaching Randolph AFB and Shertz area on HWY 78 we noticed 3 circular white lights and a 4th which was what looked to be a helicopter following the lights. The lights were moving West to East and spread out in a perfect line not moving all that fast.  The lights were round white like a headlight but they did not have the red flashing or blue/green lights that normal aircraft have.  They were just solid. They moved about 10 miles to the East with the copter following them.  Then they all stopped moving and then a few seconds later the 3 lights disappeared.  The copter was still hovering like it was watching them, probably sent up by the Air Forrce base. Then they came back on again and kept heading East but I had to go to work and they were further away from us. I had my Fiance with me at the time and she saw them as well. It wasn't normal aircraft as I was raised a military bratt.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47201.html](http://www.nuforc.org/webreports/reports/047/S47201.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [446](http://www.nuforc.org/webreports/reports/165/S165033.html)
-- [445](http://www.nuforc.org/webreports/reports/165/S165034.html)
-- [444](http://www.nuforc.org/webreports/reports/165/S165047.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165062.html)
-- [442](http://www.nuforc.org/webreports/reports/165/S165035.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
