@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:18:51 on 24 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:06:22 on 24 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in San Antonio (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>3 white lights moving East with a helicopter watching them at a distanceHeading into San Antonio about 15 miles on the outskirts of town approaching Randolph AFB and Shertz area on HWY 78 we noticed 3 circular white lights and a 4th which was what looked to be a helicopter following the lights. The lights were moving West to East and spread out in a perfect line not moving all that fast.  The lights were round white like a headlight but they did not have the red flashing or blue/green lights that normal aircraft have.  They were just solid. They moved about 10 miles to the East with the copter following them.  Then they all stopped moving and then a few seconds later the 3 lights disappeared.  The copter was still hovering like it was watching them, probably sent up by the Air Forrce base. Then they came back on again and kept heading East but I had to go to work and they were further away from us. I had my Fiance with me at the time and she saw them as well. It wasn't normal aircraft as I was raised a military bratt.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47201.html](http://www.nuforc.org/webreports/reports/047/S47201.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in West Palm Beach (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.9 - 1.9 minutes.</sub><blockquote><sub>White spherical object standing still in the sky.At around 5:24pm on Saturday, October 24th I was outside taking pictures of the natural landscape as I am prone to do when I spotted a white round object sitting still in the sky at about 90 degrees from the horizon.  The object remained steady at the same spot in the sky and I quickly started taking pictures of it.  I was also able to yell towards the house and both my wife and my daughter ran out and also were able to observe the object while I continued to take more pictures.  Throughout this whole process the object did not move from the location that it was first observed in the sky.I was able to take 26 pictures in RAW and 26 in JPEG before a group of clouds moved in and obscured the object from sight.  Eventually the clouds moved away, however the object was no longer visible in the sky once visibility was clear again.  Strangely enough the object was very similar in appearance to the previous object that I captured on October 11th of this year (as reported to the ufo center previously) except that this time it was not moving.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  We are not able to contact the source of the report, to request the photo.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72998.html](http://www.nuforc.org/webreports/reports/072/S72998.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [446](http://www.nuforc.org/webreports/reports/165/S165033.html)
-- [445](http://www.nuforc.org/webreports/reports/165/S165034.html)
-- [444](http://www.nuforc.org/webreports/reports/165/S165047.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165062.html)
-- [442](http://www.nuforc.org/webreports/reports/165/S165035.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
