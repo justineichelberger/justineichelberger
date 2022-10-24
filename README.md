@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:07:59 on 24 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:36 on 24 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Gansevoort (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>1 long object lit up streaked accross the sky meeting a triangle object and disappeared, leaving 4 triangle objects in the sky.Approximately 8 pm 10/24/2020, my daughter and I were walking when we saw a massive line of lights jet accross the night sky from the north to south just above Mount Mcgregor.The sky was very cloudy and a bright moon. Clouds appeared to be moving from northeast to southwest.The line of lights slowed and met with a triangle shaped object with 3 flashing lights, a green hue appeared as the triangle appeared to be rotating slowly.I called for my son to come out. The line of lights disappeared and just 3 lights were visible in the clouds changing white to green in the clouds.We moved to a field without lights to see better.We saw 2 more sets of triangle lights and another some distance away that just move so fast it joined the others.They seemed to just sit there just above the mountain top within the clouds.We watched for another half hour before they disappeared.We drove over the mountain to see if they moved somewhere on the other side, but no luck.We checked through out the rest of the night, no other siting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160202.html](http://www.nuforc.org/webreports/reports/160/S160202.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Carlsbad (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Shiny Drone like formation object seen by 1UFO sighting on 10/24/2019 in Carlsbad CA around 11:25am  I saw a shiny flying object over North sky at the intersection of Alicante road and Alga road in Carlsbad CA today.I was driving my husband to his appointment around 11:25 am today.  As I was stopping at the traffic light on Alicante Road facing North, I saw a very unusual looking object in the North sky, in the direction right behind the traffic light.  The object looked like a formation of four or five shiny light, almost like a gigantic drone look.  I saw it flying or hovering in the direction of North sky for a couple of second.  Then it disappeared for a few second.  Then it re appeared for another couple of second.  Then disappeared once again.  I had to drive away after the signal turned green, so I don't know if it kept flying over the sky after this.I asked my husband to take a picture of it with his phone while this happened.  But he was not looking at the same direction as I was, so he was not able to take a picture.  He did not see it.I don't think it was a drone because of the size and very random place and time.  If it was a drone flying near the traffic light, I should be able to see as a drone.  This was flying far and high.  It was not a regular airplane nor helicopter I see everyday.  I’ve never seen something like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150120.html](http://www.nuforc.org/webreports/reports/150/S150120.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [446](http://www.nuforc.org/webreports/reports/165/S165033.html)
-- [445](http://www.nuforc.org/webreports/reports/165/S165034.html)
-- [444](http://www.nuforc.org/webreports/reports/165/S165047.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165062.html)
-- [442](http://www.nuforc.org/webreports/reports/165/S165035.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
