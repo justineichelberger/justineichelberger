@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:03:51 on 24 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:03:42 on 24 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Dahlgren (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Lightes orb seen failing during the day.Lighted orb falling from the sky, with trailing smoke hit the earth and then about 5 minutes laster another one fell from the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103547.html](http://www.nuforc.org/webreports/reports/103/S103547.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Hayward (CA) reported seeing craft that fit the description of some 'Cross' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I walked outside with my dogs early wed morning and noticed how bright and pretty the stars were. I noticed a bright bright light up in the sky I watched it and wondered what it was cause it was moving towards me,I thought it might be a plane but it was hovering then it would fly than it hoverd,  by that time it was really close  and I thought its so quite theres know noise not at all then I looked at my dogs and they were looking up at it also it was right above us and all I could see four bright lights and a huge red pusluating light in the center my estimatation it was as long as a football field it was just hovering there in the sky going over my house.I watched  it move away till it was know longer in sight then I ran in the house and noted the time it was 6:08am.((NUFORC Note:  Witness asserts that she is quite familiar with aircraft, and was certain it was not any type of aircraft that she has witnessed before.  She is a very convincing witness.  She and Peter Davenport appeared on the Jeff Rense Program on Thursday night, October 25, 2001.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19954.html](http://www.nuforc.org/webreports/reports/019/S19954.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [446](http://www.nuforc.org/webreports/reports/165/S165033.html)
-- [445](http://www.nuforc.org/webreports/reports/165/S165034.html)
-- [444](http://www.nuforc.org/webreports/reports/165/S165047.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165062.html)
-- [442](http://www.nuforc.org/webreports/reports/165/S165035.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
