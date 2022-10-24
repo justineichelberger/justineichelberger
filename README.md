@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:01:20 on 24 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:36 on 24 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Burien (WA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>My wife and I were driving back from Trader Joe's when she spotted some lights not moving, just hovering in mid air.I thought she was describing a searchlight that was hitting some clouds,and I told her whatever she was seeing was nothing,and certainly not a UFO.She pointed out,as we were leaving the 509,what she was really looking at.I told her it was just an airplane coming in for a landing,but then noticed it wasn't moving at all,was not at all shaped like a helicopter,and had an array of what looked like manmade landing lights.I don't know if this was seen by anyone else,I haven't found any other reports.It was a very large craft,and it bothers me that no one else has seen this or maybe it's just some kind of hovercraft from Boeing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66439.html](http://www.nuforc.org/webreports/reports/066/S66439.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Dayton (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>6-8 glowing objects in the sky disappear after 5 minutes.About 6-8 glowing reddish-orange lights floating in the sky looking East from Linden Ave and Woodman Dr.  They moved across the night sky and then fizzled out after about 5 minutes from first noticing them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123157.html](http://www.nuforc.org/webreports/reports/123/S123157.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [446](http://www.nuforc.org/webreports/reports/165/S165033.html)
-- [445](http://www.nuforc.org/webreports/reports/165/S165034.html)
-- [444](http://www.nuforc.org/webreports/reports/165/S165047.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165062.html)
-- [442](http://www.nuforc.org/webreports/reports/165/S165035.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
