@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:34 on 23 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:02:23 on 24 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Very clear night. I saw what I thought was a largish shooting star falling south to north , as it decended from a little under the airplane flight path level, it's light increased to a brighter orange/red, it seemed to swoop up slightly, excelerate, flash, & dissapear. headed west.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14691.html](http://www.nuforc.org/webreports/reports/014/S14691.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Roseville (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Fairly large triangular object in the sky with only white lights, one in the middle and at least two smaller faint lights.So I was driving home I saw this white light in the sky, at first I thought it was a star or maybe a helicopter but as I continued to observe it and got closer i saw the lights one bright light in the middle but faint lights on the corners of this triangle-like thing in the sky. I was tempted to record the thing but I was driving and was kinda in shock I guess, only got a view of it as it was passing above me kinda all I could see was it was it was triangle-like and had white lights on it and when I decided to turn around to confirm what I had seen (which was at most 3 minutes) and it was gone, no sight of the thing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150122.html](http://www.nuforc.org/webreports/reports/150/S150122.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165088.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165049.html)
-- [387](http://www.nuforc.org/webreports/reports/165/S165048.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165051.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165023.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
