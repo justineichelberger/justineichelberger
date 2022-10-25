@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:03:41 on 25 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:04:15 on 25 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Ft. Gratiot (MI) reported seeing craft that fit the description of some 'Cigar' over a period of approximately  -  minutes.</sub><blockquote><sub>Cigar shape, bright lights, very fast, low.Cigar shaped. Bright white lights near front and rear. No trail behind. NO SOUND! Traveling Southeast to Northwest. Low enough to have trees between us. No leaves on trees. Still dark at this time. Appeared very large and fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73031.html](http://www.nuforc.org/webreports/reports/073/S73031.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Seaside Park (NJ) reported seeing craft that fit the description of some 'Cross' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>2 UFOs at Night come off the ocean flying 500 ft above around silently.2 UFOs came from deep off the horizon at night from the ocean.  They flew faster than any plane I ever say.  They flew interwining paths.  Both had a red light at top and both appeared to be in the shape of a cross with the horizontal arms of the cross the widest.  The cross was all in light.  No sign of any metal craft.  They paused for a second when I waved hello from my porch which was lite up.  When I opened my jacket to pull out my strongest glasses they flew south toward the bird sanctuary which is all forest and deserted.  Both UFOs were silent yet only were about 500 feet off the group and barely 1 full city block away over the ocean.  I thought they were fighter jets because of the red light at top.  However, I realized later they were UFOs since planes do not appear as light in the shape of a cross.  They appeared at first as flying stars.  When I put on my strongest glasses for fine reading I could see the light had a red light on top with a cross shape of white light.  The arms of the cross of light were the widest.  40 years ago my mom and I would watch these UFOs fly high up in the sky.  We have not see any UFOs in the area ever since.  This is the first time they have returned and the first time they fly so low.  A MIG flew by years ago when the President of the USA permitted a MIG to flew across the country.  So my home is a flight path for civilian and military craft.  For this reason I thought the 2 UFOs were USA fighter planes until I realized the crafts were all light and nothing metal formed the crafts.  The red light on top of each craft told me that they must be USA or earth bound crafts so I did not call any authorities.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103577.html](http://www.nuforc.org/webreports/reports/103/S103577.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165060.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165058.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165057.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165059.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
