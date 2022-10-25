@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:29:40 on 25 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:55:36 on 25 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Pawtucket/Rumford (RI) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Diamond shapes in the sky.  Moving side to side. Blinking/flashing at each other. Almost dancing with each other. Zig zagging across the sky.  Two were orange.  One was flashing blue purple red green white.  One was a long white streak downward in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114794.html](http://www.nuforc.org/webreports/reports/114/S114794.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Corinne (UT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>A bright white disk-shaped object flew in veiw.The disk-shaped object had a bulbous protrution on top and below it.  As I looked outside from my bedroom window, the sun was derectly above the roof overhang.  From the West came the very bright object that moved quicker than a bird to the east. It clearly was not a bird nor a plane as it moved up and down as it moved east.  It disappeared from sight going in an upward arch.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10340.html](http://www.nuforc.org/webreports/reports/010/S10340.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165060.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165058.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165057.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165059.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
