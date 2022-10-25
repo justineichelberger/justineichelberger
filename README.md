@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:01:59 on 25 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:01:39 on 25 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Pittsfield (MA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Woke up to a loud train like noise at 4:30AM, I don't live that close to a train track.  I looked out my window to a bright white light not too far in the distance.  The craft looked like a triangle shape with huge lights.  It stayed around for about an hour.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150141.html](http://www.nuforc.org/webreports/reports/150/S150141.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Apex (NC) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two white cylindrical objects sighted above Apex NCTwo white cigar-shaped or cylindrical objects sighted moving at a constant speed, bearing almost due north.  One object was further ahead of the second one, in other words it was further north, and the second object was south west of the first object.  They both appeared to be moving at the same speed.  The size and altitude was not clear, but I would estimate probably 6000 ft or so, because they moved behind or through the low cumulus clouds. They appeared to be the size of a small propeller plane, possibly larger due to perspective. No sound was audible from the objects, and there were no visible contrails or exhaust coming from the objects. The objects appeared to be white, perfect cylinders with a "pinch" in the middle, somewhat similar to the appearance of a single chromatid in a chromosome pair. I did see a glint sunlight reflected so they seem to be reflective. I did not see any lights blinking, flashing or anything other lights on the objects ! or emanating from the objects. Both objects moved north at a constant speed and did not have any erratic movements. The objects were visible for maybe 30-60 seconds as they glided silently before moving out of sight behind the tree line.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150111.html](http://www.nuforc.org/webreports/reports/150/S150111.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165060.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165058.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165057.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165059.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
