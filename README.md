@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:03:08 on 25 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:02:08 on 25 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Vallejo (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>triangle with four circular lights within moved in unorthodox patterns across the sky 4-5,000 feet above our headsIt was evening and my family were walking around outdoors at the Marine World Theme Park in Vallejo, CA. Looking up at the sky I noticed a triangular shaped object slowly moving across the sky. It seemed to be interested in our area on the ground. Probably 4,000 feet in altitude. It would move in different directions, hover, move another direction, hover, move. No noise was emitted from object. There were four distinct circular lights within the triangle. Then all of a sudden it darted at high rate of speed out of sight. Other park visitors witnessed the sighting too. My wife, son and daughter all viewed object as I did. We spoke about it all the way home from Vallejo to San Lorenzo.Never could forget it even to today. Strange sighting but true. Unexplainable. Looked in newspaper the next day but nothing was reported.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42298.html](http://www.nuforc.org/webreports/reports/042/S42298.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Sunapee (NH) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>My family and I were walking on the back roads of Dewey beach my wife and youngest son was about 75 yards ahead of my eldest son and I when we noticed a red light in the shape of an odd circle with another circle in the center appeared on the road in the pitched black roads no street lights but every mile or so I yelled to my wife because my son was screaming it's and eye daddy, the second my wife and youngest son turned around to bring the flashlight back to us it disappeared she brought the flashlight down to us and I looked everywhere for a trail camera, a drone, anything to explain this and there was nothing. Also we have a 1000 lumen flashlight I lit these woods up like daylight to find an explanation but there was nothing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149963.html](http://www.nuforc.org/webreports/reports/149/S149963.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165060.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165058.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165057.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165059.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
