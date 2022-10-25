@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:23:36 on 25 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:16:43 on 25 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Changing' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Viewed a silent, grey, shape shifting ufo fly over the nearby Denver Pepsi Center at 9:36pm.My room mate and I were walking from Capital Hill to the Starz Theatre, next to the Denver Pepsi Center to see an advance screening of "Lions for Lambs".  We are about 5 minutes from the theater when I first noticed  a strange looking object flying overhead.  It was around 9:36pm and the sky was getting dark enough to see the FAA lights on the aircraft, but still bright enough to make out the shape of nearby helicopters and airplanes coming from the nearby Denver International Airport.The object appeared gray in color, no lights, no visible vapor trails, and no sound emitting from the object. It caught my attention because after looking at the flying object for a few seconds, I realized I couldn't pinpoint what type of flying craft it was.  It seemed to look as if though it was flying in a straight motion, but had the appearance it was rotating and changing its position within the flight path. At one moment I thought I could see wings, but it would quickly change into an unrecognizable shape. I also thought that it could have been a bunch of balloons banded together, but i've seen those before. And helium balloons travel upward, this object was traveling in a "straight" pattern, never escalating its height.Another odd factor was that caught my attention was that it was not making any sound. I'd say it was maybe 700-750ft off of the ground, close enough to be able to hear an aircraft sound. I would know that, because other aircraft pass overhead at much higher alltitudes in Denver, and the sounds are easily distinguishable during the time the object was witnessed. And I say 700ft, because the largest building in Denver is the Republic Plaza, which is at 714"ft. And this object was definitely within that range..The Object traveled silently , and eventually just disappeared out of site. That too seemed also a little strange, because the visibility was still clear enough to see aircraft coming too and from the nearby Rocky Mountains. However this craft seem to loose visibility. As it would move farther, the shape would also still keep changing.This will have been my second time seeing UFO in two different States.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59455.html](http://www.nuforc.org/webreports/reports/059/S59455.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Watsonville (CA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node  105</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150304.html](http://www.nuforc.org/webreports/reports/150/S150304.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165060.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165058.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165057.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165059.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
