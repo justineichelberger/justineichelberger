@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:02:08 on 25 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:36 on 25 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Sunapee (NH) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>My family and I were walking on the back roads of Dewey beach my wife and youngest son was about 75 yards ahead of my eldest son and I when we noticed a red light in the shape of an odd circle with another circle in the center appeared on the road in the pitched black roads no street lights but every mile or so I yelled to my wife because my son was screaming it's and eye daddy, the second my wife and youngest son turned around to bring the flashlight back to us it disappeared she brought the flashlight down to us and I looked everywhere for a trail camera, a drone, anything to explain this and there was nothing. Also we have a 1000 lumen flashlight I lit these woods up like daylight to find an explanation but there was nothing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149963.html](http://www.nuforc.org/webreports/reports/149/S149963.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Corinne (UT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>A bright white disk-shaped object flew in veiw.The disk-shaped object had a bulbous protrution on top and below it.  As I looked outside from my bedroom window, the sun was derectly above the roof overhang.  From the West came the very bright object that moved quicker than a bird to the east. It clearly was not a bird nor a plane as it moved up and down as it moved east.  It disappeared from sight going in an upward arch.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10340.html](http://www.nuforc.org/webreports/reports/010/S10340.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165060.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165058.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165057.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165059.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
