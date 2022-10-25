@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:39:02 on 25 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:29:14 on 25 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Frederick (MD) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Caught this image yesterday evening near Frederick, Md.  Was in the sky for about 10 mins and the tail got longer until it went out of sight.Image link:   https://www.facebook.com/photo.php?fbid=10152376230437407&l=defdaa3298((NUFORC Note:  Contrail.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114739.html](http://www.nuforc.org/webreports/reports/114/S114739.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Cozad (NE) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Very pure white bright light came from the N.E changed directions to the west with a arcing 90° turn and disappeared from my view straight down towards ground or horizon (house in the way so couldnt tell if went to ground).  I'm in the town of Cozad.  Object appeared to be within 10-15 miles.  Hard to tell.((ADDENDUM FROM WITNESS))I had one misspelled word (fround, meant ground)  Was nervous forgot to mention speed was beyond anything like a known aircraft  Was 1000 mph or more imo.  Traveled almost like a smooth or fluid type slight wobble.  Hard to put in words.((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143588.html](http://www.nuforc.org/webreports/reports/143/S143588.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165060.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165058.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165057.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165059.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
