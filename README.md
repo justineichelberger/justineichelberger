@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:04:11 on 25 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:06:32 on 25 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Warwick (RI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>3 arrow shaped objects brown in color flying in a triangular formation moving very quicklyAs i was looking up at the sky, stargazing 3 arrow shaped objects flying very closely in a triangular formation flew directly over me on a right to left angle. They traveled very quickly, and if I was to guess I would say at least 2000mph and maybe around 2 to 5 miles up. They went right over providence airport and were a dull brown in color and made no noise. Also, there were no lights visible and it was a crystal clear night. The body and the (wings)were proportionally the same size. All 3 parts of each craft were the same color. Almost like if you put 3 pencils on a table and made an arrow shape. The 3rd craft on right rear flank strayed off slightly to right towards the end of the sighting. Also, A collegue of mine spotted 3 lights on the same night around an hour earlier but was driving around 15 miles north of me towards my direction. The 3 lights formed a triangular formation. We both drive for a living and we both have never seen anything like this.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53109.html](http://www.nuforc.org/webreports/reports/053/S53109.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in St. Paul (MN) reported seeing craft that fit the description of some '' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>5 lights in a row moving quickly across the night sky.Was walking to my house and it was a clear night sky (minus the standard light pollution of the city); I was looking at the stars and I saw at about 5 somewhat dim orange-ish lights moving in a near perfect line across the night sky quite fast.  They moved from about a little past the 12-o'clock point over my head to the south-south east until the disappeared at off the horizon in about 3 seconds.What struck me as odd is the speed at which they moved and that they made no sound (most planes I will hear). In addition they seemed to be moving far too fast for a plane.I have no idea what they were, my best guess is possibly satellites, but 5 or more in a perfect line seemed very odd.  Anyone seen anything like this?((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114813.html](http://www.nuforc.org/webreports/reports/114/S114813.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165060.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165058.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165057.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165059.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
