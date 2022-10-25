@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:02:48 on 25 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:29:40 on 25 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Flushing (MI) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>3 small white circling very fast in oval formation for 10 minutesWhile getting my mail at end of my driveway, I was looking out  eastward toward Flint, there were 3-4 white lights about 1 mile away moving very fast in a circle/oval formation through a thin cloud.  You could see the lights circling really fast  and in the same circle formation for 10 minutes.  At first I thought it was strobe lights, but then realized you cannot see the lights hitting the bottom of the cloud nor the lights through the air.  Just small white lights circling above the clouds.  Creaped me out!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103585.html](http://www.nuforc.org/webreports/reports/103/S103585.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Pawtucket/Rumford (RI) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Diamond shapes in the sky.  Moving side to side. Blinking/flashing at each other. Almost dancing with each other. Zig zagging across the sky.  Two were orange.  One was flashing blue purple red green white.  One was a long white streak downward in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114794.html](http://www.nuforc.org/webreports/reports/114/S114794.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165060.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165058.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165057.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165059.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
