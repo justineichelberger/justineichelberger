@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:14:37 on 25 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:03:41 on 25 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Joliet (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>Saturday Oct 25th About 7:20pm i was driving south on Ridge Rd as i passed Wheeler Rd I first noticed three lights in a triangle formation to just to left of the Ridge Rd. Four times brighter than any background star, this formation was drifting about 20 mph in a southwesterly direction. (formally trained in aerial identification aboard the USS Constellation) My best  guess place the initial formation about 3000ft in the sky. To the right of the road at the same height were additional 10 or more lights about a mile wide in a sporadic line formation.  unfortunately  was i traveling 55 miles a hour on a one lane road with another car closely behind me. i was able to take a photo with my camera phone as these light drifted further in a southwesterly direction. Please note Midway airport is roughly 35 miles east of my location. This formation was not arranged  for a landing pattern, nor traveling in the direction to the  Airport but away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165032.html](http://www.nuforc.org/webreports/reports/165/S165032.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Ft. Gratiot (MI) reported seeing craft that fit the description of some 'Cigar' over a period of approximately  -  minutes.</sub><blockquote><sub>Cigar shape, bright lights, very fast, low.Cigar shaped. Bright white lights near front and rear. No trail behind. NO SOUND! Traveling Southeast to Northwest. Low enough to have trees between us. No leaves on trees. Still dark at this time. Appeared very large and fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73031.html](http://www.nuforc.org/webreports/reports/073/S73031.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165060.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165058.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165057.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165059.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
