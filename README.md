@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:53:56 on 25 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:39:02 on 25 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Plainfield (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I went outside for a cigarette on my front porch.  I heard a crazy sound and immediately got sort of frightended. I looked up and saw a craft flying pretty fast and low towards the north east.  It then took a swooping turn towards what seemed like the Indiana area.  The manueverability was pretty impressive. About 30 seconds later, I saw another craft do pretty much the same thing. I'm sure it was some sort of military craft, but it was nothing that I had ever seen before.  And sound was loud as they approached over my house.  As they got further away, I couldnt hear them anymore. By the lighting on the craft, they apppeared to by triangular.  Could have been a SR-71 Blackbird or so I thought. But after checking out pics of that plane, I would highly doubt it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78566.html](http://www.nuforc.org/webreports/reports/078/S78566.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Frederick (MD) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Caught this image yesterday evening near Frederick, Md.  Was in the sky for about 10 mins and the tail got longer until it went out of sight.Image link:   https://www.facebook.com/photo.php?fbid=10152376230437407&l=defdaa3298((NUFORC Note:  Contrail.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114739.html](http://www.nuforc.org/webreports/reports/114/S114739.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165060.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165058.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165057.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165059.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
