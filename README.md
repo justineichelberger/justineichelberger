@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:15:41 on 25 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:01:59 on 25 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Eastanollee (GA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>While taking my daughter to school, i was looking up as we walked to our car and telling my daughter to look at the stars.  Then suddenly a large bright white light passed overhead at about 1000 feet. the craft was heading north and out of sight in seconds.                                                   With the distance it traveled in seconds, i estimated that it was traveling at around 1350 mph + .  There was no engine sound or sonic boom.  minutes later i saw the blinking lights of a jet at altitude and i could barely hear its engines and the unknown craft was much closer !</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137360.html](http://www.nuforc.org/webreports/reports/137/S137360.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Pittsfield (MA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Woke up to a loud train like noise at 4:30AM, I don't live that close to a train track.  I looked out my window to a bright white light not too far in the distance.  The craft looked like a triangle shape with huge lights.  It stayed around for about an hour.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150141.html](http://www.nuforc.org/webreports/reports/150/S150141.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165060.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165058.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165057.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165059.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
