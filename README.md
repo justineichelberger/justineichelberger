@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:17:21 on 25 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:15:11 on 25 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Jensen Beach (GA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Gold orb sighted over Jensen Beach then disappearedMy mother-in-law called last evening when she saw a large gold orb hovering above the high rise next to her on the beach.  She's on the 18th floor, saw this outside her window, and heard no sound.  She said it did not move.  When she looked again, it was gone.  She called me this evening and said at 7:45 am this morning about 7 people where on the beach just looking around at one spot where she saw the orb.  She said they didn't look "official" but she never saw people on the beach that early.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53102.html](http://www.nuforc.org/webreports/reports/053/S53102.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Forestville (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Flashing Formation - Sonoma County, CaliforniaMy mother came into my room and said she saw a whole bunch of blinking lights in the sky. I went outside and checked... there was a formation of about 10 flashing lights, they did no move, just flashed, repeatedly at a steady pace. they were in the eastern sky and far enough away that i could not record them on film. UFO drawing did not show correctly on first submission, i will email a image drawing of them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53091.html](http://www.nuforc.org/webreports/reports/053/S53091.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165060.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165058.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165057.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165059.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
