@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:02:56 on 26 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:45 on 26 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/10/27/BAG7VFEOC81.DTL((NUFORC Note:  Text of article from the San Francisco Chronicle, October 27, 2005, follows:  --------------------------------------------------------------------------------Strange lights reported all across stateChronicle Staff ReportThursday, October 27, 2005Residents across California and people as far east as Las Vegas reported seeing strange lights in the sky late Wednesday, according to Vandenberg Air Force Base on the central coast. Base command staff at Vandenberg, Travis and Edwards Air Force Bases said there were no military aircraft in the sky that would have caused the lights. The Air Force bases also said there were no test missile launches Wednesday. Such tests have, in the past, resulted in light patterns that can be seen across the California coast. The bases did not send aircraft to check on the reports of lights. The Federal Aviation Administration's West Coast office had no reports of the lights and no aircraft were unaccounted for. San Francisco resident Tim Sinclair said the lights appeared to be near the cross at the top of Mount Davidson Park. Sinclair, who lives near the park, described them as a series of solid lights that appeared to be hovering. When viewed through binoculars, the lights appeared to vibrate, he said((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47245.html](http://www.nuforc.org/webreports/reports/047/S47245.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Frederick (MD) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright light seen with flickering colors within it then faded away.I was smoking a cigarette on my third floor balcony and noticed a bright light that was flickering to my southeast.  I came in and picked up my camera and started to film the light.  Through the camera I was able to see different colors flickering within the bright light. It seems as though you could see some type of structure within the light.  The light got really bright then just faded away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114737.html](http://www.nuforc.org/webreports/reports/114/S114737.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165167.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165103.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165753.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165072.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165066.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
