@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:01:27 on 26 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:40 on 26 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Stevens Point (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I observed a circular yellow-orange-red flashing light go above the tree line straight east of Wal-mart at Hwy 10 and Brilowski RoadI was traveling from the mobil gas station on Hwy 10 East going East towards Wal-mart. I observed a circular yellow-orange-red flashing light looking out my windshield on the left side of my truck. I watched the object go above the tree line straight east of Wal-mart. This sighting took place at Hwy 10 and Brilowski Road in Stevens Point, WI. The object passed from the North over Fleet Farm to the South East over Wal-Mart's parking lot then disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33201.html](http://www.nuforc.org/webreports/reports/033/S33201.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Gila Bend (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>6 Luces ambar en el desierto de Arizona entre Ajo y Gila Bend por aproximadamente 3 minutossomos tres funcionarios del gobierno del estado de sonora, mexico.el 26 de octubre del 2005 andabamos en comision de trabajo y cruzamos la frontera por sonoyta, sonora, para ir a la ciudad de phoenix, arizona a las 6:30 pm. llevabamos aproximadamente una hora de camino cuando en el trayecto entre ajo y gila bend observamos que se prendio una luz ambar bastante intensa y considerablemente a gran altitud entre venus y la osa menor, luego siguieron prendiendo una a una hasta llegar a la cantidad de 6 luces. sorprendidos por el fenomeno ya que estamos seguros eran luces no provenientes de ninguna aeronave o artefacto terrestre emocionados dos de los que ibamos tomamos algunas fotos con nuestros celulares y sorprendidos porque logramos captarlas cuando nos dimos cuenta que empezaron a apagarse en el mismo orden que se prendieron una a una (de derecha a izquierda) y tomamos fotos de esas luces cuando quedaban seis,cuatro, tres, dos y una. estas luces nunca se movieron del mismo lugar y se veia que estaban en alguna formacion por parejas. quedamos sumamentes sorprendidos y queremos poner a dispocicion estas fotografias para que se les hagan los estudios correspondientes y poder determinar que fue lo que observamos esa noche sin luna y con el cielo estrellado, ya que cuando se apago la ultima, por la luz de las estrellas notamos que no habia ninguna silueta de ningun artefacto, porlo que estamos totalmente seguros que fueron ovnis, ademas de el tipo de luz que no tenia estela o as de luz, no como reflector sino como si tuviera luz propia. queremos porfavor que nos ayuden a aclarar este fenomeno tan maravilloso que nos toco apreciar una noche oscura en medio de un desierto. este acontecimiento duro aproximadamente 3 minutos</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47561.html](http://www.nuforc.org/webreports/reports/047/S47561.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165167.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165103.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165753.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165072.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165066.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
