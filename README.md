@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:45 on 26 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:38 on 26 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Frederick (MD) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright light seen with flickering colors within it then faded away.I was smoking a cigarette on my third floor balcony and noticed a bright light that was flickering to my southeast.  I came in and picked up my camera and started to film the light.  Through the camera I was able to see different colors flickering within the bright light. It seems as though you could see some type of structure within the light.  The light got really bright then just faded away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114737.html](http://www.nuforc.org/webreports/reports/114/S114737.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Centreville (MD) reported seeing craft that fit the description of some 'Egg' over a period of approximately ? Driving - ? Driving minutes.</sub><blockquote><sub>2 white  objects, same altitude, hovering, do not move, until you look and they are gone. This is the 2nd time I saw them in Centretreville.((NUFORC Note:  Possible aerostats/blimps?  We have changed the date.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123162.html](http://www.nuforc.org/webreports/reports/123/S123162.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165167.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165103.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165753.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165072.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165066.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
