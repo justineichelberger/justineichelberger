@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:43 on 26 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:40 on 26 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Clarksville (AR) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two of us observed a shiny, silent, cylindrical craft at 5000 feet or less on October 26.On the morning of October 26, two of us observed a shiny cylinder moving NE to SW; this craft was completely silent.It appeared to be under 5000 feet, and was approximately the width of my thumb held out at arm's length.This craft was observed in the Ozark Mountains on the county line between Johnson and Madison counties near the old community of Spokeplant.About 1400 on the same day, at a location about ten to fifteen miles east of our morning sighting, we saw what was apparently the same craft again  -- this time flying silently W to E.At the time of the first (morning) sighting, there were conventional jets flying high overhead and pulling contrails.Even though these jets were so high that we could barely see them, we could hear them clearly.  We could not hear any sound from the cylindrical craft which was much lower, closer, and (apparently) bigger.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20510.html](http://www.nuforc.org/webreports/reports/020/S20510.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Mustang (OK) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Fireballs over Mustang, OKFirst noticed 2 fireballs moving slowly from NW to SE as I was looking sw from my home.By the time I thought to grab my cell phone to document the event they had disappeared behind the clouds.Appx 3-5 minutes later a second formation of two fireballs appeared following the same path.It is the second group that I videoed using My IPhone. I do live appx 10 miles from Will Rogers airport but these objects did not follow any flight path I am familiar with.  I continued observing until these also disappeared behind the clouds.These objects were not far away at a height of appx 2000 feet.  There was no sound associated with these objects.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103701.html](http://www.nuforc.org/webreports/reports/103/S103701.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165167.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165103.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165753.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165072.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165066.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
