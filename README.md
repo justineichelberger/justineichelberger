@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:47 on 26 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:17:56 on 26 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Hooksett (NH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Black Triangle gliding over RT 93Driving northbound on Rt. 93 at approx 6:05am I saw what looked like a shooting star.  Glancing upwards to get a closer look and maybe see another shooting star, to my surprise instead I saw a black triangle gliding southbound about 50 to 75 ft in the sky.  There were 3 circular lights on the bottom of the triangle which was equilateral in shape.  The 3 circles were glowing very dimly and were not radiating much light.  The Triangle was very dark in color and I would have totally missed it if it wasn’t for the shooting star.  I believe that the shooting star may have actually come out of the triangle shaped object, but I can’t be sure since it happened so fast.A few other strange facts about what I witnessed:  The shooting star appeared to shoot sideways and even a little upward which I have never seen before with a shooting star.  Also the same night about 15-20 minutes later I saw two bright "stars" to the bottom left of the constellation Orion.  These stars seemed out of place and were pretty close to one another.  I tried keeping my eyes on the two stars but trees blocked my view since I was driving through a forested area.  Once I broke past the forested area the two stars were gone.  This all happened within a 30 second period from first noticing the stars and to them disappearing.I have to think that someone else must have seen this too since I was not the only vehicle on the highway at the time.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73026.html](http://www.nuforc.org/webreports/reports/073/S73026.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Madison (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>White light chased by two jets from airport.Bright white light flashing in the sky and moving at an incredible rate of speed, heading south east from Westport/Waunakee area.  It flew by going south and then just stopped completely in the air, and eventually started heading back north again. Within a few minutes, two F-16-style jets took off from the nearby airport and went after it, but the white light then went straight up into the clouds and didn't come back.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115110.html](http://www.nuforc.org/webreports/reports/115/S115110.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165167.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165103.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165753.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165072.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165066.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
