@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:37 on 25 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:43 on 26 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Kalamazoo (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>We were on our way home tonight on D Ave.  When in the sky I could see what almost looked like one of those candle lanterns off in the distance.  I could quickly tell as fast as I said what the heck is that, that it was NOT one of those.  It was moving towards us going in the opposite direction we where traveling.  As it got closer and bigger I could totally tell it was not a plane, copter or anything like.It was very bright!!  Like fire orange bright, and it had 3 lights all orange in color on the bottom.  I have no clue what it was and I have not been able to find anything online to explain it.  We quickly turned around in a driveway and tried to chase it, but in the short time it took us to turn around we couldn't find it.  We went all back down the road to 131 expressway with no luck...Lots of jets in the sky because it was a clear night.  But this clearly was WAY to low to be a jet, was not a jet because of the light and man I'm just dumbfounded.  Wondering if others have seen the same thing.  It was just so so bright…</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123146.html](http://www.nuforc.org/webreports/reports/123/S123146.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Clarksville (AR) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two of us observed a shiny, silent, cylindrical craft at 5000 feet or less on October 26.On the morning of October 26, two of us observed a shiny cylinder moving NE to SW; this craft was completely silent.It appeared to be under 5000 feet, and was approximately the width of my thumb held out at arm's length.This craft was observed in the Ozark Mountains on the county line between Johnson and Madison counties near the old community of Spokeplant.About 1400 on the same day, at a location about ten to fifteen miles east of our morning sighting, we saw what was apparently the same craft again  -- this time flying silently W to E.At the time of the first (morning) sighting, there were conventional jets flying high overhead and pulling contrails.Even though these jets were so high that we could barely see them, we could hear them clearly.  We could not hear any sound from the cylindrical craft which was much lower, closer, and (apparently) bigger.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20510.html](http://www.nuforc.org/webreports/reports/020/S20510.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165060.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165058.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165057.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165059.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
