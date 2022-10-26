@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:43 on 26 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:02:56 on 26 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>multiple reddish lights moving quickly through apartment complex in san joseIt looked to me like lights were flying around my apartment complex ... they were sort of going in circles like the big lights you place on the ground and shoot on the sky.  Only these i think had a reddish glow and were about not very big and moved very quickly ... every time i went to watch what was happening nothing was there, but then i would sit back down and see them out of the corner of my eye.  I almost called someone last night but figured she would think i was crazy and then this morning heard on the radio lots of people saw lights.  I live hear the airport and thought it might have been from there but there is no way they could have shined lights into my complex.((NUFORC Note:  Witness elects to remain semi-anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47231.html](http://www.nuforc.org/webreports/reports/047/S47231.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/10/27/BAG7VFEOC81.DTL((NUFORC Note:  Text of article from the San Francisco Chronicle, October 27, 2005, follows:  --------------------------------------------------------------------------------Strange lights reported all across stateChronicle Staff ReportThursday, October 27, 2005Residents across California and people as far east as Las Vegas reported seeing strange lights in the sky late Wednesday, according to Vandenberg Air Force Base on the central coast. Base command staff at Vandenberg, Travis and Edwards Air Force Bases said there were no military aircraft in the sky that would have caused the lights. The Air Force bases also said there were no test missile launches Wednesday. Such tests have, in the past, resulted in light patterns that can be seen across the California coast. The bases did not send aircraft to check on the reports of lights. The Federal Aviation Administration's West Coast office had no reports of the lights and no aircraft were unaccounted for. San Francisco resident Tim Sinclair said the lights appeared to be near the cross at the top of Mount Davidson Park. Sinclair, who lives near the park, described them as a series of solid lights that appeared to be hovering. When viewed through binoculars, the lights appeared to vibrate, he said((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47245.html](http://www.nuforc.org/webreports/reports/047/S47245.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165167.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165103.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165753.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165072.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165066.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
