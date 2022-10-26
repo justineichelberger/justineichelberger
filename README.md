@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:40 on 26 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:45:27 on 26 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Mustang (OK) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Fireballs over Mustang, OKFirst noticed 2 fireballs moving slowly from NW to SE as I was looking sw from my home.By the time I thought to grab my cell phone to document the event they had disappeared behind the clouds.Appx 3-5 minutes later a second formation of two fireballs appeared following the same path.It is the second group that I videoed using My IPhone. I do live appx 10 miles from Will Rogers airport but these objects did not follow any flight path I am familiar with.  I continued observing until these also disappeared behind the clouds.These objects were not far away at a height of appx 2000 feet.  There was no sound associated with these objects.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103701.html](http://www.nuforc.org/webreports/reports/103/S103701.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Manchester (CT) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>A blue flash in the sky that created a power outage.I was looking out the window (It was dark) and a 3 second metalic blue lit up the whole sky.  It created a 30 second power outage.  It was NOT lightning. It had been snowing. The other witness heard a boom.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84934.html](http://www.nuforc.org/webreports/reports/084/S84934.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165167.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165103.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165753.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165072.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165066.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
