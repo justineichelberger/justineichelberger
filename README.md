@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:45:27 on 26 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:33:55 on 26 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Manchester (CT) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>A blue flash in the sky that created a power outage.I was looking out the window (It was dark) and a 3 second metalic blue lit up the whole sky.  It created a 30 second power outage.  It was NOT lightning. It had been snowing. The other witness heard a boom.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84934.html](http://www.nuforc.org/webreports/reports/084/S84934.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Scottsdale (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I heard a very loud noise like a jet engine on the next block.  I looked in that direction (E-NE) and heard a second noise exactly the same and saw an ignited type flash - bright green - streak down from the sky coinciding exactly with the noise.I was standing in my arcadia doorway smoking a cigarette when  we heard an extremely loud noise, my husband describes it as a rocket engine noise, that seemed extremely close.  I stepped out of the doorway to look in that direction and heard a second noise exactly the  same.  At that time I was looking at the horizon (tree top level) and saw a bright green flash ( I did not see the "ignition" it was a flash that had occurred and retained the shape of the flash).  It was like a jagged edged star with many irregular points, like a cartoon explosion.  It was bright green, rimmed with white, and retained that complete shape as it streaked down from the sky.  The streaking downward coincided directly with the loud noise (the noise followed the downward path) until it was below my point of vision.  It did not burn out on it's way down but retained the shape the entire time.  I did not hear a crash or any ending, the noise just quit. From my location at Scottsdale Rd. and McDowell Rd. it would have been approximately over 4 Peaks or maybe a little south of there.  There were very few stars in that direction, and it occured between two stars that are about 2 fingers apart vertically at arms length, and about 6-7 inches above the horizon at arms length.  It started just below the top star and a little to the north, and streamed down at about a 60 degree angle in a northwesterly direction.  The entire episode lasted about 10 seconds.  My husband heard the sound but wasn't out the door quick enough to see it.  I am 39, white female, college educated, and have never seen anything like this before.  I was completely awake, sober and the sky was clear and cool.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04663.html](http://www.nuforc.org/webreports/reports/004/S04663.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165167.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165103.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165753.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165072.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165066.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
