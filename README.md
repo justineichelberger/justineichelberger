@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:36 on 26 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:05:24 on 26 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Smithfield (NC) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Large plane shape crafts no sound just a hummMy husband and I had just lay down, had only been in bed for a little bit we heard a humming sound coming from outside not a loud humm a low humm.  I got out of bed and went to to the window and looked out to see if I could see what was making the noise.  I looked in the sky and saw a very large plane shape craft very low over the trees and moving very very slow, the craft was not moving as fast a planes do around here.I told my husband to go with me outside, so we went out on our front porch, all we could see was a dark out line of the craft, no lights at all and then we looked across there was another plane shaped craft with lights along the wings but not round lights these were like squares patches of lights very bright.  The crafts made only the humming noise no loud plane noises like all the planes that fly across our house from Semore Johnston air force base in Goldsboro always do .We watched the crafts fly low and slow  in the sky one no lights at all and the other with light square on the wings only till the went out of sight heading north toward Rockymont, NC.  Then after they went out of sight my husband went back inside I stood there for a few minutes just watching the sky and  then here came a huge red light round and fast it was out of sight in just a second .I would really like to know what these things are and what the heck is going on, can someone please tell us.((NUFORC Note:  Witness provides no contact information, so we are unable to communicate with her.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143590.html](http://www.nuforc.org/webreports/reports/143/S143590.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Buford (GA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>sky   fire  burning contrailwhile watering my grass, i saw a flash, it lit my whole yard up like daylight, i stopped watering and looked towards the area where the flash started and saw fire in the sky,it was bright enough to see all around as it was burning i noticed a con trail the fire got to the end of the con trail and went out.  thats it.((NUFORC Note:  Witness provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93904.html](http://www.nuforc.org/webreports/reports/093/S93904.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165167.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165103.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165753.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165072.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165066.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
