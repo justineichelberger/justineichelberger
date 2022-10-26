@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:05:24 on 26 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:39 on 26 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Buford (GA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>sky   fire  burning contrailwhile watering my grass, i saw a flash, it lit my whole yard up like daylight, i stopped watering and looked towards the area where the flash started and saw fire in the sky,it was bright enough to see all around as it was burning i noticed a con trail the fire got to the end of the con trail and went out.  thats it.((NUFORC Note:  Witness provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93904.html](http://www.nuforc.org/webreports/reports/093/S93904.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Northfield Falls (VT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately minutes - minutes minutes.</sub><blockquote><sub>Bright orange sphere flew over a small village in Central Vermont, witnessed by three citizens.A few minutes before 7:00 PM this evening, we witnessed a fiery, bright orange sphere flying or floating at a low altitude above the village of Northfield Falls, Vermont.   Against the sky, it looked very large, maybe fifty feet in circumference.  It came from a western direction and proceeded north.  The lights twinkled and (to the naked eye)there seemed to be a silvery ring around the outside.At first its flight seemed steady.  We then saw it stop or hover for 10-20 seconds, and then slowly the light disappeared as if it was vanishing or turning on an angle where the light could no longer be seen.   There was no sound.   Our neighbor was visiting with us on our westerly facing front porch when this occurred.  There were three witnesses in total.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93894.html](http://www.nuforc.org/webreports/reports/093/S93894.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165167.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165103.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165753.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165072.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165066.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
