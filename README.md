@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:21:18 on 26 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:11:08 on 26 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Eloy (AZ) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Formation Lights southwest of phoenix areaHello i am a pilot. I was flying patterns at the Eloy Airport just south of phoenix. While in the downwind for runway 2 I noticed that there was 6-7 amber lights in to the southwest of the airport. I am guessing that they were ranging from 9000MSL to 12000MSL in a formation pattern sloping up from left to right. I believe that they were around 20-50 miles away hard to tell.  A while after i spotted them they slowly started to disappear from left to right one by one. There was two of us and we both saw these objects.I just got home a couple of hours ago and started to do some research on this and found the phoenix lights.  My sighting was very similar. One last thing i dont know if this has any relation but a couple of mins after the lights we witnessed what looked like a small meteror or something of that sort about 100-200 yards from the aircraft.  There were some other aircraft in the area anyone else see anything?((NUFORC Note:  We spoke with this witness via telephone, and we found him to be an exceptionally good witness.  He provided a seemingly quite accurate azimuth to the lights, which suggests to us that they could have been over the Gila Bend Firing Range.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47225.html](http://www.nuforc.org/webreports/reports/047/S47225.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Potomac (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>STEADY RED LIGHT GOING EAST TO WESTSTEADY RED LIGHT THE SIZE OF THE NORTH STAR, MOVING EAST TO WEST, VERY FAST, VERY HIGH.  I HEARD AIRCRAFT ENGINES, BUT COULD NOT BE SURE IF THERE WAS ALSO AN AIRPLANE IN THE VISINITY. THE SOUND WAS SIMILAR TO THE F-14.  IS THERE SOME KIND OF MILITARY AIRCRAFT THAT ONLY HAS RED LIGHTS AND DO NOT BLINK?((NUFORC Note:  All ships and aircraft are required to have a red light on the left (port) side, and a green light on the right (starboard) side during nighttime operations.  This allows other craft to be able to identify which direction another craft is heading so a collision can be avoided.  We suspect, given that the witness heard engine noise, that she witnessed a fast-moving aircraft, perhaps a military fighter.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20001.html](http://www.nuforc.org/webreports/reports/020/S20001.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165167.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165103.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165753.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165072.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165066.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
