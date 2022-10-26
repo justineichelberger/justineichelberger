@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:11:08 on 26 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:43 on 26 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Potomac (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>STEADY RED LIGHT GOING EAST TO WESTSTEADY RED LIGHT THE SIZE OF THE NORTH STAR, MOVING EAST TO WEST, VERY FAST, VERY HIGH.  I HEARD AIRCRAFT ENGINES, BUT COULD NOT BE SURE IF THERE WAS ALSO AN AIRPLANE IN THE VISINITY. THE SOUND WAS SIMILAR TO THE F-14.  IS THERE SOME KIND OF MILITARY AIRCRAFT THAT ONLY HAS RED LIGHTS AND DO NOT BLINK?((NUFORC Note:  All ships and aircraft are required to have a red light on the left (port) side, and a green light on the right (starboard) side during nighttime operations.  This allows other craft to be able to identify which direction another craft is heading so a collision can be avoided.  We suspect, given that the witness heard engine noise, that she witnessed a fast-moving aircraft, perhaps a military fighter.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20001.html](http://www.nuforc.org/webreports/reports/020/S20001.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>multiple reddish lights moving quickly through apartment complex in san joseIt looked to me like lights were flying around my apartment complex ... they were sort of going in circles like the big lights you place on the ground and shoot on the sky.  Only these i think had a reddish glow and were about not very big and moved very quickly ... every time i went to watch what was happening nothing was there, but then i would sit back down and see them out of the corner of my eye.  I almost called someone last night but figured she would think i was crazy and then this morning heard on the radio lots of people saw lights.  I live hear the airport and thought it might have been from there but there is no way they could have shined lights into my complex.((NUFORC Note:  Witness elects to remain semi-anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47231.html](http://www.nuforc.org/webreports/reports/047/S47231.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165167.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165103.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165753.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165072.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165066.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
