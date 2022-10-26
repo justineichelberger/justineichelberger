@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:39 on 26 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:44 on 26 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Endfield (ME) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Thinking a plaine was on fire,untill it turned 90 degresse and disapated to nothing, all in 2 mins.one fire ball from south, heading north, after watching for about one min.then turning to the west, slowly fading out for about one more min.no sound no other colors. After it disapeared, a meteor fell in the south west, very cool to see, but very eary as well.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93943.html](http://www.nuforc.org/webreports/reports/093/S93943.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Tumwater (driving N on I-5) (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Large Blue Fireball with a tail flying in a northern direction.  This object was not a typical falling star. The object than disappeared .My wife and I were driving in our Mini-Van traveling northbound on I-5.  We were about 25 miles just south of Tumwater traveling about 60-65 MPH.  We both noticed a large blue fireball appeared flying overhead     (Note: the object came into view through our windshield passing our vechicle in the sky heading in a northern direction.)  The fireball was in sight for both of us to witness before disappearing.  At approx 18:45 we also observed 4 flashes of blue light as if a storm was of in the distance. The flashes of light were about 2-3 minutes apart.  No clouds were in the sky and no storm conditions present    These blue flashes were in the northern sky.  At this point we were were still driving on I-5 inroute to Seattle.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04666.html](http://www.nuforc.org/webreports/reports/004/S04666.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165167.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165103.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165753.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165072.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165066.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
