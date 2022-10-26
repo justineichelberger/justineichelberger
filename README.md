@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:44 on 26 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:47 on 26 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Tumwater (driving N on I-5) (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Large Blue Fireball with a tail flying in a northern direction.  This object was not a typical falling star. The object than disappeared .My wife and I were driving in our Mini-Van traveling northbound on I-5.  We were about 25 miles just south of Tumwater traveling about 60-65 MPH.  We both noticed a large blue fireball appeared flying overhead     (Note: the object came into view through our windshield passing our vechicle in the sky heading in a northern direction.)  The fireball was in sight for both of us to witness before disappearing.  At approx 18:45 we also observed 4 flashes of blue light as if a storm was of in the distance. The flashes of light were about 2-3 minutes apart.  No clouds were in the sky and no storm conditions present    These blue flashes were in the northern sky.  At this point we were were still driving on I-5 inroute to Seattle.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04666.html](http://www.nuforc.org/webreports/reports/004/S04666.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Hooksett (NH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Black Triangle gliding over RT 93Driving northbound on Rt. 93 at approx 6:05am I saw what looked like a shooting star.  Glancing upwards to get a closer look and maybe see another shooting star, to my surprise instead I saw a black triangle gliding southbound about 50 to 75 ft in the sky.  There were 3 circular lights on the bottom of the triangle which was equilateral in shape.  The 3 circles were glowing very dimly and were not radiating much light.  The Triangle was very dark in color and I would have totally missed it if it wasn’t for the shooting star.  I believe that the shooting star may have actually come out of the triangle shaped object, but I can’t be sure since it happened so fast.A few other strange facts about what I witnessed:  The shooting star appeared to shoot sideways and even a little upward which I have never seen before with a shooting star.  Also the same night about 15-20 minutes later I saw two bright "stars" to the bottom left of the constellation Orion.  These stars seemed out of place and were pretty close to one another.  I tried keeping my eyes on the two stars but trees blocked my view since I was driving through a forested area.  Once I broke past the forested area the two stars were gone.  This all happened within a 30 second period from first noticing the stars and to them disappearing.I have to think that someone else must have seen this too since I was not the only vehicle on the highway at the time.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73026.html](http://www.nuforc.org/webreports/reports/073/S73026.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165167.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165103.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165753.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165072.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165066.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
