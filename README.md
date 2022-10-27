@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:02:20 on 27 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:41 on 27 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Was up late Wednesday night, early Thursday morning, and went out to the alley behind my apartment in Northwest Portland (Around NW 23rd Ave) for a cigarette before bed when I noticed two lights in the sky. One orange-ish red, the other blue-ish green. There was no other light so I couldn't make out a shape but these lights were not separate entities they were definitely both apart of the same object.At first I shrugged it off as an aircraft, turned the other way and finished my cigarette. 2 or 3 minutes later when I turned to go back inside I looked back to the North and the aircraft was still in the same location. I stood and observed it for another 2 or 3 minutes and watched as it seemed to hover in place.My next instinct told me because of the size of the lights, much larger and brighter than any of the closest stars, that it was at a lower altitude, and because of this and the fact it was hovering I assumed it might be a helicopter. However there was no audible engine noise which would be impossible for an Aircraft this size at this altitude. Unless of course I have serious hearing impairment which I do not.Another remarkable thing about this object was that the lights were near perfect spheres, no blurring, blinking, or flashing. Just nearly perfect luminescent spheres. Also the Orangeish and Greenish lights were the only lights I observed. No blinking lights on the belly or tail like you'd come to expect from a commercial or passenger Aircraft.Lastly the position of the object would've placed it between Forest Park and downtown Portland, in my opinion a precarious, and somewhat suspicious position for any conventional aircraft to be flying, especially considering it's somewhat low estimated attitude.To end, I'd like to add that I worked nearly 2 years as ground crew at Portland International Airport. During my time there I've worked on all types of aircraft from small commuter planes to Airbus 330's. I'd like to think of myself as fairly knowledgeable when it comes to identifying the various Aircraft the fly in and out of PDX. However I could not identify this as a conventional aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85055.html](http://www.nuforc.org/webreports/reports/085/S85055.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Honolulu (HI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1:28 - 1:28 minutes.</sub><blockquote><sub>Breaking the sound barrier in line formation for individual cylinder flashing light objects</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123187.html](http://www.nuforc.org/webreports/reports/123/S123187.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/165/S165082.html)
-- [291](http://www.nuforc.org/webreports/reports/165/S165093.html)
-- [290](http://www.nuforc.org/webreports/reports/165/S165087.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165129.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
