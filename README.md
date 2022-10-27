@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:01:44 on 27 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:01:21 on 27 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Wilmington (NC) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Large Black Rectangle - 2 white lights - 1 red slow pulsing lightI walked out to close our garage. The sky was mostly clear with some low level patchy clouds moving quickly due to the cold front moving through. I looked up and noticed a black rectangle silhouette against the night sky. The only lights were two white lights on each back corner and one red slow pulsing light on the rear right between the two white lights. It was dead silent. It actually sent chills up my back b/c it was not normal. I'm very in tune with military jets and aircraft in general. I have friends that fly military planes...this was no plane...no airline...no blimp. The size of it and the fact that it was completely quiet is was gave me chills. At first I thought it could be a blimp...but the black outline against the night sky was definitely a rectangle. It was moving very slow if it was at a low altitude...maybe a bit faster than the clouds were moving? When it passed over our house, it was almost directly overhead...maybe just a few degrees off. The altitude was hard to determine. To me it seemed to be flying at the height that the airlines fly across the city to land at the local airport...only it moving away from town towards the direction of Kinston, NC. If it was flying at the altitude of airlines, then it must have been massive. The wind is blowing out of the S towards the N at about 13mph. The rectangle was kind of moving with the direction of the wind....crossing the wind just a bit. If I had to guess the size, it would be like holding up a dominio against the sky with your hand. It was defintely above the low lying clouds..maybe about the height of a low flying airline across a city to land (only example! I can think of). It was moving from South to North. I ran inside and yelled for my wife to come out. It was worth me missing a few seconds of watching it to have a 2nd witness. She got to see it for the last 20-30 seconds as it continue away from our house over the tree line in the back of our yard. I attempted to video it with my Flip HD but was unable to catch it in time. I jumped in the car and attempted to drive towards it in the direction it was moving. I could still see the pulsing red light off in the distance. As I drove towards it, the red pulsing light seemed to change direction and move towards the Northwest. It continued to get further away as I got stuck at several traffic lights. Finally it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78588.html](http://www.nuforc.org/webreports/reports/078/S78588.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Kaneohe (HI) reported seeing craft that fit the description of some '' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>SYMBOLIC CONTRAILS OVER KANEOHE THAT LOOKED LIKE SQUARES AND ARCSVERY STRANGE CONTRAIL SHAPED IN SQUARES AND TWO ARCHES. THEY WERE 90 DEGREES FROM EACHOTHER IN PERFECT SQUARES AND LONG LINES JOINING THEM. IT LOOKED LIKE SYMBOLS OF SOME KIND.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73039.html](http://www.nuforc.org/webreports/reports/073/S73039.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/165/S165082.html)
-- [291](http://www.nuforc.org/webreports/reports/165/S165093.html)
-- [290](http://www.nuforc.org/webreports/reports/165/S165087.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165129.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
