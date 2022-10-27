@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:47 on 27 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:29:51 on 27 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Rohnert Park (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Horseshoe flat disklike craft with oval shaped white strobing head lamps with pale yellow lights each outer edge.I was going home headed south west in 6:00 traffic. I was on a very busy street with no place to pull over. As I was waiting in a rather long left turn lane for some reason I felt compelled to look up  and what I saw was what looked like a pair of flying eyes coming almost directly toward me but is was actually to the right of me. I realized I was looking at a flying object that I could not Identifiy.  I was in lot of traffic but none the less I kept looking at it untill it passed on the right. What I called eyes were oval white lights  that were strobeing back and forth from their ends to the center and back again. They were not doing this quite at the same time giving the impression of a nano second where one was not lit. At the outer edge of these lights there were very pale small yellow lights that stayed on. This object was very low and it looked as it was actually moving beneath the tree but it was I think about 300 feet above the trees and it made absolutely no sound. It was moving very very slowly it looked like it was floating . It went by me and I could not see it to many trees I turned arount to follow it but when I got to a clear space and I could see the sky there was nothing there  nothing! I have the feeling this craft might have been kind of a flat horse shoe shape. I will send you a drawing. I called the police department but they had not had ant other reports. I had the feeling I saw a bight blue thin band of color kind of outlining the lights((NUFORC Note:  We spoke with this witness, and she seemed to us to be exceptionally credible and serious-minded.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32743.html](http://www.nuforc.org/webreports/reports/032/S32743.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Harleysville (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I saw a red light flying through the sky at a very high speed.  My first thought was it can't be a plane because it was not blinking, and traveling way way too fast.  It was a single red dot and I watched it fly directly towards me and as soon as it got right above me it disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78587.html](http://www.nuforc.org/webreports/reports/078/S78587.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/165/S165082.html)
-- [291](http://www.nuforc.org/webreports/reports/165/S165093.html)
-- [290](http://www.nuforc.org/webreports/reports/165/S165087.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165129.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
