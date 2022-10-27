@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:41 on 27 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:48 on 27 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Moorhead (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately Hours - Hours minutes.</sub><blockquote><sub>Multiple circular rotating lights.Multiple rows of multiple circular lights that rotated around a center point.  Lighting was faint behind clouds in the sky.  The lights would appear about every 5 seconds and last for about 3 seconds.  Someone said that they were just the northern lights, but I have never seen the northern lights appear as rotating circles that appear every 5 seconds.  He said that he has seen these lights before so this isn't the first sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103611.html](http://www.nuforc.org/webreports/reports/103/S103611.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Viroqua (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Perfectly straight line left behind by a light traveling through the sky.We were driving home at approximately 2:40am when we saw a light traveling from north to south. It crossed the entire sky in a matter of minutes.  After the light was gone a single thin laser like trail remained in the sky for another minute or so.  This line was perfectly straight and stable.  You could actually see it curve away with the radius of the atmosphere.  There was no burning or anything, not like anything any of us have seen before.There were four of us in the car, we also called two of our friends and they confirmed that they saw the same phenomenon.  Also keep in mind that all of us have seen a satellite before, and this object was traveling several times faster than that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150037.html](http://www.nuforc.org/webreports/reports/150/S150037.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/165/S165082.html)
-- [291](http://www.nuforc.org/webreports/reports/165/S165093.html)
-- [290](http://www.nuforc.org/webreports/reports/165/S165087.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165129.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
