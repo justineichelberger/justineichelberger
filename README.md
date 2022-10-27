@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:43 on 27 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:41 on 27 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Milwaukee (WI) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Slow moving glowing cylinder, yet flat on bottom, going east with white light a third way back.Cigar shaped UFO siting, 10/27/2012, Milwaukee, WI.  As I was going out on Saturday, 10/27/2012, sometime between 9-10 pm, to see a band in Milwaukee, WI, on  Halloween (also Sandy storm) weekend, I noticed a large cigar shaped illuminated cylinder, floating very high up, going west to east directly above my house located a few miles north of I-94, 5 miles west of downtown.  The diameter to length ratio was about 1:8.It was misty, with clouds, yet I could see the object fairly well, traveling similar or slower than a typical aircraft. While mainly cylindrical, it seemed to have a flat bottom, was glowing, but most distinctly had a white light on the side about a third of the way back, and overall seemed brighter near the rear.  A friend in the Kickapoo Valley in SW Wisconsin, also mentioned seeing the same craft earlier that night traveling west to east.Ironically, earlier that day, I dropped off information of my first UFO sighting in the NY Hudson Valley in 1985 (could not recall the specific date, but was mild day in the spring, summer or early fall before dusk) to a local Milwaukee MUFON contact.  He provided me two forms in 2008, and I finally wanted to get them back to him.  I am not sure if he believed my sighting of the saucer shaped UFO, and/or actually processed the information I provided.  While searching online, I found a website describing a similar situation that may have been the person that I met during my siting, who drove up in a maroon van, from the east and turned south onto the road in front of my house, who said he had been tracking same craft for 40 minutes.Additionally, I saw online that similar Cigar shaped sightings happened a week before on Oct 15, 2012,  in Huntsville, AL, and TN, Oct 16 in Pike, Kentucky, during the day,  ((Male's name deleted)) photographed a translucent cylinder, with two lights on side a third of the way back, using a camera on a telescope, Oct 17 in Virginia, and Oct 18 in Gardiner, NY, equal distance apart over the 4 day time span.Also, a few years later, I was on the Coast to Coast radio show and spoke with guest John Lear.  I have a ((degrees deleted)) in Engineering, worked for ((major corporation)) 9 years and was a brewing consultant/ brewer for over ten years.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144835.html](http://www.nuforc.org/webreports/reports/144/S144835.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Moorhead (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately Hours - Hours minutes.</sub><blockquote><sub>Multiple circular rotating lights.Multiple rows of multiple circular lights that rotated around a center point.  Lighting was faint behind clouds in the sky.  The lights would appear about every 5 seconds and last for about 3 seconds.  Someone said that they were just the northern lights, but I have never seen the northern lights appear as rotating circles that appear every 5 seconds.  He said that he has seen these lights before so this isn't the first sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103611.html](http://www.nuforc.org/webreports/reports/103/S103611.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/165/S165082.html)
-- [291](http://www.nuforc.org/webreports/reports/165/S165093.html)
-- [290](http://www.nuforc.org/webreports/reports/165/S165087.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165129.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
