@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:18:20 on 27 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:09:29 on 27 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Murrells Inlet (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>White light with a blue shield scanning Murrells Inlet.I was looking south east from my bedroom window with my girlfriend.  We then saw a white light in the sky.  It was traveling very fast to the east and all of the sudden instantly reversed direction.  It would have killed a person from the g-forces.  It then turned on a blue light that I can only explain as a blue shield around it.  You could still see the white light in the center.  It then started flying in circles and loops as if it were scanning the area and headed east over the horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165087.html](http://www.nuforc.org/webreports/reports/165/S165087.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Burlington (VT) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>three sightings, one time very close, second time boomerang shape very high up, third time triangle shape two witnesses, burlington vtSo we were outside, watching the skies for the lunar eclipse, and then not near the moon, we spot a very dark massive object flying quite low over our heads, maybe 200 feet, it was like a sideways mcdonalds arch but the arched parts were wider angles - hard to describe, but no lights at all. moving pretty slowly too however it was making no noise at all, very creepy and then it disappeared into the sky. The second sighting was 20 minutes later, it was much much higher up in the sky, we saw it in a boomerang shape, again no lights no sound, it just seemed like the city lights were making it visible and there was no top light due to the lunar eclipse. it seemed to have a dot on each wing. The third sighting was about 30 minutes after that and it was in a triangle shape, flew over our heads and then did this amazing maneuver in the sky, it turned while the dots rotated, a bit mind blowing to see an object do this. then again it faded into the night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39994.html](http://www.nuforc.org/webreports/reports/039/S39994.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/165/S165082.html)
-- [291](http://www.nuforc.org/webreports/reports/165/S165093.html)
-- [290](http://www.nuforc.org/webreports/reports/165/S165087.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165129.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
