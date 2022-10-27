@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:48 on 27 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:15:36 on 27 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Viroqua (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Perfectly straight line left behind by a light traveling through the sky.We were driving home at approximately 2:40am when we saw a light traveling from north to south. It crossed the entire sky in a matter of minutes.  After the light was gone a single thin laser like trail remained in the sky for another minute or so.  This line was perfectly straight and stable.  You could actually see it curve away with the radius of the atmosphere.  There was no burning or anything, not like anything any of us have seen before.There were four of us in the car, we also called two of our friends and they confirmed that they saw the same phenomenon.  Also keep in mind that all of us have seen a satellite before, and this object was traveling several times faster than that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150037.html](http://www.nuforc.org/webreports/reports/150/S150037.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Brockport (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>triangular ufo with 30 or more lights disappering and reappering in differant spotsMe and 3 people coming home for rochester on rt 531 when i noticed about 30 large circular firery balls of light in a triangle form just above tree line. soon as we could get off the thurway and pull over it went to one light than that one light went out and about 1min later lite back up and the light began to move than go back to its original spot than it would move again up or down than go back to its spot than it would go out. we got back in the car and about 20 miles down the rode seen the single light again moving in to differant spots up,down sideways than went out.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78597.html](http://www.nuforc.org/webreports/reports/078/S78597.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/165/S165082.html)
-- [291](http://www.nuforc.org/webreports/reports/165/S165093.html)
-- [290](http://www.nuforc.org/webreports/reports/165/S165087.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165129.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
