@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:46 on 27 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:40 on 27 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Bayonne (NJ) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Cylinder type of object hovering on top of the water with bright light beams.While driving on 440 RT south, the light illuminated the entire sky for about 2-3 seconds before shutting off.  The object appeared to be of cylindrical shape, the light was emitting from its center and the lights were very strong.At first, I thought it was lightning, but the source of the light was coming from the object itself.After 2-3 seconds, it shut off.  And then reappeared within 5 seconds for another 2-3.  Did not see the light after that.  All of this took place between the Stop & Shop area and Port Terminal Blvd.Lat/Lon: 40.6678177,-74.1049185((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130897.html](http://www.nuforc.org/webreports/reports/130/S130897.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Victorville (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Fast moving pinpoint of light moving and maneuvering unlike any aircraft knownI was sitting in my jaccusi looking up in the sky from my jacussi chair when I saw a very fast pin point of light  coming fron the north to south,  It caught my attention,  I followed it w/my eyes. It slowed down very rapidly in an area to my knowledge which looked like over the mountians (Wrightwood) veered west in a sharp turn for a few seconds very fast as if getting a bearing and then continue south again dissapearing heading south.  Total time in view was about 8-10 seconds and  covered lots of area across the sky.  Altitude unknown! In my viewpoint I assertained that from the angle of the sun I must have seen the underside of the ufo reflecting the sunlight as it was setting in the sky.  I have an A&P licence with about 13 years exp in the field of avaition.  I have worked for Alaska Airlines as an inspector and TWA as an aircraft mechanic the last 8 yrs.  Military helicopter exp as well. This object was followed up around 10 minutes later by a military jet of unknown type...possibly a f16 coming from the west to east direction along the same path very slowly.  No other incidents noted as I continued to look for a few minutes longer. This is the second time in my life I have seen somthing this nature. I am also an amature astronomer with aprox 8yrs exp. This was not an aircraft of common knowledge.  No strobeing lights were seen on the aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66489.html](http://www.nuforc.org/webreports/reports/066/S66489.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/165/S165082.html)
-- [291](http://www.nuforc.org/webreports/reports/165/S165093.html)
-- [290](http://www.nuforc.org/webreports/reports/165/S165087.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165129.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
