@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:01:32 on 27 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:40 on 27 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Green Brook (NJ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>White oval UFO following plane over NJ, Move to side then in front going west.Three planes in sky with vapor trails, then oval white orb appeared to follow one of the planes going west.  The UFO followed the one plane above it.  Then it moved behind the plane. It had no vapor trail.  The UFO moved from above to below plane them went behind it and then followed it as it moved above and below it, then the UFO moved above it, then to the right front of plane it was slightly smaller the plane in size.  I thought that there would be a collision because it moved to the front of the plane (VERY CLOSE) then it moved up and disappeared west bound.  There must have been people in the plane or pilots must have seen it.  The sky was clear and blue.  The UFO stood out very clear from my location.  It whole thing was about 8 minutes.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137010.html](http://www.nuforc.org/webreports/reports/137/S137010.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Hampton (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>While observing the lunar eclipse from the Courtyard Marriott parking lot (off of Coliseum Dr.) moments ago, I had my first UFO sighting.  After lowering the binoculars I was using on the moon, I glanced directly overhead and saw two quasi-pinpoint objects moving in not quite parallel directions from north to south.  The twin objects were about half-a-fist-at-arms-length apart.  They covered the angular distance from zenith to about 30-degrees above the horizon in about five to six seconds.  The objects disappeared behind a layer of high cirrus to the south. The objects were not exactly spheres of light.  They had a bright-white central pinpoint of light surrounded by a thin faint white halo that seemed to scintillate just slightly.  The halos were probably less than half a pinky fingernail in diameter.  Couldn't get the 12X binocs on the objects quick enough to get a bead on them. While I was watching the two objects pass overhead, they moved closer to one another and one changed course about ten degrees and veered away from the other after closest approach.  The objects were not travelling at the same speed.  The one that made the quick and abrupt course change seemed like it was playing catch up with the other.  It was just abeam its twin when it made the sudden course change and then accelerated slightly ahead of the one that maintained a more or less steady course and speed. At first I thought these might be jets from Langley AFB which is less than three miles away, but the objects were entirely silent with no obvious conventional nav lights.  They behaved like no polar-orbiting satellites I've ever seen. I watched the area of the sky into which the objects disappeared for quite some time hoping to see them return.  No luck.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40276.html](http://www.nuforc.org/webreports/reports/040/S40276.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/165/S165082.html)
-- [291](http://www.nuforc.org/webreports/reports/165/S165093.html)
-- [290](http://www.nuforc.org/webreports/reports/165/S165087.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165129.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
