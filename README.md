@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:01:21 on 27 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:01:32 on 27 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Kaneohe (HI) reported seeing craft that fit the description of some '' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>SYMBOLIC CONTRAILS OVER KANEOHE THAT LOOKED LIKE SQUARES AND ARCSVERY STRANGE CONTRAIL SHAPED IN SQUARES AND TWO ARCHES. THEY WERE 90 DEGREES FROM EACHOTHER IN PERFECT SQUARES AND LONG LINES JOINING THEM. IT LOOKED LIKE SYMBOLS OF SOME KIND.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73039.html](http://www.nuforc.org/webreports/reports/073/S73039.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Green Brook (NJ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>White oval UFO following plane over NJ, Move to side then in front going west.Three planes in sky with vapor trails, then oval white orb appeared to follow one of the planes going west.  The UFO followed the one plane above it.  Then it moved behind the plane. It had no vapor trail.  The UFO moved from above to below plane them went behind it and then followed it as it moved above and below it, then the UFO moved above it, then to the right front of plane it was slightly smaller the plane in size.  I thought that there would be a collision because it moved to the front of the plane (VERY CLOSE) then it moved up and disappeared west bound.  There must have been people in the plane or pilots must have seen it.  The sky was clear and blue.  The UFO stood out very clear from my location.  It whole thing was about 8 minutes.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137010.html](http://www.nuforc.org/webreports/reports/137/S137010.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/165/S165082.html)
-- [291](http://www.nuforc.org/webreports/reports/165/S165093.html)
-- [290](http://www.nuforc.org/webreports/reports/165/S165087.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165129.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
