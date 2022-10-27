@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:41 on 27 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:46 on 27 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Honolulu (HI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1:28 - 1:28 minutes.</sub><blockquote><sub>Breaking the sound barrier in line formation for individual cylinder flashing light objects</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123187.html](http://www.nuforc.org/webreports/reports/123/S123187.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Bayonne (NJ) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Cylinder type of object hovering on top of the water with bright light beams.While driving on 440 RT south, the light illuminated the entire sky for about 2-3 seconds before shutting off.  The object appeared to be of cylindrical shape, the light was emitting from its center and the lights were very strong.At first, I thought it was lightning, but the source of the light was coming from the object itself.After 2-3 seconds, it shut off.  And then reappeared within 5 seconds for another 2-3.  Did not see the light after that.  All of this took place between the Stop & Shop area and Port Terminal Blvd.Lat/Lon: 40.6678177,-74.1049185((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130897.html](http://www.nuforc.org/webreports/reports/130/S130897.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/165/S165082.html)
-- [291](http://www.nuforc.org/webreports/reports/165/S165093.html)
-- [290](http://www.nuforc.org/webreports/reports/165/S165087.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165129.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
