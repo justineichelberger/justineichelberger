@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:09:49 on 27 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:37 on 27 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Siletz (OR) reported seeing craft that fit the description of some '' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Woman & 3 witnesses rpt stat. obj flashing white, green, red lights.  Zigzags dramatically. (Reptd. 02NO95 obj. not visible in sky.)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00926.html](http://www.nuforc.org/webreports/reports/000/S00926.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Murfreesboro (TN) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately  -  minutes.</sub><blockquote><sub>Orange-yellow hovering lights with cylinder above each.There were eight to ten objects, all exactly the same.  They were lights, orange-yellow in color (more orange than any other light I had ever seen in the sky) and very bright with what appeared to be a very solid center - the light did not waiver or flicker.  Above each light was a white, cylindrical shape.  It was much dimmer; most likely being lit by the light source below.  They were in what would initially be described as a non-identifiable pattern until you looked at them long enough to realize that they were all staying in the same distance from each other - not one moved up, down, left, or right of any other.   This was supported by the fact that there was a light wind, yet none of the objects were drifting individually or moving in a direction separate from any of the others.  They appeared to be moving down at one point, but it was barely noticeable and brief.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93908.html](http://www.nuforc.org/webreports/reports/093/S93908.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/165/S165082.html)
-- [291](http://www.nuforc.org/webreports/reports/165/S165093.html)
-- [290](http://www.nuforc.org/webreports/reports/165/S165087.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165129.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
