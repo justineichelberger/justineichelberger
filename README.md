@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:44:02 on 27 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:30:56 on 27 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Kilgore (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>It appeared as a light in the sky such as a star but then it took off very fast.As I was returning home from work at 1:00 am 10/27/11, I saw something in the sky that was still for a minute or so, then it took off very fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84965.html](http://www.nuforc.org/webreports/reports/084/S84965.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Granbury (TX) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>One saucer in the sky, late at night.My friend and I were walking late at night outside of his home, and as we reached the near end of our walk we looked up and viewed a UFO in the sky.  We both asked if the other had seen what we thought we'd seen, agreed, and headed home.  The craft itself was in the shape of a disk, it had eight lights on the bottom part of it.  The crafts upper part was a gray color, and the bottom part with the lights appeared to be black.  (It was late at night so it might be another color, but I was unable to see what it was).  The experience wasn't very long, the craft moved to the right from it's original position, made a small circle, moved left, then seemed to disappear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66509.html](http://www.nuforc.org/webreports/reports/066/S66509.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/165/S165082.html)
-- [291](http://www.nuforc.org/webreports/reports/165/S165093.html)
-- [290](http://www.nuforc.org/webreports/reports/165/S165087.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165129.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
