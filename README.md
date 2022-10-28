@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:48:51 on 28 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:33:47 on 28 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Chenango Forks (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Winged, circular pewter colored craft, w/ 4 lighted dangling appendages (like legs),  dark horizontal port (viewing?) on upper portionWinged {short, stubby curved), circular pewter colored craft, w/ 4 lighted (numerous steady red & amber) dangling appendages (like legs), approximately the size of a mini-van. Craft hovered in place about 50 or 60 feet above the next parking spot, noticed a dark horizontal port (viewing?) on the upper portion of the bubble.  May have just taken off.Was returning from a relaxed trip to store on a nice sunny fall day. Stopped vehicle engine about 15 feet from parking spot and opened the driver's side window to listen, did not hear anything. Then I opened car door, but do not recall anything after that until I awoke in my living room chair with my glasses still on.No reports were made to law enforcement due to local disbelief & stigma. Was unable to obtain photos w/ digital camera as felt in a 'frozen' state This report made after possible 2nd visit by the creatures was made at 0130 on 26 Feb 09, am scared they may be coming again.((NUFORC Note:  Source of report indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68992.html](http://www.nuforc.org/webreports/reports/068/S68992.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Astoria (OR) reported seeing craft that fit the description of some 'Formation' over a period of approximately 4320.0 - 4320.0 minutes.</sub><blockquote><sub>3-5 red, green and white lights flying in formation mimicking a plane or helicopter flying less than 100 ft above and made no sound.I happen to be outside and noticed a low flying (less than 100 ft.) what I thought was a helicopter or plane and realized it was neither in a field at my home.  There were at least 4 or 5 vehicles flying in formation mimicking the lights of a plane or helicopter.  Although, I could hear a jet above but couldn't see it, the formation made no sound as I filmed the video a few minutes later and the jet had passed.  I had seen it the prior two days in another field in front of my home.  In the last 3 mo.  I have witnessed roughly 30 or so different types of crafts that are not of this world around my home following an encounter I had with a different UFO and aliens or beings on Sept. 23, 2015, in which my car was disabled on hwy 101.  Prior to that I had never witnessed a UFO let alone it's occupants.  Since then, I continually see UFOs virtually everywhere I look usually in the night sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123978.html](http://www.nuforc.org/webreports/reports/123/S123978.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/165/S165153.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165152.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165206.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165128.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165078.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
