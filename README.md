@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:50 on 28 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:02:18 on 28 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Medanales (NM) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I saw a chartreuse green fireball with a trail of orange sparks as I was driving on the night of Oct. 28, 2008.On the night of October 28, at 19:38, I was going northwest on highway 84 in Northern New Mexico.  I was at milepost 204, near the town of Medanales, when a large chartreuse green fireball appeared to my right, to the east of me, about halfway up the night sky.  This fireball was trailing a trail of orange sparks.  If I were to use my thumb and hold it about 4 inches from my face, and squint with one eye, the fireball was the size of my thumb, and the orange trail of sparks was twice the length of my thumb.  This fireball suddenly appeared.  I was driving 60 miles per hour, and it was zooming on by, traveling horizontally in the same direction as I was, proceeding northwest at what appeared to be 100 miles an hour.Just as soon as I said, "Good God!  What in the heck is that thing?"  The fireball suddenly vanished as soon as it appeared.  The entire event was over within two minutes.I have never seen a two-colored meteor, and this thing was whizzing along horizontally, going parallel to the horizon, which is odd behavior for a meteor, in my opinion.  As I say, this thing appeared to be halfway up in the night sky, suddenly appeared, and suddenly disappeared.  It did not  disappear by burning out.Very strange!((NUFORC Note:  We spoke via telephone with this witness, just a few minutes after the event, and we found her to be an exceptionally good witness, given her ability to report the facts surrounding the event in a mature, objective, and factual manner. Because the object appeared to the witness to be "shedding" sparks, we assume that the object was a typical, bright meteor.  However, we are uncertain what the object was, given the other sightings that were reported from across the U. S. on the same night.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66566.html](http://www.nuforc.org/webreports/reports/066/S66566.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Manhattan (KS) reported seeing craft that fit the description of some 'Changing' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Six  bright yellow lights in kite, backward "L" and diamond formationsIt is 28 October 2008. I drove home from work at 1800 hours along 1-70 interstate highway from Topeka, Kansas to Manhattan, Kansas. At approximately 1850 hours I saw six bright yellow lights in the sky in a backwards "L" formation. Perfect formation and not moving nor admitting any pollutants in the sky as an airplane would. The "L" formation turned in a perfect kite formation and continued to beam yellow light.  The first light of the kite formation was brighter than the rest. Slowly they faded away but never lost their perfect formation. I pulled off the side of the road because I couldn’t believe what I was seeing.  My husband said it could be helicopters (he was not with me).  I’ve been around Army sikorsky UH-60 helicopters and numerous types of aircraft in my 13 years of military experience and never saw such perfect still lights in the sky that simply faded away.If anyone else saw this on the night of 28 October 2008, I-70 Interstate Highway near Manhattan Kansas, please input your entry. Thank you all for reading this entry.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66507.html](http://www.nuforc.org/webreports/reports/066/S66507.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/165/S165153.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165152.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165206.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165128.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165078.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
