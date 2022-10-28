@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:37 on 28 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:41 on 28 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Marietta (GA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Sky changed color in several bright flashes.The entire sky changed color red green and purple illuminating heavy cloud cover for the entire field of vision.  The event was in progress when I was told to observe, I do not know how long it had been going before it was noticed.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93938.html](http://www.nuforc.org/webreports/reports/093/S93938.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Tarentum (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>UFO outside over New Kensington PA and Tarentum.I was outside and I saw area of Light blinking Red,White,Tannish Colors. I went in a told my mother she came outside and we watched for a couple minutes. The UFO was huge and going left to right bunch of times. We saw a car pull in and we said that we saw this area glow up and blink. They came over looked and saw the light they said it was a plane because it just started to move and look like star and this UFO because it was a distance away and I have seen a UFO in this place before.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59495.html](http://www.nuforc.org/webreports/reports/059/S59495.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/165/S165153.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165152.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165206.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165128.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165078.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
