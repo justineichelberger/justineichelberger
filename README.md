@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:02:18 on 28 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:37 on 28 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Manhattan (KS) reported seeing craft that fit the description of some 'Changing' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Six  bright yellow lights in kite, backward "L" and diamond formationsIt is 28 October 2008. I drove home from work at 1800 hours along 1-70 interstate highway from Topeka, Kansas to Manhattan, Kansas. At approximately 1850 hours I saw six bright yellow lights in the sky in a backwards "L" formation. Perfect formation and not moving nor admitting any pollutants in the sky as an airplane would. The "L" formation turned in a perfect kite formation and continued to beam yellow light.  The first light of the kite formation was brighter than the rest. Slowly they faded away but never lost their perfect formation. I pulled off the side of the road because I couldn’t believe what I was seeing.  My husband said it could be helicopters (he was not with me).  I’ve been around Army sikorsky UH-60 helicopters and numerous types of aircraft in my 13 years of military experience and never saw such perfect still lights in the sky that simply faded away.If anyone else saw this on the night of 28 October 2008, I-70 Interstate Highway near Manhattan Kansas, please input your entry. Thank you all for reading this entry.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66507.html](http://www.nuforc.org/webreports/reports/066/S66507.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Marietta (GA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Sky changed color in several bright flashes.The entire sky changed color red green and purple illuminating heavy cloud cover for the entire field of vision.  The event was in progress when I was told to observe, I do not know how long it had been going before it was noticed.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93938.html](http://www.nuforc.org/webreports/reports/093/S93938.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/165/S165153.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165152.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165206.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165128.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165078.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
