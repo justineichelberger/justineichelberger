@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:16:17 on 28 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:09:00 on 28 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Malshej Ghat (India) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>UFOs Sighted in IndiaHi, I am ((name deleted)) and reside in Mumbai, India. I am 38 years old, married and we have a daughter ((deleted)) years old.Yesterday, the 28th of October 2003 I went for a short holiday with my family to Malshej Ghat. At a resort there. At about 4 am we were awakened because we had lost electricity and it was very hot inside the hotel room. We opened the balcony door and sat there a while. Soon my daughter noticed that the valley overlooking the balcony was lit up by a pale white light. It was like a dull white floroscent glow. Soon it faded out and we were confused. Then we noticed that a 'star' was moving overhead. It was fast but not as fast as a shootng star. At first we thought it was an aircraft but then realized that aircrafts have blinking/strobe lights. This was a star moving at high speed. Then we noticed another big star moving left to right slowly. Again this was hard to believe but then we noticed that as compared to other starts in that area this was the only one moving. Soon this bright star lost its light and faded away. After a lot of thought, discussion and debates I am convinced that this was a sighting of two UFOs. I am an intellegent person with a sound mind and would readily accept if I think I have made a mistake. This was not one. I am sure and convinced about this sighting.Please feel free to email me on ((e-address deleted))  Thank you ((name deleted))((NUFORC Note:  We wonder whether the objects might have been satellites, but that is only a guess.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32721.html](http://www.nuforc.org/webreports/reports/032/S32721.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Baldwin Park (CA) reported seeing craft that fit the description of some 'Cross' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>It was like a cross with angle arms one bright light and red light above it.  It was outside and I saw it, shocked and came inside to grab my phone and when I was pointing at it, it went further into distance but stood near my home.  I went outside to front and as I moved from one end of the house to the other it moved as it if was following me, and I had my mother witness.  There were about 4 around or near my house.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123214.html](http://www.nuforc.org/webreports/reports/123/S123214.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/165/S165153.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165152.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165206.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165128.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165078.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
