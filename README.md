@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:53 on 28 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:37 on 28 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Victoria (Canada) (BC) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I saw a light travel faster and at angles I've never witnessed before.I was sitting (facing east..my friend faced north)in an outdoor hot tub at our beach front home on Cordova Bay Road in Victoria BC mid day/3-4pm. I saw a light travelling faster than anything I've ever witnessed, come straight down out of the sky between 2 islands, then make a right angle and disappear behind an island 1-2 miles off shore.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34336.html](http://www.nuforc.org/webreports/reports/034/S34336.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Little Rock (AR) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>My wife an observed a cylindrical metal body craft that was flying a course from South to North or slightly Southwest to Northeast. The craft was flying a direct course. The craft appeared to be metal and was shiny. The craft made no noise that we could hear. The craft had no wings. We looked at the craft with binoculars, and both  agreed that we could not tell what it was. It was a relatively low altitude, 10,000 feet or under. Several airplanes were flying overhead, and all had contrails, but the craft we were seeing had no contrail. If you would like to contact me, please do so by e-mail.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19992.html](http://www.nuforc.org/webreports/reports/019/S19992.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/165/S165153.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165152.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165206.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165128.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165078.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
