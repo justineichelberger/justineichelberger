@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:59 on 28 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:29:32 on 28 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Laurel (MD) reported seeing craft that fit the description of some 'Circle' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>PLEASE IF ANYONE SAW THIS PLEASE CONTACT MR DAVENPORT!!!!  The time was 9:30 PM in Laurel Md.  There is a lot of air traffic here, so you get used to lights in the sky.  But this was different.  Dull red/white light, so hard to see you almost have to look to the right or left of it to see the light.  Sometimes brighter, then duller.  It took a good 5 minutes to go halfway across the sky, really slow for any plane or satellite.  I actually went back inside the house for 30 seconds, came back out and it was still slowly going from east to west.  This is where it gets really scary. Hear this.  A jet from BWI is heading in the same direction as this object. I thought to myself, could be a collision. Same direction, mind you.  As the jet gets within about 1/2 mile overtaking the object, it suddenly gets slightly brighter, then\ blinks out.  Just like that.  As if someone turned the light out.  I kept watching. the jet went directly past where the light would have been.  I stayed outside for a good 15 more minutes to see if I could see the light. Nothing.  Did anyone else see this?  Did BWI know about this??  What is going on in this area??????</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14810.html](http://www.nuforc.org/webreports/reports/014/S14810.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Sherbrooke (Canada) (QC) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Two bright  lightsIt was a sunny day with a few clouds. I was  driving home when I saw in the sky, two very bright light coming towards me and they were quite large, similar to headlights on a car. Suddenly the lights stopped, then I saw an object shaped like a tear drop moved very quickly and vanish within seconds</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165102.html](http://www.nuforc.org/webreports/reports/165/S165102.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/165/S165153.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165152.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165206.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165128.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165078.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
