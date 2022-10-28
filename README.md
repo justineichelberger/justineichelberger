@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:29:32 on 28 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:48:51 on 28 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Sherbrooke (Canada) (QC) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Two bright  lightsIt was a sunny day with a few clouds. I was  driving home when I saw in the sky, two very bright light coming towards me and they were quite large, similar to headlights on a car. Suddenly the lights stopped, then I saw an object shaped like a tear drop moved very quickly and vanish within seconds</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165102.html](http://www.nuforc.org/webreports/reports/165/S165102.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Chenango Forks (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Winged, circular pewter colored craft, w/ 4 lighted dangling appendages (like legs),  dark horizontal port (viewing?) on upper portionWinged {short, stubby curved), circular pewter colored craft, w/ 4 lighted (numerous steady red & amber) dangling appendages (like legs), approximately the size of a mini-van. Craft hovered in place about 50 or 60 feet above the next parking spot, noticed a dark horizontal port (viewing?) on the upper portion of the bubble.  May have just taken off.Was returning from a relaxed trip to store on a nice sunny fall day. Stopped vehicle engine about 15 feet from parking spot and opened the driver's side window to listen, did not hear anything. Then I opened car door, but do not recall anything after that until I awoke in my living room chair with my glasses still on.No reports were made to law enforcement due to local disbelief & stigma. Was unable to obtain photos w/ digital camera as felt in a 'frozen' state This report made after possible 2nd visit by the creatures was made at 0130 on 26 Feb 09, am scared they may be coming again.((NUFORC Note:  Source of report indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68992.html](http://www.nuforc.org/webreports/reports/068/S68992.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/165/S165153.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165152.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165206.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165128.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165078.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
