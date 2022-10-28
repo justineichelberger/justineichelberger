@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:01:22 on 28 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:50 on 28 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in International Falls (MN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>round ball that looked like fire with flashing bottom falling out of the sky.I was driving around town with my friend in International Falls, Minnesota and we both suddenly saw a orange sphere fall from the sky.  It made it from the sky to the tree area in about 5 seconds. It looked like a ball of fire but the bottom of it was flashing.  All it really did was fall from the sky we sort of looked for it but couldn't find anything so it must have went into a field or something.  It also made a loud noise like a airplane would for just a second until it reached ground area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78609.html](http://www.nuforc.org/webreports/reports/078/S78609.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Medanales (NM) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I saw a chartreuse green fireball with a trail of orange sparks as I was driving on the night of Oct. 28, 2008.On the night of October 28, at 19:38, I was going northwest on highway 84 in Northern New Mexico.  I was at milepost 204, near the town of Medanales, when a large chartreuse green fireball appeared to my right, to the east of me, about halfway up the night sky.  This fireball was trailing a trail of orange sparks.  If I were to use my thumb and hold it about 4 inches from my face, and squint with one eye, the fireball was the size of my thumb, and the orange trail of sparks was twice the length of my thumb.  This fireball suddenly appeared.  I was driving 60 miles per hour, and it was zooming on by, traveling horizontally in the same direction as I was, proceeding northwest at what appeared to be 100 miles an hour.Just as soon as I said, "Good God!  What in the heck is that thing?"  The fireball suddenly vanished as soon as it appeared.  The entire event was over within two minutes.I have never seen a two-colored meteor, and this thing was whizzing along horizontally, going parallel to the horizon, which is odd behavior for a meteor, in my opinion.  As I say, this thing appeared to be halfway up in the night sky, suddenly appeared, and suddenly disappeared.  It did not  disappear by burning out.Very strange!((NUFORC Note:  We spoke via telephone with this witness, just a few minutes after the event, and we found her to be an exceptionally good witness, given her ability to report the facts surrounding the event in a mature, objective, and factual manner. Because the object appeared to the witness to be "shedding" sparks, we assume that the object was a typical, bright meteor.  However, we are uncertain what the object was, given the other sightings that were reported from across the U. S. on the same night.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66566.html](http://www.nuforc.org/webreports/reports/066/S66566.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/165/S165153.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165152.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165206.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165128.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165078.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
