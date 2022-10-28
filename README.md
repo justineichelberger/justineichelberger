@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:35 on 28 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:39 on 28 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Waco (TX) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Possible planes on fireOctober 28, 2008 8:15pm Waco, Texas 76712 Skies Clear Temperature 55 F Winds: 0 mph Humidity: 36%    On Oct. 28, 2008 at around 7:45pm, I Was sitting on front porch drinking coffee with room mate and happen to glance over towards west and directly under what I believe to be Mars was a rectangular object that appeared to be on fire.It burned for a second and flashed out and re appeared to the right (in my measurements of the space between an inch if you held a ruler to the night sky) of it and burned for another second. While that object "burned" the first object reappeared to the left of the 2nd object and then the 2nd object flashed out, followed by the 1st object and then the 2nd object reappeared and flashed out and then nothing.  My room mate saw the last flash, because he couldn’t see what I was looking at, until he stood up.  Because this all happen right above the horizon of tree tops.My first impression was a plane was on fire and then when the 2nd object appeared and looked to be on fire.  My impression was a dogfight of some sorts.  I am not sure what it was. It was interesting to say the least.  I cannot tell if it was over Waco or not, It may have been passed Waco.  I cannot say how far away it was, but all I can say is it was as big if not bigger than an American Eagle jet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66512.html](http://www.nuforc.org/webreports/reports/066/S66512.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Spokane (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Still there - Still there minutes.</sub><blockquote><sub>There's one big light that I've seen every night since I first spotted it, some nights there's only one, other nights there's 3,. . .it just bobs in the same spot, you can tell that it's moving, the colors on it are white, purple, and green, almost looks like a star to the naked eye but with binoculars you can tell that it's not((NUFORC Note:  Three planets in the eastern sky.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123195.html](http://www.nuforc.org/webreports/reports/123/S123195.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/165/S165153.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165152.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165206.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165128.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165078.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
