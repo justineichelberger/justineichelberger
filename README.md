@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:33:47 on 28 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:16:13 on 28 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Astoria (OR) reported seeing craft that fit the description of some 'Formation' over a period of approximately 4320.0 - 4320.0 minutes.</sub><blockquote><sub>3-5 red, green and white lights flying in formation mimicking a plane or helicopter flying less than 100 ft above and made no sound.I happen to be outside and noticed a low flying (less than 100 ft.) what I thought was a helicopter or plane and realized it was neither in a field at my home.  There were at least 4 or 5 vehicles flying in formation mimicking the lights of a plane or helicopter.  Although, I could hear a jet above but couldn't see it, the formation made no sound as I filmed the video a few minutes later and the jet had passed.  I had seen it the prior two days in another field in front of my home.  In the last 3 mo.  I have witnessed roughly 30 or so different types of crafts that are not of this world around my home following an encounter I had with a different UFO and aliens or beings on Sept. 23, 2015, in which my car was disabled on hwy 101.  Prior to that I had never witnessed a UFO let alone it's occupants.  Since then, I continually see UFOs virtually everywhere I look usually in the night sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123978.html](http://www.nuforc.org/webreports/reports/123/S123978.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Phillipsville (CA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>super bright gold-orange teardrop sighted over phillipsville ca when all the power in the county was shut off. flew very quickly in different directions but ended up heading north</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150027.html](http://www.nuforc.org/webreports/reports/150/S150027.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/165/S165153.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165152.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165206.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165128.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165078.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
