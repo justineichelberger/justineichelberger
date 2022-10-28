@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:43 on 28 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:01:22 on 28 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Shrewsbury (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Green streak shooting across skyI was driving alone and saw a green streak of light shoot across the sky near junction of Rte. 20 and Rte. 9.  Was close enough to the earth where if it were a jet, I would have definitely heard it.  Yet, there was no sound.  It moved very quickly and went over the tree line where I lost sight of it.  I saw many aircraft in the area shortly thereafter in an area where there isn't usually much commercial airline traffic.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40429.html](http://www.nuforc.org/webreports/reports/040/S40429.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in International Falls (MN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>round ball that looked like fire with flashing bottom falling out of the sky.I was driving around town with my friend in International Falls, Minnesota and we both suddenly saw a orange sphere fall from the sky.  It made it from the sky to the tree area in about 5 seconds. It looked like a ball of fire but the bottom of it was flashing.  All it really did was fall from the sky we sort of looked for it but couldn't find anything so it must have went into a field or something.  It also made a loud noise like a airplane would for just a second until it reached ground area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78609.html](http://www.nuforc.org/webreports/reports/078/S78609.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/165/S165153.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165152.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165206.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165128.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165078.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
