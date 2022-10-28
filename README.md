@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:42 on 28 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:01:00 on 28 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Marietta (GA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Sky changed color in several bright flashes.The entire sky changed color red green and purple illuminating heavy cloud cover for the entire field of vision.  The event was in progress when I was told to observe, I do not know how long it had been going before it was noticed.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93938.html](http://www.nuforc.org/webreports/reports/093/S93938.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Lafayette (IN) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Multiple orange lights in line then flying erratically.I was a student at Purdue University in West Lafayette, IN, from August 2002 to May 2007.  In October of 2004, during one of the evenings just before Halloween, my roommate and I traveled to Lafayette, IN, shopping for Halloween costumes.  I was driving, and my roommate was in the passenger seat.  We were traveling due east on St. Rd. 26, and we were stopped at a stop light at the Earl Ave. intersection.I looked up at the moon noticing that it was a full moon or very close to a full moon, and suddenly there was a group of a few fire-orange lights lined up very high in the sky in very close proximity to where the moon was positioned in the sky.  I pointed it out to my roommate, and the number of fire-orange lights suddenly increased.  Simultaneously, they started flying erratically at high speeds.  They were going in every direction, and some were changing direction quickly, cutting 90-degree angles.  Some appeared to fade out and then quickly reappear a bit further away.  It appeared they were dispersing away from each other, and after a few seconds all the fire-orange lights faded.From my perspective, the event started at the lower right of the moon, and maybe 2-4 of the lights ended up on the left of the moon about 3-5 moon diameters away.  The event occurred entirely in the vicinity of the moons position in the night sky around 9:00 PM.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72005.html](http://www.nuforc.org/webreports/reports/072/S72005.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/165/S165153.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165152.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165206.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165128.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165078.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
