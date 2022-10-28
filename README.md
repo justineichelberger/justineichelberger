@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:43 on 27 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:59 on 28 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Three dim lights (triangle) moving SE towards water in MiamiWe were looking up at Jupiter and Saturn in the sky at sea level. My boyfriend looked up in the sky right above him and he saw three dim lights in a triangle moving south east from a north west direction.  They looked like stars: three white and dim lights . He tells me to look where he’s pointing.  I was facing south east, looking towards the water, above me and see two dim lights that turn into three lights.  It looked like two lights were spreading apart and the third light was closest to the light on the west side. From our point of view, the distance between the furthest two lights was about an 1 1/2 inches and the closet light was about 1 cm from the “west” light.  It was going faster than a satellite.  There was no sound, it looked very far away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160261.html](http://www.nuforc.org/webreports/reports/160/S160261.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Laurel (MD) reported seeing craft that fit the description of some 'Circle' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>PLEASE IF ANYONE SAW THIS PLEASE CONTACT MR DAVENPORT!!!!  The time was 9:30 PM in Laurel Md.  There is a lot of air traffic here, so you get used to lights in the sky.  But this was different.  Dull red/white light, so hard to see you almost have to look to the right or left of it to see the light.  Sometimes brighter, then duller.  It took a good 5 minutes to go halfway across the sky, really slow for any plane or satellite.  I actually went back inside the house for 30 seconds, came back out and it was still slowly going from east to west.  This is where it gets really scary. Hear this.  A jet from BWI is heading in the same direction as this object. I thought to myself, could be a collision. Same direction, mind you.  As the jet gets within about 1/2 mile overtaking the object, it suddenly gets slightly brighter, then\ blinks out.  Just like that.  As if someone turned the light out.  I kept watching. the jet went directly past where the light would have been.  I stayed outside for a good 15 more minutes to see if I could see the light. Nothing.  Did anyone else see this?  Did BWI know about this??  What is going on in this area??????</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14810.html](http://www.nuforc.org/webreports/reports/014/S14810.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/165/S165082.html)
-- [291](http://www.nuforc.org/webreports/reports/165/S165093.html)
-- [290](http://www.nuforc.org/webreports/reports/165/S165087.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165129.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
