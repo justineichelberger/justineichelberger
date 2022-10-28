@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:04:34 on 28 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:42 on 28 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Norwalk (CA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>While on Security patrols at my workplace,I observed a brilliant light that kept increasing in illumination streaking high across the sky at around 02:50 hrs this morning. Thinking it might have been a supersonic aircraft on fire, I observed it keenly, wondering what I should do next. But it moved very very fast, slowed and paused for awhile,increasing speed disappearing, and again reappearing, but now in lesser luminosity. It occured to me that I should capture a picture at least before it did its disappearing act, and was luckily able to get two pictures on the office cellphone before it became invisible.It emitted neither sound, no smoke trail, and it was moving in a straight direction  (South East). Seemed that the object sensed my increasing surprise, excitement and observation, that it immediately responded by reducing its brilliance, and gradually faded away from my vision.I keeny awaited its return, and checked for any other object that could be following it. But there was nothing else in the sky, except for the stars.Since I am alone on duty, I could not inform anyone else. But working near a sensitive area, I forwarded a security report as required by me.The sky was very clear, and visibility was excellent, unlike yesterday when it was foggy. Having seen  meteorites before, I am positive that it was neither a meteor, nor a reflection, and it was moving too fast for a weather balloon.It seemed to be able to sense my alert curiosity, and immediately responded by reducing its brilliance as if in response. It emanated immense light, but cast no shadow did not emit any sound or odour.I have to add that this object moved with such immense power and brilliance and speed that my first impression was that it was the end of the world!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84957.html](http://www.nuforc.org/webreports/reports/084/S84957.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Marietta (GA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Sky changed color in several bright flashes.The entire sky changed color red green and purple illuminating heavy cloud cover for the entire field of vision.  The event was in progress when I was told to observe, I do not know how long it had been going before it was noticed.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93938.html](http://www.nuforc.org/webreports/reports/093/S93938.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/165/S165153.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165152.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165206.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165128.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165078.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
