@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:01:02 on 29 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:45 on 29 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Norwalk (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>WE SEEN NUMEROUS ROUND, OVAL, AND DISK SHAPED OBJECTS FLYING NEAR THE SUN. AFTER WATCHING THIS FOR SOME TIME WE ALSO SEEN A LARGE, BLACK DIAMOND SHAPED OBJECT FLYING TOWARS THE NORTH EAST. THE INTIRE EVENT LASTED UNTIL 1:00PM. OTHERS SAY THEY HAVE SEEN MORE STILL.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14726.html](http://www.nuforc.org/webreports/reports/014/S14726.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Camp Verde (south of) (AZ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>brilliant white sputtering oval nodding side to side around 800' above highwayIt a shuddering brilliant jagged edge white light. It was hovering over the highway mostly in the middle of nowhere around 800 feet up slightly quavering from side to side.  It had a little bit of an irregular red tinge inside the white hot major luminosity.  I got that 'it wasn't 'right' feeling about it and checked my watch- it was 10:08 pm.  I seriously thought of needing to 'get past' it without being abducted and 'losing time'.  Yes I was curious and briefly considered pulling over but sought to excersize caution and not be involved with it. I still just have the one scoop mark I always had.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103753.html](http://www.nuforc.org/webreports/reports/103/S103753.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/165/S165095.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165140.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165145.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165096.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
