@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:40 on 29 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:03:15 on 29 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Newark (DE) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Very brilliant white light over northern Delaware, hovering for an hour and then shot upward into space.I woke up around 4:20am because I was having trouble sleeping.  I was in my living room, sleeping near sliding doors and it was a very clear night.  I looked up a star chart just so I wouldn't make a mistake here.  Facing south/southeast, about 30-35 degrees above the horizon, a very bright white light was hovering over the tree line.  It almost looked like the northern star, but was 100 times more brilliant.  The object was far off in the distant, but after observing it for about 20-25 minutes, it made a very slow, controlled movement toward the south (left to right), not by much.  Very very small, slow movements.  The object continued to hover for about 50-60 minutes.  My wife came out of the bedroom, because she claimed she could not sleep either.  She observed it as well, and as a science teacher, she was curious also.  After about an hour, the object took a straight upward, controlled increase in elevation, starting out very slow and then increasing upward at a faster rate of speed, until object lost site into the stratosphere and further upward into what appeared to be outer space.  Object was looked for throughout the early morning hours and the next evening, but was not seen again.  I think it's safe to say this wasn't a weather balloon or meteor; military!  I also might note that there is a local airport with very little traffic nearby, however, this airport also houses military aircraft for soldier transports, usually to and from Iraq.  Furthermore, these aircraft are incapable of going straight upward and also do not have the ability to hover for hours at a time, for all you skeptics. Make your own opinion.((NUFORC Note:  Venus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59519.html](http://www.nuforc.org/webreports/reports/059/S59519.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Houston (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Fireball plummets to Earth?((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66574.html](http://www.nuforc.org/webreports/reports/066/S66574.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/165/S165095.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165140.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165145.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165096.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
