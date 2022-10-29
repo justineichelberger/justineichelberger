@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:35 on 29 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:51 on 29 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Spencerville (IN) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node  81</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150596.html](http://www.nuforc.org/webreports/reports/150/S150596.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Frankfort (KY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Franklin/Scott County Kentucky Round Object With Red, Blue, and White LightsAt approximately 9:20pm, I went outside on my balcony to smoke. I looked off to the northeast – towards Scott County – and saw a round shape with bright lights of Red, Blue, and white. The lights went all around the object and sometimes seemed to be steady and at other times seemed to strobe or even rotate around the object. The object also had at least four straight extensions coming off of it and running underneath the main object. The extensions were also lighted. The object sat perfectly still. I got my daughter to come look at it. She thought it was a Police Helicopter, mainly because of the red and blue lights. The object was way too high to be a Helicopter and the area it was hovering over would have been very rural. My daughter went back inside. I continued to watch. We do not have binoculars, so I went inside to get my daughter’s Digital Camera that has Zoom capabilities and thought that might help. When I returned to the balcony, the object was still there but then there was a second object much closer and much larger. It was more of a perfectly shaped orange ball and almost appeared to be “sitting” on a house off in the distance. I called for my daughter again and she thought it was a full moon. I did not think that was the case because it was too orange and I don’t recall ever seeing a full moon in that spot before. This morning I looked at the Naval Observatory’s Web Site and according to it there was no full moon last night, it should have been a “Last Quarter” moon.  My daughter told me that I had watched one too many X-Files and that she was sure it was a Police Helicopter and a Full Moon.  While I do not know what either object was, I do not believe they were those things, and my daughter who was so sure of herself was too “scared” by what she saw to sleep in her room downstairs last night.((NUFORC Note:  Sighting of Sirius??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59522.html](http://www.nuforc.org/webreports/reports/059/S59522.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/165/S165095.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165140.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165145.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165096.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
