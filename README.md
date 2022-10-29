@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:39 on 29 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:35 on 29 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Nashville (TN) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>8 rocket pay load for emissary  sen. J. glenn  sts-95I was coming out of a bookstore in south Nasville and I almost bumped into a lady staring up into the sky.  I turned to look and witnessed 7-8 rockets side by side coming out of the sunset, plumes mixed in gigantic trail. Senator Glenn's purpose was reportedly elderly astronuat medical experiments.  But I could find no report of the other launches that day.((NUFORC Note:  We do not know what the source of this report is implying.  He called us over the Hotline, but we did not understand the call, either.  He seemed to believe that the sighting had something to do with UFO's, but we did not understand what the relationship was.  Source of report provides no contact information with his written report.  STS-95 was launched on October 29, 1998, we have learned over the internet.  The link to the STS-95 mission is here:  http://spaceflight.nasa.gov/shuttle/archives/sts-95/index.htmlPD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56640.html](http://www.nuforc.org/webreports/reports/056/S56640.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Norton (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Green lights and beams completely illuminating stormy sky green arose over treeline/horizon visable from highwayGreen lights and beams completely illuminating stormy sky arose over treeline/horizon in the dark.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137058.html](http://www.nuforc.org/webreports/reports/137/S137058.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/165/S165095.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165140.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165145.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165096.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
