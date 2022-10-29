@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:03:15 on 29 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:48 on 29 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Houston (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Fireball plummets to Earth?((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66574.html](http://www.nuforc.org/webreports/reports/066/S66574.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Liberty (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Multi-colored lights in a wide V-formation, hovering, hose or shaft of light lowering with light on endThis occured about 9:00-9:30 p.m.  I was driving home from the grocery store and it was lightly raining.  It's all residential where I was driving, and something caught my eye out to the left.  There is a lot of pasture that is being developed and as I drove around this winding 2-lane, I looked out to a clearing, and there were these red, blue, yellow, white, lights in a really large triangular shape.  The crazy thing is that this thing was very large and hovering over the ground approximately 2-3 miles up.  Hanging from this object was like a hose or something being lowered.  It had almost a dull greyish-white neon appearance to it, and at the very bottom was a brighter white light.  I would have to guesstimate that this shaft was approximately 1 block long. The shaft of light appeared to not have a large circumference to it. I thought at first it must have been some sort of hose with this light on the end of it. I thought is this thing a Stealth and these pilots are just jacking around? But from the way the lights appeared, the V was much wider then the Stealth appears. I was a few miles away from it.  At first I thought about trying to get a closer look but I remembered I had a lot of frozen food in sacks.((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42739.html](http://www.nuforc.org/webreports/reports/042/S42739.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/165/S165095.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165140.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165145.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165096.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
