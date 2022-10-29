@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:28:36 on 29 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:12:18 on 29 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Childress (North of) (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I submitted this report last week, but haven't seen it posted, so I thought it may have been lost in the shuffle.  Incidentally, as a commercial pilot, I have flown this route from Oklahoma City to Roswell, NM about 50 times.   Nothing like this has ever happened before. On the afternoon of Oct. 29, 1997, I flew my three teenagers from Shawnee, Ok. to Roswell, N.M., to attend their Grandmothers funeral. (My ex-wife's mother)  I dropped them off at the airport, had my aircraft refueled, and departed Roswell at approx. 1600 Mountain daylight time.   (ROW tower should have the exact departure time in their logs.  My aircraft registration number is N9229A) I climbed to a cruising altitude of 9,500 feet, and settled in for the three and a half  hour, non-stop flight back to Shawnee, Ok.  The sun set about an hour later, and left me with a beautiful, star lit night, tail winds, and no turbulence.  Two hours into the flight, at approx. 1900 CDT, and about 10-20 miles north of Childress, Tx.,  (I was at 70 DME southwest of the Hobart VOR, on the 240 radial) I saw what at first I thought to be a "falling star".   I was amazed that it didn't burn up in the first second or two after becoming visible, while traveling from an extremely high altitude, nearly vertical towards the ground.  I remember thinking to myself that I could have made a wish on this one!   The object descended vertically until reaching my altitude, when it suddenly leveled off, and while traveling from east to west, still at what I would have to call 'meteorite speed', veered slightly to the north, before arcing back to the south, on a direct collision course with my! aircraft.  I remember at this point, saying to myself in awe two or three times, that nothing goes this fast!!!    As the object approached my airplane at very high speed, it appeared to grow from 'shooting star size',  until it was about the size of a beach ball held at arms length, when I in a panic, banked hard to the right, (taking the object out of my field of view) to avoid a "collision".   I never saw the object again after that.   I wanted to call Fort Worth Center (ATC) to see if they had "painted any targets" in my area, but was so shaken up by the event, that when I tried to find the frequency on my charts, it was simply too overwhelming to look at the charts, and control the airplane at the same time.  I was about 60 miles west of Altus AFB, so it is possible the control tower saw this same object.  I'm certain it at least streaked from east to west that far.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02838.html](http://www.nuforc.org/webreports/reports/002/S02838.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Tyrone (CO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Seen a strange object going east at a faster speed then normal. Silver chrome colored it turned and it just disappeared.My husband and I was driving and he seemed this shape In the sky it was fast moving east had no jet trail.  Ask me to look at it l did. It was silver chrome color. It was bright when the sun hit it. Once it turned it just disappeared. So strange because I told my husband about a strange sighting I seen  two nightes before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165091.html](http://www.nuforc.org/webreports/reports/165/S165091.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/165/S165095.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165140.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165145.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165096.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
