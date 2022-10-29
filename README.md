@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:04:58 on 29 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:52 on 29 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Laurel Hill (NC) reported seeing craft that fit the description of some 'Changing' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Large, exploding fireballI was driving to work at around 6:40, may have been a little later when I saw what appeared to be three shooting stars.  Then I realized they lasted a lot longer than a shooting star and had a tail, kind of like a firework that is ending.  Then they converged into one big fireball, that continued to fall with a tail.  I thought maybe I was witnessing some type of meteor or something.  After this large ball fell for a bout two minutes, it kind of exploded in 10-12 smaller objects that were lighted and were obviously controlled by something, they were no longer "falling"   They moved around, formed a large circle and finally disappeared.  This was the strangest thing I've ever seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78616.html](http://www.nuforc.org/webreports/reports/078/S78616.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Dublin (on U.S. Interstate 680 North) (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>In early a.m., already a bit light, at about 45 degrees, a fireball steaked in front of me for about 5 seconds. I was driving about 65 mph. It was big and it was close. It was traveling from the northwest to the southeast. Most astounding was the bright apple-green color, the closeness, and the long tail.I am a 47-year-old married woman with one teenage son. I publish a national, monthly trade magazine by profession and was on my way to a quarterly operations meeting in Auburn, CA, with my business partners. About one hour into my drive, directly in front of me at about a 45 degree angle, a large, very bright ball of fire streaked across the sky moving from northwest to southeast. I was driving about 65mph on CA Interstate 680 North on the southern outskirts of the City of Dublin. I was shocked at how close the fireball was. It's very difficult for me to judge but I would guess it was just two football fields away from me at a 45 degree angle. The center of the ball was the brightest white I've ever seen but the most remarkable aspect was the bright flourescent apple-green color around the ball and surrounding the long tail. After about five (5) long seconds it simply disappeared. I was stunned and looked at the car to my right in the lane next to me. A woman was looking at the very spot where the fireball had disappeared. For a brief second we just stared at each other. I shook my head and she made a gesture to indicate she saw it also. Though I didn't need confirmation as to what I had just seen, I was glad to be able to tell others that there was another witness. (I have seen one other object that was unusual but that was in June of 1971 in Estees Park in the Colorado Rocky Moutains. That ball of light moved at rapid speed, changing angles quickly, once shooting straight up into the air. I will reserve my following comments only to the object I saw most recently.)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04865.html](http://www.nuforc.org/webreports/reports/004/S04865.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/165/S165095.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165140.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165145.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165096.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
