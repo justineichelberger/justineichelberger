@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:45 on 29 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:40 on 29 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Camp Verde (south of) (AZ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>brilliant white sputtering oval nodding side to side around 800' above highwayIt a shuddering brilliant jagged edge white light. It was hovering over the highway mostly in the middle of nowhere around 800 feet up slightly quavering from side to side.  It had a little bit of an irregular red tinge inside the white hot major luminosity.  I got that 'it wasn't 'right' feeling about it and checked my watch- it was 10:08 pm.  I seriously thought of needing to 'get past' it without being abducted and 'losing time'.  Yes I was curious and briefly considered pulling over but sought to excersize caution and not be involved with it. I still just have the one scoop mark I always had.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103753.html](http://www.nuforc.org/webreports/reports/103/S103753.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Bedford (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Triangular object with three lights over  Westchester county NYCould not see Craft in full, was too dark.  I did see three lights, white, not very bright(brighter amd larger than anything else in area)lined out as the points of an equilateral triangle.(there was a darker shape they were attached to, but I could only make out the lights on the craft)  obhesct was heading norh -north east towards CT.  Obect traversed my vision of the sky (from south to north, roughly 50 miles, maybe more in a matter of five to six seconds.  ONE NOTE:  Object had to have passed no farther than 20 miles of the Westchester county Airport!  traveling through a VERY BUSY Plane route.( Planes from Westchester county airport, Laguardia Airport, and JFK Airport ALL fly through this area.  Object WAS NOT flying in ANY normal Aircraft route ( I stand outside smoke everynight watching the planes and looking for shooting stars, I know this was no plane, wrong altitude, and traving much faster than even teh military planes that go through now and then.  Craft also did not have any strobes, just three white lights.  I did see at least three planes that were in the area at the same time, craft flew, at a distance, directly in front of one plane(I belive that plane to be heading towards Westchester county by it's altitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59533.html](http://www.nuforc.org/webreports/reports/059/S59533.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/165/S165095.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165140.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165145.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165096.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
