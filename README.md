@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:43 on 29 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:09:49 on 29 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Gardner (KS) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Pre-dawn cylinder shape outlined by dull red lights with a brighter greenish light, none of them flashing.My mother and I were driving southwest on I-35, passing near Gardner, KS, well before dawn.  I noticed what looked similar to a satellite moving from the left part of the sky ahead of us toward the right, which I later determined on a map to be roughly SSE to NNW direction.  What caught my attention was that it was a greenish color - not white like a satellite.  It wasn't a bright emerald green but rather a dullish green light.  We intersected its path and it was out of my sight at that point, but and my mother was able to look up of the passenger side window as it continued north and observe it from underneath.  She saw several dimmer reddish lights apparently outlining a cylinder shape, with the brighter green light first observed at the rear.  None of the lights were flashing.  It was impossible for us to discern the height or size of the lights/craft as it continue on a straight course and out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143622.html](http://www.nuforc.org/webreports/reports/143/S143622.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Herefordshire (UK/England) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Green sphere viewed between the downs and Bromyard, Herefordshire.While we were driving we saw a fairly large bright green light moving very slowly across the sky quite low to the ground.  Within seconds it suddenly accelerated over trees and disappeared out of sight.  It accelerated that fast, that it left a trail of green light behind it.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85805.html](http://www.nuforc.org/webreports/reports/085/S85805.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/165/S165095.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165140.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165145.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165096.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
