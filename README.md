@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:34 on 30 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:46 on 30 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Ossipee (NH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>I was driving North on Route 16 when ahead of me I saw 3 triangle shaped lights just above the tree-line.  They were much bigger than surrounding stars or an airplane.  The one in the middle and as higher and the appeared to be in formation.  I'm not sure if they slipped below trees or disappeared.  A few miles further up the road I saw them again this time they were to the west over the Ossipee Mountain range.  Again, I lost sight of them.  This time I turned around to see if I could see them again.  The 3rd sighting was just as I was nearing the intersection in West Ossipee.  Each time I was only able to view them for a few seconds.  I couldn't find anything  serious in the area to explain this occurrence.  The first time it looked like tunes of light formed each side of the triangle.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115066.html](http://www.nuforc.org/webreports/reports/115/S115066.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Weyerhauser (WI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>at first i thought it was a plane... as i drover closer i noticed it was hovering less then 100ft over the trees it had 3 lights one at the front and one to each side.  they were reddish orange. there was to bigger and brighter lights like spot lights close together above the front one, white in color.  i drove almost directly underneath it and i remember seeing other lights but cant recall detail.  i drove past and looked at the rear of it and it had 4 jet type engines glowing ice blue in color.  they were in the center and stacked 2 and 2 :: i some what recall another light above the  engines but could be mistaken.  as i drove down and around the next bend it was still there as i drove out of site and to work.  i was driving 40-50 mph and slowed to maybe 25-30mph as i drove past it.  there was another vehicle stopped on a side road with its head lights on facing the ufo.  i assumed they were watching and recording it.  this road is in the county through the woods, but still a fair amount of traffic travels this road.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143626.html](http://www.nuforc.org/webreports/reports/143/S143626.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165139.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165131.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165142.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165148.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165588.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
