@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:37 on 30 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:57 on 30 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Philipsburg (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Lights appearing abnormally in the night skyI was a passenger in our family car. My wife and I were driving to work on route 322 east toward State College, PA.It was a very clear night sky and objects were easily visible. I glanced out the passenger side window and saw what at first I took to be airplane lights. I then noted the lights were not moving slowly as one would expect, but appeared stationary.I only saw a light or tiny group of lights, no form or shape.It is possible that it might have been a helicopter, but I doubt it from the location and length of time it remained stationary.I had the object(s) within view about two minutes. Because we were on the way to work, I could not pull off and view the display for a lengthly period of time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66593.html](http://www.nuforc.org/webreports/reports/066/S66593.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Star Valley (AZ) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node  53</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160514.html](http://www.nuforc.org/webreports/reports/160/S160514.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165139.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165131.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165142.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165148.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165588.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
