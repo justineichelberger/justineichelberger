@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:49 on 29 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:57 on 30 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Mishawaka (IN) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Several contrails that appeared to be in formation, VERY high in altitude -- no visible airplanes -- contrails dissapated quickly.I was in my car at approximately 4:30pm.  The sky was blue and mostly cloudless, only a few cirrus clouds here and there.  I was driving due north in a rural area.  I looked up through my window and noticed several airliners at normal altitude.  We are in "flyover country," so it is not unusual to see airliners traversing the sky and leaving contrails.  While watching the "normal" airplanes, I noticed approximately 5 or 6 contrails very close together, to the northwest of me (about 10 o'clock high from my perspective driving north).  The closely-bunched contrails were forming parallel to each other.  They appeared to be on a southeasterly heading.  I could not see the airplanes leaving the contrails, which led me to believe that they were at extremely high altitude.  The contrails were clearly moving (growing in length).  As I continued to watch, several more contrails began to form to the sides and behind the original few.  All told there were probably around 10.  They appeared to be very close together, which led me to believe that they were high flying military jets in formation. The odd thing was that the contrails faded very quickly.  I grabbed my cell phone and called a friend to have her go outside and take a look.  I asked her "Do you want to see something unusual?  Go outside and look up to the northwest.  There is a bunch of contrails very close together."  By the time I got those words out, the contrails had faded, so I told her to forget it. My overwhelming impression is that they were military jets in formation, VERY high in altitude.  Once again the odd thing was how the contrails faded.  It was as though they just "turned off."  Very odd.((NUFORC Note:  We agree with the witness that the objects almost certainly were contrails.  Probably not UFO-related.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47351.html](http://www.nuforc.org/webreports/reports/047/S47351.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Signal Hill (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Was taking dog out to use restroom as I am waiting I happened to look up and saw a triangle shaped objet with orangeish colored lights at each point of the triangle shaped object.  I usually see planes since I live next to the airport but these lights were different they were fixed with no other lights flashing.  The way the object floated across the sky was not like any plane I've seen.  The object seemed almost translucent with the exception of the lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123231.html](http://www.nuforc.org/webreports/reports/123/S123231.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/165/S165095.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165140.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165145.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165096.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
