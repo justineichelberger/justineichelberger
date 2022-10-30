@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:08:03 on 30 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:26 on 30 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Michigan City (IN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright orange light that appeared after the solar flare, disapeared within 5 or 6 minutes.My sister, neice, nephew and I were coming home from the Humane Society and talking about the solar flare that had just occured when my 11 year old neice said "What's that orange thing?" The other three of us looked straight ahead to the horizon (the object looked to be in the midst of some wispy clouds in a southwest direction.) I automatically said "It's one of those planes that leave streaks in the sky" until I realized it wasn't moving at all, it was just a bright orange oval shape hovering in the sky. We stopped the car to get a better look, but then continued down the road to the house. My neice and I grabbed the binoculars and hopped on our bikes, but once we got back down the road where there were no trees obstructing our view, the object was totally gone without a trace. The wispy clouds hadn't changed much, so we're not sure if it was a trick of the light or what.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32775.html](http://www.nuforc.org/webreports/reports/032/S32775.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Apex (NC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub>Driving South on HWY 55, a brightly lit, very large object, passed above me at the intersection of Vision Dr.On October 30, 2021, at approximately 7pm, I was driving south on HWY 55 toward Vision Dr. A (seemingly) huge, well lit object flew above me slowly. My first thought, due to the proximity of RDU airport, this was a 747, or some other very large aircraft either landing or crashing. I realized this was not the case, due to the object making no sound. I turned and drove up Vision Dr., while watching the object continue in a south easterly direction, close to downtown Apex. As I watched, the object changed direction, shifting north. The object did not bank, but merely shifted North while remaining horizontal. Very bizarre.When I got home, I called the Apex police department, asking about any known low flying aircraft in the area. Apex was celebrating an Oktoberfest festival that evening, and I thought maybe it could be related, formation night flying or some other “show”. Their answer was no, no scheduled traffic.This week (Thanksgiving) I found a commercial aviation radar app that has flight histories and whatnot (Flightradar24). There were no commercial or civilian flights recorded at that time on October 30, where I was driving. For this reason, I’m making the report.In conclusion, the object was very large, flying low, slow and without sound. I saw no details of the airframe or other structure, due to the brightness of the lights. The lights were arranged in a “4” square pattern (which I reasoned maybe what 4 light aircraft flying in close formation would look like). All I remember is red and white, with 2-4 very bright white strobes. As another report on this same evening stated, this was a very busy highway and time of evening, with lots of traffic. I’m likely not the only witness.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165588.html](http://www.nuforc.org/webreports/reports/165/S165588.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165139.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165131.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165142.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165148.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165588.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
