@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:43 on 30 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:01:03 on 30 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in La Grande (10 miles east of) (OR) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A very slow moving brightly lit object crossed I-84 north to south about 150-200 feet above road and disappeared into mountains south of usThe object appeared to be 50 feet long, the body could not be seen, but there were 4 roughly square windows equally spaced over one long thin rectangular window. there were no running lights, or flashing lights. No bridge over us and we could hear no engine sound other than the truck engine even with the truck windows open. the windows were bright but opaque. The object flew over us at 10-15 miles an hour in a straight line. My partner was sitting in the passenger seat, and was talking on the CB radio with some other drivers on the road who also saw the object. I am a retired Army sergeant who taught aircraft recognition. I have never seen this configuration on any aircraft.We have been driving truck together for 5 years. I was 50, she 49. The object was also seen by two ladies driving from Portland Or, to Lubbock TX, who were also on the CB radio, and 3 other truck drivers.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10500.html](http://www.nuforc.org/webreports/reports/010/S10500.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Charlotte (NC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>White dots in a clear blue sky.I looked out my window and saw two planes, at different altitudes, crossing paths and in the same line of sight were 2 round white dots just sitting in the sky.  The sky is perfectly bright and blue with no clouds at all.  At first I thought nothing of it and then thought that this is kinda weird.  They looked like stars but it's too late in the day and they were too bright and too big to be stars.  I went to another room to grab my binoculars and went outside.  When I got outside I was unable to find the objects.  I returned to my office and looked out the window again and there they were.  I thought maybe my eyes are playing tricks on me.  The whole thing was driving me crazy.  I was sure they were really there.  Sure enough I found them in the binoculars and watched them.  One was positioned at 12 o'clock and the other below it and to the left at 8 o'clock.  As I watched, the lower one moved to the right.  Both of them appeared to be followed by a light cloud of smoke, not a stream.  As the lower one approached the 6 o'clock position both of them just disappeared as if they ducked behind a cloud, yet there are no clouds.As I write this description of the event, one hour later, a third or one of the original two has appeared in the same place.  This time I took a picture but it surely won't show much as the object is too small and the camera too weak.  As I watched, it has drifted out of sight away from me and upward.I've never thought that I had seen a UFO before, although I have always believed in them.  I don't know what a weather balloon looks like but this was definately a unique experience and I'm positive that what I saw was not conventional aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20016.html](http://www.nuforc.org/webreports/reports/020/S20016.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165139.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165131.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165142.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165148.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165588.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
