@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:10:53 on 30 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:33 on 30 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Sydney (Australia) () reported seeing craft that fit the description of some 'Light' over a period of approximately minute - minute minutes.</sub><blockquote><sub>Hovering white light seen in Sydney,  AustraliaWe were driving in traffic in Sydney, and when I looked to my left, a bright metallic object hovered some great distance away int he sky.  It did look like a star at first, and being 6pm and still very bright, I found it quite awkard that it was very shiny.  Also, the object was more east than the sun, so that would make the object not as bright as it was.  It wasnt stationary like a star, but had slight wobbly movement... like vibrating.  It wasnt a plane, as this object wasnt moving.  Also, this is in a flight path of planes who are quite close to the ground - this object was far up into the sky.  (Not many planes were flying in Sydney at the time due to the strike)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85008.html](http://www.nuforc.org/webreports/reports/085/S85008.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Caryville (TN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three lights changing shapesHad walked kids out to bus stop, as we looked toward to mountain top I noticed 3 lights that I haven't seen before.  Within 45 seconds the shape the three crafts make changes from a line then into a triangle and then to a C shape, it would stay in one shape for a certain time before changing.  They lined up once again and one by one disappeared.  I did notice as this was lining up the last time there was an aircraft flying over and another that looked the same 30 seconds later.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143617.html](http://www.nuforc.org/webreports/reports/143/S143617.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165139.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165131.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165142.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165148.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165588.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
