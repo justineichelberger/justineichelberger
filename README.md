@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:18:54 on 30 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:08:03 on 30 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in East Berlin (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>I saw a bright light heading due North. I was watching for blinking lights (airplane) and never saw any. It quickly changed direction and went due west. I watched it for 3-4 minutes. It quickly disappeared into thin air.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151191.html](http://www.nuforc.org/webreports/reports/151/S151191.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Michigan City (IN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright orange light that appeared after the solar flare, disapeared within 5 or 6 minutes.My sister, neice, nephew and I were coming home from the Humane Society and talking about the solar flare that had just occured when my 11 year old neice said "What's that orange thing?" The other three of us looked straight ahead to the horizon (the object looked to be in the midst of some wispy clouds in a southwest direction.) I automatically said "It's one of those planes that leave streaks in the sky" until I realized it wasn't moving at all, it was just a bright orange oval shape hovering in the sky. We stopped the car to get a better look, but then continued down the road to the house. My neice and I grabbed the binoculars and hopped on our bikes, but once we got back down the road where there were no trees obstructing our view, the object was totally gone without a trace. The wispy clouds hadn't changed much, so we're not sure if it was a trick of the light or what.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32775.html](http://www.nuforc.org/webreports/reports/032/S32775.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165139.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165131.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165142.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165148.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165588.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
