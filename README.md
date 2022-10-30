@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:34 on 30 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:34 on 30 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Lewisville (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Moving ball of light shooting upwards in cloud then disappeared in sphere of energy.Shooting star like appearance except moving upwards through clouds, slowed down and looked almost like a little ball of light then disappeared after producing a sphere of energy. I cannot comprehend what I saw other than the fact it travel through a portal of some type. Sphere left some type of specks of lights when it closed.  Sounds sci-fi but it's exactly what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123251.html](http://www.nuforc.org/webreports/reports/123/S123251.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Ossipee (NH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>I was driving North on Route 16 when ahead of me I saw 3 triangle shaped lights just above the tree-line.  They were much bigger than surrounding stars or an airplane.  The one in the middle and as higher and the appeared to be in formation.  I'm not sure if they slipped below trees or disappeared.  A few miles further up the road I saw them again this time they were to the west over the Ossipee Mountain range.  Again, I lost sight of them.  This time I turned around to see if I could see them again.  The 3rd sighting was just as I was nearing the intersection in West Ossipee.  Each time I was only able to view them for a few seconds.  I couldn't find anything  serious in the area to explain this occurrence.  The first time it looked like tunes of light formed each side of the triangle.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115066.html](http://www.nuforc.org/webreports/reports/115/S115066.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165139.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165131.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165142.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165148.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165588.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
