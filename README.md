@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:33 on 30 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:43 on 30 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1969, an anonymous witness in Fulton (NY) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>orange cigar shaped object drops something that bursts into flames.an orange cigar shaped craft moved slowly from the nw.it stopped and a piece of the same color fell from it.we watched as the piece fell and eventually burst into flames.the object then moved off from the same direction it came from.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40561.html](http://www.nuforc.org/webreports/reports/040/S40561.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in La Grande (10 miles east of) (OR) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A very slow moving brightly lit object crossed I-84 north to south about 150-200 feet above road and disappeared into mountains south of usThe object appeared to be 50 feet long, the body could not be seen, but there were 4 roughly square windows equally spaced over one long thin rectangular window. there were no running lights, or flashing lights. No bridge over us and we could hear no engine sound other than the truck engine even with the truck windows open. the windows were bright but opaque. The object flew over us at 10-15 miles an hour in a straight line. My partner was sitting in the passenger seat, and was talking on the CB radio with some other drivers on the road who also saw the object. I am a retired Army sergeant who taught aircraft recognition. I have never seen this configuration on any aircraft.We have been driving truck together for 5 years. I was 50, she 49. The object was also seen by two ladies driving from Portland Or, to Lubbock TX, who were also on the CB radio, and 3 other truck drivers.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10500.html](http://www.nuforc.org/webreports/reports/010/S10500.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165139.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165131.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165142.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165148.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165588.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
