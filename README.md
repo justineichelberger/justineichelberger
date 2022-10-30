@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:57 on 30 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:51:10 on 30 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Brunswick (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Teal Green & Red Lights over the clouds in Brunswick OhioI'm a 19 year old male from North Ohio, I was sitting on the couch socializing with my family, the TV  was on when i saw a very odd green color on my backyard deck.  At first i thought it was my TV, gaining some sense i walked to the door covered by curtain to see what was making the strange color. When i looked up i was speechless all i could blurt out was MY GOD.  The entire sky was a teal color in three seconds it turned green, then to a red color.  But there were no objects flying,  It felt like it was engulfing my backyard.  I've never seen anything like this in my life, neither have my mother and my brother.  I just want Closure.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93958.html](http://www.nuforc.org/webreports/reports/093/S93958.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Muscadine (AL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>4 bright oval flashes4 large oval light flashes from the the clouds... Appeared to be exact spot. No thunderstorms reported in the area nor did it appear to be lightning in anyway.  Flashes were sporadically timed.  Event occurred over interstate 20 so possibly many witnesses. Power outages reported at time of flashes.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115036.html](http://www.nuforc.org/webreports/reports/115/S115036.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165139.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165131.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165142.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165148.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165588.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
