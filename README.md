@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:03:34 on 30 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:33 on 30 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Nashville (TN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Huge bright object the size of a house slowly traveling across sky.I was traveling towards Hermitage from Donelson and saw a huge ball of bright light the size of a house traveling at a slow steady pace.  I cannot figure out what this could have been could not have been a meteor it was traveling too slow.  I considered myself a skeptic about UFOs until now.  Very scary object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93959.html](http://www.nuforc.org/webreports/reports/093/S93959.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1969, an anonymous witness in Fulton (NY) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>orange cigar shaped object drops something that bursts into flames.an orange cigar shaped craft moved slowly from the nw.it stopped and a piece of the same color fell from it.we watched as the piece fell and eventually burst into flames.the object then moved off from the same direction it came from.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40561.html](http://www.nuforc.org/webreports/reports/040/S40561.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165139.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165131.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165142.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165148.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165588.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
