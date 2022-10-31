@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:43 on 31 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:01:28 on 31 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1983, an anonymous witness in Rochester (NH) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Elongated diamond shaped, platinum silver disc with various colored lights aligning the perimeter of the disc...I heard an unusual humming almost at B flat minor.  I looked out the window living room window, which was just a little above ground level.  I saw cars pulled off both sides of the street on Rochester Hill road in Rochester, NH.  Following the sound of the hum my eyes moved upward.  Approximately 25-30 feet above my front yard was a diamond shaped, platinum silver disc like object about size of a school bus just hovering.  Different colors of lights lined the perimeter of the craft and were mostly shades of blues,lavender, yellows and greens.  It seemed to remain there for a long time which was probably only about 30 minutes.((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  We have invited the source of the report to locate some of the other witnesses.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47074.html](http://www.nuforc.org/webreports/reports/047/S47074.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Brookfield (WI) reported seeing craft that fit the description of some 'Other' over a period of approximately while trick or treating - while trick or treating minutes.</sub><blockquote><sub>white light and a dull red light followed by a whitelight changed to one light and disapearedwhile trick or treating my son and daughter and my self happened to look up to the sky at my sons request he asked if that was a ufo just then the two balls of light shot across the sky at such a high rate of speed , now i used to work on jet aircraft for the navy for 20 years and i never saw any thing that even came close to what i witnessed it streaked across the sky and shot verticaly straight up and vanished right before our eyes the third person , a lady stated "oh my lord" we look at each other and she said did you see that.yea now i'm a sceptic and i don't believe in u.f.o.'s but i can't believe what i saw tonight nor can i believe it ,.but i had to say something,... right....</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14762.html](http://www.nuforc.org/webreports/reports/014/S14762.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [569](http://www.nuforc.org/webreports/reports/165/S165137.html)
-- [568](http://www.nuforc.org/webreports/reports/165/S165156.html)
-- [567](http://www.nuforc.org/webreports/reports/165/S165134.html)
-- [566](http://www.nuforc.org/webreports/reports/165/S165149.html)
-- [565](http://www.nuforc.org/webreports/reports/165/S165138.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
