@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:54 on 31 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:44 on 31 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Flemingsburg (KY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>triangular, flat, with orb shaped compartment in the back of the craftI was up looking out my bathroom window at the star and noticed a light moving through the field near my house.  It flew a few feet off the ground close to the edge of the trees.  In no time it flew beside my house and passed my window.  The craft was no bigger than a car , no thicker than 12 inches (flew beside our truck), was white and lighted , triangular and glowing,  at the back of the craft a orb shaped compartment was multicolored and glowing (about as big as a car seat).  It made no sound.((NUFORC Note:  Witness indicates that date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67547.html](http://www.nuforc.org/webreports/reports/067/S67547.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Riverdale (MD) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Halloween UFO!My best friend and I were driving to her sister's apartment for a Halloween Bash. Her boyfriend was riding with us. I was heading south on Kenilworth Avenue. Out of the blue we saw a strange craft going from left to right (Heading from East to West)It was about the speed of a plane. Appeared to be 10,000 feet in the air. It kept going. My friend and I were amazed at what we saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34262.html](http://www.nuforc.org/webreports/reports/034/S34262.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [569](http://www.nuforc.org/webreports/reports/165/S165137.html)
-- [568](http://www.nuforc.org/webreports/reports/165/S165156.html)
-- [567](http://www.nuforc.org/webreports/reports/165/S165134.html)
-- [566](http://www.nuforc.org/webreports/reports/165/S165149.html)
-- [565](http://www.nuforc.org/webreports/reports/165/S165138.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
