@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:48 on 31 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:50:18 on 31 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Tinley Park (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>2nd time tonight-now a single red light in the Eastern sky of Tinley Park, ILThis is my second report for the night.  Earlier we saw 3 red lights (very bright at first) in formation and a few minutes ago, my neighbor (one of the 10 people that saw the earlier 3 red light formation) called and said that there was a single red light in the sky, Eastern sky of Tinley Park from 18000 and 88th Avenue. What was strange is that you could see planes all over the place in the other parts of the sky as we get a lot of flight pattern from 2 of Chicago's airports, and this light was not moving at all.  Just stationary for the most part. Then it blinked, and faded a tad, and then it was gone.  But it did not fade away, it just blinked and then faded to black in 2-3 seconds. A very similar aircraft with lots of flashing lights also flew very, very close to the red light a few minutes after we first saw it, and unlike the other planes in the area, this one had lots of flashing lights (almost like the lights on top of a police car) and it seemed to fly towards this red light intentionally as if it was trying to observe it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40336.html](http://www.nuforc.org/webreports/reports/040/S40336.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Oak Forest (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>3 red lights move slow across the sky and fade out one by onewe were sitting around a camp fire and i looked up and seen a smal red light in the sky. i assumed it was a plane but then i looked to the left and there were two more.  they first started off in a semi straight line and as they moved to the left they formed an add shaped triangle.  the 3 noiseless dots of light moves slow and together for about 10 min.  the the one furthest to the right look like it fell out of the sky and never came back.  then about 5 min later the middle one dissapeard. the last one floated for about 5 more min until it dissapeard also.  they never came back.  the sky was really cloudy that night so they must of been close since we could see them so bright.  we seen air planes fly by them and nothing happend.  the pictures we tried to take did not come back.  they were in the southwest sky</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40382.html](http://www.nuforc.org/webreports/reports/040/S40382.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [569](http://www.nuforc.org/webreports/reports/165/S165137.html)
-- [568](http://www.nuforc.org/webreports/reports/165/S165156.html)
-- [567](http://www.nuforc.org/webreports/reports/165/S165134.html)
-- [566](http://www.nuforc.org/webreports/reports/165/S165149.html)
-- [565](http://www.nuforc.org/webreports/reports/165/S165138.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
