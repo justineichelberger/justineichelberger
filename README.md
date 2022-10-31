@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:02:36 on 31 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:58 on 31 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Fostoria (OH) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Between 1800 and 1900 on Tuesday, October 31, 2000, my mother and I both witnessed in the clear night sky what first appeared to be a falling star.  However, as we continued to watch, it moved much slower than a falling star.  It appeared as a ball of white light flashing with a tail of white flashes behind it (this was as it was coming down).  It then leveled off and continued flying to the north.  We then lost sight of it, due to the trees in the distance blocking our further view.  I have never witnessed anything like this before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15849.html](http://www.nuforc.org/webreports/reports/015/S15849.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Westland (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Possible Metro Detroit U.F.O.I was standing on my porch at 123 am halloween night 2010 looking to the east for sattelites and started to see something straight above me so I looked up and saw a half of a v formation,  There were 5 dimly lit orangeish shapes that made the right side of a  v heading east very fast.  It wasnt a bird or geese formation and it was completely silent and was alot faster than any plane or wildlife formation I have ever seen.  I look to the sky every night because I go outside to smoke and this event has really made me a believer in other life forms!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78672.html](http://www.nuforc.org/webreports/reports/078/S78672.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [569](http://www.nuforc.org/webreports/reports/165/S165137.html)
-- [568](http://www.nuforc.org/webreports/reports/165/S165156.html)
-- [567](http://www.nuforc.org/webreports/reports/165/S165134.html)
-- [566](http://www.nuforc.org/webreports/reports/165/S165149.html)
-- [565](http://www.nuforc.org/webreports/reports/165/S165138.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
