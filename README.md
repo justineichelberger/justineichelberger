@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:38 on 30 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:47 on 31 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Dover (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>To many bright orbsWe had orb lights here above our house in Dover Fl. for over 2 hrs this past Thursday night. They would circle the home then pull in together and spread out again around the whole house. This went on from about 8:15 until 10:10. pm. My father and I thought we should see if they would stay focused on the house or if they would follow us down our long drive. To our awe they followed us down the drive and then back up to the home again. At first there were 4 orbs then 5..  They stayed at that number until we started praying and calling on the name of Jesus thats when the weirdest thing happen... They turned into 8 or 9 orbs all bright white...It's like they needed to call on more help.  We watched them for about another 10 minutes or so and then went into the house.  They had been over our house for so long we were getting really bored with them.  I think they knew we were over it cause the next time we looked out the door they were just gone... As fast as they cam! e they were just gone. We have had other sights of really strange things here were where at.  Our house is tucked into the woods and there is hardly no city lights of any kind so we see a lot of sightings here.  We have seen teardrop shooting lights also really bright lights that change in color but never anything like this past Thursday night.  We all couldn't believe our eyes and there was so many of them.  It's been 2 nights now and there hasn't been anymore lights so far.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115081.html](http://www.nuforc.org/webreports/reports/115/S115081.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Tinley Park (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>Three Red Lights Over Tinley Park, 10/31/043 Red Lights, Tinley Park, IL- Cherry Hills Subdivision Three red lights were seen in the sky moving slowly from the south to the north and began traveling east until they could no longer be seen.  They stayed at a pretty constant distance from each other and as they moved across they appeared to change formation from a scattered line to a triangle. There appeared to be no noise coming from the lights and no sudden movements.  Initally the lights appeared very bright (as bright as the red lights from plane towers), but as they traveled further from were they were spotted, they became less brillant until they seemed to disappear from sight (from my perception they traveled to far for the naked eye to see from where I was located).  Airplanes flew in the vasinity.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40340.html](http://www.nuforc.org/webreports/reports/040/S40340.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165139.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165131.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165142.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165148.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165588.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
