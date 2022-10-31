@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:11:45 on 31 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:43 on 31 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Oak Forest (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>3 red lights move slow across the sky and fade out one by onewe were sitting around a camp fire and i looked up and seen a smal red light in the sky. i assumed it was a plane but then i looked to the left and there were two more.  they first started off in a semi straight line and as they moved to the left they formed an add shaped triangle.  the 3 noiseless dots of light moves slow and together for about 10 min.  the the one furthest to the right look like it fell out of the sky and never came back.  then about 5 min later the middle one dissapeard. the last one floated for about 5 more min until it dissapeard also.  they never came back.  the sky was really cloudy that night so they must of been close since we could see them so bright.  we seen air planes fly by them and nothing happend.  the pictures we tried to take did not come back.  they were in the southwest sky</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40382.html](http://www.nuforc.org/webreports/reports/040/S40382.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1983, an anonymous witness in Rochester (NH) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Elongated diamond shaped, platinum silver disc with various colored lights aligning the perimeter of the disc...I heard an unusual humming almost at B flat minor.  I looked out the window living room window, which was just a little above ground level.  I saw cars pulled off both sides of the street on Rochester Hill road in Rochester, NH.  Following the sound of the hum my eyes moved upward.  Approximately 25-30 feet above my front yard was a diamond shaped, platinum silver disc like object about size of a school bus just hovering.  Different colors of lights lined the perimeter of the craft and were mostly shades of blues,lavender, yellows and greens.  It seemed to remain there for a long time which was probably only about 30 minutes.((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  We have invited the source of the report to locate some of the other witnesses.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47074.html](http://www.nuforc.org/webreports/reports/047/S47074.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [569](http://www.nuforc.org/webreports/reports/165/S165137.html)
-- [568](http://www.nuforc.org/webreports/reports/165/S165156.html)
-- [567](http://www.nuforc.org/webreports/reports/165/S165134.html)
-- [566](http://www.nuforc.org/webreports/reports/165/S165149.html)
-- [565](http://www.nuforc.org/webreports/reports/165/S165138.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
