@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:33:29 on 31 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:17:45 on 31 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Tinley Park (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Creepy, Peculiar, Red DotsWell, it was on Halloween night in 2004 and me and my friends just got done trick or treating and as we got back to my friends house, everyone started to point at the sky, it look as if 3 red dots in the sky were in the formation of a triangle. So my buddies dad got his video camera and started to record this incident. This lasted for about 20 minutes. The 3 red dots just moved over the sky and finally after the 20 minutes one by one they started to go out, like a lightbulb going bad. That was the last time I saw it.  But every now and then we look at that video that was recorded.  If anyone has any information on what this is, please tell.  Thanks</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48357.html](http://www.nuforc.org/webreports/reports/048/S48357.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Tinley Park (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Triangle shaped object with lights hovering in the skyWe observed the object hovering for about 45 minutes,  A triangle shape with lights/which later turned on its side looking like a single angle side before taking off.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66697.html](http://www.nuforc.org/webreports/reports/066/S66697.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [569](http://www.nuforc.org/webreports/reports/165/S165137.html)
-- [568](http://www.nuforc.org/webreports/reports/165/S165156.html)
-- [567](http://www.nuforc.org/webreports/reports/165/S165134.html)
-- [566](http://www.nuforc.org/webreports/reports/165/S165149.html)
-- [565](http://www.nuforc.org/webreports/reports/165/S165138.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
