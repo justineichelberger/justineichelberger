@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:50:18 on 31 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:33:29 on 31 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Oak Forest (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>3 red lights move slow across the sky and fade out one by onewe were sitting around a camp fire and i looked up and seen a smal red light in the sky. i assumed it was a plane but then i looked to the left and there were two more.  they first started off in a semi straight line and as they moved to the left they formed an add shaped triangle.  the 3 noiseless dots of light moves slow and together for about 10 min.  the the one furthest to the right look like it fell out of the sky and never came back.  then about 5 min later the middle one dissapeard. the last one floated for about 5 more min until it dissapeard also.  they never came back.  the sky was really cloudy that night so they must of been close since we could see them so bright.  we seen air planes fly by them and nothing happend.  the pictures we tried to take did not come back.  they were in the southwest sky</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40382.html](http://www.nuforc.org/webreports/reports/040/S40382.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Tinley Park (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Creepy, Peculiar, Red DotsWell, it was on Halloween night in 2004 and me and my friends just got done trick or treating and as we got back to my friends house, everyone started to point at the sky, it look as if 3 red dots in the sky were in the formation of a triangle. So my buddies dad got his video camera and started to record this incident. This lasted for about 20 minutes. The 3 red dots just moved over the sky and finally after the 20 minutes one by one they started to go out, like a lightbulb going bad. That was the last time I saw it.  But every now and then we look at that video that was recorded.  If anyone has any information on what this is, please tell.  Thanks</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48357.html](http://www.nuforc.org/webreports/reports/048/S48357.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [569](http://www.nuforc.org/webreports/reports/165/S165137.html)
-- [568](http://www.nuforc.org/webreports/reports/165/S165156.html)
-- [567](http://www.nuforc.org/webreports/reports/165/S165134.html)
-- [566](http://www.nuforc.org/webreports/reports/165/S165149.html)
-- [565](http://www.nuforc.org/webreports/reports/165/S165138.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
