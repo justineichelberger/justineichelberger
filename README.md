@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:47 on 31 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:48 on 31 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Tinley Park (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>Three Red Lights Over Tinley Park, 10/31/043 Red Lights, Tinley Park, IL- Cherry Hills Subdivision Three red lights were seen in the sky moving slowly from the south to the north and began traveling east until they could no longer be seen.  They stayed at a pretty constant distance from each other and as they moved across they appeared to change formation from a scattered line to a triangle. There appeared to be no noise coming from the lights and no sudden movements.  Initally the lights appeared very bright (as bright as the red lights from plane towers), but as they traveled further from were they were spotted, they became less brillant until they seemed to disappear from sight (from my perception they traveled to far for the naked eye to see from where I was located).  Airplanes flew in the vasinity.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40340.html](http://www.nuforc.org/webreports/reports/040/S40340.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Tinley Park (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>2nd time tonight-now a single red light in the Eastern sky of Tinley Park, ILThis is my second report for the night.  Earlier we saw 3 red lights (very bright at first) in formation and a few minutes ago, my neighbor (one of the 10 people that saw the earlier 3 red light formation) called and said that there was a single red light in the sky, Eastern sky of Tinley Park from 18000 and 88th Avenue. What was strange is that you could see planes all over the place in the other parts of the sky as we get a lot of flight pattern from 2 of Chicago's airports, and this light was not moving at all.  Just stationary for the most part. Then it blinked, and faded a tad, and then it was gone.  But it did not fade away, it just blinked and then faded to black in 2-3 seconds. A very similar aircraft with lots of flashing lights also flew very, very close to the red light a few minutes after we first saw it, and unlike the other planes in the area, this one had lots of flashing lights (almost like the lights on top of a police car) and it seemed to fly towards this red light intentionally as if it was trying to observe it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40336.html](http://www.nuforc.org/webreports/reports/040/S40336.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [569](http://www.nuforc.org/webreports/reports/165/S165137.html)
-- [568](http://www.nuforc.org/webreports/reports/165/S165156.html)
-- [567](http://www.nuforc.org/webreports/reports/165/S165134.html)
-- [566](http://www.nuforc.org/webreports/reports/165/S165149.html)
-- [565](http://www.nuforc.org/webreports/reports/165/S165138.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
