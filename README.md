@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:42 on 31 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:10:16 on 31 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Wichita (KS) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Another report of the 3 flashing lights in the sky Halloween '96I've seen another description of this event and just wanted to add my memory into it to confirm. The other entry has it dated 10/30/1996 however I was a young kid Trick-Or-Treating at the time and I'm nearly positive it was the night of Halloween 1996.As a large group of family were walking down the street trick-or-treating we spotted 3 stationary lights in the sky. The lights were seen through cloud cover so no actual object was seen, and I can't be sure if the lights belonged to one object or multiple objects. The 3 lights were flashing in sequence, however I can't remember in which direction. The other report states it was right to left, but I honestly can't remember that detail.The next day we heard on the news that many others had seen the lights and there was no explanation for them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56798.html](http://www.nuforc.org/webreports/reports/056/S56798.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Sevierville (TN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5833333333333334 - 0.5833333333333334 minutes.</sub><blockquote><sub>Brillant round craft that hoovered in the morning sky in Tennessee...I was driving my 14 year old son to school, in Chestnut Hill Tennessee, we were on Old Newport Highway. I Was driving about 50MPH when I noticed a brillant, shiny, metallic object in the Eastern sky. I was stunned because I knew that it was not an airplane, nor was it a helicopter because it did not move. It Was hovering.I told my son to look at it and he was as shocked as I was. It was about the height that a helicopter would fly, but it was definitely not a helicopter. It then shot up at an 11:00 o clock angle and was out of the atmosphere in a matter of micro-seconds. My mother was in the back seat of the car and leaned over the seat and saw it as well.I work at a business in Gatlinburg, Tn. and am very conservative. I have a college education, and I have NEVER encountered anything like this before. I knew when I looked up at it what it was...it was an incredible experience..Thank you</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20055.html](http://www.nuforc.org/webreports/reports/020/S20055.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [569](http://www.nuforc.org/webreports/reports/165/S165137.html)
-- [568](http://www.nuforc.org/webreports/reports/165/S165156.html)
-- [567](http://www.nuforc.org/webreports/reports/165/S165134.html)
-- [566](http://www.nuforc.org/webreports/reports/165/S165149.html)
-- [565](http://www.nuforc.org/webreports/reports/165/S165138.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
