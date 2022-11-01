@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:36 on 1 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:06:57 on 1 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Indian Springs (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Strange light formations above Creech Air Force BaseDriving home on November 1, 2018, on highway 95.  Spotted some strange lights in the air above Creech Air Force Base, Indian Springs, Nevada.  The lights just hovered in a straight line for a few minutes.  I pulled my vehicle over and took some video of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145622.html](http://www.nuforc.org/webreports/reports/145/S145622.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Shillington (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Fast bright blue and red light moving east to west.Friday night november 1st 2013. Shillington, Pennsylvania. Around 11:45pm a bright blue light came streaking out of the east, headed west at a high rate of speed.  Once overhead the color changed to red and then shimmering to blue and back to red.  The object seemed to pause over the western horizon, moved sharply to the north then just as fast moved back towards the south.  Paused again then danced back and forth side to side.  Then shot straight up into the sky, but seemed to never go higher than the clouds, it was partly cloudy with ceiling of around 6,000 feet.  After about 8 minutes the object dropped below the horizon.  5 minutes later one of 4 witnesses spotted it again.  This time it appeared to move faster and stop on a dime.  It never moved back towards the east, it stayed on the western horizon for another 3 to 5 min, and then was no longer in sight.  No sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103803.html](http://www.nuforc.org/webreports/reports/103/S103803.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [579](http://www.nuforc.org/webreports/reports/165/S165135.html)
-- [578](http://www.nuforc.org/webreports/reports/165/S165133.html)
-- [577](http://www.nuforc.org/webreports/reports/165/S165132.html)
-- [576](http://www.nuforc.org/webreports/reports/165/S165157.html)
-- [575](http://www.nuforc.org/webreports/reports/165/S165154.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
