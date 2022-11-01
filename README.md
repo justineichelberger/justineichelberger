@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:41 on 1 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:43 on 1 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Napili (HI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Witnessed a bright orange-red fireball type of object moving from Maui toward Molokai at 4:30 AM.Witnessed a bright orange-red fireball type of object moving from Maui toward Molokai.  With binoculars it appeared to have a balloon or some type of parachute attached.  It floated for about two minutes then quickly burned out and fell toward the ocean.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103770.html](http://www.nuforc.org/webreports/reports/103/S103770.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Pleasanton (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>One slow moving Illuminated Saucer Shaped craft seen about 50 ft. above the tree-line moving in a southeast direction.I was taking my son’s friend home tonight about 8:40 PM and the boys were talking when all of a sudden my son started saying "Oh my God,"  So I asked what was he saying that for and he wouldn’t tell us.  At that point we were on Neal St. Then I turned onto Stanley Blvd. and all of a sudden I saw what he was talking about. There was no mistaking that it was a saucer shaped flying craft.  It was moving very slow and it was only about 50 ft. above the tree-line.It had two red blinking lights and it was illuminated. The saucer was lit up but not really with any kind of lights familiar to me. It was like the silver metal glowed somehow. There was a bubble shaped cabin on top of it with lots of small rectangular windows going all around it, that glowed white. This was a very big disk. If compared to the moon right beside it, then the disk was bigger. It was flying tilted on its side laterally coming from a northwest direction and flying southeast.I could not stop because I was in traffic and I had to get my son’s friend home. Now I wish I had my camera with me. It was just like in the movies the way it appeared and it was so vivid. I will never forget it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59570.html](http://www.nuforc.org/webreports/reports/059/S59570.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [579](http://www.nuforc.org/webreports/reports/165/S165135.html)
-- [578](http://www.nuforc.org/webreports/reports/165/S165133.html)
-- [577](http://www.nuforc.org/webreports/reports/165/S165132.html)
-- [576](http://www.nuforc.org/webreports/reports/165/S165157.html)
-- [575](http://www.nuforc.org/webreports/reports/165/S165154.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
