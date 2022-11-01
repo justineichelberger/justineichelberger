@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:21 on 1 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:42 on 1 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Lake Barryessa (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Blue Sphere In Night Sky Lake Barryessa, CaIn late 2006, at the Northern part of Lake Berryessa, California, I walked outside of our mobile home, located at Monticello Ranch Resort, at around 1am.  As I turned left (Northern Direction) I saw a large Sphere, moving from east to west in the sky.  The Sphere was very dark blue in color. It looked as if it possibly had electrical properties to it.  Its altitude was approximately 50 to 100 yards (estimated) above the tree line. Moving at about 15 - 20 mph.The best size estimation is that of a medium size RV, but round, or spherical. I observed this object for about 15 seconds. Thinking, "What the hell is that?", and I wondered how it could move so slow and stay in the air for its size.I turned away for a few seconds, and when I looked back, it was gone. Wow, what a sight that was to see.  I searched the internet, years later, to see if I could find any reports about this type of phenomenon, with no results.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94363.html](http://www.nuforc.org/webreports/reports/094/S94363.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Centerton (AR) reported seeing craft that fit the description of some 'Flash' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>There was a bright light in the sky and after a few seconds it just went dark.  Then reappeared to the east.  It continued to do this for about 15 mins.  Then we witnessed 2 flashes lined up next to each other.  They did the same thing, got really bright and then just went.  We also witnessed a bunch of small red lights moving very fast in odd directions around the same vicinity as the bright flashes.  After about an hour they were just gone and didn't come back.  Witnesses were 34, 35, and 10.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130960.html](http://www.nuforc.org/webreports/reports/130/S130960.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [579](http://www.nuforc.org/webreports/reports/165/S165135.html)
-- [578](http://www.nuforc.org/webreports/reports/165/S165133.html)
-- [577](http://www.nuforc.org/webreports/reports/165/S165132.html)
-- [576](http://www.nuforc.org/webreports/reports/165/S165157.html)
-- [575](http://www.nuforc.org/webreports/reports/165/S165154.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
