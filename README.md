@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:01:51 on 1 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:46 on 1 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1991, an anonymous witness in Upland (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Bright, white, shining  object in the sky shaped somewhat like a frisbee, but thicker. It hovered completely motionless for 10-15 seconI was staying at my sisters apartment. We both had babies at that time, which is why I can recall the year so well. I had woken up with my son early to feed him. About 30 minutes later around 6-6:30 am I stepped out onto her balcony on the 2nd floor of her apartment. I was outside for roughly 5 minutes. The sky was well into getting light out, which is what caught my eye about what I saw. It had a bright, white glow to it.I saw it hovering  in the sky completely motionless for roughly 10-15 seconds. Then in a very fast speed,  it took off sideways and upwards out of site.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161050.html](http://www.nuforc.org/webreports/reports/161/S161050.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Smithton (MO) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>grey and white hovering Y shapeI am an Inspector for the ((name and type of organization deleted)).  While driving to work today, I observed something I was unable to identify.  I was westbound on Hwy. 50, approximately 8-10 miles from Sedalia.  This would be the vicinity of Smithton, MO.  I noticed a shape in the sky ahead of me.  Clouds had just moved into the area and it had sprinkled rain.  The shape was over an open field to the South of the highway by approximately 100 feet.  I noticed a grey shape just a little darker than the clouds and no movement to it.  It appeared to hover.  I was driving at or about the speed limit of 60 m.p.h. and observed the object for a total of possibly 15 seconds.  The color wasn't a shiny metallic, but seemed to be shades of white and grey.  The shape of the object was that of a 'Y'.  There was a fuselage and a wing coming off each (back?) side in the slanted position.  I saw no propellors, rotors, or 'engine' type parts.  It seemed to be somewhat larger than an ultralite, about the size of a small plane.  The object appeared to hover, as I could detect no movement. This area is approximately 15 miles WSW of Whitman Air Force Base in Knob Noster, MO. A co-worker who drives in from the West told me he saw a black helicopter hovering just before he got to work. Our work place is roughly halfway between my sighting area and the AFB.  There is also an airport for small aircraft in the area. This was not any airplane I have ever seen (and I have seen many of all types).((NUFORC Note:  We are grateful for the report.  We wonder whether the witness may have observed a type of experimental aircraft known as a VariEasy, or a VariViggen, designed by Burt Rutan.  They are very unusual in appearance, particularly to someone who has never seen one.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14784.html](http://www.nuforc.org/webreports/reports/014/S14784.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [579](http://www.nuforc.org/webreports/reports/165/S165135.html)
-- [578](http://www.nuforc.org/webreports/reports/165/S165133.html)
-- [577](http://www.nuforc.org/webreports/reports/165/S165132.html)
-- [576](http://www.nuforc.org/webreports/reports/165/S165157.html)
-- [575](http://www.nuforc.org/webreports/reports/165/S165154.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
