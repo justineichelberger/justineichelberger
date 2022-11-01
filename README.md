@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:53:56 on 1 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:44:42 on 1 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Kit Carson (CO) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>3 yellow haze colored lights almost you could touch them......in the north east sky i saw a 3 very large yellow lights / in this shape there were 2 lights in a row going down then skipped one space then the last light....when i starred at it then it was gone.....it was very close....then 2 minuets later 3 i guess fighter jets appeared overhead it looked like they were looking for it these 3 jets covered the area high above then 2 of them circled the area for about 20 minutes then just flew around the area.....the lights vanished into thin air after i starred at them colorado springs is maybe 100 miles or less from kit carson colorado. i am a flagger on the hyway 40 east of going east of  kit  carson....my boss also saw this..... then people traveling on this hyway approached my station to stop cars i encountered 2 other cars in which the people saw the same thing i saw they explained it to me i did not tell them what i saw they arrived about 30 -45 min. later so they were around 40-50 miles away</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59579.html](http://www.nuforc.org/webreports/reports/059/S59579.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1983, an anonymous witness in Gibsonville (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Light observed in night sky followed by what appeared as military aircraft.It’s been some time since this occurred, so I am guessing as to the exact date.  However, I remember the event quite clearly.I was in high school and attending a band practice. It was a very clear night, and quite dark.  We were outside practicing our marching under the parking lot lights.   --- For what ever reason, a few friends and I noticed a small light in the sky.  The light was silent and did not blink or flash.  At first, the light seemed to be a slow moving, high altitude plane, flying in an easterly(?) direction, and quite unremarkable.  However, after approximately 30 seconds of observing the light, it appeared to change direction and start flying strait up.  This upward direction was not apparent at first, however as we watched this object, it appeared to become smaller and the light dimmer.  Finally after about 1 to 2 minutes we could no longer view the object.  This seemed quite odd, and many of us were speculating what we had just seen.    What happened next made it even more interesting.A short time later, after the light disappeared, 5 planes flying in formation, appeared from the east(?). (Unsure of the exact direction.)  They did not appear to be flying as high as the light we had witnessed and we could hear their engines.  They appeared to be some type of military jet and were moving quite quickly.  These planes flew to the location where we had last seen the light. The planes then broke formation and seemed to be searching the area.  One plane appeared to fly strait up, the others spread out, a started flying in a wide circular pattern.   After a few moments, the planes regrouped and headed back the direction they came from.That was the end of the event.  From the time we initially saw the light until the time the jets left the area was no more than 10 to 12 min.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26729.html](http://www.nuforc.org/webreports/reports/026/S26729.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [579](http://www.nuforc.org/webreports/reports/165/S165135.html)
-- [578](http://www.nuforc.org/webreports/reports/165/S165133.html)
-- [577](http://www.nuforc.org/webreports/reports/165/S165132.html)
-- [576](http://www.nuforc.org/webreports/reports/165/S165157.html)
-- [575](http://www.nuforc.org/webreports/reports/165/S165154.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
