@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:42 on 1 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:17:12 on 1 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Centerton (AR) reported seeing craft that fit the description of some 'Flash' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>There was a bright light in the sky and after a few seconds it just went dark.  Then reappeared to the east.  It continued to do this for about 15 mins.  Then we witnessed 2 flashes lined up next to each other.  They did the same thing, got really bright and then just went.  We also witnessed a bunch of small red lights moving very fast in odd directions around the same vicinity as the bright flashes.  After about an hour they were just gone and didn't come back.  Witnesses were 34, 35, and 10.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130960.html](http://www.nuforc.org/webreports/reports/130/S130960.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in June Lake (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>MIGHT HAVE BEEN POWER BY ANT GRAVITY DEVICEJUNE LAKE CA. AT THE TIME I WAS WORKING FOR THE TELEPHONE COMPANY.  CAME OUT OF THE CENTRAL OFFICE AT JUNE LAKE AND LOOK NORTH.  I SAW THREE OBJECTS CONING FROM THE NORTH TO SOUTH.ABOUT 2000 FEET UP AND SPEED WAS ABOUT 100 MPH.  THEY WERE FLYING IN FORMATION.ONE IN THE LOWER IN FRONT THE OTHER TWO ABOVE LEFT AND RIGHT.  AT FIRST I THOUHT THEY WERE JETS . BUT I DIDN'T HEAR A SOUND.  THEY WHEN TO THE WEST RIGHT OVER SILVER LAKE.  THAT'S WHEN I GOT A GOOD LOOK AT THEM.I DIDN'T BELIEVE MY EYES.THREE SAUSES SHAPE FLY MACHINES.  STILL NO SOUND.THEY WEREN'T VERY BIG BIG ENOUGH FOR ONE MAN.  ONTOP WHAT LOOK LIKE ROUND PORT HOLES.  JUNE LAKE IS CLOSE TO AREA 51.  THEY WENT SOUTH THEN BEHIND A MOUNTAIN.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79435.html](http://www.nuforc.org/webreports/reports/079/S79435.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [579](http://www.nuforc.org/webreports/reports/165/S165135.html)
-- [578](http://www.nuforc.org/webreports/reports/165/S165133.html)
-- [577](http://www.nuforc.org/webreports/reports/165/S165132.html)
-- [576](http://www.nuforc.org/webreports/reports/165/S165157.html)
-- [575](http://www.nuforc.org/webreports/reports/165/S165154.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
