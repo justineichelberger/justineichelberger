@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:44 on 1 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:45 on 1 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1994, an anonymous witness in Trezevant (TN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Triangle UFO changes three lives.I am astronomer by heart and had 2 of my telescopes out that night as I have done scores of nights. The sky was extremely clear. Milky Way clearly visible when a large blackarea of NO stars in the shape of a triangle was slowly going over head in complete silence. Amazement quickly turned to sheer terror . None of could speak or even run it was so overwhelming.I managed to start walking backwards toward the house but could not take my eyes off of this. There are no words to accurately depict how Huge & BLACK yet extremely visible it was. I kept saying to myself. "How can this be?"We made our way to the house and like scared children hid in a back room with the lights off.  Let me assure you this was real!!!I am a medical professional who works in the aviation field now and have never believed in UFO's until that night.  My friends, one a corporate manager with his firm  & the other a retired well respected farmer, said we must tell someone.  But after the object was gone we decided to tell no-one in fear of what would be said about us.  We seldom speak of the incident and when we do it is in privacy between us. This is the first time anyone of us has spoken up.  It WAS real.  We all had similar S/S weeks folling the incident as well of which I will not discuss. I do wish there was a legitimate and sincere authority I could talk to about this without fear of reprocussion as more happened that I can say here.  Prior to this night I believe "IGNORANCE is Bliss" Now I know WE are not alone I just don't know who or what they are or want.((NUFORC Note:  Source of report indicates that date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58811.html](http://www.nuforc.org/webreports/reports/058/S58811.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Miramar (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>7 Orange ships over Miramar Florida7 orange flaming ships traveled in a row one after another.  The moving to the right and shooting off and speeds I've never seen.  Looked like the starship enterprise when it goes to warp drive, it was amazing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123261.html](http://www.nuforc.org/webreports/reports/123/S123261.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [579](http://www.nuforc.org/webreports/reports/165/S165135.html)
-- [578](http://www.nuforc.org/webreports/reports/165/S165133.html)
-- [577](http://www.nuforc.org/webreports/reports/165/S165132.html)
-- [576](http://www.nuforc.org/webreports/reports/165/S165157.html)
-- [575](http://www.nuforc.org/webreports/reports/165/S165154.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
