@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:37 on 31 October 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:40 on 1 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Niagara Park (Australia) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.0 - 0.0 minutes.</sub><blockquote><sub>Photograph of saucer shaped disc central coast NSWWent out the backyard with my Canon SLR EOS 1000D, i was taking pictures of the sky for the exact reason of trying to capture ufo's, i was lucky and got this! I was shooting randomly into the sky towards gosford, i didnt notice anything at all in the sky when taking these shots, it is a perfect day not really any clouds, i only noticed when connecting to the TV that i could see it.About 5 mins after this a black helicopter came over and went in the direction of the disc that was on my picture.((NUFORC Note:  Image of a hummingbird, we believe.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93979.html](http://www.nuforc.org/webreports/reports/093/S93979.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Cincinnati (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>3 fireballs in skysaw 3 red and yellow fireballs rotating around each other then moving across the sky with one moving away from the other two until disappearing behind the clouds</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103793.html](http://www.nuforc.org/webreports/reports/103/S103793.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [569](http://www.nuforc.org/webreports/reports/165/S165137.html)
-- [568](http://www.nuforc.org/webreports/reports/165/S165156.html)
-- [567](http://www.nuforc.org/webreports/reports/165/S165134.html)
-- [566](http://www.nuforc.org/webreports/reports/165/S165149.html)
-- [565](http://www.nuforc.org/webreports/reports/165/S165138.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
