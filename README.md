@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:48 on 1 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:21 on 1 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Gainesville (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Saw what a hovering object making a almost purring noise.  Multiple colored bright lights shined directly into the window of our apartment.  The hovercraft stopped outside the window, as if to look at us, and then disappeared behind the trees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115150.html](http://www.nuforc.org/webreports/reports/115/S115150.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Lake Barryessa (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Blue Sphere In Night Sky Lake Barryessa, CaIn late 2006, at the Northern part of Lake Berryessa, California, I walked outside of our mobile home, located at Monticello Ranch Resort, at around 1am.  As I turned left (Northern Direction) I saw a large Sphere, moving from east to west in the sky.  The Sphere was very dark blue in color. It looked as if it possibly had electrical properties to it.  Its altitude was approximately 50 to 100 yards (estimated) above the tree line. Moving at about 15 - 20 mph.The best size estimation is that of a medium size RV, but round, or spherical. I observed this object for about 15 seconds. Thinking, "What the hell is that?", and I wondered how it could move so slow and stay in the air for its size.I turned away for a few seconds, and when I looked back, it was gone. Wow, what a sight that was to see.  I searched the internet, years later, to see if I could find any reports about this type of phenomenon, with no results.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94363.html](http://www.nuforc.org/webreports/reports/094/S94363.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [579](http://www.nuforc.org/webreports/reports/165/S165135.html)
-- [578](http://www.nuforc.org/webreports/reports/165/S165133.html)
-- [577](http://www.nuforc.org/webreports/reports/165/S165132.html)
-- [576](http://www.nuforc.org/webreports/reports/165/S165157.html)
-- [575](http://www.nuforc.org/webreports/reports/165/S165154.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
