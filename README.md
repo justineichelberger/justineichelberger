@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:06:41 on 1 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:53 on 1 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Black square object seen over Austin Tx, Fall of 2002.This occurred last fall with low cloud cover and light precipitation so the object was highly visible silhouetted against the cloudy backdrop. The object was a black square shape and moved five times as fast as any aircraft I see fly over my house towards Austin-Bergstrom Int'l airport. The object was also very large and had no lights at all. After the object moved across the sky to my left and behind a tree I ran in to get my roommate and when I came back out it had moved straight up or past the large tree. This thing was unbelievable and I am hoping there were other sightings of this thing.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33192.html](http://www.nuforc.org/webreports/reports/033/S33192.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Boone (NC) reported seeing craft that fit the description of some 'Formation' over a period of approximately Still occurring - Still occurring minutes.</sub><blockquote><sub>I was watching YouTube and noticed a bunch of lights outside my window I tried to take a picture but my iPad’s camera could not render it so I drew it instead. The event is still occurring.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150322.html](http://www.nuforc.org/webreports/reports/150/S150322.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [579](http://www.nuforc.org/webreports/reports/165/S165135.html)
-- [578](http://www.nuforc.org/webreports/reports/165/S165133.html)
-- [577](http://www.nuforc.org/webreports/reports/165/S165132.html)
-- [576](http://www.nuforc.org/webreports/reports/165/S165157.html)
-- [575](http://www.nuforc.org/webreports/reports/165/S165154.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
