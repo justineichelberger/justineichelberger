@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:48 on 1 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:01:51 on 1 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Tampa (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Blue glowing object in tampaMyself and two children driving south on Himes avenue and saw a blue triangular glowing object.  We stopped to watch, was west of Gandy and Himes.  I've lived here for over 30 years and haven't seen anything like it. It was moving sporadically, not like a plane.  It moved around for about 5 minutes then disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73116.html](http://www.nuforc.org/webreports/reports/073/S73116.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1991, an anonymous witness in Upland (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Bright, white, shining  object in the sky shaped somewhat like a frisbee, but thicker. It hovered completely motionless for 10-15 seconI was staying at my sisters apartment. We both had babies at that time, which is why I can recall the year so well. I had woken up with my son early to feed him. About 30 minutes later around 6-6:30 am I stepped out onto her balcony on the 2nd floor of her apartment. I was outside for roughly 5 minutes. The sky was well into getting light out, which is what caught my eye about what I saw. It had a bright, white glow to it.I saw it hovering  in the sky completely motionless for roughly 10-15 seconds. Then in a very fast speed,  it took off sideways and upwards out of site.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161050.html](http://www.nuforc.org/webreports/reports/161/S161050.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [579](http://www.nuforc.org/webreports/reports/165/S165135.html)
-- [578](http://www.nuforc.org/webreports/reports/165/S165133.html)
-- [577](http://www.nuforc.org/webreports/reports/165/S165132.html)
-- [576](http://www.nuforc.org/webreports/reports/165/S165157.html)
-- [575](http://www.nuforc.org/webreports/reports/165/S165154.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
