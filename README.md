@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:03:21 on 1 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:41 on 1 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Redding (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Redding, CA Unidentified Flying Object in bright orange light seen with brother and two other friends on November 2008.On the night of November 2008, forgot what the exact day.  I was star gazing with my reflector telescope south east of where I live approximately about 11:45 pm pst.  My brother had came out to star gaze with me and just as he had looked North east approximately about 40k-100k ft.(don't know how high, but no higher than a regular airplane).  I had told my brother that is not a moon, because a moon does not appear where it should.  This unidentified aircraft looked like a full moon large circular with one bright color(orange), the light was huge,not glimmering, shining, neither blinking, it was bright light.  That night there was four of us, me my brother and two other friends.  The unidentified flying object sits in the air without a sound and interestingly the object moved/hover.  And I said oh Sh*t, it's moving.  It had moved just a bit at the moment, then we were stunned.   This object had no sound, moving very rapidly but slowly towards us and then turned direct! ion towards the nearby airport.  We had thought it was a airplane, all of the sudden the craft flew over us towards northwest of our home and stopped for a few seconds.  The object started moving again, now going south.  As the object was moving away further, the very last thing it did was took off just like we see in the movies star strek,it just zoomed and disappeared.((NUFORC Note:  Witness indicates that date of sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75449.html](http://www.nuforc.org/webreports/reports/075/S75449.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Napili (HI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Witnessed a bright orange-red fireball type of object moving from Maui toward Molokai at 4:30 AM.Witnessed a bright orange-red fireball type of object moving from Maui toward Molokai.  With binoculars it appeared to have a balloon or some type of parachute attached.  It floated for about two minutes then quickly burned out and fell toward the ocean.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103770.html](http://www.nuforc.org/webreports/reports/103/S103770.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [579](http://www.nuforc.org/webreports/reports/165/S165135.html)
-- [578](http://www.nuforc.org/webreports/reports/165/S165133.html)
-- [577](http://www.nuforc.org/webreports/reports/165/S165132.html)
-- [576](http://www.nuforc.org/webreports/reports/165/S165157.html)
-- [575](http://www.nuforc.org/webreports/reports/165/S165154.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
