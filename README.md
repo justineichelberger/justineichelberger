@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:53 on 1 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:36 on 1 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Boone (NC) reported seeing craft that fit the description of some 'Formation' over a period of approximately Still occurring - Still occurring minutes.</sub><blockquote><sub>I was watching YouTube and noticed a bunch of lights outside my window I tried to take a picture but my iPad’s camera could not render it so I drew it instead. The event is still occurring.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150322.html](http://www.nuforc.org/webreports/reports/150/S150322.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Indian Springs (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Strange light formations above Creech Air Force BaseDriving home on November 1, 2018, on highway 95.  Spotted some strange lights in the air above Creech Air Force Base, Indian Springs, Nevada.  The lights just hovered in a straight line for a few minutes.  I pulled my vehicle over and took some video of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145622.html](http://www.nuforc.org/webreports/reports/145/S145622.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [579](http://www.nuforc.org/webreports/reports/165/S165135.html)
-- [578](http://www.nuforc.org/webreports/reports/165/S165133.html)
-- [577](http://www.nuforc.org/webreports/reports/165/S165132.html)
-- [576](http://www.nuforc.org/webreports/reports/165/S165157.html)
-- [575](http://www.nuforc.org/webreports/reports/165/S165154.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
