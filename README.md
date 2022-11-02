@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:45 on 2 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:10:14 on 2 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Hyattsville (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>While sitting in my car I saw to round lights that looked like the headlights from a automobile, then the two became one.I was sitting in my car in an apartment parking lot, and I saw what looked like two headlights of a car.  I first thought it was two helicopters searching for something.  Then the light on the left (facing me) begin to move slowly beside the other light until the two lights became one.  I thought to myself if it was a helicopter it would be impossible for the two to get so close.  After a couple of seconds they separated and flew in opposite directions with red & white blinking lights like on an aircraft.  The direction in which I was facing I could see the power light (red) from the train station but these lights where further off in the sky.  I looked in the daylight to see if there was some tall tower with lights and I did not see anything.  It may have been the airforce or something but I thought it was strange.  I watch the news to see if any testing or training was going on in the airspace and nothing has been reported.  Of course my family thinks I am crazy, not sure what I saw but I saw something.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85120.html](http://www.nuforc.org/webreports/reports/085/S85120.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Glendale (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Fast-flashing light crossed the sky at intervals while moving VERY fast.Walking the dog with my wife.  We saw a flashing light in the sky, then moments later it flashed 2 very quick times 2-hands distance away moving south across the sky. Within 5 seconds or less it flashed in the same way (2 very fast flashes) in the middle of the sky and flashed again in the southern sky before it passed the horizon.  It had just become dark. We could see no shape just the light.  But it crossed the whole unobstructed sky in less than 5 seconds flashing at intervals across the sky disappearing in-between.  Altitude seemed low but just assuming this due to it's speed across the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160377.html](http://www.nuforc.org/webreports/reports/160/S160377.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165161.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165158.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165789.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165170.html)
-- [345](http://www.nuforc.org/webreports/reports/160/S160491.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
