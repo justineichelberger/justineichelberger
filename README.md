@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:17:03 on 2 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:04:38 on 2 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Powder Springs (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I observed a triangle in the sky.I was traveling westbound on Hwy 120, toward Dallas. When I was approximately one mile East of Lost Mountain Road, I observed a row of bright white lights that were at an unknown distance ahead of me and appeared to be heading east. From my perspective these lights were slightly above the tree line. As the aircraft got closer I observed what appeared to be a large, light blue lamp on the bottom. This lamp blinked slowly, unlike strobes on other aircraft that I have observed. At this time, I estimated the altitude of the aircraft to be to be 4,000 to 5,000 feet and it was slightly to my left. This is when I was able to see that the aircraft had a distinct triangular shape. The surface was dark compared to the sky above, which was a lighter shade of gray. The fuselage and the wing were one in the same. From this perspective, almost below the aircraft, there was one white light at each corner of the triangle. The forward most angle of the triangle was slightly greater then the two angles that were equal in the aft section of it. I immediately turned left into a community ballpark in an attempt to continue watching this flying machine. Unfortunately, light pollution from the ball field obscured my view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59590.html](http://www.nuforc.org/webreports/reports/059/S59590.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Weston (CT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Rocket-like object streaking across the sky with whitish tailAs I was driving east on Cannondale Road, I saw an object travelling which I initially thought was a plane, but then realized it was more like a white light streaking north across the sky.  It seemed as if it had white sparks (tail) coming out of the back.  It was a very odd looking rocket-like object that I thought might have been a meteor because the trajectory appeared slightly downward.  I quickly lost sight of it due to heavy tree coverage.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78700.html](http://www.nuforc.org/webreports/reports/078/S78700.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165161.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165158.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165789.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165170.html)
-- [345](http://www.nuforc.org/webreports/reports/160/S160491.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
