@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:42 on 2 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:01:03 on 2 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Petersburg (KY) reported seeing craft that fit the description of some 'Circle' over a period of approximately ? - ? minutes.</sub><blockquote><sub>huge orb like object in picture not visable to naked eye.I was taking a picture of the fog over the water.  The sky around was clear and bright blue. Nothing but pure blue sky was visible however, when I looked at the picture there was a huge glowing bright orb like object.  My husband and I both looked and saw nothing before and after taking the shot.  Just clear blue sky.  I have no idea what this could be.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115076.html](http://www.nuforc.org/webreports/reports/115/S115076.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Marion (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Saw 2 different types of lights in the sky in Marion, INMy boyfriend and I were walking to his parents about a block away.  The first lights we saw were on the way there.  We live outside of the city so we get an amazing sky view.  First we saw 1 white light that didn't flash at all like the airplanes and looked about twice the size.  There was no sound and it changed direction and speed about 3 times before disappearing suddenly.  We saw a second one far to the right behaving in the same way but going different directions.  When it went to the far right we could hear dogs begin to bark from the same direction.We get to his parents and we're there for awhile visiting and eating.  We leave and just as we head down the road, he says, "I hope we get to see something else," an a bright orange "shooting star" shoots through the sky and appears to explode and disappear as it falls.  Did anyone else see this?  Please report it so we know we're not the only ones.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123309.html](http://www.nuforc.org/webreports/reports/123/S123309.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165161.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165158.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165789.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165170.html)
-- [345](http://www.nuforc.org/webreports/reports/160/S160491.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
