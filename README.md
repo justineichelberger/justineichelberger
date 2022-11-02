@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:54 on 2 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:42 on 2 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Fordyce (AR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>One by one these nine to twelve brightly lit orange orbs flew overhead excelerating and decreasing in speed as they appeared to be following a lead orb of bright white light.  They approached from the northwestern sky and began disappearing as they passed over Fordyce.  The entire light show only lasted five to ten minutes.  The lead orb was in place south of my rural town when my adult granddaughter called my attention to the light show in the sky.  One by one the lights went out as each orb reached near the  area where the lead white one was sitting stationery.  The sky was cloudless.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103825.html](http://www.nuforc.org/webreports/reports/103/S103825.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Petersburg (KY) reported seeing craft that fit the description of some 'Circle' over a period of approximately ? - ? minutes.</sub><blockquote><sub>huge orb like object in picture not visable to naked eye.I was taking a picture of the fog over the water.  The sky around was clear and bright blue. Nothing but pure blue sky was visible however, when I looked at the picture there was a huge glowing bright orb like object.  My husband and I both looked and saw nothing before and after taking the shot.  Just clear blue sky.  I have no idea what this could be.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115076.html](http://www.nuforc.org/webreports/reports/115/S115076.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165161.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165158.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165789.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165170.html)
-- [345](http://www.nuforc.org/webreports/reports/160/S160491.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
