@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:40:30 on 2 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:24:29 on 2 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Point Pleasant by the Barnegat Bay (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>fire ball low flying bright orange, silentfireball flying  low below clouds with a low cloud ceiling asolutely silect, very low and silect bright orange round flickering   reminded us of the fire kites that burn out   steady speed went from west to east slightly south burning brightly lasting minute or two   at first thought it was an meteor but usually w/ a meteor it is out before someone else can see it,  we were able to discuss what it was after I pointed it out to my neighbor   I have no idea what it was, no smoke, sound or smell just a bright orange light((NUFORC Note:  The party who submitted the report elects to remain totally anonymous, and provides no contact information, so we are unable to contact the witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104074.html](http://www.nuforc.org/webreports/reports/104/S104074.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Bigfork (MN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Two UFO's Sighted in Northern MNMy husband and I were out on our back deck when I noticed 3 white, blinking lights in the southern sky.  We thought it was unusual to have 3 airplanes that close together, especially since we don't see many planes here in northern MN.  They were headed in a westerly direction.  One of the lights eventually veered SW and then we heard the sound of it's jet engines so we knew it was indeed an airplane.  The other two blinking lights continued to travel west, making no sound, and then suddenly one of them took a 90 degree turn, which surprised us because airplanes can't turn that quickly.  It turned again and continued to travel in a NW direction with the other blinking light.  We followed their course in the sky for about 10 minutes when suddenly it looked as if they connected to each other and 4 GIANT beams of light shone down from the craft.  It was almost too bright to look at but you could definitely tell there were 4 lights.  It illuminated a very large area.  This lasted for about 5 minutes and then just disappeared.  No more blinking lights at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47440.html](http://www.nuforc.org/webreports/reports/047/S47440.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165161.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165158.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165789.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165170.html)
-- [345](http://www.nuforc.org/webreports/reports/160/S160491.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
