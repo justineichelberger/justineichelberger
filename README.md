@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:44 on 1 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:34 on 2 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Pleasanton (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Large saucer shaped object, with many windows, which was flying slow and low to the ground  was seen tonight.In the city of Pleasanton my mother, a friend (11 yrs.), and me(11 yrs.) witnessed a UFO at approximately 8:40 PM western time. We were driving in the car.I was the first to notice it. It appeared to have a greenish aurora to the metal body of the craft. The top three rows of windows and the bottom three rows of windows were square  and seemed to be windows, which were emanating an unearthly white glow. There were also two rows of circular shaped windows in the middle of the ship from my point of reference that emanated the same white glow.There were also two red lights one was located towards the top, and the other was located towards the bottom. These red lights pulsed on and off every couple of seconds. There were also many white lights that were around the edge of the craft. The lights had the same glow as the windows.The ship was located 50 to 100 feet above the tree line and was moving around 40 miles per hour. It seemed like I was looking towards the bottom and sides from my location in the back seat of the car.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59571.html](http://www.nuforc.org/webreports/reports/059/S59571.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Lyons (CO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>strange humming noise over house late at nightOn this night at 2:20 AM my wife and daughter were woke up by a massive humming noise right over our house - it also slightly shook the house. I was apparently awakened by the noise too, but did not fully gain full consciousness until it ceased and so I did not know what it was that had woke me. My wife walked into my daughters room and they both listened to it together. The sound seemed to move from above the house from the east and moved slowly over the house and then more quickly away from the house toward the west. I did not post this account in 1997 because I had already posted another account about a UFO and felt that it would sound unbelievable that so many events were happening to us. But I recently noted another person’s account on this site about a like event at 3:50 AM on 11/7/04 in Ashburn, VA. Our account was much like that one except we saw no special light.However on 11/9/97 (a few days after the first event) my wife was woke out of sleep by a light shining in her face – but this time with no noise. Also, later on, a small lamp in our room came on by itself and caused her to wake up again. What I found interesting is that from 11/2/97 till 11/7/2004 is 7 X 366 days. And from 11/9/97 until 11/7/04 is 7 X 356 days.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45024.html](http://www.nuforc.org/webreports/reports/045/S45024.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [579](http://www.nuforc.org/webreports/reports/165/S165135.html)
-- [578](http://www.nuforc.org/webreports/reports/165/S165133.html)
-- [577](http://www.nuforc.org/webreports/reports/165/S165132.html)
-- [576](http://www.nuforc.org/webreports/reports/165/S165157.html)
-- [575](http://www.nuforc.org/webreports/reports/165/S165154.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
