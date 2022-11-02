@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:49:55 on 2 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:40:30 on 2 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Tahlequah (OK) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Spotted very bright (brighter than Venus or Sirius) light 12 degrees above the Northeast horizon that was mostly stationary for approximately 2 hours.  There was however some movement detected by eye as well as through good 8x32 Barska binoculars.  A red light was flashing alternating with another color that was more difficult to define...possibly light green.  Witnessed by myself as well as my wife.  Sky was very clear. The object was too distant to determine a shape.  The movement was easy to see but was quite limited in extent.  It basically hovered in the same spot for 2 hours at which point I gave up trying to determine what it was.  Of note I text messaged a male Operating room nurse that I work with and he confirmed and gave the same description as me. It was roughly near where Capella in Auriga would be looking from Tahlequah, Oklahoma, but was not Capella!!  I have 27 years of experience looking at Capella from Tahlequah and this was much, much brighter, with a flashing red light.  Of note it made the local news but my wife said the recording cut off and she therefore did not catch any details except that someone did videotape the object in the Northeast.  The object rose to about 20 degrees above the horizon for a while (2 fist widths at arm's length).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123364.html](http://www.nuforc.org/webreports/reports/123/S123364.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Point Pleasant by the Barnegat Bay (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>fire ball low flying bright orange, silentfireball flying  low below clouds with a low cloud ceiling asolutely silect, very low and silect bright orange round flickering   reminded us of the fire kites that burn out   steady speed went from west to east slightly south burning brightly lasting minute or two   at first thought it was an meteor but usually w/ a meteor it is out before someone else can see it,  we were able to discuss what it was after I pointed it out to my neighbor   I have no idea what it was, no smoke, sound or smell just a bright orange light((NUFORC Note:  The party who submitted the report elects to remain totally anonymous, and provides no contact information, so we are unable to contact the witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104074.html](http://www.nuforc.org/webreports/reports/104/S104074.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165161.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165158.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165789.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165170.html)
-- [345](http://www.nuforc.org/webreports/reports/160/S160491.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
