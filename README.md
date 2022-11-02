@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:24:29 on 2 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:17:03 on 2 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Bigfork (MN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Two UFO's Sighted in Northern MNMy husband and I were out on our back deck when I noticed 3 white, blinking lights in the southern sky.  We thought it was unusual to have 3 airplanes that close together, especially since we don't see many planes here in northern MN.  They were headed in a westerly direction.  One of the lights eventually veered SW and then we heard the sound of it's jet engines so we knew it was indeed an airplane.  The other two blinking lights continued to travel west, making no sound, and then suddenly one of them took a 90 degree turn, which surprised us because airplanes can't turn that quickly.  It turned again and continued to travel in a NW direction with the other blinking light.  We followed their course in the sky for about 10 minutes when suddenly it looked as if they connected to each other and 4 GIANT beams of light shone down from the craft.  It was almost too bright to look at but you could definitely tell there were 4 lights.  It illuminated a very large area.  This lasted for about 5 minutes and then just disappeared.  No more blinking lights at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47440.html](http://www.nuforc.org/webreports/reports/047/S47440.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Powder Springs (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I observed a triangle in the sky.I was traveling westbound on Hwy 120, toward Dallas. When I was approximately one mile East of Lost Mountain Road, I observed a row of bright white lights that were at an unknown distance ahead of me and appeared to be heading east. From my perspective these lights were slightly above the tree line. As the aircraft got closer I observed what appeared to be a large, light blue lamp on the bottom. This lamp blinked slowly, unlike strobes on other aircraft that I have observed. At this time, I estimated the altitude of the aircraft to be to be 4,000 to 5,000 feet and it was slightly to my left. This is when I was able to see that the aircraft had a distinct triangular shape. The surface was dark compared to the sky above, which was a lighter shade of gray. The fuselage and the wing were one in the same. From this perspective, almost below the aircraft, there was one white light at each corner of the triangle. The forward most angle of the triangle was slightly greater then the two angles that were equal in the aft section of it. I immediately turned left into a community ballpark in an attempt to continue watching this flying machine. Unfortunately, light pollution from the ball field obscured my view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59590.html](http://www.nuforc.org/webreports/reports/059/S59590.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165161.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165158.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165789.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165170.html)
-- [345](http://www.nuforc.org/webreports/reports/160/S160491.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
