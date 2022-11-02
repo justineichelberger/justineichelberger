@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:02:41 on 2 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:01:00 on 2 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I saw about 5 to 9 round objects with white reflections or bright lights flying north from Tijuana to San Diego, they crossed over and kept heading north.  They were flying at an approximate elevation of 3,500 ft. (I used the approximate elevation of the nearby mountain they passed by to get the altitude)  The objects were flying in a partially cloudy sky and passed over the San Ysidro Mountain but not above it. I was looking South East when I first spotted them across Tijuana.  Then I looked east when they were the closest to my location (point of reference).  These objects were not in a linear position, they were scattered at different altitudes and some closer together and other further apart.  The objects kept flying north until I lost visibility of them.In order to see the flying objects I had to focus my vision into the sky and stare at it until I was able to spot them.  They moved at a steady pace not too fast but not slow either.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123363.html](http://www.nuforc.org/webreports/reports/123/S123363.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Oakville (CT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Zigzagging objectIn the western sky just after sundown - a glowing object low on the horizon. Took the binoculars and went back outside to get a better look.  It was still there and when seen through the binoculars it appeared to be a red and green sphere that would suddenly start zigzagging around.  I called my husband outside and he saw it also.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85098.html](http://www.nuforc.org/webreports/reports/085/S85098.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165161.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165158.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165789.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165170.html)
-- [345](http://www.nuforc.org/webreports/reports/160/S160491.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
