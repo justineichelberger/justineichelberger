@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:39 on 3 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:40 on 3 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Albany (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>triangle of lights moving across sky.Triangle 1/2 size of orions belt, moving e to w. Looked like a group of very dull stars, that moved at an incredible rate/speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78723.html](http://www.nuforc.org/webreports/reports/078/S78723.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in New Rome (WI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>orange orbs over Lake Petenwell with JetsIn rural Adams-Juneau county over Lake Petenwell a line of 4 orange orbs suddenly appeared in the Western sky. These orbs had a halo around them possibly due to a cloudy sky but not drop or appear to move at all. There were 4 lit up in a row with a 5th down to the right of the others. There were 2 jet planes were circling the area the orbs appeared in even after they disappeared. These were witnessed by a 22 yr Navy vet and a retired Licensed Practical Nurse.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47417.html](http://www.nuforc.org/webreports/reports/047/S47417.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [358](http://www.nuforc.org/webreports/reports/165/S165163.html)
-- [357](http://www.nuforc.org/webreports/reports/160/S160464.html)
-- [356](http://www.nuforc.org/webreports/reports/160/S160407.html)
-- [355](http://www.nuforc.org/webreports/reports/160/S160408.html)
-- [354](http://www.nuforc.org/webreports/reports/160/S160399.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
