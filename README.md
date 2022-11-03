@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:43 on 3 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:45 on 3 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Norwalk (IA) reported seeing craft that fit the description of some '' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I did not see a craft, I took the dog out at 4:15a.m. looking West, slightly south, would hit the ground north of Cummings, IA,  there was a LARGE white streak in the sky, very wide, it looked close.  It was NOT from a plane I know that, the streak started FAR ABOVE the moon, almost full, and came straight down past it to the tree tops and I'm assume the ground.  By the time I got inside for my camera and husband it had faded somewhat.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137094.html](http://www.nuforc.org/webreports/reports/137/S137094.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Bend (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Clear blue sky.  Object was in the air hovering not moving.  Round with a red steady light on the bottom of the craft.  Black in color.  I observed the object stationary for 10 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14801.html](http://www.nuforc.org/webreports/reports/014/S14801.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [358](http://www.nuforc.org/webreports/reports/165/S165163.html)
-- [357](http://www.nuforc.org/webreports/reports/160/S160464.html)
-- [356](http://www.nuforc.org/webreports/reports/160/S160407.html)
-- [355](http://www.nuforc.org/webreports/reports/160/S160408.html)
-- [354](http://www.nuforc.org/webreports/reports/160/S160399.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
