@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:40:22 on 3 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:28:09 on 3 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Albany (NY) reported seeing craft that fit the description of some '' over a period of approximately 3 nights - 3 nights minutes.</sub><blockquote><sub>Man repts. witnessing triangular shaped craft pass overhead on NO 03, 04, & 05.  Illuminated clouds; changed shape!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00950.html](http://www.nuforc.org/webreports/reports/000/S00950.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Oklahoma City (OK) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Possible booster streams in a state with launch sites I've been able to find.First off, I'm not assuming this is extra-terrestrial.  I think it might have been some kind of rocket, and am primarily looking for ways to check and see if any known launchings were taking place on November 6, 2009, at about 6:50 pm CST near Oklahoma City.  I don't know how to look for that kind of information, since searches online aren't bearing much fruit. I was driving home with my boyfriend, and for about seven minutes, we drove towards a little pink dot near the sunset.  From far away, I asked my boyfriend what he thought it was, and he guessed maybe Venus.  However, as we got closer, the object got significantly larger.  We only traveled about two miles, so I don&#8217;t think this thing would have been particularly high in the sky. When we saw it at its closest, it appeared to be two white streams being emitted from a single tiny black dot situated above the streams.  That dot flickered orange frequently.  I&#8217;d pass it off as a jet using its booster from Tinker Air Force Base, but this object did not appear to move.  My boyfriend said it looked like it might be moving slowly upwards, which would make sense if the streams were coming from thrusters. Unfortunately, I had to turn the car at that point, and we couldn&#8217;t see it anymore.  It had gone from near the horizon to almost directly overhead as it got larger, and once we turned, it was obscured by the car roof.  I rushed home, which probably took about five minutes, grabbed my camera, and ran back out...  But we couldn&#8217;t find it again. I saw an airplane flying on the horizon near it, when it was still too small to distinguish the streams.  The plane was much smaller than the shape, even then, and looked farther away.  I could also see the plane moving, while I could not observe the object moving. It seemed terrestrial to me, maybe a rocket taking up a satellite or something.  I just don&#8217;t know where would be close enough to launch something like that, for it to be close enough to visually change so significantly in size after driving only a couple of miles.  If there is anywhere I can check records of what&#8217;s been launched when and where, I&#8217;d really like to check out whatever it was that I saw. Location information:  When we lost whatever it was, we were facing West and turning South on N 122nd and Memorial in Oklahoma City. Image information:  I couldn't get a picture, but I did a couple of quick illustrations.  The first shows the shape from far away, when we first saw it, and the airplane behind it. The second shows how it looked when we saw it at its closest. I don't see where to attach them to this, but I will email them to the address provided.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73135.html](http://www.nuforc.org/webreports/reports/073/S73135.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [358](http://www.nuforc.org/webreports/reports/165/S165163.html)
-- [357](http://www.nuforc.org/webreports/reports/160/S160464.html)
-- [356](http://www.nuforc.org/webreports/reports/160/S160407.html)
-- [355](http://www.nuforc.org/webreports/reports/160/S160408.html)
-- [354](http://www.nuforc.org/webreports/reports/160/S160399.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
