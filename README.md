@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:05:06 on 3 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:56 on 3 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Revere (MA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Glowing ball of light as low as a landing plane, shooting across the sky as fast as a bullet.I walked outside and this object completely drew my attention.  It was a glowing ball of light, yellowish gold,, the color and shape of a street light/lamp post.  Shot across the sky as fast as a shooting star only this was as low as a plane landing, maybe even lower.  I'm used to seeing planes from Logan, but this was unlike anything I have ever seen in my life.  It shot across the sky until it went over the skyline, where I lost it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123538.html](http://www.nuforc.org/webreports/reports/123/S123538.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Melbourne (VIC, Australia) () reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>ufo's near melbourne with flickering lightsWhile driving along the Hume Highway near the Broadford exit, just out of Melbourne,Australia on Saturday night the 3rd October (sic), 2001.We spotted flickering lights on the right side of us as we travelled towards Melbourne, then in front of us we saw a white light which was very bright, it was stationary as if to look like a planet, it suddenly went dull and changed to blue and red flickering lights, it quickly passed over us and headed north, but there was no noise.( Red light on top,white light on the right and blue to the left). There were 2 ufo's in formation heading North /West. We counted at least 9 sets of lights. All ufo's had blue and red flickering lights ( These lights were flashing to quickly to be plane navigation lights). They were moving at extremely fast speeds.  We stopped to watch 2 ufo's flying in formation while the others went in different directions.((NUFORC Note:  We suspect the witness means a date of November 03, 2001, as indicated in the Event Date box.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20079.html](http://www.nuforc.org/webreports/reports/020/S20079.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [358](http://www.nuforc.org/webreports/reports/165/S165163.html)
-- [357](http://www.nuforc.org/webreports/reports/160/S160464.html)
-- [356](http://www.nuforc.org/webreports/reports/160/S160407.html)
-- [355](http://www.nuforc.org/webreports/reports/160/S160408.html)
-- [354](http://www.nuforc.org/webreports/reports/160/S160399.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
