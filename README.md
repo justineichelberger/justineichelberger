@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:29:01 on 3 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:40:22 on 3 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Chalybeate Springs (AL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>going down a dark road between chalybeate springs and moluton me and my were goning down the road when i saw about 6 lights which at first appeared to be a airplane but as we got closer i could tell the lights just stood still not moving  in the sky.i say something about it to her she said maybe it was someone just having fun with thier airplane i told her that airplanes dont sit there and hover they move across the sky.it was too wide to be a  helecopter it had 6 none blinking white  lights .bright but not real bright it sit there as we got just about under it it wasnt a airplane i could tell.to wide to  be a helecoptor i could barely make out the black shape of it between the lights in the night sky .it was only a few hundred feet off the ground it made no sound as i could hear it just sat there in the sky.we just a little ways after we passed it i turned around to look again there was nothing there it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40573.html](http://www.nuforc.org/webreports/reports/040/S40573.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Albany (NY) reported seeing craft that fit the description of some '' over a period of approximately 3 nights - 3 nights minutes.</sub><blockquote><sub>Man repts. witnessing triangular shaped craft pass overhead on NO 03, 04, & 05.  Illuminated clouds; changed shape!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00950.html](http://www.nuforc.org/webreports/reports/000/S00950.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [358](http://www.nuforc.org/webreports/reports/165/S165163.html)
-- [357](http://www.nuforc.org/webreports/reports/160/S160464.html)
-- [356](http://www.nuforc.org/webreports/reports/160/S160407.html)
-- [355](http://www.nuforc.org/webreports/reports/160/S160408.html)
-- [354](http://www.nuforc.org/webreports/reports/160/S160399.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
