@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:56 on 3 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:03:24 on 3 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Melbourne (VIC, Australia) () reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>ufo's near melbourne with flickering lightsWhile driving along the Hume Highway near the Broadford exit, just out of Melbourne,Australia on Saturday night the 3rd October (sic), 2001.We spotted flickering lights on the right side of us as we travelled towards Melbourne, then in front of us we saw a white light which was very bright, it was stationary as if to look like a planet, it suddenly went dull and changed to blue and red flickering lights, it quickly passed over us and headed north, but there was no noise.( Red light on top,white light on the right and blue to the left). There were 2 ufo's in formation heading North /West. We counted at least 9 sets of lights. All ufo's had blue and red flickering lights ( These lights were flashing to quickly to be plane navigation lights). They were moving at extremely fast speeds.  We stopped to watch 2 ufo's flying in formation while the others went in different directions.((NUFORC Note:  We suspect the witness means a date of November 03, 2001, as indicated in the Event Date box.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20079.html](http://www.nuforc.org/webreports/reports/020/S20079.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Amarillo (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>It was warm out at first it appiered to be a weatherballon (I thoughtdue the HIgh P.)My sister , mother and I pulled to eat in parking lot and at 11o'clock on the horizon this object went in a circulular west to s.w.THE OBJECT WAS CIRCULLAR IN SHAPE AND MOVED RAPIDLY WEST TO S.W.AND BACK AGAIN.THE SIZE WAS LARGER THAN VENUS.AT FIRST I WATCHED IT FOR ABOUT 10 MIN.THEN SHOWED MY MOTHER AND SISTER FOR ANOTHER 20MIN. THEN THE OBJECT FLASCHED BRIGHT WHITE AND DISSAPPERAED IN THE WESTERN SKY MY BACKGROUNDED IS GRAD AT W.T.S.U. AND AN INSURANCE BUSINESS.WE WRE SOBER AS A CLOCK AND NEVER SEEN ANYTHING LIKE THIS.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10429.html](http://www.nuforc.org/webreports/reports/010/S10429.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [358](http://www.nuforc.org/webreports/reports/165/S165163.html)
-- [357](http://www.nuforc.org/webreports/reports/160/S160464.html)
-- [356](http://www.nuforc.org/webreports/reports/160/S160407.html)
-- [355](http://www.nuforc.org/webreports/reports/160/S160408.html)
-- [354](http://www.nuforc.org/webreports/reports/160/S160399.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
