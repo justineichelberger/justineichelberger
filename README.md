@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:45 on 3 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:44 on 3 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Beograd (Yugoslavia) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10s - 10s minutes.</sub><blockquote><sub>v-formation of light(?), white-blue balls(8-12),v-formation of light(?), white-blue balls(8-12), at undefined height, at fast speed disapearing in one point.after leviation,during the period of 3-5 sec, they crossed 2/3 of the skyscape.the v- shape was changing, but the general direction was straight. The light was not strong, almost reflection.the color of object had slight variations between blue and ligh-blue.((NUFORC Note:  We do not know if the witness means March 11, or November 03, 2000.  We assume he is using the European convention, which suggests November 03.  We have altered the date here.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16033.html](http://www.nuforc.org/webreports/reports/016/S16033.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Dark, triangular-shaped object traveling slowly to the south-east.I live in Pima County, AZ about half way between the northerly limit of the city of Tucson and Oro Valley to my north-west.  I am near the base of the south-westerly end of the Santa Catalina Mountains.  My ZIP is 85704, and my altitude is 2500 feet above sea level.This (Monday) evening I was sitting on my second-floor balcony enjoying the evening air and observing the night sky to my north-east.  I was not using binoculars or a telescope.  The sky in my view was cloudless and I could clearly observe Capella rising in my direct field of view.  I was wearing my distance nighttime-diving glasses to aid my view of the night sky; however, my un-aided distance vision is excellent.At 1910 hours I observed a dark object transit my field of view, traveling generally from a north-northwesterly direction to a south-southeasterly direction at a steady speed and course.  The angle above the horizon was about 35 degrees and the object passed well above Capella.  At first I thought it was a flight of geese in a tight ‘V’ formation of symmetrical shape.  However, the shape simply was too uniform and steady to be a flight of birds; unlike the shape of a flight of geese which changes in shape over even a short period of time.  I thought that I could see individual dark objects, perhaps 9 or 10 of them, forming the ‘V’ (a ‘V’ similar to boomerang-shape but broader at the center than the traditional boomerang shape).I observed this object for approximately 40 seconds - I have an additional view to the east and south-east which I can observe through a separate opening in my balcony.  So, I was able to observe the object as it passed through an arc of about 90-100 degrees.There was no sound and no light from the object.  I have no clue as to the object’s altitude.  However, my guess is that if the object was flying at 1,000 feet above the ground, its speed was about 120 miles per hour; perhaps a bit more.I’m submitting this report simply to confirm and reinforce any other reports you may have received concerning this object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66696.html](http://www.nuforc.org/webreports/reports/066/S66696.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [358](http://www.nuforc.org/webreports/reports/165/S165163.html)
-- [357](http://www.nuforc.org/webreports/reports/160/S160464.html)
-- [356](http://www.nuforc.org/webreports/reports/160/S160407.html)
-- [355](http://www.nuforc.org/webreports/reports/160/S160408.html)
-- [354](http://www.nuforc.org/webreports/reports/160/S160399.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
