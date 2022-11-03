@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:06:46 on 3 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:44 on 3 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Englewood (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Duplicating lights in Southwestern Sky above Rotonda West / Cape Haze FloridaDriving northbound on SR 776 Near intersection of 776 and Regina Road noticed 3, then 4 then 5 lights in a row in south/ southwestern sky up at about a 45 degree angle.  Lights appeared to be duplicating toward the east there was also a similer light further off to the west.  All lights appeared to fade off with in a matter of 30-60 seconds.  Noticed two more lights appear as I continued northbound past the intersection of of SR 776 and Spinnaker.  Lights were not typical lights seen in this area from passing aircraft headed to Punta Gorda or Fort Myers airports.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85133.html](http://www.nuforc.org/webreports/reports/085/S85133.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Longmont (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Three green spheres flew above us for nearly 45 minutes in Longmont, CO and light flashes appeared in sequence behind 4 clouds.My daughter (who is ((deleted)) at CSU and also works for ((deleted)) in Ft. Collins) and I were visiting a friend in Longmont, CO last Thursday night, 11/3/05.  We noticed three green circular shapes moving high above us.  The dog had been acting very strangely during dinner, to the point that our host had gone outside to see if anyone was there.  During the event the cows were mowing loudly next door, and following the event, the wind chimes seemed to ring very loudly all at once.  It lasted between 30 and 45 minutes.  The "objects" did not seem to be opaque, but almost like circles of light.  We also noticed extensions from the sides, almost like wings which made a flying or flapping motion.  They flew in patterns, almost parallel at times, and other times in more opposite figure eight-like patterns.  They most interesting thing they did was occasionally "collide", after which they would ricochet apart and fly randomly until they got back into some kind of pattern.  We were not afraid, because they appeared almost "playful" in nature.  There were no sounds that we could hear.  In addition, there was a strange flashing behind four clouds, which were close together.  The flashes would jump in sequence from one cloud to the next, although sometimes it would skip one of the four clouds, and only flash behind the other three.((NUFORC Note:  Possible advertising lights??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47595.html](http://www.nuforc.org/webreports/reports/047/S47595.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [358](http://www.nuforc.org/webreports/reports/165/S165163.html)
-- [357](http://www.nuforc.org/webreports/reports/160/S160464.html)
-- [356](http://www.nuforc.org/webreports/reports/160/S160407.html)
-- [355](http://www.nuforc.org/webreports/reports/160/S160408.html)
-- [354](http://www.nuforc.org/webreports/reports/160/S160399.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
