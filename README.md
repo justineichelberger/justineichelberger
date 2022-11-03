@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:11:43 on 3 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:06:46 on 3 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Canby (OR) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Saw flash of light directly under handle of big dipper constellation. Between first star of handle and second, approximatly even to base of pan to first star in handle.No air traffic in area, was bright like camera flash and did not repeat. General location of constellation was observed to the north from location.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78736.html](http://www.nuforc.org/webreports/reports/078/S78736.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Englewood (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Duplicating lights in Southwestern Sky above Rotonda West / Cape Haze FloridaDriving northbound on SR 776 Near intersection of 776 and Regina Road noticed 3, then 4 then 5 lights in a row in south/ southwestern sky up at about a 45 degree angle.  Lights appeared to be duplicating toward the east there was also a similer light further off to the west.  All lights appeared to fade off with in a matter of 30-60 seconds.  Noticed two more lights appear as I continued northbound past the intersection of of SR 776 and Spinnaker.  Lights were not typical lights seen in this area from passing aircraft headed to Punta Gorda or Fort Myers airports.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85133.html](http://www.nuforc.org/webreports/reports/085/S85133.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [358](http://www.nuforc.org/webreports/reports/165/S165163.html)
-- [357](http://www.nuforc.org/webreports/reports/160/S160464.html)
-- [356](http://www.nuforc.org/webreports/reports/160/S160407.html)
-- [355](http://www.nuforc.org/webreports/reports/160/S160408.html)
-- [354](http://www.nuforc.org/webreports/reports/160/S160399.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
