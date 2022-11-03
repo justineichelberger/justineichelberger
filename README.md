@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:01:19 on 3 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:45 on 3 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Oakhill (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>The object moved from left to right, then went up over the clouds and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143655.html](http://www.nuforc.org/webreports/reports/143/S143655.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Beograd (Yugoslavia) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10s - 10s minutes.</sub><blockquote><sub>v-formation of light(?), white-blue balls(8-12),v-formation of light(?), white-blue balls(8-12), at undefined height, at fast speed disapearing in one point.after leviation,during the period of 3-5 sec, they crossed 2/3 of the skyscape.the v- shape was changing, but the general direction was straight. The light was not strong, almost reflection.the color of object had slight variations between blue and ligh-blue.((NUFORC Note:  We do not know if the witness means March 11, or November 03, 2000.  We assume he is using the European convention, which suggests November 03.  We have altered the date here.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16033.html](http://www.nuforc.org/webreports/reports/016/S16033.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [358](http://www.nuforc.org/webreports/reports/165/S165163.html)
-- [357](http://www.nuforc.org/webreports/reports/160/S160464.html)
-- [356](http://www.nuforc.org/webreports/reports/160/S160407.html)
-- [355](http://www.nuforc.org/webreports/reports/160/S160408.html)
-- [354](http://www.nuforc.org/webreports/reports/160/S160399.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
