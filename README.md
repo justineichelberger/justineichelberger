@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:46 on 3 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:41 on 3 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Sumpter (SC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Yesterday afternoon my family and I were outside tossing a football. We decided to take a break in the trampoline. My husband was the first to spot these UFOs then myself and my son. There was a large fleet of UFOs moving toward the sun. Most were circles withered flashing white and blue lights. There were also a few crafts that were larger in size. Silver and saucer shaped.2 of the circular crafts flew behind the cluster of crafts.they made slower left to right movements. They also had some type of smoke coming from the back of the craft.one of the crafts from the cluster took off east at an extremely fast speed. We are all pretty shook up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150405.html](http://www.nuforc.org/webreports/reports/150/S150405.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Pittsburg (CA) reported seeing craft that fit the description of some '' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Strange sound of high pitched electricity and wht you  hear in the movies.My dog woke me up and we went to the backyard, there was this high pitched electricity and god knows what it was.  It did not sound from this earth.  I researched UFO sounds on the Internet and it was a combination of 3 sounds from the following link:http://www.((URL deleted.  Possibly inserted in report for commercial purposes??))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66675.html](http://www.nuforc.org/webreports/reports/066/S66675.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [358](http://www.nuforc.org/webreports/reports/165/S165163.html)
-- [357](http://www.nuforc.org/webreports/reports/160/S160464.html)
-- [356](http://www.nuforc.org/webreports/reports/160/S160407.html)
-- [355](http://www.nuforc.org/webreports/reports/160/S160408.html)
-- [354](http://www.nuforc.org/webreports/reports/160/S160399.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
