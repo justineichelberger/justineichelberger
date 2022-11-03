@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:14:10 on 3 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:05:06 on 3 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Gretna (NE) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Three red dots in a triangular pattern appeared in the sky and disappeared shortly after.I was driving home and felt a strange presence (scarier this time).  I looked up into the sky as if expecting it and moments later the "craft" appeared ahead of me in the sky.  Three red dots.  Really far away this time but definitely not stars.  It stayed for a moment and then when I reached a certain point in the road (this always happens) it disappeared.  It seems harmless and there was only one this time.  I don't know why they are watching or following me.  I am not always afraid by them - one time I saw four of them- they follow me down Lincoln Road.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143663.html](http://www.nuforc.org/webreports/reports/143/S143663.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Revere (MA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Glowing ball of light as low as a landing plane, shooting across the sky as fast as a bullet.I walked outside and this object completely drew my attention.  It was a glowing ball of light, yellowish gold,, the color and shape of a street light/lamp post.  Shot across the sky as fast as a shooting star only this was as low as a plane landing, maybe even lower.  I'm used to seeing planes from Logan, but this was unlike anything I have ever seen in my life.  It shot across the sky until it went over the skyline, where I lost it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123538.html](http://www.nuforc.org/webreports/reports/123/S123538.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [358](http://www.nuforc.org/webreports/reports/165/S165163.html)
-- [357](http://www.nuforc.org/webreports/reports/160/S160464.html)
-- [356](http://www.nuforc.org/webreports/reports/160/S160407.html)
-- [355](http://www.nuforc.org/webreports/reports/160/S160408.html)
-- [354](http://www.nuforc.org/webreports/reports/160/S160399.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
