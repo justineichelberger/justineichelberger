@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:14:32 on 4 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:07:43 on 4 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Rotonda West (FL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Unusual groups of erratic and sometimes retrograde lights.Looking due West, distance approx 1-2 miles, we noticed an unusual group of bright lights moving slowly, general direction South.  Individual lights in the group would suddenly flash brightly and disappear.  Thought originally it might have been a satellite breaking up.  However, as we continued to watch, more lights would flick into existence and other groups would appear elsewhere in the sky, but all due West from our viewpoint.  Another group of four lights appeared ahead of the original group, equidistant from each other in a straight line covering about 100 yards.  These too blinked out but reappeared BEHIND the original group.  General color of lights yellowish but as those that blinked out were extremely bright white.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85213.html](http://www.nuforc.org/webreports/reports/085/S85213.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in London (UK/England) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Clear defined sighting of an utterly unidentifiable object at a busy airport.We were taking off from Heathrow Airport in London on a BA flight to Boston at around 9:00 am.  I was sitting in the window seat of the aircraft, as I enjoy air-travel and watching our take-off's.  Heathrow airport was busy at the time, and I was watching many other planes around us out of the window.  We had reached about 1000 feet when I saw a dot about 500 feet below us, at a perpendicular angle towards the plane.  I followed the object, looking intently, expecting to be able to identify the aircraft as it approached closer.  As it approached I was very surprised to see that it did not materialize into any sort of aviation related object.  It was a perfectly spherical shape, a light yet dull metallic gray in colour, with no visible markings or imperfections in the purely circular shape. It caught my attention, and I struggled to figure out what it was.  I assumed it must have been a stationary object on the ground until it passed approximately 500 feet below the ! plane at a relatively high velocity.  From my guess it was relatively small object, no more than 5 metres in diameter.  I was completely and utterly puzzled, having never seen anything like it.  I have excellent 20/20 vision, and it was a perfect day visually, no clouds/precipitation or fog, and the sun was not too bright.  I was quite alert at the time, and was not tired.I made out the object very clearly, and could easily define the spherical shape and dull metallic colour, it was not blurry in any way and definitely was not a speck or smudge on the aircraft window.  That bizarre sighting has puzzled me ever since.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73934.html](http://www.nuforc.org/webreports/reports/073/S73934.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/165/S165169.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165168.html)
-- [324](http://www.nuforc.org/webreports/reports/165/S165173.html)
-- [323](http://www.nuforc.org/webreports/reports/165/S165171.html)
-- [322](http://www.nuforc.org/webreports/reports/160/S160416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
