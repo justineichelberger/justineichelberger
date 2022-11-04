@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:36 on 4 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:48 on 4 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Spruce Grove (Canada) (AB) reported seeing craft that fit the description of some 'Cone' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>I was driving west on highway 16 and off to the south a cone shaped glow appeared to be moving southwest.  The shape look very similar to what I describe as a comet shape( it had what seemed to be a tail) and moved steady across the sky, went behind a cloud, reappeared and then disappeared in the distance.  I could see no color but it had a very strong glow in the sunny daylight noon hour.Time was 12:05 MST Thursday Nov4 1999 I was travelling west on Highway 16 just North of a small town called Spruce Grove.  I notice this particular bright cloud out my drivers side window looking south.  I looked at it and it had sort of a comet looking appearance about it --mainly this cloud seemed to have a tail and then I noticed it was moving.   I looked to the side several times and it seemed to be moving a pace similar to an aircraft.  I had to drive about a mile in order to find a place to pull over and observe the object safely.  When I picked up the object again in the sky it had move further south and was still quite visible due to its brightness. I measured the size of the object in the air with my arms extended and it measured to be about 1/2 centimetre.  It moved behind a cloud and then reappeared and move steadily off to the distance.  The pace was consist while viewing this object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10424.html](http://www.nuforc.org/webreports/reports/010/S10424.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Augusta (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Last night as my boyfriend and I was walking home from kmart we looked up in the sky and saw a HUGE bright white light. It was way too big to be a star.  The weird thing about it was the part of the sky it was in was clear and to the west the sky was black and red....I'm aware that it could of just been the sun setting and the biggest star I've ever seen in my life but this was seriously creepy!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131031.html](http://www.nuforc.org/webreports/reports/131/S131031.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/165/S165169.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165168.html)
-- [324](http://www.nuforc.org/webreports/reports/165/S165173.html)
-- [323](http://www.nuforc.org/webreports/reports/165/S165171.html)
-- [322](http://www.nuforc.org/webreports/reports/160/S160416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
