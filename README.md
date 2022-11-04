@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:46 on 4 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:41 on 4 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Shakopee (MN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Smaller circles form bigger circle over Shakopee. I was able to get a clear picture.Around midnight I noticed these lights in the sky above the casino in Shakopee at Canterbury Park.  About an hour later, the lights had moved ever so slowly to where they were at 1 am when I left to drive back to Illinois.  I took several photos and the lights appear to be in a circular pattern similar to what was reported in Sepetember.  There were no casino advertisements at all being displayed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137116.html](http://www.nuforc.org/webreports/reports/137/S137116.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Very unusual "star" to the SE Seattle skyI live about 2 blocks north of the Seattle Center/Space Needle.  I was up late watching TV and noticed an unusually bright "star" to the SE, about 30 degrees.  What struck me as odd was that it appeared much closer and brighter than any of the other stars.  The object had a very bright white light and appeared to alternate smaller lights of flashing red and pale blue.  I got out my 35mm gear, mounted a 300mm lens, and heavy duty tripod to aid my viewing.  Using the focusing screen's center fresnel as a reference point, the object moved very slowly through the field of view; the camera was completely rock steady.  Over the course of the next two hours the object continued to exhibit the same light patterns.  I did not have a sufficiently "fast" film available and did not attempt any photography.((NUFORC Note:  Venus, we suspect.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40430.html](http://www.nuforc.org/webreports/reports/040/S40430.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/165/S165169.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165168.html)
-- [324](http://www.nuforc.org/webreports/reports/165/S165173.html)
-- [323](http://www.nuforc.org/webreports/reports/165/S165171.html)
-- [322](http://www.nuforc.org/webreports/reports/160/S160416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
