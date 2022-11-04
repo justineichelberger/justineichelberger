@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:43:26 on 4 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:30:15 on 4 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Mount Clemens (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>triangular shaped light in the sky with a fourth orb following behindDriving home the other night my fiance and I looked up in the sky only to see a triangular shaped "craft"of some sort.  The table consisted of 3 separate bright orange/yellow lights spherical in shape.  There was also a fourth "craft" moving behind it.  This fourth craft appear to attach itself to the triangular shape and from there the bottomed right craft slowly peeled.off and the lights disappeared.  It didn't appear to be an airplane because there were no flashing lights indicating so.  We have also witnessed this occurance while driving near Armada, MI.  We he no explanation for what these lights could possibly be.  The lights either completely vanish only to leave the fourth orb of light by itself for approximately a minute and then that too vanishes, or they all completely disappear together.  On a side note, both my fiance and I are hunters.  And since seeing there lights we have not seen any wildlife. Including birds and squirrels.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104158.html](http://www.nuforc.org/webreports/reports/104/S104158.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Cairo (WV) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright, triangle object in clear November sky over secluded ridgeIt was an extremely clear morning, and I was watching for the Taurids as I waited for my dog to finish his business.  I noticed what appeared to be a satellite, moving west to east.  It was the brightest I'd ever seen, however--brighter than Mars or Sirius. I watched it cross the sky for a couple of minutes, surprised at its brightness and speed... but when it was close to being overhead (it was slightly to the North, rather than directly overhead),  I realized that it was actually a cluster of three lights, one on top and two below.  Nothing was flashing or blinking, which is why I thought it was a satellite at first; the lights were steady and extremely bright. At this angle, they were distinct. The lower lights were smaller in diameter, but just as bright.  The object seemed too bright to be a satellite. After another minute or so it disappeared over the eastern horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47437.html](http://www.nuforc.org/webreports/reports/047/S47437.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/165/S165169.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165168.html)
-- [324](http://www.nuforc.org/webreports/reports/165/S165173.html)
-- [323](http://www.nuforc.org/webreports/reports/165/S165171.html)
-- [322](http://www.nuforc.org/webreports/reports/160/S160416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
