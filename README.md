@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:30:15 on 4 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:14:32 on 4 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Cairo (WV) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright, triangle object in clear November sky over secluded ridgeIt was an extremely clear morning, and I was watching for the Taurids as I waited for my dog to finish his business.  I noticed what appeared to be a satellite, moving west to east.  It was the brightest I'd ever seen, however--brighter than Mars or Sirius. I watched it cross the sky for a couple of minutes, surprised at its brightness and speed... but when it was close to being overhead (it was slightly to the North, rather than directly overhead),  I realized that it was actually a cluster of three lights, one on top and two below.  Nothing was flashing or blinking, which is why I thought it was a satellite at first; the lights were steady and extremely bright. At this angle, they were distinct. The lower lights were smaller in diameter, but just as bright.  The object seemed too bright to be a satellite. After another minute or so it disappeared over the eastern horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47437.html](http://www.nuforc.org/webreports/reports/047/S47437.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Rotonda West (FL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Unusual groups of erratic and sometimes retrograde lights.Looking due West, distance approx 1-2 miles, we noticed an unusual group of bright lights moving slowly, general direction South.  Individual lights in the group would suddenly flash brightly and disappear.  Thought originally it might have been a satellite breaking up.  However, as we continued to watch, more lights would flick into existence and other groups would appear elsewhere in the sky, but all due West from our viewpoint.  Another group of four lights appeared ahead of the original group, equidistant from each other in a straight line covering about 100 yards.  These too blinked out but reappeared BEHIND the original group.  General color of lights yellowish but as those that blinked out were extremely bright white.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85213.html](http://www.nuforc.org/webreports/reports/085/S85213.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/165/S165169.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165168.html)
-- [324](http://www.nuforc.org/webreports/reports/165/S165173.html)
-- [323](http://www.nuforc.org/webreports/reports/165/S165171.html)
-- [322](http://www.nuforc.org/webreports/reports/160/S160416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
