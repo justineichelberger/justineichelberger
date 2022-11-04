@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:48 on 4 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:49 on 4 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Augusta (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Last night as my boyfriend and I was walking home from kmart we looked up in the sky and saw a HUGE bright white light. It was way too big to be a star.  The weird thing about it was the part of the sky it was in was clear and to the west the sky was black and red....I'm aware that it could of just been the sun setting and the biggest star I've ever seen in my life but this was seriously creepy!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131031.html](http://www.nuforc.org/webreports/reports/131/S131031.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Sheffield (MA) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I saw a sphere of circular light with three linear lights shooting off from it - almost like a squid turned upside down - the bottom was the squid body and the lights were on top of it.  The lights lasted for about five minutes and then faded.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130999.html](http://www.nuforc.org/webreports/reports/130/S130999.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/165/S165169.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165168.html)
-- [324](http://www.nuforc.org/webreports/reports/165/S165173.html)
-- [323](http://www.nuforc.org/webreports/reports/165/S165171.html)
-- [322](http://www.nuforc.org/webreports/reports/160/S160416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
