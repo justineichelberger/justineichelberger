@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:07:43 on 4 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:41 on 4 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in London (UK/England) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Clear defined sighting of an utterly unidentifiable object at a busy airport.We were taking off from Heathrow Airport in London on a BA flight to Boston at around 9:00 am.  I was sitting in the window seat of the aircraft, as I enjoy air-travel and watching our take-off's.  Heathrow airport was busy at the time, and I was watching many other planes around us out of the window.  We had reached about 1000 feet when I saw a dot about 500 feet below us, at a perpendicular angle towards the plane.  I followed the object, looking intently, expecting to be able to identify the aircraft as it approached closer.  As it approached I was very surprised to see that it did not materialize into any sort of aviation related object.  It was a perfectly spherical shape, a light yet dull metallic gray in colour, with no visible markings or imperfections in the purely circular shape. It caught my attention, and I struggled to figure out what it was.  I assumed it must have been a stationary object on the ground until it passed approximately 500 feet below the ! plane at a relatively high velocity.  From my guess it was relatively small object, no more than 5 metres in diameter.  I was completely and utterly puzzled, having never seen anything like it.  I have excellent 20/20 vision, and it was a perfect day visually, no clouds/precipitation or fog, and the sun was not too bright.  I was quite alert at the time, and was not tired.I made out the object very clearly, and could easily define the spherical shape and dull metallic colour, it was not blurry in any way and definitely was not a speck or smudge on the aircraft window.  That bizarre sighting has puzzled me ever since.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73934.html](http://www.nuforc.org/webreports/reports/073/S73934.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Sidney (ME) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>The thing was light lik agiant fireball and dropped little things from it then it landed in our back yardWe got a call from the neighbors about a giant Thing outside.  It hovered a bout a hundred yards above us and dropped a few thingsthat were small. The main UfO landed in our back field. It went out shortly after it landed. We never found it. That same night the power went out and flickered back on. is this related to the Flight?((NUFORC Note:  We will attempt to investigate the alleged power failure.  Generally, there is a commonplace explanation for most power failures.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14817.html](http://www.nuforc.org/webreports/reports/014/S14817.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/165/S165169.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165168.html)
-- [324](http://www.nuforc.org/webreports/reports/165/S165173.html)
-- [323](http://www.nuforc.org/webreports/reports/165/S165171.html)
-- [322](http://www.nuforc.org/webreports/reports/160/S160416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
