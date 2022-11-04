@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:43 on 4 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:46 on 4 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Middletown (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately Minutes - Minutes minutes.</sub><blockquote><sub>Witness noticed a bright light that first appeared to be a plane descending over the Middlefield hills while looking out the front window atop a Durham ct hill.  Witness was located south of it, facing north.  It moved slowly in a downward 45-deg direction towards the west, paused, and descended again slowly straight down. It paused again, then spun as if it was a centrifuge.  Lights dimmed and disappeared.  Guess at location would be, near Wadsworth State Park or further north.  It was unusually bright.  (MUFON CMS).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143783.html](http://www.nuforc.org/webreports/reports/143/S143783.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Shakopee (MN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Smaller circles form bigger circle over Shakopee. I was able to get a clear picture.Around midnight I noticed these lights in the sky above the casino in Shakopee at Canterbury Park.  About an hour later, the lights had moved ever so slowly to where they were at 1 am when I left to drive back to Illinois.  I took several photos and the lights appear to be in a circular pattern similar to what was reported in Sepetember.  There were no casino advertisements at all being displayed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137116.html](http://www.nuforc.org/webreports/reports/137/S137116.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/165/S165169.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165168.html)
-- [324](http://www.nuforc.org/webreports/reports/165/S165173.html)
-- [323](http://www.nuforc.org/webreports/reports/165/S165171.html)
-- [322](http://www.nuforc.org/webreports/reports/160/S160416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
