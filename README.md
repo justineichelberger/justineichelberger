@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:44 on 4 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:47 on 4 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Belgaum (Karnataka)(India) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>It was around 1:15 - 1:20 am Indian Standard Timing 4th November 2019 when I witnessed the sighting from the terrace of my house located in Belgaum, Karnataka, India. I personally like stars and the night sky very much. I can point out and name at any given night with a clear sky about a handful of stars, planets, constellations and other celestial bodies. The reason I'm saying this is because I understand the night sky to some level at least. Starting off I was with a friend of mine, we both went to the terrace to light a cigarette. The skies nowadays are pretty clear at night here in Belgaum and the Stars looks amazing. As I was observing the Orion's belt, just below the Orion's belt, that is in between the Orion's belt and Sirius (which was in the East direction at that time) I saw 4-6 pulsating red and brown lights moving slowly in a V formation from my left to the right in the sky. As soon as I saw them I shouted to my friend and asked him to see it as well. But till he saw it to where I pointed it had already moved to the right part of the sky and faded in the night sky. All of this happened in about 5-6 seconds. When seen from one arm's length the object was the size of a baseball. Around 500 mts - 1 km away. About 45-50 degrees from the horizon. It wasn't like super low but it was at a distance. These lights seemed to move in unison at the same speed, which made me think that they may be attached to the same body. While they were slowly moving I saw the lights kinda pulsating and leaving a tiny after- trail of light for a minuscule amount of time. The lights moved slowly from left to right and faded in the night sky. When I witnessed this I freaked out as to the what the hell I just saw. I had no rational explanation as to what it was. Then I explained all these details to my friend. I was breathing heavily and was super anxious. The first thing I did was I went on Google and typed "V formation lights UFO". The first link I got was " The Black Triangle UFO - Wikipedia".  Wikipedia had exactly the same description - pulsating lights, seen at night time, lights in V formation, last sighting 2018. I was flabbergasted. After this I started going through different images of this UFO, I stopped at one and it was exactly what I saw. I still can't explain as to what that could have been. It was too huge for any aircraft I've seen. Military-grade stealth aircraft? I seriously doubt that. It faded in thin air. Gives me goosebumps recalling the incident. I would love to talk more about this with someone !</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150404.html](http://www.nuforc.org/webreports/reports/150/S150404.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Sarles (ND) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Big green orb fell in diagonal line toward ground.  Fell very slowly.  Hard to make out the distance away or size.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130998.html](http://www.nuforc.org/webreports/reports/130/S130998.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/165/S165169.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165168.html)
-- [324](http://www.nuforc.org/webreports/reports/165/S165173.html)
-- [323](http://www.nuforc.org/webreports/reports/165/S165171.html)
-- [322](http://www.nuforc.org/webreports/reports/160/S160416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
