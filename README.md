@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:51 on 5 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:41 on 5 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Deltona (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Two lights with tail descends rapidly into nothingness with a burst at the end.Driving West on I-4 approaching exit 114, both passengers in the car witnessed two lights together descend rapidly and brightly into a larger flash and then nothingness.  Similar to a shooting star, but 100 times larger, this movement was so bright and large in the sky that stopped our conversation dead.  Light was Yellowish-green.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66731.html](http://www.nuforc.org/webreports/reports/066/S66731.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in East Freedom (PA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>My fiance and I both witnessed this event and out of our many star gazing experiences, nothing ever came close to what we saw that night.It was around 11pm when 2 flying objects were witnessed. At first, a small circular aircraft with blinking red lights hovered above the treeline and moved irregularly across the sky. I followed its movements until I saw another, this time much larger in size. It was enormous and elongated, like a saucer, with a row of bright red lights. Almost immediately; the object flew straight up, took a hard left turn, and while hovering; angled, beamed a bright yellow light at my fiance and I for a couple of seconds. It was so bright that I froze in my spot. The light was coming from 3 panels on the aircraft. The yellow beam of light stopped and the object started moving irregularly in the same direction as the blinking red lights  until it became as small as the first object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161174.html](http://www.nuforc.org/webreports/reports/161/S161174.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165177.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165175.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165227.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165761.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161174.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
