@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:43 on 5 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:56 on 5 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Pickering (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Orange light balls over Pickering, Ontario, November 5, 2012There was a steady stream of balls of light (orange colour) coming up over the northeast horizon and moving in a southwest direction.  There was no sound associated with their movement.  They disappeared in the southwestern sky after passing overhead.  The first balls appeared in groups of three but then changed to a random pattern.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95133.html](http://www.nuforc.org/webreports/reports/095/S95133.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Nolanville (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>5 lights moving at same speed and changing places without pattern or any noiseI was out in backyard between 10:45 and 11:00pm on Sat. Nov. 5th, 2005, when saw bright shooting star in the northern sky. I grabbed lawnchair and decided to watch a while just in case I could see another before going to bed. I saw an oval shaped darkened oject moving very slowly and without sound.  I thought I was seeing things because it covered the small visable stars as it crossed the sky.  The oject had 5 lights, all amber in color.  They did not blink and were constant.  The lights appeared to be trading places in very graceful dance-like movements but never moved the same way twice.  I know that we are close to Fort Hood, and after living here more than 20 years, have never seen anything like this.  I dont know what I saw, only that it took all my breath away.  I was reluctant to even tell anyone and be labled a nut but I know I saw something. I watched this object move slowly accross the sky and had I been able to stand without my knees knocking, I would have tried to follow oject for a longer look.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47720.html](http://www.nuforc.org/webreports/reports/047/S47720.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165177.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165175.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165227.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165761.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161174.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
