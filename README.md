@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:38 on 5 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:39 on 5 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Springfield (LA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Me and my sons were outside looking at about 30 buzzards flying overhead then they landed in a tree and right over the tree we saw 2 circles with a line connecting them and everything was glowing bright like a a clear light blub we have clear blue skys to night so it was very easy to see.this is my second time seeing a ufo over springfield La. in 2 months I'm 35 and never seen any until this year</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104156.html](http://www.nuforc.org/webreports/reports/104/S104156.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Ocala (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>When my 7 year old son and I were driving southbound on SW 62nd St and approximately route 200, I noticed a bright orange light to the south of me.  As I turned my vehicle to go left (west), it appeared to have a long orange trail behind it. I was driving but my 7 year old said it looked like a large fire coming out behind a large circular object. We thought it may have been a rocket or a meteor, but it appeared to be traveling at a high rate of speed, then it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160430.html](http://www.nuforc.org/webreports/reports/160/S160430.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165177.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165175.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165227.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165761.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161174.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
