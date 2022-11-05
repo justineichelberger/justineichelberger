@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:43 on 5 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:51 on 5 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Rutland (VT) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Pulled out of parking lot onto street & and saw 3 green lights in the sky ahead of me while driving. It caught my eye because it was unusual in sight but also because of location in the sky. Definitely wasn’t an airplane or helicopter & it was moving slow or hovering. I finally pulled over to try & take a picture or video but it’s pace picked up & it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160431.html](http://www.nuforc.org/webreports/reports/160/S160431.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Grand Prairie (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Two objects seen in the night sky above Dallas on each side of a three star configuration with pulsating lights.I let our dog out around 10:25 last night and thought I would look around in the sky as the night was crystal clear and the stars were bright.  Grand Prairie is a suburb of Dallas.  There are always planes flying around and I enjoy watching their lights at night.  This night was different than any other I had evr witneesed. I looked toward the east-northeast over Dallas and saw a star configuration of three stars perfect aligned, one above the other.  I noticed on either side of the middle star and equidistant on each side of that star, two objects which I could not discern as they were so far up. The objects appeared to pulsate with a red,blue,and white or silver lights which were lined up vertically and in that order.  I thought it was odd that they did not move as planes do as I see so many from my neighborhood.  As I stood and watched these objects, I noticed they started moving in what appeared to be a lateral fashion in quick motions.  They moved in step with one another. After watching these lights for several minutes, I went a got my wife, my 14 year old son, and my cousin who was visiting us to come see if they could tell me what they saw.  They were all astounded by these lights as well.  They witnessed what I did.  No one had any explanation. The three stars aligned vertically were probably part of a constellation but none of us had ever seen pulsating or alternating lights in a constellation before.  That what led us to belive that we were witnessing something unusual.  At least to us it was.  The objects appeared much larger than the vertical stars.  It was just impossible to tell how far up in the sky they were. I hope I have described this to some degree of specificity.  Never in my life have I seen such so this is my attempt at a description of unknown objects. We watched them for approximately an hour and then went back in the house.  I tried taking a digital photograph of them but the pictures did not come out as the objects were too far away.((NUFORC Note:  Based on the description, we suspect that celestial bodies would have to be ruled out, before we could conclude that the objects were, in fact, genuine UFO's.  However, that is just a guess on our part.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40477.html](http://www.nuforc.org/webreports/reports/040/S40477.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165177.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165175.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165227.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165761.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161174.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
