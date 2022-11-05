@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:07:40 on 5 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:51 on 5 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Marysville (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Large craft flying low and slowDriving near Marysville, CA, around 0930 in the evening, saw two massive craft flying low and slow, heading towards Beale Air Force Base.  Size was like an aircraft carrier.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150515.html](http://www.nuforc.org/webreports/reports/150/S150515.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Gardner (ME) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Ufo seen in a small town in Maine, very bright lights, slow moving object they took off very fast.Going down the rd, I saw mysterious lights (thinking it was lights from a business parking lot or something).  I got closer to the object and noticed it was rather low to the ground.  So I pulled over and it was moving very slow.  Then suddenly it cut to the left very fast.  Then started moving slow again for about 30 seconds.  Then it suddenly took off so fast like lightning.  I could only see 3 lights in the shape of a triangle.  No blinking lights or anything.  And they were very bright.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123434.html](http://www.nuforc.org/webreports/reports/123/S123434.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165177.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165175.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165227.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165761.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161174.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
