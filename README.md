@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:01:38 on 5 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:41 on 5 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Santa Rosa (CA) reported seeing craft that fit the description of some '' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>A bright light in our bed room for a second or two.A bright light lit up our room at approx. 12:30 am on 11/5/99.  My wife and I were in bed just falling a sleep to Art Bell's radio show.  Both of our eyes were closed.  When the light happened, it was like me looking up at the sun in broad day light.  She experienced that same thing.  Neither of us registered that it had even happened for a minute or two till she asked me if I had seen it. I said I had and that disturbed both of us.  We discussed if it could have been head lights passing over our apartment window, as we are on the second story, but both came to the conclusion that it could not have been so as it was just to bright.  We didn't see any craft or anything, but it was not a normal occurance.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10475.html](http://www.nuforc.org/webreports/reports/010/S10475.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Highlands Ranch (CO) reported seeing craft that fit the description of some 'Disk' over a period of approximately 9:15-9:16 - 9:15-9:16 minutes.</sub><blockquote><sub>A floating rainbowed saucer with an erie sound.I was watching TV when I heard a bang outside. I thought it was a gun shot, so I ran outside. The other neighbors were out there also. We both exchanged that we thought we heard gunshots. And then we saw something in the sky. It changed colors every 3 seconds and in shape of a saucer. It floated in about 5,000 feet above us. It was exactly simuliar to how the saucers did in the movie Signs. It also made erie sounds. Like a hmmm.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40495.html](http://www.nuforc.org/webreports/reports/040/S40495.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165177.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165175.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165227.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165761.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161174.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
