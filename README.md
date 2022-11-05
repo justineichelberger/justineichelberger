@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:37 on 5 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:51 on 5 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Carbondale (KS) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Disk hovered in my field for about 5 min. wit no noise. Had red and clear lights on it.We live about 20 miles south of Topeka, KS on a farm. Last Friday night my wife came into my office and asked if there are Choppers that do not make any noise? I asked why and she said "there was something hovering in our field and it was flying silently in a jagged fashion". Seems our hunting dog was whimpering loudly and my wife went out on our porch to investigate. By the time I got there it had left the area. She described it to me as a silver disk with red and clear lights and no strobes. After the event I observed an abnormal amount of aircraft in my area. I am close to Forbes Field but not in a pathway and normally never see any aircraft near my place. It was quite clear the something was stirring up the hornets. The next day we let Murphy, or dog, out to run and he went right to the site of the hover and began to dig a hole and then laid in it. He would not move, we had to go physically pick him up and bring him back to our house. I checked the hole he had dug and did not find anything unusual.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10496.html](http://www.nuforc.org/webreports/reports/010/S10496.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Grand Rivers (KY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>fireball, silent, moving straight over top of town, too fast for balloon, too slow for aircraft, no clue, never seen anything like thatFireball, Light Orange, moving approx. same speed like a helicopter would move, no blinking, steady fire flame, moving straight line, not very high, dark sky, too slow for aircraft, too fast for balloon, silent, no position lights, undoubtful just fire((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85190.html](http://www.nuforc.org/webreports/reports/085/S85190.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165177.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165175.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165227.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165761.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161174.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
