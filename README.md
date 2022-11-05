@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:51 on 5 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:47 on 5 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Grand Rivers (KY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>fireball, silent, moving straight over top of town, too fast for balloon, too slow for aircraft, no clue, never seen anything like thatFireball, Light Orange, moving approx. same speed like a helicopter would move, no blinking, steady fire flame, moving straight line, not very high, dark sky, too slow for aircraft, too fast for balloon, silent, no position lights, undoubtful just fire((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85190.html](http://www.nuforc.org/webreports/reports/085/S85190.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Los Angeles (LAX Airport) (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Still going on - Still going on minutes.</sub><blockquote><sub>I have been observing an object, that could be a helicopter, hovering over what appears to be in the area of LAX airport for the past 45 mins.  It caught my attention because it was flickering like a star until I noticed other colors... bight blue, bright white, bright orange/red.  It is sitting stationary higher than the normal flying helicopter pattern.  From Culver blvd/405 fwy, looking South West about a 45degree angle.  Maybe it is a helicopter, but I do not hear the blades...  It does not move.  Last check before ending this note was 2:02am.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131011.html](http://www.nuforc.org/webreports/reports/131/S131011.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165177.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165175.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165227.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165761.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161174.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
