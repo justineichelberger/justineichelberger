@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:57 on 5 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:43 on 5 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Weona-Harrisburg-Waldenburg (AR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1-2 - 1-2 minutes.</sub><blockquote><sub>Trinangles and Meteors seen over Nortrheast AR.A meteor shower had occured the evening before on 11/4/03.  Sonic booms were reported in the Forrest City, Wynne and Brinkley, AR towns.  I was travelling through the area north of where the sonic booms of the meteor(s) were heard.  While that evening turning on to AR Rt 14 at Payneway, AR and looking west to Weona (unincorporated town- has store and abandoned cotton gin)the sky was clear and I saw a falling star, or at least what I thought was a falling star but this was going much too slow until it stopped! And there were 3 lights bareley visable as I and other vehicles travelled west to Weona, these lights moved in a stationary rotating position.  The lights/object was below 10,000 ft in altitude (closer to 2,000 ft), it was black and triangular, there was a faint rewd light in the center of the triangle, these lights wre yellow in color.  This triangle seemed to move slow and in a north south pattern as if it were searching for something.  After crossing crowleys ridge and coming into Harrisburg, I stopped for gas and mentioned to the cashier who indicated that their was some talk about the metereor shower the night before and that it occurred on both sides of crowleys ridge.  At eight miles due west of Harrisburg, AR., I saw another one of these triangles with the same lightfomation.  There was a loud hum that sounded like a transformer and my vehicles voltimeter went into the re-charge area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33120.html](http://www.nuforc.org/webreports/reports/033/S33120.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Rutland (VT) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Pulled out of parking lot onto street & and saw 3 green lights in the sky ahead of me while driving. It caught my eye because it was unusual in sight but also because of location in the sky. Definitely wasn’t an airplane or helicopter & it was moving slow or hovering. I finally pulled over to try & take a picture or video but it’s pace picked up & it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160431.html](http://www.nuforc.org/webreports/reports/160/S160431.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165177.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165175.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165227.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165761.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161174.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
