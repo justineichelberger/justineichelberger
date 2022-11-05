@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:39 on 5 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:37 on 5 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Ocala (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>When my 7 year old son and I were driving southbound on SW 62nd St and approximately route 200, I noticed a bright orange light to the south of me.  As I turned my vehicle to go left (west), it appeared to have a long orange trail behind it. I was driving but my 7 year old said it looked like a large fire coming out behind a large circular object. We thought it may have been a rocket or a meteor, but it appeared to be traveling at a high rate of speed, then it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160430.html](http://www.nuforc.org/webreports/reports/160/S160430.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Carbondale (KS) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Disk hovered in my field for about 5 min. wit no noise. Had red and clear lights on it.We live about 20 miles south of Topeka, KS on a farm. Last Friday night my wife came into my office and asked if there are Choppers that do not make any noise? I asked why and she said "there was something hovering in our field and it was flying silently in a jagged fashion". Seems our hunting dog was whimpering loudly and my wife went out on our porch to investigate. By the time I got there it had left the area. She described it to me as a silver disk with red and clear lights and no strobes. After the event I observed an abnormal amount of aircraft in my area. I am close to Forbes Field but not in a pathway and normally never see any aircraft near my place. It was quite clear the something was stirring up the hornets. The next day we let Murphy, or dog, out to run and he went right to the site of the hover and began to dig a hole and then laid in it. He would not move, we had to go physically pick him up and bring him back to our house. I checked the hole he had dug and did not find anything unusual.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10496.html](http://www.nuforc.org/webreports/reports/010/S10496.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165177.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165175.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165227.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165761.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161174.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
