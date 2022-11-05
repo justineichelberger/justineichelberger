@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:48 on 5 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:51 on 5 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Jonesborough (TN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 50.0 - 50.0 minutes.</sub><blockquote><sub>I saw a round vessel with individual white litghts around it about 8 miles away and 100 Ft in the sky that stood still for 30 minutesI was headed home at 8:30PM I turned onto highland church Rd in Jonesborough.I try to keep my eyes in the sky because i thought i saw something like it a couple weeks ago. as I turned onto the Rd, I saw a solid whit light standing still and flickering just a bit.  Didn't thank much of it but fr some reason i kept watching it.  Next i thought i saw it move about 3 inches in the sky so I asked my Fiancee to pull over.  She stopped the car and I got out watching it and it started to move towards my house.  There is an airport which would be behind me about 25 miles.  So I had her turn off the car to see if maybe we could here an engine or anything.  No sound at all coming from this craft.  So I got in the car and basically followed it as it was headed towards my house.  The Rd I live on is a staight away for about 12 miles.  When we got to the house I got out and it had stopped as it looked like it was probably 7 to ten miles away and maybe 100 Feet in the air.  So I continued to watch this object, as it was sitting still.  When I found the craft in my telescope it was a circle and looked like individual solid white lights all around it. So basically it was a circle of lights that looked like it was barely flickering. I went in the house to get a better lens for my telescope and it was gone when I got back but stood still for approximately 35 minutes.  I got home tonight at 9:00PM and there was a light in the same spot as I watched it for about ten minutes.  I went in to get my telescope because I took it in because I never thought t would be back.  When I got outside it was gone..  I would appreciate if anyone else that has been watching this object would give me some feedback.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131057.html](http://www.nuforc.org/webreports/reports/131/S131057.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Deltona (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Two lights with tail descends rapidly into nothingness with a burst at the end.Driving West on I-4 approaching exit 114, both passengers in the car witnessed two lights together descend rapidly and brightly into a larger flash and then nothingness.  Similar to a shooting star, but 100 times larger, this movement was so bright and large in the sky that stopped our conversation dead.  Light was Yellowish-green.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66731.html](http://www.nuforc.org/webreports/reports/066/S66731.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165177.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165175.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165227.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165761.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161174.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
