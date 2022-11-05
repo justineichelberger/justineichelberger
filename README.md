@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:42 on 5 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:37 on 5 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Pass Christian (MS) reported seeing craft that fit the description of some 'Disk' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>IT WAS ROUND AND FLAT LARGER THEN A HOUSE WITH RED LIGHTS ON THE SIDE AND WHITE LIGHTS UNDERNEATH.WELL I AM JUST AN EVERYDAY MOM. I GO TO WORK AT CITY HALL I COME FROM WORK PICK UP MY CHILD AND MY HUSBAND AND I GO HOME HOME EVERY DAY SAME ROUTINE. NOTHING STRANGE UNTIL YESTERDAY ON OUR WAY HOME WE WERE APPROXIMATELY 1/3 OF A MILE FROM OUR DRIVEWAY WHICH IS NORTH OF THE INTERSTATE IN A SPARSLEY POPULATED AREA, DIRECTLY TO THE NORTH OF THE INTERSTATE I NOTICED A LINE OF FLASHING RED LIGHTS ALL IN A ROW TO CLOSE TO BE PLANES OR HELICOPTERS BUT AS I GOT CLOSER I STARTING YELLING TO MY HUSBAND IN THE PASSENGERS SEAT  DO YOU SEE THAT? WHAT IS IT? HE SAID I CANT BELIEVE IT SPEED UP LETS FOLLOW IT SO I CONTINUED NORTH BUT THE OBJECT REMAINED STILL DIRECTLY ABOVE THE TREE LINE RIGHT BELOW THE CLOUDS ALMOST HOVERING I WOULD SAY. I STOPPED THE CAR AND WE GOT OUT THE OBJECT SEEMED CLOSE ENOUGH TO TOUCH  BUT IT WAS STILL ATOP THE TREES WHERE IT REMAINED IT WAS BIGGER THAN A HOUSE AND IT SEEMED AS IF IT WERE SPINNING BUT IT WASNT MOVING IT ALSO HAD LIGHTS ON THE BOTTOM SIDE BUT THEY WERE WHITE NOT RED AND SHINED BRIGHTLY I WAS HORRIFIED AT WHAT I HAD SAW SO I GOT BACK IN THE CAR. MY HUSBAND DECIDED WE SHOULD FOLLOW THE OBJECT SO WE DID. THE OBJECT CONTINUED TO MOVE EASTERLY DIRECTLY ALONG SIDE OF THE INTERSTATE FOR SEVERAL MILES, I FOLLOWED AS LONG AS I COULD AT APPROXIMATELY 85 MPH BUT AS DARKNESS BEGAN TO FALL I DECIDED TO TURN AROUND AND GO HOME THE OBJECT CONTINUED TOWARDS THE EAST AND DISAPPEARED FROM SIGHT. I WOULD NEVER HAD BELIEVED WHAT I SAW BUT I SAW IT AND NOW I THINK OTHER PEOPLE SHOULD KNOW. I AM JUST AN EVERY DAY JOE SO THESE THINGS REALLY ARE OUT THERE. WHAT THEY ARE OR WHERE THEY COME FROM WHO KNOWS. I JUST THOUGHT I WOULD SHARE WITH A FEW PEOPLE WHIO MIGHT BE INTERESTED. NOW I AM PICKED ON BY FAMILY AND FRIENDS BUT I SAW WHAT I SAW AND I'LL NEVER FORGET IT.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32905.html](http://www.nuforc.org/webreports/reports/032/S32905.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Sweetwater (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>On November 5th, 2016 at approximately 0645 hours.  We were out doing our morning walk, and we observed a metallic chrome like helmet shaped-like object on the west side of the Pastora Peaks.  It appeared to be approximately a 1/4 of a mile away from the peaks, and at the same height of it.  There were no cloud in the skies, and it was motionless for several minutes.On these sightings, I only had my low quality phone, and unable to get a good picture of it and I don't have a camera.  When I did take it with my phone, it was to blurred, and unable to get a quality zoom (looks like dirt on my phone lens).  There have been many other sightings on this beautiful, wide-opened reservation and filled with flat area, canyons, and undiscovered, hidden areas.  It's friends and relatives that just have no one to tell or report to anyone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131270.html](http://www.nuforc.org/webreports/reports/131/S131270.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165177.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165175.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165227.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165761.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161174.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
