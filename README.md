@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:26:59 on 6 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:06:26 on 6 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Kingston (Canada) (ON) reported seeing craft that fit the description of some 'Changing' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>an object with a white light at the front and up to 6 red and white lights on the back was moving across the skyat first it seemed like it was a plane, but after a few seconds we knew it was moving to fast. in the past we've seen many sightings. the object had one white light at the front of it, 3 red lights at the back of it, and two other white lights at the back as well... the lights were formed as a triangle in the sky as a airplane would appear.... it was moving quite fast and was definately at least 3-5 times the size of a large airplane... we saw it in the sky from inside my apartment and then we went out on my balcony, it started to turn and as it turns it was noticeably a shaped as a circle/saucer... it was the craziest thing we have ever seen... the two of us have seen other events in the past and finally seeing this convinced me to notify someone, we are both really interested in learning more about this... i would like for someone to contact me and send me information on other sightings, etc...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47500.html](http://www.nuforc.org/webreports/reports/047/S47500.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>White illuminated disks over east Los Angeles mountainsOn the way to work on the 405, 3 large white glowing disks were hanging in the air above the San Bernardino mountains in the east.  They were all parallel to one another but at about a 26 degree angle from the horizon.  At first I thought that they maybe vapor trails but they did not change in shape and were self illuminating.  When first appearing they seemed closer but then they appeared to be miles away but still in perfect formation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104205.html](http://www.nuforc.org/webreports/reports/104/S104205.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/165/S165183.html)
-- [319](http://www.nuforc.org/webreports/reports/165/S165188.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165189.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165194.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165611.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
