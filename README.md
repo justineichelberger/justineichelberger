@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:39 on 6 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:32 on 6 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Reno (NV) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright white disc of light the size of a full moon approximately shot straight up into the sky & disapeared in less than 1 sec.At 7:45 p.m., I went outside to my back yard (in the northwest foothills above the city of Reno) to have a cigarette before my room-mate and I watched "Survivor" at 8 p.m. It was a clear sky, many stars, no moon up yet.  A bright white light almost directly above me and to the east a bit was moving slowly north, northwest.  It was roughly the size, maybe slightly larger, than a full moon, but the moon wasn't up yet at that time, and this was moving.  Not knowing the actual size of this object, it's difficult to say how high up it was, but if I had to guess, I'd say  between 500 and 1,000 feet.  (Since I live in the mountains, I'm already at approximately 5,000 feet.) There was no sound or noise of any kind.  I watched it for about  ten seconds, then it suddenly shot straight up into the sky and in less than one second, it was the size of any average star in the sky, then gone. Being a former Air Force brat and having spent 18 years growing up on various AF bases, I've seen and heard just about anything the AF flies, but I've never seen anything move at a rate of speed like that. I'd like to know if there were any other reports of this sighting from Reno or Sparks that night.((NUFORC Note:  We presume the date of the alleged sighting was in the year 2003.  We have altered the date above to 2003.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33213.html](http://www.nuforc.org/webreports/reports/033/S33213.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Annapolis (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 00:25 - 00:25 minutes.</sub><blockquote><sub>Orb flashing red, blue, green seen over annapolis, MDOn 11/06/2011 at 23:40 I heard a strange noise that caught my attention from outside. It sounded like a vuvuzela.  I don’t think the sound came from the craft but it made me look outside (it was a very clear night no clouds in the sky).  When I looked outside I noticed something above the horizon just a small ball of light maybe a couple miles away.  It was blinking different colors changing from red to blue to green sometimes it stayed a solid white light.  At first I thought it was an airplane, but I noticed it wasn’t moving.  I watched the craft for 15 minutes and I got up so I could write down what I saw.  I was not exactly sure what I was looking at.  When I returned and looked back out of my window the object was gone.  I was certain at that point that I just witnessed a U.F.O. and needed to report it immediately.Thank you for your time and I hope this helps someone</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85192.html](http://www.nuforc.org/webreports/reports/085/S85192.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/165/S165183.html)
-- [319](http://www.nuforc.org/webreports/reports/165/S165188.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165189.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165194.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165611.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
