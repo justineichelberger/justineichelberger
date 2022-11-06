@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:42:18 on 6 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:26:59 on 6 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Canon City (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Observed one bright light initially changing colors from violet to red and changing size from slightly smaller than Venus to nearly moon sizeObject was seen east of Canon City towards Penrose by two adults Mother and Daughter and 14 year old son.  Object appeared to be a ball of light that divided with a dark line (like a hamburger) and at one point appeared to turn on edgewhere three white lights in a triangle pattern were visible.  After observing for several minutes, a digital camcorder was employed to capture the phenomena.  At about the time the camera was set up three more objects joined the first.  The newcomers were slightly smaller appearing and at times faded to deep red or blinked out completely.  At one point, the objects appeared to "shoot" white lights between each other that traveled at high speed from one to another.  The light show went on for at least 45 minutes and 22 minutes of it are on tape.  It is noteworthy that the camera turned off several times when pointed in the direction of the lights (CCD overload shutdown??) even though the lights did not appear to be of extreme intensity.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10559.html](http://www.nuforc.org/webreports/reports/010/S10559.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Kingston (Canada) (ON) reported seeing craft that fit the description of some 'Changing' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>an object with a white light at the front and up to 6 red and white lights on the back was moving across the skyat first it seemed like it was a plane, but after a few seconds we knew it was moving to fast. in the past we've seen many sightings. the object had one white light at the front of it, 3 red lights at the back of it, and two other white lights at the back as well... the lights were formed as a triangle in the sky as a airplane would appear.... it was moving quite fast and was definately at least 3-5 times the size of a large airplane... we saw it in the sky from inside my apartment and then we went out on my balcony, it started to turn and as it turns it was noticeably a shaped as a circle/saucer... it was the craziest thing we have ever seen... the two of us have seen other events in the past and finally seeing this convinced me to notify someone, we are both really interested in learning more about this... i would like for someone to contact me and send me information on other sightings, etc...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47500.html](http://www.nuforc.org/webreports/reports/047/S47500.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/165/S165183.html)
-- [319](http://www.nuforc.org/webreports/reports/165/S165188.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165189.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165194.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165611.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
