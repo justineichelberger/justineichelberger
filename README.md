@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:36 on 6 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:37 on 6 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Mardela Springs (MD) reported seeing craft that fit the description of some 'Oval' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Rotating oval shaped object with multicolored lights moving in very fast erratic patternsI stepped outside for a cigarette, when something caught my eye.  I saw what looked like an oval shaped rotating set of lights go overtop of my house.  I watched it move in erratic very fast patterns.  It stayed in one area of the sky moving up, down, and side to side but remaining in the same general area for about 15 minutes.  Several planes flew directly over the object and with each one the object would fly up towards the plane and back down as the plane passed by.  It then flew off in the distance for a minute or two then came back to the same area before it flew down behind the trees, where I lost sight of it.  It made no sound and appeared to be rotating quickly with multi-colored lights around the exterior.  I got a weird feeling when at the same time all of the dogs in the neighborhood started howling.  I have been researching Ufos for years and am always watching the skies. This was the most amazing thing I have ever seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137162.html](http://www.nuforc.org/webreports/reports/137/S137162.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Biloxi (MS) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Strange light seen in Biloxi, MS.At about 6:00 p.m. I arrived home. It was dark out and I happened to look up. I saw a large white light, larger than a star or visible planets. It seemed to zig zag at high speed and then stop. It did this for a few minutes, darting back and forth. I noticed the color change from white to a golden yellow. It then became bright red. As it changed to red, it was stationary but also appeared to get smaller. It vanished right in front of my eyes. I thought that I was going crazy and told my fiance who was at work. He called me later and told me that I wasn't going crazy. One of his co workers was asking if anyone saw the strange light and described the same thing that I had seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73169.html](http://www.nuforc.org/webreports/reports/073/S73169.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/165/S165183.html)
-- [319](http://www.nuforc.org/webreports/reports/165/S165188.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165189.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165194.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165611.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
