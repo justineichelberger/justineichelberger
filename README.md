@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:02:05 on 6 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:52 on 6 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Sulphur (LA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>A friend and I were returning fro from Lake Charles Louisiana to Sulphur when I spotted a green sphere falling from the sky doubted myself so asked my passenger he replied that he too had seen the green sphere.  It them disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115319.html](http://www.nuforc.org/webreports/reports/115/S115319.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Albany (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Red flashing lights above AlbanyKids were looking out the window and seen up to 8 red lights in the sky flashing slow and fast. I could not see them with naked eye, but when my son took a picture you could clearly see there was some there. When they woke me up we were only able to see 2 of them. One of my son's reported seeing one go up in the sky and change into a yellow color and another son reported one move and change and turn orange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165183.html](http://www.nuforc.org/webreports/reports/165/S165183.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/165/S165183.html)
-- [319](http://www.nuforc.org/webreports/reports/165/S165188.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165189.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165194.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165611.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
