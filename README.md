@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:47 on 6 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:29:14 on 6 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Fort Collins (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately Back yard facing East - Back yard facing East minutes.</sub><blockquote><sub>Facing east, set of 8 bright lights flying in the shape of a boomerang or wing, but going SW, pointing out like an arrow, second from the last night on ends began moving in a helix motion around the lights on either side.  I was able to follow it easily in the sky until it passed behind a dark cloud coming in from the front range.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143671.html](http://www.nuforc.org/webreports/reports/143/S143671.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Perth (Australia) () reported seeing craft that fit the description of some 'Light' over a period of approximately 240.0 - 240.0 minutes.</sub><blockquote><sub>unusual lights, then strobing of unusual colours, mimicing a plane to disappearing and appearinglooking through my binoculus, I have observed some strange light at the front of my house here, in heathridge, perth. aus.For the past few weeks now, at front my house, Ive observed some unusual crafts, my best description would be, a orange star appearing from no where on a clear night, with white flickering light on it, as it decended down to lower altitude, i noticed it starts strobing either, Blue/Red/White, same orange object but another one, strobing either just white and red or Blue/Green/White, they seem to pop out of no where and then start mimicing our planes, but the unusual thing about this is that it strobes different colours, as these crafts fly over looking north at the front of my house, i see objects looking just like a star then moving at lower altitude, then flashing white and red and then comes back flashing blue red and white, and on each side of the craft seem to light up very bright white. at times i see them disappear, and then reappearing, at times they orange and then they slowly move at high altitude and its flickers just white like a star, then it moves away. whats s! tartling is ive seen three more objects and they seem to go close to each other then move away.((NUFORC Note:  Witness indicates that date is approximate.  PD))((NUFORC Note:  Twinkling stars??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73320.html](http://www.nuforc.org/webreports/reports/073/S73320.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/165/S165183.html)
-- [319](http://www.nuforc.org/webreports/reports/165/S165188.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165189.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165194.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165611.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
