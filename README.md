@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:52 on 6 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:36 on 6 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Albany (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Red flashing lights above AlbanyKids were looking out the window and seen up to 8 red lights in the sky flashing slow and fast. I could not see them with naked eye, but when my son took a picture you could clearly see there was some there. When they woke me up we were only able to see 2 of them. One of my son's reported seeing one go up in the sky and change into a yellow color and another son reported one move and change and turn orange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165183.html](http://www.nuforc.org/webreports/reports/165/S165183.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Mardela Springs (MD) reported seeing craft that fit the description of some 'Oval' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Rotating oval shaped object with multicolored lights moving in very fast erratic patternsI stepped outside for a cigarette, when something caught my eye.  I saw what looked like an oval shaped rotating set of lights go overtop of my house.  I watched it move in erratic very fast patterns.  It stayed in one area of the sky moving up, down, and side to side but remaining in the same general area for about 15 minutes.  Several planes flew directly over the object and with each one the object would fly up towards the plane and back down as the plane passed by.  It then flew off in the distance for a minute or two then came back to the same area before it flew down behind the trees, where I lost sight of it.  It made no sound and appeared to be rotating quickly with multi-colored lights around the exterior.  I got a weird feeling when at the same time all of the dogs in the neighborhood started howling.  I have been researching Ufos for years and am always watching the skies. This was the most amazing thing I have ever seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137162.html](http://www.nuforc.org/webreports/reports/137/S137162.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/165/S165183.html)
-- [319](http://www.nuforc.org/webreports/reports/165/S165188.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165189.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165194.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165611.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
