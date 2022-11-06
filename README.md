@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:08:12 on 6 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:41 on 6 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Coatesville (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>It sounded like a jet going over my community , it was so low to the point it made me look out my window only for me to see about 5 rows of round red lights . It crossed over my community & the community behind me.  I was in such awe I didn’t get to snap a pic . Never seen anything like it before .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150449.html](http://www.nuforc.org/webreports/reports/150/S150449.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Hartford (CT) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>A huge, dark, rectangular craft in CT.I enjoy looking at the night sky when I noticed stars disappearing.  Quickly realized there was a dark silhouette and rectangular craft, the size of a football field traveling slowly from left to right.  No sound at all!  Altitude had to be at least 20,000 feet high.  It had a slow pulsating red light in the bottom-center of craft.  It was traveling towards CT River/East Hartford.  I remember there used to be a Marines barrack not too far near Brainard Airport.  It's no longer there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117887.html](http://www.nuforc.org/webreports/reports/117/S117887.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/165/S165183.html)
-- [319](http://www.nuforc.org/webreports/reports/165/S165188.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165189.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165194.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165611.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
