@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:37 on 6 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:38 on 6 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Biloxi (MS) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Strange light seen in Biloxi, MS.At about 6:00 p.m. I arrived home. It was dark out and I happened to look up. I saw a large white light, larger than a star or visible planets. It seemed to zig zag at high speed and then stop. It did this for a few minutes, darting back and forth. I noticed the color change from white to a golden yellow. It then became bright red. As it changed to red, it was stationary but also appeared to get smaller. It vanished right in front of my eyes. I thought that I was going crazy and told my fiance who was at work. He called me later and told me that I wasn't going crazy. One of his co workers was asking if anyone saw the strange light and described the same thing that I had seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73169.html](http://www.nuforc.org/webreports/reports/073/S73169.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Northridge (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>My wife and I saw what appeared to be an oval shaped chrome colored craft closely circle its way around a private jet that was ascending after a presumed takeoff from Van Nuys airport.  The plane appeared to be a private Lear type jet.  As it was working its way  up, this chrome craft was on the port side, very close.  It then appeared to drift toward the back, and then cut across to the starboard side back. We were at an intersection in our car, stopped, when we saw this, at the corner of Balboa Ave and Plummer St. in Northridge.  I feel I could definitely rule out military or recreational planes in formation as I see them frequently and know what that looks like.  Definitely a lear type jet and a chrome object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85325.html](http://www.nuforc.org/webreports/reports/085/S85325.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/165/S165183.html)
-- [319](http://www.nuforc.org/webreports/reports/165/S165188.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165189.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165194.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165611.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
