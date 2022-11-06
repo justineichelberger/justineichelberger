@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:29:14 on 6 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:42:18 on 6 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Perth (Australia) () reported seeing craft that fit the description of some 'Light' over a period of approximately 240.0 - 240.0 minutes.</sub><blockquote><sub>unusual lights, then strobing of unusual colours, mimicing a plane to disappearing and appearinglooking through my binoculus, I have observed some strange light at the front of my house here, in heathridge, perth. aus.For the past few weeks now, at front my house, Ive observed some unusual crafts, my best description would be, a orange star appearing from no where on a clear night, with white flickering light on it, as it decended down to lower altitude, i noticed it starts strobing either, Blue/Red/White, same orange object but another one, strobing either just white and red or Blue/Green/White, they seem to pop out of no where and then start mimicing our planes, but the unusual thing about this is that it strobes different colours, as these crafts fly over looking north at the front of my house, i see objects looking just like a star then moving at lower altitude, then flashing white and red and then comes back flashing blue red and white, and on each side of the craft seem to light up very bright white. at times i see them disappear, and then reappearing, at times they orange and then they slowly move at high altitude and its flickers just white like a star, then it moves away. whats s! tartling is ive seen three more objects and they seem to go close to each other then move away.((NUFORC Note:  Witness indicates that date is approximate.  PD))((NUFORC Note:  Twinkling stars??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73320.html](http://www.nuforc.org/webreports/reports/073/S73320.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Canon City (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Observed one bright light initially changing colors from violet to red and changing size from slightly smaller than Venus to nearly moon sizeObject was seen east of Canon City towards Penrose by two adults Mother and Daughter and 14 year old son.  Object appeared to be a ball of light that divided with a dark line (like a hamburger) and at one point appeared to turn on edgewhere three white lights in a triangle pattern were visible.  After observing for several minutes, a digital camcorder was employed to capture the phenomena.  At about the time the camera was set up three more objects joined the first.  The newcomers were slightly smaller appearing and at times faded to deep red or blinked out completely.  At one point, the objects appeared to "shoot" white lights between each other that traveled at high speed from one to another.  The light show went on for at least 45 minutes and 22 minutes of it are on tape.  It is noteworthy that the camera turned off several times when pointed in the direction of the lights (CCD overload shutdown??) even though the lights did not appear to be of extreme intensity.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10559.html](http://www.nuforc.org/webreports/reports/010/S10559.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/165/S165183.html)
-- [319](http://www.nuforc.org/webreports/reports/165/S165188.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165189.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165194.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165611.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
