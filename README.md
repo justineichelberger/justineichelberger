@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:43 on 6 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:36 on 6 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Newington (CT) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 106</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143781.html](http://www.nuforc.org/webreports/reports/143/S143781.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Two large bright glowing lights flying in the clouds in Tucson.This is an addendum to the report already filed for the same date, time, and location.  I rewrote paragraph 2 only, so you can replace the second paragraph with this one.  The rest is the same.  Thanks. The date is approximate but definitely during the week of November 6. I remember the time exactly because I was sitting in my car drinking coffee, parked just outside the flightline at Davis-Monthan AFB waiting for my shift to start. I was participating in an exercise and normally wasn't there that early. It was still fairly dark outside but daylight was just starting to break.  As I was looking forward through the windshield, I first saw the lights out of the corner of my eye out the driver side window.  Even before I turned to look at them, I could instantly tell these were odd lights in the sky.  As I watched the lights go by, I froze, didn't want to blink or even breath, and I had this real ominous feeling like I was in the presence of something otherworldly. The lights flew either right above the runway or were slightly outside the perimeter of the base, but they were going in the same direction as the runway. These lights were so bright, they lit up the clouds.  I had been in the Air Force for over 11 years at that point, worked the flightline day and night, seen all kinds of aircraft come and go and I NEVER saw lights on a conventional aircraft that were big enough or bright enough to do this, especially since the lights were just as bright coming from the south as they were when they flew out of range to the northwest.  It really frustrated me that there was a straight narrow path of clouds going from the south to the northwest while most of the rest of the sky was clear.  These clouds were slightly puffy and relatively low in the sky.  I would best describe them as stratocumulus, and guess their altitude between 6,000 to 10,000 feet.  I was hoping the lights would make a turn so I could get a better look at them but they stayed behind this narrow path of clouds the entire way and I was never able to see an object.  Also, I should mention that as bright and fast as these lights were, surprisingly I saw no contrails at all.  After the lights went by, I looked around the parking lot to see if anyon! e else s aw it, but no one was around. That in itself was odd. There should have been several people in the parking lot by that time.((NUFORC Note:  Source of report indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69153.html](http://www.nuforc.org/webreports/reports/069/S69153.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/165/S165183.html)
-- [319](http://www.nuforc.org/webreports/reports/165/S165188.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165189.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165194.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165611.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
