@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:38 on 6 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:36 on 6 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Northridge (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>My wife and I saw what appeared to be an oval shaped chrome colored craft closely circle its way around a private jet that was ascending after a presumed takeoff from Van Nuys airport.  The plane appeared to be a private Lear type jet.  As it was working its way  up, this chrome craft was on the port side, very close.  It then appeared to drift toward the back, and then cut across to the starboard side back. We were at an intersection in our car, stopped, when we saw this, at the corner of Balboa Ave and Plummer St. in Northridge.  I feel I could definitely rule out military or recreational planes in formation as I see them frequently and know what that looks like.  Definitely a lear type jet and a chrome object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85325.html](http://www.nuforc.org/webreports/reports/085/S85325.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in St. Louis (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately old jr. high - old jr. high minutes.</sub><blockquote><sub>three blue lights in triangular shape moving stranglyI was star gazing and on one side of the sky i saw what appeared to be a shooting star but before i could finish the sentance ,"hey look a shooting star...", a triangular shape of lights, blue in color, moving very fast, to fast to be an airplane, very high in the sky, moved completely accross the sky. The light was constant, and the movement was jerky and it went in a straight line. It made no sound but if it did it was way to high to hear it. I asked the girl i was with if she saw it and she replied ," yea ... it was probally an airplane.". I have never seen or heard of an airplane that could move so fast without any sound. There were three lights all same distance apart, not changing intensity like a star moving together.  WOW, what a feeling!((NUFORC Note:  Source of report elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40474.html](http://www.nuforc.org/webreports/reports/040/S40474.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/165/S165183.html)
-- [319](http://www.nuforc.org/webreports/reports/165/S165188.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165189.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165194.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165611.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
