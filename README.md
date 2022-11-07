@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:44 on 7 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:36 on 7 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>9060 Friars Blvd, looking east. Orange Diamond like shape light with a long tail. The tail goes away and a large circular cloud forms around the object. The light disappears into the circular cone shape cloud with the point facing away from me. A large cylindrical turquoise cloud almost perfect in shape comes out from the cloud and remained for a couple of minutes.((NUFORC Note:  U. S. Navy missile launch.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123705.html](http://www.nuforc.org/webreports/reports/123/S123705.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>high altitude light with plume changes direction and is viewed for 10 minutesI am a licensed private pilot and amateur astronomer.At 18:01 I and 2 other witnesses viewed an object from outside our garage in San Jose. We were all looking toward the southeast watching the object together for several minutes. My son originally spotted the object. My wife got a couple of good photos.The object appeared to e emit a cone-shaped plume of white illuminated material. There also appeared to be a lingering green beam of light behind the object. The green beam appeared to be about as wide as the full moon and very straight and consistent in its pale green color. The green beam persisted for several minutes and appeared to stretch toward the horizon behind the object.The white plume appeared to be illuminated and appeared to grow as the object proceeded toward the west/northwest in a straight line.After watching the objects and plume for more about a minute the plume suddenly cut off and the object continued to move ahead in a straight line. The plume expanded behind the object and appeared to be approximately 5+ degrees in width.One other witness and I continued to watch the object move toward the western horizon. After approximately 4 minutes the object appeared to brighten and become stationary. As we continued to watch, the object appeared to change directions, turning about 90 degrees to the left heading toward the southwest.iPhone photos will be submitted via email.((NUFORC Note:  U. S. Navy missile launch.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123665.html](http://www.nuforc.org/webreports/reports/123/S123665.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [614](http://www.nuforc.org/webreports/reports/165/S165178.html)
-- [613](http://www.nuforc.org/webreports/reports/165/S165205.html)
-- [612](http://www.nuforc.org/webreports/reports/165/S165195.html)
-- [611](http://www.nuforc.org/webreports/reports/165/S165233.html)
-- [610](http://www.nuforc.org/webreports/reports/165/S165200.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
