@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:14:11 on 7 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:05:41 on 7 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in East Patchogue (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Glowing white oval object on the horizon. Stationary,never moved.Disappearing and reappearing in the same locationaround 5 pm on Sunday Nov 7th I, my fiancee,my mom and my dad, saw glowin white oval object on the horizon as the sun was setting on a very clear day. Not a cloud in the sky. It was stationary. When I went to get my binoculars for a better look it had dissappeared just as a plane in the sky was nearing it. about 2 minutes later it had reappeared in the same spot and was then emitting and orange light then again disappeared just as quick. a few more minutes later it reappeared again emitting the same orange light and again, after another minute disappeared. After that we didn't see appear again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40736.html](http://www.nuforc.org/webreports/reports/040/S40736.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in La Center (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Orange, moon sized object, in the north-east sky of Clark CountyMy girlfriend and I went and spent Friday night at a secluded ranch that belongs to my family. When we arrived, the fog forming in the area. Early in the morning I was awaken but what I thought was a light. I typically wake up to the pre-dawn light. I woke up facing the wall and door from the bed, away from the window. I briefely noticed, as I woke up, a light went out on the wall. I turned to look out the window and noticed a moon sized orange object, in the sky, out the window, approximately 32 degrees from my point of view. Although I thought it was odd to be 'right there', I told myself it was the moon, and seemingly went back to sleep. The window faces toward St. Helens in general. But you can't really see the mountain from our location. St. Helens was active and emited a steam plume with minor ash that night and day. It wasn't until tonite that I realized that the moon is not full. It's at 30%. And that the weather was foggy and not clear. It was foggy the whole next day too. Doing a little research to set my mind at ease I found this, however these should be in the south-eastern sky. Not north-east, as is from my location. Also of note, today is the 7th. Several days after the indicated conjunction. ::Venus:: Due to the tilt of the Earth, Venus is a little less easy to see this month than last. It is still bright, but low, in the predawn eastern sky. It is in conjunction with Jupiter on the 4th, and there is an interesting grouping of Venus, Jupiter and the Crescent Moon on the 4th and 5th.((NUFORC Note:  Witness, who elects to remain semi-anonymous, may have aviation experience.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40487.html](http://www.nuforc.org/webreports/reports/040/S40487.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [614](http://www.nuforc.org/webreports/reports/165/S165178.html)
-- [613](http://www.nuforc.org/webreports/reports/165/S165205.html)
-- [612](http://www.nuforc.org/webreports/reports/165/S165195.html)
-- [611](http://www.nuforc.org/webreports/reports/165/S165233.html)
-- [610](http://www.nuforc.org/webreports/reports/165/S165200.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
