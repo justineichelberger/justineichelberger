@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:49 on 7 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:44 on 7 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Brighton (TN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Very bright light, then sharp angle cruise toward North.Object appeared to be 20,000 to 30,000 feet altitude toward the North by Northeast and had bright piercing light toward me for 2 or 3 seconds, then dimmed to a faint redish light and made very sharp angle turn toward North, then vanished because of cloud cover.  A 10 or 15 seconds later an aircraft flew about the same altitude from where I had lost sight toward the Southwest in a straight flight path.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47584.html](http://www.nuforc.org/webreports/reports/047/S47584.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>9060 Friars Blvd, looking east. Orange Diamond like shape light with a long tail. The tail goes away and a large circular cloud forms around the object. The light disappears into the circular cone shape cloud with the point facing away from me. A large cylindrical turquoise cloud almost perfect in shape comes out from the cloud and remained for a couple of minutes.((NUFORC Note:  U. S. Navy missile launch.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123705.html](http://www.nuforc.org/webreports/reports/123/S123705.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [614](http://www.nuforc.org/webreports/reports/165/S165178.html)
-- [613](http://www.nuforc.org/webreports/reports/165/S165205.html)
-- [612](http://www.nuforc.org/webreports/reports/165/S165195.html)
-- [611](http://www.nuforc.org/webreports/reports/165/S165233.html)
-- [610](http://www.nuforc.org/webreports/reports/165/S165200.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
