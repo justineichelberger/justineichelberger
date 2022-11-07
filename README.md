@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:46 on 7 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:44 on 7 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in East Northport (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>White blue tinge light circulating erratically in sky for over an hour.  Above the clouds not coming from groundA white blue tinge circle of light moving erratic through the sky for over an hour now.  It's not a beam of light it  It's coming from above the clouds and still in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123915.html](http://www.nuforc.org/webreports/reports/123/S123915.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Estonia () reported seeing craft that fit the description of some 'Disk' over a period of approximately few seconds - few seconds minutes.</sub><blockquote><sub>Strange object appeared on pictureThis picture was taken in July 2006 on a trip to Crete in Europe. I didnt notice this blurry "thing" on the picture only when i started looking pictures in fullsize on computer in January 2007. There is the possibility that this undentified flying object might be dust on the lens or some "mistake" the camera made, altough it is not seen on the next picture made few minutes later. I am also 100 % sure that the dot on the picture cant be plane nor a fight plane, altough there were fighter planes flying by at the same day, but the noise they made cant be unnoticed. Pictures was taken in the mountains, therefore it is also impossible for that thing to be a plane. I didnt see the thing myself, but noticed it half a year later. It was supposed to be a landscape photo. Camera used was olympus FE-140. Hope it helps</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55418.html](http://www.nuforc.org/webreports/reports/055/S55418.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [614](http://www.nuforc.org/webreports/reports/165/S165178.html)
-- [613](http://www.nuforc.org/webreports/reports/165/S165205.html)
-- [612](http://www.nuforc.org/webreports/reports/165/S165195.html)
-- [611](http://www.nuforc.org/webreports/reports/165/S165233.html)
-- [610](http://www.nuforc.org/webreports/reports/165/S165200.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
