@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:41 on 7 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:48 on 7 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Hopkinsville (KY) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>moving star while rest stayed there the rest of the night?I am a truck driver out of Cincinnati, OH. I was picking up car parts last night just outside (west route 31). I was backing my truck into the doc.  As I was sitting in my cab, I noticed a star like light, that I thought was actually a bigger or closer star.  I didn’t think a whole lot about it except it seemed a little closer to the horizon. I wrote in my log book the time I arrived, and looked back out the truck window, and the large star was gone.  Another star to its left was there the rest of the stop.  I am not saying it was a ufo I saw, but wanted to report this in case anyone else saw anything. Hopkinsville exit number 8 (pennyrail hwy), is near where I picked up parts.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66781.html](http://www.nuforc.org/webreports/reports/066/S66781.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in El Paso (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>round object moving very slowly has no kem trail while another obvious jet does dissapears then NASA's jets start flyin around.I was going out to the payphone this morning and noticed something shining in the sky, i called my son over to see it and asked if he could see it.he said yes so i assumed it was a plane , but i kept my eye on it. while i was on the phone I noticed another plane however this one was leaving a trail i looked over at what i thought was a plane and no trail at all it was a cold morning as well. when the glare was off of it it appeared round. when i went back to my door it dissapeared. Shortly after this thing was gone NASA's planes started flying around.we have a small NASA training center here they have those zero gravity traing jets and a couple of what look like f-15 jets camoflauged in light blues these are the ones i saw flyin around right after that thing disappeared</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32923.html](http://www.nuforc.org/webreports/reports/032/S32923.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [614](http://www.nuforc.org/webreports/reports/165/S165178.html)
-- [613](http://www.nuforc.org/webreports/reports/165/S165205.html)
-- [612](http://www.nuforc.org/webreports/reports/165/S165195.html)
-- [611](http://www.nuforc.org/webreports/reports/165/S165233.html)
-- [610](http://www.nuforc.org/webreports/reports/165/S165200.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
