@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:36 on 7 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:14:11 on 7 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>high altitude light with plume changes direction and is viewed for 10 minutesI am a licensed private pilot and amateur astronomer.At 18:01 I and 2 other witnesses viewed an object from outside our garage in San Jose. We were all looking toward the southeast watching the object together for several minutes. My son originally spotted the object. My wife got a couple of good photos.The object appeared to e emit a cone-shaped plume of white illuminated material. There also appeared to be a lingering green beam of light behind the object. The green beam appeared to be about as wide as the full moon and very straight and consistent in its pale green color. The green beam persisted for several minutes and appeared to stretch toward the horizon behind the object.The white plume appeared to be illuminated and appeared to grow as the object proceeded toward the west/northwest in a straight line.After watching the objects and plume for more about a minute the plume suddenly cut off and the object continued to move ahead in a straight line. The plume expanded behind the object and appeared to be approximately 5+ degrees in width.One other witness and I continued to watch the object move toward the western horizon. After approximately 4 minutes the object appeared to brighten and become stationary. As we continued to watch, the object appeared to change directions, turning about 90 degrees to the left heading toward the southwest.iPhone photos will be submitted via email.((NUFORC Note:  U. S. Navy missile launch.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123665.html](http://www.nuforc.org/webreports/reports/123/S123665.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in East Patchogue (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Glowing white oval object on the horizon. Stationary,never moved.Disappearing and reappearing in the same locationaround 5 pm on Sunday Nov 7th I, my fiancee,my mom and my dad, saw glowin white oval object on the horizon as the sun was setting on a very clear day. Not a cloud in the sky. It was stationary. When I went to get my binoculars for a better look it had dissappeared just as a plane in the sky was nearing it. about 2 minutes later it had reappeared in the same spot and was then emitting and orange light then again disappeared just as quick. a few more minutes later it reappeared again emitting the same orange light and again, after another minute disappeared. After that we didn't see appear again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40736.html](http://www.nuforc.org/webreports/reports/040/S40736.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [614](http://www.nuforc.org/webreports/reports/165/S165178.html)
-- [613](http://www.nuforc.org/webreports/reports/165/S165205.html)
-- [612](http://www.nuforc.org/webreports/reports/165/S165195.html)
-- [611](http://www.nuforc.org/webreports/reports/165/S165233.html)
-- [610](http://www.nuforc.org/webreports/reports/165/S165200.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
