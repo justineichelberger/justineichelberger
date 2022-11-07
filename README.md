@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:36 on 6 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:46 on 7 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in St. Louis (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately old jr. high - old jr. high minutes.</sub><blockquote><sub>three blue lights in triangular shape moving stranglyI was star gazing and on one side of the sky i saw what appeared to be a shooting star but before i could finish the sentance ,"hey look a shooting star...", a triangular shape of lights, blue in color, moving very fast, to fast to be an airplane, very high in the sky, moved completely accross the sky. The light was constant, and the movement was jerky and it went in a straight line. It made no sound but if it did it was way to high to hear it. I asked the girl i was with if she saw it and she replied ," yea ... it was probally an airplane.". I have never seen or heard of an airplane that could move so fast without any sound. There were three lights all same distance apart, not changing intensity like a star moving together.  WOW, what a feeling!((NUFORC Note:  Source of report elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40474.html](http://www.nuforc.org/webreports/reports/040/S40474.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in East Northport (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>White blue tinge light circulating erratically in sky for over an hour.  Above the clouds not coming from groundA white blue tinge circle of light moving erratic through the sky for over an hour now.  It's not a beam of light it  It's coming from above the clouds and still in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123915.html](http://www.nuforc.org/webreports/reports/123/S123915.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/165/S165183.html)
-- [319](http://www.nuforc.org/webreports/reports/165/S165188.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165189.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165194.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165611.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
