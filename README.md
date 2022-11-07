@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:28:17 on 7 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:14:32 on 7 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Bakersfield (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Saw a craft shoot out a blue beam across the sky.I was going outside to my car when I thought a helicopter was shining a light above me.  I looked up confused because I didn't hear any sound.  All of a sudden, this craft opens with a red light on the back, and a really bright light in the middle.  I was facing south west.  It was directly above me when it shot out this massive ray of blue light.  It then disappeared in a moment, but the blue beam stayed fixed in the sky for about an hour.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126020.html](http://www.nuforc.org/webreports/reports/126/S126020.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Wanaque (NJ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>My girlfriend saw an object fall to the ground it was bright and about half the size of a full moon.The witness observed a round object fall to the earth. It was very bright white light and seemed to be about the size of a street light when standing abot 10 feet away. The object had a tail which seemed to linger. It disappeared behind a building and seemed to have hit the ground fairly close but there was no sound. I was with the witness but saw and heard nothing as I was driving. The witness is a manager of a restaruant and in my opinion very reliable.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04776.html](http://www.nuforc.org/webreports/reports/004/S04776.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [614](http://www.nuforc.org/webreports/reports/165/S165178.html)
-- [613](http://www.nuforc.org/webreports/reports/165/S165205.html)
-- [612](http://www.nuforc.org/webreports/reports/165/S165195.html)
-- [611](http://www.nuforc.org/webreports/reports/165/S165233.html)
-- [610](http://www.nuforc.org/webreports/reports/165/S165200.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
