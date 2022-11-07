@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:46 on 7 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:06:06 on 7 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Waterbury (CT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I was watching  the star it was a clear night never saw so many star when I noticed a group of 3 stars moving I wached for about 5 minutes waiting for them to fade like a shooting star but they did not the stayed the same distance from each other watched for about 15 minutes before I went back inside they were to high to b a plane and shooting stars don't stay the smell distance apart and travel  the same speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123877.html](http://www.nuforc.org/webreports/reports/123/S123877.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Grand Junction (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Round flying giant lights over mesa veiwed from gj and one glowing massive ship above the resta legitimate siting investigation showed recent activity in overwelhming eyewitness encounter,((NUFORC Note:  Possible hoax??  The date of the alleged sighting may be wrong.  The witness may have intended December sighting, rather than November.  We would like to contact the witness, but he elects to remain totally anonymous, and provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115869.html](http://www.nuforc.org/webreports/reports/115/S115869.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [614](http://www.nuforc.org/webreports/reports/165/S165178.html)
-- [613](http://www.nuforc.org/webreports/reports/165/S165205.html)
-- [612](http://www.nuforc.org/webreports/reports/165/S165195.html)
-- [611](http://www.nuforc.org/webreports/reports/165/S165233.html)
-- [610](http://www.nuforc.org/webreports/reports/165/S165200.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
