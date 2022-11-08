@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:13:37 on 8 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:03:13 on 8 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Des Moines (IA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Driving along I-80 west bound and saw about 7-9 bright red lights floating in the sky at about the height that a  helicopter would fly.  Didn't appear to be moving.  Very disorganized no shape.  There were about 4-5 up high and then another 3-4 kind of in a line going up&down direction below the others.  I drove directly underneath them, was able to see them in my mirrors just as bright.  When I pulled off on the next exit so I could take a video of it they were all gone...every single one.  Never seen anything like it in my life!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115254.html](http://www.nuforc.org/webreports/reports/115/S115254.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Newark (DE) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Red-Orange light seen from the University of Delaware campusWhile walking back form class this evening, I noticed a bright, red-orange light in the south sky travelling north. At first I though the light was an airplane, but there were no flashing lights on the craft.  After about two minutes of watching the light, it dimmed to a barely visible white dot and appeared to start travelling toward the east. It disappeared from my line of sight (some buildings were blocking the way), and I did not make the effort to move and look for it again.((NUFORC Note:  Possible sighting of an aircraft, we suspect.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47558.html](http://www.nuforc.org/webreports/reports/047/S47558.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165202.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165207.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165199.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165201.html)
-- [407](http://www.nuforc.org/webreports/reports/160/S160487.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
