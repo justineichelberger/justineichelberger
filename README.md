@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:14:31 on 8 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:08:33 on 8 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Springfield (OR) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Two dark objects flying low without any sounds.At first we were driving my girlfriend noticed objects in the rearview mirror.They continued over us in front of the windsheild view.She was frantic and upset with me not seeing them.So we pulled over into a parking lot,for about one minute we didn't see anything.It was very cloudy so when they came back in veiw we could tell that they were very low.They moved very slow without a sound that we could hear the one in front was about the size of a plane.The one behind it was massive bout one hundred yards or bigger it was BIG.There we're no lights visible the color a dark or grey like color on both objects.We confirmed with one another that they were not aircraft that we could relate not helicopters,not planes,nor blimps.All i can say we had an eary feeling and did not know what we saw for certain.They traveled north at the same slow speed untill we could'nt see them anymore.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33000.html](http://www.nuforc.org/webreports/reports/033/S33000.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Phoenixville (PA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright light inside an orange object, floating slowly overhead and not affected by the wind.At approximately 9:45 p.m EST on 11/8/13, in Phoenixville PA, I was walking across the Gay Street Bridge when I saw a bright orange object floating in the air.  It was about 20 feet above the bridge and was moving slowly and horizontally.  It was rectangular and looked to be about two feet high and a foot wide.   There was a very bright light inside the object, like a lit candle, giving the object an orange glow.  Although the light was like a flame, the object wasn't on fire and there was no smoke. I saw it most clearly when it passed nearby a street lamp.  There was a fairly strong breeze, but the object wasn't affected by it.  It moved steadily in a lateral direction for another few hundred yards, passing over and above the creek and toward the downtown area.  It then gradually moved upward in a diagonal direction until it seemed be several hundred feet high.  When it was about a quarter of a mile away, I began to lose sight of it, but the light was still as bright as a star.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104273.html](http://www.nuforc.org/webreports/reports/104/S104273.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165202.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165207.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165199.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165201.html)
-- [407](http://www.nuforc.org/webreports/reports/160/S160487.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
