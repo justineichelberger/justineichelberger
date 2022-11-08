@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:46 on 8 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:47 on 8 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Garner (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Odd flashing lightsOn the evening of Nov. 8th, around 8PM, located in Johnston County, North Carolina, I witnessed odd lights in the sky, traveling out of the south into the north.  The lights flashed irregularly and at a very fast pace, unlike any aircraft lights I have seen in the past.  The lights would flash and then go dark from some distance, and flash again and go dark, for what seemed to be the same distance.  It repeated this for five sequences of flashing fading in brightness each time until it went dark.  The manner that it “went dark” to me resembled the same way a satellite dimes and fades until it can no longer be seen, so I believe its altitude was very high and fast.  The initial flash was sufficiently bright enough in my peripheral vision to grab my attention; the second seemed to be equally as bright and it dimmed from that point on.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115783.html](http://www.nuforc.org/webreports/reports/115/S115783.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Eugene (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>What appeared to be a falling star , changed it's mind and made a hairpin u-turn and shot back up the way it came.Standing along the side of my house away from lights where I usually look at the stars , I was egerly awaiting the usual shooting star before turning in for the night . I didn't have to wait long and what I saw was not the ordinary track of a falling star . It began burning as normal falling at the right speed , angle about 45 degrees above the Eastern horizon . It appeared to come towards my location at the usual altitude but as the last "w" of wow left my lips - it had made a u-turn and shot back up at the same rate of speed and kept it's brightness till it vanished . If you were to open one end of a paper clip 45 degrees away from itself , that would pretty much match the escape trajectory . I chuckeled to myself and said aloud "woops wrong address " . If it had bounched off somthing in the atmosephere it should have broken up . Next time I'll bring my video camera !((NUFORC Note:  Date may be approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27870.html](http://www.nuforc.org/webreports/reports/027/S27870.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165202.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165207.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165199.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165201.html)
-- [407](http://www.nuforc.org/webreports/reports/160/S160487.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
