@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:40 on 8 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:46 on 8 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Kirkland (QC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>An orange fireball ascending from the sky going East at a 45 angle, then disappears and a new one reappears at the exact spot as beforeAn orange coloured orb or fireball was brightly glowing in the sky. Almost as if the fireball was shining in the sky as its shining glares slowly moved. The fireball seemed to have been hovering over lac St. Louis. It appeared to slowly descend diagonally at a 45 degree angle going East. Once it began to fizzle out another fireball/orb would appear in the exact same spot as where it first appeared and would do the exact same thing as the other fireball/orb once again. Also, as the fireball/orb was making it’s descent it also seemed as if it was faintly giving off some sort of vapour trail behind it. This had gone on for at least 45 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161230.html](http://www.nuforc.org/webreports/reports/161/S161230.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Garner (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Odd flashing lightsOn the evening of Nov. 8th, around 8PM, located in Johnston County, North Carolina, I witnessed odd lights in the sky, traveling out of the south into the north.  The lights flashed irregularly and at a very fast pace, unlike any aircraft lights I have seen in the past.  The lights would flash and then go dark from some distance, and flash again and go dark, for what seemed to be the same distance.  It repeated this for five sequences of flashing fading in brightness each time until it went dark.  The manner that it “went dark” to me resembled the same way a satellite dimes and fades until it can no longer be seen, so I believe its altitude was very high and fast.  The initial flash was sufficiently bright enough in my peripheral vision to grab my attention; the second seemed to be equally as bright and it dimmed from that point on.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115783.html](http://www.nuforc.org/webreports/reports/115/S115783.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165202.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165207.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165199.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165201.html)
-- [407](http://www.nuforc.org/webreports/reports/160/S160487.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
