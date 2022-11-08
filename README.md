@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:05:03 on 8 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:40 on 8 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Jonah (TX) reported seeing craft that fit the description of some 'Changing' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>My mom was driving N. on 1660 toward HWY 29. She saw 3 bright lights hovering for 30 sec and then there were suddenly only 2 lights.I got on Facebook and saw that my friend DK had posted a photo of the same thing my mom saw.  He & 3 others saw the same thing and got a photo of it which I have.  He said that this is not the first time people have repoeted seeing lights like these in the Taylor, TX area.  Some people saw 2, 3, 4, and 5 light in a line and others have seen them in a V shape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94272.html](http://www.nuforc.org/webreports/reports/094/S94272.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Kirkland (QC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>An orange fireball ascending from the sky going East at a 45 angle, then disappears and a new one reappears at the exact spot as beforeAn orange coloured orb or fireball was brightly glowing in the sky. Almost as if the fireball was shining in the sky as its shining glares slowly moved. The fireball seemed to have been hovering over lac St. Louis. It appeared to slowly descend diagonally at a 45 degree angle going East. Once it began to fizzle out another fireball/orb would appear in the exact same spot as where it first appeared and would do the exact same thing as the other fireball/orb once again. Also, as the fireball/orb was making it’s descent it also seemed as if it was faintly giving off some sort of vapour trail behind it. This had gone on for at least 45 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161230.html](http://www.nuforc.org/webreports/reports/161/S161230.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165202.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165207.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165199.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165201.html)
-- [407](http://www.nuforc.org/webreports/reports/160/S160487.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
