@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:40 on 8 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:45 on 8 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bogalusa (LA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Craft emits no light or sound flys over just able to see reflection and blacked out stars as it passedI happened to walk outside around 11 at night to let the dogs out and on my way in around 20 min later I noticed what looked like a dim reflection of a flying craft that was within 500 ft of the ground.  The craft then I could tell was indeed round and was blocking out the stars as it passed heading north to south at a slow speed making no noise and emitting no light but a reflection on the leading edge as it neared the southern edge of town near bens ford wildlife management area it took off at an extreme rate of speed with no sound</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94219.html](http://www.nuforc.org/webreports/reports/094/S94219.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Wickenburg (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately short - short minutes.</sub><blockquote><sub>triangle lightsTuesday evening 8 nov 2011 Driving from Wickenberg to Kingman,  A huge red light appeard followed by two more red lights, which formed a triangle.Other witness in car saying look there is a white light then started counting.  He counted 13 white horizonal lights followed by two more red ones.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85279.html](http://www.nuforc.org/webreports/reports/085/S85279.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165202.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165207.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165199.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165201.html)
-- [407](http://www.nuforc.org/webreports/reports/160/S160487.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
