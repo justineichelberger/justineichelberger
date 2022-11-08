@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:08:33 on 8 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:42 on 8 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Phoenixville (PA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright light inside an orange object, floating slowly overhead and not affected by the wind.At approximately 9:45 p.m EST on 11/8/13, in Phoenixville PA, I was walking across the Gay Street Bridge when I saw a bright orange object floating in the air.  It was about 20 feet above the bridge and was moving slowly and horizontally.  It was rectangular and looked to be about two feet high and a foot wide.   There was a very bright light inside the object, like a lit candle, giving the object an orange glow.  Although the light was like a flame, the object wasn't on fire and there was no smoke. I saw it most clearly when it passed nearby a street lamp.  There was a fairly strong breeze, but the object wasn't affected by it.  It moved steadily in a lateral direction for another few hundred yards, passing over and above the creek and toward the downtown area.  It then gradually moved upward in a diagonal direction until it seemed be several hundred feet high.  When it was about a quarter of a mile away, I began to lose sight of it, but the light was still as bright as a star.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104273.html](http://www.nuforc.org/webreports/reports/104/S104273.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Pueblo (CO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Huge smoke like trail going across the skyI was on my way to get my mother from work about 11:00pm downtown in Pueblo, Colorado, on the night of 11/8/12.  Heading from North to the South I saw a huge white cloud looking object appear and go across the sky and then disappear, kind of how airplanes leave a trail of smoke, only this was much larger and late at night.  It lasted about 20 to 30 seconds. I saw it while I was driving and didn't know what I was seeing.  I pulled over to check it out.  It went across the sky very fast but the stream behind it was extreamly long and lasted a long time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94257.html](http://www.nuforc.org/webreports/reports/094/S94257.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165202.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165207.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165199.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165201.html)
-- [407](http://www.nuforc.org/webreports/reports/160/S160487.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
