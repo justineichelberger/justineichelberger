@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:43 on 8 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:52 on 8 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Mohammed Bin Zayed City (Abu Dhabi)(UAR) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Blue Green Circular object with spike-like white, moving to the leftI was taking a picture of the sunlight while I was going to work.  I'm just about to post it when I noticed a circular object just above the sun.  So I zoomed the image and I was shocked to see that it looks like a blue green ball with white spikes in it.  So I took another picture again thinking that it might be a reflection or an there's a defect with my camera lenses on my mobile.  The blue object moves to the left in every picture I made.  I was still very skeptic about it so my friend took a picture as well from his mobile.  And there it is!  He captured it too.  I don't know, maybe this is a planet, or a satellite, or a drone.  The experience is weird.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115269.html](http://www.nuforc.org/webreports/reports/115/S115269.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Nottingham (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright orbs traveling across the sky in triangular pattern.Looking up in the sky moving I saw first 3 orbs which could be described as orange and at some points almost purple in color traveling south east.  Another group of three in a triangle followed seconds later followed by one single object.  All of them traveled across the sky at the same rate of speed until they were out of range of sight.  I was able to capture about 1:30 seconds of video on my cell phone, not the highest quality…Their is absolutely no question that these were some sort of craft and nothing we have on this planet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104271.html](http://www.nuforc.org/webreports/reports/104/S104271.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165202.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165207.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165199.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165201.html)
-- [407](http://www.nuforc.org/webreports/reports/160/S160487.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
