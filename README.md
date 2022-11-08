@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:50 on 8 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:43 on 8 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Winston-Salem (NC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>2 discsWas driving up number 8 back towards Germanton and could see two discs in the sky.  As I was trying to keep my eye on one, I spotted the second, as I moved my eye back to the first it was gone.  Then went back to the second and it was gone.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94234.html](http://www.nuforc.org/webreports/reports/094/S94234.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Mohammed Bin Zayed City (Abu Dhabi)(UAR) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Blue Green Circular object with spike-like white, moving to the leftI was taking a picture of the sunlight while I was going to work.  I'm just about to post it when I noticed a circular object just above the sun.  So I zoomed the image and I was shocked to see that it looks like a blue green ball with white spikes in it.  So I took another picture again thinking that it might be a reflection or an there's a defect with my camera lenses on my mobile.  The blue object moves to the left in every picture I made.  I was still very skeptic about it so my friend took a picture as well from his mobile.  And there it is!  He captured it too.  I don't know, maybe this is a planet, or a satellite, or a drone.  The experience is weird.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115269.html](http://www.nuforc.org/webreports/reports/115/S115269.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165202.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165207.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165199.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165201.html)
-- [407](http://www.nuforc.org/webreports/reports/160/S160487.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
