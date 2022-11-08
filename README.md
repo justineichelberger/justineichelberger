@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:38:46 on 8 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:28:16 on 8 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Oshawa (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Medium sized ball of light came out of nowhere while we were driving on our left side up in the sky.  It was moving slowly downward, but not straight down, almost like someone would fall if they had a parachute on like a casual landing.  Then it got closer to us and disappeared out of nowhere.  No sounds.  No smoke.  No trail.  Just disappeared((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137189.html](http://www.nuforc.org/webreports/reports/137/S137189.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in College Point (NY) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Three large luminescent objectsMy family and I recently heard a broadcast concerning the 1997 "Phoenix lights phenomenon" which in some respects reminded us of our own experience in 2003; and so, I searched out this website to contribute this account.  Principally, that on the night of November 8, 2003 at about 8:40 pm- as we finished observing the lunar eclipse that had been transpiring- we were walking from the front lawn toward the front door of our house.  At that moment, my husband took one last look up at the moon and suddenly blurted out "what's that?!"  We all gazed up to see what appeared like three distant, yet large, luminescent objects flying across the night sky.  Each was somewhat arrowhead shaped, and all three were together in a chevron formation... one at the head and one on each side.  These were not geese.  These objects were large and ethereal in nature- almost as if translucent.We're certain that they were not commercial jets- nor did these objects follow a flight pattern that we've ever witnessed in these parts.  Moreover, they were totally silent which really amazed us.My husband ran quickly to the front gate of our property as he tried to follow their flight path which seemed to be heading west by northwest towards Manhattan.  However, a large tree on our lawn was obscuring his sight; nevetheless, within moments he reached a clearing... yet, they had already completely vanished.  My daughter and I could not tell, either, how they had disappered so quickly... all within, I believe, 10 second or less.  We were all left with the distinct impression that we had just witnessed something supernatural.  We were very glad to have witnessed it together; otherwise I, for one, might have doubted my own eyes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49576.html](http://www.nuforc.org/webreports/reports/049/S49576.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165202.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165207.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165199.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165201.html)
-- [407](http://www.nuforc.org/webreports/reports/160/S160487.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
