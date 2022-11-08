@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:47 on 8 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:50 on 8 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Eugene (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>What appeared to be a falling star , changed it's mind and made a hairpin u-turn and shot back up the way it came.Standing along the side of my house away from lights where I usually look at the stars , I was egerly awaiting the usual shooting star before turning in for the night . I didn't have to wait long and what I saw was not the ordinary track of a falling star . It began burning as normal falling at the right speed , angle about 45 degrees above the Eastern horizon . It appeared to come towards my location at the usual altitude but as the last "w" of wow left my lips - it had made a u-turn and shot back up at the same rate of speed and kept it's brightness till it vanished . If you were to open one end of a paper clip 45 degrees away from itself , that would pretty much match the escape trajectory . I chuckeled to myself and said aloud "woops wrong address " . If it had bounched off somthing in the atmosephere it should have broken up . Next time I'll bring my video camera !((NUFORC Note:  Date may be approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27870.html](http://www.nuforc.org/webreports/reports/027/S27870.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Tucumcari (NM) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>On Hwy 54 headed North, the entire sky lit up in a bright blue light beginning in the north horizon and encompassing entire 360 view.While traveling Northeast on Highway 54 as we passed over the overpass right outside of Tucumcari, NM heading towards Logan, NM the entire sky lit up in a bright blue light beginning in the north horizon. It encompassed the entire sky from horizon to horizon and it faded the same way it appeared but faded from the south horizon to the north horizon. It lit up everything in view like daylight except in a blue tone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94269.html](http://www.nuforc.org/webreports/reports/094/S94269.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165202.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165207.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165199.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165201.html)
-- [407](http://www.nuforc.org/webreports/reports/160/S160487.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
