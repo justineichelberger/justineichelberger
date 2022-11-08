@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:42 on 8 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:09 on 8 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Columbus (OH) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Sitting in hot tub when a brilliant streak of whitish-blueish light flew horizontally across the sky out of nowhere with a quiet whistle sound and then dissapeared in a large collection of white sparks, did not look like a fire work or plane/missile; too low and quiet for a plane or missile and to fast and bright for a firework plus was traveling horizontaly not vertically like a firework.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123885.html](http://www.nuforc.org/webreports/reports/123/S123885.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Apex (physically in Cary) (NC) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Huge diamond shaped aircraft moved very slowly, hovered, then went below tree line.  Red/green non-flashing lights. Low quiet hum.On November 8, 2018, at approximately 7:30pm, we were walking our dogs down our street and saw a very large (larger than our house), squished-diamond shaped, black aircraft, with red and green non-flashing lights, moving extremely slowly from left to right.  It was just over the tree tops, but lower than the top of the radio tower, that was to its left.  It slowed almost to a stop and turned to its left and went below the tree line.  There was no obvious aircraft engine noise, but had a low hum to it.  I was waiting to hear a crash and an explosion, but it never happened.  My friend, who is a pilot, was with me.  He said he had never seen anything like it.  Our neighbor said she also saw it, but did not know what it was.  What was remarkable was how large, quiet and slow moving it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143713.html](http://www.nuforc.org/webreports/reports/143/S143713.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165202.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165207.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165199.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165201.html)
-- [407](http://www.nuforc.org/webreports/reports/160/S160487.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
