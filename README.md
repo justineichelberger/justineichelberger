@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:42 on 8 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:39 on 8 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Pueblo (CO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Huge smoke like trail going across the skyI was on my way to get my mother from work about 11:00pm downtown in Pueblo, Colorado, on the night of 11/8/12.  Heading from North to the South I saw a huge white cloud looking object appear and go across the sky and then disappear, kind of how airplanes leave a trail of smoke, only this was much larger and late at night.  It lasted about 20 to 30 seconds. I saw it while I was driving and didn't know what I was seeing.  I pulled over to check it out.  It went across the sky very fast but the stream behind it was extreamly long and lasted a long time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94257.html](http://www.nuforc.org/webreports/reports/094/S94257.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Victor (WV) reported seeing craft that fit the description of some 'Flash' over a period of approximately varies - varies minutes.</sub><blockquote><sub>Different sightings over the course of the last 11 days.  11/19/12 most frightening.On the 8th around 10:45PM my husband and I were carrying in groceries into his parents home, as we walked back outside to get another arm load to carry in we saw a bright blue flash in the sky, it looked like a police light it lasted only a few seconds.  It was in the south east sky over the tree tops in my in-laws yard around where the sun rises in the morning.Also I have been seeing different lights several times since then.On the 12th my husband and our daughter were driving home from my parents house around 10:30PM EST on Rt. 60, and the car just stopped and engine died.  We couldn't figure out what was going on about 15 seconds later we saw 7 bright lights move across the sky in a V formation, my husband estimated that it was about 1000 feet above us it moved from the north west to the south east and it took about 2 minutes for it to pass over head.  As soon as the lights were gone are car started right up with no problem.The 13th I was walking to my car after work around 4:30PM and I saw something shiny in the sky, I thought it was just an air plane or something like that but there was no noise.  I looked at it again and realized it wasn't moving, it was hovering there for a good 30-40 seconds and then it was gone.The 17th I was loading up my car at Wal-Mart in Fayetteville around 10:00PM and I glanced up and it was really really cloudy out and I saw a bright light in the sky that was changing colors from blue, to white, green and red and some purples.  There were some other people around me that noticed it as well and were just watching it, which is another thing that caught my attention. After I finished loading up my car I sat in my car and watched it for about 5 minutes then it was just vanished.Tonight 11/19/12 around 7:00PM I was walking back to my house after a Thirty One party at my neighbor's house with my neighbor's daughter who is babysitting for me tonight while I go Christmas shopping tonight and saw the 7 reddish orange lights again.  Next thing I know there were 9 very loud planes flying fast overhead as if they were chasing down whatever the lights were.  ((name deleted)) (my neighbor's daughter) took off running to my house because she was so scared.  I took off running as well to the house to get inside.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94645.html](http://www.nuforc.org/webreports/reports/094/S94645.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165202.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165207.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165199.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165201.html)
-- [407](http://www.nuforc.org/webreports/reports/160/S160487.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
