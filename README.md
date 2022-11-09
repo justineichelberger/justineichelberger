@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:39 on 9 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:48 on 9 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Fort Smith (AR) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>At 5:oo P.M.  Me and my husband were eating at Burger King, we left to go home and he was mentioning the contrails in the sky, and how they were not normal contrails. So we proceeded home, and there was a jet, you could see plain as day, thats what it was, he was expaining how those were contrails, anyway as we were looking at the jet there was a steady light,the jet seemed to be going straight towards it, it seemed to be still, to me but my husband thought it may have been moving slowly, I couldnt really say for sure, the jet went above the object. This thing was almost glowing, it could not have been a reflection because the jet was in the same spot at this point only higher, and there was not glow to the jet, then as I made a right turn, it put the two behind us, I was driving so I wasnt looking back, then my husband said oh my God it just vanished the jet was still heading the same way, but it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10489.html](http://www.nuforc.org/webreports/reports/010/S10489.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Kiev (Ukraine) () reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.8333333333333334 - 0.8333333333333334 minutes.</sub><blockquote><sub>Blue flash lights over the top of the Kiev planetarium building  I've been to Kiev for several days.  On the 9th of November around the midday I was going along the street and accidentally my attention was riveted on the top of the building of the Kiev planetarium.  I saw very  bright blue light flashes moving around the roof for maybe 50-60 seconds and then they just flew away up to the sky.I was so stunned that even couldn't move.  I noticed several people around who saw that too as they were also comletely shocked.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85336.html](http://www.nuforc.org/webreports/reports/085/S85336.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/165/S165238.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165208.html)
-- [326](http://www.nuforc.org/webreports/reports/165/S165204.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165213.html)
-- [324](http://www.nuforc.org/webreports/reports/160/S160521.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
