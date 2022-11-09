@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:14:43 on 9 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:05:11 on 9 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Rugeley (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>bright blue light bright enought to light at least a mile square upBright light blue in colour coming from a recently logged part of a forest in upperlongdon    rugeley  (cannock chase forrest)  it was so bright you couldnt tell where it was coming from i flashed on and of 3 times, we pointer the car at the area and there was no one there after the lights went out, just after someone else who has seen this  a my mom saw it from the house and my brother also seen this  thasks  rob</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66822.html](http://www.nuforc.org/webreports/reports/066/S66822.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Tracy City (TN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>White light Plumb as though burning up on rentery.A whitr plumb of light as though something was burning up on rentrey. Travling North West. The opject did not seem to be that high and the event stoped all at once even though quite brite. This is not the first time we have seen these in this area.The plumb was large and shown light on the ground.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40563.html](http://www.nuforc.org/webreports/reports/040/S40563.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/165/S165238.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165208.html)
-- [326](http://www.nuforc.org/webreports/reports/165/S165204.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165213.html)
-- [324](http://www.nuforc.org/webreports/reports/160/S160521.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
