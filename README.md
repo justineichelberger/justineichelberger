@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:47 on 9 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:41 on 9 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Lyons (CO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately short - in seconds - short - in seconds minutes.</sub><blockquote><sub>My wife was woke out of sleep by a light shining in her face – but this time with no noise. Also, later on, a small lamp in our room came on by itself and caused her to wake up again. This account goes with another one posted for 11/2/97</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45025.html](http://www.nuforc.org/webreports/reports/045/S45025.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Rotterdam/Amsterdam (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>large size and very bright light in the sky about 20x the size of an avg. "shooting star."  It was going across the sky,  SLOW.large size and very bright light in the sky about 20x the size of an avg. "shooting star." It was going across the sky,  SLOWED DOWN, and then kept going and disappeared..  This was a little before 10pm...  Thank you for your time!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123933.html](http://www.nuforc.org/webreports/reports/123/S123933.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/165/S165238.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165208.html)
-- [326](http://www.nuforc.org/webreports/reports/165/S165204.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165213.html)
-- [324](http://www.nuforc.org/webreports/reports/160/S160521.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
