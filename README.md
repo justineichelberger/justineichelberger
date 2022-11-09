@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:43 on 9 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:48 on 9 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Madison (SD) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Strange hovering light due East of Madison, SD.  Sighting occurred at the dosc golf course at 7th and Blanche.  Light hovered in the far distance and did not move.  Light changed from red to white, back and forth.  Noticed the light and took video.  After video was take, a 2nd light appeared and went towards the light.  It neared the first light and then veered away from it, out of sight.  The light was still there at 23:45.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131128.html](http://www.nuforc.org/webreports/reports/131/S131128.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Hanover/Weymouth (MA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>Crazy lights.saw strange flashing light coming from same place in same direction..  never seen anything like it before can't explain it with any knowledge i've obtained and i am highly educated... the lights seemed to head west to east from a location behind a cloud and shot quickly in said direction at various elevations. witnesed on highway rte.3N from exit 13-14 and once off exit.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104312.html](http://www.nuforc.org/webreports/reports/104/S104312.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/165/S165238.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165208.html)
-- [326](http://www.nuforc.org/webreports/reports/165/S165204.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165213.html)
-- [324](http://www.nuforc.org/webreports/reports/160/S160521.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
