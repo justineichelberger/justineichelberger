@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:04:55 on 9 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:43 on 9 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Flashing red lights in formationFlashing red lights in a wide-spread formation.  Traveling South West direction from directly overhead to horizon.  Objects appeared to be high altitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59725.html](http://www.nuforc.org/webreports/reports/059/S59725.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Madison (SD) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Strange hovering light due East of Madison, SD.  Sighting occurred at the dosc golf course at 7th and Blanche.  Light hovered in the far distance and did not move.  Light changed from red to white, back and forth.  Noticed the light and took video.  After video was take, a 2nd light appeared and went towards the light.  It neared the first light and then veered away from it, out of sight.  The light was still there at 23:45.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131128.html](http://www.nuforc.org/webreports/reports/131/S131128.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/165/S165238.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165208.html)
-- [326](http://www.nuforc.org/webreports/reports/165/S165204.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165213.html)
-- [324](http://www.nuforc.org/webreports/reports/160/S160521.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
