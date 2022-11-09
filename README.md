@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:05:11 on 9 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:43 on 9 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Tracy City (TN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>White light Plumb as though burning up on rentery.A whitr plumb of light as though something was burning up on rentrey. Travling North West. The opject did not seem to be that high and the event stoped all at once even though quite brite. This is not the first time we have seen these in this area.The plumb was large and shown light on the ground.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40563.html](http://www.nuforc.org/webreports/reports/040/S40563.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in LaPorte (IN) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>An accidental fall of a cell phone’s camera and a picture being snapped by itself.It was an object that looked diamond shaped, and around the shape were four and a half “smoke rings” surrounding the upper portion, and one “smoke ring” on the lower right side. One half portion appears to be below the craft on the right also, a second “half-smoke ring” can be seen on the left but isn’t visible full. The image was taken when my cell phone slipped out of my hands, and then fell into the driver’s side of my car.  I then picked up my cell phone and the picture was visible to me, but I didn’t erase the image from the memory,  About three days later I examined the photo for a quick second. But I did not find anything to be unusual,  And then Seven days later I decided to look at the image again. That is where I saw a small Black “dot” shape in the Cloudy sky.  I still did not examine the image entirely until Today, and now I know it looks like a UFO. It could be described as a Helicopter, but the rings are unusual to see. Because I did not hear or se! e any helicopter’s at the time of the image being shot. It is just a dot in the sky, or could be my window with a spot on it, Unfortunately my window’s were cleaned a few days prior.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153018.html](http://www.nuforc.org/webreports/reports/153/S153018.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/165/S165238.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165208.html)
-- [326](http://www.nuforc.org/webreports/reports/165/S165204.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165213.html)
-- [324](http://www.nuforc.org/webreports/reports/160/S160521.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
