@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:44 on 9 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:44 on 9 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Baton Rouge (LA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>I was smoking a cig, I’m alwys staring at the night sky, I’ve seen a few strange things. This was easily the most outrageous thing I’ve ever seen or imagined I would ever see.  From my left to my right moved a very fast, silent, actual spaceship.  It looked like straight out of Star Trek, Independence Day, or predator.  It appeared to be a brownish color, had a few dim bluish lights.  No sound!  No exhaust, it was gliding, no propeller system.  Definitely not not not a drone.  It was huge.  Very clear and quiet sky.  It was straight out of the movies.  Moving very fast, fairly low.  I never thought I would be able to say I saw this, but it’s true.  I literally saw an alien spaceship fly directly over me and I was looking directly at it.  There is no other explanation.  My first thought was comparing it to the likes of a mechanical dragon.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137213.html](http://www.nuforc.org/webreports/reports/137/S137213.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Georgia (VT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Multiple yellowish objects in the sky.I was getting ready to back out my car so my wife could leave and looked up and say yellowish lights in the sky and mentioned to my wife that the stars looked very intense.   After I backed out my car and she left, I got out and walked to the end of my driveway so I could get a better look and I saw at least 8 yellowish objects in the sky and they were moving around in a strange way and I ran inside to get my brother and father to come out and check it out as they were over helping on the house.  When my brother made it outside we ran to the end of the driveway and saw that there were only two left in the sky and saw one disappear with only one left in the sky and then my father came down the driveway and saw the one left and we watched it until that one disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104317.html](http://www.nuforc.org/webreports/reports/104/S104317.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/165/S165238.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165208.html)
-- [326](http://www.nuforc.org/webreports/reports/165/S165204.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165213.html)
-- [324](http://www.nuforc.org/webreports/reports/160/S160521.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
