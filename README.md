@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:16:01 on 9 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:10:36 on 9 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in St. Louis (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1:25 - 1:25 minutes.</sub><blockquote><sub>A triangular craft with red and white moving and pulsated only white and a contuous red beam surging along the back of the shipThere was one triangular object with red and white searchlights which pulsated and moved from spot to spot. The craft was very silent and flew low and extremely slow. There were white colored beams along both sides of the ship that were on continously on and visible. There was a darker shaded haze surrounding the ship. It also contuous red beam surging along the back of the shiphad((NUFORC Note:  No other reports were received from this populated area.  PD</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20127.html](http://www.nuforc.org/webreports/reports/020/S20127.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Bushwick (NY) reported seeing craft that fit the description of some 'Changing' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Random movements/blinking lights: slow to medium speed random side to side movements, later up & down.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  Possible hoax??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143696.html](http://www.nuforc.org/webreports/reports/143/S143696.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/165/S165238.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165208.html)
-- [326](http://www.nuforc.org/webreports/reports/165/S165204.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165213.html)
-- [324](http://www.nuforc.org/webreports/reports/160/S160521.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
