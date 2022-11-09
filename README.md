@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:44 on 9 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:39 on 9 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Georgia (VT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Multiple yellowish objects in the sky.I was getting ready to back out my car so my wife could leave and looked up and say yellowish lights in the sky and mentioned to my wife that the stars looked very intense.   After I backed out my car and she left, I got out and walked to the end of my driveway so I could get a better look and I saw at least 8 yellowish objects in the sky and they were moving around in a strange way and I ran inside to get my brother and father to come out and check it out as they were over helping on the house.  When my brother made it outside we ran to the end of the driveway and saw that there were only two left in the sky and saw one disappear with only one left in the sky and then my father came down the driveway and saw the one left and we watched it until that one disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104317.html](http://www.nuforc.org/webreports/reports/104/S104317.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Fort Smith (AR) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>At 5:oo P.M.  Me and my husband were eating at Burger King, we left to go home and he was mentioning the contrails in the sky, and how they were not normal contrails. So we proceeded home, and there was a jet, you could see plain as day, thats what it was, he was expaining how those were contrails, anyway as we were looking at the jet there was a steady light,the jet seemed to be going straight towards it, it seemed to be still, to me but my husband thought it may have been moving slowly, I couldnt really say for sure, the jet went above the object. This thing was almost glowing, it could not have been a reflection because the jet was in the same spot at this point only higher, and there was not glow to the jet, then as I made a right turn, it put the two behind us, I was driving so I wasnt looking back, then my husband said oh my God it just vanished the jet was still heading the same way, but it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10489.html](http://www.nuforc.org/webreports/reports/010/S10489.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/165/S165238.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165208.html)
-- [326](http://www.nuforc.org/webreports/reports/165/S165204.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165213.html)
-- [324](http://www.nuforc.org/webreports/reports/160/S160521.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
