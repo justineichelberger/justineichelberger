@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:29:00 on 9 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:16:01 on 9 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Three circular lights clearly not typical aircraft floating and moving away smoothly.While driving eastbound on Main Street between Val vista and greenfield roads my stepfather and i witnessed 3 bright lights separated randomly in the sky.The first two lights were in the north with one a bit further east and it seemed to be a bit closer to us.  The light closer and to the east (will be further reffered to as light 1) seemed to be shone in our direction because of the way the rays came off the light and how bright it was.  Light two did not seem either as bright or to be shone in our direction.Light one seemed to be floating and not really moving in any direction until it slowly turned the light toward the south and began to move across the sky.  The light didn't seem to move in any massive speed, but it did not go slowly either. (i am a terrible judge of speed and distance)  Light #3 was in the south east and was slowly moving south.  Lights 2 and 3 were not nearly as bright as one and thus i seemed to really only watch 1.  It was also the closer light so it caught my attention more.  My stepfather was mostly watching the one from the passenger side which was in the south on his side of the car.I know what an airplane looks like as i live under the flight path for Sky Harbor and these lights did not blink and had no red to them at all.  I also concluded it could not be a police chopper because for the light closest to us to be that bright the chopper would have to literally be aiming at us.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66817.html](http://www.nuforc.org/webreports/reports/066/S66817.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in St. Louis (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1:25 - 1:25 minutes.</sub><blockquote><sub>A triangular craft with red and white moving and pulsated only white and a contuous red beam surging along the back of the shipThere was one triangular object with red and white searchlights which pulsated and moved from spot to spot. The craft was very silent and flew low and extremely slow. There were white colored beams along both sides of the ship that were on continously on and visible. There was a darker shaded haze surrounding the ship. It also contuous red beam surging along the back of the shiphad((NUFORC Note:  No other reports were received from this populated area.  PD</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20127.html](http://www.nuforc.org/webreports/reports/020/S20127.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/165/S165238.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165208.html)
-- [326](http://www.nuforc.org/webreports/reports/165/S165204.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165213.html)
-- [324](http://www.nuforc.org/webreports/reports/160/S160521.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
