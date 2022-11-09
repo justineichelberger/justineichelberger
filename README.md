@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:52 on 9 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:04:55 on 9 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bakersfield (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Circle shape with intense light coming from the back of it!I took my dog outside to go to the bathroom and I was looking at the sky.  Then all of the sudden I seen a circle shape I believe.  It had this light behind it which was like no other!  Trailing behind the ufo then the light from the back of it went off then I couldn't see it any longer.  I'm still in shock!  And can believe what I just seen!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94285.html](http://www.nuforc.org/webreports/reports/094/S94285.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Flashing red lights in formationFlashing red lights in a wide-spread formation.  Traveling South West direction from directly overhead to horizon.  Objects appeared to be high altitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59725.html](http://www.nuforc.org/webreports/reports/059/S59725.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/165/S165238.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165208.html)
-- [326](http://www.nuforc.org/webreports/reports/165/S165204.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165213.html)
-- [324](http://www.nuforc.org/webreports/reports/160/S160521.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
