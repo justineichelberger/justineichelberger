@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:08:57 on 10 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:38 on 10 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Fair Oaks/Rancho Cordova (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>Color changing moving fireball,brilliantly illuminating,moving East to West across field of view,horizon to horizon.While en-route to work, I saw a very,very bright fireball, which changed colors-Bright red,to orange-yellow,to emerald green. It crossed the sky before my vehicle,while I was stopped at a red traffic light. It moved rapidly,but not as fast as say, a shooting star.  It made no changes in course, nor did it make any noise whatsoever. It was equal in brightness to a full moon.I also noted the object left a luminous trail,approx. four to five diameters of fireball while I watched it crossing the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10531.html](http://www.nuforc.org/webreports/reports/010/S10531.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Pirenopolis (Brazil) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Bright white and yellow circular light over deserted forest in Brazil, accelerates downwards, four timesIt was just after 10 pm in Pirenopolis, Brazil.  My husband and I were sitting on the balcony of our hotel room.  I was looking in the direction of the forest.  I saw a bright white circular light with a yellow outline, rising upwards.  This light stopped suddenly, remained stationary for about 10 seconds and accelerated downwards.In about 20 minutes, this light reappeared and seemed closer, or bigger.  This time it jumped to the left and right a few times which would leave a tail like yellow trail.  It stayed for about 10-15 seconds and again accelerated downwards.In about 20-30 minutes it reappeared again and stood still before accelerating downwards.In about one hour this light reappeared for the fourth and last time, this time a lot closer. This time it rose slowly and stayed still for a few seconds then just disappeared.The following morning I did my own research to make sure there are no military bases, etc. in that area.  There is nothing except forest, mountains, rivers and waterfalls.  It is a totally deserted area.  I spoke with a few of the locals and they confirmed that there are not even any roads in that part of the forest.  The locals also informed me that UFO sightings are becoming very common in Central-East Brazil.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66857.html](http://www.nuforc.org/webreports/reports/066/S66857.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165239.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165215.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165237.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165740.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165798.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
