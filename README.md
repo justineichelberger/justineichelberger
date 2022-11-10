@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:47 on 10 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:04:14 on 10 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Malibu (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>A huge craft flew over my building at close range so that I could view underbelly.I heard a sound coming like a plane, but lighter rumbling.  I was on second floor, looked out and up my window.  I saw the underbelly of a flying craft that covered the complete view above me. I saw two distinct round red lights adjacent to each side underneath.  I followed flying object as it went over the pacific.  It seemed either round or oval shaped, not sure.  I saw big red and white lights blinking. The entire view was huge compared to the normal plane lights I usually see.  The under belly was metalic, minus the big red lights.  But it was hard to make out everything under there as it was such a surprise to me to be experiencing this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85248.html](http://www.nuforc.org/webreports/reports/085/S85248.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Maryland Height (MO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0:10 - 0:10 minutes.</sub><blockquote><sub>Spotted it about 12 o'clock high.  Moved east to west at about 600-700mph It had no con trail,  or blinking lights.I was outside star gassing looked up and saw a small circular green light almost direcly overhead.  It was moving from east to west at about 600 mph. There was no con trail so I knew it wasnt a Comet or a Meteor.  There was no blinking lights signafing a commen Aircraft. The event lasted only 10 sec.  I knew it wasn't a plane because I was Less than 3 mi. from Lambert Inter' Nat.  All aircraft not landing at Lambert had to circle to evoid hiting another.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04849.html](http://www.nuforc.org/webreports/reports/004/S04849.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165239.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165215.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165237.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165740.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165798.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
