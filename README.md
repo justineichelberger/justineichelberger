@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:40 on 10 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:47 on 10 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1987, an anonymous witness in Iola (KS) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>light over cattle pastureObject cited was over a cattle pasture north of Iola Kansas at about 10: 30Pm We were traveling southbound on Kentucky Avenue We spotted a light coming from the sky on the west side of the road The object that the light was coming from was approximately 70 to 80 feet off the ground It was stationary shining in one place on a group of cattle we stopped and observed the light for approximately 30 to 45 seconds the light then begin to move up and northward away from the cattle we put the car in reverse to give chase we were able to observe the light as it gained altitude and speed we had our windows down there was no sound whatsoever with the car in reverse we were able to follow the light for approximately 1/8 mile the object then streaked from our site at a high speed</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114306.html](http://www.nuforc.org/webreports/reports/114/S114306.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Eaton (CO) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>White light grouping in north sky.While closing blinds in north window, noted a grouping of clear lights in sky above neighbor’s roofline.  The configuration was sort of plane-like, in that it appeared elongated.  Lights were numerous, not like those on an aircraft.They (lights) appeared small but could have been that object was further away than I thought.  It hovered in place for maybe 3 minutes then very slowly moved off to the southwest.  Tried to pick it up from a west window, but had lost track of it.  (? Drone ?).((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137207.html](http://www.nuforc.org/webreports/reports/137/S137207.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165239.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165215.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165237.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165740.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165798.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
