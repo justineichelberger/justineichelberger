@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:45 on 9 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:51 on 10 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Fredriksburg (VA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Unidentified flying objects near FredricksburgI was driving south on I 95 headed home to NC at approximately 15:00 hrs when I saw several cylindrical objects off in the distant sky.  There were 3 on the west side of I95 off in the distance approx 25-35 miles and there were 2 on the east side of I95 that were much closer may 10-15 miles away.  They were all on an angle of approx 80 degrees fromright to left upward trajectory. the cylinders appeared to be quite large based on the distance of the objects, and they seemed to have some sort of glow or reflection at the upper tip of the cylinder. This was viewed by me from Quantico area until I got off I95 to get gas in Fredricksburg, and there were lots of vehicles on the road at the time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94562.html](http://www.nuforc.org/webreports/reports/094/S94562.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Eilmsport (PA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>UFO report from Lycoming County.  On 19NO95, Sunday, I called Mr. Richard Secules, who said that the UFO was advertising lights, the type that spin around.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00964.html](http://www.nuforc.org/webreports/reports/000/S00964.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/165/S165238.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165208.html)
-- [326](http://www.nuforc.org/webreports/reports/165/S165204.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165213.html)
-- [324](http://www.nuforc.org/webreports/reports/160/S160521.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
