@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:38 on 10 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:47 on 10 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Pirenopolis (Brazil) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Bright white and yellow circular light over deserted forest in Brazil, accelerates downwards, four timesIt was just after 10 pm in Pirenopolis, Brazil.  My husband and I were sitting on the balcony of our hotel room.  I was looking in the direction of the forest.  I saw a bright white circular light with a yellow outline, rising upwards.  This light stopped suddenly, remained stationary for about 10 seconds and accelerated downwards.In about 20 minutes, this light reappeared and seemed closer, or bigger.  This time it jumped to the left and right a few times which would leave a tail like yellow trail.  It stayed for about 10-15 seconds and again accelerated downwards.In about 20-30 minutes it reappeared again and stood still before accelerating downwards.In about one hour this light reappeared for the fourth and last time, this time a lot closer. This time it rose slowly and stayed still for a few seconds then just disappeared.The following morning I did my own research to make sure there are no military bases, etc. in that area.  There is nothing except forest, mountains, rivers and waterfalls.  It is a totally deserted area.  I spoke with a few of the locals and they confirmed that there are not even any roads in that part of the forest.  The locals also informed me that UFO sightings are becoming very common in Central-East Brazil.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66857.html](http://www.nuforc.org/webreports/reports/066/S66857.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Malibu (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>A huge craft flew over my building at close range so that I could view underbelly.I heard a sound coming like a plane, but lighter rumbling.  I was on second floor, looked out and up my window.  I saw the underbelly of a flying craft that covered the complete view above me. I saw two distinct round red lights adjacent to each side underneath.  I followed flying object as it went over the pacific.  It seemed either round or oval shaped, not sure.  I saw big red and white lights blinking. The entire view was huge compared to the normal plane lights I usually see.  The under belly was metalic, minus the big red lights.  But it was hard to make out everything under there as it was such a surprise to me to be experiencing this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85248.html](http://www.nuforc.org/webreports/reports/085/S85248.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165239.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165215.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165237.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165740.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165798.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
