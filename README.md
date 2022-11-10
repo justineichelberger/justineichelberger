@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:40:36 on 10 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:27:37 on 10 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Jacksonville (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>conformation by anotherSighting Report Occurred : 11/10/2007 20:00 (Entered as : 11/10/2007 20:00) Reported: 11/11/2007 4:05:33 PM 16:05 Posted: 11/28/2007 Location: Jacksonville, FL Shape: Fireball Duration:3-5 Minutes Object entering southeastern Florida atmosphere at high velocity--NOT SPACE SHUTTLE  Leaving my home for a late evening bike ride I noticed an object several feet above the treeline entering our atmosphere in the southeastern sky. I was confident that I was watching the space shuttle Discovery returning form it's mission. I watched as it streaked along the sky at a slow pace with what seemed to be sparks and embers trailing behind. It glowed orange and then red and back to a dark orange. After a few minutes it decended below the treeline where I could not see it. It also appeared to be losing its color. There were several aircraft that seemed to be in the vicinity so again I felt it was a normal shuttle landing. I just read that the shuttle landed around 1:00pm versus this event that I witnessed around 8:00pm. I have contacted several news outlets that have also had recent calls regarding this strange object. I have never seen something like this and wasn't unhinged about it until I found out it wasn't our space shuttle returning home.  saw the same thing looked like it stopped over the ocean then saw it take off right back the way it came at i very high rate of speed. my girlfriend watched it too((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60778.html](http://www.nuforc.org/webreports/reports/060/S60778.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Port Isabel (TX) reported seeing craft that fit the description of some 'Disk' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Large disc shaped object with red lights on south side of highway 100Coming from the south side of hwy 100 ,bright lights caught my attention. As we drove  closer to our home the object grew closer to us.  The object was circular in shape with a dome on top, it had white lights all around with red lights in an inner circle.  As it headed for land, it disappeared into a large area of brush.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48368.html](http://www.nuforc.org/webreports/reports/048/S48368.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165239.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165215.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165237.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165740.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165798.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
