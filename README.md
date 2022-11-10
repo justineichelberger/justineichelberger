@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:14:57 on 10 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:08:57 on 10 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Crosby (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Pulsing light looks like a flashing stay but moved away from earth Into distance.About 0430 I needed to use the restroom and notices it was very dark in the house.  I thought their must be no moon tonight.  I opened my curtain to take a look around and saw a flash about as bright as a medium star.  I thought it was an airplane.  I kept watching as as it continues to flash about once every 5 seconds or so, I decided to go downstairs and look from outside and noticed that this flash did not move.  I used to work in the navy and I know what aircraft look like at night and I knew it was not an aircraft.  I thought it might be something else but I have no idea what.  I tried to record on my iPhone but it does not show anything.  Perhaps it could be professionally edited to show this pulsing or flashing light.  After a minute of watching from outside it seemed to become more faint and moved away from me into space.  I can't recall how bright it was initially from my bedroom window, I guess because I had just woke up.  After the thing was gone a quick streak went across the sky like a shooting star.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94299.html](http://www.nuforc.org/webreports/reports/094/S94299.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Fair Oaks/Rancho Cordova (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>Color changing moving fireball,brilliantly illuminating,moving East to West across field of view,horizon to horizon.While en-route to work, I saw a very,very bright fireball, which changed colors-Bright red,to orange-yellow,to emerald green. It crossed the sky before my vehicle,while I was stopped at a red traffic light. It moved rapidly,but not as fast as say, a shooting star.  It made no changes in course, nor did it make any noise whatsoever. It was equal in brightness to a full moon.I also noted the object left a luminous trail,approx. four to five diameters of fireball while I watched it crossing the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10531.html](http://www.nuforc.org/webreports/reports/010/S10531.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165239.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165215.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165237.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165740.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165798.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
