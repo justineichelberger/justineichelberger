@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:41 on 10 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:48 on 10 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>My girlfriend and I were taking our dog for a walk down the street headed southeast at around 11:40 pm.  We came to a corner and we stopped to look at the constellation of Orion’s Belt and not even 10 seconds later we both saw a dark triangular shaped object slowly floating right below the constellation with anywhere from 5 to 8 small dim lights that formed a V shape.  The lights appeared gold at first but as it went away they appeared almost blue.  The size of the lights were comparable to that of the stars in the sky. The object was about 2 to 3 inches in size in the sky. The sound that came from the object was a low pulsating humming sound.  The object was headed south and it looked as if it broke it pieces for a second but then it was definitely intact, when it made a sudden right turn to the west and then rolled over and went to the southwest and was suddenly out of sight but we could still hear its distinct humming sound.  We turned around and ran west down the sidewalk and turned left(southwest) onto the next street but we would not see or hear the object after looking for about five minutes. During all this we seen many planes in the sky and that made it easy to compare the characteristics of the object to the planes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59750.html](http://www.nuforc.org/webreports/reports/059/S59750.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>3 Red/Orange Circles blacking out in the night.On the evening of November 10, at 7:40 pm, I was taking my dog outside to the bathroom.  I saw 2 red/orange circles in the sky moving SSE slowly at the same speed.  It was located to the west of my position.  I told my wife to come out and witness the movement.  There were no sounds that we could hear of.  The lead circle would pulsate slightly and then die off.  Because it was dark, we weren’t sure if it blacked out or was masked by clouds.   About 10 seconds after, the second blacked out.  My wife went back into the house and I continued to walk the dog around the neighborhood.  Approximately 3 minutes later, I saw a third red/orange circle trailing the same route as the first two.  After about 1 to 2 minutes, the third blacked out as well.  I saw regular aircraft in the vicinity of these circles.  It was obvious that these red circles did not fit the profile of a normal aircraft.  Additionally, the movement was unnatural to a regular aircraft. It would shif! t mid-air.  When I got back into the house, my wife researched this to see if anyone else saw this pattern.  On the UFO Reporting Center, the description matched similar reports.I’m a former Marine Corps Officer with a MBA and my wife has a masters as well.  We have never witnessed anything like this before.  My first assumption was that these might be police unmanned aerial vehicles.  Although I have no reference, it looked extremely high in altitude.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94318.html](http://www.nuforc.org/webreports/reports/094/S94318.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165239.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165215.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165237.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165740.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165798.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
