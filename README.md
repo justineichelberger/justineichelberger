@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:01:38 on 10 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:40 on 10 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Sebastian (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I saw a quarter-sized, reddish-orange ball moving upward in the sky.I was sitting in my chair, on the dock,  watching my fishing pole, which was casted in the river, when I glanced up to look at the sky. It is a pretty night tonight. I saw something glowing red-orange, approximately the size of a quarter in the sky right above a tree moving in a vertical upright motion. I ran in the house to tell my friends, and when they came out with me the remnants were a glowy orange sky in the direction of the quarter-sized glow that I had seen previously.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20134.html](http://www.nuforc.org/webreports/reports/020/S20134.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1987, an anonymous witness in Iola (KS) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>light over cattle pastureObject cited was over a cattle pasture north of Iola Kansas at about 10: 30Pm We were traveling southbound on Kentucky Avenue We spotted a light coming from the sky on the west side of the road The object that the light was coming from was approximately 70 to 80 feet off the ground It was stationary shining in one place on a group of cattle we stopped and observed the light for approximately 30 to 45 seconds the light then begin to move up and northward away from the cattle we put the car in reverse to give chase we were able to observe the light as it gained altitude and speed we had our windows down there was no sound whatsoever with the car in reverse we were able to follow the light for approximately 1/8 mile the object then streaked from our site at a high speed</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114306.html](http://www.nuforc.org/webreports/reports/114/S114306.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165239.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165215.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165237.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165740.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165798.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
