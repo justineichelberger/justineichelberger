@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:40 on 10 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:01:38 on 10 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Eastpointe (MI) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Two golden/orange globe like objects moving very fast across the skyAs I was closing my garage door, I noticed how crisp and clear the night was tonight.  I love to look at the night sky so I decided to take a good look at the Orion constellation.  It was then I saw two orange/golden objects appear out of the mid-horizon and move from the east to the western horizon.  At first I thought it was a meteor because it was moving kind of fast.  But these two objects were moving in perfect unison and they sounded like that metallic owl from that Clash of the Titans movie.  Well, it moved over my head very fast, faster than a plane or a helicopter but maybe less than half the speed of a meteor in the sky, and once it got to about 2 to 3 o'clock in the western horizon, the globes disappeared but made a final birdlike sound about a 1/2 second after it disappeared.  Down by far the strangest thing I've ever seen in my life.  I've seen meteors, satellites, planes, helicopters, kites, balloons.... you name it.  But nothing like the perfectly moving fast anomaly in the sky.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47629.html](http://www.nuforc.org/webreports/reports/047/S47629.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Sebastian (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I saw a quarter-sized, reddish-orange ball moving upward in the sky.I was sitting in my chair, on the dock,  watching my fishing pole, which was casted in the river, when I glanced up to look at the sky. It is a pretty night tonight. I saw something glowing red-orange, approximately the size of a quarter in the sky right above a tree moving in a vertical upright motion. I ran in the house to tell my friends, and when they came out with me the remnants were a glowy orange sky in the direction of the quarter-sized glow that I had seen previously.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20134.html](http://www.nuforc.org/webreports/reports/020/S20134.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165239.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165215.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165237.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165740.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165798.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
