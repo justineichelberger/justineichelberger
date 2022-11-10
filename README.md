@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:51 on 10 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:32 on 10 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Murfreesboro (TN) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>When I was on my way to church I suddenly saw a green flash.On Monday evening November 10th 2008 at about 6:55 pm (which is dark at this time of year) I was driving on my way to church down a narrow curvy road with a bunch of trees on both sides when I suddenly saw a bright green flash in the sky above and in front of me. The green flash had a small green object falling from the sky with green rings trailing behind it. The sighting lasted from 1 to 2 seconds and it quickly disappeared with tiny white sparks shooting out just as it vanished. All of this took place without me hearing a sound, probably mostly because I had music on in my car and I didn’t have enough time to even think of turning it down to listen, if I could hear anything. I got into a panic as I screamed “Oh my God!” and I started hyperventilating until I started to calm myself down.I’ve never seen or heard of anything like this before.  It wasn’t so much of an Unidentified Flying Object as it was an Unidentified Falling Object.  I was not able to determine the distance or speed because it appeared almost as fast as it disappeared.  I was driving down the road in a northward direction when the object fell almost straight down. I expected the object to hit me any second which was part of the reason why I panicked, the other reason was that it happened so unexpectedly that I was startled by it and quite a bit frightened. I was thankfully not hit by the object which makes me wonder if it just disintegrated or hit somewhere else.Unfortunately I did not have my camcorder with me when this happened, which makes me so mad because I’ve been trying to be prepared for anything like this to happen.  Even if I did have my camcorder with me I would not have the time to pull my car over and get my camcorder out and turn it on before it disappeared.  So I drew a picture of it on my computer as best I could to give a pretty good idea of what it looked like.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66835.html](http://www.nuforc.org/webreports/reports/066/S66835.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Glendale (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>three lights in a line a cross the sky.I saw three light in a line cross sky from north east to north west.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131168.html](http://www.nuforc.org/webreports/reports/131/S131168.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165239.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165215.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165237.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165740.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165798.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
