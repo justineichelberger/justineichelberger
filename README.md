@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:42 on 10 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:14:57 on 10 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Vancleave (MS) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Line of lights follow my car at nightI was driving home from night school by myself. I was driving along the wastewater treatment plant.There is a large field to the left where they grow hay. On the right it is proctected land for deer. It was dark and it was cold. I looked in my rearview mirror and there were three lights in a row(up and down) right behind my car.  I looked in the side mirror on the driver's side and couldn't see it behind me. I looked again in my rearview mirror and it was right on my bumper. I looked at the clock on the radio and it was fine and the radio was still playing.  I looked in the rearview mirror again and the lights were swaying back and forth still in a line.  The movement was super smooth, like a pendilum on a clock. Then I saw a car coming towards me and the lights shot to the left of my car and went out over the hay field and disappeared.  It never made any noise.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78317.html](http://www.nuforc.org/webreports/reports/078/S78317.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Crosby (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Pulsing light looks like a flashing stay but moved away from earth Into distance.About 0430 I needed to use the restroom and notices it was very dark in the house.  I thought their must be no moon tonight.  I opened my curtain to take a look around and saw a flash about as bright as a medium star.  I thought it was an airplane.  I kept watching as as it continues to flash about once every 5 seconds or so, I decided to go downstairs and look from outside and noticed that this flash did not move.  I used to work in the navy and I know what aircraft look like at night and I knew it was not an aircraft.  I thought it might be something else but I have no idea what.  I tried to record on my iPhone but it does not show anything.  Perhaps it could be professionally edited to show this pulsing or flashing light.  After a minute of watching from outside it seemed to become more faint and moved away from me into space.  I can't recall how bright it was initially from my bedroom window, I guess because I had just woke up.  After the thing was gone a quick streak went across the sky like a shooting star.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94299.html](http://www.nuforc.org/webreports/reports/094/S94299.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165239.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165215.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165237.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165740.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165798.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
