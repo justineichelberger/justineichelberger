@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:48 on 10 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:40 on 10 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>3 Red/Orange Circles blacking out in the night.On the evening of November 10, at 7:40 pm, I was taking my dog outside to the bathroom.  I saw 2 red/orange circles in the sky moving SSE slowly at the same speed.  It was located to the west of my position.  I told my wife to come out and witness the movement.  There were no sounds that we could hear of.  The lead circle would pulsate slightly and then die off.  Because it was dark, we weren’t sure if it blacked out or was masked by clouds.   About 10 seconds after, the second blacked out.  My wife went back into the house and I continued to walk the dog around the neighborhood.  Approximately 3 minutes later, I saw a third red/orange circle trailing the same route as the first two.  After about 1 to 2 minutes, the third blacked out as well.  I saw regular aircraft in the vicinity of these circles.  It was obvious that these red circles did not fit the profile of a normal aircraft.  Additionally, the movement was unnatural to a regular aircraft. It would shif! t mid-air.  When I got back into the house, my wife researched this to see if anyone else saw this pattern.  On the UFO Reporting Center, the description matched similar reports.I’m a former Marine Corps Officer with a MBA and my wife has a masters as well.  We have never witnessed anything like this before.  My first assumption was that these might be police unmanned aerial vehicles.  Although I have no reference, it looked extremely high in altitude.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94318.html](http://www.nuforc.org/webreports/reports/094/S94318.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Eastpointe (MI) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Two golden/orange globe like objects moving very fast across the skyAs I was closing my garage door, I noticed how crisp and clear the night was tonight.  I love to look at the night sky so I decided to take a good look at the Orion constellation.  It was then I saw two orange/golden objects appear out of the mid-horizon and move from the east to the western horizon.  At first I thought it was a meteor because it was moving kind of fast.  But these two objects were moving in perfect unison and they sounded like that metallic owl from that Clash of the Titans movie.  Well, it moved over my head very fast, faster than a plane or a helicopter but maybe less than half the speed of a meteor in the sky, and once it got to about 2 to 3 o'clock in the western horizon, the globes disappeared but made a final birdlike sound about a 1/2 second after it disappeared.  Down by far the strangest thing I've ever seen in my life.  I've seen meteors, satellites, planes, helicopters, kites, balloons.... you name it.  But nothing like the perfectly moving fast anomaly in the sky.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47629.html](http://www.nuforc.org/webreports/reports/047/S47629.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165239.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165215.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165237.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165740.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165798.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
