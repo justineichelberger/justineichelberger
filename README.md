@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:28:15 on 11 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:10:17 on 11 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Pittsburgh (PA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10:00 - 10:00 minutes.</sub><blockquote><sub>Two stars moving closer emitting a sparkling, shimmering object.while lying under the stars holding my neighbor's toy poodle next to a campfire, alone as he ran to the local store…I observed 2 lights growing brighter and what appeared to be closer coming from the west toward me.  They were parallel to each other, left and right, and completely level with one another.  As they appeared to grow closer, the left-to-right space between them increased  but they always remained level to one another.  once they became about 5-6 thumbs apart at arm's length, a sparkling light departed from them.  it looked like a firework with multi-colored sparkling lights in constant and consistent intensity and activity. red, blue, green, white.  sparkling and lively. it traveled off to the south with a steady and constant speed/trajectory.afterwards,  the two lights (star-like. if only gazing up quickly one would never realize their position was changing) seemed to back up, becoming more distant.  i said to them "what is your intention" over and over again.  i never saw the shimmering light again.  the two "stars" never deviated from their relate position to one another.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115203.html](http://www.nuforc.org/webreports/reports/115/S115203.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Lumberport (WV) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I saw a sphere of very bright and slightly pulsating light.I was driving home from work and I saw a sphere of white light in the sky near my home. The sphere looked electrical, very bright and slightly pulsating. I couldn’t really see an outline of the sphere because it was so bright. When I first noticed the light, it was in the sky above my house and seemed to be moving straight up. I was driving and there was a vehicle behind me so I couldn’t stop, I watched it for approximately 20 or 30 seconds, the road goes around a curve, so I lost sight of it for a couple of seconds. I turned off the main road onto the smaller road that leads to my house at that point I stopped and looked for it, but it was gone. I know that the ridge line behind my house is 1500 ft and I would say that the sphere was at about 1800 ft when I first saw it but then it quickly gained altitude. I would estimate that it was about 20 to 30 feet in diameter. It was extremely bright almost like a small star; however, I could easily look at it. I am ! an aircraft mechanic, and this wasn’t any type of aircraft that I am familiar with. There weren’t any blinking nav lights or beacons. I couldn’t really tell if it was making any noise because I was driving but I didn't hear anything. I don’t know what it was but it was definitely not like anything I had ever seen before, honestly it looked like something right out of a science fiction movie.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150820.html](http://www.nuforc.org/webreports/reports/150/S150820.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [442](http://www.nuforc.org/webreports/reports/165/S165230.html)
-- [441](http://www.nuforc.org/webreports/reports/165/S165228.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165632.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165538.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
