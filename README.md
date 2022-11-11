@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:44 on 11 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:44 on 11 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Whittier (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>At Around 14:20 pm I was having a conversation with a co-worker and as he walked away to speak to the supervisor, I looked at the sky because I felt as if something was watching me and pulled my  phone out to record what appeared to be a UFO right above me and for about 5 minutes I managed to record some videos of the incident.  When I got home to review my footage I noticed that there were 2 but off and on the second one would faze in and out.The object looked white in the middle and was casting a shadow around itself when pausing the video, zooming and taking screen shots.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165217.html](http://www.nuforc.org/webreports/reports/165/S165217.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Franklin (LA) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Object with about 6 green circular lights with a centered red light above.Walked out of the house.  Looked in the sky and saw one huge object with about 6 green circular lights and a centered red light above the green lights.  The green lights were so pretty.  The object was traveling northeast.  I saw the object from the back. In about seconds the object seem like it was 10 miles away.  I saw it make a sharp left turn at a slow pace then gradually speed up and instantly came to a stop.  The object did not tilt while turning.  Then made a super fast right turn at an alarming speed not seen before and fell down.  It popped back up, took off, then disappeared before my eyes</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115333.html](http://www.nuforc.org/webreports/reports/115/S115333.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [442](http://www.nuforc.org/webreports/reports/165/S165230.html)
-- [441](http://www.nuforc.org/webreports/reports/165/S165228.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165632.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165538.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
