@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:46 on 11 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:48 on 11 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Philipsburg (St. Maarten) (Dutch Antilles) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>2 circular objects flying formation after brief positioning next to each  dark blackout night no lights 1 witness caribbeanIt was a dark night on this Caribbean Island. The electricity had just gone out, total black out on the Island. I was lying with my girl friend outside on the hood of a car looking up at the twinkling starts when direcly overhead a bronze colored disc appeared clearly seen against the black sky. I watched it for a fews secs and then pointed up a said to her:  do you see that, she exclaimed in an excited voice - it is a space ship. The moment she spoke another similar object appeared, it has been flying direcly above or under the other, it shifted side-ways and then after oscilating a few times back and forth towards the other craft it was like it locked its trajectory next to the other one and both then flew on together till I could no follow them by eye anymore because of the blocking of the view by garden trees. I could not estimate their height or diameter. I do not consume alcohol, I do no use drugs I consider myself a regular person. This is not the only time I had a sighting but is is the only one together with a witness. Other sightings I will not list. Position of St. Maarten: 18.05 North, 63.4 West, direction of flight due west at constant speed. No lights visible on objects. No sounds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35567.html](http://www.nuforc.org/webreports/reports/035/S35567.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Mechanicsville (VA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Large cigar/cylindrical illuminated objectSaw a very large illuminated cylindrical/cigar shaped object moving quickly.  About 10 times larger than a commercial airplane.  Object also had approximately 6 brighter lights along body of object.  One on each end and four along the length of the object.  No sound heard and no trails observed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150576.html](http://www.nuforc.org/webreports/reports/150/S150576.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [442](http://www.nuforc.org/webreports/reports/165/S165230.html)
-- [441](http://www.nuforc.org/webreports/reports/165/S165228.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165632.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165538.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
