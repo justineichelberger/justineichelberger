@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:47 on 10 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:52 on 11 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Atlanta (GA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I didn't see this, but its been reported on the news and you guys might want to check it out. The weather team at WSB TV (www.wsbtv.com) included it in their evening broadcast last night. Hundreds of people (including the people at WSB) saw a line of lights in the sky over Atlanta Thursday evening) on 11/10/05.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  We would like to have more information about the event, given the other reports from across the U. S. for this time and date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47641.html](http://www.nuforc.org/webreports/reports/047/S47641.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in North Bend (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Bright white-bluish light moving in southwest direction turning into 4This was seen very clearly and was coming from the north, heading in a southwestern direction.What I saw was a very bright light moving, like if it was landing lights on an airliner, it was moving slow but bright, as I started to really look at it, it then started to move faster and started to change from 1 to 2 then 3 and finally 4 bright orbs or light's.  These light's then changed direction from the first and what I would describe as the first or main light, they moved in a downward and away to the right (my right, the left of the main orb) but then they started to move in an upward direction.  Unfortunately from my angle they flew behind a peak of a mountain range that is just north of my location.  I never saw them come out the other side.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137227.html](http://www.nuforc.org/webreports/reports/137/S137227.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165239.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165215.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165237.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165740.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165798.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
