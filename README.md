@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:44 on 11 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:38 on 11 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Owatonna (MN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>A meteor entered the atmosphere and exploded.  Very bright flash, with a small remaining fire ball falling.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131171.html](http://www.nuforc.org/webreports/reports/131/S131171.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Charlottesville (VA) reported seeing craft that fit the description of some 'Other' over a period of approximately 13.0 - 13.0 minutes.</sub><blockquote><sub>bright yellow crescent shaped object with red lights spotted over field just above tree line.  Seen by 4 adultsMy husband and I saw a very bright yellow crescent moon shaped object over our field about 100 yards from our house.  I saw it as one crescent shape.  His binoculars were better than mine.  He saw it  with an appendage at the end.  We both noticed it had red lights.  It seemed to be stationary for about 13 minutes.  I called our neighbors.  They walked out to the field.  As soon as they stepped out of the tree line this object took off.  My husband and I did not see it take off as we had stepped back into the house for a moment.  Their description  was it took off very fast towards the east faster then an aircraft and seemed to skim over the trees.  At this point it had no shape because it was going too fast.   We have sent an image via email.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143753.html](http://www.nuforc.org/webreports/reports/143/S143753.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [442](http://www.nuforc.org/webreports/reports/165/S165230.html)
-- [441](http://www.nuforc.org/webreports/reports/165/S165228.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165632.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165538.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
