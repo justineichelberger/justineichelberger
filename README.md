@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:48 on 11 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:44 on 11 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in UK/England () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>the 2 brightest objects I have ever seendriving home from work I observed 2 white orbs that were the brightest lights I have ever seen in my life.I estimate the speed at about the same as a fast military jet.The objects were about 5 miles to my left at about an altitude of 1 mile travelling from west to east.I only had them in vision for about 10 seconds before they disappeared from view behind some trees.The lead object also changed colour from white to gold just before it went behind the trees.I have no explanation for what I saw.I would also like to add I have always been interested in aviation and my sighting did not show any characteristics of planes/helicopters apart from being airborne.I would also like to add that up to this event I did not believe in ufos.I do now!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40652.html](http://www.nuforc.org/webreports/reports/040/S40652.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Owatonna (MN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>A meteor entered the atmosphere and exploded.  Very bright flash, with a small remaining fire ball falling.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131171.html](http://www.nuforc.org/webreports/reports/131/S131171.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [442](http://www.nuforc.org/webreports/reports/165/S165230.html)
-- [441](http://www.nuforc.org/webreports/reports/165/S165228.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165632.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165538.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
