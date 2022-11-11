@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:52 on 11 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:27 on 11 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in North Bend (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Bright white-bluish light moving in southwest direction turning into 4This was seen very clearly and was coming from the north, heading in a southwestern direction.What I saw was a very bright light moving, like if it was landing lights on an airliner, it was moving slow but bright, as I started to really look at it, it then started to move faster and started to change from 1 to 2 then 3 and finally 4 bright orbs or light's.  These light's then changed direction from the first and what I would describe as the first or main light, they moved in a downward and away to the right (my right, the left of the main orb) but then they started to move in an upward direction.  Unfortunately from my angle they flew behind a peak of a mountain range that is just north of my location.  I never saw them come out the other side.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137227.html](http://www.nuforc.org/webreports/reports/137/S137227.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Wade (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately multiple hours and still  - multiple hours and still  minutes.</sub><blockquote><sub>Since I made my first report on the 7th I have witnessed the same thing 4 different nights and it is happening right now as I type this report. 2 nights ago it was 2, last night it was 3 and tonight I have counted 6 crafts all spaced apart.  They're all small lights that seem to be blinking/flickering different colors but still very bright and visible.  They're all moving very quickly and the same way, moving in circles, stopping and taking off swiftly in a completely different direction.  They seem to stay in the same general area just bounce and fly around that area in many directions, going to the right, stopping, going up, stopping and taking off to the left then swiftly downward and stopping, almost like a bug would around a light.  They seem to be up pretty high so I can't exactly make them out but if there's an investigator looking for a hot spot then I'd say this is it.  They come every night so far and at opposite times but lately they have come in groups</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115303.html](http://www.nuforc.org/webreports/reports/115/S115303.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [442](http://www.nuforc.org/webreports/reports/165/S165230.html)
-- [441](http://www.nuforc.org/webreports/reports/165/S165228.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165632.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165538.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
