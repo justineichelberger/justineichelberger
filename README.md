@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:46 on 11 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:50 on 11 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Columbus (OH) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>huge cylindrical lights, thousands of feet long, blink off and then clusters of much smaller light blue and light orange-pink ship lights seen.  smaller ships form into octagon shape.  MIB appear to discount sighting by 10 people.walked out of home with companion.  companion says to look at strange lights in sky.  appear to be 2 huge almost parallel flourescent tubes in sky (spread arms three feet across field of vision, lights thousands of feet off of ground)of off white light color.  this set of lights blinks "off" after about 10 seconds.  companion and i ask if we both saw same thing.  then we both notice additional groups of almost parallel lights in the sky, but much much higher in the atmosphere.  these lights were light blue and light orange-pink.  got into car and drove down road heading to downtown.  at freeway overpass, stop car to observe the almost complete formation of an octagon in the southern sky.  drove to the headquarters of the local paper (columbus Dispatch)which is opposite the State Capitol Building.  ran into security office and asked for security guards to call someone, get a photographer to shoot the lights in the sky.  security guared thought we were drunk or high.  we went outside and he sent one of his guards to look at what we were reporting.  when the guard's supervisor asked him what he saw, the guard said, "there is something out here and it is over the top of the Capitol Building".  security supervisor came out to look at lights and radioed that he wanted the Columbus Police Department notified, and the airport called to ask if they had anything on radar, over downtown.  within several minutes 3 police cars arrive and then a ManIB shows up and tells all of us that this is nothing, just a reflection off of the buildings, or some trick of the weather.  there were 10 people who were seeing these very small light blue and orange-pink lights.  one of the police officers told me that he heard a police report very like this was called in in Chillicothe the night before.  my companion has seen groupings of lights like this the year after our mutual sighting</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08098.html](http://www.nuforc.org/webreports/reports/008/S08098.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Pawleys Island (SC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Was watching a plane in the sky heading south , and from the far north I noticed another plane with blinking lights coming south . It caught up to other plane and stalled for a few seconds and then went in a forward then stall pattern a few times across the ski.  During the forward movement, it only took a second to move great distance.  Always wanted to see something like this!  I now believe !  Thx((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115295.html](http://www.nuforc.org/webreports/reports/115/S115295.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [442](http://www.nuforc.org/webreports/reports/165/S165230.html)
-- [441](http://www.nuforc.org/webreports/reports/165/S165228.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165632.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165538.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
