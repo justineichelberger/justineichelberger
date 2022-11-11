@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:02:12 on 11 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:43 on 11 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Mogote (CO) reported seeing craft that fit the description of some '' over a period of approximately 0.0016666666666666668 - 0.0016666666666666668 minutes.</sub><blockquote><sub>When returing from hunting elk seen a green blob falling down leaving a green trail behind then it blew up and lit up the whole valley</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20492.html](http://www.nuforc.org/webreports/reports/020/S20492.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Alcobaça (Portugal) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Led-lights bar moving silently in the skyMy position is 39°32'57.0"N 9°00'23.2"W in Portugal; at 18:30 while unloading my car I noticed just above me, at about the same altitude the planes are in approach for Lisbon airport, some lights organized in a line – like a led-strip – moving from NNW to SSE.  It was 10 to 12 lights perfectly in line moving quietly till they disappeared above the horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150600.html](http://www.nuforc.org/webreports/reports/150/S150600.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [442](http://www.nuforc.org/webreports/reports/165/S165230.html)
-- [441](http://www.nuforc.org/webreports/reports/165/S165228.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165632.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165538.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
