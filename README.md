@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:02:55 on 11 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:40 on 11 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Columbus (MS) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.2833333333333333 - 0.2833333333333333 minutes.</sub><blockquote><sub>I was driving into town on a usual route, when I see 2 giant glowing green balls connected by one long white light flying extremely low over the nearby gas station.  It flew down toward the ground really fast.  As it went below the powerlines, it disappeared just as everyone else in the car seen the thing vanish.  We live in a military town and have seen strange lights before but nothing like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150641.html](http://www.nuforc.org/webreports/reports/150/S150641.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in North  Platte (NE) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Friend said to come out side I did quickly seen a trail of lights moving fast. I yelled for the remaining 3 to come verify and the did. Must of been at least 1000 feet long and the lights shimmered at one point where you could see the depth of the vessel. No sound and were a mile away from the airport((NUFORC Note:  Cluster of "Starlink" satellites.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150572.html](http://www.nuforc.org/webreports/reports/150/S150572.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [442](http://www.nuforc.org/webreports/reports/165/S165230.html)
-- [441](http://www.nuforc.org/webreports/reports/165/S165228.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165632.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165538.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
