@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:03:26 on 11 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:44 on 11 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Mission (KS) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Fast moving, bright white spherical object.Round, pure white light, very short tail of the same color (could have been perceived tail as it was moving so fast).  Disappeared very quickly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160570.html](http://www.nuforc.org/webreports/reports/160/S160570.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Whittier (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>At Around 14:20 pm I was having a conversation with a co-worker and as he walked away to speak to the supervisor, I looked at the sky because I felt as if something was watching me and pulled my  phone out to record what appeared to be a UFO right above me and for about 5 minutes I managed to record some videos of the incident.  When I got home to review my footage I noticed that there were 2 but off and on the second one would faze in and out.The object looked white in the middle and was casting a shadow around itself when pausing the video, zooming and taking screen shots.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165217.html](http://www.nuforc.org/webreports/reports/165/S165217.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [442](http://www.nuforc.org/webreports/reports/165/S165230.html)
-- [441](http://www.nuforc.org/webreports/reports/165/S165228.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165632.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165538.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
