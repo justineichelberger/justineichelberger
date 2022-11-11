@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:05:34 on 11 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:41 on 11 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Bright Silver Oval Object 20 seconds Clear SkyAt 1153 a.m. on 11/11/11 I was driving south on McNeil Round Rock  Road in Austin, Texas, approximately ½ mile north of the railroad tracks.  Looking out the front windshield at the 10 o’clock angle I saw an odd shaped silver object in the clear cloudless sky.  It was a bright reflective silver and I kept looking at it as it shrank and became a small dot and then disappeared.  I pulled the car over and got out and continued to scan the sky and there was nothing.I have been a nurse for 30 years and my background is science.  Last year I saw my first UFO and I questioned what I saw, I evaluated everything until I could no longer deny what I had seen.  I consider myself fortunate to have had another opportunity and glad that this time I could keep my eye on the object until it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85254.html](http://www.nuforc.org/webreports/reports/085/S85254.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Owatonna (MN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>A meteor entered the atmosphere and exploded.  Very bright flash, with a small remaining fire ball falling.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131171.html](http://www.nuforc.org/webreports/reports/131/S131171.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [442](http://www.nuforc.org/webreports/reports/165/S165230.html)
-- [441](http://www.nuforc.org/webreports/reports/165/S165228.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165632.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165538.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
