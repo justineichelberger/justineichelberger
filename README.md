@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:41 on 12 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:39 on 12 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Formation' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>trail of multiple lightsAbout 3 dozen or more lights traveling through the sky like airplanes—only they were in a line. Some were very close to one another and some were further.  If the line moved at all, every light moved at the same turning point.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150656.html](http://www.nuforc.org/webreports/reports/150/S150656.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Freeport (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Black oval craft flying over my block and in the area shining  a strong white beam near us and over some homes..  When the beam would shut off red flickering lights would cut on and off at the bottom of the craft.  It kept flying over five or six blocks and a school yard as if it we're looking for something.  It had four orange lights south north east and west on the body of the craft.  At one point it pointed a beam directly at Me twice.  It was intimidating to even look at, but we were also in awe viewing it.  It was amazing to say the least.  When I finally  got the  courage to try and record it, it left the area with out returning.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131190.html](http://www.nuforc.org/webreports/reports/131/S131190.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/165/S165221.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165222.html)
-- [367](http://www.nuforc.org/webreports/reports/165/S165235.html)
-- [366](http://www.nuforc.org/webreports/reports/161/S161116.html)
-- [365](http://www.nuforc.org/webreports/reports/160/S160612.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
