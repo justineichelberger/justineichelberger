@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:38 on 11 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:51 on 12 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Charlottesville (VA) reported seeing craft that fit the description of some 'Other' over a period of approximately 13.0 - 13.0 minutes.</sub><blockquote><sub>bright yellow crescent shaped object with red lights spotted over field just above tree line.  Seen by 4 adultsMy husband and I saw a very bright yellow crescent moon shaped object over our field about 100 yards from our house.  I saw it as one crescent shape.  His binoculars were better than mine.  He saw it  with an appendage at the end.  We both noticed it had red lights.  It seemed to be stationary for about 13 minutes.  I called our neighbors.  They walked out to the field.  As soon as they stepped out of the tree line this object took off.  My husband and I did not see it take off as we had stepped back into the house for a moment.  Their description  was it took off very fast towards the east faster then an aircraft and seemed to skim over the trees.  At this point it had no shape because it was going too fast.   We have sent an image via email.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143753.html](http://www.nuforc.org/webreports/reports/143/S143753.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Waleska (GA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Small, oval shaped, dark flying object with flashing orange lights, spinning and hoveringOn Thursday, November 12, 2015, at approximately 1700 hours, my children and I were outside our house playing.  I noticed one of my son's point out to his twin  brother something in the sky just northwest of our location.  I also heard him ask, "Do you see that?".  I did not have the chance to look in the sky.  A few minutes later my son asked me, "Mom, has man invented a flying craft that can just hover in one spot and stay there for a little while, than just leave?".  He and his brother explained to me that they saw what appeared to be an oval shaped, dark 'thing' in the sky, just hover, than slowly fly further northwest.  They said it did not fly fast, but rather the speed an airplane in the sky appears to fly, at lower altitudes.  It was not too close to the tree tops, but much further up.  They described it as small, dark, oval shaped, with two orange flashing lights on its side, hovering and spinning.  They said they knew it was was! spinning  because they could see the sun's reflection light up different parts of the object, like windows would on a spinning object.  There was no obvious sound coming from it. I immediately thought a drone, but I honestly did not spend too much time online to make this determination.  We live in a rural area where the general population would not really have drones, and honestly, I don't think I've ever seen a drone around here, thank goodness.  So, I'm stumped. My twin boys are 9 years old. It was a clear, autumn, late afternoon.  Sunny, but the sun was not in an area to obscure their vision.  They do not wear glasses or have any vision problems.  They have never 'played' a joke like this in the past, so I believe they saw something. What, I don't know.  My other children were outside also, but did not see anything.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124032.html](http://www.nuforc.org/webreports/reports/124/S124032.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [442](http://www.nuforc.org/webreports/reports/165/S165230.html)
-- [441](http://www.nuforc.org/webreports/reports/165/S165228.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165632.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165538.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
