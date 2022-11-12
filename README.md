@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:08:09 on 12 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:41 on 12 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Savannah (GA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Seven white round objects in the sky.We all work for a pest control company.  We had just checked out a termite infestation at a commercial building that our company had under warranty.  After that we were standing out in the parking lot talking when I happened to look up into the sky.  I was looking toward Hunter Army Air Force Base.  In the sky I saw a round bright white object.  At first I thought it was a helium filled balloon from the car dealerships on Abercorn road not far from where we were.  As I continued to watch another object appeared, then another, then another.  I said to my coworkers "What is that?"  They looked up and saw the objects also.  There were four objects that were roughly in the same line.  As we looked one of my coworkers said "Look to the right of them there are some more".  I looked to the right and saw three more in the shape of a triangle.  As we all looked they suddenly all changed into a V formation.  Then, as quickly, they changed back into four in one line and three into the triangle formation.  Most of the objects were very bright but a couple were somewhat dim but visible.  I don't think these were helium balloons as they were staying pretty much in the same position in the sky.  A lady came out of one of the businesses close to us and asked what we were looking at.  One of my coworkers jokingly said "UFOS".  She looked up and said "Oh yeah, I see them."  We watched them for sevearl minutes more and then I had to leave as I had an appointment with one of our customers.  So we all left, not knowing what we had seen.  By the way the sky was perfectly blue and clear that day.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60123.html](http://www.nuforc.org/webreports/reports/060/S60123.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Formation' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>trail of multiple lightsAbout 3 dozen or more lights traveling through the sky like airplanes—only they were in a line. Some were very close to one another and some were further.  If the line moved at all, every light moved at the same turning point.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150656.html](http://www.nuforc.org/webreports/reports/150/S150656.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/165/S165221.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165222.html)
-- [367](http://www.nuforc.org/webreports/reports/165/S165235.html)
-- [366](http://www.nuforc.org/webreports/reports/161/S161116.html)
-- [365](http://www.nuforc.org/webreports/reports/160/S160612.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
