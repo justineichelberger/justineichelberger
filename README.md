@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:49 on 12 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:40 on 12 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Milford (NE) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Pale Blue Light in Night Sky Over Seward, NebraskaIt was approximately 1800 hours when I was traveling westbound on I-80. To the south I noted a light coming towards me heading north to cross the highway.  It caught my eye because the leading light on this craft was a pale-blue, or almost aqua in color and did not flash.As I watched it start to pass over me I noticed only a rear light, which I can only describe as a dull dirty white glow.  It was difficult to make out the shape of the object because of the time of day, it was twilight, and the sun had gone down below the horizon.I thought that it might be a helicopter and I expected to see that shape, but that is not the impression I got of it from its silhouette.  The object was not moving fast and seemed very low, if I had to guess, I would say that it was maybe 500 feet above the ground and travelling at approximately 100 mph.In closing, I spotted this object coming from the South, heading North and it seemed to be passing slightly west of Milford, Nebraska.  There were no flashing lights, as one would expect to see from an FAA aircraft.  If you have any answers as to what this may have been, I would truly appreciate it.  I have never seen anything that would make me report it, but this object was extraordinary to me.Thank You Sincerely</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85277.html](http://www.nuforc.org/webreports/reports/085/S85277.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Lyons (CO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Color was yellow,red and it did not move in any direction,it just disappeared.In the photos you can see the moon,at the top of the photo.It is a little blurry in the scan picture,The Larger photos are from the telescope.I had my camera checked,even though I was using two different cameras.The camera had no problems, I had these pictures taken to a camera shop,and looked at.The photo paper was good.He did not know what it was,I even had a astronomer look at them he said it was ball lighting.So I went out last summer in a lighting storm and set my camera on time laps and all the photo had light streaks in them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48103.html](http://www.nuforc.org/webreports/reports/048/S48103.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/165/S165221.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165222.html)
-- [367](http://www.nuforc.org/webreports/reports/165/S165235.html)
-- [366](http://www.nuforc.org/webreports/reports/161/S161116.html)
-- [365](http://www.nuforc.org/webreports/reports/160/S160612.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
