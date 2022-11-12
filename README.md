@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:39 on 12 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:37 on 12 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Kahuku (HI) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Multiple satellites connected with a solid streamerJust outside of Turtle Bays outside restaurant. 7pm on the dot. I walked my son to the park benches near the water to watch the waves and I noticed 4 other people watching what appeared to be 20-30 white light satellites all in a perfect linear line orbiting the earth at a very high rate of speed. The lights did not flash in or out, brighten or dim. They stayed the same level of brightness throughout their orbit until the light was blocked from the Earth and they disappeared. The lights appeared to be connected with streamers from the first all the way to the rear. The streamers were the same diameter, level of brightness, and general distance from satellite to satellite as if they were in synchronization. The streamers also did not dim or get brighter with flairs of light. Everything was very consistent from one horizon to the other. It is important to state the altitude was also similar to one of a satellite, these were not close to standard aviation level! s. Good luck and look up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150672.html](http://www.nuforc.org/webreports/reports/150/S150672.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Harrisburg (PA) reported seeing craft that fit the description of some '' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>strange lights lower paxton township, harrisburg paAround 6pm, I observed two very bright "stars," which I assumed were planets because they were so bright in the sky in front of my house.  The sun was just setting and no other stars were visible.The "stars" were next to each other, very close together and I thought it was very odd for two planets to be in such perfect alignment and so close together.       They were not moving for several minutes, but thenbegan to move away from each other so slowly it was almost imperceptible.  One went northwest and one went southeast. They were moving far more slowly than any plane I've ever seen.  After a minute or two they just blinked off, as though someone flupped a light switch and nothing could be seen.  Less than an hour later I saw another bright, unmoving light in the sky, behind my house this time. It looked identical to the first but lower in the sky.  It was still for about two minutes then it dimmed.  It was still visible but smaller and not ! as bright, like a regular star instead of a planet.  It then begam to move, faster than the first two but still slower than a plane.  Then it turmed red and started to blink, still moving.  I watched it for a minute then it just turned off just like the first two.  I dont know what background info about me you would like, but I am a 35 year old white female, with a BSN in nursing.  I was not under the influence of any drugs or alcohol.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115314.html](http://www.nuforc.org/webreports/reports/115/S115314.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/165/S165221.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165222.html)
-- [367](http://www.nuforc.org/webreports/reports/165/S165235.html)
-- [366](http://www.nuforc.org/webreports/reports/161/S161116.html)
-- [365](http://www.nuforc.org/webreports/reports/160/S160612.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
