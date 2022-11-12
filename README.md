@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:36:29 on 12 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:26:52 on 12 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Franklin (TN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>It looked like an orange moon setting above the tree line & it slowly descended down into the trees.  I've been seeing this same thing off in a distance for a few nights but this was right in front of me.  I've also seen strange objects in the past 6 months that I've never seen before.  My dog has been sensing strange energy fields.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104371.html](http://www.nuforc.org/webreports/reports/104/S104371.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately picture from Brighton Bea - picture from Brighton Bea minutes.</sub><blockquote><sub>it was cloudy and i didn't see this triangle, but when i look on my pictures i saw this; i am not sure that this is UFO because on ather pictures there are no triangles, maybe it gone?((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53955.html](http://www.nuforc.org/webreports/reports/053/S53955.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/165/S165221.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165222.html)
-- [367](http://www.nuforc.org/webreports/reports/165/S165235.html)
-- [366](http://www.nuforc.org/webreports/reports/161/S161116.html)
-- [365](http://www.nuforc.org/webreports/reports/160/S160612.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
