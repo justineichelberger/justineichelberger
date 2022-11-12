@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:02:07 on 12 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:49 on 12 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Warrenton (MO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>bright green fireball with a stardust trailWhile patrolling the county myself and several other law enforcement officers witnessed an unexplainable large green light.  Possibly a meteor however it lit up the ground as bright as daylight.  It had a distinct green fireball and very long green dust trail behind it.  My cell phone lost service for a few seconds and when the service came back on I contacted the other deputies and city officers that were on duty and they advised me that they had seen it as well. While discussing the incident with another deputy his patrol vehicle unexplainably shut off.  Dispatch looked over the NASA website for information and found nothing.  Another off duty officer in the next county over advised he saw the flash as well at the same time- he was on the phone with another officer in our county that witnessed the event as well.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Possible meteor??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73263.html](http://www.nuforc.org/webreports/reports/073/S73263.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Milford (NE) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Pale Blue Light in Night Sky Over Seward, NebraskaIt was approximately 1800 hours when I was traveling westbound on I-80. To the south I noted a light coming towards me heading north to cross the highway.  It caught my eye because the leading light on this craft was a pale-blue, or almost aqua in color and did not flash.As I watched it start to pass over me I noticed only a rear light, which I can only describe as a dull dirty white glow.  It was difficult to make out the shape of the object because of the time of day, it was twilight, and the sun had gone down below the horizon.I thought that it might be a helicopter and I expected to see that shape, but that is not the impression I got of it from its silhouette.  The object was not moving fast and seemed very low, if I had to guess, I would say that it was maybe 500 feet above the ground and travelling at approximately 100 mph.In closing, I spotted this object coming from the South, heading North and it seemed to be passing slightly west of Milford, Nebraska.  There were no flashing lights, as one would expect to see from an FAA aircraft.  If you have any answers as to what this may have been, I would truly appreciate it.  I have never seen anything that would make me report it, but this object was extraordinary to me.Thank You Sincerely</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85277.html](http://www.nuforc.org/webreports/reports/085/S85277.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/165/S165221.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165222.html)
-- [367](http://www.nuforc.org/webreports/reports/165/S165235.html)
-- [366](http://www.nuforc.org/webreports/reports/161/S161116.html)
-- [365](http://www.nuforc.org/webreports/reports/160/S160612.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
