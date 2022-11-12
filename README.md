@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:29 on 12 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:36:29 on 12 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Placentia (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Light slowly moves across skyLight was visible above my home. Looked like a star at first, but it was moving slowly across the sky. Not fast enough for a comet or asteroid, and too high for a plane or helicopter. Went approx. 50 feet across the sky (relative to me) then faded away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150654.html](http://www.nuforc.org/webreports/reports/150/S150654.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Franklin (TN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>It looked like an orange moon setting above the tree line & it slowly descended down into the trees.  I've been seeing this same thing off in a distance for a few nights but this was right in front of me.  I've also seen strange objects in the past 6 months that I've never seen before.  My dog has been sensing strange energy fields.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104371.html](http://www.nuforc.org/webreports/reports/104/S104371.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/165/S165221.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165222.html)
-- [367](http://www.nuforc.org/webreports/reports/165/S165235.html)
-- [366](http://www.nuforc.org/webreports/reports/161/S161116.html)
-- [365](http://www.nuforc.org/webreports/reports/160/S160612.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
