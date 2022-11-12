@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:39 on 12 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:02:32 on 12 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Galesville (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Me and my mom were driving and I at first saw a light blinking in the side of my eye and I looked at it, it was flying like really fast, at first I thought it was a helicopter but it was so low and going very fast, it was about 300 feet off of the ground.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137233.html](http://www.nuforc.org/webreports/reports/137/S137233.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Lynchburg (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Extremely bright light stationary then slowly moving easterly over skyline of blue ridge mountains.Extremely bright white light stationary over the Blue Ridge Mountains to the North of my position.  Object EXTREMELY bright as if Magnesium burning.  Began slow movement Easterly along the mountain skyline.  Lost sight due to building blocking further view. Intensity of light fluctuated consistant with magnesium burning. No pulsations observed with periodic intervals. Intensity so great that it illuminated the skyline of the mountains within a couple degree arc.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14904.html](http://www.nuforc.org/webreports/reports/014/S14904.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/165/S165221.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165222.html)
-- [367](http://www.nuforc.org/webreports/reports/165/S165235.html)
-- [366](http://www.nuforc.org/webreports/reports/161/S161116.html)
-- [365](http://www.nuforc.org/webreports/reports/160/S160612.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
