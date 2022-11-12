@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:51 on 12 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:29 on 12 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Waleska (GA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Small, oval shaped, dark flying object with flashing orange lights, spinning and hoveringOn Thursday, November 12, 2015, at approximately 1700 hours, my children and I were outside our house playing.  I noticed one of my son's point out to his twin  brother something in the sky just northwest of our location.  I also heard him ask, "Do you see that?".  I did not have the chance to look in the sky.  A few minutes later my son asked me, "Mom, has man invented a flying craft that can just hover in one spot and stay there for a little while, than just leave?".  He and his brother explained to me that they saw what appeared to be an oval shaped, dark 'thing' in the sky, just hover, than slowly fly further northwest.  They said it did not fly fast, but rather the speed an airplane in the sky appears to fly, at lower altitudes.  It was not too close to the tree tops, but much further up.  They described it as small, dark, oval shaped, with two orange flashing lights on its side, hovering and spinning.  They said they knew it was was! spinning  because they could see the sun's reflection light up different parts of the object, like windows would on a spinning object.  There was no obvious sound coming from it. I immediately thought a drone, but I honestly did not spend too much time online to make this determination.  We live in a rural area where the general population would not really have drones, and honestly, I don't think I've ever seen a drone around here, thank goodness.  So, I'm stumped. My twin boys are 9 years old. It was a clear, autumn, late afternoon.  Sunny, but the sun was not in an area to obscure their vision.  They do not wear glasses or have any vision problems.  They have never 'played' a joke like this in the past, so I believe they saw something. What, I don't know.  My other children were outside also, but did not see anything.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124032.html](http://www.nuforc.org/webreports/reports/124/S124032.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Placentia (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Light slowly moves across skyLight was visible above my home. Looked like a star at first, but it was moving slowly across the sky. Not fast enough for a comet or asteroid, and too high for a plane or helicopter. Went approx. 50 feet across the sky (relative to me) then faded away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150654.html](http://www.nuforc.org/webreports/reports/150/S150654.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/165/S165221.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165222.html)
-- [367](http://www.nuforc.org/webreports/reports/165/S165235.html)
-- [366](http://www.nuforc.org/webreports/reports/161/S161116.html)
-- [365](http://www.nuforc.org/webreports/reports/160/S160612.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
