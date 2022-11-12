@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:37 on 12 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:44 on 12 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Harrisburg (PA) reported seeing craft that fit the description of some '' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>strange lights lower paxton township, harrisburg paAround 6pm, I observed two very bright "stars," which I assumed were planets because they were so bright in the sky in front of my house.  The sun was just setting and no other stars were visible.The "stars" were next to each other, very close together and I thought it was very odd for two planets to be in such perfect alignment and so close together.       They were not moving for several minutes, but thenbegan to move away from each other so slowly it was almost imperceptible.  One went northwest and one went southeast. They were moving far more slowly than any plane I've ever seen.  After a minute or two they just blinked off, as though someone flupped a light switch and nothing could be seen.  Less than an hour later I saw another bright, unmoving light in the sky, behind my house this time. It looked identical to the first but lower in the sky.  It was still for about two minutes then it dimmed.  It was still visible but smaller and not ! as bright, like a regular star instead of a planet.  It then begam to move, faster than the first two but still slower than a plane.  Then it turmed red and started to blink, still moving.  I watched it for a minute then it just turned off just like the first two.  I dont know what background info about me you would like, but I am a 35 year old white female, with a BSN in nursing.  I was not under the influence of any drugs or alcohol.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115314.html](http://www.nuforc.org/webreports/reports/115/S115314.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Alton (Hampshire) (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Strange single brightish orange object/light flying slowly in the dark night sky in a straight line before passing out of sight.I was driving in alton and had just passed the butts(an area of open public ground, )when I noticed a single bright orange object/light in the dark sky pass overhead (at an altitude of 800 feet I would guess)  It was on bonfire night(when fire-works are let off) and it was DEFINITELY NOT any type of fire-work and was not a chinese lantern what was also odd was that it was orange was definately a solid object and was flying slowly in a straight line  I could not see any other lights on the object,  I shortly afterwards said to some people in a take-away that I may have seen a Geniune UFO maybe that night I did (I am male,35 years old, live on the out-skirts of alton and 9 and a half years ago (June 22nd 2002) saw a VERY REAL  Pure white shape changing/morphing  Disc/saucer where I live with very Close up footage to boot)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85692.html](http://www.nuforc.org/webreports/reports/085/S85692.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/165/S165221.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165222.html)
-- [367](http://www.nuforc.org/webreports/reports/165/S165235.html)
-- [366](http://www.nuforc.org/webreports/reports/161/S161116.html)
-- [365](http://www.nuforc.org/webreports/reports/160/S160612.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
