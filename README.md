@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:44 on 12 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:45 on 12 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Lynnwood (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Fast red/orange light over western Washinton		I was taking out the garbage at about 19:00, I and paused to enjoy the stars. I was looking to the northeast.  I suddenly saw a small red/orange round light make a very tight and fast clockwise circle in the sky.  I lost sight of it for a moment, but then it reappeared for a moment, and then shot either straight up or toward me at an angle.  From my perspective, it was well above treetop level, higher than usual fireworks seen during celebrations. I let out a couple of yelps of, “hey hey,” to see if any of my other neighbors were out so that I could draw their attention to what I was watching so that I was not the only witness.  I received no response from my neighbors, but stayed out to see if I could spot the light again, but saw nothing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115338.html](http://www.nuforc.org/webreports/reports/115/S115338.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Palm Springs (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>A light like a rocket passed in a NW to SSW arc.A light came from the NW sky traveling SE.  It appeared to be very distant in the sky like a satellite.  It shined like a rocket with a bright, white head and red, pointed tail.  The head flickered like a twinkling star.  The tail had little flicker.  There was no trail behind it.  The moon was full and would have illuminated a trail.  The sky was clear with stars showing. The object continued to about 80 degrees above the western horizon.  The brilliance and tail began to fade as it passed the zenith.  The path became a slow arc bending to S and then SSW.  It faded to a dim white light by the time it disappeared behind trees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150685.html](http://www.nuforc.org/webreports/reports/150/S150685.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/165/S165221.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165222.html)
-- [367](http://www.nuforc.org/webreports/reports/165/S165235.html)
-- [366](http://www.nuforc.org/webreports/reports/161/S161116.html)
-- [365](http://www.nuforc.org/webreports/reports/160/S160612.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
