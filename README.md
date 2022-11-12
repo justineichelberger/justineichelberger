@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:40 on 12 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:38 on 12 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Lyons (CO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Color was yellow,red and it did not move in any direction,it just disappeared.In the photos you can see the moon,at the top of the photo.It is a little blurry in the scan picture,The Larger photos are from the telescope.I had my camera checked,even though I was using two different cameras.The camera had no problems, I had these pictures taken to a camera shop,and looked at.The photo paper was good.He did not know what it was,I even had a astronomer look at them he said it was ball lighting.So I went out last summer in a lighting storm and set my camera on time laps and all the photo had light streaks in them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48103.html](http://www.nuforc.org/webreports/reports/048/S48103.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Cajon Pass (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>11/12/2020 @ approx. 18:25 Southbound on the Cajon Pass, CA.As I was driving down the Pass, at about the heighth of a helicopter,We saw a saucer shaped aircraft that glowed with such intensity,white in color, traveling straight down and looked like it hit a force field and disappeared, all within one full second.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160582.html](http://www.nuforc.org/webreports/reports/160/S160582.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/165/S165221.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165222.html)
-- [367](http://www.nuforc.org/webreports/reports/165/S165235.html)
-- [366](http://www.nuforc.org/webreports/reports/161/S161116.html)
-- [365](http://www.nuforc.org/webreports/reports/160/S160612.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
