@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:08:02 on 12 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:02:07 on 12 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Pass Christian (MS) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Star like, Red/Green/White, moving in skyO.K., I’m skeptical of doing this but curiosity is getting the better of me.  I have tried writing this a couple of times but it seems to start jumping so I figured this format may be best.HOW:  I am a smoker and go outside several times a night to have a cigarette and watch the sky.  I have been doing this for years and have never seen anything like this.  My wife was the first to notice this but did not want to say anything to me for fear I would think she is crazy.  Since the first sighting I have seen this on numerous occasions for the past few months.  I have seen as many as three at one time in the sky but never very close to one another.  They do not appear in the same location in the sky every time.  And at times they are in different locations in the same night.  They do tend to disappear at some point in the night but not always.DESCRIPTION: Star like objects which change colors, Red/Green/White.  There move in ways conventional aircraft are unable to.Now I’m not sure if you’re interested in this or not.  I have had several individuals witness this with me.  On the first occasion 5 people watched the object for over an hour.  I have tried to rationalize weather balloons, satellites and helicopters but none of these seem to fit.  So here I am. ((NUFORC Note:  Possibly satellites??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59780.html](http://www.nuforc.org/webreports/reports/059/S59780.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Warrenton (MO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>bright green fireball with a stardust trailWhile patrolling the county myself and several other law enforcement officers witnessed an unexplainable large green light.  Possibly a meteor however it lit up the ground as bright as daylight.  It had a distinct green fireball and very long green dust trail behind it.  My cell phone lost service for a few seconds and when the service came back on I contacted the other deputies and city officers that were on duty and they advised me that they had seen it as well. While discussing the incident with another deputy his patrol vehicle unexplainably shut off.  Dispatch looked over the NASA website for information and found nothing.  Another off duty officer in the next county over advised he saw the flash as well at the same time- he was on the phone with another officer in our county that witnessed the event as well.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Possible meteor??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73263.html](http://www.nuforc.org/webreports/reports/073/S73263.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/165/S165221.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165222.html)
-- [367](http://www.nuforc.org/webreports/reports/165/S165235.html)
-- [366](http://www.nuforc.org/webreports/reports/161/S161116.html)
-- [365](http://www.nuforc.org/webreports/reports/160/S160612.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
