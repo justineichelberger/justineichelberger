@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:34 on 12 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:38 on 12 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Casper (WY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>back oObserved a boomerang shaped object travelling roughly S to N at 2:18 a.m. looking toward the east. The object was pale, luminous and green/blue in color.Observed a boomerang shaped object travelling roughly South to North at 2:18 a.m. looking toward the east. The object was pale, luminous and green/blue in color. The color and amount of "glow" seemed to be an attempt to make the craft "inconpicuos" if that is possible! I heard no unusual sounds, none that seemed to emit from the craft. It seemed to be travelling quite high in the atmospere. I would estimate that a silver dollar held at arms length would have covered the object. It was not directly overhead, slightly lower angle. As it moved further to the north I began to see small, bright white lights on the back inside curve of the "boomerang". The object moved at a steady speed and did not change direction. I observed it from between one to two minutes until I lost sight of it in the tops of the trees that run along the nort side of our property. This ocurred on the morning of a meteor shower but I have never seen a meteor look or behave this way!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12392.html](http://www.nuforc.org/webreports/reports/012/S12392.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Lynchburg (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Lynchburg orb seen on Simons run and memorial by witnessesFaint yellow orb solid in color slowly moving west. It slowly zigzagged in large patterns across the sky.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94569.html](http://www.nuforc.org/webreports/reports/094/S94569.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/165/S165221.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165222.html)
-- [367](http://www.nuforc.org/webreports/reports/165/S165235.html)
-- [366](http://www.nuforc.org/webreports/reports/161/S161116.html)
-- [365](http://www.nuforc.org/webreports/reports/160/S160612.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
