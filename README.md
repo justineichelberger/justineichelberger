@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:44 on 12 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:40 on 13 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Littleton (CO) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>non flashing bright object moving from the SW to the NE over the Denver Skyline at 5:15 amAt 5:15 am I went out to get the paper and noticed a bright non-blinking object in the sky, moving from the southwest to the northeast over the Denver metropolitan area.  From my position it was moving from over Chatfield Dam, across Bowman and NE towards DIA.  It was moving at a uniform speed.I knew it was not a plane, since it was so bright, like a planet, with the sun shining on it.  The light was pure and non-fluctuating.  It was moving at such a speed, that I was able to run into the house, grab some binoculars and get back out to look at it.  It had moved about 20 degrees across the sky.  When I focused on it, I was looking for the typical wing light that are on a plane.  I did not see any, just the pure white object moving through the sky.  I did not have any time to get my 800 power spotting scope to look at it.There was no sound associated with the object.  Planes that usually fly this route leave an audible sound trail.I routinely look at the sky in the early morning, which is why I found this object so interesting.  I immediately checked the Internet to see if this was the space station.  I could not confirm the location of the space station on any of the web sites I searched.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104377.html](http://www.nuforc.org/webreports/reports/104/S104377.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Webster (MA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I was sitting in my computer room when I heard a very loud deep sizzling-like sound, I turned toward the window to see what looked like a fireball streaking and then suddenly popped, flashing almost blindingly bright. My wife saw bright flash and heard loud-popping explosion from toddlers nursery.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94419.html](http://www.nuforc.org/webreports/reports/094/S94419.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/165/S165221.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165222.html)
-- [367](http://www.nuforc.org/webreports/reports/165/S165235.html)
-- [366](http://www.nuforc.org/webreports/reports/161/S161116.html)
-- [365](http://www.nuforc.org/webreports/reports/160/S160612.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
