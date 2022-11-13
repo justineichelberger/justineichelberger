@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:41 on 13 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:41 on 13 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Port Orchard (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately continuing - continuing minutes.</sub><blockquote><sub>My husband went out onto our back deck at approximately 21:10 on Thursday evening and suddenly called out to myself, and my daughter to come on out and see "somthing". My grandaughter also went out, so there were 3 adults and 1 child watching this object high in the night sky. It seemed to have various lights on it-two were yellow and the third appeared to be a bluish tinted light. The cradt was definately not a helicopter, or an airplane as it made wide loops and then sudden 'jumps' straight up and then moments later straight downward. It would stop suddenly and hover and seem to spin, revealing a change in the lighting. At these points when it would stop-it almost appeared cylinderical, however it was difficult to see the actual shape as it's altitude was rather high. We could also see to the South east planes on their takeoff pattern from Seatac. The planes elevation was at least 2 - 4 thousand feet lower than the craft we were all observing. We were transfixed with the object. I then remembered your web site as I heard it on George Noory's Coast to Coast AM radio show. While my family continued to observe. I found your website and asked my husband to report it, however, I beleive he was a bit nervouse and left out a little information, that is why I called again and left a seconf message.We are interested if anyone else in the Kitsap County, Pierce County, or King County areas may have reported somthing similar.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33086.html](http://www.nuforc.org/webreports/reports/033/S33086.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Ellinwood (3 miles south of) (KS) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Balls of light disappearing and reappearing.I was setting in the passenger seat of my friends truck and looked into the rear view mirror and I noticed two or three bright orange lights hovering over some wooded land that my friend owns. I commented to him that I didn't remember ever seening those lights(me thinking that the lights were street lamp type lighting) on his land before and he looked at me like I was an idiot and he had no clue of what I was talking about. All of a sudden the balls of light vanished and reappeared in a matter of about 10 seconds. We pulled the truck over and got out to watch the lights. By this time there were five orange lights. One light would disappear for a few seconds and another would disappear and then reappear. It seemed as if the lights were on a timer or flashing a signal of some kind. We observed this for 15-20 minutes until the lights were gone. The lights always stayed in a half circle formation and all stayed in the same spot. This was not an airplane and there was no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15595.html](http://www.nuforc.org/webreports/reports/015/S15595.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [343](http://www.nuforc.org/webreports/reports/165/S165241.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165790.html)
-- [341](http://www.nuforc.org/webreports/reports/165/S165231.html)
-- [340](http://www.nuforc.org/webreports/reports/165/S165236.html)
-- [339](http://www.nuforc.org/webreports/reports/165/S165562.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
