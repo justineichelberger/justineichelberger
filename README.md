@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:42 on 13 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:38 on 13 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Kaufman (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>We were coming into Kaufman from Dallas.  And the driver pointed it out first there were 3 circular orbs appearing to be stacked one above the other at a slight angle at first we thought they were helicopters but further observation we could see they were not in fact.  We traveled down the highway for about 5 minutes watching them.  I am not for sure what they were but i do know that they were not helicopters.  I am ex military so i have seen many helicopters and that is not what that was.  After we watched them for about 5 minutes we came to our exit and right before we got ready to exit they just disappeared.  Please someone tell me what we just witnessed.((NUFORC Note:  Source of report indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143785.html](http://www.nuforc.org/webreports/reports/143/S143785.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Phoenix (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.5 - 2.5 minutes.</sub><blockquote><sub>White light over phoenix, ny made no soundI was smoking a cigarette in my backyard and was about to go back in the house when i noticed a light flying over my house(front(west) to back(south).  I yelled for my wife to get my camera but she did not hear me so i went and got it and was able to film about 20 seconds of it before it went behind the trees.  It did not make any noise and i did not see any wings or rotor blades.  It was possibly 1000 feet or more in the air. I have looked at the video frame by frame and at frame 95, there seems to be 4 or 5 dark "saucer" shape objects that appear and then "fly off".  It was flying to slow for a plane and it wasn't a star or planet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73351.html](http://www.nuforc.org/webreports/reports/073/S73351.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [343](http://www.nuforc.org/webreports/reports/165/S165241.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165790.html)
-- [341](http://www.nuforc.org/webreports/reports/165/S165231.html)
-- [340](http://www.nuforc.org/webreports/reports/165/S165236.html)
-- [339](http://www.nuforc.org/webreports/reports/165/S165562.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
