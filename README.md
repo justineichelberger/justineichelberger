@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:44 on 13 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:45 on 13 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Ranchi (India) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>it was about 1 am in the midnight.after my studies i was about to sleep.  i usually study late at night so u can remove considerations like hallucinations, or anything like that.when i looked out at the window i saw a  one orb flying from the opposite side of my house. then suddenly it stopped and broke into pieces.  then suddenly  these pieces started to rotate anomalously around each other and then again joined.i couldn't believe on my eyes what i was seeing.  then suddenly those pieces joined and it returned back on its path.it completely shaked off my skepticism.  A few nights later i saw an even bizzare dream.it was so real that i often think wether i am not suffering from sleep paralysis.in my dream i saw three people wearing black robes ,black coats,with black hoods.i couldn't see their face.it was so real because i saw that i was on my bed and these people were standing right near my feet.then i started fighting with one of them and they stopped me and said that they are here to help me.then they started telling me that it all started during the THIRD REICH.THEY TOLD ME ABOUT THE WANDERWAFFEN.HITLER HAD PLANS TO MAKE AN ATOM BOMB VERY DIFFERENT FROM THE CONVENTIONAL ONE . THEY TOLD ME THAT WHEN THIS UNIVERSE WAS CREATED THEIR WERE RADIOACTIVE ELEMENTS FAR MORE HEAVIER THAN PLUTONIUM.HITLER PLANNED TO SOMEHOW GET HANDS ON SUCH ELEMENT TO CREATE THE ULTIMATE ATOM BOMB. HE WAS TRYING TO DEVELOP A TIME MACHINE TO GO BACK IN TIME AND GET ON IT. THEY TOLD ME THAT THEIR ARE STILL SOME NAZI BASTARDS TRYING TO FULLFILL HITLERS DREAM.  THEY TOLD ME THAT HITLER WAS SOMEHOW NOT ABLE TO DO SO BECAUSE OF THEIR INTERFIERENCE.  I REALLY DON'T KNOW WHETHER MY DREAM IS TRUE OR NOT BUT I AM SURE THAT UFOS DO REALLY EXIST! I AM NOT LYING.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80971.html](http://www.nuforc.org/webreports/reports/080/S80971.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in New York City (Staten Island) (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was sitting in my backyard And i saw a Big red fireball across the sky, my wife marge, and my dad, George were with me i was worried cuz i saw a lot of um  my sister counted but she cant count well and she said 89.  Then we got my binoculars and i saw this little guy with big ears smilin at me.  I got scared and now we are all iving together in our basement and I saw the light in a dream with the same little guy.  This is when i fugured I'd do some researched on my computer because im the edumacated one.  Thanx UFO SIte</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33100.html](http://www.nuforc.org/webreports/reports/033/S33100.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [343](http://www.nuforc.org/webreports/reports/165/S165241.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165790.html)
-- [341](http://www.nuforc.org/webreports/reports/165/S165231.html)
-- [340](http://www.nuforc.org/webreports/reports/165/S165236.html)
-- [339](http://www.nuforc.org/webreports/reports/165/S165562.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
